@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<GameData>
+	<EnglishText>
+		<!-- Ruleset -->
+		<Row Tag="LOC_CIV_ROYALE_RULESET_TITLE">
+			<Text>Red Death (Battle Royale)</Text>
+		</Row>
+		<Row Tag="LOC_CIV_ROYALE_MOD_DESCRIPTION">
+			<Text>Red Death (Battle Royale)</Text>
+		</Row>
+		<Row Tag="LOC_CIV_ROYALE_RULESET_TEASER">
+			<Text>Red Death is Civilization VI's spin on a Battle Royale mode. Play as survivors vying for the only ticket off a dying planet.</Text>
+		</Row>
+		<!-- Victories  -->
+		<Row Tag="LOC_CIV_ROYALE_VICTORY_TITLE">
+			<Text>Stand the Test of Royale</Text>
+		</Row>
+		<Row Tag="LOC_CIV_ROYALE_VICTORY_DESC">
+			<Text>Be the last faction standing.</Text>
+		</Row>
+		<!-- Cultist Civilization text -->
+		<Row Tag="LOC_LEADER_CIVROYALE_SCENARIO_CULTISTS_NAME">
+			<Text>Cultists</Text>
+			<Gender>Masculine:the</Gender>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_CULTISTS_NAME">
+			<Text>Cultists</Text>
+			<Gender>Masculine:the</Gender>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_CULTISTS_DESCRIPTION">
+			<Text>Deeply Invested Cultists</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_CULTISTS_ADJECTIVE">
+			<Text>Cultists</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_CULTISTS_ABILITY_NAME">
+			<Text>Observing The End</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_CULTISTS_ABILITY_DESCRIPTION">
+			<Text>All units have +3 sight.</Text>
+		</Row>
+
+		<!-- Edgelord Civilization text -->
+		<Row Tag="LOC_LEADER_CIVROYALE_SCENARIO_EDGELORDS_NAME">
+			<Text>Borderlords</Text>
+			<Gender>Masculine:the</Gender>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_EDGELORDS_NAME">
+			<Text>Borderlords</Text>
+			<Gender>Masculine:the</Gender>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_EDGELORDS_DESCRIPTION">
+			<Text>Very Goth Borderlords</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_EDGELORDS_ADJECTIVE">
+			<Text>Borderlords</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_EDGELORDS_ABILITY_NAME">
+			<Text>Living on the Edge</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_EDGELORDS_ABILITY_DESCRIPTION">
+			<Text>+10 [ICON_Strength] Combat Strength when 3 hexes or closer to the Safe Zone border.</Text>
+		</Row>
+
+		<!-- Jocks Civilization text -->
+		<Row Tag="LOC_LEADER_CIVROYALE_SCENARIO_JOCKS_NAME">
+			<Text>Jocks</Text>
+			<Gender>Masculine:the</Gender>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_JOCKS_NAME">
+			<Text>Jocks</Text>
+			<Gender>Masculine:the</Gender>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_JOCKS_DESCRIPTION">
+			<Text>Meanest Jocks</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_JOCKS_ADJECTIVE">
+			<Text>Jocks</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_JOCKS_ABILITY_NAME">
+			<Text>Witness Perfection</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_JOCKS_ABILITY_DESCRIPTION">
+			<Text>+5 [ICON_Strength] Combat Strength.</Text>
+		</Row>
+
+		<!-- Mutants Civilization text -->
+		<Row Tag="LOC_LEADER_CIVROYALE_SCENARIO_MUTANTS_NAME">
+			<Text>Mutants</Text>
+			<Gender>Masculine:the</Gender>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_NAME">
+			<Text>Mutants</Text>
+			<Gender>Masculine:the</Gender>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_DESCRIPTION">
+			<Text>Horribly Scarred Mutants</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_ADJECTIVE">
+			<Text>Mutants</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_WMD_RESIST_ABILITY_NAME">
+			<Text>Radiant Personalities</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_WMD_RESIST_ABILITY_DESCRIPTION">
+			<Text>-50% Red Death damage.</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_FALLOUT_MOVE_ABILITY_NAME">
+			<Text>Radioactive Movement</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_FALLOUT_MOVE_ABILITY_DESCRIPTION">
+			<Text>+3 [ICON_Movement] Movement for all units in the Red Death</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_FALLOUT_SPREAD_ABILITY_NAME">
+			<Text>Radiant Personalities</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_FALLOUT_SPREAD_ABILITY_DESCRIPTION">
+			<Text>Mutant units absorb 10 Radiation Charges per turn starting in the Red Death or WMD fallout. Mutant units spread Red Death to non-contaminated hexes once per Radiation Charge. Mutant units do not take damage from Red Death hexes they've created.</Text>
+		</Row>		
+
+		<!-- Preppers Civilization text -->
+		<Row Tag="LOC_LEADER_CIVROYALE_SCENARIO_PREPPERS_NAME">
+			<Text>Doomsday Preppers</Text>
+			<Gender>Masculine:the</Gender>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PREPPERS_NAME">
+			<Text>Preppers</Text>
+			<Gender>Masculine:the</Gender>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PREPPERS_DESCRIPTION">
+			<Text>Insane Doomsday Preppers</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PREPPERS_ADJECTIVE">
+			<Text>Preppers</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PREPPERS_ABILITY_NAME">
+			<Text>Always Prepare for the Worst</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PREPPERS_ABILITY_DESCRIPTION">
+			<Text>All units have +100% experience bonus.</Text>
+		</Row>
+
+		<!-- Pirates Civilization text -->
+		<Row Tag="LOC_LEADER_CIVROYALE_SCENARIO_PIRATES_NAME">
+			<Text>Pirates</Text>
+			<Gender>Masculine:the</Gender>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PIRATES_NAME">
+			<Text>Pirates</Text>
+			<Gender>Masculine:the</Gender>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PIRATES_DESCRIPTION">
+			<Text>Irradiated Pirates</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PIRATES_ADJECTIVE">
+			<Text>Pirates</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PIRATES_ABILITY_NAME">
+			<Text>Water Logged</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PIRATES_CIV_ABILITY_DESCRIPTION">
+			<Text>All units take 50% less water damage and ignore additional movement cost from embarking and disembarking.</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PIRATES_LEADER_ABILITY_DESCRIPTION">
+			<Text>No [ICON_Movement] Movement penalty when embarking and disembarking.</Text>
+		</Row>
+
+		<!-- Scientists Civilization text -->
+		<Row Tag="LOC_LEADER_CIVROYALE_SCENARIO_SCIENTISTS_NAME">
+			<Text>Mad Scientists</Text>
+			<Gender>Masculine:the</Gender>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_SCIENTISTS_NAME">
+			<Text>Mad Scientists</Text>
+			<Gender>Masculine:the</Gender>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_SCIENTISTS_DESCRIPTION">
+			<Text>Ethically Challenged Scientists</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_SCIENTISTS_ADJECTIVE">
+			<Text>Mad Scientists</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_SCIENTISTS_ABILITY_NAME">
+			<Text>This Will Only Hurt a Bit</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_SCIENTISTS_ABILITY_DESCRIPTION">
+			<Text>All units heal 2x faster.</Text>
+		</Row>
+
+		<!-- Wanderers Civilization text -->
+		<Row Tag="LOC_LEADER_CIVROYALE_SCENARIO_WANDERERS_NAME">
+			<Text>Wanderers</Text>
+			<Gender>Masculine:the</Gender>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_WANDERERS_NAME">
+			<Text>Wanderers</Text>
+			<Gender>Masculine:the</Gender>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_WANDERERS_DESCRIPTION">
+			<Text>Free Willed Wanderers</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_WANDERERS_ADJECTIVE">
+			<Text>Wanderers</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_WANDERERS_ABILITY_NAME">
+			<Text>See You Later</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_WANDERERS_ABILITY_DESCRIPTION">
+			<Text>Infantry and Machine Gunners, as well as Civilians in formation with them, have faster [ICON_Movement] Movement on Woods, Rainforest, and Hill terrain.</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_WANDERERS_ABILITY_DESCRIPTION_B">
+			<Text>All military units have faster [ICON_Movement] Movement on Woods, Rainforest, and Hill terrain.</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_WANDERERS_ABILITY_DESCRIPTION_C">
+			<Text>Civilians and non-mechanized units have faster [ICON_Movement] Movement on Woods, Rainforest, and Hill terrain.</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_WANDERERS_ABILITY_DESCRIPTION_D">
+			<Text>All non-mechanized units have faster [ICON_Movement] Movement on Woods, Rainforest, and Hill terrain.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

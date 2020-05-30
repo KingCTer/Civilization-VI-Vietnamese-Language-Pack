@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<Row Tag="LOC_INDONESIA_KHMER_MOD_TITLE">
+			<Text>DLC: Khmer and Indonesia Civilization Pack</Text>
+		</Row>
+		<Row Tag="LOC_INDONESIA_KHMER_MOD_TEASER">
+			<Text>New Civilizations and Leaders - Dyah Gitarja of Indonesia and Jayavarman VII of Khmer</Text>
+		</Row>
+		<Row Tag="LOC_INDONESIA_KHMER_MOD_DESCRIPTION">
+			<Text>Contains two new civilizations, two leaders, a world wonder, a natural wonder, and two maps.</Text>
+		</Row>
+		<Row Tag="LOC_MOD_INDONESIA_KHMER_SCENARIO_TITLE">
+			<Text>Scenario: Path to Nirvana</Text>
+		</Row>
+		<Row Tag="LOC_MOD_INDONESIA_KHMER_SCENARIO_TEASER">
+			<Text>Spread your faith across East Asia.</Text>
+		</Row>
+		<Row Tag="LOC_MOD_INDONESIA_KHMER_SCENARIO_DESCRIPTION">
+			<Text>The lands around the Indian Ocean flourish with many religions and many people. Heaven has chosen you to bring the light to all these lands. Is your faith up to the challenge? Can you convince the people of Southeast Asia to follow your religion?</Text>
+		</Row>
+	</EnglishText>
+</GameData>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<GameData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <BaseGameText>
+    <!-- Main menu text -->
+    <Row Tag="LOC_BENCHMARK_GRAPHICS">
+      <Text>Graphics</Text>
+    </Row>
+    <Row Tag="LOC_BENCHMARK_EXP2_GRAPHICS">
+      <Text>Gathering Storm Graphics</Text>
+    </Row>
+    <Row Tag="LOC_BENCHMARK_AI">
+      <Text>AI</Text>
+    </Row>
+    <Row Tag="LOC_BENCHMARK_EXP2_AI">
+      <Text>Gathering Storm AI</Text>
+    </Row>
+    <Row Tag="LOC_BENCHMARK_GRAPHICS_TT">
+      <Text>Measure graphics performance on your computer.</Text>
+    </Row>
+    <Row Tag="LOC_BENCHMARK_EXP2_GRAPHICS_TT">
+      <Text>A heavy benchmark to measure graphics performance on your computer.</Text>
+    </Row>
+    <Row Tag="LOC_BENCHMARK_AI_TT">
+      <Text>Measure AI and turn-processing performance on your computer.</Text>
+    </Row>
+    <Row Tag="LOC_BENCHMARK_EXP2_AI_TT">
+      <Text>A heavy benchmark to measure AI and turn-processing performance on your computer.</Text>
+    </Row>
+		<Row Tag="LOC_BENCHMARK_AI_TT_ERROR">
+			<Text>[COLOR_RED]The Aztec Civilization Pack must be enabled in order to perform this benchmark.[ENDCOLOR]</Text>
+		</Row>
+    <Row Tag="LOC_BENCHMARK_EXP2_AI_TT_ERROR">
+      <Text>[COLOR_RED]The Gathering Storm expansion must be enabled in order to perform this benchmark.[ENDCOLOR]</Text>
+    </Row>
+    <Row Tag="LOC_BENCHMARK_EXP2_GRAPHICS_TT_ERROR">
+      <Text>[COLOR_RED]The Gathering Storm expansion must be enabled in order to perform this benchmark.[ENDCOLOR]</Text>
+    </Row>
+
+    <!-- Benchmarking UI text -->
+    <Row Tag="LOC_BENCHMARK_TIME">
+      <Text>Time:</Text>
+    </Row>
+    <Row Tag="LOC_BENCHMARK_TURN">
+      <Text>Turn:</Text>
+    </Row>
+    <Row Tag="LOC_BENCHMARK_AVG_TURN_TIME">
+      <Text>Average Turn Time:</Text>
+    </Row>
+  </BaseGameText>
+</GameData>

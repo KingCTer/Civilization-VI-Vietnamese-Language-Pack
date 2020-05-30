@@ -1,0 +1,819 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <LocalizedText>
+    <Replace Tag="LOC_CIVILIZATION_NUBIA_SCENARIO_HYKSOS_NAME" Language="pt_BR">
+      <Text>Hicsia</Text>
+      <Gender>neutral</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_NUBIA_SCENARIO_LIBYANS_NAME" Language="pt_BR">
+      <Text>Líbia</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_NUBIA_SCENARIO_ASSYRIA_NAME" Language="pt_BR">
+      <Text>Assíria</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_NUBIA_SCENARIO_PERSIA_NAME" Language="pt_BR">
+      <Text>Pérsia</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_NUBIA_SCENARIO_MACEDON_NAME" Language="pt_BR">
+      <Text>Macedônia</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_NUBIA_SCENARIO_HYKSOS_NAME" Language="pt_BR">
+      <Text>Sakir-Har</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_NUBIA_SCENARIO_LIBYANS_NAME" Language="pt_BR">
+      <Text>Osorkon</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_NUBIA_SCENARIO_ASSYRIA_NAME" Language="pt_BR">
+      <Text>Assurbanípal</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_NUBIA_SCENARIO_PERSIA_NAME" Language="pt_BR">
+      <Text>Cambises II</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_NUBIA_SCENARIO_MACEDON_NAME" Language="pt_BR">
+      <Text>Alexandre</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_NUBIA_SCENARIO_ROME_NAME" Language="pt_BR">
+      <Text>César Augusto</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_NUBIA_SCENARIO_NAME" Language="pt_BR">
+      <Text>Dádivas do Nilo</Text>
+    </Replace>
+    <Replace Tag="LOC_NUBIA_SCENARIO_TOOLTIP" Language="pt_BR">
+      <Text>Um confronto para dois jogadores ao longo do rio Nilo entre o Egito e a Núbia. Dura no máximo 125 turnos.</Text>
+    </Replace>
+    <Replace Tag="LOC_NUBIA_SCENARIO_DESCRIPTION" Language="pt_BR">
+      <Text>O povo do Nilo considera o número 7 como sendo de muita sorte.[NEWLINE][NEWLINE]Ele é tanto um símbolo de perfeição...[NEWLINE][NEWLINE]... quanto um sinal de plenitude.[NEWLINE][NEWLINE]E assim será: o jogador que completar 7 Templos de Ámon antes do tempo acabar (125 turnos) terá direito à benevolência do deus e irá triunfar neste confronto entre os rivais do rio Nilo.[NEWLINE][NEWLINE][NEWLINE]REGRAS ESPECIAIS:[NEWLINE]— O Egito e a Núbia não podem declarar guerra um contra o outro até o turno 20.[NEWLINE]— Depois de declaradas, as guerras não podem ser terminadas.[NEWLINE]— Edificações de Locais Sagrados só podem ser compradas com [ICON_Faith] fé.</Text>
+    </Replace>
+    <Replace Tag="LOC_NUBIA_SCENARIO_MAP_NAME" Language="pt_BR">
+      <Text>Mapa da Núbia</Text>
+    </Replace>
+    <Replace Tag="LOC_NUBIA_SCENARIO_MAP_DESCRIPTION" Language="pt_BR">
+      <Text>Um mapa histórico da bacia do Nilo.</Text>
+    </Replace>
+    <Replace Tag="LOC_VICTORY_NUBIA_SCENARIO_NAME" Language="pt_BR">
+      <Text>Vitória em Dádivas do Nilo</Text>
+    </Replace>
+    <Replace Tag="LOC_VICTORY_NUBIA_SCENARIO_TT" Language="pt_BR">
+      <Text>Você consegue a vitória se for o primeiro a construir 7 templos para a glória do grande deus Ámon.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_NUBIA_SCENARIO_CIVILIZATION_ITERU_DESCRIPTION" Language="pt_BR">
+      <Text>+15% de [ICON_Production] produção para distritos e maravilhas se a cidade estiver adjacente a um painel de água. Várzeas não bloqueiam o posicionamento de distritos e maravilhas. Comece com as tecnologias de pesca e navegação. </Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_NUBIA_SCENARIO_CIVILIZATION_TA_SETI_DESCRIPTION" Language="pt_BR">
+      <Text>+50% de [ICON_Production] produção para unidades a distância. Todas as unidades a distância recebem promoções 50% mais rápido. Comece com tecnologia de mineração. Minas em recursos estratégicos concedem +1 de [ICON_Production] produção. Minas em recursos de luxo e bônus concedem +2 de [ICON_Gold] ouro.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_NUBIA_SCENARIO_HYKSOS_NAME" Language="fr_FR">
+      <Text>Hyksôs</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_NUBIA_SCENARIO_LIBYANS_NAME" Language="fr_FR">
+      <Text>Libye</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_NUBIA_SCENARIO_ASSYRIA_NAME" Language="fr_FR">
+      <Text>Assyrie</Text>
+      <Gender>feminine:vowel</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_NUBIA_SCENARIO_PERSIA_NAME" Language="fr_FR">
+      <Text>Perse</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_NUBIA_SCENARIO_MACEDON_NAME" Language="fr_FR">
+      <Text>Macédoine</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_NUBIA_SCENARIO_HYKSOS_NAME" Language="fr_FR">
+      <Text>Sakir-Har</Text>
+      <Gender>masculine:no_article</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_NUBIA_SCENARIO_LIBYANS_NAME" Language="fr_FR">
+      <Text>Osorkon</Text>
+      <Gender>masculine:no_article</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_NUBIA_SCENARIO_ASSYRIA_NAME" Language="fr_FR">
+      <Text>Assurbanipal</Text>
+      <Gender>masculine:no_article</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_NUBIA_SCENARIO_PERSIA_NAME" Language="fr_FR">
+      <Text>Cambyse II</Text>
+      <Gender>masculine:no_article</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_NUBIA_SCENARIO_MACEDON_NAME" Language="fr_FR">
+      <Text>Alexandre</Text>
+      <Gender>masculine:no_article</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_NUBIA_SCENARIO_ROME_NAME" Language="fr_FR">
+      <Text>Auguste</Text>
+      <Gender>masculine:no_article</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_NUBIA_SCENARIO_NAME" Language="fr_FR">
+      <Text>Dons du Nil</Text>
+    </Replace>
+    <Replace Tag="LOC_NUBIA_SCENARIO_TOOLTIP" Language="fr_FR">
+      <Text>Un affrontement entre deux joueurs le long du Nil entre l'Égypte et la Nubie. Durée maximale : 125 tours.</Text>
+    </Replace>
+    <Replace Tag="LOC_NUBIA_SCENARIO_DESCRIPTION" Language="fr_FR">
+      <Text>Pour les gens du Nil, le sept est un chiffre porte-bonheur. [NEWLINE][NEWLINE]C'est à la fois un symbole de perfection... [NEWLINE][NEWLINE]...et un signe de complétude. [NEWLINE][NEWLINE]Ainsi, le joueur qui le premier aura érigé sept temples d'Amon avant la fin du temps imparti (125 tours) recevra les faveurs du dieu et triomphera de ses rivaux du Nil. [NEWLINE][NEWLINE][NEWLINE]RÈGLES SPÉCIALES : [NEWLINE]- L'Égypte et la Nubie ne peuvent pas se déclarer la guerre avant le vingtième tour. [NEWLINE]- Une fois déclarée, il est impossible de mettre fin à une guerre. [NEWLINE]- Les bâtiments des lieux saints ne peuvent être achetés qu'avec de la [ICON_Faith] foi.</Text>
+    </Replace>
+    <Replace Tag="LOC_NUBIA_SCENARIO_MAP_NAME" Language="fr_FR">
+      <Text>Carte de Nubie</Text>
+    </Replace>
+    <Replace Tag="LOC_NUBIA_SCENARIO_MAP_DESCRIPTION" Language="fr_FR">
+      <Text>Une carte du bassin du Nil fidèle à l'Histoire.</Text>
+    </Replace>
+    <Replace Tag="LOC_VICTORY_NUBIA_SCENARIO_NAME" Language="fr_FR">
+      <Text>Victoire dans Dons du Nil</Text>
+    </Replace>
+    <Replace Tag="LOC_VICTORY_NUBIA_SCENARIO_TT" Language="fr_FR">
+      <Text>Pour remporter cette victoire, soyez le premier joueur à construire sept temples à la gloire du dieu Amon.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_NUBIA_SCENARIO_CIVILIZATION_ITERU_DESCRIPTION" Language="fr_FR">
+      <Text>[ICON_Production] Production +15 % pour les quartiers et merveilles si la ville est adjacente à une case d'eau. Les plaines inondables n'empêchent pas le placement de quartiers ou de merveilles. Vous commencez avec la pêche et la navigation à voile.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_NUBIA_SCENARIO_CIVILIZATION_TA_SETI_DESCRIPTION" Language="fr_FR">
+      <Text>[ICON_Production] Production +50 % pour les unités d'attaque à distance, qui voient leur expérience en combat augmenter de 50 %. Vous commencez la partie en ayant déjà découvert l'exploitation minière. Les mines construites sur des ressources stratégiques fournissent +1 unité de [ICON_Production] production, et celles sur des ressources bonus et de luxe +2 unités d'[ICON_Gold] or.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_NUBIA_SCENARIO_HYKSOS_NAME" Language="de_DE">
+      <Text>Hyksos|Hyksos|Hyksos|Hyksos'|Hyksos</Text>
+      <Gender>neuter:no_article</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_NUBIA_SCENARIO_LIBYANS_NAME" Language="de_DE">
+      <Text>Libyen|Libyen|Libyen|Libyens|Libyen</Text>
+      <Gender>neuter:no_article</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_NUBIA_SCENARIO_ASSYRIA_NAME" Language="de_DE">
+      <Text>Assyrien|Assyrien|Assyrien|Assyriens|Assyrien</Text>
+      <Gender>neuter:no_article</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_NUBIA_SCENARIO_PERSIA_NAME" Language="de_DE">
+      <Text>Persien|Persien|Persien|Persiens|Persien</Text>
+      <Gender>neuter:no_article</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_NUBIA_SCENARIO_MACEDON_NAME" Language="de_DE">
+      <Text>Makedonien|Makedonien|Makedonien|Makedoniens|Makedonien</Text>
+      <Gender>neuter:no_article</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_NUBIA_SCENARIO_HYKSOS_NAME" Language="de_DE">
+      <Text>Sakarher</Text>
+      <Gender>masculine:no_article</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_NUBIA_SCENARIO_LIBYANS_NAME" Language="de_DE">
+      <Text>Osorkon</Text>
+      <Gender>masculine:no_article</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_NUBIA_SCENARIO_ASSYRIA_NAME" Language="de_DE">
+      <Text>Assurbanipal</Text>
+      <Gender>masculine:no_article</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_NUBIA_SCENARIO_PERSIA_NAME" Language="de_DE">
+      <Text>Kambyses II.</Text>
+      <Gender>masculine:no_article</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_NUBIA_SCENARIO_MACEDON_NAME" Language="de_DE">
+      <Text>Alexander</Text>
+      <Gender>masculine:no_article</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_NUBIA_SCENARIO_ROME_NAME" Language="de_DE">
+      <Text>Augustus Cäsar</Text>
+      <Gender>masculine:no_article</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_NUBIA_SCENARIO_NAME" Language="de_DE">
+      <Text>Gaben des Nils</Text>
+    </Replace>
+    <Replace Tag="LOC_NUBIA_SCENARIO_TOOLTIP" Language="de_DE">
+      <Text>Kräftemessen zwischen zwei Spielern entlang des Nils zwischen Ägypten und Nubien. Läuft maximal 125 Runden.</Text>
+    </Replace>
+    <Replace Tag="LOC_NUBIA_SCENARIO_DESCRIPTION" Language="de_DE">
+      <Text>Die 7 ist für die Menschen am Nil eine extreme Glückszahl.[NEWLINE][NEWLINE]Sie ist ein Symbol der Perfektion ...[NEWLINE][NEWLINE]... und ein Zeichen der Erfüllung.[NEWLINE][NEWLINE]Darum wird der Spieler, der zuerst 7 Amuntempel fertigstellt, bevor die Zeit abgelaufen ist (125 Runden), die Gunst des Gottes erwerben und in diesem Wettkampf zwischen Rivalen am Nil triumphieren.[NEWLINE][NEWLINE][NEWLINE]SONDERREGELN:[NEWLINE]— Ägypten und Nubien können sich gegenseitig nicht den Krieg erklären bis Runde 20.[NEWLINE]— Sobald sie erklärt sind, können Kriege nicht mehr aufgehalten werden.[NEWLINE]— Heilige Stätten können nur mit [ICON_Faith] Glauben gekauft werden.</Text>
+    </Replace>
+    <Replace Tag="LOC_NUBIA_SCENARIO_MAP_NAME" Language="de_DE">
+      <Text>Nubien-Karte</Text>
+    </Replace>
+    <Replace Tag="LOC_NUBIA_SCENARIO_MAP_DESCRIPTION" Language="de_DE">
+      <Text>Eine historische Karte des Nilbeckens.</Text>
+    </Replace>
+    <Replace Tag="LOC_VICTORY_NUBIA_SCENARIO_NAME" Language="de_DE">
+      <Text>"Gaben des Nils"-Sieg</Text>
+    </Replace>
+    <Replace Tag="LOC_VICTORY_NUBIA_SCENARIO_TT" Language="de_DE">
+      <Text>Ihr erringt diesen Sieg, wenn Ihr als Erster 7 Tempel zu Ehren des großen Gottes Amun errichtet.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_NUBIA_SCENARIO_CIVILIZATION_ITERU_DESCRIPTION" Language="de_DE">
+      <Text>+15% [ICON_Production] Produktion für Bezirke und Wunder, wenn die Stadt an ein Wasser-Geländefeld angrenzt. Schwemmland blockiert die Platzierung von Bezirken und Wundern nicht. Startet mit den Technologien Fischen und Segeln.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_NUBIA_SCENARIO_CIVILIZATION_TA_SETI_DESCRIPTION" Language="de_DE">
+      <Text>+50% [ICON_Production] Produktion für Fernkampfeinheiten. Alle Fernkampfeinheiten erhalten +50% Kampferfahrung. Startet mit der Technologie Bergbau. Minen auf strategischen Ressourcen liefern +1 [ICON_Production] Produktion. Minen auf Bonus-Ressourcen und Luxusgütern liefern +2 [ICON_Gold] Gold.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_NUBIA_SCENARIO_HYKSOS_NAME" Language="it_IT">
+      <Text>Hyksos|degli Hyksos|agli Hyksos|gli Hyksos|dagli Hyksos</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_NUBIA_SCENARIO_LIBYANS_NAME" Language="it_IT">
+      <Text>Libia|della Libia|alla Libia|la Libia|dalla Libia</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_NUBIA_SCENARIO_ASSYRIA_NAME" Language="it_IT">
+      <Text>Assiria|dell'Assiria|all'Assiria|l'Assiria|dall'Assiria</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_NUBIA_SCENARIO_PERSIA_NAME" Language="it_IT">
+      <Text>Persia|della Persia|alla Persia|la Persia|dalla Persia</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_NUBIA_SCENARIO_MACEDON_NAME" Language="it_IT">
+      <Text>Macedonia|della Macedonia|alla Macedonia|la Macedonia|dalla Macedonia</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_NUBIA_SCENARIO_HYKSOS_NAME" Language="it_IT">
+      <Text>Sakir-Har|di Sakir-Har|a Sakir-Har|Sakir-Har|da Sakir-Har</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_NUBIA_SCENARIO_LIBYANS_NAME" Language="it_IT">
+      <Text>Osorkon|di Osorkon|a Osorkon|Osorkon|da Osorkon</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_NUBIA_SCENARIO_ASSYRIA_NAME" Language="it_IT">
+      <Text>Assurbanipal|di Assurbanipal|ad Assurbanipal|Assurbanipal|da Assurbanipal</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_NUBIA_SCENARIO_PERSIA_NAME" Language="it_IT">
+      <Text>Cambise II|di Cambise II|a Cambise II|Cambise II|da Cambise II</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_NUBIA_SCENARIO_MACEDON_NAME" Language="it_IT">
+      <Text>Alessandro|di Alessandro|ad Alessandro|Alessandro|da Alessandro</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_NUBIA_SCENARIO_ROME_NAME" Language="it_IT">
+      <Text>Cesare Augusto|di Cesare Augusto|a Cesare Augusto|Cesare Augusto|da Cesare Augusto</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_NUBIA_SCENARIO_NAME" Language="it_IT">
+      <Text>I doni del Nilo</Text>
+    </Replace>
+    <Replace Tag="LOC_NUBIA_SCENARIO_TOOLTIP" Language="it_IT">
+      <Text>Una sfida tra due giocatori, Egitto e Nubia, lungo il corso del Nilo. Durata massima 125 turni.</Text>
+    </Replace>
+    <Replace Tag="LOC_NUBIA_SCENARIO_DESCRIPTION" Language="it_IT">
+      <Text>7 è un numero estremamente fortunato per i popoli del Nilo.[NEWLINE][NEWLINE]È un simbolo di perfezione...[NEWLINE][NEWLINE]...e di completezza.[NEWLINE][NEWLINE]Così, il giocatore che completerà 7 Templi di Amon prima che il tempo si esaurisca (in 125 turni) guadagnerà il favore del dio e trionferà in questa sfida tra popoli rivali lungo il fiume Nilo.[NEWLINE][NEWLINE][NEWLINE]REGOLE SPECIALI:[NEWLINE]- Egitto e Nubia non possono dichiararsi guerra fino al turno 20.[NEWLINE]- Una volta dichiarata, una guerra non può terminare. [NEWLINE]— Gli edifici di un Luogo Santo possono essere acquistati solamente con [ICON_Faith] Fede.</Text>
+    </Replace>
+    <Replace Tag="LOC_NUBIA_SCENARIO_MAP_NAME" Language="it_IT">
+      <Text>Mappa nubiana</Text>
+    </Replace>
+    <Replace Tag="LOC_NUBIA_SCENARIO_MAP_DESCRIPTION" Language="it_IT">
+      <Text>Una mappa storica del bacino del Nilo.</Text>
+    </Replace>
+    <Replace Tag="LOC_VICTORY_NUBIA_SCENARIO_NAME" Language="it_IT">
+      <Text>I doni del Nilo: Vittoria</Text>
+    </Replace>
+    <Replace Tag="LOC_VICTORY_NUBIA_SCENARIO_TT" Language="it_IT">
+      <Text>Per ottenere questa vittoria devi essere il primo giocatore a costruire 7 Templi per la gloria del grande dio Amon.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_NUBIA_SCENARIO_CIVILIZATION_ITERU_DESCRIPTION" Language="it_IT">
+      <Text>+15% alla [ICON_PRODUCTION] Produzione per la costruzione di distretti e Meraviglie se la città è adiacente a una casella acquatica. I terreni allagati non bloccano il piazzamento di distretti e Meraviglie. Le tecnologie Pesca e Vela sono disponibili dall'inizio della partita. </Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_NUBIA_SCENARIO_CIVILIZATION_TA_SETI_DESCRIPTION" Language="it_IT">
+      <Text>+50% alla [ICON_Production] Produzione per la costruzione di unità che attaccano a distanza. Tutte le unità che attaccano a distanza guadagnano il 50% di esperienza in più. La tecnologia Estrazione mineraria è disponibile dall'inizio della partita. Le miniere costruite su risorse strategiche forniscono +1 [ICON_Production] Produzione. Le miniere costruite su risorse bonus e di lusso forniscono +2 [ICON_Gold] Oro.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_NUBIA_SCENARIO_HYKSOS_NAME" Language="ja_JP">
+      <Text>ヒクソス</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_NUBIA_SCENARIO_LIBYANS_NAME" Language="ja_JP">
+      <Text>リビュア</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_NUBIA_SCENARIO_ASSYRIA_NAME" Language="ja_JP">
+      <Text>アッシリア</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_NUBIA_SCENARIO_PERSIA_NAME" Language="ja_JP">
+      <Text>ペルシア</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_NUBIA_SCENARIO_MACEDON_NAME" Language="ja_JP">
+      <Text>マケドニア</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_NUBIA_SCENARIO_HYKSOS_NAME" Language="ja_JP">
+      <Text>サキル・ハー</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_NUBIA_SCENARIO_LIBYANS_NAME" Language="ja_JP">
+      <Text>オソルコン</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_NUBIA_SCENARIO_ASSYRIA_NAME" Language="ja_JP">
+      <Text>アッシュールバニパル</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_NUBIA_SCENARIO_PERSIA_NAME" Language="ja_JP">
+      <Text>カンビュセス2世</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_NUBIA_SCENARIO_MACEDON_NAME" Language="ja_JP">
+      <Text>アレキサンドロス</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_NUBIA_SCENARIO_ROME_NAME" Language="ja_JP">
+      <Text>アウグストゥス・カエサル</Text>
+    </Replace>
+    <Replace Tag="LOC_NUBIA_SCENARIO_NAME" Language="ja_JP">
+      <Text>ナイルの恵み</Text>
+    </Replace>
+    <Replace Tag="LOC_NUBIA_SCENARIO_TOOLTIP" Language="ja_JP">
+      <Text>ナイル川流域を舞台に、エジプトとヌビアの間で戦いが繰り広げられる、2人用のシナリオです。125ターンで終了します。</Text>
+    </Replace>
+    <Replace Tag="LOC_NUBIA_SCENARIO_DESCRIPTION" Language="ja_JP">
+      <Text>ナイルの民にとって7は幸運を呼ぶ数字。[NEWLINE][NEWLINE]この数字は完全の象徴であり…[NEWLINE][NEWLINE]…完成を示す数字でもあります。[NEWLINE][NEWLINE]そのため、ナイル川周辺地域のライバルたちと繰り広げられるこの戦いでは、時間切れ (125ターン) 前にアムン神殿を7つ建てたプレイヤーが神の恩寵と勝利を手にします。[NEWLINE][NEWLINE][NEWLINE]特別ルール:[NEWLINE]- エジプトとヌビアは第20ターンまで互いに対して宣戦布告できません。[NEWLINE]- 一度宣戦布告した戦争は終わらせられません。[NEWLINE]- 聖地の建造物は [ICON_Faith] 信仰力によってのみ購入できます。</Text>
+    </Replace>
+    <Replace Tag="LOC_NUBIA_SCENARIO_MAP_NAME" Language="ja_JP">
+      <Text>「ヌビア」マップ</Text>
+    </Replace>
+    <Replace Tag="LOC_NUBIA_SCENARIO_MAP_DESCRIPTION" Language="ja_JP">
+      <Text>ナイル川の流域を舞台とする、史実に基づいたマップです。</Text>
+    </Replace>
+    <Replace Tag="LOC_VICTORY_NUBIA_SCENARIO_NAME" Language="ja_JP">
+      <Text>「ナイルの恵み」の勝利</Text>
+    </Replace>
+    <Replace Tag="LOC_VICTORY_NUBIA_SCENARIO_TT" Language="ja_JP">
+      <Text>偉大なる主神アムンを祀る7つの神殿を最初に完成させれば勝利です。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_NUBIA_SCENARIO_CIVILIZATION_ITERU_DESCRIPTION" Language="ja_JP">
+      <Text>都市が水域タイルに隣接している場合、区域と遺産に対する [ICON_Production] 生産力+15%。氾濫原にも区域と遺産を築ける。「漁業」と「帆走術」の技術によって開始できる。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_NUBIA_SCENARIO_CIVILIZATION_TA_SETI_DESCRIPTION" Language="ja_JP">
+      <Text>長距離戦闘ユニットの [ICON_Production] 生産力+50%。すべての長距離戦闘ユニットは戦闘経験値+50%。「採鉱」の技術によって開始できる。戦略資源の鉱山の [ICON_Production] 生産力+1。ボーナス資源と高級資源の鉱山の [ICON_Gold] ゴールド+2。</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_NUBIA_SCENARIO_HYKSOS_NAME" Language="ko_KR">
+      <Text>힉소스</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_NUBIA_SCENARIO_LIBYANS_NAME" Language="ko_KR">
+      <Text>리비아</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_NUBIA_SCENARIO_ASSYRIA_NAME" Language="ko_KR">
+      <Text>아시리아</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_NUBIA_SCENARIO_PERSIA_NAME" Language="ko_KR">
+      <Text>페르시아</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_NUBIA_SCENARIO_MACEDON_NAME" Language="ko_KR">
+      <Text>마케도니아</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_NUBIA_SCENARIO_HYKSOS_NAME" Language="ko_KR">
+      <Text>사키르-하르</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_NUBIA_SCENARIO_LIBYANS_NAME" Language="ko_KR">
+      <Text>오소르콘</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_NUBIA_SCENARIO_ASSYRIA_NAME" Language="ko_KR">
+      <Text>아슈르바니팔</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_NUBIA_SCENARIO_PERSIA_NAME" Language="ko_KR">
+      <Text>캄비세스 2세</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_NUBIA_SCENARIO_MACEDON_NAME" Language="ko_KR">
+      <Text>알렉산더</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_NUBIA_SCENARIO_ROME_NAME" Language="ko_KR">
+      <Text>아우구스투스 카이사르</Text>
+    </Replace>
+    <Replace Tag="LOC_NUBIA_SCENARIO_NAME" Language="ko_KR">
+      <Text>나일 강의 선물</Text>
+    </Replace>
+    <Replace Tag="LOC_NUBIA_SCENARIO_TOOLTIP" Language="ko_KR">
+      <Text>이집트와 누비아 사이 나일 강가를 따라 벌어지는 플레이어 2명 간의 결전입니다. 최대 125턴 제한.</Text>
+    </Replace>
+    <Replace Tag="LOC_NUBIA_SCENARIO_DESCRIPTION" Language="ko_KR">
+      <Text>나일 강가 주민들은 7을 행운의 숫자로 생각합니다.[NEWLINE][NEWLINE]7은 완벽의 상징이자...[NEWLINE][NEWLINE]...완전함을 나타냅니다.[NEWLINE][NEWLINE]따라서 주어진 시간(125턴)이 경과하기 전에 아문 신전 7개를 짓는 플레이어는 신의 가호를 받아 나일 강 지역의 경쟁자들을 상대로 한 결전에서 승리하게 됩니다.[NEWLINE][NEWLINE][NEWLINE]특별 규칙:[NEWLINE]— 이집트와 누비아는 20턴 전에 서로에게 전쟁을 선포할 수 없습니다.[NEWLINE]— 선포된 전쟁은 중단될 수 없습니다.[NEWLINE]— 성지 건물은 [ICON_Faith] 신앙으로만 구매할 수 있습니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_NUBIA_SCENARIO_MAP_NAME" Language="ko_KR">
+      <Text>누비아 지도</Text>
+    </Replace>
+    <Replace Tag="LOC_NUBIA_SCENARIO_MAP_DESCRIPTION" Language="ko_KR">
+      <Text>나일 강 유역의 역사적 지도입니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_VICTORY_NUBIA_SCENARIO_NAME" Language="ko_KR">
+      <Text>나일 강의 선물 승리</Text>
+    </Replace>
+    <Replace Tag="LOC_VICTORY_NUBIA_SCENARIO_TT" Language="ko_KR">
+      <Text>위대한 신 아문을 찬양하는 신전 7개를 가장 먼저 지으면 승리합니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_NUBIA_SCENARIO_CIVILIZATION_ITERU_DESCRIPTION" Language="ko_KR">
+      <Text>도시를 물 타일 옆에 배치할 경우 특수지구와 불가사의의 건설에 대한 [ICON_Production] 생산력 +15%를 제공합니다. 범람원은 특수지구 및 불가사의 배치를 방해하지 않습니다. 낚시 및 항해 기술을 가지고 시작합니다. </Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_NUBIA_SCENARIO_CIVILIZATION_TA_SETI_DESCRIPTION" Language="ko_KR">
+      <Text>원거리 유닛 생성 시 +50%의 [ICON_Production] 생산력을 받습니다. 모든 원거리 유닛이 +50%의 전투 경험치를 획득합니다. 채광 기술을 가지고 시작합니다. 전략 자원 위에 있는 광산에서 [ICON_Production] 생산력 +1을 제공합니다. 보너스 자원과 사치 자원 위에 있는 광산에서 [ICON_Gold] 금 +2를 제공합니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_NUBIA_SCENARIO_HYKSOS_NAME" Language="pl_PL">
+      <Text>Hyksos|Hyksosu|Hyksosowi|Hyksos|Hyksosem|Hyksosie|Hyksos|Hyksosu|Hyksosowi|Hyksos|Hyksosem|Hyksosie</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_NUBIA_SCENARIO_LIBYANS_NAME" Language="pl_PL">
+      <Text>Libia|Libii|Libii|Libię|Libią|Libii|Libia|Libii|Libii|Libię|Libią|Libii</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_NUBIA_SCENARIO_ASSYRIA_NAME" Language="pl_PL">
+      <Text>Asyria|Asyrii|Asyrii|Asyrię|Asyrią|Asyrii|Asyria|Asyrii|Asyrii|Asyrię|Asyrią|Asyrii</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_NUBIA_SCENARIO_PERSIA_NAME" Language="pl_PL">
+      <Text>Persja|Persji|Persji|Persję|Persją|Persji|Persja|Persji|Persji|Persję|Persją|Persji</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_NUBIA_SCENARIO_MACEDON_NAME" Language="pl_PL">
+      <Text>Macedonia|Macedonii|Macedonii|Macedonię|Macedonią|Macedonii|Macedonia|Macedonii|Macedonii|Macedonię|Macedonią|Macedonii</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_NUBIA_SCENARIO_HYKSOS_NAME" Language="pl_PL">
+      <Text>Sakir-Har|Sakir-Hara|Sakir-Harowi|Sakir-Har|Sakir-Harem|Sakir-Harze|Sakir-Har|Sakir-Hara|Sakir-Harowi|Sakir-Har|Sakir-Harem|Sakir-Harze</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_NUBIA_SCENARIO_LIBYANS_NAME" Language="pl_PL">
+      <Text>Osorkon|Osorkona|Osorkonowi|Osorkona|Osorkonem|Osorkonie|Osorkon|Osorkona|Osorkonowi|Osorkona|Osorkonem|Osorkonie</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_NUBIA_SCENARIO_ASSYRIA_NAME" Language="pl_PL">
+      <Text>Aszurbanipal|Aszurbanipala|Aszurbanipalowi|Aszurbanipala|Aszurbanipalem|Aszurbanipalu|Aszurbanipal|Aszurbanipala|Aszurbanipalowi|Aszurbanipala|Aszurbanipalem|Aszurbanipalu</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_NUBIA_SCENARIO_PERSIA_NAME" Language="pl_PL">
+      <Text>Kambyzes II|Kambyzesa II|Kambyzesowi II|Kambyzesa II|Kambyzesem II|Kambyzesie II|Kambyzes II|Kambyzesa II|Kambyzesowi II|Kambyzesa II|Kambyzesem II|Kambyzesie II</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_NUBIA_SCENARIO_MACEDON_NAME" Language="pl_PL">
+      <Text>Aleksander|Aleksandra|Aleksandrowi|Aleksandra|Aleksandrem|Aleksandrze|Aleksander|Aleksandra|Aleksandrowi|Aleksandra|Aleksandrem|Aleksandrze</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_NUBIA_SCENARIO_ROME_NAME" Language="pl_PL">
+      <Text>Oktawian August|Oktawiana Augusta|Oktawianowi Augustowi|Oktawiana Augusta|Oktawianem Augustem|Oktawianie Auguście|Oktawian August|Oktawiana Augusta|Oktawianowi Augustowi|Oktawiana Augusta|Oktawianem Augustem|Oktawianie Auguście</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_NUBIA_SCENARIO_NAME" Language="pl_PL">
+      <Text>Dary Nilu</Text>
+    </Replace>
+    <Replace Tag="LOC_NUBIA_SCENARIO_TOOLTIP" Language="pl_PL">
+      <Text>Starcie dwóch graczy w dorzeczu Nilu między Egiptem i Nubią. Trwa nie więcej niż 125 tur.</Text>
+    </Replace>
+    <Replace Tag="LOC_NUBIA_SCENARIO_DESCRIPTION" Language="pl_PL">
+      <Text>Mieszkańcy doliny Nilu uważają 7 za szczęśliwą liczbę.[NEWLINE][NEWLINE]Jest ona symbolem zarówno doskonałości...[NEWLINE][NEWLINE]...jak i znakiem pełni.[NEWLINE][NEWLINE]Gracz, który jako pierwszy wzniesie 7 świątyń Amona, nim minie czas (125 tur), zyska przychylność boga i zatriumfuje w starciu o władzę nad Nilem.[NEWLINE][NEWLINE][NEWLINE]ZASADY SPECJALNE:[NEWLINE]– Egipt i Nubia nie mogą wypowiedzieć sobie wojny przed nastaniem 20 tury.[NEWLINE]– Wypowiedzianej wojny nie da się zakończyć.[NEWLINE]– Budowle dzielnicy świątynnej można wznieść, płacąc wyłącznie [ICON_Faith] wiarą.</Text>
+    </Replace>
+    <Replace Tag="LOC_NUBIA_SCENARIO_MAP_NAME" Language="pl_PL">
+      <Text>Mapa Nubii</Text>
+    </Replace>
+    <Replace Tag="LOC_NUBIA_SCENARIO_MAP_DESCRIPTION" Language="pl_PL">
+      <Text>Historyczna mapa dorzecza Nilu.</Text>
+    </Replace>
+    <Replace Tag="LOC_VICTORY_NUBIA_SCENARIO_NAME" Language="pl_PL">
+      <Text>Dary Nilu – zwycięstwo</Text>
+    </Replace>
+    <Replace Tag="LOC_VICTORY_NUBIA_SCENARIO_TT" Language="pl_PL">
+      <Text>Osiągniesz zwycięstwo, gdy uda ci się wyprzedzić konkurentów i zbudować 7 świątyń ku czci wielkiego boga Amona.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_NUBIA_SCENARIO_CIVILIZATION_ITERU_DESCRIPTION" Language="pl_PL">
+      <Text>+15% do [ICON_Production] produkcji dzielnic i cudów, gdy miasto znajduje się w sąsiedztwie pola z wodą. Równiny zalewowe nie blokują budowy dzielnic i cudów. Rozpoczyna z technologiami rybołówstwa i żeglugi. </Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_NUBIA_SCENARIO_CIVILIZATION_TA_SETI_DESCRIPTION" Language="pl_PL">
+      <Text>+50% do [ICON_Production] produkcji jednostek dystansowych. Wszystkie jednostki dystansowe otrzymują o +50% więcej doświadczenia bojowego. Rozpoczyna z opracowaną technologią górnictwa. Kopalnie na zasobach strategicznych dają +1 do [ICON_Production] produkcji. Kopalnie na zasobach luksusowych dają +2 [ICON_Gold] złota.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_NUBIA_SCENARIO_HYKSOS_NAME" Language="ru_RU">
+      <Text>Гиксосы|гиксосов|гиксосам|гиксосов|гиксосами|гиксосах</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_NUBIA_SCENARIO_LIBYANS_NAME" Language="ru_RU">
+      <Text>Ливия|Ливии|Ливии|Ливию|Ливией|Ливии</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_NUBIA_SCENARIO_ASSYRIA_NAME" Language="ru_RU">
+      <Text>Ассирия|Ассирии|Ассирии|Ассирию|Ассирией|Ассирии</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_NUBIA_SCENARIO_PERSIA_NAME" Language="ru_RU">
+      <Text>Персия|Персии|Персии|Персию|Персией|Персии</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_NUBIA_SCENARIO_MACEDON_NAME" Language="ru_RU">
+      <Text>Македония|Македонии|Македонии|Македонию|Македонией|Македонии</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_NUBIA_SCENARIO_HYKSOS_NAME" Language="ru_RU">
+      <Text>Сокархер|Сокархера|Сокархеру|Сокархера|Сокархером|Сокархере</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_NUBIA_SCENARIO_LIBYANS_NAME" Language="ru_RU">
+      <Text>Осоркон|Осоркона|Осоркону|Осоркона|Осорконом|Осорконе</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_NUBIA_SCENARIO_ASSYRIA_NAME" Language="ru_RU">
+      <Text>Ашшурбанапал|Ашшурбанапала|Ашшурбанапалу|Ашшурбанапала|Ашшурбанапалом|Ашшурбанапале</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_NUBIA_SCENARIO_PERSIA_NAME" Language="ru_RU">
+      <Text>Камбис II|Камбиса ІІ|Камбису ІІ|Камбиса ІІ|Камбисом ІІ|Камбисе ІІ</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_NUBIA_SCENARIO_MACEDON_NAME" Language="ru_RU">
+      <Text>Александр|Александра|Александру|Александра|Александром|Александре</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_NUBIA_SCENARIO_ROME_NAME" Language="ru_RU">
+      <Text>Октавиан Август|Октавиана Августа|Октавиану Августу|Октавиана Августа|Октавианом Августом|Октавиане Августе</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_NUBIA_SCENARIO_NAME" Language="ru_RU">
+      <Text>Дары Нила</Text>
+    </Replace>
+    <Replace Tag="LOC_NUBIA_SCENARIO_TOOLTIP" Language="ru_RU">
+      <Text>Схватка на берегах Нила между Египтом и Нубией. Длительность: до 125 ходов.</Text>
+    </Replace>
+    <Replace Tag="LOC_NUBIA_SCENARIO_DESCRIPTION" Language="ru_RU">
+      <Text>Жители долины Нила считают семерку самым счастливым числом.[NEWLINE][NEWLINE]И символом совершенства...[NEWLINE][NEWLINE]...и знаком цельности.[NEWLINE][NEWLINE]Поэтому тот игрок, который построит 7 храмов Амона за отведенное время (125 ходов), заслужит благосклонность божества и победит в схватке за власть над Нилом.[NEWLINE][NEWLINE][NEWLINE]ОСОБЫЕ ПРАВИЛА:[NEWLINE]— Египет и Нубия не могут объявить друг другу войну до 20-го хода.[NEWLINE]— Объявленные войны нельзя прекратить.[NEWLINE]— В священном месте здания можно приобрести только за [ICON_Faith] веру.</Text>
+    </Replace>
+    <Replace Tag="LOC_NUBIA_SCENARIO_MAP_NAME" Language="ru_RU">
+      <Text>Карта Нубии</Text>
+    </Replace>
+    <Replace Tag="LOC_NUBIA_SCENARIO_MAP_DESCRIPTION" Language="ru_RU">
+      <Text>Историческая карта бассейна Нила.</Text>
+    </Replace>
+    <Replace Tag="LOC_VICTORY_NUBIA_SCENARIO_NAME" Language="ru_RU">
+      <Text>Победа в сценарии «Дары Нила»</Text>
+    </Replace>
+    <Replace Tag="LOC_VICTORY_NUBIA_SCENARIO_TT" Language="ru_RU">
+      <Text>Для победы вам нужно первым из игроков построить 7 храмов великого Амона.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_NUBIA_SCENARIO_CIVILIZATION_ITERU_DESCRIPTION" Language="ru_RU">
+      <Text>+15% [ICON_Production] производства при строительстве районов и чудес света возле клеток с водой. Речные поймы не препятствуют строительству районов и чудес света. На начало игры уже изучены рыболовство и мореходство.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_NUBIA_SCENARIO_CIVILIZATION_TA_SETI_DESCRIPTION" Language="ru_RU">
+      <Text>+50% [ICON_Production] производства при создании юнитов дальнего боя. Все дальнобойные юниты получают +50% к боевому опыту. На момент начала игры уже изучено горное дело. Рудники на стратегических ресурсах дают +1 [ICON_Production] продукции. Рудники на бонусных и редких ресурсах дают +2 [ICON_Gold] золота.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_NUBIA_SCENARIO_HYKSOS_NAME" Language="zh_Hans_CN">
+      <Text>希克索斯</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_NUBIA_SCENARIO_LIBYANS_NAME" Language="zh_Hans_CN">
+      <Text>利比亚</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_NUBIA_SCENARIO_ASSYRIA_NAME" Language="zh_Hans_CN">
+      <Text>亚述</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_NUBIA_SCENARIO_PERSIA_NAME" Language="zh_Hans_CN">
+      <Text>波斯</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_NUBIA_SCENARIO_MACEDON_NAME" Language="zh_Hans_CN">
+      <Text>马其顿</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_NUBIA_SCENARIO_HYKSOS_NAME" Language="zh_Hans_CN">
+      <Text>雅库布赫</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_NUBIA_SCENARIO_LIBYANS_NAME" Language="zh_Hans_CN">
+      <Text>奥索尔孔</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_NUBIA_SCENARIO_ASSYRIA_NAME" Language="zh_Hans_CN">
+      <Text>亚述巴尼帕</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_NUBIA_SCENARIO_PERSIA_NAME" Language="zh_Hans_CN">
+      <Text>冈比西斯二世</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_NUBIA_SCENARIO_MACEDON_NAME" Language="zh_Hans_CN">
+      <Text>亚历山大</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_NUBIA_SCENARIO_ROME_NAME" Language="zh_Hans_CN">
+      <Text>奥古斯都·凯撒</Text>
+    </Replace>
+    <Replace Tag="LOC_NUBIA_SCENARIO_NAME" Language="zh_Hans_CN">
+      <Text>尼罗河的赠礼</Text>
+    </Replace>
+    <Replace Tag="LOC_NUBIA_SCENARIO_TOOLTIP" Language="zh_Hans_CN">
+      <Text>两名玩家沿埃及和努比亚之间的尼罗河对决。持续时间不超过125回合。</Text>
+    </Replace>
+    <Replace Tag="LOC_NUBIA_SCENARIO_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>7在尼罗河人心中是极为幸运的数字。[NEWLINE][NEWLINE]它既是完美的象征…[NEWLINE][NEWLINE]也是完整的一种体现。[NEWLINE][NEWLINE]因此，在时间限制内（125回合）先建成7座阿蒙神庙的玩家将得到神的眷顾，并在尼罗河的对决中旗开得胜。[NEWLINE][NEWLINE][NEWLINE]特殊规则：[NEWLINE]——在第20回合之前，埃及和努比亚之间无法宣战。[NEWLINE]——一旦宣战，战争将永不终止。[NEWLINE]——圣地建筑只能使用 [ICON_Faith] 信仰值进行购买。</Text>
+    </Replace>
+    <Replace Tag="LOC_NUBIA_SCENARIO_MAP_NAME" Language="zh_Hans_CN">
+      <Text>努比亚地图</Text>
+    </Replace>
+    <Replace Tag="LOC_NUBIA_SCENARIO_MAP_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>尼罗河盆地真实历史地图。</Text>
+    </Replace>
+    <Replace Tag="LOC_VICTORY_NUBIA_SCENARIO_NAME" Language="zh_Hans_CN">
+      <Text>“尼罗河的赠礼”胜利</Text>
+    </Replace>
+    <Replace Tag="LOC_VICTORY_NUBIA_SCENARIO_TT" Language="zh_Hans_CN">
+      <Text>首先建成7座神庙供奉伟大阿蒙神后便可获得胜利。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_NUBIA_SCENARIO_CIVILIZATION_ITERU_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>如果城市与水域单元格相邻，区域和奇观+15% [ICON_Production] 生产力。泛滥平原不会阻碍区域和奇观的放置。拥有捕鱼和航海术科技后触发。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_NUBIA_SCENARIO_CIVILIZATION_TA_SETI_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>远程单位+50% [ICON_Production] 生产力。所有远程单位战斗经验值+50%。拥有采矿业科技后触发。战略资源矿产+1 [ICON_Production] 生产力。加成和奢侈品资源矿产+2 [ICON_Gold] 金币。</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_NUBIA_SCENARIO_HYKSOS_NAME" Language="es_ES">
+      <Text>Hicsia</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_NUBIA_SCENARIO_LIBYANS_NAME" Language="es_ES">
+      <Text>Libia</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_NUBIA_SCENARIO_ASSYRIA_NAME" Language="es_ES">
+      <Text>Asiria</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_NUBIA_SCENARIO_PERSIA_NAME" Language="es_ES">
+      <Text>Persia</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_NUBIA_SCENARIO_MACEDON_NAME" Language="es_ES">
+      <Text>Macedonia</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_NUBIA_SCENARIO_HYKSOS_NAME" Language="es_ES">
+      <Text>Sakir-Har</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_NUBIA_SCENARIO_LIBYANS_NAME" Language="es_ES">
+      <Text>Osorkon</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_NUBIA_SCENARIO_ASSYRIA_NAME" Language="es_ES">
+      <Text>Asurbanipal</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_NUBIA_SCENARIO_PERSIA_NAME" Language="es_ES">
+      <Text>Cambises II</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_NUBIA_SCENARIO_MACEDON_NAME" Language="es_ES">
+      <Text>Alejandro</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_NUBIA_SCENARIO_ROME_NAME" Language="es_ES">
+      <Text>César Augusto</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_NUBIA_SCENARIO_NAME" Language="es_ES">
+      <Text>Regalos del Nilo</Text>
+    </Replace>
+    <Replace Tag="LOC_NUBIA_SCENARIO_TOOLTIP" Language="es_ES">
+      <Text>Enfrentamiento entre Egipto y Nubia para dos jugadores en el río Nilo. No durará más de 125 turnos.</Text>
+    </Replace>
+    <Replace Tag="LOC_NUBIA_SCENARIO_DESCRIPTION" Language="es_ES">
+      <Text>El pueblo del Nilo considera el siete su número de la suerte.[NEWLINE][NEWLINE]Es un símbolo de perfección...[NEWLINE][NEWLINE]... y de plenitud.[NEWLINE][NEWLINE]Y así será: el primer jugador que complete siete templos dedicados a Amón antes de que acabe el tiempo (125 turnos) se ganará el favor de los dioses y triunfará en este enfrentamiento entre rivales del Nilo.[NEWLINE][NEWLINE][NEWLINE]REGLAS ESPECIALES:[NEWLINE]— Egipto y Nubia no se pueden declarar la guerra hasta el turno 20.[NEWLINE]— Una vez declaradas, no se podrá poner fin a las guerras.[NEWLINE]— Los edificios de Lugares sagrados solo pueden adquirirse con Fe [ICON_Faith].</Text>
+    </Replace>
+    <Replace Tag="LOC_NUBIA_SCENARIO_MAP_NAME" Language="es_ES">
+      <Text>Mapa de Nubia</Text>
+    </Replace>
+    <Replace Tag="LOC_NUBIA_SCENARIO_MAP_DESCRIPTION" Language="es_ES">
+      <Text>Un mapa histórico de la cuenca del Nilo.</Text>
+    </Replace>
+    <Replace Tag="LOC_VICTORY_NUBIA_SCENARIO_NAME" Language="es_ES">
+      <Text>Victoria de Regalos del Nilo</Text>
+    </Replace>
+    <Replace Tag="LOC_VICTORY_NUBIA_SCENARIO_TT" Language="es_ES">
+      <Text>Consigues esta victoria si eres el primero en construir 7 templos en honor al gran dios Amón.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_NUBIA_SCENARIO_CIVILIZATION_ITERU_DESCRIPTION" Language="es_ES">
+      <Text>+15% a la Producción [ICON_Production] de distritos y maravillas si la ciudad se encuentra adyacente a una casilla de agua. Los Terrenos de aluvión no bloquean la colocación de distritos y maravillas. Empieza con las tecnologías de Pesca y Navegación a vela.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_NUBIA_SCENARIO_CIVILIZATION_TA_SETI_DESCRIPTION" Language="es_ES">
+      <Text>+50% a la Producción [ICON_Production] para las unidades a distancia. Todas las unidades a distancia ganan un 50% en experiencia de combate. Empieza con la tecnología de la Minería. Las Minas sobre recursos estratégicos otorgan +1 a la Producción [ICON_Production]. Las Minas sobre recursos de lujo y adicionales otorgan +2 [ICON_Gold] de Oro.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_NUBIA_SCENARIO_HYKSOS_NAME" Language="zh_Hant_HK">
+      <Text>西克索</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_NUBIA_SCENARIO_LIBYANS_NAME" Language="zh_Hant_HK">
+      <Text>利比亞</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_NUBIA_SCENARIO_ASSYRIA_NAME" Language="zh_Hant_HK">
+      <Text>亞述</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_NUBIA_SCENARIO_PERSIA_NAME" Language="zh_Hant_HK">
+      <Text>波斯</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_NUBIA_SCENARIO_MACEDON_NAME" Language="zh_Hant_HK">
+      <Text>馬其頓</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_NUBIA_SCENARIO_HYKSOS_NAME" Language="zh_Hant_HK">
+      <Text>雅庫布赫</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_NUBIA_SCENARIO_LIBYANS_NAME" Language="zh_Hant_HK">
+      <Text>奧索爾孔</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_NUBIA_SCENARIO_ASSYRIA_NAME" Language="zh_Hant_HK">
+      <Text>亞述巴尼拔</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_NUBIA_SCENARIO_PERSIA_NAME" Language="zh_Hant_HK">
+      <Text>岡比西斯二世</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_NUBIA_SCENARIO_MACEDON_NAME" Language="zh_Hant_HK">
+      <Text>亞歷山大</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_NUBIA_SCENARIO_ROME_NAME" Language="zh_Hant_HK">
+      <Text>奧古斯都‧凱撒</Text>
+    </Replace>
+    <Replace Tag="LOC_NUBIA_SCENARIO_NAME" Language="zh_Hant_HK">
+      <Text>尼羅河的贈禮</Text>
+    </Replace>
+    <Replace Tag="LOC_NUBIA_SCENARIO_TOOLTIP" Language="zh_Hant_HK">
+      <Text>由兩位玩家分別扮演埃及和努比亞沿著尼羅河進行對決。持續時間不超過125回合。</Text>
+    </Replace>
+    <Replace Tag="LOC_NUBIA_SCENARIO_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>尼羅河人民認為7是極其幸運的數字。[NEWLINE][NEWLINE]不但是完美的象徵…[NEWLINE][NEWLINE]…還是完滿的兆象。[NEWLINE][NEWLINE]因此，在時限（125回合）結束前完成7座阿蒙神廟的玩家便可在這場尼羅河宿敵對決中受到神明的眷顧，贏得最後勝利。[NEWLINE][NEWLINE][NEWLINE]特殊規則：[NEWLINE]——在第20回合前，埃及和努比亞不得向對方宣戰[NEWLINE]——宣戰之後，戰爭無法終結。[NEWLINE]——聖地建築只能使用 [ICON_Faith] 信仰值進行購買。</Text>
+    </Replace>
+    <Replace Tag="LOC_NUBIA_SCENARIO_MAP_NAME" Language="zh_Hant_HK">
+      <Text>努比亞地圖</Text>
+    </Replace>
+    <Replace Tag="LOC_NUBIA_SCENARIO_MAP_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>尼羅河盆地的史實地圖。</Text>
+    </Replace>
+    <Replace Tag="LOC_VICTORY_NUBIA_SCENARIO_NAME" Language="zh_Hant_HK">
+      <Text>尼羅河的贈禮勝利</Text>
+    </Replace>
+    <Replace Tag="LOC_VICTORY_NUBIA_SCENARIO_TT" Language="zh_Hant_HK">
+      <Text>首先建造7座神廟來讚頌阿蒙神的榮光的玩家將贏得勝利。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_NUBIA_SCENARIO_CIVILIZATION_ITERU_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>如果城市鄰近水域單元格，區域和奇觀+15% [ICON_Production] 生產力。氾濫平原不會阻礙區域和奇觀建造。擁有捕魚和航海術科技後觸發。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_NUBIA_SCENARIO_CIVILIZATION_TA_SETI_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>遠程單位+50% [ICON_Production] 生產力。所有遠程單位獲得50%戰鬥經驗值加成。擁有採礦業科技後觸發。戰略資源上的礦井改良設施+1 [ICON_Production] 生產力。加成和奢侈品資源上的礦井改良設施+2 [ICON_Gold] 金幣。</Text>
+    </Replace>
+  </LocalizedText>
+</GameData>

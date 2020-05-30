@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<BaseGameText>
+		<!-- ==================== Action Panel ==================== -->
+		<Row Tag="LOC_ACTION_PANEL_CLOUD_TURN_UPLOADING">
+			<Text>COMMITTING TURN</Text>
+		</Row>
+		<Row Tag="LOC_ACTION_PANEL_CLOUD_TURN_UPLOADING_TOOLTIP">
+			<Text>Your turn is uploading to the cloud. Exiting the game may result in lost progress.</Text>
+		</Row>
+		<Row Tag="LOC_ACTION_PANEL_CLOUD_TURN_UPLOADED">
+			<Text>EXITING</Text>
+		</Row>
+		<Row Tag="LOC_ACTION_PANEL_CLOUD_TURN_UPLOADED_TOOLTIP">
+			<Text>Your turn has been uploaded to the cloud. Returning to the main menu.</Text>
+		</Row>
+		<Row Tag="LOC_ACTION_PANEL_END_TURN_ASK_ME_TITLE">
+			<Text>Cloud Turn Committed</Text>
+		</Row>
+		<Row Tag="LOC_ACTION_PANEL_END_TURN_ASK_ME_TEXT">
+			<Text>Your turn has been committed to the cloud. Your progress has been saved. What do you want to do now? This option is changeable in game options.</Text>
+		</Row>
+		<Row Tag="LOC_REMEMBER_MY_CHOICE">
+			<Text>Remember My Choice</Text>
+		</Row>
+		<!-- ==================== Your Turn Notification Popup ==================== -->
+		<Row Tag="LOC_PBC_NOTIFY_POPUP_YOUR_TURN_TITLE">
+			<Text>Your Play By Cloud Turn</Text>
+		</Row>
+		<Row Tag="LOC_PBC_NOTIFY_POPUP_YOUR_TURN_BODY">
+			<Text>It is your turn in the Play By Cloud game:[NEWLINE]{1_gameName}[NEWLINE][NEWLINE]If you join the match now, any unsaved progress will be lost.</Text>
+		</Row>
+		<Row Tag="LOC_PBC_NOTIFY_JOIN_MATCH">
+			<Text>Join Match</Text>
+		</Row>
+		<!-- ==================== Unseen Completed Cloud Game Notification Popup ==================== -->
+		<Row Tag="LOC_PBC_NOTIFY_POPUP_UNSEEN_COMPLETE_TITLE">
+			<Text>Play By Cloud Game Over</Text>
+		</Row>
+		<Row Tag="LOC_PBC_NOTIFY_POPUP_UNSEEN_COMPLETE_BODY">
+			<Text>Your game has ended in the Play By Cloud game:[NEWLINE]{1_gameName}[NEWLINE][NEWLINE]If you view results now, any unsaved progress will be lost.</Text>
+		</Row>
+		<Row Tag="LOC_PBC_NOTIFY_VIEW_RESULTS">
+			<Text>View Results</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

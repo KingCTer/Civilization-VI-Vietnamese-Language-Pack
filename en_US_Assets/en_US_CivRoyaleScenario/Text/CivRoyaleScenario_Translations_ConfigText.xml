@@ -1,0 +1,2448 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <LocalizedText>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_CULTISTS_NAME" Language="pt_BR">
+      <Text>Fanáticos</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_CULTISTS_DESCRIPTION" Language="pt_BR">
+      <Text>Fanáticos profundamente dedicados</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_CULTISTS_ADJECTIVE" Language="pt_BR">
+      <Text>Fanáticos</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_CULTISTS_ABILITY_NAME" Language="pt_BR">
+      <Text>Observando o fim</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_CULTISTS_ABILITY_DESCRIPTION" Language="pt_BR">
+      <Text>Todas as unidades têm +3 de visão.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_EDGELORDS_NAME" Language="pt_BR">
+      <Text>Senhores do Limite</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_EDGELORDS_DESCRIPTION" Language="pt_BR">
+      <Text>Senhores do Limite góticos</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_EDGELORDS_ADJECTIVE" Language="pt_BR">
+      <Text>Senhores do Limite</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_EDGELORDS_ABILITY_NAME" Language="pt_BR">
+      <Text>Vivendo no Limite</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_EDGELORDS_ABILITY_DESCRIPTION" Language="pt_BR">
+      <Text>+10 [ICON_Strength] de força de combate quando estiver a 3 hexágonos ou menos de distância da fronteira da Zona Segura.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_JOCKS_NAME" Language="pt_BR">
+      <Text>Atletas</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_JOCKS_DESCRIPTION" Language="pt_BR">
+      <Text>Atletas maus</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_JOCKS_ADJECTIVE" Language="pt_BR">
+      <Text>Atletas</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_JOCKS_ABILITY_NAME" Language="pt_BR">
+      <Text>Testemunhe a Perfeição</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_JOCKS_ABILITY_DESCRIPTION" Language="pt_BR">
+      <Text>+5 [ICON_Strength] de força de combate.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_NAME" Language="pt_BR">
+      <Text>Mutantes</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_DESCRIPTION" Language="pt_BR">
+      <Text>Mutantes muito assustados</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_ADJECTIVE" Language="pt_BR">
+      <Text>Mutantes</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_WMD_RESIST_ABILITY_NAME" Language="pt_BR">
+      <Text>Personalidades radiantes</Text>
+      <Gender>feminine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_WMD_RESIST_ABILITY_DESCRIPTION" Language="pt_BR">
+      <Text>-50% de dano de Morte Vermelha.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_FALLOUT_MOVE_ABILITY_NAME" Language="pt_BR">
+      <Text>Movimento radioativo</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_FALLOUT_MOVE_ABILITY_DESCRIPTION" Language="pt_BR">
+      <Text>+3 de [ICON_Movement] movimento para todas as unidades na Morte Vermelha.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_FALLOUT_SPREAD_ABILITY_NAME" Language="pt_BR">
+      <Text>Personalidades radiantes</Text>
+      <Gender>feminine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_FALLOUT_SPREAD_ABILITY_DESCRIPTION" Language="pt_BR">
+      <Text>Unidades mutantes absorvem 8 cargas radioativas por turno a partir da Morte Vermelha ou precipitação de armas de destruição em massa. Unidades mutantes espalham a Morte Vermelha para hexágonos não contaminados uma vez por carga radioativa. Unidades mutantes não sofrem dano de hexágonos de Morte Vermelha que criaram.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PREPPERS_NAME" Language="pt_BR">
+      <Text>Sobrevivencialistas</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PREPPERS_DESCRIPTION" Language="pt_BR">
+      <Text>Sobrevivencialistas apocalípticos insanos</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PREPPERS_ADJECTIVE" Language="pt_BR">
+      <Text>Sobrevivencialistas</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PREPPERS_ABILITY_NAME" Language="pt_BR">
+      <Text>Sempre se prepare para o pior</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PREPPERS_ABILITY_DESCRIPTION" Language="pt_BR">
+      <Text>Todas as unidades têm +100% de bônus de experiência.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PIRATES_NAME" Language="pt_BR">
+      <Text>Piratas</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PIRATES_DESCRIPTION" Language="pt_BR">
+      <Text>Piratas irradiados</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PIRATES_ADJECTIVE" Language="pt_BR">
+      <Text>Piratas</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PIRATES_ABILITY_NAME" Language="pt_BR">
+      <Text>Inundado</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PIRATES_CIV_ABILITY_DESCRIPTION" Language="pt_BR">
+      <Text>Todas as unidades sofrem 50% menos dano de água e ignoram custo adicional de movimento para embarcar e desembarcar.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PIRATES_LEADER_ABILITY_DESCRIPTION" Language="pt_BR">
+      <Text>Sem [ICON_Movement] penalidade de movimento ao embarcar e desembarcar.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_SCIENTISTS_NAME" Language="pt_BR">
+      <Text>Cientistas malucos</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_SCIENTISTS_DESCRIPTION" Language="pt_BR">
+      <Text>Cientistas de ética duvidosa</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_SCIENTISTS_ADJECTIVE" Language="pt_BR">
+      <Text>Cientistas malucos</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_SCIENTISTS_ABILITY_NAME" Language="pt_BR">
+      <Text>Só vai doer um pouco</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_SCIENTISTS_ABILITY_DESCRIPTION" Language="pt_BR">
+      <Text>Todas as unidades curam-se 2x mais rápido.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_WANDERERS_NAME" Language="pt_BR">
+      <Text>Andarilhos</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_WANDERERS_DESCRIPTION" Language="pt_BR">
+      <Text>Andarilhos livres</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_WANDERERS_ADJECTIVE" Language="pt_BR">
+      <Text>Andarilhos</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_WANDERERS_ABILITY_NAME" Language="pt_BR">
+      <Text>Até mais</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_WANDERERS_ABILITY_DESCRIPTION" Language="pt_BR">
+      <Text>Infantaria e metralhadores, assim como civis em formação com eles, têm [ICON_Movement] movimento mais rápido em terrenos de Bosque, Floresta Tropical e Colina.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_WANDERERS_ABILITY_DESCRIPTION_B" Language="pt_BR">
+      <Text>Todas as unidades militares têm [ICON_Movement] movimento mais rápido em terrenos de bosque, floresta tropical e colina.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_WANDERERS_ABILITY_DESCRIPTION_C" Language="pt_BR">
+      <Text>Civis e unidades não mecanizadas têm [ICON_Movement] movimento mais rápido em terrenos de floresta, floresta tropical e colina.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_WANDERERS_ABILITY_DESCRIPTION_D" Language="pt_BR">
+      <Text>Todas as unidades não mecanizadas têm [ICON_Movement] movimento mais rápido em terrenos de floresta, floresta tropical e colina.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CIVROYALE_SCENARIO_CULTISTS_NAME" Language="pt_BR">
+      <Text>Fanáticos</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CIVROYALE_SCENARIO_EDGELORDS_NAME" Language="pt_BR">
+      <Text>Senhores do Limite</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CIVROYALE_SCENARIO_JOCKS_NAME" Language="pt_BR">
+      <Text>Atletas</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CIVROYALE_SCENARIO_MUTANTS_NAME" Language="pt_BR">
+      <Text>Mutantes</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CIVROYALE_SCENARIO_PREPPERS_NAME" Language="pt_BR">
+      <Text>Sobrevivencialistas apocalípticos</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CIVROYALE_SCENARIO_PIRATES_NAME" Language="pt_BR">
+      <Text>Piratas</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CIVROYALE_SCENARIO_SCIENTISTS_NAME" Language="pt_BR">
+      <Text>Cientistas malucos</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CIVROYALE_SCENARIO_WANDERERS_NAME" Language="pt_BR">
+      <Text>Andarilhos</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_RULESET_TITLE" Language="pt_BR">
+      <Text>Morte Vermelha (battle royale)</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_MOD_DESCRIPTION" Language="pt_BR">
+      <Text>Morte Vermelha (battle royale)</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_RULESET_TEASER" Language="pt_BR">
+      <Text>Morte Vermelha é a versão de battle royale de Civilization VI. Jogue como sobreviventes disputando pela única saída de um planeta moribundo.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_VICTORY_TITLE" Language="pt_BR">
+      <Text>Um teste de sobrevivência</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_VICTORY_DESC" Language="pt_BR">
+      <Text>Seja a última facção de pé.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_CULTISTS_NAME" Language="fr_FR">
+      <Text>Fanatiques</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_CULTISTS_DESCRIPTION" Language="fr_FR">
+      <Text>Fanatiques investis</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_CULTISTS_ADJECTIVE" Language="fr_FR">
+      <Text>Fanatiques</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_CULTISTS_ABILITY_NAME" Language="fr_FR">
+      <Text>Assister à la fin</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_CULTISTS_ABILITY_DESCRIPTION" Language="fr_FR">
+      <Text>Champ de vision +3 pour toutes les unités.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_EDGELORDS_NAME" Language="fr_FR">
+      <Text>Extrémistes</Text>
+      <Gender>masculine:vowel</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_EDGELORDS_DESCRIPTION" Language="fr_FR">
+      <Text>Extrémistes gothiques</Text>
+      <Gender>masculine:vowel</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_EDGELORDS_ADJECTIVE" Language="fr_FR">
+      <Text>Extrémistes</Text>
+      <Gender>masculine:vowel</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_EDGELORDS_ABILITY_NAME" Language="fr_FR">
+      <Text>Sur le fil du rasoir</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_EDGELORDS_ABILITY_DESCRIPTION" Language="fr_FR">
+      <Text>[ICON_Strength] Puissance de combat +10 dans un rayon de 3 cases ou moins de la limite de la zone de sûreté.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_JOCKS_NAME" Language="fr_FR">
+      <Text>Sportifs</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_JOCKS_DESCRIPTION" Language="fr_FR">
+      <Text>Sportifs cruels</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_JOCKS_ADJECTIVE" Language="fr_FR">
+      <Text>Sportifs</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_JOCKS_ABILITY_NAME" Language="fr_FR">
+      <Text>Témoin de la perfection</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_JOCKS_ABILITY_DESCRIPTION" Language="fr_FR">
+      <Text>[ICON_Strength] Puissance de combat +5.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_NAME" Language="fr_FR">
+      <Text>Mutants</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_DESCRIPTION" Language="fr_FR">
+      <Text>Mutants défigurés</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_ADJECTIVE" Language="fr_FR">
+      <Text>Mutants</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_WMD_RESIST_ABILITY_NAME" Language="fr_FR">
+      <Text>Personnalités irradiantes</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_WMD_RESIST_ABILITY_DESCRIPTION" Language="fr_FR">
+      <Text>Dégâts du Fléau rouge -50 %.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_FALLOUT_MOVE_ABILITY_NAME" Language="fr_FR">
+      <Text>Déplacement radioactif</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_FALLOUT_MOVE_ABILITY_DESCRIPTION" Language="fr_FR">
+      <Text>[ICON_Movement] PM +3 pour toutes les unités dans le Fléau rouge.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_FALLOUT_SPREAD_ABILITY_NAME" Language="fr_FR">
+      <Text>Personnalités irradiantes</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_FALLOUT_SPREAD_ABILITY_DESCRIPTION" Language="fr_FR">
+      <Text>Les unités mutantes absorbent 8 charges de radiation par tour commencé dans le Fléau rouge ou les retombées. Elles propagent le Fléau rouge aux cases non contaminées une fois par charge de radiation et ne subissent pas de dégâts sur les cases de Fléau rouge contaminées par des mutants.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PREPPERS_NAME" Language="fr_FR">
+      <Text>Survivalistes</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PREPPERS_DESCRIPTION" Language="fr_FR">
+      <Text>Survivalistes déments</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PREPPERS_ADJECTIVE" Language="fr_FR">
+      <Text>Survivalistes</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PREPPERS_ABILITY_NAME" Language="fr_FR">
+      <Text>Toujours prévoir le pire</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PREPPERS_ABILITY_DESCRIPTION" Language="fr_FR">
+      <Text>Toutes les unités reçoivent +100% de bonus d'expérience.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PIRATES_NAME" Language="fr_FR">
+      <Text>Pirates</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PIRATES_DESCRIPTION" Language="fr_FR">
+      <Text>Pirates irradiés</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PIRATES_ADJECTIVE" Language="fr_FR">
+      <Text>Pirates</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PIRATES_ABILITY_NAME" Language="fr_FR">
+      <Text>Loup de mer</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PIRATES_CIV_ABILITY_DESCRIPTION" Language="fr_FR">
+      <Text>Les dégâts de l'eau sont réduits de moitié pour toutes les unités. L'embarquement et le débarquement ne coûtent pas de PM supplémentaires.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PIRATES_LEADER_ABILITY_DESCRIPTION" Language="fr_FR">
+      <Text>Aucune pénalité de [ICON_Movement] PM à l'embarquement et au débarquement.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_SCIENTISTS_NAME" Language="fr_FR">
+      <Text>Scientifiques fous</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_SCIENTISTS_DESCRIPTION" Language="fr_FR">
+      <Text>Scientifiques sans éthique</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_SCIENTISTS_ADJECTIVE" Language="fr_FR">
+      <Text>Scientifiques fous</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_SCIENTISTS_ABILITY_NAME" Language="fr_FR">
+      <Text>Ça fera juste un peu mal</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_SCIENTISTS_ABILITY_DESCRIPTION" Language="fr_FR">
+      <Text>Toutes les unités se soignent 2 fois plus vite.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_WANDERERS_NAME" Language="fr_FR">
+      <Text>Vagabonds</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_WANDERERS_DESCRIPTION" Language="fr_FR">
+      <Text>Vagabonds libres</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_WANDERERS_ADJECTIVE" Language="fr_FR">
+      <Text>Vagabonds</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_WANDERERS_ABILITY_NAME" Language="fr_FR">
+      <Text>À plus tard</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_WANDERERS_ABILITY_DESCRIPTION" Language="fr_FR">
+      <Text>L'infanterie et les mitrailleurs, ainsi que les civils qui sont dans la même formation, se déplacent [ICON_Movement] plus rapidement dans les bois, les forêts tropicales et les collines.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_WANDERERS_ABILITY_DESCRIPTION_B" Language="fr_FR">
+      <Text>Toutes les unités militaires se [ICON_Movement] déplacent plus vite sur les cases de bois, de forêt tropicale et de collines.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_WANDERERS_ABILITY_DESCRIPTION_C" Language="fr_FR">
+      <Text>Les civils et les unités non mécaniques se [ICON_Movement] déplacent plus vite sur les cases de bois, de forêt tropicale et de collines.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_WANDERERS_ABILITY_DESCRIPTION_D" Language="fr_FR">
+      <Text>Les unités non mécaniques se [ICON_Movement] déplacent plus vite sur les cases de bois, de forêt tropicale et de collines.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CIVROYALE_SCENARIO_CULTISTS_NAME" Language="fr_FR">
+      <Text>Fanatiques</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CIVROYALE_SCENARIO_EDGELORDS_NAME" Language="fr_FR">
+      <Text>Extrémistes</Text>
+      <Gender>masculine:vowel</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CIVROYALE_SCENARIO_JOCKS_NAME" Language="fr_FR">
+      <Text>Sportifs</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CIVROYALE_SCENARIO_MUTANTS_NAME" Language="fr_FR">
+      <Text>Mutants</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CIVROYALE_SCENARIO_PREPPERS_NAME" Language="fr_FR">
+      <Text>Survivalistes</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CIVROYALE_SCENARIO_PIRATES_NAME" Language="fr_FR">
+      <Text>Pirates</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CIVROYALE_SCENARIO_SCIENTISTS_NAME" Language="fr_FR">
+      <Text>Scientifiques fous</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CIVROYALE_SCENARIO_WANDERERS_NAME" Language="fr_FR">
+      <Text>Vagabonds</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_RULESET_TITLE" Language="fr_FR">
+      <Text>Fléau rouge (Battle Royale)</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_MOD_DESCRIPTION" Language="fr_FR">
+      <Text>Fléau rouge (Battle Royale)</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_RULESET_TEASER" Language="fr_FR">
+      <Text>Fléau rouge est un mode Battle Royale spécifique à Civilization VI. Aidez des survivants à quitter une planète condamnée.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_VICTORY_TITLE" Language="fr_FR">
+      <Text>Endurer l'épreuve de la Bataille Royale</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_VICTORY_DESC" Language="fr_FR">
+      <Text>Soyez la dernière faction survivante.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_CULTISTS_NAME" Language="de_DE">
+      <Text>Kultisten|Kultisten|Kultisten|Kultisten|Kultisten</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_CULTISTS_DESCRIPTION" Language="de_DE">
+      <Text>Starke Kultisten</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_CULTISTS_ADJECTIVE" Language="de_DE">
+      <Text>Kultisten-</Text>
+      <Gender>neuter:no_space</Gender>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_CULTISTS_ABILITY_NAME" Language="de_DE">
+      <Text>Das Ende mitansehen</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_CULTISTS_ABILITY_DESCRIPTION" Language="de_DE">
+      <Text>Alle Einheiten erhalten +3 Sicht.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_EDGELORDS_NAME" Language="de_DE">
+      <Text>Grenzkämpfer|Grenzkämpfer|Grenzkämpfern|Grenzkämpfer|Grenzkämpfer</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_EDGELORDS_DESCRIPTION" Language="de_DE">
+      <Text>Gruftige Grenzkämpfer|Gruftigen Grenzkämpfer|Gruftigen Grenzkämpfern|Gruftigen Grenzkämpfer|Gruftigen Grenzkämpfer</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_EDGELORDS_ADJECTIVE" Language="de_DE">
+      <Text>Grenzkämpfer-|Grenzkämpfer-|Grenzkämpfer-|Grenzkämpfer-|Grenzkämpfer-</Text>
+      <Gender>neuter:no_space</Gender>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_EDGELORDS_ABILITY_NAME" Language="de_DE">
+      <Text>Leben am Abgrund</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_EDGELORDS_ABILITY_DESCRIPTION" Language="de_DE">
+      <Text>+10 [ICON_Strength] Kampfstärke, wenn 3 Geländefelder oder näher an der Grenze zur Sicherheitszone.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_JOCKS_NAME" Language="de_DE">
+      <Text>Enthusiasten|Enthusiasten|Enthusiasten|Enthusiasten|Enthusiasten</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_JOCKS_DESCRIPTION" Language="de_DE">
+      <Text>Enthusiasten hoch zehn</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_JOCKS_ADJECTIVE" Language="de_DE">
+      <Text>Enthusiasten-</Text>
+      <Gender>neuter:no_space</Gender>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_JOCKS_ABILITY_NAME" Language="de_DE">
+      <Text>Perfektionsdarbietung</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_JOCKS_ABILITY_DESCRIPTION" Language="de_DE">
+      <Text>+5 [ICON_Strength] Kampfstärke.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_NAME" Language="de_DE">
+      <Text>Mutanten|Mutanten|Mutanten|Mutanten|Mutanten</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_DESCRIPTION" Language="de_DE">
+      <Text>Schrecklich vernarbte Mutanten </Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_ADJECTIVE" Language="de_DE">
+      <Text>Mutanten-</Text>
+      <Gender>neuter:no_space</Gender>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_WMD_RESIST_ABILITY_NAME" Language="de_DE">
+      <Text>Strahlende Persönlichkeiten</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_WMD_RESIST_ABILITY_DESCRIPTION" Language="de_DE">
+      <Text>-50% Roter-Tod-Schaden.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_FALLOUT_MOVE_ABILITY_NAME" Language="de_DE">
+      <Text>Radioaktive Bewegung</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_FALLOUT_MOVE_ABILITY_DESCRIPTION" Language="de_DE">
+      <Text>+3 [ICON_Movement] Fortbewegung für alle Einheiten beim roten Tod.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_FALLOUT_SPREAD_ABILITY_NAME" Language="de_DE">
+      <Text>Strahlende Persönlichkeiten</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_FALLOUT_SPREAD_ABILITY_DESCRIPTION" Language="de_DE">
+      <Text>Mutanteneinheiten absorbieren 8 Strahlungsladungen pro Runde, sobald der rote Tod oder Fallout durch MVW auftreten. Mutanteneinheiten verbreiten den roten Tod einmal pro Strahlungsladung auf nicht kontaminierte Geländefelder und nehmen selbst keinen Schaden durch die von ihnen mit dem roten Tod verseuchten Geländefelder.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PREPPERS_NAME" Language="de_DE">
+      <Text>Prepper|Prepper|Preppern|Prepper|Prepper</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PREPPERS_DESCRIPTION" Language="de_DE">
+      <Text>Irre Doomsday-Prepper</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PREPPERS_ADJECTIVE" Language="de_DE">
+      <Text>Prepper-</Text>
+      <Gender>neuter:no_space</Gender>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PREPPERS_ABILITY_NAME" Language="de_DE">
+      <Text>Aufs Schlimmste gefasst</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PREPPERS_ABILITY_DESCRIPTION" Language="de_DE">
+      <Text>Alle Einheiten haben +100 % Erfahrungsbonus.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PIRATES_NAME" Language="de_DE">
+      <Text>Piraten|Piraten|Piraten|Piraten|Piraten</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PIRATES_DESCRIPTION" Language="de_DE">
+      <Text>Verstrahlte Piraten</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PIRATES_ADJECTIVE" Language="de_DE">
+      <Text>Piraten-</Text>
+      <Gender>neuter:no_space</Gender>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PIRATES_ABILITY_NAME" Language="de_DE">
+      <Text>Durchnässt</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PIRATES_CIV_ABILITY_DESCRIPTION" Language="de_DE">
+      <Text>Alle Einheiten nehmen 50 % weniger Wasserschaden und ignorieren zusätzliche Fortbewegungskosten für das Wassern und Ausschiffen.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PIRATES_LEADER_ABILITY_DESCRIPTION" Language="de_DE">
+      <Text>Kein [ICON_Movement] Fortbewegungsmalus beim Wassern und Ausschiffen.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_SCIENTISTS_NAME" Language="de_DE">
+      <Text>Verrückte Wissenschaftler|Verrückten Wissenschaftler|Verrückten Wissenschaftlern|Verrückten Wissenschaftler|Verrückten Wissenschaftler</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_SCIENTISTS_DESCRIPTION" Language="de_DE">
+      <Text>Ethisch herausgeforderte Wissenschaftler</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_SCIENTISTS_ADJECTIVE" Language="de_DE">
+      <Text>Verrückte Wissenschaftler-</Text>
+      <Gender>neuter:no_space</Gender>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_SCIENTISTS_ABILITY_NAME" Language="de_DE">
+      <Text>Es tut kaum weh</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_SCIENTISTS_ABILITY_DESCRIPTION" Language="de_DE">
+      <Text>Alle Einheiten werden 2x schneller geheilt.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_WANDERERS_NAME" Language="de_DE">
+      <Text>Wanderer|Wanderer|Wanderern|Wanderer|Wanderer</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_WANDERERS_DESCRIPTION" Language="de_DE">
+      <Text>Wanderer freien Willens</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_WANDERERS_ADJECTIVE" Language="de_DE">
+      <Text>Wanderer-</Text>
+      <Gender>neuter:no_space</Gender>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_WANDERERS_ABILITY_NAME" Language="de_DE">
+      <Text>Man sieht sich</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_WANDERERS_ABILITY_DESCRIPTION" Language="de_DE">
+      <Text>Schnellere [ICON_Movement] Fortbewegung auf Wald-, Regenwald- und Hügel-Gelände für Infanterie, Maschinengewehrschützen und Zivilisten, die sich mit ihnen in Formation befinden.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_WANDERERS_ABILITY_DESCRIPTION_B" Language="de_DE">
+      <Text>Alle Militäreinheiten [ICON_Movement] bewegen sich schneller auf Wald-, Regenwald- und Hügel-Gelände.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_WANDERERS_ABILITY_DESCRIPTION_C" Language="de_DE">
+      <Text>Zivilisten und nicht-mechanische Einheiten [ICON_Movement] bewegen sich schneller auf Wald-, Regenwald- und Hügel-Gelände.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_WANDERERS_ABILITY_DESCRIPTION_D" Language="de_DE">
+      <Text>Alle nicht-mechanischen Einheiten [ICON_Movement] bewegen sich schneller auf Wald-, Regenwald- und Hügel-Gelände.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CIVROYALE_SCENARIO_CULTISTS_NAME" Language="de_DE">
+      <Text>Kultisten|Kultisten|Kultisten|Kultisten|Kultisten</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CIVROYALE_SCENARIO_EDGELORDS_NAME" Language="de_DE">
+      <Text>Grenzkämpfer|Grenzkämpfer|Grenzkämpfern|Grenzkämpfer|Grenzkämpfer</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CIVROYALE_SCENARIO_JOCKS_NAME" Language="de_DE">
+      <Text>Enthusiasten|Enthusiasten|Enthusiasten|Enthusiasten|Enthusiasten</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CIVROYALE_SCENARIO_MUTANTS_NAME" Language="de_DE">
+      <Text>Mutanten|Mutanten|Mutanten|Mutanten|Mutanten</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CIVROYALE_SCENARIO_PREPPERS_NAME" Language="de_DE">
+      <Text>Doomsday-Prepper|Doomsday-Prepper|Doomsday-Preppern|Doomsday-Prepper|Doomsday-Prepper</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CIVROYALE_SCENARIO_PIRATES_NAME" Language="de_DE">
+      <Text>Piraten|Piraten|Piraten|Piraten|Piraten</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CIVROYALE_SCENARIO_SCIENTISTS_NAME" Language="de_DE">
+      <Text>Verrückte Wissenschaftler|Verrückten Wissenschaftler|Verrückten Wissenschaftlern|Verrückten Wissenschaftler|Verrückten Wissenschaftler</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CIVROYALE_SCENARIO_WANDERERS_NAME" Language="de_DE">
+      <Text>Wanderer|Wanderer|Wanderern|Wanderer|Wanderer</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_RULESET_TITLE" Language="de_DE">
+      <Text>Roter Tod (Battle Royale)</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_MOD_DESCRIPTION" Language="de_DE">
+      <Text>Roter Tod (Battle Royale)</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_RULESET_TEASER" Language="de_DE">
+      <Text>Der rote Tod ist die Version eines Battle-Royale-Modus in Civilization VI. Spielt als Überlebende im Kampf um die einzige Fahrkarte weg von einem sterbenden Planeten.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_VICTORY_TITLE" Language="de_DE">
+      <Text>Stellt Euch dem Test Royale</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_VICTORY_DESC" Language="de_DE">
+      <Text>Seid die letzte Fraktion, die noch kämpft.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_CULTISTS_NAME" Language="it_IT">
+      <Text>Seguaci|dei Seguaci|ai Seguaci|i Seguaci|dai Seguaci</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_CULTISTS_DESCRIPTION" Language="it_IT">
+      <Text>Seguaci particolarmente devoti|dei Seguaci particolarmente devoti|ai Seguaci particolarmente devoti|i Seguaci particolarmente devoti|dai Seguaci particolarmente devoti</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_CULTISTS_ADJECTIVE" Language="it_IT">
+      <Text>dei Seguaci|dei Seguaci|dei Seguaci|dei Seguaci</Text>
+      <Gender>masculine|feminine|masculine|feminine</Gender>
+      <Plurality>1|1|2|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_CULTISTS_ABILITY_NAME" Language="it_IT">
+      <Text>Testimoni della fine</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_CULTISTS_ABILITY_DESCRIPTION" Language="it_IT">
+      <Text>Tutte le unità hanno +3 raggio visivo.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_EDGELORDS_NAME" Language="it_IT">
+      <Text>Confinanti|dei Confinanti|ai Confinanti|i Confinanti|dai Confinanti</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_EDGELORDS_DESCRIPTION" Language="it_IT">
+      <Text>Confinanti oscuri|dei Confinanti oscuri|ai Confinanti oscuri|i Confinanti oscuri|dai Confinanti oscuri</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_EDGELORDS_ADJECTIVE" Language="it_IT">
+      <Text>dei Confinanti|dei Confinanti|dei Confinanti|dei Confinanti</Text>
+      <Gender>masculine|feminine|masculine|feminine</Gender>
+      <Plurality>1|1|2|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_EDGELORDS_ABILITY_NAME" Language="it_IT">
+      <Text>Vivere al limite</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_EDGELORDS_ABILITY_DESCRIPTION" Language="it_IT">
+      <Text>+10 alla [ICON_Strength] Forza di combattimento se si trova entro tre caselle dal confine della Zona Sicura</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_JOCKS_NAME" Language="it_IT">
+      <Text>Bulli|dei Bulli|ai Bulli|i Bulli|dai Bulli</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_JOCKS_DESCRIPTION" Language="it_IT">
+      <Text>I più crudeli Bulli</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_JOCKS_ADJECTIVE" Language="it_IT">
+      <Text>dei Bulli|dei Bulli|dei Bulli|dei Bulli</Text>
+      <Gender>masculine|feminine|masculine|feminine</Gender>
+      <Plurality>1|1|2|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_JOCKS_ABILITY_NAME" Language="it_IT">
+      <Text>Assistere alla perfezione</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_JOCKS_ABILITY_DESCRIPTION" Language="it_IT">
+      <Text>+5 alla [ICON_Strength] Forza di combattimento.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_NAME" Language="it_IT">
+      <Text>Mutanti|dei Mutanti|ai Mutanti|i Mutanti|dai Mutanti</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_DESCRIPTION" Language="it_IT">
+      <Text>Mutanti orribilmente sfigurati</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_ADJECTIVE" Language="it_IT">
+      <Text>dei Mutanti|dei Mutanti|dei Mutanti|dei Mutanti</Text>
+      <Gender>masculine|feminine|masculine|feminine</Gender>
+      <Plurality>1|1|2|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_WMD_RESIST_ABILITY_NAME" Language="it_IT">
+      <Text>Personalità radiose</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_WMD_RESIST_ABILITY_DESCRIPTION" Language="it_IT">
+      <Text>-50% danno da Morte rossa.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_FALLOUT_MOVE_ABILITY_NAME" Language="it_IT">
+      <Text>Movimento radioattivo</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_FALLOUT_MOVE_ABILITY_DESCRIPTION" Language="it_IT">
+      <Text>+3 al [ICON_Movement] Movimento di tutte le unità nella Morte rossa.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_FALLOUT_SPREAD_ABILITY_NAME" Language="it_IT">
+      <Text>Personalità radiose</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_FALLOUT_SPREAD_ABILITY_DESCRIPTION" Language="it_IT">
+      <Text>Le unità mutanti assorbono 8 Cariche radioattive per turno se partono dalla Morte rossa o dal fallout radioattivo. Le unità mutanti diffondono la Morte rossa in una casella non contaminata per Carica radioattiva. Le unità mutanti non subiscono danni dalle caselle in cui la Morte rossa è stata diffusa dai mutanti stessi.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PREPPERS_NAME" Language="it_IT">
+      <Text>Survivalisti|dei Survivalisti|ai Survivalisti|i Survivalisti|dai Survivalisti</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PREPPERS_DESCRIPTION" Language="it_IT">
+      <Text>Survivalisti apocalittici completamente matti</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PREPPERS_ADJECTIVE" Language="it_IT">
+      <Text>dei Survivalisti|dei Survivalisti|dei Survivalisti|dei Survivalisti</Text>
+      <Gender>masculine|feminine|masculine|feminine</Gender>
+      <Plurality>1|1|2|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PREPPERS_ABILITY_NAME" Language="it_IT">
+      <Text>Prepararsi sempre al peggio</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PREPPERS_ABILITY_DESCRIPTION" Language="it_IT">
+      <Text>Tutte le unità hanno un bonus di +100% all'esperienza.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PIRATES_NAME" Language="it_IT">
+      <Text>Pirati|dei Pirati|ai Pirati|i Pirati|dai Pirati</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PIRATES_DESCRIPTION" Language="it_IT">
+      <Text>Pirati radioattivi</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PIRATES_ADJECTIVE" Language="it_IT">
+      <Text>dei Pirati|dei Pirati|dei Pirati|dei Pirati</Text>
+      <Gender>masculine|feminine|masculine|feminine</Gender>
+      <Plurality>1|1|2|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PIRATES_ABILITY_NAME" Language="it_IT">
+      <Text>Acqua a volontà</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PIRATES_CIV_ABILITY_DESCRIPTION" Language="it_IT">
+      <Text>Tutte le unità subiscono -50% danno d'acqua e ignorano i costi aggiuntivi di movimento per l'imbarco e lo sbarco.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PIRATES_LEADER_ABILITY_DESCRIPTION" Language="it_IT">
+      <Text>Nessuna penalità al [ICON_Movement] Movimento per l'imbarco e lo sbarco.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_SCIENTISTS_NAME" Language="it_IT">
+      <Text>Scienziati pazzi|degli Scienziati pazzi|agli Scienziati pazzi|gli Scienziati pazzi|dagli Scienziati pazzi</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_SCIENTISTS_DESCRIPTION" Language="it_IT">
+      <Text>Scienziati che sfidano l'etica</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_SCIENTISTS_ADJECTIVE" Language="it_IT">
+      <Text>degli Scienziati pazzi|degli Scienziati pazzi|degli Scienziati pazzi|degli Scienziati pazzi</Text>
+      <Gender>masculine|feminine|masculine|feminine</Gender>
+      <Plurality>1|1|2|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_SCIENTISTS_ABILITY_NAME" Language="it_IT">
+      <Text>Farà un po' di male</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_SCIENTISTS_ABILITY_DESCRIPTION" Language="it_IT">
+      <Text>Tutte le unità guariscono 2 volte più velocemente.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_WANDERERS_NAME" Language="it_IT">
+      <Text>Viandanti|dei Viandanti|ai Viandanti|i Viandanti|dai Viandanti</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_WANDERERS_DESCRIPTION" Language="it_IT">
+      <Text>Viandanti con libero arbitrio</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_WANDERERS_ADJECTIVE" Language="it_IT">
+      <Text>dei Viandanti|dei Viandanti|dei Viandanti|dei Viandanti</Text>
+      <Gender>masculine|feminine|masculine|feminine</Gender>
+      <Plurality>1|1|2|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_WANDERERS_ABILITY_NAME" Language="it_IT">
+      <Text>Ci si vede</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_WANDERERS_ABILITY_DESCRIPTION" Language="it_IT">
+      <Text>La Fanteria e le Mitragliatrici, e i civili in formazione con loro, hanno un [ICON_Movement] Movimento più veloce in boschi, foresta pluviale e collina.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_WANDERERS_ABILITY_DESCRIPTION_B" Language="it_IT">
+      <Text>Tutte le unità militari hanno un [ICON_Movement] Movimento più veloce in boschi, foresta pluviale e collina.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_WANDERERS_ABILITY_DESCRIPTION_C" Language="it_IT">
+      <Text>I civili e le unità non meccaniche hanno un [ICON_Movement] Movimento più veloce in boschi, foresta pluviale e collina.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_WANDERERS_ABILITY_DESCRIPTION_D" Language="it_IT">
+      <Text>Tutte le unità non meccaniche hanno un [ICON_Movement] Movimento più veloce in boschi, foresta pluviale e collina.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CIVROYALE_SCENARIO_CULTISTS_NAME" Language="it_IT">
+      <Text>Seguaci|dei Seguaci|ai Seguaci|i Seguaci|dai Seguaci</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CIVROYALE_SCENARIO_EDGELORDS_NAME" Language="it_IT">
+      <Text>Confinanti|dei Confinanti|ai Confinanti|i Confinanti|dai Confinanti</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CIVROYALE_SCENARIO_JOCKS_NAME" Language="it_IT">
+      <Text>Bulli|dei Bulli|ai Bulli|i Bulli|dai Bulli</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CIVROYALE_SCENARIO_MUTANTS_NAME" Language="it_IT">
+      <Text>Mutanti|dei Mutanti|ai Mutanti|i Mutanti|dai Mutanti</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CIVROYALE_SCENARIO_PREPPERS_NAME" Language="it_IT">
+      <Text>Survivalisti apocalittici|dei Survivalisti apocalittici|ai Survivalisti apocalittici|i Survivalisti apocalittici|dai Survivalisti apocalittici</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CIVROYALE_SCENARIO_PIRATES_NAME" Language="it_IT">
+      <Text>Pirati|dei Pirati|ai Pirati|i Pirati|dai Pirati</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CIVROYALE_SCENARIO_SCIENTISTS_NAME" Language="it_IT">
+      <Text>Scienziati pazzi|degli Scienziati pazzi|agli Scienziati pazzi|gli Scienziati pazzi|dagli Scienziati pazzi</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CIVROYALE_SCENARIO_WANDERERS_NAME" Language="it_IT">
+      <Text>Viandanti|dei Viandanti|ai Viandanti|i Viandanti|dai Viandanti</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_RULESET_TITLE" Language="it_IT">
+      <Text>Morte rossa (Battle Royale)</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_MOD_DESCRIPTION" Language="it_IT">
+      <Text>Morte rossa (Battle Royale)</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_RULESET_TEASER" Language="it_IT">
+      <Text>Morte rossa è la versione di Civilization VI del genere "Battle Royale", in cui i sopravvissuti si contendono l'unico biglietto per abbandonare un pianeta moribondo.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_VICTORY_TITLE" Language="it_IT">
+      <Text>Supera il Test Royale</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_VICTORY_DESC" Language="it_IT">
+      <Text>La tua fazione dovrà essere l'ultima a sopravvivere.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_CULTISTS_NAME" Language="ja_JP">
+      <Text>カルト教団員</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_CULTISTS_DESCRIPTION" Language="ja_JP">
+      <Text>カルト思想に染まった教団員</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_CULTISTS_ADJECTIVE" Language="ja_JP">
+      <Text>カルト教団員の</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_CULTISTS_ABILITY_NAME" Language="ja_JP">
+      <Text>終末の観測</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_CULTISTS_ABILITY_DESCRIPTION" Language="ja_JP">
+      <Text>すべてのユニットの視界+3。</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_EDGELORDS_NAME" Language="ja_JP">
+      <Text>エッジロード</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_EDGELORDS_DESCRIPTION" Language="ja_JP">
+      <Text>危険に魅入られた戦闘マニア</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_EDGELORDS_ADJECTIVE" Language="ja_JP">
+      <Text>エッジロードの</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_EDGELORDS_ABILITY_NAME" Language="ja_JP">
+      <Text>死と隣り合わせ</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_EDGELORDS_ABILITY_DESCRIPTION" Language="ja_JP">
+      <Text>安全地帯の境界から3タイル以内にいると [ICON_Strength] 戦闘力+10。</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_JOCKS_NAME" Language="ja_JP">
+      <Text>ジョック</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_JOCKS_DESCRIPTION" Language="ja_JP">
+      <Text>下劣極まりない筋肉バカ</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_JOCKS_ADJECTIVE" Language="ja_JP">
+      <Text>ジョック</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_JOCKS_ABILITY_NAME" Language="ja_JP">
+      <Text>究極の力</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_JOCKS_ABILITY_DESCRIPTION" Language="ja_JP">
+      <Text>[ICON_Strength] 戦闘力+5。</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_NAME" Language="ja_JP">
+      <Text>ミュータント</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_DESCRIPTION" Language="ja_JP">
+      <Text>ひどい傷を負ったミュータント</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_ADJECTIVE" Language="ja_JP">
+      <Text>ミュータントの</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_WMD_RESIST_ABILITY_NAME" Language="ja_JP">
+      <Text>ラディアント・パーソナリティ</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_WMD_RESIST_ABILITY_DESCRIPTION" Language="ja_JP">
+      <Text>レッドデスによるダメージ-50%。</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_FALLOUT_MOVE_ABILITY_NAME" Language="ja_JP">
+      <Text>放射能移動</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_FALLOUT_MOVE_ABILITY_DESCRIPTION" Language="ja_JP">
+      <Text>レッドデス内での全ユニットの [ICON_Movement] 移動力+3。</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_FALLOUT_SPREAD_ABILITY_NAME" Language="ja_JP">
+      <Text>ラディアント・パーソナリティ</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_FALLOUT_SPREAD_ABILITY_DESCRIPTION" Language="ja_JP">
+      <Text>ターン開始時にレッドデスまたは大量破壊兵器による放射性降下物の範囲内にいるミュータント・ユニットは、放射能チャージ8を吸収する。ミュータント・ユニットは、放射能チャージ1ごとにレッドデスを汚染されていないタイルへ広げられる。ミュータントが広げたレッドデスによってミュータント・ユニットがダメージを受けることはない。</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PREPPERS_NAME" Language="ja_JP">
+      <Text>終末論者</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PREPPERS_DESCRIPTION" Language="ja_JP">
+      <Text>常軌を逸した終末論者</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PREPPERS_ADJECTIVE" Language="ja_JP">
+      <Text>終末論者の</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PREPPERS_ABILITY_NAME" Language="ja_JP">
+      <Text>最悪に備えよ</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PREPPERS_ABILITY_DESCRIPTION" Language="ja_JP">
+      <Text>すべてのユニットに経験値+100%のボーナス。</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PIRATES_NAME" Language="ja_JP">
+      <Text>海賊</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PIRATES_DESCRIPTION" Language="ja_JP">
+      <Text>放射線を浴びた海賊</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PIRATES_ADJECTIVE" Language="ja_JP">
+      <Text>海賊の</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PIRATES_ABILITY_NAME" Language="ja_JP">
+      <Text>濡れ鼠</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PIRATES_CIV_ABILITY_DESCRIPTION" Language="ja_JP">
+      <Text>すべてのユニットの水によるダメージ-50%。ユニットの乗船と下船に追加の移動コストを必要としなくなる。</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PIRATES_LEADER_ABILITY_DESCRIPTION" Language="ja_JP">
+      <Text>乗船時と下船時に [ICON_Movement] 移動ペナルティが発生しない。</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_SCIENTISTS_NAME" Language="ja_JP">
+      <Text>マッドサイエンティスト</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_SCIENTISTS_DESCRIPTION" Language="ja_JP">
+      <Text>倫理観にかなり問題がある科学者</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_SCIENTISTS_ADJECTIVE" Language="ja_JP">
+      <Text>マッドサイエンティストの</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_SCIENTISTS_ABILITY_NAME" Language="ja_JP">
+      <Text>痛いのは少しだけ</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_SCIENTISTS_ABILITY_DESCRIPTION" Language="ja_JP">
+      <Text>すべてのユニットの回復速度x2。</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_WANDERERS_NAME" Language="ja_JP">
+      <Text>放浪者</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_WANDERERS_DESCRIPTION" Language="ja_JP">
+      <Text>自由に生きる放浪者</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_WANDERERS_ADJECTIVE" Language="ja_JP">
+      <Text>放浪者の</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_WANDERERS_ABILITY_NAME" Language="ja_JP">
+      <Text>お先に失礼</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_WANDERERS_ABILITY_DESCRIPTION" Language="ja_JP">
+      <Text>歩兵と機関銃手、およびそれらのユニットと陣形を組んでいる民間人が、森、熱帯雨林、丘陵を通常よりも高速で [ICON_Movement] 移動できる。</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_WANDERERS_ABILITY_DESCRIPTION_B" Language="ja_JP">
+      <Text>すべての軍事ユニットが、森、熱帯雨林、丘陵を通常よりも高速で [ICON_Movement] 移動できる。</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_WANDERERS_ABILITY_DESCRIPTION_C" Language="ja_JP">
+      <Text>民間人と機械化されていないユニットが、森、熱帯雨林、丘陵を通常よりも高速で [ICON_Movement] 移動できる。</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_WANDERERS_ABILITY_DESCRIPTION_D" Language="ja_JP">
+      <Text>機械化されていないすべてのユニットが、森、熱帯雨林、丘陵を通常よりも高速で [ICON_Movement] 移動できる。</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CIVROYALE_SCENARIO_CULTISTS_NAME" Language="ja_JP">
+      <Text>カルト教団員</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CIVROYALE_SCENARIO_EDGELORDS_NAME" Language="ja_JP">
+      <Text>エッジロード</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CIVROYALE_SCENARIO_JOCKS_NAME" Language="ja_JP">
+      <Text>ジョック</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CIVROYALE_SCENARIO_MUTANTS_NAME" Language="ja_JP">
+      <Text>ミュータント</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CIVROYALE_SCENARIO_PREPPERS_NAME" Language="ja_JP">
+      <Text>終末論者</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CIVROYALE_SCENARIO_PIRATES_NAME" Language="ja_JP">
+      <Text>海賊</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CIVROYALE_SCENARIO_SCIENTISTS_NAME" Language="ja_JP">
+      <Text>マッドサイエンティスト</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CIVROYALE_SCENARIO_WANDERERS_NAME" Language="ja_JP">
+      <Text>放浪者</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_RULESET_TITLE" Language="ja_JP">
+      <Text>レッドデス (バトルロイヤル)</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_MOD_DESCRIPTION" Language="ja_JP">
+      <Text>レッドデス (バトルロイヤル)</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_RULESET_TEASER" Language="ja_JP">
+      <Text>『シヴィライゼーション VI』のシステムを使って繰り広げられるバトルロイヤル、それが「レッドデス」です。滅びゆく惑星から脱出する唯一のチケットを賭け、今、生き残った者たちによる死闘が始まります。</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_VICTORY_TITLE" Language="ja_JP">
+      <Text>バトルロイヤルを生き抜く</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_VICTORY_DESC" Language="ja_JP">
+      <Text>すべての勢力の中で最後まで生き残ることが目的です。</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_CULTISTS_NAME" Language="ko_KR">
+      <Text>숭배자</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_CULTISTS_DESCRIPTION" Language="ko_KR">
+      <Text>발을 깊이 들인 숭배자</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_CULTISTS_ADJECTIVE" Language="ko_KR">
+      <Text>숭배자</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_CULTISTS_ABILITY_NAME" Language="ko_KR">
+      <Text>최후를 관측하는 자</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_CULTISTS_ABILITY_DESCRIPTION" Language="ko_KR">
+      <Text>모든 유닛 시야 +3</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_EDGELORDS_NAME" Language="ko_KR">
+      <Text>중2병자</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_EDGELORDS_DESCRIPTION" Language="ko_KR">
+      <Text>고스끼 가득한 중2병자들</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_EDGELORDS_ADJECTIVE" Language="ko_KR">
+      <Text>중2병자</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_EDGELORDS_ABILITY_NAME" Language="ko_KR">
+      <Text>위험한 공상가의 삶</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_EDGELORDS_ABILITY_DESCRIPTION" Language="ko_KR">
+      <Text>안전 구역 경계에서 3타일 이내일 때 [ICON_Strength] 전투력 +10을 얻습니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_JOCKS_NAME" Language="ko_KR">
+      <Text>체육계</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_JOCKS_DESCRIPTION" Language="ko_KR">
+      <Text>최고로 성질 더러운 체육계</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_JOCKS_ADJECTIVE" Language="ko_KR">
+      <Text>체육계</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_JOCKS_ABILITY_NAME" Language="ko_KR">
+      <Text>완벽함을 목도하라</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_JOCKS_ABILITY_DESCRIPTION" Language="ko_KR">
+      <Text>[ICON_Strength] 전투력 +5를 제공합니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_NAME" Language="ko_KR">
+      <Text>돌연변이</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_DESCRIPTION" Language="ko_KR">
+      <Text>끔찍한 상처를 입은 돌연변이</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_ADJECTIVE" Language="ko_KR">
+      <Text>돌연변이</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_WMD_RESIST_ABILITY_NAME" Language="ko_KR">
+      <Text>방사적 성격</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_WMD_RESIST_ABILITY_DESCRIPTION" Language="ko_KR">
+      <Text>붉은 죽음 피해 -50%.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_FALLOUT_MOVE_ABILITY_NAME" Language="ko_KR">
+      <Text>방사성 이동력</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_FALLOUT_MOVE_ABILITY_DESCRIPTION" Language="ko_KR">
+      <Text>붉은 죽음 지대 내 모든 유닛에 대해 [ICON_Movement] 이동력 +3.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_FALLOUT_SPREAD_ABILITY_NAME" Language="ko_KR">
+      <Text>방사적 성격</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_FALLOUT_SPREAD_ABILITY_DESCRIPTION" Language="ko_KR">
+      <Text>붉은 죽음 또는 WMD(대량살상무기)의 낙진이 시작되면, 돌연변이 유닛은 턴당 방사능 횟수 8을 흡수합니다. 돌연변이 유닛은 방사능 횟수당 붉은 죽음을 비오염 타일로 확산합니다. 돌연변이 유닛은 돌연변이가 확산시킨 붉은 죽음에게서 피해를 받지 않습니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PREPPERS_NAME" Language="ko_KR">
+      <Text>생존주의자</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PREPPERS_DESCRIPTION" Language="ko_KR">
+      <Text>미친 파멸의 날 생존주의자</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PREPPERS_ADJECTIVE" Language="ko_KR">
+      <Text>생존주의자</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PREPPERS_ABILITY_NAME" Language="ko_KR">
+      <Text>언제나 최악에 대비하라</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PREPPERS_ABILITY_DESCRIPTION" Language="ko_KR">
+      <Text>모든 유닛이 경험치 보너스 +100%를 받습니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PIRATES_NAME" Language="ko_KR">
+      <Text>해적</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PIRATES_DESCRIPTION" Language="ko_KR">
+      <Text>방사능에 노출된 해적</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PIRATES_ADJECTIVE" Language="ko_KR">
+      <Text>해적</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PIRATES_ABILITY_NAME" Language="ko_KR">
+      <Text>흠뻑 젖은 자</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PIRATES_CIV_ABILITY_DESCRIPTION" Language="ko_KR">
+      <Text>모든 유닛이 받는 물 피해가 50% 감소하며, 승선 및 하선에 대한 이동 비용이 추가로 들지 않습니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PIRATES_LEADER_ABILITY_DESCRIPTION" Language="ko_KR">
+      <Text>승선 및 하선 시 [ICON_Movement] 이동력 페널티 없음</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_SCIENTISTS_NAME" Language="ko_KR">
+      <Text>미친 과학자</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_SCIENTISTS_DESCRIPTION" Language="ko_KR">
+      <Text>윤리라고는 없는 과학자들</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_SCIENTISTS_ADJECTIVE" Language="ko_KR">
+      <Text>미친 과학자</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_SCIENTISTS_ABILITY_NAME" Language="ko_KR">
+      <Text>약간 따끔할 겁니다</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_SCIENTISTS_ABILITY_DESCRIPTION" Language="ko_KR">
+      <Text>모든 유닛이 체력을 2배 빠르게 회복합니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_WANDERERS_NAME" Language="ko_KR">
+      <Text>방랑자</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_WANDERERS_DESCRIPTION" Language="ko_KR">
+      <Text>자유 의지 방랑자</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_WANDERERS_ADJECTIVE" Language="ko_KR">
+      <Text>방랑자</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_WANDERERS_ABILITY_NAME" Language="ko_KR">
+      <Text>나중에 봅시다</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_WANDERERS_ABILITY_DESCRIPTION" Language="ko_KR">
+      <Text>숲, 열대우림 및 언덕 지형에서 보병 및 기관총 사수는 물론 대형에 속한 민간인의 [ICON_Movement] 이동력이 빨라집니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_WANDERERS_ABILITY_DESCRIPTION_B" Language="ko_KR">
+      <Text>숲, 열대우림 및 언덕 지형에서 모든 군사 유닛의 [ICON_Movement] 이동력이 빨라집니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_WANDERERS_ABILITY_DESCRIPTION_C" Language="ko_KR">
+      <Text>숲, 열대우림 및 언덕 지형에서 기계화 유닛이 아닌 유닛 및 민간인의 [ICON_Movement] 이동력이 빨라집니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_WANDERERS_ABILITY_DESCRIPTION_D" Language="ko_KR">
+      <Text>숲, 열대우림 및 언덕 지형에서 모든 기계화 유닛이 아닌 유닛의 [ICON_Movement] 이동력이 빨라집니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CIVROYALE_SCENARIO_CULTISTS_NAME" Language="ko_KR">
+      <Text>숭배자</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CIVROYALE_SCENARIO_EDGELORDS_NAME" Language="ko_KR">
+      <Text>중2병자</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CIVROYALE_SCENARIO_JOCKS_NAME" Language="ko_KR">
+      <Text>체육계</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CIVROYALE_SCENARIO_MUTANTS_NAME" Language="ko_KR">
+      <Text>돌연변이</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CIVROYALE_SCENARIO_PREPPERS_NAME" Language="ko_KR">
+      <Text>파멸의 날 생존주의자</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CIVROYALE_SCENARIO_PIRATES_NAME" Language="ko_KR">
+      <Text>해적</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CIVROYALE_SCENARIO_SCIENTISTS_NAME" Language="ko_KR">
+      <Text>미친 과학자</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CIVROYALE_SCENARIO_WANDERERS_NAME" Language="ko_KR">
+      <Text>방랑자</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_RULESET_TITLE" Language="ko_KR">
+      <Text>붉은 죽음(배틀 로얄)</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_MOD_DESCRIPTION" Language="ko_KR">
+      <Text>붉은 죽음(배틀 로얄)</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_RULESET_TEASER" Language="ko_KR">
+      <Text>붉은 죽음은 문명 VI으로 벌이는 배틀 로얄 모드입니다. 죽어가는 행성을 탈출할 유일한 탑승권을 두고 경쟁하는 생존자가 되어 플레이하십시오.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_VICTORY_TITLE" Language="ko_KR">
+      <Text>로얄의 시험 견디기</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_VICTORY_DESC" Language="ko_KR">
+      <Text>마지막까지 살아남는 세력이 되십시오.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_CULTISTS_NAME" Language="pl_PL">
+      <Text>Fanatycy|Fanatyków|Fanatykom|Fanatyków|Fanatykami|Fanatykach</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_CULTISTS_DESCRIPTION" Language="pl_PL">
+      <Text>Wyjątkowo zaangażowani fanatycy|Wyjątkowo zaangażowanych fanatyków|Wyjątkowo zaangażowanym fanatykom|Wyjątkowo zaangażowanych fanatyków|Wyjątkowo zaangażowanymi fanatykami|Wyjątkowo zaangażowanych fanatykach|wyjątkowo zaangażowani fanatycy|wyjątkowo zaangażowanych fanatyków|wyjątkowo zaangażowanym fanatykom|wyjątkowo zaangażowanych fanatyków|wyjątkowo zaangażowanymi fanatykami|wyjątkowo zaangażowanych fanatykach</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_CULTISTS_ADJECTIVE" Language="pl_PL">
+      <Text>Fanatyczny|Fanatyczna|Fanatyczni|Fanatyczne|Fanatyczn|fanatyczny|fanatyczna|fanatyczni|fanatyczne|fanatyczn|fanatycznych</Text>
+      <Gender>masculine|feminine|masculine|feminine|neuter|masculine|feminine|masculine|feminine|neuter|masculine</Gender>
+      <Plurality>1|1|2|2|1|1|1|2|2|1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_CULTISTS_ABILITY_NAME" Language="pl_PL">
+      <Text>Obserwatorzy końca</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_CULTISTS_ABILITY_DESCRIPTION" Language="pl_PL">
+      <Text>Wszystkie jednostki mają premię +3 do zasięgu widzenia.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_EDGELORDS_NAME" Language="pl_PL">
+      <Text>Władcy Krawędzi|Władców Krawędzi|Władcom Krawędzi|Władców Krawędzi|Władcami Krawędzi|Władcach Krawędzi</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_EDGELORDS_DESCRIPTION" Language="pl_PL">
+      <Text>Bardzo goccy Władcy Krawędzi|Bardzo gockich Władców Krawędzi|Bardzo gockim Władcom Krawędzi|Bardzo gockich Władców Krawędzi|Bardzo gockimi Władcami Krawędzi|Bardzo gockich Władcach Krawędzi</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_EDGELORDS_ADJECTIVE" Language="pl_PL">
+      <Text>Krawędziowy|Krawędziowa|Krawędziowi|Krawędziowe|Krawędziow|krawędziowy|krawędziowa|krawędziowi|krawędziowe|krawędziow|krawędziowych</Text>
+      <Gender>masculine|feminine|masculine|feminine|neuter|masculine|feminine|masculine|feminine|neuter|masculine</Gender>
+      <Plurality>1|1|2|2|1|1|1|2|2|1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_EDGELORDS_ABILITY_NAME" Language="pl_PL">
+      <Text>Życie na krawędzi</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_EDGELORDS_ABILITY_DESCRIPTION" Language="pl_PL">
+      <Text>+10 do [ICON_Strength] siły bojowej w odległości 3 lub mniej pól od granicy bezpiecznej strefy.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_JOCKS_NAME" Language="pl_PL">
+      <Text>Karki|Karków|Karkom|Karków|Karkami|Karkach</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_JOCKS_DESCRIPTION" Language="pl_PL">
+      <Text>Najwredniejsze karki|Najwredniejszych karków|Najwredniejszym karkom|Najwredniejszych karków|Najwredniejszymi karkami|Najwredniejszych karkach|najwredniejsze karki|najwredniejszych karków|najwredniejszym karkom|najwredniejszych karków|najwredniejszymi karkami|najwredniejszych karkach</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_JOCKS_ADJECTIVE" Language="pl_PL">
+      <Text>Karkowy|Karkowa|Karkowi|Karkowe|Karkow|karkowy|karkowa|karkowi|karkowe|karkow|karkowych</Text>
+      <Gender>masculine|feminine|masculine|feminine|neuter|masculine|feminine|masculine|feminine|neuter|masculine</Gender>
+      <Plurality>1|1|2|2|1|1|1|2|2|1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_JOCKS_ABILITY_NAME" Language="pl_PL">
+      <Text>Wcielenie doskonałości</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_JOCKS_ABILITY_DESCRIPTION" Language="pl_PL">
+      <Text>+5 do [ICON_Strength] siły bojowej.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_NAME" Language="pl_PL">
+      <Text>Mutanci|Mutantów|Mutantom|Mutantów|Mutantami|Mutantach</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_DESCRIPTION" Language="pl_PL">
+      <Text>Pokryci bliznami mutanci|Pokrytych bliznami mutantów|Pokrytym bliznami mutantom|Pokrytych bliznami mutantów|Pokrytymi bliznami mutantami|Pokrytych bliznami mutantach|pokryci bliznami mutanci|pokrytych bliznami mutantów|pokrytym bliznami mutantom|pokrytych bliznami mutantów|pokrytymi bliznami mutantami|pokrytych bliznami mutantach</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_ADJECTIVE" Language="pl_PL">
+      <Text>Mutancki|Mutancka|Mutantcy|Mutanckie|Mutanck|mutancki|mutancka|mutantcy|mutanckie|mutanck|mutanckich</Text>
+      <Gender>masculine|feminine|masculine|feminine|neuter|masculine|feminine|masculine|feminine|neuter|masculine</Gender>
+      <Plurality>1|1|2|2|1|1|1|2|2|1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_WMD_RESIST_ABILITY_NAME" Language="pl_PL">
+      <Text>Promienne osobowości|Promiennych osobowości|Promiennym osobowościom|Promienne osobowości|Promiennymi osobowościami|Promiennych osobowościach|promienne osobowości|promiennych osobowości|promiennym osobowościom|promienne osobowości|promiennymi osobowościami|promiennych osobowościach</Text>
+      <Gender>feminine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_WMD_RESIST_ABILITY_DESCRIPTION" Language="pl_PL">
+      <Text>Obrażenia powodowane przez czerwoną śmierć są mniejsze o 50%.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_FALLOUT_MOVE_ABILITY_NAME" Language="pl_PL">
+      <Text>Radioaktywna ruchliwość|Radioaktywnej ruchliwości|Radioaktywnej ruchliwości|Radioaktywną ruchliwość|Radioaktywną ruchliwością|Radioaktywnej ruchliwości|radioaktywna ruchliwość|radioaktywnej ruchliwości|radioaktywnej ruchliwości|radioaktywną ruchliwość|radioaktywną ruchliwością|radioaktywnej ruchliwości</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_FALLOUT_MOVE_ABILITY_DESCRIPTION" Language="pl_PL">
+      <Text>+3 do [ICON_Movement] ruchu wszystkich jednostek znajdujących się na obszarze czerwonej śmierci.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_FALLOUT_SPREAD_ABILITY_NAME" Language="pl_PL">
+      <Text>Promienne osobowości|Promiennych osobowości|Promiennym osobowościom|Promienne osobowości|Promiennymi osobowościami|Promiennych osobowościach|promienne osobowości|promiennych osobowości|promiennym osobowościom|promienne osobowości|promiennymi osobowościami|promiennych osobowościach</Text>
+      <Gender>feminine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_FALLOUT_SPREAD_ABILITY_DESCRIPTION" Language="pl_PL">
+      <Text>Jednostki mutantów pochłaniają 8 ładunków radioaktywnych na każdą turę rozpoczętą na obszarze, który jest objęty czerwoną śmiercią lub opadem związanym z bronią masowego rażenia. Jednostki te przenoszą czerwoną śmierć na nieskażone pola raz na każdy radioaktywny ładunek. Jednostki mutantów nie odnoszą obrażeń związanych z czerwoną śmiercią na polach, które same nią skaziły.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PREPPERS_NAME" Language="pl_PL">
+      <Text>Surwiwaliści|Surwiwalistów|Surwiwalistom|Surwiwalistów|Surwiwalistami|Surwiwalistach</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PREPPERS_DESCRIPTION" Language="pl_PL">
+      <Text>Zwariowani surwiwaliści|Zwariowanych surwiwalistów|Zwariowanym surwiwalistom|Zwariowanych surwiwalistów|Zwariowanymi surwiwalistami|Zwariowanych surwiwalistach|zwariowani surwiwaliści|zwariowanych surwiwalistów|zwariowanym surwiwalistom|zwariowanych surwiwalistów|zwariowanymi surwiwalistami|zwariowanych surwiwalistach</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PREPPERS_ADJECTIVE" Language="pl_PL">
+      <Text>Surwiwalowy|Surwiwalowa|Surwiwalowi|Surwiwalowe|Surwiwalow|surwiwalowy|surwiwalowa|surwiwalowi|surwiwalowe|surwiwalow|surwiwalowych</Text>
+      <Gender>masculine|feminine|masculine|feminine|neuter|masculine|feminine|masculine|feminine|neuter|masculine</Gender>
+      <Plurality>1|1|2|2|1|1|1|2|2|1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PREPPERS_ABILITY_NAME" Language="pl_PL">
+      <Text>Zawsze szykuj się na najgorsze</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PREPPERS_ABILITY_DESCRIPTION" Language="pl_PL">
+      <Text>Wszystkie jednostki mają premię +100% do zdobywanego doświadczenia.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PIRATES_NAME" Language="pl_PL">
+      <Text>Piraci|Piratów|Piratom|Piratów|Piratami|Piratach</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PIRATES_DESCRIPTION" Language="pl_PL">
+      <Text>Napromieniowani piraci|Napromieniowanych piratów|Napromieniowanym piratom|Napromieniowanych piratów|Napromieniowanymi piratami|Napromieniowanych piratach|napromieniowani piraci|napromieniowanych piratów|napromieniowanym piratom|napromieniowanych piratów|napromieniowanymi piratami|napromieniowanych piratach</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PIRATES_ADJECTIVE" Language="pl_PL">
+      <Text>Piracki|Piracka|Piraccy|Pirackie|Pirack|piracki|piracka|piraccy|pirackie|pirack|pirackich</Text>
+      <Gender>masculine|feminine|masculine|feminine|neuter|masculine|feminine|masculine|feminine|neuter|masculine</Gender>
+      <Plurality>1|1|2|2|1|1|1|2|2|1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PIRATES_ABILITY_NAME" Language="pl_PL">
+      <Text>Nawodnienie</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PIRATES_CIV_ABILITY_DESCRIPTION" Language="pl_PL">
+      <Text>Wszystkie jednostki otrzymują o 50% mniej obrażeń powodowanych przez wodę i ignorują dodatkowe koszty ruchu za okrętowanie i wyokrętowanie.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PIRATES_LEADER_ABILITY_DESCRIPTION" Language="pl_PL">
+      <Text>Brak kosztu [ICON_Movement] ruchu za okrętowanie i wyokrętowanie.</Text>
+      <Gender>neuter</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_SCIENTISTS_NAME" Language="pl_PL">
+      <Text>Szaleni Naukowcy|Szalonych Naukowców|Szalonym Naukowcom|Szalonych Naukowców|Szalonymi Naukowcami|Szalonych Naukowcach</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_SCIENTISTS_DESCRIPTION" Language="pl_PL">
+      <Text>Wybrakowani etycznie naukowcy|Wybrakowanych etycznie naukowców|Wybrakowanym etycznie naukowcom|Wybrakowanych etycznie naukowców|Wybrakowanymi etycznie naukowcami|Wybrakowanych etycznie naukowcach|wybrakowani etycznie naukowcy|wybrakowanych etycznie naukowców|wybrakowanym etycznie naukowcom|wybrakowanych etycznie naukowców|wybrakowanymi etycznie naukowcami|wybrakowanych etycznie naukowcach</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_SCIENTISTS_ADJECTIVE" Language="pl_PL">
+      <Text>Szalony|Szalona|Szaleni|Szalone|Szalon|szalony|szalona|szaleni|szalone|szalon|szalonych</Text>
+      <Gender>masculine|feminine|masculine|feminine|neuter|masculine|feminine|masculine|feminine|neuter|masculine</Gender>
+      <Plurality>1|1|2|2|1|1|1|2|2|1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_SCIENTISTS_ABILITY_NAME" Language="pl_PL">
+      <Text>Tylko trochę zapiecze</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_SCIENTISTS_ABILITY_DESCRIPTION" Language="pl_PL">
+      <Text>Wszystkie jednostki leczą się 2 razy szybciej.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_WANDERERS_NAME" Language="pl_PL">
+      <Text>Wędrowcy|Wędrowców|Wędrowcom|Wędrowców|Wędrowcami|Wędrowcach</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_WANDERERS_DESCRIPTION" Language="pl_PL">
+      <Text>Nieskrępowani wędrowcy|Nieskrępowanych wędrowców|Nieskrępowanym wędrowcom|Nieskrępowanych wędrowców|Nieskrępowanymi wędrowcami|Nieskrępowanych wędrowcach|nieskrępowani wędrowcy|nieskrępowanych wędrowców|nieskrępowanym wędrowcom|nieskrępowanych wędrowców|nieskrępowanymi wędrowcami|nieskrępowanych wędrowcach</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_WANDERERS_ADJECTIVE" Language="pl_PL">
+      <Text>Wędrowny|Wędrowna|Wędrowni|Wędrowne|Wędrown|wędrowny|wędrowna|wędrowni|wędrowne|wędrown|wędrownych</Text>
+      <Gender>masculine|feminine|masculine|feminine|neuter|masculine|feminine|masculine|feminine|neuter|masculine</Gender>
+      <Plurality>1|1|2|2|1|1|1|2|2|1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_WANDERERS_ABILITY_NAME" Language="pl_PL">
+      <Text>Do zobaczenia</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_WANDERERS_ABILITY_DESCRIPTION" Language="pl_PL">
+      <Text>Piechota i jednostki karabinów maszynowych oraz cywile należący do ich formacji [ICON_Movement] poruszają się szybciej w lasach, lasach deszczowych i na wzgórzach.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_WANDERERS_ABILITY_DESCRIPTION_B" Language="pl_PL">
+      <Text>Wszystkie jednostki wojskowe [ICON_Movement] poruszają się szybciej w lasach, lasach deszczowych i na wzgórzach.</Text>
+      <Gender>neuter</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_WANDERERS_ABILITY_DESCRIPTION_C" Language="pl_PL">
+      <Text>Cywilne i niezmechanizowane jednostki [ICON_Movement] poruszają się szybciej w lasach, lasach deszczowych i na wzgórzach.</Text>
+      <Gender>neuter</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_WANDERERS_ABILITY_DESCRIPTION_D" Language="pl_PL">
+      <Text>Wszystkie niezmechanizowane jednostki [ICON_Movement] poruszają się szybciej w lasach, lasach deszczowych i na wzgórzach.</Text>
+      <Gender>neuter</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CIVROYALE_SCENARIO_CULTISTS_NAME" Language="pl_PL">
+      <Text>Fanatycy|Fanatyków|Fanatykom|Fanatyków|Fanatykami|Fanatykach</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CIVROYALE_SCENARIO_EDGELORDS_NAME" Language="pl_PL">
+      <Text>Władcy Krawędzi|Władców Krawędzi|Władcom Krawędzi|Władców Krawędzi|Władcami Krawędzi|Władcach Krawędzi</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CIVROYALE_SCENARIO_JOCKS_NAME" Language="pl_PL">
+      <Text>Karki|Karków|Karkom|Karków|Karkami|Karkach</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CIVROYALE_SCENARIO_MUTANTS_NAME" Language="pl_PL">
+      <Text>Mutanci|Mutantów|Mutantom|Mutantów|Mutantami|Mutantach</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CIVROYALE_SCENARIO_PREPPERS_NAME" Language="pl_PL">
+      <Text>Surwiwaliści|Surwiwalistów|Surwiwalistom|Surwiwalistów|Surwiwalistami|Surwiwalistach</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CIVROYALE_SCENARIO_PIRATES_NAME" Language="pl_PL">
+      <Text>Piraci|Piratów|Piratom|Piratów|Piratami|Piratach</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CIVROYALE_SCENARIO_SCIENTISTS_NAME" Language="pl_PL">
+      <Text>Szaleni Naukowcy|Szalonych Naukowców|Szalonym Naukowcom|Szalonych Naukowców|Szalonymi Naukowcami|Szalonych Naukowcach</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CIVROYALE_SCENARIO_WANDERERS_NAME" Language="pl_PL">
+      <Text>Wędrowcy|Wędrowców|Wędrowcom|Wędrowców|Wędrowcami|Wędrowcach</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_RULESET_TITLE" Language="pl_PL">
+      <Text>Czerwona Śmierć (battle royale)</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_MOD_DESCRIPTION" Language="pl_PL">
+      <Text>Czerwona Śmierć (battle royale)</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_RULESET_TEASER" Language="pl_PL">
+      <Text>Czerwona Śmierć to tryb battle royale przygotowany specjalnie z myślą o Civilization VI. Pokieruj grupą ocalałych przedstawicieli ludzkości walczących o jedyną szansę na ucieczkę z umierającej planety.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_VICTORY_TITLE" Language="pl_PL">
+      <Text>Staw czoła próbie sił</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_VICTORY_DESC" Language="pl_PL">
+      <Text>Spraw, by twoja frakcja przetrwała najdłużej.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_CULTISTS_NAME" Language="ru_RU">
+      <Text>Сектанты|сектантов|сектантам|сектантов|сектантами|сектантах</Text>
+      <Gender>2</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_CULTISTS_DESCRIPTION" Language="ru_RU">
+      <Text>Посвященные сектанты|Посвященных сектантов|Посвященным сектантам|Посвященных сектантов|Посвященными сектантами|Посвященных сектантах</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_CULTISTS_ADJECTIVE" Language="ru_RU">
+      <Text>Сектантский|сектантского|сектантскому|сектантский|сектантским|сектантском</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_CULTISTS_ABILITY_NAME" Language="ru_RU">
+      <Text>В ожидании конца</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_CULTISTS_ABILITY_DESCRIPTION" Language="ru_RU">
+      <Text>Все юниты получают +3 к обзору.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_EDGELORDS_NAME" Language="ru_RU">
+      <Text>Антигерои|антигероев|антигероям|антигероев|антигероями|антигероях</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_EDGELORDS_DESCRIPTION" Language="ru_RU">
+      <Text>Готические антигерои|готических антигероев|готическим антигероям|готических антигероев|готическими антигероями|готических антигероях</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_EDGELORDS_ADJECTIVE" Language="ru_RU">
+      <Text>Антигеройск.|антигеройск.|антигеройск.|антигеройск.|антигеройск.|антигеройск.</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_EDGELORDS_ABILITY_NAME" Language="ru_RU">
+      <Text>Жизнь на грани</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_EDGELORDS_ABILITY_DESCRIPTION" Language="ru_RU">
+      <Text>+10 [ICON_Strength] к боевой мощи в пределах 3 клеток от границы безопасной зоны.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_JOCKS_NAME" Language="ru_RU">
+      <Text>Фанаты|Фанатов|Фанатам|Фанатов|Фанатами|Фанатах</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_JOCKS_DESCRIPTION" Language="ru_RU">
+      <Text>Злобные фанаты|Злобных фанатов|Злобным фанатам|Злобных фанатов|Злобными фанатами|Злобных фанатах</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_JOCKS_ADJECTIVE" Language="ru_RU">
+      <Text>Фанатский|Фанатского|Фанатскому|Фанатский|Фанатским|Фанатском</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_JOCKS_ABILITY_NAME" Language="ru_RU">
+      <Text>Свидетель совершенства</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_JOCKS_ABILITY_DESCRIPTION" Language="ru_RU">
+      <Text>+5 [ICON_Strength] к боевой мощи.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_NAME" Language="ru_RU">
+      <Text>Мутанты|Мутантов|Мутантам|Мутантов|Мутантами|Мутантах</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_DESCRIPTION" Language="ru_RU">
+      <Text>Мутанты в страшных шрамах|Мутантов в страшных шрамах|Мутантам в страшных шрамах|Мутантов в страшных шрамах|Мутантами в страшных шрамах|Мутантах в страшных шрамах</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_ADJECTIVE" Language="ru_RU">
+      <Text>Мутантский|Мутантского|Мутантскому|Мутантский|Мутантским|Мутантском</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_WMD_RESIST_ABILITY_NAME" Language="ru_RU">
+      <Text>Светящиеся личности|Светящихся личностей|Светящимся личностям|Светящиеся личности|Светящимися личностями|Светящихся личностях</Text>
+      <Gender>feminine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_WMD_RESIST_ABILITY_DESCRIPTION" Language="ru_RU">
+      <Text>-50% урона от «Красной смерти».</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_FALLOUT_MOVE_ABILITY_NAME" Language="ru_RU">
+      <Text>Радиоактивное перемещение|Радиоактивного перемещения|Радиоактивному перемещению|Радиоактивное перемещение|Радиоактивным перемещением|Радиоактивном перемещении</Text>
+      <Gender>neuter</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_FALLOUT_MOVE_ABILITY_DESCRIPTION" Language="ru_RU">
+      <Text>+3 [ICON_Movement] ОП для юнитов в «Красной смерти».</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_FALLOUT_SPREAD_ABILITY_NAME" Language="ru_RU">
+      <Text>Светящиеся личности|Светящихся личностей|Светящимся личностям|Светящиеся личности|Светящимися личностями|Светящихся личностях</Text>
+      <Gender>feminine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_FALLOUT_SPREAD_ABILITY_DESCRIPTION" Language="ru_RU">
+      <Text>Юниты мутантов поглощают 8 зарядов радиации за ход, начатый в «Красной смерти» или в зоне применения ОМП. Один поглощенный мутантами заряд заражает «Красной смертью» одну чистую клетку. Юниты мутантов не получают урона от «Красной смерти», распространяемой мутантами.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PREPPERS_NAME" Language="ru_RU">
+      <Text>Выживальщики|Выживальщиков|Выживальщикам|Выживальщиков|Выживальщиками|Выживальщиках</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PREPPERS_DESCRIPTION" Language="ru_RU">
+      <Text>Одержимые выживальщики Судного дня|Одержимых выживальщиков Судного дня|Одержимым выживальщикам Судного дня|Одержимых выживальщиков Судного дня|Одержимыми выживальщиками Судного дня|Одержимых выживальщиках Судного дня</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PREPPERS_ADJECTIVE" Language="ru_RU">
+      <Text>Сурвивалистский|Сурвивалистского|Сурвивалистскому|Сурвивалистский|Сурвивалистским|Сурвивалистском</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PREPPERS_ABILITY_NAME" Language="ru_RU">
+      <Text>Всегда готовы к худшему</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PREPPERS_ABILITY_DESCRIPTION" Language="ru_RU">
+      <Text>Бонус к опыту +100% для всех юнитов.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PIRATES_NAME" Language="ru_RU">
+      <Text>Пираты|Пиратов|Пиратам|Пиратов|Пиратами|Пиратах</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PIRATES_DESCRIPTION" Language="ru_RU">
+      <Text>Облученные пираты|Облученных пиратов|Облученным пиратам|Облученных пиратов|Облученными пиратами|Облученных пиратах</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PIRATES_ADJECTIVE" Language="ru_RU">
+      <Text>Пиратский|Пиратского|Пиратскому|Пиратский|Пиратским|Пиратском</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PIRATES_ABILITY_NAME" Language="ru_RU">
+      <Text>Водный мир</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PIRATES_CIV_ABILITY_DESCRIPTION" Language="ru_RU">
+      <Text>Все юниты получают на 50% меньше урона от воды и не получают штрафа к перемещению от погрузки и выгрузки с корабля.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PIRATES_LEADER_ABILITY_DESCRIPTION" Language="ru_RU">
+      <Text>Нет штрафа к [ICON_Movement] ОП за погрузку на корабль и выгрузку с него.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_SCIENTISTS_NAME" Language="ru_RU">
+      <Text>Сумасшедшие ученые|Сумасшедших ученых|Сумасшедшим ученым|Сумасшедших ученых|Сумасшедшими учеными|Сумасшедших ученых</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_SCIENTISTS_DESCRIPTION" Language="ru_RU">
+      <Text>Аморальные ученые|Аморальных ученых|Аморальным ученым|Аморальных ученых|Аморальными учеными|Аморальных ученых</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_SCIENTISTS_ADJECTIVE" Language="ru_RU">
+      <Text>Сумасшедшие ученые|Сумасшедших ученых|Сумасшедшим ученым|Сумасшедших ученых|Сумасшедшими учеными|Сумасшедших ученых</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_SCIENTISTS_ABILITY_NAME" Language="ru_RU">
+      <Text>Даже не почувствуете</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_SCIENTISTS_ABILITY_DESCRIPTION" Language="ru_RU">
+      <Text>Все юниты лечатся в 2 раза быстрее.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_WANDERERS_NAME" Language="ru_RU">
+      <Text>Скитальцы|скитальцев|скитальцам|скитальцев|скитальцами|скитальцах</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_WANDERERS_DESCRIPTION" Language="ru_RU">
+      <Text>Добровольные скитальцы|Добровольных скитальцев|Добровольным скитальцам|Добровольных скитальцев|Добровольными скитальцами|Добровольных скитальцах</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_WANDERERS_ADJECTIVE" Language="ru_RU">
+      <Text>Скитальческий|скитальческого|скитальческому|скитальческий|скитальческим|скитальческом</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_WANDERERS_ABILITY_NAME" Language="ru_RU">
+      <Text>До встречи</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_WANDERERS_ABILITY_DESCRIPTION" Language="ru_RU">
+      <Text>Пехотинцы и пулеметчики (а также гражданские юниты в общем построении с ними) быстрее [ICON_Movement] передвигаются по лесам, тропическим лесам и холмам.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_WANDERERS_ABILITY_DESCRIPTION_B" Language="ru_RU">
+      <Text>Все военные юниты быстрее [ICON_Movement] передвигаются по лесам, тропическим лесам и холмам.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_WANDERERS_ABILITY_DESCRIPTION_C" Language="ru_RU">
+      <Text>Гражданские и немеханизированные юниты быстрее [ICON_Movement] передвигаются по лесам, тропическим лесам и холмам.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_WANDERERS_ABILITY_DESCRIPTION_D" Language="ru_RU">
+      <Text>Все немеханизированные юниты быстрее [ICON_Movement] передвигаются по лесам, тропическим лесам и холмам.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CIVROYALE_SCENARIO_CULTISTS_NAME" Language="ru_RU">
+      <Text>Сектанты|Сектантов|Сектантам|Сектантов|Сектантами|Сектантах</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CIVROYALE_SCENARIO_EDGELORDS_NAME" Language="ru_RU">
+      <Text>Антигерои|антигероев|антигероям|антигероев|антигероями|антигероях</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CIVROYALE_SCENARIO_JOCKS_NAME" Language="ru_RU">
+      <Text>Фанаты|Фанатов|Фанатам|Фанатов|Фанатами|Фанатах</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CIVROYALE_SCENARIO_MUTANTS_NAME" Language="ru_RU">
+      <Text>Мутанты|Мутантов|Мутантам|Мутантов|Мутантами|Мутантах</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CIVROYALE_SCENARIO_PREPPERS_NAME" Language="ru_RU">
+      <Text>Выживальщики|Выживальщиков|Выживальщикам|Выживальщиков|Выживальщиками|Выживальщиках</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CIVROYALE_SCENARIO_PIRATES_NAME" Language="ru_RU">
+      <Text>Пираты|Пиратов|Пиратам|Пиратов|Пиратами|Пиратах</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CIVROYALE_SCENARIO_SCIENTISTS_NAME" Language="ru_RU">
+      <Text>Сумасшедшие ученые|Сумасшедших ученых|Сумасшедшим ученым|Сумасшедших ученых|Сумасшедшими учеными|Сумасшедших ученых</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CIVROYALE_SCENARIO_WANDERERS_NAME" Language="ru_RU">
+      <Text>Скитальцы|Скитальцев|Скитальцам|Скитальцев|Скитальцами|Скитальцах</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_RULESET_TITLE" Language="ru_RU">
+      <Text>«Красная смерть» (королевская битва)</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_MOD_DESCRIPTION" Language="ru_RU">
+      <Text>«Красная смерть» (королевская битва)</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_RULESET_TEASER" Language="ru_RU">
+      <Text>«Красная смерть» – это Civilization VI в режиме «королевской битвы». Ваш приз – последний билет в один конец с гибнущей планеты.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_VICTORY_TITLE" Language="ru_RU">
+      <Text>Пройти проверку королей</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_VICTORY_DESC" Language="ru_RU">
+      <Text>Станьте последней фракцией!</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_CULTISTS_NAME" Language="zh_Hans_CN">
+      <Text>邪教徒</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_CULTISTS_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>失心疯狂的邪教徒</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_CULTISTS_ADJECTIVE" Language="zh_Hans_CN">
+      <Text>邪教徒</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_CULTISTS_ABILITY_NAME" Language="zh_Hans_CN">
+      <Text>洞悉一切</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_CULTISTS_ABILITY_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>所有单位视野+3。</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_EDGELORDS_NAME" Language="zh_Hans_CN">
+      <Text>边缘之主</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_EDGELORDS_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>残忍暴戾的边缘之主</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_EDGELORDS_ADJECTIVE" Language="zh_Hans_CN">
+      <Text>边缘之主的</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_EDGELORDS_ABILITY_NAME" Language="zh_Hans_CN">
+      <Text>生活在别处</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_EDGELORDS_ABILITY_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>在安全区边界3单元格范围内时+10 [ICON_Strength] 战斗力。</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_JOCKS_NAME" Language="zh_Hans_CN">
+      <Text>运动狂</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_JOCKS_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>极其恶毒的运动狂</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_JOCKS_ADJECTIVE" Language="zh_Hans_CN">
+      <Text>运动狂</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_JOCKS_ABILITY_NAME" Language="zh_Hans_CN">
+      <Text>见证完美</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_JOCKS_ABILITY_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>+5 [ICON_Strength] 战斗力。</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_NAME" Language="zh_Hans_CN">
+      <Text>变异人</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>疤痕累累的变异人</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_ADJECTIVE" Language="zh_Hans_CN">
+      <Text>变异人</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_WMD_RESIST_ABILITY_NAME" Language="zh_Hans_CN">
+      <Text>辐射特征</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_WMD_RESIST_ABILITY_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>-50%红死风暴伤害。</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_FALLOUT_MOVE_ABILITY_NAME" Language="zh_Hans_CN">
+      <Text>逃离有害物</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_FALLOUT_MOVE_ABILITY_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>位于红死风暴区域中的所有单位+3 [ICON_Movement] 移动力。</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_FALLOUT_SPREAD_ABILITY_NAME" Language="zh_Hans_CN">
+      <Text>辐射特征</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_FALLOUT_SPREAD_ABILITY_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>初始位于红死风暴区域或大规模杀伤性武器辐射中时，变异人单位每回合将受到8点辐射。变异人单位受到辐射后会将红死风暴传播至周围未受影响的单元格。变异人单位免疫变异人传播的红死风暴之伤害。</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PREPPERS_NAME" Language="zh_Hans_CN">
+      <Text>求生者</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PREPPERS_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>狂热的末日求生者</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PREPPERS_ADJECTIVE" Language="zh_Hans_CN">
+      <Text>求生者</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PREPPERS_ABILITY_NAME" Language="zh_Hans_CN">
+      <Text>永远做好最坏打算</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PREPPERS_ABILITY_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>所有单位经验值+100%。</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PIRATES_NAME" Language="zh_Hans_CN">
+      <Text>海盗</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PIRATES_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>遭辐射的海盗</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PIRATES_ADJECTIVE" Language="zh_Hans_CN">
+      <Text>海盗</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PIRATES_ABILITY_NAME" Language="zh_Hans_CN">
+      <Text>水性极佳</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PIRATES_CIV_ABILITY_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>所有单位受到的水伤害-50%。上下船不消耗额外的移动力。</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PIRATES_LEADER_ABILITY_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>上下船时不消耗 [ICON_Movement] 移动力。</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_SCIENTISTS_NAME" Language="zh_Hans_CN">
+      <Text>疯狂科学家</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_SCIENTISTS_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>挑战伦理的科学家</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_SCIENTISTS_ADJECTIVE" Language="zh_Hans_CN">
+      <Text>疯狂科学家</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_SCIENTISTS_ABILITY_NAME" Language="zh_Hans_CN">
+      <Text>只有一点点痛</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_SCIENTISTS_ABILITY_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>所有单位治疗速度加倍。</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_WANDERERS_NAME" Language="zh_Hans_CN">
+      <Text>流浪者</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_WANDERERS_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>随遇而安的流浪者</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_WANDERERS_ADJECTIVE" Language="zh_Hans_CN">
+      <Text>流浪者</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_WANDERERS_ABILITY_NAME" Language="zh_Hans_CN">
+      <Text>有缘再见</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_WANDERERS_ABILITY_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>步兵和机枪手（以及同一编队中的平民单位）在树林、雨林和丘陵地貌上拥有更高的 [ICON_Movement] 移动力。</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_WANDERERS_ABILITY_DESCRIPTION_B" Language="zh_Hans_CN">
+      <Text>所有军事单位在树林、雨林和丘陵地貌上拥有更高的 [ICON_Movement] 移动力。</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_WANDERERS_ABILITY_DESCRIPTION_C" Language="zh_Hans_CN">
+      <Text>平民和非机械化单位在树林、雨林和丘陵地貌上拥有更高的 [ICON_Movement] 移动力。</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_WANDERERS_ABILITY_DESCRIPTION_D" Language="zh_Hans_CN">
+      <Text>所有非机械化单位在树林、雨林和丘陵地貌上拥有更高的 [ICON_Movement] 移动力。</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CIVROYALE_SCENARIO_CULTISTS_NAME" Language="zh_Hans_CN">
+      <Text>邪教徒</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CIVROYALE_SCENARIO_EDGELORDS_NAME" Language="zh_Hans_CN">
+      <Text>边缘之主</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CIVROYALE_SCENARIO_JOCKS_NAME" Language="zh_Hans_CN">
+      <Text>运动狂</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CIVROYALE_SCENARIO_MUTANTS_NAME" Language="zh_Hans_CN">
+      <Text>变异人</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CIVROYALE_SCENARIO_PREPPERS_NAME" Language="zh_Hans_CN">
+      <Text>末日求生者</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CIVROYALE_SCENARIO_PIRATES_NAME" Language="zh_Hans_CN">
+      <Text>海盗</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CIVROYALE_SCENARIO_SCIENTISTS_NAME" Language="zh_Hans_CN">
+      <Text>疯狂科学家</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CIVROYALE_SCENARIO_WANDERERS_NAME" Language="zh_Hans_CN">
+      <Text>流浪者</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_RULESET_TITLE" Language="zh_Hans_CN">
+      <Text>红死风暴（大逃杀）</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_MOD_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>红死风暴（大逃杀）</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_RULESET_TEASER" Language="zh_Hans_CN">
+      <Text>“红死风暴”是《文明VI》的大逃杀模式。玩家将扮演幸存者，争夺逃离垂死星球的最后船票。</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_VICTORY_TITLE" Language="zh_Hans_CN">
+      <Text>直面大逃杀考验</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_VICTORY_DESC" Language="zh_Hans_CN">
+      <Text>成为最后一个幸存的势力。</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_CULTISTS_NAME" Language="es_ES">
+      <Text>Sectarios</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_CULTISTS_DESCRIPTION" Language="es_ES">
+      <Text>Unos sectarios con un gran don.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_CULTISTS_ADJECTIVE" Language="es_ES">
+      <Text>sectario|sectaria|sectarios|sectarias</Text>
+      <Gender>masculine|feminine|masculine|feminine</Gender>
+      <Plurality>1|1|2|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_CULTISTS_ABILITY_NAME" Language="es_ES">
+      <Text>Contemplación del fin</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_CULTISTS_ABILITY_DESCRIPTION" Language="es_ES">
+      <Text>Todas las unidades tienen +3 al Alcance visual.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_EDGELORDS_NAME" Language="es_ES">
+      <Text>Señores del límite</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_EDGELORDS_DESCRIPTION" Language="es_ES">
+      <Text>Señores del límite muy góticos</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_EDGELORDS_ADJECTIVE" Language="es_ES">
+      <Text>de los Señores del límite|de los Señores del límite|de los Señores del límite|de los Señores del límite</Text>
+      <Gender>masculine|feminine|masculine|feminine</Gender>
+      <Plurality>1|1|2|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_EDGELORDS_ABILITY_NAME" Language="es_ES">
+      <Text>Vida al límite</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_EDGELORDS_ABILITY_DESCRIPTION" Language="es_ES">
+      <Text>+10 a la Fuerza de combate [ICON_Strength] cuando se está a 3 hexágonos o menos del borde de la zona segura.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_JOCKS_NAME" Language="es_ES">
+      <Text>Deportistas</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_JOCKS_DESCRIPTION" Language="es_ES">
+      <Text>No se andan con tonterías.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_JOCKS_ADJECTIVE" Language="es_ES">
+      <Text>deportista|deportista|deportistas|deportistas</Text>
+      <Gender>masculine|feminine|masculine|feminine</Gender>
+      <Plurality>1|1|2|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_JOCKS_ABILITY_NAME" Language="es_ES">
+      <Text>Perfección de los testigos</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_JOCKS_ABILITY_DESCRIPTION" Language="es_ES">
+      <Text>+5 a la Fuerza de combate [ICON_Strength].</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_NAME" Language="es_ES">
+      <Text>Mutantes</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_DESCRIPTION" Language="es_ES">
+      <Text>Unos mutantes con unas cicatrices horribles.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_ADJECTIVE" Language="es_ES">
+      <Text>mutante|mutante|mutantes|mutantes</Text>
+      <Gender>masculine|feminine|masculine|feminine</Gender>
+      <Plurality>1|1|2|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_WMD_RESIST_ABILITY_NAME" Language="es_ES">
+      <Text>Personalidad radiante</Text>
+      <Gender>female</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_WMD_RESIST_ABILITY_DESCRIPTION" Language="es_ES">
+      <Text>-50% al daño de la Muerte Roja.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_FALLOUT_MOVE_ABILITY_NAME" Language="es_ES">
+      <Text>Movimiento radioactivo</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_FALLOUT_MOVE_ABILITY_DESCRIPTION" Language="es_ES">
+      <Text>+3 al Movimiento [ICON_Movement] de todas las unidades dentro de la Muerte Roja.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_FALLOUT_SPREAD_ABILITY_NAME" Language="es_ES">
+      <Text>Personalidad radiante</Text>
+      <Gender>female</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_FALLOUT_SPREAD_ABILITY_DESCRIPTION" Language="es_ES">
+      <Text>Las unidades de Mutantes absorben 8 cargas de Radiación por turno, cuando empiecen en la Muerte Roja o en la lluvia radioactiva de las armas de destrucción masiva. Las unidades de Mutantes extienden la Muerte Roja a casillas no contaminadas una vez por carga de radiación. Las unidades de Mutantes no reciben daño en las casillas de Muerte Roja que hayan creado.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PREPPERS_NAME" Language="es_ES">
+      <Text>Apocalípticos</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PREPPERS_DESCRIPTION" Language="es_ES">
+      <Text>Unos sonados que se preparan para la llegada del apocalipsis.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PREPPERS_ADJECTIVE" Language="es_ES">
+      <Text>apocalíptico|apocalíptica|apocalípticos|apocalípticas</Text>
+      <Gender>masculine|feminine|masculine|feminine</Gender>
+      <Plurality>1|1|2|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PREPPERS_ABILITY_NAME" Language="es_ES">
+      <Text>Prepárate siempre para lo peor</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PREPPERS_ABILITY_DESCRIPTION" Language="es_ES">
+      <Text>Todas las unidades tienen +100% de bonificación a la experiencia.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PIRATES_NAME" Language="es_ES">
+      <Text>Piratas</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PIRATES_DESCRIPTION" Language="es_ES">
+      <Text>Unos piratas radioactivos.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PIRATES_ADJECTIVE" Language="es_ES">
+      <Text>pirata|pirata|piratas|piratas</Text>
+      <Gender>masculine|feminine|masculine|feminine</Gender>
+      <Plurality>1|1|2|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PIRATES_ABILITY_NAME" Language="es_ES">
+      <Text>Iniciados en el agua</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PIRATES_CIV_ABILITY_DESCRIPTION" Language="es_ES">
+      <Text>Todas las unidades reciben un 50% menos al daño por agua y no sufren los costes de Movimiento adicionales por embarcar y desembarcar.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PIRATES_LEADER_ABILITY_DESCRIPTION" Language="es_ES">
+      <Text>No se sufre penalización al Movimiento [ICON_Movement] por embarcar y desembarcar.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_SCIENTISTS_NAME" Language="es_ES">
+      <Text>Científicos locos</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_SCIENTISTS_DESCRIPTION" Language="es_ES">
+      <Text>Unos científicos con muy poca ética.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_SCIENTISTS_ADJECTIVE" Language="es_ES">
+      <Text>de los científicos locos|de los científicos locos|de los científicos locos|de los científicos locos</Text>
+      <Gender>masculine|feminine|masculine|feminine</Gender>
+      <Plurality>1|1|2|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_SCIENTISTS_ABILITY_NAME" Language="es_ES">
+      <Text>Solo te dolerá un poco</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_SCIENTISTS_ABILITY_DESCRIPTION" Language="es_ES">
+      <Text>Todas las unidades se curan el doble de rápido.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_WANDERERS_NAME" Language="es_ES">
+      <Text>Errantes</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_WANDERERS_DESCRIPTION" Language="es_ES">
+      <Text>Van por donde se les antoja.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_WANDERERS_ADJECTIVE" Language="es_ES">
+      <Text>errante|errante|errantes|errantes</Text>
+      <Gender>masculine|feminine|masculine|feminine</Gender>
+      <Plurality>1|1|2|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_WANDERERS_ABILITY_NAME" Language="es_ES">
+      <Text>Hasta luego</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_WANDERERS_ABILITY_DESCRIPTION" Language="es_ES">
+      <Text>La Infantería y las Ametralladoras, así como las civilizaciones que estén en formación con ellas, se mueven [ICON_Movement] más rápido por terreno de Bosque, Selva tropical y Colina.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_WANDERERS_ABILITY_DESCRIPTION_B" Language="es_ES">
+      <Text>Todas las unidades militares se mueven [ICON_Movement] más rápido por terreno de Bosque, Selva tropical y Colina.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_WANDERERS_ABILITY_DESCRIPTION_C" Language="es_ES">
+      <Text>Los civiles y las unidades que no estén mecanizadas se mueven [ICON_Movement] más rápido por terreno de Bosque, Selva tropical y Colina.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_WANDERERS_ABILITY_DESCRIPTION_D" Language="es_ES">
+      <Text>Todas las unidades que no estén mecanizadas se mueven [ICON_Movement] más rápido por terreno de Bosque, Selva tropical y Colina.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CIVROYALE_SCENARIO_CULTISTS_NAME" Language="es_ES">
+      <Text>Los sectarios</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CIVROYALE_SCENARIO_EDGELORDS_NAME" Language="es_ES">
+      <Text>Señores del límite</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CIVROYALE_SCENARIO_JOCKS_NAME" Language="es_ES">
+      <Text>Los deportistas</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CIVROYALE_SCENARIO_MUTANTS_NAME" Language="es_ES">
+      <Text>Los mutantes</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CIVROYALE_SCENARIO_PREPPERS_NAME" Language="es_ES">
+      <Text>Los apocalípticos</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CIVROYALE_SCENARIO_PIRATES_NAME" Language="es_ES">
+      <Text>Los piratas</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CIVROYALE_SCENARIO_SCIENTISTS_NAME" Language="es_ES">
+      <Text>Los científicos locos</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CIVROYALE_SCENARIO_WANDERERS_NAME" Language="es_ES">
+      <Text>Los errantes</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_RULESET_TITLE" Language="es_ES">
+      <Text>Muerte Roja (Battle Royale)</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_MOD_DESCRIPTION" Language="es_ES">
+      <Text>Muerte Roja (Battle Royale)</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_RULESET_TEASER" Language="es_ES">
+      <Text>Muerte Roja es la interpretación que hace Civilization VI del modo Battle Royale (batalla campal) de otros juegos. Métete en la piel de los supervivientes que luchan por conseguir el único pasaje que puede sacarlos de un planeta moribundo.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_VICTORY_TITLE" Language="es_ES">
+      <Text>Supera la prueba real</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_VICTORY_DESC" Language="es_ES">
+      <Text>Sé la última facción que quede en pie.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_CULTISTS_NAME" Language="zh_Hant_HK">
+      <Text>邪教徒</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_CULTISTS_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>身心投入的邪教徒</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_CULTISTS_ADJECTIVE" Language="zh_Hant_HK">
+      <Text>邪教徒</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_CULTISTS_ABILITY_NAME" Language="zh_Hant_HK">
+      <Text>目睹末日</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_CULTISTS_ABILITY_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>所有單位+3視野。</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_EDGELORDS_NAME" Language="zh_Hant_HK">
+      <Text>邊境主</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_EDGELORDS_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>哥德美學邊境主</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_EDGELORDS_ADJECTIVE" Language="zh_Hant_HK">
+      <Text>邊境主</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_EDGELORDS_ABILITY_NAME" Language="zh_Hant_HK">
+      <Text>活在邊緣</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_EDGELORDS_ABILITY_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>當距離安全區邊界3單元格範圍內時，+10 [ICON_Strength] 戰鬥力。</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_JOCKS_NAME" Language="zh_Hant_HK">
+      <Text>運動狂</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_JOCKS_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>最兇運動狂</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_JOCKS_ADJECTIVE" Language="zh_Hant_HK">
+      <Text>運動狂</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_JOCKS_ABILITY_NAME" Language="zh_Hant_HK">
+      <Text>見證完美</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_JOCKS_ABILITY_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>+5 [ICON_Strength] 戰鬥力。</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_NAME" Language="zh_Hant_HK">
+      <Text>變種人</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>滿身傷疤的變種人</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_ADJECTIVE" Language="zh_Hant_HK">
+      <Text>變種人</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_WMD_RESIST_ABILITY_NAME" Language="zh_Hant_HK">
+      <Text>輻射病特性</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_WMD_RESIST_ABILITY_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>-50%紅死潮傷害。</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_FALLOUT_MOVE_ABILITY_NAME" Language="zh_Hant_HK">
+      <Text>輻射移動力</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_FALLOUT_MOVE_ABILITY_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>在紅死潮區域內的所有單位+3 [ICON_Movement] 移動力。</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_FALLOUT_SPREAD_ABILITY_NAME" Language="zh_Hant_HK">
+      <Text>輻射病特性</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_MUTANTS_FALLOUT_SPREAD_ABILITY_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>處在紅死潮或大規模殺傷性武器的輻射落塵中時，變種人單位每回合會吸收8點輻射充能。每點輻射充能皆可讓變種人單位將紅死潮傳染至未汙染單元格。變種人單位不會因變種人所傳染的紅死潮單元格受到傷害。</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PREPPERS_NAME" Language="zh_Hant_HK">
+      <Text>綢繆者</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PREPPERS_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>超狂末日綢繆者</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PREPPERS_ADJECTIVE" Language="zh_Hant_HK">
+      <Text>綢繆者</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PREPPERS_ABILITY_NAME" Language="zh_Hant_HK">
+      <Text>做好最壞打算</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PREPPERS_ABILITY_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>所有單位+100%經驗值。</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PIRATES_NAME" Language="zh_Hant_HK">
+      <Text>海盜</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PIRATES_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>受輻射污染的海盜</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PIRATES_ADJECTIVE" Language="zh_Hant_HK">
+      <Text>海盜</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PIRATES_ABILITY_NAME" Language="zh_Hant_HK">
+      <Text>深諳水性</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PIRATES_CIV_ABILITY_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>所有單位在水裡受到的傷害減少50%，且上下船不消耗額外的移動力。</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_PIRATES_LEADER_ABILITY_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>上下船無 [ICON_Movement] 移動力減益。</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_SCIENTISTS_NAME" Language="zh_Hant_HK">
+      <Text>瘋狂科學家</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_SCIENTISTS_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>有道德障礙的科學家</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_SCIENTISTS_ADJECTIVE" Language="zh_Hant_HK">
+      <Text>瘋狂科學家</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_SCIENTISTS_ABILITY_NAME" Language="zh_Hant_HK">
+      <Text>只會有一點點痛而已</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_SCIENTISTS_ABILITY_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>所有單位治癒速度為2倍。</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_WANDERERS_NAME" Language="zh_Hant_HK">
+      <Text>流浪者</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_WANDERERS_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>自由意志的流浪者</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_WANDERERS_ADJECTIVE" Language="zh_Hant_HK">
+      <Text>流浪者</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_WANDERERS_ABILITY_NAME" Language="zh_Hant_HK">
+      <Text>待會見</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_WANDERERS_ABILITY_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>步兵和機槍手，及同一編隊中的平民在樹林、雨林和丘陵地貌擁有更高的 [ICON_Movement] 移動力。</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_WANDERERS_ABILITY_DESCRIPTION_B" Language="zh_Hant_HK">
+      <Text>所有軍事單位在樹林、雨林和丘陵地貌擁有更高的 [ICON_Movement] 移動力。</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_WANDERERS_ABILITY_DESCRIPTION_C" Language="zh_Hant_HK">
+      <Text>平民和非機械化單位在樹林、雨林和丘陵地貌擁有更高的 [ICON_Movement] 移動力。</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_CIVROYALE_SCENARIO_WANDERERS_ABILITY_DESCRIPTION_D" Language="zh_Hant_HK">
+      <Text>所有非機械化單位在樹林、雨林和丘陵地貌有更高的 [ICON_Movement] 移動力。</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CIVROYALE_SCENARIO_CULTISTS_NAME" Language="zh_Hant_HK">
+      <Text>邪教徒</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CIVROYALE_SCENARIO_EDGELORDS_NAME" Language="zh_Hant_HK">
+      <Text>邊境主</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CIVROYALE_SCENARIO_JOCKS_NAME" Language="zh_Hant_HK">
+      <Text>運動狂</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CIVROYALE_SCENARIO_MUTANTS_NAME" Language="zh_Hant_HK">
+      <Text>變種人</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CIVROYALE_SCENARIO_PREPPERS_NAME" Language="zh_Hant_HK">
+      <Text>末日綢繆者</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CIVROYALE_SCENARIO_PIRATES_NAME" Language="zh_Hant_HK">
+      <Text>海盜</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CIVROYALE_SCENARIO_SCIENTISTS_NAME" Language="zh_Hant_HK">
+      <Text>瘋狂科學家</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CIVROYALE_SCENARIO_WANDERERS_NAME" Language="zh_Hant_HK">
+      <Text>流浪者</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_RULESET_TITLE" Language="zh_Hant_HK">
+      <Text>紅死潮（大逃殺）</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_MOD_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>紅死潮（大逃殺）</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_RULESET_TEASER" Language="zh_Hant_HK">
+      <Text>「紅死潮」是《文明帝國VI》版本的大逃殺模式。玩家將扮演瀕死星球上的倖存者，相互爭奪最後的逃離機會。</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_VICTORY_TITLE" Language="zh_Hant_HK">
+      <Text>在大逃殺的試煉下生存</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_VICTORY_DESC" Language="zh_Hant_HK">
+      <Text>成為最後生還的陣營。</Text>
+    </Replace>
+  </LocalizedText>
+</GameData>

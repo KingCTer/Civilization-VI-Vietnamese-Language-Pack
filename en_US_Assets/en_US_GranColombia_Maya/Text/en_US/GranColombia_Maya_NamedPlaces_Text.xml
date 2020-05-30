@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<!-- Named Rivers -->
+		<Row Tag="LOC_NAMED_RIVER_MAGDALENA_RIVER_NAME">
+			<Text>Magdalena River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_APURE_RIVER_NAME">
+			<Text>Apure River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_META_RIVER_NAME">
+			<Text>Meta River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_ARAUCA_RIVER_NAME">
+			<Text>Arauca River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_CAUCA_RIVER_NAME">
+			<Text>Cauca River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_CARONI_RIVER_NAME">
+			<Text>Caroní River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_MOTAGUA_RIVER_NAME">
+			<Text>Motagua River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_GRIJALVA_RIVER_NAME">
+			<Text>Grijalva River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_SAMALA_RIVER_NAME">
+			<Text>Samalá River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_CHIXOY_RIVER_NAME">
+			<Text>Chixoy River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_USUMACINTA_RIVER_NAME">
+			<Text>Usumacinta River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_BELIZE_RIVER_NAME">
+			<Text>Belize River</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_RIVER_HONDO_RIVER_NAME">
+			<Text>Hondo River</Text>
+		</Row>
+		<!-- Named Volcanoes -->
+		<Row Tag="LOC_NAMED_VOLCANO_CHIMBORAZO_NAME">
+			<Text>Chimborazo</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_VOLCAN_PURACE_NAME">
+			<Text>Volcán Puracé</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_NEVADO_DEL_TOLIMA_NAME">
+			<Text>Nevado del Tolima</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_VOLCAN_COTOPAXI_NAME">
+			<Text>Volcán Cotopaxi</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_GUAGUA_PICHINCHA_NAME">
+			<Text>Guagua Pichincha</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_TUNGURAHUA_NAME">
+			<Text>Tungurahua</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_HUNAHPU_NAME">
+			<Text>Hunahpú</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_VOLCAN_ATITLAN_NAME">
+			<Text>Volcán Atitlán</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_VOLCAN_TOLIMAN_NAME">
+			<Text>Volcán Tolimán</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_VOLCANO_PACAYA_NAME">
+			<Text>Pacaya</Text>
+		</Row>
+		<!-- Named Mountains -->
+		<Row Tag="LOC_NAMED_MOUNTAIN_CORDILLERA_CENTRAL_NAME">
+			<Text>Cordillera Central</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_CORDILLERA_OCCIDENTAL_NAME">
+			<Text>Cordillera Occidental</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_CORDILLERA_ORIENTAL_NAME">
+			<Text>Cordillera Oriental</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_GUIANA_HIGHLANDS_NAME">
+			<Text>Guiana Highlands</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_CORDILLERA_DE_MERIDA_NAME">
+			<Text>Cordillera de Mérida</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_CORDILLERA_DE_LA_COSTA_NAME">
+			<Text>Cordillera de la Costa</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_MAYA_MOUNTAINS_NAME">
+			<Text>Maya Mountains</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_SIERRA_MADRE_DE_CHIAPAS_NAME">
+			<Text>Sierra Madre de Chiapas</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_SIERRA_DE_LOS_CUCHUMATANES_NAME">
+			<Text>Sierra de los Cuchumatanes</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_GUATEMALAN_HIGHLANDS_NAME">
+			<Text>Guatemalan Highlands</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_MOUNTAIN_SIERRA_DE_LAS_MINAS_NAME">
+			<Text>Sierra de las Minas</Text>
+		</Row>
+		<!-- Named Deserts -->
+		<Row Tag="LOC_NAMED_DESERT_LA_GUAJIRA_DESERT_NAME">
+			<Text>La Guajira Desert</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_DESERT_TATACOA_DESERT_NAME">
+			<Text>Tatacoa Desert</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_DESERT_MEDANOS_DE_CORO_NAME">
+			<Text>Médanos de Coro</Text>
+		</Row>
+		<!-- Named Lakes -->
+		<Row Tag="LOC_NAMED_LAKE_LAKE_LEOPOLDO_NAME">
+			<Text>Lake Leopoldo</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_VALENCIA_NAME">
+			<Text>Lake Valencia</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_TOTA_NAME">
+			<Text>Lake Tota</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAGUNA_DE_LA_COCHA_NAME">
+			<Text>Laguna de la Cocha</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_HERRERA_NAME">
+			<Text>Lake Herrera</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_IZABAL_NAME">
+			<Text>Lake Izabal</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_PETEN_ITZA_NAME">
+			<Text>Lake Petén Itzá</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_AMATITLAN_NAME">
+			<Text>Lake Amatitlán</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_LAKE_LAKE_GUIJA_NAME">
+			<Text>Lake Güija</Text>
+		</Row>
+		<!-- Named Seas -->
+		<Row Tag="LOC_NAMED_SEA_GULF_OF_DARIEN_NAME">
+			<Text>Gulf of Darién</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_GULF_OF_VENEZUELA_NAME">
+			<Text>Gulf of Venezuela</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_GULF_OF_PARIA_NAME">
+			<Text>Gulf of Paria</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_GULF_OF_HONDURAS_NAME">
+			<Text>Gulf of Honduras</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_AMATIQUE_BAY_NAME">
+			<Text>Amatique Bay</Text>
+		</Row>
+		<Row Tag="LOC_NAMED_SEA_TERMINOS_LAGOON_NAME">
+			<Text>Términos Lagoon</Text>
+		</Row>
+	</EnglishText>
+</GameData>

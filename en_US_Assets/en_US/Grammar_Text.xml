@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<BaseGameText>
+		<Row Tag="LOC_EMPTY">
+			<Text></Text>
+		</Row>
+		<Row Tag="LOC_GRAMMAR_COMMA_SEPARATOR">
+			<Text>, </Text>
+		</Row>
+		<Row Tag="LOC_GRAMMAR_A_AN">
+			<Text>{1: gender *:an?an {1}; *:the?the {1}; *:no_article?{1}; other?a {1};}</Text>
+		</Row>
+		<Row Tag="LOC_GRAMMAR_A_AN_WITH_ICON">
+			<Text>{1: gender *:an?an {2} {1}; *:the?the {2} {1}; *:no_article?{2} {1}; other?a {2} {1};}</Text>
+		</Row>
+		<Row Tag="LOC_GRAMMAR_UPPER_A_AN">
+			<Text>{1: gender *:an?An {1}; *:the?The {1}; *:no_article?{1}; other?A {1};}</Text>
+		</Row>
+		<Row Tag="LOC_GRAMMAR_UPPER_A_AN_WITH_ICON">
+			<Text>{1: gender *:an?An {2} {1}; *:the?The {2} {1}; *:no_article?{2} {1}; other?A {2} {1};}</Text>
+		</Row>
+		
+		<Row Tag="LOC_GRAMMAR_HAS_HAVE">
+			<Text>{1: plural 1?has ; other?have ;}</Text>
+		</Row>
+		<Row Tag="LOC_GRAMMAR_IS_ARE">
+			<Text>{1: plural 1?is ; other?are ;}</Text>
+		</Row>		
+
+		<!-- These tags are similar to LOC_GRAMMAR_A_AN but the defaults are different -->
+		<!-- Civ Names usually don't have a prefix article.  For example "China has declared war on you!" -->
+		<Row Tag="LOC_GRAMMAR_CIVNAME">
+			<Text>{1: gender *:an?an {1}; *:the?the {1}; *:no_article?{1}; other?{1};}</Text>
+		</Row>
+		<Row Tag="LOC_GRAMMAR_CIVNAME_UPPER">
+			<Text>{1: gender *:an?An {1}; *:the?The {1}; *:no_article?{1}; other?{1};}</Text>
+		</Row>
+		
+		<!-- Civ Descriptions usually have 'the' as the prefix article.  For example "The Chinese Empire has declared war on you!" -->
+		<Row Tag="LOC_GRAMMAR_CIVDESC">
+			<Text>{1: gender *:an?an {1}; *:the?the {1}; *:no_article?{1}; other?the {1};}</Text>
+		</Row>
+		<Row Tag="LOC_GRAMMAR_CIVDESC_UPPER">
+			<Text>{1: gender *:an?An {1}; *:the?The {1}; *:no_article?{1}; other?The {1};}</Text>
+		</Row>
+		
+		<!-- Civ adjectives usually have 'a' as the prefix article.  For example "A Chinese warrior has killed your settler." -->
+		<Row Tag="LOC_GRAMMAR_CIVADJ">
+			<Text>{1: gender *:an?an {1}; *:the?the {1}; *:no_article?{1}; other?a {1};}</Text>
+		</Row>
+		<Row Tag="LOC_GRAMMAR_CIVADJ_UPPER">
+			<Text>{1: gender *:an?An {1}; *:the?The {1}; *:no_article?{1}; other?A {1};}</Text>
+		</Row>
+
+		<!-- These tags are similar to LOC_GRAMMAR_A_AN but the defaults are different -->
+		<!-- Leader names usually don't have a prefix article.  For example "Gilgamesh has declared war on you!" -->
+		<Row Tag="LOC_GRAMMAR_LEADER">
+			<Text>{1: gender *:an?an {1}; *:the?the {1}; *:no_article?{1}; other?{1};}</Text>
+		</Row>
+		
+		<Row Tag="LOC_GRAMMAR_LEADER_UPPER">
+			<Text>{1: gender *:an?An {1}; *:the?The {1}; *:no_article?{1}; other?{1};}</Text>
+		</Row>
+
+
+		
+
+	</BaseGameText>
+</GameData>

@@ -1,0 +1,54 @@
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<EnglishText>
+		<!--Improvements-->
+		<Row Tag="LOC_FIRE_STARTED">
+			<Text>Fire Started</Text>
+		</Row>
+    <Row Tag="LOC_FIRE_STARTED_DESC">
+      <Text>{FertilityAdded} {FertilityAdded : plural 1?fire has; other?fires have;} begun. {UnitsLost} {UnitsLost : plural 1?unit was; other?units were;} damaged.</Text>
+    </Row>
+    <Row Tag="LOC_FIRE_CONTINUED">
+      <Text>Fire Ended</Text>
+    </Row>
+    <Row Tag="LOC_FIRE_CONTINUED_DESC">
+      <Text>{FertilityAdded} {FertilityAdded : plural 1?fire has; other?fires have;} ended. The tiles are now safe for traversal, but the trees will take time to regrow.</Text>
+    </Row>
+    <Row Tag="LOC_FIRE_JUNGLE_OVER">
+      <Text>Rainforest Regrown</Text>
+    </Row>
+    <Row Tag="LOC_FIRE_JUNGLE_OVER_DESC">
+      <Text>After being destroyed by fires, {FertilityAdded} {FertilityAdded : plural 1?rainforest has; other?rainforests have;} regrown.</Text>
+    </Row>
+    <Row Tag="LOC_FIRE_FOREST_OVER">
+      <Text>Forest Regrown</Text>
+    </Row>
+    <Row Tag="LOC_FIRE_FOREST_OVER_DESC">
+      <Text>After being destroyed by fires, {FertilityAdded} {FertilityAdded : plural 1?forest has; other?forests have;} regrown.</Text>
+    </Row>
+    <Row Tag="LOC_METEOR_HAPPENED">
+      <Text>Meteor Shower</Text>
+    </Row>
+    <Row Tag="LOC_METEOR_HAPPENED_DESC">
+      <Text>Meteors peppered {FertilityAdded} {FertilityAdded : plural 1?tile; other?tiles;}, leaving behind resources. Gathering them will grant advanced weapons.</Text>
+    </Row>
+    <Row Tag="LOC_COMET_HAPPENED">
+      <Text>Comet Strikes</Text>
+    </Row>
+    <Row Tag="LOC_COMET_HAPPENED_DESC">
+      <Text>A comet plummeted from the sky, devastating the {FertilityAdded} {FertilityAdded : plural 1?tile; other?tiles;} in its path.</Text>
+    </Row>
+    <Row Tag="LOC_SOLAR_FLARE_HAPPENED">
+      <Text>Solar Flare</Text>
+    </Row>
+    <Row Tag="LOC_SOLAR_FLARE_HAPPENED_DESC">
+      <Text>Around the world, advanced tech screeches to a halt as cosmic radiation wreaks havoc. {UnitsLost} {UnitsLost : plural 1?unit was; other?units were;} destroyed.</Text>
+    </Row>
+    <Row Tag="LOC_METEOR_GRABBED">
+      <Text>Meteor Site Harvested</Text>
+    </Row>
+    <Row Tag="LOC_METEOR_GRABBED_DESC">
+      <Text>You harvested a Meteor Site, extracting rare materials that grant you an advanced unit.</Text>
+    </Row>
+  </EnglishText>
+</GameData>

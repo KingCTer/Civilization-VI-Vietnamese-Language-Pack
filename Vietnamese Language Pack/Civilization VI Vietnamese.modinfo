@@ -1,0 +1,627 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Mod id="85E4EEAC-95AA-3E32-1068-91E207B1427F" version="1">
+	<Properties>
+		<Name>LOC_MOD_TITLE</Name>
+		<Teaser>LOC_MOD_TEASER</Teaser>
+		<Description>LOC_MOD_DESCRIPTION</Description>
+		<Authors>LOC_MOD_AUTHORS</Authors>
+		<EnabledByDefault>1</EnabledByDefault>
+		<AffectsSavedGames>0</AffectsSavedGames>
+		<CompatibleVersions>2.0</CompatibleVersions>
+	</Properties>
+	<!-- Criteria: Expansion & DLC -->
+	<ActionCriteria>
+		<!-- Expansion1: Rise & Fall -->
+		<Criteria id="Expansion1">
+			<GameCoreInUse>Expansion1</GameCoreInUse>
+		</Criteria>
+		<Criteria id="Expansion1AndBeyond" any="1">
+			<GameCoreInUse>Expansion1</GameCoreInUse>
+			<RuleSetInUse>RULESET_EXPANSION_1,RULESET_EXPANSION_2</RuleSetInUse>
+			<LeaderPlayable>Players:Expansion1_Players::LEADER_CHANDRAGUPTA,Players:Expansion1_Players::LEADER_GENGHIS_KHAN,Players:Expansion1_Players::LEADER_LAUTARO,Players:Expansion1_Players::LEADER_POUNDMAKER,Players:Expansion1_Players::LEADER_ROBERT_THE_BRUCE,Players:Expansion1_Players::LEADER_SEONDEOK,Players:Expansion1_Players::LEADER_SHAKA,Players:Expansion1_Players::LEADER_TAMAR,Players:Expansion1_Players::LEADER_WILHELMINA</LeaderPlayable>
+			<LeaderPlayable>Players:Expansion2_Players::LEADER_CHANDRAGUPTA,Players:Expansion2_Players::LEADER_GENGHIS_KHAN,Players:Expansion2_Players::LEADER_LAUTARO,Players:Expansion2_Players::LEADER_POUNDMAKER,Players:Expansion2_Players::LEADER_ROBERT_THE_BRUCE,Players:Expansion2_Players::LEADER_SEONDEOK,Players:Expansion2_Players::LEADER_SHAKA,Players:Expansion2_Players::LEADER_TAMAR,Players:Expansion2_Players::LEADER_WILHELMINA</LeaderPlayable>
+		</Criteria>
+		<!-- Expansion2: Gathering Storm -->
+		<Criteria id="Expansion2">
+			<GameCoreInUse>Expansion2</GameCoreInUse>
+		</Criteria>
+		<Criteria id="Expansion2AndBeyond" any="1">
+			<GameCoreInUse>Expansion2</GameCoreInUse>
+			<LeaderPlayable>Players:Expansion2_Players::LEADER_DIDO,Players:Expansion2_Players::LEADER_ELEANOR_ENGLAND,Players:Expansion2_Players::LEADER_ELEANOR_FRANCE,Players:Expansion2_Players::LEADER_KRISTINA,Players:Expansion2_Players::LEADER_KUPE,Players:Expansion2_Players::LEADER_LAURIER,Players:Expansion2_Players::LEADER_MANSA_MUSA,Players:Expansion2_Players::LEADER_MATTHIAS_CORVINUS,Players:Expansion2_Players::LEADER_PACHACUTI,Players:Expansion2_Players::LEADER_SULEIMAN</LeaderPlayable>
+		</Criteria>
+		<!-- DLC: Australia -->
+		<Criteria id="Australia" any="1">
+			<LeaderPlayable>Players:StandardPlayers::LEADER_JOHN_CURTIN,StandardPlayers::LEADER_JOHN_CURTIN,Players:Expansion1_Players::LEADER_JOHN_CURTIN,Players:Expansion2_Players::LEADER_JOHN_CURTIN</LeaderPlayable>
+			<RuleSetInUse>RULESET_STANDARD,RULESET_EXPANSION_1,RULESET_EXPANSION_2</RuleSetInUse>
+		</Criteria>
+		<!-- DLC: Indonesia & Khmer -->
+		<Criteria id="IndonesiaKhmer" any="1">
+			<LeaderPlayable>Players:StandardPlayers::LEADER_GITARJA,Players:StandardPlayers::LEADER_JAYAVARMAN,StandardPlayers::LEADER_GITARJA,StandardPlayers::LEADER_JAYAVARMAN,Players:Expansion1_Players::LEADER_GITARJA,Players:Expansion2_Players::LEADER_JAYAVARMAN,Players:Expansion2_Players::LEADER_GITARJA,Players:Expansion2_Players::LEADER_JAYAVARMAN</LeaderPlayable>
+			<RuleSetInUse>RULESET_STANDARD,RULESET_EXPANSION_1,RULESET_EXPANSION_2</RuleSetInUse>
+		</Criteria>
+		<!-- DLC: Macedonia & Persia -->
+		<Criteria id="MacedoniaPersia" any="1">
+			<LeaderPlayable>Players:StandardPlayers::LEADER_ALEXANDER,Players:StandardPlayers::LEADER_CYRUS,StandardPlayers::LEADER_ALEXANDER,StandardPlayers::LEADER_CYRUS,Players:Expansion1_Players::LEADER_ALEXANDER,Players:Expansion2_Players::LEADER_CYRUS,Players:Expansion2_Players::LEADER_ALEXANDER,Players:Expansion2_Players::LEADER_CYRUS</LeaderPlayable>
+			<RuleSetInUse>RULESET_STANDARD,RULESET_EXPANSION_1,RULESET_EXPANSION_2</RuleSetInUse>
+		</Criteria>
+		<!-- DLC: Nubia -->
+		<Criteria id="Nubia" any="1">
+			<LeaderPlayable>Players:StandardPlayers::LEADER_AMANITORE,StandardPlayers::LEADER_AMANITORE,Players:Expansion1_Players::LEADER_AMANITORE,Players:Expansion2_Players::LEADER_AMANITORE</LeaderPlayable>
+			<RuleSetInUse>RULESET_STANDARD,RULESET_EXPANSION_1,RULESET_EXPANSION_2</RuleSetInUse>
+		</Criteria>
+		<!-- DLC: Poland -->
+		<Criteria id="PolandJadwiga" any="1">
+			<LeaderPlayable>Players:StandardPlayers::LEADER_JADWIGA,StandardPlayers::LEADER_JADWIGA,Players:Expansion1_Players::LEADER_JADWIGA,Players:Expansion2_Players::LEADER_JADWIGA</LeaderPlayable>
+			<RuleSetInUse>RULESET_STANDARD,RULESET_EXPANSION_1,RULESET_EXPANSION_2</RuleSetInUse>
+		</Criteria>
+	</ActionCriteria>
+	<!-- Sẽ được tải trước khi hiển thị menu chính, nhưng không phải trước "Loading game, please wait" -->
+	<FrontEndActions>
+		<!-- Đang thử nghiệm thêm ngôn ngữ vào setting -->
+		<UpdateDatabase id="FrontendAddLanguages">
+			<Properties>
+				<LoadOrder>-100</LoadOrder>
+			</Properties>
+			<File>LocalizationDatabase_Data.sql</File>
+		</UpdateDatabase>
+		<!-- Vanilla -->
+		<UpdateText id="FrontendTextVietnam">
+			<Properties>
+				<LoadOrder>10</LoadOrder>
+			</Properties>
+			<!-- 113 files -->
+			<File>vi_VI/AdvisorText.xml</File>
+			<File>vi_VI/AncientRivalsScenario_Text.xml</File>
+			<File>vi_VI/Australia_PackageText.xml</File>
+			<File>vi_VI/Automation_Narration_Text.xml</File>
+			<File>vi_VI/Aztec_Montezuma_ConfigText.xml</File>
+			<File>vi_VI/Aztec_Montezuma_GameplayText.xml</File>
+			<File>vi_VI/Aztec_Montezuma_PackageText.xml</File>
+			<File>vi_VI/BalanceMaps_ConfigText.xml</File>
+			<File>vi_VI/BenchmarkText.xml</File>
+			<File>vi_VI/Buildings_Text.xml</File>
+			<File>vi_VI/Building_Huey_Teocalli_Text.xml</File>
+			<File>vi_VI/CitizenNames_Text.xml</File>
+			<File>vi_VI/CityNames_Text.xml</File>
+			<File>vi_VI/Civics_Text.xml</File>
+			<File>vi_VI/Civilizations_Text.xml</File>
+			<File>vi_VI/Civilopedia_Buildings_Text.xml</File>
+			<File>vi_VI/Civilopedia_CityStates_Text.xml</File>
+			<File>vi_VI/Civilopedia_Civics_Text.xml</File>
+			<File>vi_VI/Civilopedia_Civilizations_Text.xml</File>
+			<File>vi_VI/Civilopedia_Concepts_Text.xml</File>
+			<File>vi_VI/Civilopedia_Districts_Text.xml</File>
+			<File>vi_VI/Civilopedia_Features_Text.xml</File>
+			<File>vi_VI/Civilopedia_Governments_Text.xml</File>
+			<File>vi_VI/Civilopedia_GreatPeople_Text.xml</File>
+			<File>vi_VI/Civilopedia_Improvements_Text.xml</File>
+			<File>vi_VI/Civilopedia_Leaders_Text.xml</File>
+			<File>vi_VI/Civilopedia_Promotions_Text.xml</File>
+			<File>vi_VI/Civilopedia_Religions_Text.xml</File>
+			<File>vi_VI/Civilopedia_Resources_Text.xml</File>
+			<File>vi_VI/Civilopedia_Search_Text.xml</File>
+			<File>vi_VI/Civilopedia_Technologies_Text.xml</File>
+			<File>vi_VI/Civilopedia_Text.xml</File>
+			<File>vi_VI/Civilopedia_Units_Text.xml</File>
+			<File>vi_VI/Civilopedia_Wonders_Text.xml</File>
+			<File>vi_VI/CivRoyaleScenario_FrontEndText.xml</File>
+			<File>vi_VI/CivRoyaleScenario_InGameText.xml</File>
+			<File>vi_VI/CivRoyaleScenario_PackageText.xml</File>
+			<File>vi_VI/ColdWarScenario_Text.xml</File>
+			<File>vi_VI/Combat_Text.xml</File>
+			<File>vi_VI/Credits.xml</File>
+			<File>vi_VI/CrossPlay_Text.xml</File>
+			<File>vi_VI/Difficulties_Text.xml</File>
+			<File>vi_VI/DiplomacyDeals_Text.xml</File>
+			<File>vi_VI/DiplomacyModifiers_Text.xml</File>
+			<File>vi_VI/DiplomacyNotifications_Text.xml</File>
+			<File>vi_VI/DiplomacyPanel_Text.xml</File>
+			<File>vi_VI/DiplomacyStatements_Common_Text.xml</File>
+			<File>vi_VI/DiplomacyStatements_DeclareFriendship_Text.xml</File>
+			<File>vi_VI/DiplomacyStatements_DeclareWar_Text.xml</File>
+			<File>vi_VI/DiplomacyStatements_Defeat_Text.xml</File>
+			<File>vi_VI/DiplomacyStatements_Delegation_Text.xml</File>
+			<File>vi_VI/DiplomacyStatements_Denounce_Text.xml</File>
+			<File>vi_VI/DiplomacyStatements_Embassy_Text.xml</File>
+			<File>vi_VI/DiplomacyStatements_FirstMeet_Text.xml</File>
+			<File>vi_VI/DiplomacyStatements_Greeting_Text.xml</File>
+			<File>vi_VI/DiplomacyStatements_KudosAndWarnings_Text.xml</File>
+			<File>vi_VI/DiplomacyStatements_MakeAlliance_Text.xml</File>
+			<File>vi_VI/DiplomacyStatements_MakeDeal_Text.xml</File>
+			<File>vi_VI/DiplomacyStatements_MakeDemand_Text.xml</File>
+			<File>vi_VI/DiplomacyStatements_MakePeace_Text.xml</File>
+			<File>vi_VI/DiplomacyStatements_OpenBorders_Text.xml</File>
+			<File>vi_VI/DiplomacyStatements_Warning_Text.xml</File>
+			<File>vi_VI/Districts_Text.xml</File>
+			<File>vi_VI/EarthMaps_ConfigText.xml</File>
+			<File>vi_VI/EarthMaps_Epic_Text.xml</File>
+			<File>vi_VI/Espionage_Text.xml</File>
+			<File>vi_VI/Expansion1_Credits.xml</File>
+			<File>vi_VI/Expansion1_PackageText.xml</File>
+			<File>vi_VI/Expansion2_Credits.xml</File>
+			<File>vi_VI/Expansion2_PackageText.xml</File>
+			<File>vi_VI/FeaturesAndTerrains_Text.xml</File>
+			<File>vi_VI/FrontEnd_PlayByCloud.xml</File>
+			<File>vi_VI/FrontEndText.xml</File>
+			<File>vi_VI/GameSummaries_Text.xml</File>
+			<File>vi_VI/Gossip_Text.xml</File>
+			<File>vi_VI/Grammar_Text.xml</File>
+			<File>vi_VI/GreatPeople_Text.xml</File>
+			<File>vi_VI/GreatWorks_Text.xml</File>
+			<File>vi_VI/Improvements_Text.xml</File>
+			<File>vi_VI/Indonesia_Khmer_PackageText.xml</File>
+			<File>vi_VI/InGame_PlayByCloud.xml</File>
+			<File>vi_VI/InGameText.xml</File>
+			<File>vi_VI/Leaders_Text.xml</File>
+			<File>vi_VI/Macedonia_Persia_PackageText.xml</File>
+			<File>vi_VI/Modifiers_Text.xml</File>
+			<File>vi_VI/MultiplayerFrontEndText.xml</File>
+			<File>vi_VI/My2KText.xml</File>
+			<File>vi_VI/NapoleonScenario_Text.xml</File>
+			<File>vi_VI/Notifications_Text.xml</File>
+			<File>vi_VI/Nubia_PackageText.xml</File>
+			<File>vi_VI/Poland_PackageText.xml</File>
+			<File>vi_VI/Projects_Text.xml</File>
+			<File>vi_VI/Promotions_Text.xml</File>
+			<File>vi_VI/Quests_Text.xml</File>
+			<File>vi_VI/Quotes_Text.xml</File>
+			<File>vi_VI/Religion_Text.xml</File>
+			<File>vi_VI/ReligiousCombatScenario_Text.xml</File>
+			<File>vi_VI/Routes_Text.xml</File>
+			<File>vi_VI/Technologies_Text.xml</File>
+			<File>vi_VI/Types_Text.xml</File>
+			<File>vi_VI/UI_Civilopedia_Text.xml</File>
+			<File>vi_VI/UI_EndGame_Text.xml</File>
+			<File>vi_VI/UI_GameSummaries_Text.xml</File>
+			<File>vi_VI/UI_Mods_Text.xml</File>
+			<File>vi_VI/UI_Options_Text.xml</File>
+			<File>vi_VI/UI_Technology_Text.xml</File>
+			<File>vi_VI/UnitNames_Text.xml</File>
+			<File>vi_VI/Units_Text.xml</File>
+			<File>vi_VI/Unit_Abilities_Text.xml</File>
+			<File>vi_VI/UserSetupWarning_Text.xml</File>
+			<File>vi_VI/Vikings_PackageText.xml</File>
+			<File>vi_VI/Wars_Text.xml</File>
+			<File>vi_VI/WorldBuilder_Text.xml</File>
+		</UpdateText>
+		<!-- Expansion1: Rise & Fall -->
+		<UpdateText id="Expansion1TextVietnam" criteria="Expansion1">
+			<Properties>
+				<LoadOrder>20</LoadOrder>
+			</Properties>
+			<File>vi_VI_Expansion1/Expansion1_Buildings_Text.xml</File>
+			<File>vi_VI_Expansion1/Expansion1_CityBanner_Text.xml</File>
+			<File>vi_VI_Expansion1/Expansion1_CityNames_Text.xml</File>
+			<File>vi_VI_Expansion1/Expansion1_Civics_Text.xml</File>
+			<File>vi_VI_Expansion1/Expansion1_ConfigText.xml</File>
+			<File>vi_VI_Expansion1/Expansion1_Diplomacy_Text.xml</File>
+			<File>vi_VI_Expansion1/Expansion1_Districts_Text.xml</File>
+			<File>vi_VI_Expansion1/Expansion1_Eras_Text.xml</File>
+			<File>vi_VI_Expansion1/Expansion1_InGameText.xml</File>
+			<File>vi_VI_Expansion1/Expansion1_Leaders_Text.xml</File>
+			<File>vi_VI_Expansion1/Expansion1_Notifications_Text.xml</File>
+			<File>vi_VI_Expansion1/Expansion1_Religion_Text.xml</File>
+			<File>vi_VI_Expansion1/Expansion1_Technologies_Text.xml</File>
+			<File>vi_VI_Expansion1/Expansion1_Wars_Text.xml</File>
+		</UpdateText>
+		<!-- Expansion2: Gathering Storm -->
+		<UpdateText id="Expansion2TextVietnam" criteria="Expansion2">
+			<Properties>
+				<LoadOrder>30</LoadOrder>
+			</Properties>
+			<!-- Update Rise & Fall -->
+			<File>vi_VI_Expansion1/Expansion1_Buildings_Text.xml</File>
+			<File>vi_VI_Expansion1/Expansion1_CityBanner_Text.xml</File>
+			<File>vi_VI_Expansion1/Expansion1_CityNames_Text.xml</File>
+			<File>vi_VI_Expansion1/Expansion1_Civics_Text.xml</File>
+			<File>vi_VI_Expansion1/Expansion1_ConfigText.xml</File>
+			<File>vi_VI_Expansion1/Expansion1_Diplomacy_Text.xml</File>
+			<File>vi_VI_Expansion1/Expansion1_Districts_Text.xml</File>
+			<File>vi_VI_Expansion1/Expansion1_Eras_Text.xml</File>
+			<File>vi_VI_Expansion1/Expansion1_InGameText.xml</File>
+			<File>vi_VI_Expansion1/Expansion1_Leaders_Text.xml</File>
+			<File>vi_VI_Expansion1/Expansion1_Notifications_Text.xml</File>
+			<File>vi_VI_Expansion1/Expansion1_Religion_Text.xml</File>
+			<File>vi_VI_Expansion1/Expansion1_Technologies_Text.xml</File>
+			<File>vi_VI_Expansion1/Expansion1_Wars_Text.xml</File>
+			<!-- Update Gathering Storm -->
+			<File>vi_VI_Expansion2/Expansion1_InGameText.xml</File>
+			<File>vi_VI_Expansion2/Expansion1_Leaders_Text.xml</File>
+			<File>vi_VI_Expansion2/Expansion1_Notifications_Text.xml</File>
+			<File>vi_VI_Expansion2/Expansion2_CityNames_Text.xml</File>
+			<File>vi_VI_Expansion2/Expansion2_ConfigText.xml</File>
+			<File>vi_VI_Expansion2/Expansion2_Improvements_Text.xml</File>
+			<File>vi_VI_Expansion2/Expansion2_Leaders_Text.xml</File>
+			<File>vi_VI_Expansion2/Expansion2_Notifications_Text.xml</File>
+			<File>vi_VI_Expansion2/Expansion2_Units_Text.xml</File>
+			<File>vi_VI_Expansion2/Expansion2_UnitNames_Text.xml</File>
+		</UpdateText>
+		<!-- DLC: Australia -->
+		<UpdateText id="AustraliaTextVietnam" criteria="Australia">
+			<Properties>
+				<LoadOrder>100</LoadOrder>
+			</Properties>
+			<File>vi_VI_DLC/Australia/Australia_ConfigText.xml</File>
+			<File>vi_VI_DLC/Australia/Australia_Text.xml</File>
+		</UpdateText>
+		<!-- DLC: Indonesia & Khmer -->
+		<UpdateText id="IndonediaKhmerTextVietnam" criteria="IndonesiaKhmer">
+			<Properties>
+				<LoadOrder>100</LoadOrder>
+			</Properties>
+			<File>vi_VI_DLC/Indonesia_Khmer/Indonesia_Khmer_ConfigText.xml</File>
+			<File>vi_VI_DLC/Indonesia_Khmer/Indonesia_Khmer_Text.xml</File>
+		</UpdateText>
+		<!-- DLC: Macedonia & Persia -->
+		<UpdateText id="MacedoniaPersiaTextVietnam" criteria="MacedoniaPersia">
+			<Properties>
+				<LoadOrder>100</LoadOrder>
+			</Properties>
+			<File>vi_VI_DLC/Macedonia_Persia/Macedonia_Persia_ConfigText.xml</File>
+			<File>vi_VI_DLC/Macedonia_Persia/Macedonia_Persia_Text.xml</File>
+		</UpdateText>
+	</FrontEndActions>
+	<!-- these are loaded when starting to play a game -->
+	<InGameActions>
+		<!-- Vanilla -->
+		<UpdateText id="TextVietnam">
+			<Properties>
+				<LoadOrder>10</LoadOrder>
+			</Properties>
+			<File>vi_VI/AdvisorText.xml</File>
+			<File>vi_VI/AncientRivalsScenario_Text.xml</File>
+			<File>vi_VI/Australia_PackageText.xml</File>
+			<File>vi_VI/Automation_Narration_Text.xml</File>
+			<File>vi_VI/Aztec_Montezuma_ConfigText.xml</File>
+			<File>vi_VI/Aztec_Montezuma_GameplayText.xml</File>
+			<File>vi_VI/Aztec_Montezuma_PackageText.xml</File>
+			<File>vi_VI/BalanceMaps_ConfigText.xml</File>
+			<File>vi_VI/BenchmarkText.xml</File>
+			<File>vi_VI/Buildings_Text.xml</File>
+			<File>vi_VI/Building_Huey_Teocalli_Text.xml</File>
+			<File>vi_VI/CitizenNames_Text.xml</File>
+			<File>vi_VI/CityNames_Text.xml</File>
+			<File>vi_VI/Civics_Text.xml</File>
+			<File>vi_VI/Civilizations_Text.xml</File>
+			<File>vi_VI/Civilopedia_Buildings_Text.xml</File>
+			<File>vi_VI/Civilopedia_CityStates_Text.xml</File>
+			<File>vi_VI/Civilopedia_Civics_Text.xml</File>
+			<File>vi_VI/Civilopedia_Civilizations_Text.xml</File>
+			<File>vi_VI/Civilopedia_Concepts_Text.xml</File>
+			<File>vi_VI/Civilopedia_Districts_Text.xml</File>
+			<File>vi_VI/Civilopedia_Features_Text.xml</File>
+			<File>vi_VI/Civilopedia_Governments_Text.xml</File>
+			<File>vi_VI/Civilopedia_GreatPeople_Text.xml</File>
+			<File>vi_VI/Civilopedia_Improvements_Text.xml</File>
+			<File>vi_VI/Civilopedia_Leaders_Text.xml</File>
+			<File>vi_VI/Civilopedia_Promotions_Text.xml</File>
+			<File>vi_VI/Civilopedia_Religions_Text.xml</File>
+			<File>vi_VI/Civilopedia_Resources_Text.xml</File>
+			<File>vi_VI/Civilopedia_Search_Text.xml</File>
+			<File>vi_VI/Civilopedia_Technologies_Text.xml</File>
+			<File>vi_VI/Civilopedia_Text.xml</File>
+			<File>vi_VI/Civilopedia_Units_Text.xml</File>
+			<File>vi_VI/Civilopedia_Wonders_Text.xml</File>
+			<File>vi_VI/CivRoyaleScenario_FrontEndText.xml</File>
+			<File>vi_VI/CivRoyaleScenario_InGameText.xml</File>
+			<File>vi_VI/CivRoyaleScenario_PackageText.xml</File>
+			<File>vi_VI/ColdWarScenario_Text.xml</File>
+			<File>vi_VI/Combat_Text.xml</File>
+			<File>vi_VI/Credits.xml</File>
+			<File>vi_VI/CrossPlay_Text.xml</File>
+			<File>vi_VI/Difficulties_Text.xml</File>
+			<File>vi_VI/DiplomacyDeals_Text.xml</File>
+			<File>vi_VI/DiplomacyModifiers_Text.xml</File>
+			<File>vi_VI/DiplomacyNotifications_Text.xml</File>
+			<File>vi_VI/DiplomacyPanel_Text.xml</File>
+			<File>vi_VI/DiplomacyStatements_Common_Text.xml</File>
+			<File>vi_VI/DiplomacyStatements_DeclareFriendship_Text.xml</File>
+			<File>vi_VI/DiplomacyStatements_DeclareWar_Text.xml</File>
+			<File>vi_VI/DiplomacyStatements_Defeat_Text.xml</File>
+			<File>vi_VI/DiplomacyStatements_Delegation_Text.xml</File>
+			<File>vi_VI/DiplomacyStatements_Denounce_Text.xml</File>
+			<File>vi_VI/DiplomacyStatements_Embassy_Text.xml</File>
+			<File>vi_VI/DiplomacyStatements_FirstMeet_Text.xml</File>
+			<File>vi_VI/DiplomacyStatements_Greeting_Text.xml</File>
+			<File>vi_VI/DiplomacyStatements_KudosAndWarnings_Text.xml</File>
+			<File>vi_VI/DiplomacyStatements_MakeAlliance_Text.xml</File>
+			<File>vi_VI/DiplomacyStatements_MakeDeal_Text.xml</File>
+			<File>vi_VI/DiplomacyStatements_MakeDemand_Text.xml</File>
+			<File>vi_VI/DiplomacyStatements_MakePeace_Text.xml</File>
+			<File>vi_VI/DiplomacyStatements_OpenBorders_Text.xml</File>
+			<File>vi_VI/DiplomacyStatements_Warning_Text.xml</File>
+			<File>vi_VI/Districts_Text.xml</File>
+			<File>vi_VI/EarthMaps_ConfigText.xml</File>
+			<File>vi_VI/EarthMaps_Epic_Text.xml</File>
+			<File>vi_VI/Espionage_Text.xml</File>
+			<File>vi_VI/Expansion1_Credits.xml</File>
+			<File>vi_VI/Expansion1_PackageText.xml</File>
+			<File>vi_VI/Expansion2_Credits.xml</File>
+			<File>vi_VI/Expansion2_PackageText.xml</File>
+			<File>vi_VI/FeaturesAndTerrains_Text.xml</File>
+			<File>vi_VI/FrontEnd_PlayByCloud.xml</File>
+			<File>vi_VI/FrontEndText.xml</File>
+			<File>vi_VI/GameSummaries_Text.xml</File>
+			<File>vi_VI/Gossip_Text.xml</File>
+			<File>vi_VI/Grammar_Text.xml</File>
+			<File>vi_VI/GreatPeople_Text.xml</File>
+			<File>vi_VI/GreatWorks_Text.xml</File>
+			<File>vi_VI/Improvements_Text.xml</File>
+			<File>vi_VI/Indonesia_Khmer_PackageText.xml</File>
+			<File>vi_VI/InGame_PlayByCloud.xml</File>
+			<File>vi_VI/InGameText.xml</File>
+			<File>vi_VI/Leaders_Text.xml</File>
+			<File>vi_VI/Macedonia_Persia_PackageText.xml</File>
+			<File>vi_VI/Modifiers_Text.xml</File>
+			<File>vi_VI/MultiplayerFrontEndText.xml</File>
+			<File>vi_VI/My2KText.xml</File>
+			<File>vi_VI/NapoleonScenario_Text.xml</File>
+			<File>vi_VI/Notifications_Text.xml</File>
+			<File>vi_VI/Nubia_PackageText.xml</File>
+			<File>vi_VI/Poland_PackageText.xml</File>
+			<File>vi_VI/Projects_Text.xml</File>
+			<File>vi_VI/Promotions_Text.xml</File>
+			<File>vi_VI/Quests_Text.xml</File>
+			<File>vi_VI/Quotes_Text.xml</File>
+			<File>vi_VI/Religion_Text.xml</File>
+			<File>vi_VI/ReligiousCombatScenario_Text.xml</File>
+			<File>vi_VI/Routes_Text.xml</File>
+			<File>vi_VI/Technologies_Text.xml</File>
+			<File>vi_VI/Types_Text.xml</File>
+			<File>vi_VI/UI_Civilopedia_Text.xml</File>
+			<File>vi_VI/UI_EndGame_Text.xml</File>
+			<File>vi_VI/UI_GameSummaries_Text.xml</File>
+			<File>vi_VI/UI_Mods_Text.xml</File>
+			<File>vi_VI/UI_Options_Text.xml</File>
+			<File>vi_VI/UI_Technology_Text.xml</File>
+			<File>vi_VI/UnitNames_Text.xml</File>
+			<File>vi_VI/Units_Text.xml</File>
+			<File>vi_VI/Unit_Abilities_Text.xml</File>
+			<File>vi_VI/UserSetupWarning_Text.xml</File>
+			<File>vi_VI/Vikings_PackageText.xml</File>
+			<File>vi_VI/Wars_Text.xml</File>
+			<File>vi_VI/WorldBuilder_Text.xml</File>
+		</UpdateText>
+		<!-- Rise & Fall -->
+		<UpdateText id="Expansion1TextVietnam" criteria="Expansion1">
+			<Properties>
+				<LoadOrder>20</LoadOrder>
+			</Properties>
+			<File>vi_VI_Expansion1/Expansion1_Buildings_Text.xml</File>
+			<File>vi_VI_Expansion1/Expansion1_CityBanner_Text.xml</File>
+			<File>vi_VI_Expansion1/Expansion1_CityNames_Text.xml</File>
+			<File>vi_VI_Expansion1/Expansion1_Civics_Text.xml</File>
+			<File>vi_VI_Expansion1/Expansion1_ConfigText.xml</File>
+			<File>vi_VI_Expansion1/Expansion1_Diplomacy_Text.xml</File>
+			<File>vi_VI_Expansion1/Expansion1_Districts_Text.xml</File>
+			<File>vi_VI_Expansion1/Expansion1_Eras_Text.xml</File>
+			<File>vi_VI_Expansion1/Expansion1_InGameText.xml</File>
+			<File>vi_VI_Expansion1/Expansion1_Leaders_Text.xml</File>
+			<File>vi_VI_Expansion1/Expansion1_Notifications_Text.xml</File>
+			<File>vi_VI_Expansion1/Expansion1_Religion_Text.xml</File>
+			<File>vi_VI_Expansion1/Expansion1_Technologies_Text.xml</File>
+			<File>vi_VI_Expansion1/Expansion1_Wars_Text.xml</File>
+		</UpdateText>
+		<!-- Gathering Storm -->
+		<UpdateText id="Expansion2TextVietnam" criteria="Expansion2">
+			<Properties>
+				<LoadOrder>30</LoadOrder>
+			</Properties>
+			<!-- Rise & Fall -->
+			<File>vi_VI_Expansion1/Expansion1_Buildings_Text.xml</File>
+			<File>vi_VI_Expansion1/Expansion1_CityBanner_Text.xml</File>
+			<File>vi_VI_Expansion1/Expansion1_CityNames_Text.xml</File>
+			<File>vi_VI_Expansion1/Expansion1_Civics_Text.xml</File>
+			<File>vi_VI_Expansion1/Expansion1_ConfigText.xml</File>
+			<File>vi_VI_Expansion1/Expansion1_Diplomacy_Text.xml</File>
+			<File>vi_VI_Expansion1/Expansion1_Districts_Text.xml</File>
+			<File>vi_VI_Expansion1/Expansion1_Eras_Text.xml</File>
+			<File>vi_VI_Expansion1/Expansion1_InGameText.xml</File>
+			<File>vi_VI_Expansion1/Expansion1_Leaders_Text.xml</File>
+			<File>vi_VI_Expansion1/Expansion1_Notifications_Text.xml</File>
+			<File>vi_VI_Expansion1/Expansion1_Religion_Text.xml</File>
+			<File>vi_VI_Expansion1/Expansion1_Technologies_Text.xml</File>
+			<File>vi_VI_Expansion1/Expansion1_Wars_Text.xml</File>
+			<!-- Gathering Storm -->
+			<File>vi_VI_Expansion2/Expansion1_InGameText.xml</File>
+			<File>vi_VI_Expansion2/Expansion1_Leaders_Text.xml</File>
+			<File>vi_VI_Expansion2/Expansion1_Notifications_Text.xml</File>
+			<File>vi_VI_Expansion2/Expansion2_CityNames_Text.xml</File>
+			<File>vi_VI_Expansion2/Expansion2_ConfigText.xml</File>
+			<File>vi_VI_Expansion2/Expansion2_Improvements_Text.xml</File>
+			<File>vi_VI_Expansion2/Expansion2_Leaders_Text.xml</File>
+			<File>vi_VI_Expansion2/Expansion2_Notifications_Text.xml</File>
+			<File>vi_VI_Expansion2/Expansion2_Units_Text.xml</File>
+			<File>vi_VI_Expansion2/Expansion2_UnitNames_Text.xml</File>
+		</UpdateText>
+		<!-- DLC: Australia -->
+		<UpdateText id="AustraliaTextVietnam" criteria="Australia">
+			<Properties>
+				<LoadOrder>100</LoadOrder>
+			</Properties>
+			<File>vi_VI_DLC/Australia/Australia_ConfigText.xml</File>
+			<File>vi_VI_DLC/Australia/Australia_Text.xml</File>
+		</UpdateText>
+		<!-- DLC: Indonesia & Khmer -->
+		<UpdateText id="IndonediaKhmerTextVietnam" criteria="IndonesiaKhmer">
+			<Properties>
+				<LoadOrder>100</LoadOrder>
+			</Properties>
+			<File>vi_VI_DLC/Indonesia_Khmer/Indonesia_Khmer_ConfigText.xml</File>
+			<File>vi_VI_DLC/Indonesia_Khmer/Indonesia_Khmer_Text.xml</File>
+		</UpdateText>
+		<!-- DLC: Macedonia & Persia -->
+		<UpdateText id="MacedoniaPersiaTextVietnam" criteria="MacedoniaPersia">
+			<Properties>
+				<LoadOrder>100</LoadOrder>
+			</Properties>
+			<File>vi_VI_DLC/Macedonia_Persia/Macedonia_Persia_ConfigText.xml</File>
+			<File>vi_VI_DLC/Macedonia_Persia/Macedonia_Persia_Text.xml</File>
+		</UpdateText>
+	</InGameActions>
+	<LocalizedText>
+		<Text id="LOC_MOD_TITLE">
+			<en_US>Vietnamese Language Pack</en_US>
+		</Text>
+		<Text id="LOC_MOD_TEASER">
+			<en_US>Vietnamese Language Pack</en_US>
+		</Text>
+		<Text id="LOC_MOD_DESCRIPTION">
+			<en_US>[ICON_GreatWriter][COLOR_RED]Việt hóa bởi:[ENDCOLOR][NEWLINE][ICON_Bullet][ICON_Capital]King CTer</en_US>
+		</Text>
+		<Text id="LOC_MOD_AUTHORS">
+			<en_US>King CTer</en_US>
+		</Text>
+	</LocalizedText>
+	<Files>
+		<File>LocalizationDatabase_Data.sql</File>
+		<!-- Vanilla -->
+		<File>vi_VI/AdvisorText.xml</File>
+		<File>vi_VI/AncientRivalsScenario_Text.xml</File>
+		<File>vi_VI/Australia_PackageText.xml</File>
+		<File>vi_VI/Automation_Narration_Text.xml</File>
+		<File>vi_VI/Aztec_Montezuma_ConfigText.xml</File>
+		<File>vi_VI/Aztec_Montezuma_GameplayText.xml</File>
+		<File>vi_VI/Aztec_Montezuma_PackageText.xml</File>
+		<File>vi_VI/BalanceMaps_ConfigText.xml</File>
+		<File>vi_VI/BenchmarkText.xml</File>
+		<File>vi_VI/Buildings_Text.xml</File>
+		<File>vi_VI/Building_Huey_Teocalli_Text.xml</File>
+		<File>vi_VI/CitizenNames_Text.xml</File>
+		<File>vi_VI/CityNames_Text.xml</File>
+		<File>vi_VI/Civics_Text.xml</File>
+		<File>vi_VI/Civilizations_Text.xml</File>
+		<File>vi_VI/Civilopedia_Buildings_Text.xml</File>
+		<File>vi_VI/Civilopedia_CityStates_Text.xml</File>
+		<File>vi_VI/Civilopedia_Civics_Text.xml</File>
+		<File>vi_VI/Civilopedia_Civilizations_Text.xml</File>
+		<File>vi_VI/Civilopedia_Concepts_Text.xml</File>
+		<File>vi_VI/Civilopedia_Districts_Text.xml</File>
+		<File>vi_VI/Civilopedia_Features_Text.xml</File>
+		<File>vi_VI/Civilopedia_Governments_Text.xml</File>
+		<File>vi_VI/Civilopedia_GreatPeople_Text.xml</File>
+		<File>vi_VI/Civilopedia_Improvements_Text.xml</File>
+		<File>vi_VI/Civilopedia_Leaders_Text.xml</File>
+		<File>vi_VI/Civilopedia_Promotions_Text.xml</File>
+		<File>vi_VI/Civilopedia_Religions_Text.xml</File>
+		<File>vi_VI/Civilopedia_Resources_Text.xml</File>
+		<File>vi_VI/Civilopedia_Search_Text.xml</File>
+		<File>vi_VI/Civilopedia_Technologies_Text.xml</File>
+		<File>vi_VI/Civilopedia_Text.xml</File>
+		<File>vi_VI/Civilopedia_Units_Text.xml</File>
+		<File>vi_VI/Civilopedia_Wonders_Text.xml</File>
+		<File>vi_VI/CivRoyaleScenario_FrontEndText.xml</File>
+		<File>vi_VI/CivRoyaleScenario_InGameText.xml</File>
+		<File>vi_VI/CivRoyaleScenario_PackageText.xml</File>
+		<File>vi_VI/ColdWarScenario_Text.xml</File>
+		<File>vi_VI/Combat_Text.xml</File>
+		<File>vi_VI/Credits.xml</File>
+		<File>vi_VI/CrossPlay_Text.xml</File>
+		<File>vi_VI/Difficulties_Text.xml</File>
+		<File>vi_VI/DiplomacyDeals_Text.xml</File>
+		<File>vi_VI/DiplomacyModifiers_Text.xml</File>
+		<File>vi_VI/DiplomacyNotifications_Text.xml</File>
+		<File>vi_VI/DiplomacyPanel_Text.xml</File>
+		<File>vi_VI/DiplomacyStatements_Common_Text.xml</File>
+		<File>vi_VI/DiplomacyStatements_DeclareFriendship_Text.xml</File>
+		<File>vi_VI/DiplomacyStatements_DeclareWar_Text.xml</File>
+		<File>vi_VI/DiplomacyStatements_Defeat_Text.xml</File>
+		<File>vi_VI/DiplomacyStatements_Delegation_Text.xml</File>
+		<File>vi_VI/DiplomacyStatements_Denounce_Text.xml</File>
+		<File>vi_VI/DiplomacyStatements_Embassy_Text.xml</File>
+		<File>vi_VI/DiplomacyStatements_FirstMeet_Text.xml</File>
+		<File>vi_VI/DiplomacyStatements_Greeting_Text.xml</File>
+		<File>vi_VI/DiplomacyStatements_KudosAndWarnings_Text.xml</File>
+		<File>vi_VI/DiplomacyStatements_MakeAlliance_Text.xml</File>
+		<File>vi_VI/DiplomacyStatements_MakeDeal_Text.xml</File>
+		<File>vi_VI/DiplomacyStatements_MakeDemand_Text.xml</File>
+		<File>vi_VI/DiplomacyStatements_MakePeace_Text.xml</File>
+		<File>vi_VI/DiplomacyStatements_OpenBorders_Text.xml</File>
+		<File>vi_VI/DiplomacyStatements_Warning_Text.xml</File>
+		<File>vi_VI/Districts_Text.xml</File>
+		<File>vi_VI/EarthMaps_ConfigText.xml</File>
+		<File>vi_VI/EarthMaps_Epic_Text.xml</File>
+		<File>vi_VI/Espionage_Text.xml</File>
+		<File>vi_VI/Expansion1_Credits.xml</File>
+		<File>vi_VI/Expansion1_PackageText.xml</File>
+		<File>vi_VI/Expansion2_Credits.xml</File>
+		<File>vi_VI/Expansion2_PackageText.xml</File>
+		<File>vi_VI/FeaturesAndTerrains_Text.xml</File>
+		<File>vi_VI/FrontEnd_PlayByCloud.xml</File>
+		<File>vi_VI/FrontEndText.xml</File>
+		<File>vi_VI/GameSummaries_Text.xml</File>
+		<File>vi_VI/Gossip_Text.xml</File>
+		<File>vi_VI/Grammar_Text.xml</File>
+		<File>vi_VI/GreatPeople_Text.xml</File>
+		<File>vi_VI/GreatWorks_Text.xml</File>
+		<File>vi_VI/Improvements_Text.xml</File>
+		<File>vi_VI/Indonesia_Khmer_PackageText.xml</File>
+		<File>vi_VI/InGame_PlayByCloud.xml</File>
+		<File>vi_VI/InGameText.xml</File>
+		<File>vi_VI/Leaders_Text.xml</File>
+		<File>vi_VI/Macedonia_Persia_PackageText.xml</File>
+		<File>vi_VI/Modifiers_Text.xml</File>
+		<File>vi_VI/MultiplayerFrontEndText.xml</File>
+		<File>vi_VI/My2KText.xml</File>
+		<File>vi_VI/NapoleonScenario_Text.xml</File>
+		<File>vi_VI/Notifications_Text.xml</File>
+		<File>vi_VI/Nubia_PackageText.xml</File>
+		<File>vi_VI/Poland_PackageText.xml</File>
+		<File>vi_VI/Projects_Text.xml</File>
+		<File>vi_VI/Promotions_Text.xml</File>
+		<File>vi_VI/Quests_Text.xml</File>
+		<File>vi_VI/Quotes_Text.xml</File>
+		<File>vi_VI/Religion_Text.xml</File>
+		<File>vi_VI/ReligiousCombatScenario_Text.xml</File>
+		<File>vi_VI/Routes_Text.xml</File>
+		<File>vi_VI/Technologies_Text.xml</File>
+		<File>vi_VI/Types_Text.xml</File>
+		<File>vi_VI/UI_Civilopedia_Text.xml</File>
+		<File>vi_VI/UI_EndGame_Text.xml</File>
+		<File>vi_VI/UI_GameSummaries_Text.xml</File>
+		<File>vi_VI/UI_Mods_Text.xml</File>
+		<File>vi_VI/UI_Options_Text.xml</File>
+		<File>vi_VI/UI_Technology_Text.xml</File>
+		<File>vi_VI/UnitNames_Text.xml</File>
+		<File>vi_VI/Units_Text.xml</File>
+		<File>vi_VI/Unit_Abilities_Text.xml</File>
+		<File>vi_VI/UserSetupWarning_Text.xml</File>
+		<File>vi_VI/Vikings_PackageText.xml</File>
+		<File>vi_VI/Wars_Text.xml</File>
+		<File>vi_VI/WorldBuilder_Text.xml</File>
+		<!-- Rise & Fall -->
+		<File>vi_VI_Expansion1/Expansion1_Buildings_Text.xml</File>
+		<File>vi_VI_Expansion1/Expansion1_CityBanner_Text.xml</File>
+		<File>vi_VI_Expansion1/Expansion1_CityNames_Text.xml</File>
+		<File>vi_VI_Expansion1/Expansion1_Civics_Text.xml</File>
+		<File>vi_VI_Expansion1/Expansion1_ConfigText.xml</File>
+		<File>vi_VI_Expansion1/Expansion1_Diplomacy_Text.xml</File>
+		<File>vi_VI_Expansion1/Expansion1_Districts_Text.xml</File>
+		<File>vi_VI_Expansion1/Expansion1_Eras_Text.xml</File>
+		<File>vi_VI_Expansion1/Expansion1_InGameText.xml</File>
+		<File>vi_VI_Expansion1/Expansion1_Leaders_Text.xml</File>
+		<File>vi_VI_Expansion1/Expansion1_Notifications_Text.xml</File>
+		<File>vi_VI_Expansion1/Expansion1_Religion_Text.xml</File>
+		<File>vi_VI_Expansion1/Expansion1_Technologies_Text.xml</File>
+		<File>vi_VI_Expansion1/Expansion1_Wars_Text.xml</File>
+		<!-- Gathering Storm -->
+		<File>vi_VI_Expansion2/Expansion1_InGameText.xml</File>
+		<File>vi_VI_Expansion2/Expansion1_Leaders_Text.xml</File>
+		<File>vi_VI_Expansion2/Expansion1_Notifications_Text.xml</File>
+		<File>vi_VI_Expansion2/Expansion2_CityNames_Text.xml</File>
+		<File>vi_VI_Expansion2/Expansion2_ConfigText.xml</File>
+		<File>vi_VI_Expansion2/Expansion2_Improvements_Text.xml</File>
+		<File>vi_VI_Expansion2/Expansion2_Leaders_Text.xml</File>
+		<File>vi_VI_Expansion2/Expansion2_Notifications_Text.xml</File>
+		<File>vi_VI_Expansion2/Expansion2_Units_Text.xml</File>
+		<File>vi_VI_Expansion2/Expansion2_UnitNames_Text.xml</File>
+		<!-- DLC -->
+		<File>vi_VI_DLC/Australia/Australia_ConfigText.xml</File>
+		<File>vi_VI_DLC/Australia/Australia_Text.xml</File>
+		<File>vi_VI_DLC/Indonesia_Khmer/Indonesia_Khmer_ConfigText.xml</File>
+		<File>vi_VI_DLC/Indonesia_Khmer/Indonesia_Khmer_Text.xml</File>
+		<File>vi_VI_DLC/Macedonia_Persia/Macedonia_Persia_ConfigText.xml</File>
+		<File>vi_VI_DLC/Macedonia_Persia/Macedonia_Persia_Text.xml</File>
+
+	</Files>
+</Mod>

@@ -1,0 +1,2708 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <LocalizedText>
+    <Replace Tag="LOC_IMPROVEMENT_SUPPLY_DROP_NAME" Language="pt_BR">
+      <Text>Entrega de suprimento|Entregas de suprimento</Text>
+      <Gender>feminine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_POPPED_GOODY_NAME" Language="pt_BR">
+      <Text>Ruínas da cidade exploradas</Text>
+      <Gender>feminine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_BARBARIAN_CAMP_NAME" Language="pt_BR">
+      <Text>Posto Avançado de Saqueador|Postos Avançados de Saqueador</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_BARBARIAN_NAME" Language="pt_BR">
+      <Text>Saqueadores</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_BARBARIAN_DESCRIPTION" Language="pt_BR">
+      <Text>Saqueadores</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_FEATURE_DESTROYED_CITY_NAME" Language="pt_BR">
+      <Text>Cidade destruída</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_FEATURE_ICE_NAME" Language="pt_BR">
+      <Text>A Grande Podridão (Proibido)</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_FEATURE_MARSH_NAME" Language="pt_BR">
+      <Text>Pântano</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_DESERT_NAME" Language="pt_BR">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_DESERT_HILLS_NAME" Language="pt_BR">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_HILLS_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_DESERT_MOUNTAIN_NAME" Language="pt_BR">
+      <Text>Deserto (montanhas)</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_GRASS_NAME" Language="pt_BR">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_GRASS_HILLS_NAME" Language="pt_BR">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_HILLS_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_GRASS_MOUNTAIN_NAME" Language="pt_BR">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_MOUNTAIN_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_OCEAN_NAME" Language="pt_BR">
+      <Text>Oceano envenenado</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_PLAINS_NAME" Language="pt_BR">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_PLAINS_HILLS_NAME" Language="pt_BR">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_HILLS_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_PLAINS_MOUNTAIN_NAME" Language="pt_BR">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_MOUNTAIN_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_SNOW_NAME" Language="pt_BR">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_SNOW_HILLS_NAME" Language="pt_BR">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_HILLS_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_SNOW_MOUNTAIN_NAME" Language="pt_BR">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_MOUNTAIN_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_TUNDRA_NAME" Language="pt_BR">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_TUNDRA_HILLS_NAME" Language="pt_BR">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_HILLS_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_TUNDRA_MOUNTAIN_NAME" Language="pt_BR">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_MOUNTAIN_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_VICTORY_WIN_BLURB" Language="pt_BR">
+      <Text>Todos riram de nós. Disseram que éramos muito fracos e muito poucos para chegar ao aterrissador. Quem é que está rindo agora? Qual é a última facção a sair deste planeta estúpido e podre? Quem é que tem uma passagem só de ida para uma nave espacial novinha em folha, bebendo água limpa e respirando ar que não contém poeira tóxica? Nós![NEWLINE][NEWLINE]Estamos dando o fora! Cuidado, universo!</Text>
+    </Replace>
+    <Replace Tag="LOC_GOODYHUT_MILITARY_GRANT_WARRIOR_DESCRIPTION" Language="pt_BR">
+      <Text>[COLOR_FLOAT_MILITARY]Uma unidade de infantaria entrou em sua facção.[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Tag="LOC_GOODYHUT_MILITARY_GRANT_ARCHER_DESCRIPTION" Language="pt_BR">
+      <Text>[COLOR_FLOAT_MILITARY]Uma unidade metralhadora entrou em sua facção.[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Tag="LOC_GOODYHUT_MILITARY_GRANT_AT_TEAM_DESCRIPTION" Language="pt_BR">
+      <Text>[COLOR_FLOAT_MILITARY]Uma unidade antitanque entrou em sua facção.[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Tag="LOC_GOODYHUT_MILITARY_GRANT_SETTLER_DESCRIPTION" Language="pt_BR">
+      <Text>[COLOR_FLOAT_MILITARY]Civis abrigados nas ruínas entraram em sua facção.[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Tag="LOC_GOODYHUT_MILITARY_GRANT_GUNSHIP_DESCRIPTION" Language="pt_BR">
+      <Text>[COLOR_FLOAT_MILITARY]Você descobriu um helicóptero funcional.[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Tag="LOC_GOODYHUT_MILITARY_GRANT_TANK_DESCRIPTION" Language="pt_BR">
+      <Text>[COLOR_FLOAT_MILITARY]Você descobriu um tanque funcional.[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Tag="LOC_GOODYHUT_MILITARY_GRANT_ARTILLERY_DESCRIPTION" Language="pt_BR">
+      <Text>[COLOR_FLOAT_MILITARY]Uma unidade de artilharia entrou em sua facção.[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Tag="LOC_GOODYHUT_MILITARY_GRANT_NUKE_STRIKE_DESCRIPTION" Language="pt_BR">
+      <Text>[COLOR_FLOAT_MILITARY]Você descobriu um dispositivo termonuclear funcional.[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_HUD_TURNS_UNTIL_RING_SHRINKS" Language="pt_BR">
+      <Text>Turnos até a Zona Segura encolher.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_HUD_CATEGORY" Language="pt_BR">
+      <Text>Categoria</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_HUD_DAMAGE" Language="pt_BR">
+      <Text>Dano</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_HUD_DAMAGE_TOOLTIP" Language="pt_BR">
+      <Text>A quantidade de dano que seus sobreviventes enfrentarão na Morte Vermelha.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_HUD_TURNS_TOOLTIP" Language="pt_BR">
+      <Text>Quantos turnos até a Morte Vermelha chegar à Zona Segura.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_HUD_CIVILIAN_WARNING" Language="pt_BR">
+      <Text>Seu civil está na precipitação radioativa!</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_NOTIFICATION_SUPPLY_DROP_MESSAGE" Language="pt_BR">
+      <Text>Entrega de suprimento!</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_NOTIFICATION_SUPPLY_DROP_SUMMARY" Language="pt_BR">
+      <Text>Apareceu uma entrega de suprimento!</Text>
+    </Replace>
+    <Replace Tag="LOC_NOTIFICATION_DISCOVER_GOODY_HUT_MESSAGE" Language="pt_BR">
+      <Text>Ruína da cidade descoberta</Text>
+    </Replace>
+    <Replace Tag="LOC_NOTIFICATION_DISCOVER_GOODY_HUT_SUMMARY" Language="pt_BR">
+      <Text>Você encontrou uma ruína da cidade que pode conter suprimentos altamente necessários.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_NOTIFICATION_SAFE_ZONE_APPEARED_MESSAGE" Language="pt_BR">
+      <Text>Zona Segura estabelecida</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_NOTIFICATION_SAFE_ZONE_APPEARED_SUMMARY" Language="pt_BR">
+      <Text>A Morte Vermelha está se modificando. Uma Zona Segura no olho do ciclone foi marcada no seu mapa.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_NOTIFICATION_SAFE_ZONE_CHANGED_MESSAGE" Language="pt_BR">
+      <Text>Zona Segura encolhida</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_NOTIFICATION_SAFE_ZONE_CHANGED_SUMMARY" Language="pt_BR">
+      <Text>A Morte Vermelha está ficando pior. A Zona Segura deslocou-se e ficou menor.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_IMPROVEMENT_GOODY_HUT_NAME" Language="pt_BR">
+      <Text>Ruínas da cidade</Text>
+    </Replace>
+    <Replace Tag="LOC_MINIMAP_RED_DEATH_TOOLTIP" Language="pt_BR">
+      <Text>Morte Vermelha</Text>
+    </Replace>
+    <Replace Tag="LOC_MINIMAP_SAFE_ZONE_TOOLTIP" Language="pt_BR">
+      <Text>Zona Segura</Text>
+    </Replace>
+    <Replace Tag="LOC_PROMOTION_SCOUTING_REGIMENT_DESCRIPTION" Language="pt_BR">
+      <Text>A unidade e sua formação ignoram penalidades de [ICON_Movement] movimento para florestas, florestas tropicais e colinas.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_PROMOTION_CAPARISON_DESCRIPTION" Language="pt_BR">
+      <Text>+5 de [ICON_Strength] força de combate contra equipes antitanque.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_PROMOTION_COURSERS_DESCRIPTION" Language="pt_BR">
+      <Text>+5 de [ICON_Strength] força de combate quando atacando metralhadoras.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_PROMOTION_ARMOR_PIERCING_DESCRIPTION" Language="pt_BR">
+      <Text>+7 de [ICON_Strength] força de combate contra outros tanques.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_PROMOTION_REACTIVE_ARMOR_DESCRIPTION" Language="pt_BR">
+      <Text>+7 de [ICON_Strength] força de combate quando defendendo contra tanques e equipes antitanque.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_PROMOTION_ECHELON_DESCRIPTION" Language="pt_BR">
+      <Text>+5 de [ICON_Strength] força de combate contra tanques e helicópteros.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_PROMOTION_HOLD_THE_LINE_DESCRIPTION" Language="pt_BR">
+      <Text>Unidades adjacentes de uma classe diferente recebem +10 de [ICON_Strength] força de combate contra tanques e helicópteros.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_PROMOTION_CHOKE_POINTS_DESCRIPTION" Language="pt_BR">
+      <Text>+7 de [ICON_Strength] força de combate quando defendendo em bosque, selva, colina ou pântano.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_UNIT_BASE_WMD_RESISTANCE_NAME" Language="pt_BR">
+      <Text>Acostumado com o desastre</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_UNIT_BASE_WMD_RESISTANCE_DESCRIPTION" Language="pt_BR">
+      <Text>Perca 50 PS em vez de morrer instantaneamente com ADMs.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_ABILITY_WMD_STRIKE_NAME" Language="pt_BR">
+      <Text>Capacidade de lançamento de ADM</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_WMD_STRIKE_DESCRIPTION" Language="pt_BR">
+      <Text>Pode lançar ADMs.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_PIRATES_IGNORE_EMBARK_DISEMBARK_COST_DESCRIPTION" Language="pt_BR">
+      <Text>Ignora custo adicional de [ICON_Movement] movimento para embarcar e desembarcar.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_TERRAIN_WASTELAND_NAME" Language="pt_BR">
+      <Text>Ermo</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_TERRAIN_WASTELAND_HILLS_NAME" Language="pt_BR">
+      <Text>Ermo (Colinas)</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_TERRAIN_WASTELAND_MOUNTAIN_NAME" Language="pt_BR">
+      <Text>Ermo (Montanha)</Text>
+    </Replace>
+    <Replace Tag="LOC_TOOLTIP_LAKE" Language="pt_BR">
+      <Text>Lago envenenado</Text>
+    </Replace>
+    <Replace Tag="LOC_TOOLTIP_COAST" Language="pt_BR">
+      <Text>Costa envenenada</Text>
+    </Replace>
+    <Replace Tag="LOC_NOTIFICATION_NEW_BARBARIAN_CAMP_MESSAGE" Language="pt_BR">
+      <Text>Novo Posto Avançado de Saqueador</Text>
+    </Replace>
+    <Replace Tag="LOC_NOTIFICATION_NEW_BARBARIAN_CAMP_SUMMARY" Language="pt_BR">
+      <Text>Há rumores de que um novo bando de saqueadores se estabeleceu em uma região próxima.</Text>
+    </Replace>
+    <Replace Tag="LOC_EDGELORD_COMBAT_BONUS_OVERLAY_TT" Language="pt_BR">
+      <Text>Zona de bônus de combate de Senhor do Limite</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_CIVROYALE_SCENARIO" Language="pt_BR">
+      <Text>{LOC_CIV_ROYALE_MOD_DESCRIPTION_TUTORIAL}</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_HUD_STORM_STRENGTH" Language="pt_BR">
+      <Text>Precipitação: Categoria {1_safeZonePhase} (Dano {2_dangerZoneDamage})</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_HUD_CATEGORY_TOOLTIP" Language="pt_BR">
+      <Text>Uma unidade sofrerá {1_Damage} dano da precipitação no círculo.[NEWLINE]Até agora, a Zona Segura se fechou {2_RingCount} {2_RingCount : plural 1?vez; other?vezes;}.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_HUD_TURNS" Language="pt_BR">
+      <Text>{1_Turns : plural 1?Turno; other?Turnos;}</Text>
+    </Replace>
+    <Replace Tag="LOC_PROMOTION_SCOUTING_REGIMENT_NAME" Language="pt_BR">
+      <Text>Regimento de batedores</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SETTLER_NAME" Language="pt_BR">
+      <Text>Civil</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_SUPPLY_DROP_NAME" Language="fr_FR">
+      <Text>Ravitaillement|Ravitaillements</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_POPPED_GOODY_NAME" Language="fr_FR">
+      <Text>Ruines urbaines explorées</Text>
+      <Gender>feminine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_BARBARIAN_CAMP_NAME" Language="fr_FR">
+      <Text>Avant-poste de pillards|Avant-postes de pillards</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_BARBARIAN_NAME" Language="fr_FR">
+      <Text>Pillards</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_BARBARIAN_DESCRIPTION" Language="fr_FR">
+      <Text>Pillards</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_FEATURE_DESTROYED_CITY_NAME" Language="fr_FR">
+      <Text>Ville détruite|Villes détruites</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_FEATURE_ICE_NAME" Language="fr_FR">
+      <Text>La Grande pourriture (interdit)</Text>
+    </Replace>
+    <Replace Tag="LOC_FEATURE_MARSH_NAME" Language="fr_FR">
+      <Text>Tourbière|Tourbières</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_DESERT_NAME" Language="fr_FR">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_DESERT_HILLS_NAME" Language="fr_FR">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_HILLS_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_DESERT_MOUNTAIN_NAME" Language="fr_FR">
+      <Text>Désert de montagne</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_GRASS_NAME" Language="fr_FR">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_GRASS_HILLS_NAME" Language="fr_FR">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_HILLS_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_GRASS_MOUNTAIN_NAME" Language="fr_FR">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_MOUNTAIN_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_OCEAN_NAME" Language="fr_FR">
+      <Text>Océan empoisonné</Text>
+      <Gender>masculine:vowel</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_PLAINS_NAME" Language="fr_FR">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_PLAINS_HILLS_NAME" Language="fr_FR">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_HILLS_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_PLAINS_MOUNTAIN_NAME" Language="fr_FR">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_MOUNTAIN_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_SNOW_NAME" Language="fr_FR">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_SNOW_HILLS_NAME" Language="fr_FR">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_HILLS_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_SNOW_MOUNTAIN_NAME" Language="fr_FR">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_MOUNTAIN_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_TUNDRA_NAME" Language="fr_FR">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_TUNDRA_HILLS_NAME" Language="fr_FR">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_HILLS_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_TUNDRA_MOUNTAIN_NAME" Language="fr_FR">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_MOUNTAIN_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_VICTORY_WIN_BLURB" Language="fr_FR">
+      <Text>Ils se sont tous moqués de nous. Ils nous ont soutenu que nous étions trop faibles et peu nombreux pour atteindre l'atterrisseur. Mais nous avions raison d'y croire ! C'est nous, la dernière faction de cette misérable planète. C'est nous qui partons sans retour vers un beau vaisseau tout neuf, où nous pourrons boire de l'eau propre et respirer  un air non toxique. Eh oui ! [NEWLINE][NEWLINE]Direction les étoiles ! L'univers n'a qu'à bien se tenir !</Text>
+    </Replace>
+    <Replace Tag="LOC_GOODYHUT_MILITARY_GRANT_WARRIOR_DESCRIPTION" Language="fr_FR">
+      <Text>[COLOR_FLOAT_MILITARY]Une unité d'infanterie a rejoint votre faction.[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Tag="LOC_GOODYHUT_MILITARY_GRANT_ARCHER_DESCRIPTION" Language="fr_FR">
+      <Text>[COLOR_FLOAT_MILITARY]Un mitrailleur a rejoint votre faction.[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Tag="LOC_GOODYHUT_MILITARY_GRANT_AT_TEAM_DESCRIPTION" Language="fr_FR">
+      <Text>[COLOR_FLOAT_MILITARY]Une unité antichar a rejoint votre faction.[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Tag="LOC_GOODYHUT_MILITARY_GRANT_SETTLER_DESCRIPTION" Language="fr_FR">
+      <Text>[COLOR_FLOAT_MILITARY]Des civils réfugiés dans les ruines ont rejoint votre faction.[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Tag="LOC_GOODYHUT_MILITARY_GRANT_GUNSHIP_DESCRIPTION" Language="fr_FR">
+      <Text>[COLOR_FLOAT_MILITARY]Vous avez découvert un hélicoptère.[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Tag="LOC_GOODYHUT_MILITARY_GRANT_TANK_DESCRIPTION" Language="fr_FR">
+      <Text>[COLOR_FLOAT_MILITARY]Vous avez découvert un blindé fonctionnel.[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Tag="LOC_GOODYHUT_MILITARY_GRANT_ARTILLERY_DESCRIPTION" Language="fr_FR">
+      <Text>[COLOR_FLOAT_MILITARY]Une unité d'artillerie a rejoint votre faction.[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Tag="LOC_GOODYHUT_MILITARY_GRANT_NUKE_STRIKE_DESCRIPTION" Language="fr_FR">
+      <Text>[COLOR_FLOAT_MILITARY]Vous avez découvert une bombe H fonctionnelle.[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_HUD_TURNS_UNTIL_RING_SHRINKS" Language="fr_FR">
+      <Text>Tours avant réduction de la zone de sûreté :</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_HUD_CATEGORY" Language="fr_FR">
+      <Text>Catégorie</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_HUD_DAMAGE" Language="fr_FR">
+      <Text>Dégâts</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_HUD_DAMAGE_TOOLTIP" Language="fr_FR">
+      <Text>La quantité de dégâts subis par vos survivants dans le Fléau rouge.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_HUD_TURNS_TOOLTIP" Language="fr_FR">
+      <Text>Le nombre de tours avant que le Fléau rouge n'atteigne la zone de sûreté.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_HUD_CIVILIAN_WARNING" Language="fr_FR">
+      <Text>Votre civil est dans les retombées !</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_NOTIFICATION_SUPPLY_DROP_MESSAGE" Language="fr_FR">
+      <Text>Ravitaillement !</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_NOTIFICATION_SUPPLY_DROP_SUMMARY" Language="fr_FR">
+      <Text>Un ravitaillement est apparu !</Text>
+    </Replace>
+    <Replace Tag="LOC_NOTIFICATION_DISCOVER_GOODY_HUT_MESSAGE" Language="fr_FR">
+      <Text>Ruine urbaine découverte</Text>
+    </Replace>
+    <Replace Tag="LOC_NOTIFICATION_DISCOVER_GOODY_HUT_SUMMARY" Language="fr_FR">
+      <Text>Vous avez découvert une ruine urbaine qui peut contenir du matériel.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_NOTIFICATION_SAFE_ZONE_APPEARED_MESSAGE" Language="fr_FR">
+      <Text>Zone de sûreté établie</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_NOTIFICATION_SAFE_ZONE_APPEARED_SUMMARY" Language="fr_FR">
+      <Text>Le Fléau rouge se reforme. Une zone de sûreté dans l'œil de la tempête est indiquée sur votre carte.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_NOTIFICATION_SAFE_ZONE_CHANGED_MESSAGE" Language="fr_FR">
+      <Text>Rétrécissement de la zone de sûreté</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_NOTIFICATION_SAFE_ZONE_CHANGED_SUMMARY" Language="fr_FR">
+      <Text>Le Fléau rouge se renforce. La zone de sûreté se déplace et rétrécit.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_IMPROVEMENT_GOODY_HUT_NAME" Language="fr_FR">
+      <Text>Ruines urbaines</Text>
+    </Replace>
+    <Replace Tag="LOC_MINIMAP_RED_DEATH_TOOLTIP" Language="fr_FR">
+      <Text>Fléau rouge</Text>
+    </Replace>
+    <Replace Tag="LOC_MINIMAP_SAFE_ZONE_TOOLTIP" Language="fr_FR">
+      <Text>Zone de sûreté</Text>
+    </Replace>
+    <Replace Tag="LOC_PROMOTION_SCOUTING_REGIMENT_DESCRIPTION" Language="fr_FR">
+      <Text>L'unité et sa formation ignorent la pénalité de [ICON_Movement] PM sur les cases de bois, de forêt tropicale et de collines.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_PROMOTION_CAPARISON_DESCRIPTION" Language="fr_FR">
+      <Text>[ICON_Strength] Puissance de combat +7 contre les unités antichars.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_PROMOTION_COURSERS_DESCRIPTION" Language="fr_FR">
+      <Text>[ICON_Strength] Puissance de combat +5 contre les mitrailleuses.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_PROMOTION_ARMOR_PIERCING_DESCRIPTION" Language="fr_FR">
+      <Text>[ICON_Strength] Puissance de combat +7 contre les autres blindés.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_PROMOTION_REACTIVE_ARMOR_DESCRIPTION" Language="fr_FR">
+      <Text>[ICON_Strength] Puissance défensive +7 contre les blindés et les unités antichars.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_PROMOTION_ECHELON_DESCRIPTION" Language="fr_FR">
+      <Text>[ICON_Strength] Puissance de combat +5 contre les blindés et les hélicoptères.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_PROMOTION_HOLD_THE_LINE_DESCRIPTION" Language="fr_FR">
+      <Text>[ICON_Strength] Puissance de combat +10 contre les blindés et les hélicoptères pour les unités adjacentes de classe différente.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_PROMOTION_CHOKE_POINTS_DESCRIPTION" Language="fr_FR">
+      <Text>[ICON_Strength] Puissance défensive +7 sur les cases de bois, de jungle, de collines ou de marais.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_UNIT_BASE_WMD_RESISTANCE_NAME" Language="fr_FR">
+      <Text>Habitude des catastrophes</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_UNIT_BASE_WMD_RESISTANCE_DESCRIPTION" Language="fr_FR">
+      <Text>Perd 50 PV plutôt que de mourir instantanément à l'utilisation d'une arme de destruction massive.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_ABILITY_WMD_STRIKE_NAME" Language="fr_FR">
+      <Text>Lancement arme de destruction massive possible</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_WMD_STRIKE_DESCRIPTION" Language="fr_FR">
+      <Text>Peut utiliser des armes de destruction massive.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_PIRATES_IGNORE_EMBARK_DISEMBARK_COST_DESCRIPTION" Language="fr_FR">
+      <Text>Aucun [ICON_Movement] PM consommé pour embarquer ou débarquer.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_TERRAIN_WASTELAND_NAME" Language="fr_FR">
+      <Text>No man's land</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_TERRAIN_WASTELAND_HILLS_NAME" Language="fr_FR">
+      <Text>No man's land (collines)</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_TERRAIN_WASTELAND_MOUNTAIN_NAME" Language="fr_FR">
+      <Text>No man's land (montagne)</Text>
+    </Replace>
+    <Replace Tag="LOC_TOOLTIP_LAKE" Language="fr_FR">
+      <Text>Lac empoisonné</Text>
+    </Replace>
+    <Replace Tag="LOC_TOOLTIP_COAST" Language="fr_FR">
+      <Text>Côte empoisonnée</Text>
+    </Replace>
+    <Replace Tag="LOC_NOTIFICATION_NEW_BARBARIAN_CAMP_MESSAGE" Language="fr_FR">
+      <Text>Nouvel avant-poste de pillards</Text>
+    </Replace>
+    <Replace Tag="LOC_NOTIFICATION_NEW_BARBARIAN_CAMP_SUMMARY" Language="fr_FR">
+      <Text>On nous signale qu'un nouveau groupe de pillards se seraient installés dans une région des environs.</Text>
+    </Replace>
+    <Replace Tag="LOC_EDGELORD_COMBAT_BONUS_OVERLAY_TT" Language="fr_FR">
+      <Text>Zone de bonus de combat des Extrémistes</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_CIVROYALE_SCENARIO" Language="fr_FR">
+      <Text>{LOC_CIV_ROYALE_MOD_DESCRIPTION_TUTORIAL}</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_HUD_STORM_STRENGTH" Language="fr_FR">
+      <Text>Retombées : catégorie {1_safeZonePhase} (dégâts : {2_dangerZoneDamage})</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_HUD_CATEGORY_TOOLTIP" Language="fr_FR">
+      <Text>Les retombées dans le cercle feront perdre {1_Damage} PV aux unités. [NEWLINE]La zone de sûreté s'est déjà rétrécie {2_RingCount} fois.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_HUD_TURNS" Language="fr_FR">
+      <Text>{1_Turns : plural 1?Tour; other?Tours;}</Text>
+    </Replace>
+    <Replace Tag="LOC_PROMOTION_SCOUTING_REGIMENT_NAME" Language="fr_FR">
+      <Text>Régiment d'éclaireurs|Régiments d'éclaireurs</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SETTLER_NAME" Language="fr_FR">
+      <Text>Civil|Civils</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_SUPPLY_DROP_NAME" Language="de_DE">
+      <Text>Vorratslieferung|Vorratslieferung|Vorratslieferung|Vorratslieferung|Vorratslieferung</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_POPPED_GOODY_NAME" Language="de_DE">
+      <Text>Erkundete Stadtruinen|Erkundeten Stadtruinen|Erkundeten Stadtruinen|Erkundeten Stadtruinen|Erkundeten Stadtruinen</Text>
+      <Gender>feminine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_BARBARIAN_CAMP_NAME" Language="de_DE">
+      <Text>Räuber-Außenposten|Räuber-Außenposten|Räuber-Außenposten|Räuber-Außenpostens|Räuber-Außenposten</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_BARBARIAN_NAME" Language="de_DE">
+      <Text>Räuber|Räuber|Räubern|Räuber|Räuber</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_BARBARIAN_DESCRIPTION" Language="de_DE">
+      <Text>Räuber</Text>
+    </Replace>
+    <Replace Tag="LOC_FEATURE_DESTROYED_CITY_NAME" Language="de_DE">
+      <Text>Zerstörte Stadt|Zerstörte Stadt|Zerstörten Stadt|Zerstörten Stadt|Zerstörte Stadt</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_FEATURE_ICE_NAME" Language="de_DE">
+      <Text>Das Große Rot (Verboten)|Das Große Rot (Verboten)|Dem Großen Rot (Verboten)|Des Großen Rots (Verboten)|Das Große Rot (Verboten)</Text>
+      <Gender>neuter:no_article</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_FEATURE_MARSH_NAME" Language="de_DE">
+      <Text>Morast|Morast|Morast|Morasts|Morast</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_DESERT_NAME" Language="de_DE">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_DESERT_HILLS_NAME" Language="de_DE">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_HILLS_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_DESERT_MOUNTAIN_NAME" Language="de_DE">
+      <Text>Wüste (Berg)|Wüste (Berg)|Wüste (Berg)|Wüste (Berg)|Wüste (Berg)</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_GRASS_NAME" Language="de_DE">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_GRASS_HILLS_NAME" Language="de_DE">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_HILLS_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_GRASS_MOUNTAIN_NAME" Language="de_DE">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_MOUNTAIN_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_OCEAN_NAME" Language="de_DE">
+      <Text>Vergifteter Ozean|Vergifteten Ozean|Vergifteten Ozean|Vergifteten Ozeans|Vergiftete Ozean</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_PLAINS_NAME" Language="de_DE">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_PLAINS_HILLS_NAME" Language="de_DE">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_HILLS_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_PLAINS_MOUNTAIN_NAME" Language="de_DE">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_MOUNTAIN_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_SNOW_NAME" Language="de_DE">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_SNOW_HILLS_NAME" Language="de_DE">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_HILLS_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_SNOW_MOUNTAIN_NAME" Language="de_DE">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_MOUNTAIN_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_TUNDRA_NAME" Language="de_DE">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_TUNDRA_HILLS_NAME" Language="de_DE">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_HILLS_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_TUNDRA_MOUNTAIN_NAME" Language="de_DE">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_MOUNTAIN_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_VICTORY_WIN_BLURB" Language="de_DE">
+      <Text>Sie haben uns ausgelacht. Sie haben uns erzählt, dass wir zu schwach und zu wenige wären, um es zum Landemodul zu schaffen. Und wer lacht jetzt? Wer schafft noch den Absprung, runter von diesem dummen verrotteten Planeten? Wer hat eine Fahrkarte für ein glänzendes neues Raumschiff, kann sauberes Wasser trinken und Luft atmen, die keinen giftigen Staub enthält? Wir! [NEWLINE][NEWLINE]Wir sind hier raus! Aufgepasst, Universum!</Text>
+    </Replace>
+    <Replace Tag="LOC_GOODYHUT_MILITARY_GRANT_WARRIOR_DESCRIPTION" Language="de_DE">
+      <Text>[COLOR_FLOAT_MILITARY]Eine Infanterieeinheit hat sich Eurer Fraktion angeschlossen.[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Tag="LOC_GOODYHUT_MILITARY_GRANT_ARCHER_DESCRIPTION" Language="de_DE">
+      <Text>[COLOR_FLOAT_MILITARY]Eine Maschinengewehrschützen-Einheit hat sich Eurer Fraktion angeschlossen.[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Tag="LOC_GOODYHUT_MILITARY_GRANT_AT_TEAM_DESCRIPTION" Language="de_DE">
+      <Text>[COLOR_FLOAT_MILITARY]Eine Panzerabwehreinheit hat sich Eurer Fraktion angeschlossen.[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Tag="LOC_GOODYHUT_MILITARY_GRANT_SETTLER_DESCRIPTION" Language="de_DE">
+      <Text>[COLOR_FLOAT_MILITARY]Zivilisten, die in den Ruinen Schutz gesucht haben, haben sich Eurer Fraktion angeschlossen.[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Tag="LOC_GOODYHUT_MILITARY_GRANT_GUNSHIP_DESCRIPTION" Language="de_DE">
+      <Text>[COLOR_FLOAT_MILITARY]Ihr habt einen funktionstüchtigen Helikopter entdeckt.[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Tag="LOC_GOODYHUT_MILITARY_GRANT_TANK_DESCRIPTION" Language="de_DE">
+      <Text>[COLOR_FLOAT_MILITARY]Ihr habt ein einen funktionstüchtigen Panzer entdeckt.[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Tag="LOC_GOODYHUT_MILITARY_GRANT_ARTILLERY_DESCRIPTION" Language="de_DE">
+      <Text>[COLOR_FLOAT_MILITARY]Eine Artillerieeinheit hat sich Eurer Fraktion angeschlossen.[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Tag="LOC_GOODYHUT_MILITARY_GRANT_NUKE_STRIKE_DESCRIPTION" Language="de_DE">
+      <Text>[COLOR_FLOAT_MILITARY]Ihr habt eine funktionstüchtige Thermonuklearwaffe entdeckt.[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_HUD_TURNS_UNTIL_RING_SHRINKS" Language="de_DE">
+      <Text>Runden, bis Sicherheitszone schrumpft.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_HUD_CATEGORY" Language="de_DE">
+      <Text>Kategorie</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_HUD_DAMAGE" Language="de_DE">
+      <Text>Schaden</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_HUD_DAMAGE_TOOLTIP" Language="de_DE">
+      <Text>Der Schaden, den Eure Überlebenden beim roten Tod erleiden werden.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_HUD_TURNS_TOOLTIP" Language="de_DE">
+      <Text>Rundenzahl, bis der rote Tod die Sicherheitszone erreicht.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_HUD_CIVILIAN_WARNING" Language="de_DE">
+      <Text>Euer Zivilist befindet sich im Fallout!</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_NOTIFICATION_SUPPLY_DROP_MESSAGE" Language="de_DE">
+      <Text>Vorratslieferung!</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_NOTIFICATION_SUPPLY_DROP_SUMMARY" Language="de_DE">
+      <Text>Eine Vorratslieferung ist angekommen!</Text>
+    </Replace>
+    <Replace Tag="LOC_NOTIFICATION_DISCOVER_GOODY_HUT_MESSAGE" Language="de_DE">
+      <Text>Stadtruine entdeckt</Text>
+    </Replace>
+    <Replace Tag="LOC_NOTIFICATION_DISCOVER_GOODY_HUT_SUMMARY" Language="de_DE">
+      <Text>Ihr habt eine Stadtruine gefunden, die bitter benötigte Vorräte enthalten könnte.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_NOTIFICATION_SAFE_ZONE_APPEARED_MESSAGE" Language="de_DE">
+      <Text>Sicherheitszone eingerichtet</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_NOTIFICATION_SAFE_ZONE_APPEARED_SUMMARY" Language="de_DE">
+      <Text>Der rote Tod formiert sich neu. Eine Sicherheitszone im Zentrum der Katastrophe ist auf Eurer Karte markiert.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_NOTIFICATION_SAFE_ZONE_CHANGED_MESSAGE" Language="de_DE">
+      <Text>Sicherheitszone ist geschrumpft</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_NOTIFICATION_SAFE_ZONE_CHANGED_SUMMARY" Language="de_DE">
+      <Text>Der rote Tod wird immer schlimmer. Die Sicherheitszone hat sich verschoben und ist kleiner geworden.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_IMPROVEMENT_GOODY_HUT_NAME" Language="de_DE">
+      <Text>Stadtruinen</Text>
+    </Replace>
+    <Replace Tag="LOC_MINIMAP_RED_DEATH_TOOLTIP" Language="de_DE">
+      <Text>Roter Tod</Text>
+    </Replace>
+    <Replace Tag="LOC_MINIMAP_SAFE_ZONE_TOOLTIP" Language="de_DE">
+      <Text>Sicherheitszone</Text>
+    </Replace>
+    <Replace Tag="LOC_PROMOTION_SCOUTING_REGIMENT_DESCRIPTION" Language="de_DE">
+      <Text>Die Einheit und ihre Formation ignorieren [ICON_Movement] Bewegungsmalusse für Wald, Regenwald und Hügel.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_PROMOTION_CAPARISON_DESCRIPTION" Language="de_DE">
+      <Text>+5 [ICON_Strength] Kampfstärke gegen Panzerabwehrmannschaften.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_PROMOTION_COURSERS_DESCRIPTION" Language="de_DE">
+      <Text>+5 [ICON_Strength] Kampfstärke beim Angriff gegen Maschinengewehre.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_PROMOTION_ARMOR_PIERCING_DESCRIPTION" Language="de_DE">
+      <Text>+7 [ICON_Strength] Kampfstärke gegen andere Panzer.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_PROMOTION_REACTIVE_ARMOR_DESCRIPTION" Language="de_DE">
+      <Text>+7 [ICON_Strength] Kampfstärke bei der Verteidigung gegen Panzer und Panzerabwehrmannschaften.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_PROMOTION_ECHELON_DESCRIPTION" Language="de_DE">
+      <Text>+5 [ICON_Strength] Kampfstärke gegen Panzer und Helikopter.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_PROMOTION_HOLD_THE_LINE_DESCRIPTION" Language="de_DE">
+      <Text>Benachbarte Einheiten einer anderen Klasse erhalten +10 [ICON_Strength] Kampfstärke gegen Panzer und Helikopter.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_PROMOTION_CHOKE_POINTS_DESCRIPTION" Language="de_DE">
+      <Text>+7 [ICON_Strength] Kampfstärke bei Verteidigung in Wald, Dschungel, Hügel oder Sumpf.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_UNIT_BASE_WMD_RESISTANCE_NAME" Language="de_DE">
+      <Text>Alltägliche Katastrophen</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_UNIT_BASE_WMD_RESISTANCE_DESCRIPTION" Language="de_DE">
+      <Text>Verliert 50 TP anstatt durch MVW direkt zu sterben.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_ABILITY_WMD_STRIKE_NAME" Language="de_DE">
+      <Text>Fähig zum MVW-Start</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_WMD_STRIKE_DESCRIPTION" Language="de_DE">
+      <Text>Kann MVW starten.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_PIRATES_IGNORE_EMBARK_DISEMBARK_COST_DESCRIPTION" Language="de_DE">
+      <Text>Ignoriert zusätzliche [ICON_Movement] Fortbewegungskosten durch Wassern und Ausschiffen.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_TERRAIN_WASTELAND_NAME" Language="de_DE">
+      <Text>Ödnis</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_TERRAIN_WASTELAND_HILLS_NAME" Language="de_DE">
+      <Text>Ödnis (Hügel)</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_TERRAIN_WASTELAND_MOUNTAIN_NAME" Language="de_DE">
+      <Text>Ödnis (Berg)</Text>
+    </Replace>
+    <Replace Tag="LOC_TOOLTIP_LAKE" Language="de_DE">
+      <Text>Vergifteter See</Text>
+    </Replace>
+    <Replace Tag="LOC_TOOLTIP_COAST" Language="de_DE">
+      <Text>Vergiftete Küste</Text>
+    </Replace>
+    <Replace Tag="LOC_NOTIFICATION_NEW_BARBARIAN_CAMP_MESSAGE" Language="de_DE">
+      <Text>Neuer Räuber-Außenposten</Text>
+    </Replace>
+    <Replace Tag="LOC_NOTIFICATION_NEW_BARBARIAN_CAMP_SUMMARY" Language="de_DE">
+      <Text>Wir haben Gerüchte gehört, dass eine neue Räuberbande in ein nahes Gebiet gezogen ist.</Text>
+    </Replace>
+    <Replace Tag="LOC_EDGELORD_COMBAT_BONUS_OVERLAY_TT" Language="de_DE">
+      <Text>Grenzkampf-Bonuszone</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_CIVROYALE_SCENARIO" Language="de_DE">
+      <Text>{LOC_CIV_ROYALE_MOD_DESCRIPTION_TUTORIAL}</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_HUD_STORM_STRENGTH" Language="de_DE">
+      <Text>Fallout: Kategorie {1_safeZonePhase} (Schaden {2_dangerZoneDamage})</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_HUD_CATEGORY_TOOLTIP" Language="de_DE">
+      <Text>Eine Einheit nimmt {1_Damage} Schaden durch den Fallout im Ring.[NEWLINE]Bislang wurde die Sicherheitszone {2_RingCount}-{2_RingCount : plural 1?mal; other?mal;} geschlossen.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_HUD_TURNS" Language="de_DE">
+      <Text>{1_Turns : plural 1?Runde; other?Runden;}</Text>
+    </Replace>
+    <Replace Tag="LOC_PROMOTION_SCOUTING_REGIMENT_NAME" Language="de_DE">
+      <Text>Späher-Regiment|Späher-Regiment|Späher-Regiment|Späher-Regiments|Späher-Regiment</Text>
+      <Gender>neuter</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SETTLER_NAME" Language="de_DE">
+      <Text>Zivilist|Zivilisten|Zivilisten|Zivilisten|Zivilist</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_SUPPLY_DROP_NAME" Language="it_IT">
+      <Text>Lancio di rifornimenti|il Lancio di rifornimenti|un Lancio di rifornimenti</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_POPPED_GOODY_NAME" Language="it_IT">
+      <Text>Rovine della città esplorate|le Rovine della città esplorate|delle Rovine della città esplorate</Text>
+      <Gender>feminine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_BARBARIAN_CAMP_NAME" Language="it_IT">
+      <Text>Avamposto dei banditi|l'Avamposto dei banditi|un Avamposto dei banditi</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_BARBARIAN_NAME" Language="it_IT">
+      <Text>Banditi|i Banditi|dei Banditi</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_BARBARIAN_DESCRIPTION" Language="it_IT">
+      <Text>Banditi|dei Banditi|ai Banditi|i Banditi|dai Banditi</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_FEATURE_DESTROYED_CITY_NAME" Language="it_IT">
+      <Text>Città distrutta</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_FEATURE_ICE_NAME" Language="it_IT">
+      <Text>Grande marciume (proibito)</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_FEATURE_MARSH_NAME" Language="it_IT">
+      <Text>Pantano</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_DESERT_NAME" Language="it_IT">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_DESERT_HILLS_NAME" Language="it_IT">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_HILLS_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_DESERT_MOUNTAIN_NAME" Language="it_IT">
+      <Text>Deserto (montagna)</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_GRASS_NAME" Language="it_IT">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_GRASS_HILLS_NAME" Language="it_IT">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_HILLS_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_GRASS_MOUNTAIN_NAME" Language="it_IT">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_MOUNTAIN_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_OCEAN_NAME" Language="it_IT">
+      <Text>Oceano avvelenato</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_PLAINS_NAME" Language="it_IT">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_PLAINS_HILLS_NAME" Language="it_IT">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_HILLS_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_PLAINS_MOUNTAIN_NAME" Language="it_IT">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_MOUNTAIN_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_SNOW_NAME" Language="it_IT">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_SNOW_HILLS_NAME" Language="it_IT">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_HILLS_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_SNOW_MOUNTAIN_NAME" Language="it_IT">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_MOUNTAIN_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_TUNDRA_NAME" Language="it_IT">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_TUNDRA_HILLS_NAME" Language="it_IT">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_HILLS_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_TUNDRA_MOUNTAIN_NAME" Language="it_IT">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_MOUNTAIN_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_VICTORY_WIN_BLURB" Language="it_IT">
+      <Text>Tutti ridevano di noi. Dicevano che eravamo troppo deboli e troppo pochi per riuscire a raggiungere il lander. Beh, chi è che ride adesso? Qual è l'ultima fazione che lascia questo stupido e marcio pianeta? Chi ha un biglietto di sola andata per una nuova scintillante nave spaziale, in cui bere acqua pulita e respirare un'aria libera da polveri tossiche? Noi![NEWLINE][NEWLINE]Ce ne andiamo! Universo, arriviamo!</Text>
+    </Replace>
+    <Replace Tag="LOC_GOODYHUT_MILITARY_GRANT_WARRIOR_DESCRIPTION" Language="it_IT">
+      <Text>[COLOR_FLOAT_MILITARY]Un'unità Fanteria si è unita alla tua fazione.[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Tag="LOC_GOODYHUT_MILITARY_GRANT_ARCHER_DESCRIPTION" Language="it_IT">
+      <Text>[COLOR_FLOAT_MILITARY]Un'unità Mitragliatrice si è unita alla tua fazione.[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Tag="LOC_GOODYHUT_MILITARY_GRANT_AT_TEAM_DESCRIPTION" Language="it_IT">
+      <Text>[COLOR_FLOAT_MILITARY]Un'unità Anti carro si è unita alla tua fazione.[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Tag="LOC_GOODYHUT_MILITARY_GRANT_SETTLER_DESCRIPTION" Language="it_IT">
+      <Text>[COLOR_FLOAT_MILITARY]I civili che vivono nelle rovine si sono uniti alla tua fazione.[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Tag="LOC_GOODYHUT_MILITARY_GRANT_GUNSHIP_DESCRIPTION" Language="it_IT">
+      <Text>[COLOR_FLOAT_MILITARY]Hai scoperto un Elicottero funzionante.[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Tag="LOC_GOODYHUT_MILITARY_GRANT_TANK_DESCRIPTION" Language="it_IT">
+      <Text>[COLOR_FLOAT_MILITARY]Hai scoperto un Carro armato funzionante.[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Tag="LOC_GOODYHUT_MILITARY_GRANT_ARTILLERY_DESCRIPTION" Language="it_IT">
+      <Text>[COLOR_FLOAT_MILITARY]Un'unità Artiglieria si è unita alla tua fazione.[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Tag="LOC_GOODYHUT_MILITARY_GRANT_NUKE_STRIKE_DESCRIPTION" Language="it_IT">
+      <Text>[COLOR_FLOAT_MILITARY]Hai scoperto un Dispositivo termonucleare funzionante.[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_HUD_TURNS_UNTIL_RING_SHRINKS" Language="it_IT">
+      <Text>Turni prima che la Zona Sicura si restringa.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_HUD_CATEGORY" Language="it_IT">
+      <Text>Categoria</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_HUD_DAMAGE" Language="it_IT">
+      <Text>Danno</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_HUD_DAMAGE_TOOLTIP" Language="it_IT">
+      <Text>La quantità di danno che i tuoi sopravvissuti subiranno dalla Morte rossa.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_HUD_TURNS_TOOLTIP" Language="it_IT">
+      <Text>Turni prima che la Morte rossa raggiunga la Zona Sicura.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_HUD_CIVILIAN_WARNING" Language="it_IT">
+      <Text>Il tuo civile è nel fallout radioattivo!</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_NOTIFICATION_SUPPLY_DROP_MESSAGE" Language="it_IT">
+      <Text>Lancio di rifornimenti!</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_NOTIFICATION_SUPPLY_DROP_SUMMARY" Language="it_IT">
+      <Text>È apparso un Lancio di rifornimenti!</Text>
+    </Replace>
+    <Replace Tag="LOC_NOTIFICATION_DISCOVER_GOODY_HUT_MESSAGE" Language="it_IT">
+      <Text>Rovine della città scoperte</Text>
+    </Replace>
+    <Replace Tag="LOC_NOTIFICATION_DISCOVER_GOODY_HUT_SUMMARY" Language="it_IT">
+      <Text>Hai scoperto delle Rovine della città che potrebbero contenere delle agognate provviste.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_NOTIFICATION_SAFE_ZONE_APPEARED_MESSAGE" Language="it_IT">
+      <Text>Zona Sicura stabilita</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_NOTIFICATION_SAFE_ZONE_APPEARED_SUMMARY" Language="it_IT">
+      <Text>La Morte rossa si sta riformando. Sulla tua mappa è apparsa una Zona Sicura nell'occhio del ciclone.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_NOTIFICATION_SAFE_ZONE_CHANGED_MESSAGE" Language="it_IT">
+      <Text>Zona Sicura ristretta</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_NOTIFICATION_SAFE_ZONE_CHANGED_SUMMARY" Language="it_IT">
+      <Text>La Morte rossa peggiora. La Zona Sicura si è spostata e si è rimpicciolita.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_IMPROVEMENT_GOODY_HUT_NAME" Language="it_IT">
+      <Text>Rovine della città</Text>
+    </Replace>
+    <Replace Tag="LOC_MINIMAP_RED_DEATH_TOOLTIP" Language="it_IT">
+      <Text>Morte rossa</Text>
+    </Replace>
+    <Replace Tag="LOC_MINIMAP_SAFE_ZONE_TOOLTIP" Language="it_IT">
+      <Text>Zona Sicura</Text>
+    </Replace>
+    <Replace Tag="LOC_PROMOTION_SCOUTING_REGIMENT_DESCRIPTION" Language="it_IT">
+      <Text>L'unità e la sua formazione ignorano le penalità al [ICON_Movement] Movimento in boschi, foreste pluviali e colline.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_PROMOTION_CAPARISON_DESCRIPTION" Language="it_IT">
+      <Text>+5 alla [ICON_Strength] Forza di combattimento contro le Squadre anticarro.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_PROMOTION_COURSERS_DESCRIPTION" Language="it_IT">
+      <Text>+5 alla [ICON_Strength] Forza di combattimento quando attacca Mitragliatrici.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_PROMOTION_ARMOR_PIERCING_DESCRIPTION" Language="it_IT">
+      <Text>+7 alla [ICON_Strength] Forza di combattimento contro altri Carri armati.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_PROMOTION_REACTIVE_ARMOR_DESCRIPTION" Language="it_IT">
+      <Text>+7 alla [ICON_Strength] Forza di combattimento quando si difende contro Carri armati ed Elicotteri.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_PROMOTION_ECHELON_DESCRIPTION" Language="it_IT">
+      <Text>+5 alla [ICON_Strength] Forza di combattimento contro Carri armati ed Elicotteri.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_PROMOTION_HOLD_THE_LINE_DESCRIPTION" Language="it_IT">
+      <Text>Le unità adiacenti di una classe diversa ottengono +10 alla [ICON_Strength] Forza di combattimento contro Carri armati ed Elicotteri.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_PROMOTION_CHOKE_POINTS_DESCRIPTION" Language="it_IT">
+      <Text>+7 alla [ICON_Strength] Forza di combattimento quando si difende in una casella di bosco, giungla, collina o palude.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_UNIT_BASE_WMD_RESISTANCE_NAME" Language="it_IT">
+      <Text>Abituati ai disastri</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_UNIT_BASE_WMD_RESISTANCE_DESCRIPTION" Language="it_IT">
+      <Text>Perde 50 PF anziché morire istantaneamente per le ADM.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_ABILITY_WMD_STRIKE_NAME" Language="it_IT">
+      <Text>Capacità di lancio di ADM</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_WMD_STRIKE_DESCRIPTION" Language="it_IT">
+      <Text>Può lanciare ADM.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_PIRATES_IGNORE_EMBARK_DISEMBARK_COST_DESCRIPTION" Language="it_IT">
+      <Text>Ignora i costi aggiuntivi di [ICON_Movement] movimento per l'imbarco e lo sbarco.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_TERRAIN_WASTELAND_NAME" Language="it_IT">
+      <Text>Landa</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_TERRAIN_WASTELAND_HILLS_NAME" Language="it_IT">
+      <Text>Landa (collina)</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_TERRAIN_WASTELAND_MOUNTAIN_NAME" Language="it_IT">
+      <Text>Landa (montagna)</Text>
+    </Replace>
+    <Replace Tag="LOC_TOOLTIP_LAKE" Language="it_IT">
+      <Text>Lago avvelenato</Text>
+    </Replace>
+    <Replace Tag="LOC_TOOLTIP_COAST" Language="it_IT">
+      <Text>Costa avvelenata</Text>
+    </Replace>
+    <Replace Tag="LOC_NOTIFICATION_NEW_BARBARIAN_CAMP_MESSAGE" Language="it_IT">
+      <Text>Nuovo Avamposto dei banditi</Text>
+    </Replace>
+    <Replace Tag="LOC_NOTIFICATION_NEW_BARBARIAN_CAMP_SUMMARY" Language="it_IT">
+      <Text>Abbiamo ricevuto la notizia che un nuovo gruppo di banditi si è installato in una regione vicina.</Text>
+    </Replace>
+    <Replace Tag="LOC_EDGELORD_COMBAT_BONUS_OVERLAY_TT" Language="it_IT">
+      <Text>Zona bonus combattimento Confinante</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_CIVROYALE_SCENARIO" Language="it_IT">
+      <Text>{LOC_CIV_ROYALE_MOD_DESCRIPTION_TUTORIAL}</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_HUD_STORM_STRENGTH" Language="it_IT">
+      <Text>Fallout: Categoria {1_safeZonePhase} (Danno {2_dangerZoneDamage})</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_HUD_CATEGORY_TOOLTIP" Language="it_IT">
+      <Text>Un'unità riceverà {1_Damage} {1_Damage : plural 1?danno; other?danni;} dal fallout nell'anello.[NEWLINE]Finora la Zona Sicura si è chiusa {2_RingCount} {2_RingCount : plural 1?volta; other?volte;}.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_HUD_TURNS" Language="it_IT">
+      <Text>{1_Turns : plural 1?Turno; other?Turni;}</Text>
+    </Replace>
+    <Replace Tag="LOC_PROMOTION_SCOUTING_REGIMENT_NAME" Language="it_IT">
+      <Text>Reggimento Scout</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SETTLER_NAME" Language="it_IT">
+      <Text>Civile|un Civile|dal tuo Civile|al tuo Civile|il tuo Civile|da un Civile</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_SUPPLY_DROP_NAME" Language="ja_JP">
+      <Text>投下物資</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_POPPED_GOODY_NAME" Language="ja_JP">
+      <Text>探索した都市の廃墟</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_BARBARIAN_CAMP_NAME" Language="ja_JP">
+      <Text>襲撃者の前哨地</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_BARBARIAN_NAME" Language="ja_JP">
+      <Text>襲撃者</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_BARBARIAN_DESCRIPTION" Language="ja_JP">
+      <Text>襲撃者</Text>
+    </Replace>
+    <Replace Tag="LOC_FEATURE_DESTROYED_CITY_NAME" Language="ja_JP">
+      <Text>破壊された都市</Text>
+    </Replace>
+    <Replace Tag="LOC_FEATURE_ICE_NAME" Language="ja_JP">
+      <Text>グレートロット (侵入不可)</Text>
+    </Replace>
+    <Replace Tag="LOC_FEATURE_MARSH_NAME" Language="ja_JP">
+      <Text>沼地</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_DESERT_NAME" Language="ja_JP">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_DESERT_HILLS_NAME" Language="ja_JP">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_HILLS_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_DESERT_MOUNTAIN_NAME" Language="ja_JP">
+      <Text>砂漠 (山岳)</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_GRASS_NAME" Language="ja_JP">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_GRASS_HILLS_NAME" Language="ja_JP">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_HILLS_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_GRASS_MOUNTAIN_NAME" Language="ja_JP">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_MOUNTAIN_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_OCEAN_NAME" Language="ja_JP">
+      <Text>毒に冒された海</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_PLAINS_NAME" Language="ja_JP">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_PLAINS_HILLS_NAME" Language="ja_JP">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_HILLS_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_PLAINS_MOUNTAIN_NAME" Language="ja_JP">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_MOUNTAIN_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_SNOW_NAME" Language="ja_JP">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_SNOW_HILLS_NAME" Language="ja_JP">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_HILLS_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_SNOW_MOUNTAIN_NAME" Language="ja_JP">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_MOUNTAIN_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_TUNDRA_NAME" Language="ja_JP">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_TUNDRA_HILLS_NAME" Language="ja_JP">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_HILLS_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_TUNDRA_MOUNTAIN_NAME" Language="ja_JP">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_MOUNTAIN_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_VICTORY_WIN_BLURB" Language="ja_JP">
+      <Text>誰もが我々をあざ笑いました。弱すぎる、数が少なすぎる、あれでは入植船に辿りつけるわけがない、と。さて、今笑っているのは誰でしょう？ この朽ちゆく愚かな星で最後まで生き残った勢力は？ ピカピカの宇宙船に乗り込む片道切符を手に入れ、澄んだ水を飲み、有害物質とは無縁な空気を胸いっぱいに吸い込むのは？ そう、我々です！[NEWLINE][NEWLINE]さあ、宇宙の大海原へ出発しましょう！ 新天地が待っています！</Text>
+    </Replace>
+    <Replace Tag="LOC_GOODYHUT_MILITARY_GRANT_WARRIOR_DESCRIPTION" Language="ja_JP">
+      <Text>[COLOR_FLOAT_MILITARY]歩兵ユニットを得た。[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Tag="LOC_GOODYHUT_MILITARY_GRANT_ARCHER_DESCRIPTION" Language="ja_JP">
+      <Text>[COLOR_FLOAT_MILITARY]機関銃手ユニットを得た。[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Tag="LOC_GOODYHUT_MILITARY_GRANT_AT_TEAM_DESCRIPTION" Language="ja_JP">
+      <Text>[COLOR_FLOAT_MILITARY]対戦車ユニットを得た。[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Tag="LOC_GOODYHUT_MILITARY_GRANT_SETTLER_DESCRIPTION" Language="ja_JP">
+      <Text>[COLOR_FLOAT_MILITARY]廃墟に避難していた市民を得た。[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Tag="LOC_GOODYHUT_MILITARY_GRANT_GUNSHIP_DESCRIPTION" Language="ja_JP">
+      <Text>[COLOR_FLOAT_MILITARY]まだ動くヘリコプターを見つけた。[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Tag="LOC_GOODYHUT_MILITARY_GRANT_TANK_DESCRIPTION" Language="ja_JP">
+      <Text>[COLOR_FLOAT_MILITARY]まだ動く戦車を見つけた。[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Tag="LOC_GOODYHUT_MILITARY_GRANT_ARTILLERY_DESCRIPTION" Language="ja_JP">
+      <Text>[COLOR_FLOAT_MILITARY]大砲ユニットを得た。[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Tag="LOC_GOODYHUT_MILITARY_GRANT_NUKE_STRIKE_DESCRIPTION" Language="ja_JP">
+      <Text>[COLOR_FLOAT_MILITARY]まだ動く核融合兵器を見つけた。[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_HUD_TURNS_UNTIL_RING_SHRINKS" Language="ja_JP">
+      <Text>安全地帯が縮小するまでのターン数です。</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_HUD_CATEGORY" Language="ja_JP">
+      <Text>カテゴリー</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_HUD_DAMAGE" Language="ja_JP">
+      <Text>ダメージ</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_HUD_DAMAGE_TOOLTIP" Language="ja_JP">
+      <Text>生存者がレッドデスによって受けるダメージです。</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_HUD_TURNS_TOOLTIP" Language="ja_JP">
+      <Text>レッドデスが安全地帯に到達するまでのターン数です。</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_HUD_CIVILIAN_WARNING" Language="ja_JP">
+      <Text>民間人が放射性降下物にさらされています！</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_NOTIFICATION_SUPPLY_DROP_MESSAGE" Language="ja_JP">
+      <Text>物資投下！</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_NOTIFICATION_SUPPLY_DROP_SUMMARY" Language="ja_JP">
+      <Text>投下物資が出現しました！</Text>
+    </Replace>
+    <Replace Tag="LOC_NOTIFICATION_DISCOVER_GOODY_HUT_MESSAGE" Language="ja_JP">
+      <Text>都市の廃墟を発見</Text>
+    </Replace>
+    <Replace Tag="LOC_NOTIFICATION_DISCOVER_GOODY_HUT_SUMMARY" Language="ja_JP">
+      <Text>都市の廃墟が見つかりました。必要な物資があるかもしれません。</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_NOTIFICATION_SAFE_ZONE_APPEARED_MESSAGE" Language="ja_JP">
+      <Text>安全地帯が確立</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_NOTIFICATION_SAFE_ZONE_APPEARED_SUMMARY" Language="ja_JP">
+      <Text>レッドデスが形を変えようとしています。マップ上の嵐の目は安全地帯を表しています。</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_NOTIFICATION_SAFE_ZONE_CHANGED_MESSAGE" Language="ja_JP">
+      <Text>安全地帯が縮小</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_NOTIFICATION_SAFE_ZONE_CHANGED_SUMMARY" Language="ja_JP">
+      <Text>レッドデスが勢力を強めつつあります。安全地帯が移動し、範囲が狭まりました。</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_IMPROVEMENT_GOODY_HUT_NAME" Language="ja_JP">
+      <Text>都市の廃墟</Text>
+    </Replace>
+    <Replace Tag="LOC_MINIMAP_RED_DEATH_TOOLTIP" Language="ja_JP">
+      <Text>レッドデス</Text>
+    </Replace>
+    <Replace Tag="LOC_MINIMAP_SAFE_ZONE_TOOLTIP" Language="ja_JP">
+      <Text>安全地帯</Text>
+    </Replace>
+    <Replace Tag="LOC_PROMOTION_SCOUTING_REGIMENT_DESCRIPTION" Language="ja_JP">
+      <Text>ユニットと陣形を組んだユニットが、森、熱帯雨林、丘陵で [ICON_Movement] 移動力ペナルティを受けなくなる。</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_PROMOTION_CAPARISON_DESCRIPTION" Language="ja_JP">
+      <Text>対戦車兵に対する [ICON_Strength] 戦闘力+5。</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_PROMOTION_COURSERS_DESCRIPTION" Language="ja_JP">
+      <Text>機関銃を攻撃時の [ICON_Strength] 戦闘力+5。</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_PROMOTION_ARMOR_PIERCING_DESCRIPTION" Language="ja_JP">
+      <Text>戦車に対する [ICON_Strength] 戦闘力+7。</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_PROMOTION_REACTIVE_ARMOR_DESCRIPTION" Language="ja_JP">
+      <Text>戦車と戦車兵に対する [ICON_Strength] 戦闘力+7。</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_PROMOTION_ECHELON_DESCRIPTION" Language="ja_JP">
+      <Text>戦車とヘリコプターに対する [ICON_Strength] 戦闘力+5。</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_PROMOTION_HOLD_THE_LINE_DESCRIPTION" Language="ja_JP">
+      <Text>隣接する他クラスユニットの戦車とヘリコプターに対する [ICON_Strength] 戦闘力+10。</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_PROMOTION_CHOKE_POINTS_DESCRIPTION" Language="ja_JP">
+      <Text>森、ジャングル、丘陵、湿原での防衛時の [ICON_Strength] 戦闘力+7。</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_UNIT_BASE_WMD_RESISTANCE_NAME" Language="ja_JP">
+      <Text>災害耐性</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_UNIT_BASE_WMD_RESISTANCE_DESCRIPTION" Language="ja_JP">
+      <Text>大量破壊兵器で攻撃されても即死せず、体力を50失うだけですむ。</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_ABILITY_WMD_STRIKE_NAME" Language="ja_JP">
+      <Text>大量破壊兵器発射可能</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_WMD_STRIKE_DESCRIPTION" Language="ja_JP">
+      <Text>大量破壊兵器を発射できる。</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_PIRATES_IGNORE_EMBARK_DISEMBARK_COST_DESCRIPTION" Language="ja_JP">
+      <Text>乗船と下船に追加の [ICON_Movement] 移動コストを必要としなくなる。</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_TERRAIN_WASTELAND_NAME" Language="ja_JP">
+      <Text>ウェイストランド</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_TERRAIN_WASTELAND_HILLS_NAME" Language="ja_JP">
+      <Text>ウェイストランド (丘陵)</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_TERRAIN_WASTELAND_MOUNTAIN_NAME" Language="ja_JP">
+      <Text>ウェイストランド (山岳)</Text>
+    </Replace>
+    <Replace Tag="LOC_TOOLTIP_LAKE" Language="ja_JP">
+      <Text>毒に冒された湖</Text>
+    </Replace>
+    <Replace Tag="LOC_TOOLTIP_COAST" Language="ja_JP">
+      <Text>毒に冒された沿岸</Text>
+    </Replace>
+    <Replace Tag="LOC_NOTIFICATION_NEW_BARBARIAN_CAMP_MESSAGE" Language="ja_JP">
+      <Text>新たな襲撃者の前哨地</Text>
+    </Replace>
+    <Replace Tag="LOC_NOTIFICATION_NEW_BARBARIAN_CAMP_SUMMARY" Language="ja_JP">
+      <Text>噂によると、近隣地域に新たな襲撃者が現れたようです。</Text>
+    </Replace>
+    <Replace Tag="LOC_EDGELORD_COMBAT_BONUS_OVERLAY_TT" Language="ja_JP">
+      <Text>エッジロード戦闘ボーナスゾーン</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_CIVROYALE_SCENARIO" Language="ja_JP">
+      <Text>{LOC_CIV_ROYALE_MOD_DESCRIPTION_TUTORIAL}</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_HUD_STORM_STRENGTH" Language="ja_JP">
+      <Text>放射性降下物: カテゴリー{1_safeZonePhase} ({2_dangerZoneDamage}ダメージ)</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_HUD_CATEGORY_TOOLTIP" Language="ja_JP">
+      <Text>リング内では放射性降下物によってユニットが{1_Damage}ダメージを受けます。[NEWLINE]これまでに安全地帯は{2_RingCount}回縮小しています。</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_HUD_TURNS" Language="ja_JP">
+      <Text>{1_Turns : plural 1?ターン; other?ターン;}</Text>
+    </Replace>
+    <Replace Tag="LOC_PROMOTION_SCOUTING_REGIMENT_NAME" Language="ja_JP">
+      <Text>斥候連隊</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SETTLER_NAME" Language="ja_JP">
+      <Text>民間人</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_SUPPLY_DROP_NAME" Language="ko_KR">
+      <Text>투하된 보급품</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_POPPED_GOODY_NAME" Language="ko_KR">
+      <Text>탐험한 도시 폐허</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_BARBARIAN_CAMP_NAME" Language="ko_KR">
+      <Text>침략자 전초기지</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_BARBARIAN_NAME" Language="ko_KR">
+      <Text>침략자</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_BARBARIAN_DESCRIPTION" Language="ko_KR">
+      <Text>침략자</Text>
+    </Replace>
+    <Replace Tag="LOC_FEATURE_DESTROYED_CITY_NAME" Language="ko_KR">
+      <Text>파괴된 도시</Text>
+    </Replace>
+    <Replace Tag="LOC_FEATURE_ICE_NAME" Language="ko_KR">
+      <Text>그레이트 랏 (금지)</Text>
+    </Replace>
+    <Replace Tag="LOC_FEATURE_MARSH_NAME" Language="ko_KR">
+      <Text>늪지</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_DESERT_NAME" Language="ko_KR">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_DESERT_HILLS_NAME" Language="ko_KR">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_HILLS_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_DESERT_MOUNTAIN_NAME" Language="ko_KR">
+      <Text>사막 (산)</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_GRASS_NAME" Language="ko_KR">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_GRASS_HILLS_NAME" Language="ko_KR">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_HILLS_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_GRASS_MOUNTAIN_NAME" Language="ko_KR">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_MOUNTAIN_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_OCEAN_NAME" Language="ko_KR">
+      <Text>중독된 해양</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_PLAINS_NAME" Language="ko_KR">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_PLAINS_HILLS_NAME" Language="ko_KR">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_HILLS_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_PLAINS_MOUNTAIN_NAME" Language="ko_KR">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_MOUNTAIN_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_SNOW_NAME" Language="ko_KR">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_SNOW_HILLS_NAME" Language="ko_KR">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_HILLS_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_SNOW_MOUNTAIN_NAME" Language="ko_KR">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_MOUNTAIN_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_TUNDRA_NAME" Language="ko_KR">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_TUNDRA_HILLS_NAME" Language="ko_KR">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_HILLS_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_TUNDRA_MOUNTAIN_NAME" Language="ko_KR">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_MOUNTAIN_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_VICTORY_WIN_BLURB" Language="ko_KR">
+      <Text>모두가 우리를 웃음거리로 봤습니다. 우리는 착륙선에 닿기에는 너무 약한 데다가 수까지 적다고들 말했습니다. 자, 이제 누가 웃음거리가 됐는지 보시죠. 누가 이 멍청하고 썩어빠진 행성에 남은 마지막 세력이 됐습니까? 반짝거리는 새 우주선에서 깨끗한 물을 들이켜고, 독성 분진 없는 공기를 들이마실 편도 탑승권이 누구 손에 들어왔습니까? 바로 우리입니다![NEWLINE][NEWLINE]이제 떠납시다! 우주여, 우리가 간다!</Text>
+    </Replace>
+    <Replace Tag="LOC_GOODYHUT_MILITARY_GRANT_WARRIOR_DESCRIPTION" Language="ko_KR">
+      <Text>[COLOR_FLOAT_MILITARY]보병 유닛이 플레이어의 세력에 합류했습니다.[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Tag="LOC_GOODYHUT_MILITARY_GRANT_ARCHER_DESCRIPTION" Language="ko_KR">
+      <Text>[COLOR_FLOAT_MILITARY] 기관총 사수 유닛이 플레이어의 세력에 합류했습니다.[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Tag="LOC_GOODYHUT_MILITARY_GRANT_AT_TEAM_DESCRIPTION" Language="ko_KR">
+      <Text>[COLOR_FLOAT_MILITARY]대전차 유닛이 플레이어의 세력에 합류했습니다.[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Tag="LOC_GOODYHUT_MILITARY_GRANT_SETTLER_DESCRIPTION" Language="ko_KR">
+      <Text>[COLOR_FLOAT_MILITARY]폐허에 대피한 시민들이 플레이어의 세력에 합류했습니다.[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Tag="LOC_GOODYHUT_MILITARY_GRANT_GUNSHIP_DESCRIPTION" Language="ko_KR">
+      <Text>[COLOR_FLOAT_MILITARY]아직 작동하는 헬리콥터를 발견했습니다.[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Tag="LOC_GOODYHUT_MILITARY_GRANT_TANK_DESCRIPTION" Language="ko_KR">
+      <Text>[COLOR_FLOAT_MILITARY]아직 작동하는 탱크를 발견했습니다.[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Tag="LOC_GOODYHUT_MILITARY_GRANT_ARTILLERY_DESCRIPTION" Language="ko_KR">
+      <Text>[COLOR_FLOAT_MILITARY]야포 유닛이 플레이어의 세력에 합류했습니다.[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Tag="LOC_GOODYHUT_MILITARY_GRANT_NUKE_STRIKE_DESCRIPTION" Language="ko_KR">
+      <Text>[COLOR_FLOAT_MILITARY]아직 작동하는 수소 폭탄을 발견했습니다.[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_HUD_TURNS_UNTIL_RING_SHRINKS" Language="ko_KR">
+      <Text>안전지대 축소까지 남은 턴 수:</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_HUD_CATEGORY" Language="ko_KR">
+      <Text>단계</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_HUD_DAMAGE" Language="ko_KR">
+      <Text>피해</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_HUD_DAMAGE_TOOLTIP" Language="ko_KR">
+      <Text>붉은 죽음 안에서 생존자들이 입을 피해입니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_HUD_TURNS_TOOLTIP" Language="ko_KR">
+      <Text>붉은 죽음이 안전지대에 닿기까지 남은 턴 수입니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_HUD_CIVILIAN_WARNING" Language="ko_KR">
+      <Text>플레이어의 민간인이 낙진에 노출되어 있습니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_NOTIFICATION_SUPPLY_DROP_MESSAGE" Language="ko_KR">
+      <Text>보급품 투하!</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_NOTIFICATION_SUPPLY_DROP_SUMMARY" Language="ko_KR">
+      <Text>투하된 보급품이 나타났습니다!</Text>
+    </Replace>
+    <Replace Tag="LOC_NOTIFICATION_DISCOVER_GOODY_HUT_MESSAGE" Language="ko_KR">
+      <Text>도시 폐허 발견</Text>
+    </Replace>
+    <Replace Tag="LOC_NOTIFICATION_DISCOVER_GOODY_HUT_SUMMARY" Language="ko_KR">
+      <Text>절실히 필요한 보급품이 있을지도 모르는 도시 폐허를 발견했습니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_NOTIFICATION_SAFE_ZONE_APPEARED_MESSAGE" Language="ko_KR">
+      <Text>안전지대 확립됨</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_NOTIFICATION_SAFE_ZONE_APPEARED_SUMMARY" Language="ko_KR">
+      <Text>붉은 죽음이 다시 형성되고 있습니다. 안전지대 내 폭풍의 눈이 지도에 표시되었습니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_NOTIFICATION_SAFE_ZONE_CHANGED_MESSAGE" Language="ko_KR">
+      <Text>안전지대 줄어듦</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_NOTIFICATION_SAFE_ZONE_CHANGED_SUMMARY" Language="ko_KR">
+      <Text>붉은 죽음이 악화되고 있습니다. 안전지대가 변경되었으며 크기가 작아졌습니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_IMPROVEMENT_GOODY_HUT_NAME" Language="ko_KR">
+      <Text>도시 폐허</Text>
+    </Replace>
+    <Replace Tag="LOC_MINIMAP_RED_DEATH_TOOLTIP" Language="ko_KR">
+      <Text>붉은 죽음</Text>
+    </Replace>
+    <Replace Tag="LOC_MINIMAP_SAFE_ZONE_TOOLTIP" Language="ko_KR">
+      <Text>안전지대</Text>
+    </Replace>
+    <Replace Tag="LOC_PROMOTION_SCOUTING_REGIMENT_DESCRIPTION" Language="ko_KR">
+      <Text>유닛과 그 대형이 숲, 열대우림, 언덕의 [ICON_Movement] 이동력 페널티를 무시합니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_PROMOTION_CAPARISON_DESCRIPTION" Language="ko_KR">
+      <Text>대전차병 대항 시 [ICON_Strength] 전투력 +5.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_PROMOTION_COURSERS_DESCRIPTION" Language="ko_KR">
+      <Text>기관총 공격 시 [ICON_Strength] 전투력 +5.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_PROMOTION_ARMOR_PIERCING_DESCRIPTION" Language="ko_KR">
+      <Text>다른 탱크에 대해 [ICON_Strength] 전투력 +7.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_PROMOTION_REACTIVE_ARMOR_DESCRIPTION" Language="ko_KR">
+      <Text>탱크 및 대전차병 대항 방어 시 [ICON_Strength] 전투력 +7.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_PROMOTION_ECHELON_DESCRIPTION" Language="ko_KR">
+      <Text>탱크 및 헬리콥터 대항 시 [ICON_Strength] 전투력 +5.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_PROMOTION_HOLD_THE_LINE_DESCRIPTION" Language="ko_KR">
+      <Text>다른 유형의 인접 유닛이 탱크 및 헬리콥터와 대항 시 [ICON_Strength] 전투력 +10.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_PROMOTION_CHOKE_POINTS_DESCRIPTION" Language="ko_KR">
+      <Text>숲, 정글, 언덕 및 습지에서 방어 시 [ICON_Strength] 전투력 +7.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_UNIT_BASE_WMD_RESISTANCE_NAME" Language="ko_KR">
+      <Text>익숙한 재앙</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_UNIT_BASE_WMD_RESISTANCE_DESCRIPTION" Language="ko_KR">
+      <Text>대량살상무기에 즉시 죽는 대신 체력 50을 잃음.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_ABILITY_WMD_STRIKE_NAME" Language="ko_KR">
+      <Text>대량살상무기 발사 가능</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_WMD_STRIKE_DESCRIPTION" Language="ko_KR">
+      <Text>WMD(대량살상무기)를 발사할 수 있습니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_PIRATES_IGNORE_EMBARK_DISEMBARK_COST_DESCRIPTION" Language="ko_KR">
+      <Text>승선 및 하선에 대한 [ICON_Movement] 이동 비용이 추가로 들지 않습니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_TERRAIN_WASTELAND_NAME" Language="ko_KR">
+      <Text>불모지</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_TERRAIN_WASTELAND_HILLS_NAME" Language="ko_KR">
+      <Text>불모지 (언덕)</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_TERRAIN_WASTELAND_MOUNTAIN_NAME" Language="ko_KR">
+      <Text>불모지 (산)</Text>
+    </Replace>
+    <Replace Tag="LOC_TOOLTIP_LAKE" Language="ko_KR">
+      <Text>중독된 호수</Text>
+    </Replace>
+    <Replace Tag="LOC_TOOLTIP_COAST" Language="ko_KR">
+      <Text>중독된 연안</Text>
+    </Replace>
+    <Replace Tag="LOC_NOTIFICATION_NEW_BARBARIAN_CAMP_MESSAGE" Language="ko_KR">
+      <Text>새로운 침략자 전초기지</Text>
+    </Replace>
+    <Replace Tag="LOC_NOTIFICATION_NEW_BARBARIAN_CAMP_SUMMARY" Language="ko_KR">
+      <Text>새로운 침략자 무리가 인접 지역에 침범했다는 소문을 들었습니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_EDGELORD_COMBAT_BONUS_OVERLAY_TT" Language="ko_KR">
+      <Text>중2병자 전투 보너스 구역</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_CIVROYALE_SCENARIO" Language="ko_KR">
+      <Text>{LOC_CIV_ROYALE_MOD_DESCRIPTION_TUTORIAL}</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_HUD_STORM_STRENGTH" Language="ko_KR">
+      <Text>방사능 낙진: {1_safeZonePhase}단계 ({2_dangerZoneDamage} 피해)</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_HUD_CATEGORY_TOOLTIP" Language="ko_KR">
+      <Text>유닛이 고리 안의 방사능 낙진에 {1_Damage} 피해를 입습니다.[NEWLINE]지금까지 안전지대가 {2_RingCount}회 닫혔습니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_HUD_TURNS" Language="ko_KR">
+      <Text>{1_Turns : plural 1?턴; other?턴;}</Text>
+    </Replace>
+    <Replace Tag="LOC_PROMOTION_SCOUTING_REGIMENT_NAME" Language="ko_KR">
+      <Text>정찰병 연대</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SETTLER_NAME" Language="ko_KR">
+      <Text>민간인</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_SUPPLY_DROP_NAME" Language="pl_PL">
+      <Text>Zrzut zaopatrzenia|Zrzutu zaopatrzenia|Zrzutowi zaopatrzenia|Zrzut zaopatrzenia|Zrzutem zaopatrzenia|Zrzucie zaopatrzenia|zrzut zaopatrzenia|zrzutu zaopatrzenia|zrzutowi zaopatrzenia|zrzut zaopatrzenia|zrzutem zaopatrzenia|zrzucie zaopatrzenia</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_POPPED_GOODY_NAME" Language="pl_PL">
+      <Text>Zbadane ruiny miasta|Zbadanych ruin miasta|Zbadanym ruinom miasta|Zbadane ruiny miasta|Zbadanymi ruinami miasta|Zbadanych ruinach miasta|zbadane ruiny miasta|zbadanych ruin miasta|zbadanym ruinom miasta|zbadane ruiny miasta|zbadanymi ruinami miasta|zbadanych ruinach miasta</Text>
+      <Gender>feminine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_BARBARIAN_CAMP_NAME" Language="pl_PL">
+      <Text>Obóz łupieżców|Obozu łupieżców|Obozowi łupieżców|Obóz łupieżców|Obozem łupieżców|Obozie łupieżców|obóz łupieżców|obozu łupieżców|obozowi łupieżców|obóz łupieżców|obozem łupieżców|obozie łupieżców</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_BARBARIAN_NAME" Language="pl_PL">
+      <Text>Łupieżcy|Łupieżców|Łupieżcom|Łupieżców|Łupieżcami|Łupieżcach|łupieżcy|łupieżców|łupieżcom|łupieżców|łupieżcami|łupieżcach</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_BARBARIAN_DESCRIPTION" Language="pl_PL">
+      <Text>Łupieżcy|Łupieżców|Łupieżcom|Łupieżców|Łupieżcami|Łupieżcach|łupieżcy|łupieżców|łupieżcom|łupieżców|łupieżcami|łupieżcach</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_FEATURE_DESTROYED_CITY_NAME" Language="pl_PL">
+      <Text>Zniszczone miasto|Zniszczonego miasta|Zniszczonemu miastu|Zniszczone miasto|Zniszczonym miastem|Zniszczonym mieście|zniszczone miasto|zniszczonego miasta|zniszczonemu miastu|zniszczone miasto|zniszczonym miastem|zniszczonym mieście</Text>
+      <Gender>neuter</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_FEATURE_ICE_NAME" Language="pl_PL">
+      <Text>Wielka dewastacja (zakazana)|Wielkiej dewastacji (zakazanej)|Wielkiej dewastacji (zakazanej)|Wielką dewastację (zakazaną)|Wielką dewastacją (zakazaną)|Wielkiej dewastacji (zakazanej)|wielka dewastacja (zakazana)|wielkiej dewastacji (zakazanej)|wielkiej dewastacji (zakazanej)|wielką dewastację (zakazaną)|wielką dewastacją (zakazaną)|wielkiej dewastacji (zakazanej)</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_FEATURE_MARSH_NAME" Language="pl_PL">
+      <Text>Bagno|Bagna|Bagnu|Bagno|Bagnem|Bagnie|bagno|bagna|bagnu|bagno|bagnem|bagnie</Text>
+      <Gender>neuter</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_DESERT_NAME" Language="pl_PL">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_DESERT_HILLS_NAME" Language="pl_PL">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_HILLS_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_DESERT_MOUNTAIN_NAME" Language="pl_PL">
+      <Text>Pustynia (góry)|Pustyni (gór)|Pustyni (górom)|Pustynię (góry)|Pustynią (górami)|Pustyni (górach)|pustynia (góry)|pustyni (gór)|pustyni (górom)|pustynię (góry)|pustynią (górami)|pustyni (górach)</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_GRASS_NAME" Language="pl_PL">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_GRASS_HILLS_NAME" Language="pl_PL">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_HILLS_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_GRASS_MOUNTAIN_NAME" Language="pl_PL">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_MOUNTAIN_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_OCEAN_NAME" Language="pl_PL">
+      <Text>Zatruty ocean|Zatrutego oceanu|Zatrutemu oceanowi|Zatruty ocean|Zatrutym oceanem|Zatrutym oceanie|zatruty ocean|zatrutego oceanu|zatrutemu oceanowi|zatruty ocean|zatrutym oceanem|zatrutym oceanie</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_PLAINS_NAME" Language="pl_PL">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_PLAINS_HILLS_NAME" Language="pl_PL">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_HILLS_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_PLAINS_MOUNTAIN_NAME" Language="pl_PL">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_MOUNTAIN_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_SNOW_NAME" Language="pl_PL">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_SNOW_HILLS_NAME" Language="pl_PL">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_HILLS_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_SNOW_MOUNTAIN_NAME" Language="pl_PL">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_MOUNTAIN_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_TUNDRA_NAME" Language="pl_PL">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_TUNDRA_HILLS_NAME" Language="pl_PL">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_HILLS_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_TUNDRA_MOUNTAIN_NAME" Language="pl_PL">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_MOUNTAIN_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_VICTORY_WIN_BLURB" Language="pl_PL">
+      <Text>Śmieli się z nas. Twierdzili, że jesteśmy zbyt słabi i nieliczni, by dotrzeć do lądownika. I kto się śmieje ostatni? Czyja frakcja opuści tę przegniłą planetę? Kto zdobył bilet w jedną stronę na nowiutki statek kosmiczny z pitną wodą i powietrzem, które nie zawiera toksycznego pyłu? My![NEWLINE][NEWLINE]Wynośmy się stąd! Wszechświecie, nadchodzimy!</Text>
+    </Replace>
+    <Replace Tag="LOC_GOODYHUT_MILITARY_GRANT_WARRIOR_DESCRIPTION" Language="pl_PL">
+      <Text>[COLOR_FLOAT_MILITARY]Do twojej frakcji dołączyła jednostka piechoty.[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Tag="LOC_GOODYHUT_MILITARY_GRANT_ARCHER_DESCRIPTION" Language="pl_PL">
+      <Text>[COLOR_FLOAT_MILITARY]Do twojej frakcji dołączyła jednostka karabinów maszynowych.[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Tag="LOC_GOODYHUT_MILITARY_GRANT_AT_TEAM_DESCRIPTION" Language="pl_PL">
+      <Text>[COLOR_FLOAT_MILITARY]Do twojej frakcji dołączyła jednostka przeciwpancerna.[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Tag="LOC_GOODYHUT_MILITARY_GRANT_SETTLER_DESCRIPTION" Language="pl_PL">
+      <Text>[COLOR_FLOAT_MILITARY]Do twojej frakcji dołączyli cywile ukrywający się w ruinach.[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Tag="LOC_GOODYHUT_MILITARY_GRANT_GUNSHIP_DESCRIPTION" Language="pl_PL">
+      <Text>[COLOR_FLOAT_MILITARY]Odkrywasz działający śmigłowiec.[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Tag="LOC_GOODYHUT_MILITARY_GRANT_TANK_DESCRIPTION" Language="pl_PL">
+      <Text>[COLOR_FLOAT_MILITARY]Odkrywasz działający czołg.[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Tag="LOC_GOODYHUT_MILITARY_GRANT_ARTILLERY_DESCRIPTION" Language="pl_PL">
+      <Text>[COLOR_FLOAT_MILITARY]Do twojej frakcji dołączyła jednostka artylerii.[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Tag="LOC_GOODYHUT_MILITARY_GRANT_NUKE_STRIKE_DESCRIPTION" Language="pl_PL">
+      <Text>[COLOR_FLOAT_MILITARY]Odkrywasz działające urządzenie termojądrowe.[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_HUD_TURNS_UNTIL_RING_SHRINKS" Language="pl_PL">
+      <Text>Liczba tur pozostałych do chwili zmniejszenia bezpiecznej strefy.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_HUD_CATEGORY" Language="pl_PL">
+      <Text>Kategoria</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_HUD_DAMAGE" Language="pl_PL">
+      <Text>Obrażenia</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_HUD_DAMAGE_TOOLTIP" Language="pl_PL">
+      <Text>Obrażenia, jakie zada twoim jednostkom czerwona śmierć.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_HUD_TURNS_TOOLTIP" Language="pl_PL">
+      <Text>Liczba tur pozostałych do chwili, gdy czerwona śmierć dotrze do bezpiecznej strefy.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_HUD_CIVILIAN_WARNING" Language="pl_PL">
+      <Text>Twój cywil znajduje się na obszarze skażonym opadem radioaktywnym!</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_NOTIFICATION_SUPPLY_DROP_MESSAGE" Language="pl_PL">
+      <Text>Zrzut zaopatrzenia!</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_NOTIFICATION_SUPPLY_DROP_SUMMARY" Language="pl_PL">
+      <Text>Pojawił się zrzut zaopatrzenia!</Text>
+    </Replace>
+    <Replace Tag="LOC_NOTIFICATION_DISCOVER_GOODY_HUT_MESSAGE" Language="pl_PL">
+      <Text>Odkryto ruiny miasta</Text>
+    </Replace>
+    <Replace Tag="LOC_NOTIFICATION_DISCOVER_GOODY_HUT_SUMMARY" Language="pl_PL">
+      <Text>Udało ci się odkryć ruiny miasta, w których mogą znajdować się bardzo potrzebne zasoby.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_NOTIFICATION_SAFE_ZONE_APPEARED_MESSAGE" Language="pl_PL">
+      <Text>Wyznaczono bezpieczną strefę</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_NOTIFICATION_SAFE_ZONE_APPEARED_SUMMARY" Language="pl_PL">
+      <Text>Czerwona śmierć zmienia swój zasięg. Bezpieczna strefa znajdująca się w jej centrum została zaznaczona na twojej mapie.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_NOTIFICATION_SAFE_ZONE_CHANGED_MESSAGE" Language="pl_PL">
+      <Text>Bezpieczna strefa uległa zmniejszeniu.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_NOTIFICATION_SAFE_ZONE_CHANGED_SUMMARY" Language="pl_PL">
+      <Text>Czerwona śmierć rośnie w siłę. Bezpieczna strefa zmieniła się i zmalała.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_IMPROVEMENT_GOODY_HUT_NAME" Language="pl_PL">
+      <Text>Ruiny miasta</Text>
+    </Replace>
+    <Replace Tag="LOC_MINIMAP_RED_DEATH_TOOLTIP" Language="pl_PL">
+      <Text>Czerwona śmierć</Text>
+    </Replace>
+    <Replace Tag="LOC_MINIMAP_SAFE_ZONE_TOOLTIP" Language="pl_PL">
+      <Text>Bezpieczna strefa</Text>
+    </Replace>
+    <Replace Tag="LOC_PROMOTION_SCOUTING_REGIMENT_DESCRIPTION" Language="pl_PL">
+      <Text>Jednostka i jej formacja ignorują kary do [ICON_Movement] ruchu podczas poruszania się w lasach, lasach deszczowych i na wzgórzach.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_PROMOTION_CAPARISON_DESCRIPTION" Language="pl_PL">
+      <Text>+5 do [ICON_Strength] siły bojowej przeciw sekcjom ppanc.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_PROMOTION_COURSERS_DESCRIPTION" Language="pl_PL">
+      <Text>+5 do [ICON_STRENGTH] siły bojowej podczas walki z jednostkami karabinów maszynowych.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_PROMOTION_ARMOR_PIERCING_DESCRIPTION" Language="pl_PL">
+      <Text>+7 do [ICON_Strength] siły bojowej przeciw innym czołgom.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_PROMOTION_REACTIVE_ARMOR_DESCRIPTION" Language="pl_PL">
+      <Text>+7 do [ICON_Strength] siły bojowej podczas obrony przed czołgami i sekcjami ppanc.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_PROMOTION_ECHELON_DESCRIPTION" Language="pl_PL">
+      <Text>+5 do [ICON_Strength] siły bojowej przeciw czołgom i helikopterom.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_PROMOTION_HOLD_THE_LINE_DESCRIPTION" Language="pl_PL">
+      <Text>Sąsiadujące jednostki innej klasy otrzymują +10 do [ICON_Strength] siły bojowej przeciw czołgom i helikopterom.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_PROMOTION_CHOKE_POINTS_DESCRIPTION" Language="pl_PL">
+      <Text>+7 do [ICON_Strength] siły bojowej podczas obrony w lesie, lesie deszczowym, na wzgórzach lub mokradłach.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_UNIT_BASE_WMD_RESISTANCE_NAME" Language="pl_PL">
+      <Text>Przywykli do katastrof</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_UNIT_BASE_WMD_RESISTANCE_DESCRIPTION" Language="pl_PL">
+      <Text>Jednostka zaatakowana bronią masowego rażenia traci 50 punktów żywotności, zamiast natychmiast zginąć.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_ABILITY_WMD_STRIKE_NAME" Language="pl_PL">
+      <Text>Możliwość użycia BMR</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_WMD_STRIKE_DESCRIPTION" Language="pl_PL">
+      <Text>Może użyć BMR</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_PIRATES_IGNORE_EMBARK_DISEMBARK_COST_DESCRIPTION" Language="pl_PL">
+      <Text>Ignoruje dodatkowe koszty [ICON_Movement] ruchu za okrętowanie i wyokrętowanie.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_TERRAIN_WASTELAND_NAME" Language="pl_PL">
+      <Text>Pustkowie</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_TERRAIN_WASTELAND_HILLS_NAME" Language="pl_PL">
+      <Text>Pustkowie (wzgórza)</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_TERRAIN_WASTELAND_MOUNTAIN_NAME" Language="pl_PL">
+      <Text>Pustkowie (góry)</Text>
+    </Replace>
+    <Replace Tag="LOC_TOOLTIP_LAKE" Language="pl_PL">
+      <Text>Zatrute jezioro</Text>
+    </Replace>
+    <Replace Tag="LOC_TOOLTIP_COAST" Language="pl_PL">
+      <Text>Zatrute wybrzeże</Text>
+    </Replace>
+    <Replace Tag="LOC_NOTIFICATION_NEW_BARBARIAN_CAMP_MESSAGE" Language="pl_PL">
+      <Text>Nowy obóz łupieżców</Text>
+    </Replace>
+    <Replace Tag="LOC_NOTIFICATION_NEW_BARBARIAN_CAMP_SUMMARY" Language="pl_PL">
+      <Text>Doszły nas słuchy, że na pobliskim obszarze pojawiła się nowa banda łupieżców.</Text>
+    </Replace>
+    <Replace Tag="LOC_EDGELORD_COMBAT_BONUS_OVERLAY_TT" Language="pl_PL">
+      <Text>Strefa premii bojowej władców krawędzi</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_CIVROYALE_SCENARIO" Language="pl_PL">
+      <Text>{LOC_CIV_ROYALE_MOD_DESCRIPTION_TUTORIAL}</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_HUD_STORM_STRENGTH" Language="pl_PL">
+      <Text>Opad radioaktywny: kategoria {1_safeZonePhase} (obrażenia: {2_dangerZoneDamage})</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_HUD_CATEGORY_TOOLTIP" Language="pl_PL">
+      <Text>Jednostka odniesie {1_Damage} pkt. obrażeń z powodu opadu radioaktywnego w kręgu.[NEWLINE]Do tej pory bezpieczna strefa zmniejszyła się {2_RingCount} {2_RingCount : plural 1?raz; other?razy;}.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_HUD_TURNS" Language="pl_PL">
+      <Text>{1_Turns : plural 1?tura; 2?tury; other?tur;}</Text>
+    </Replace>
+    <Replace Tag="LOC_PROMOTION_SCOUTING_REGIMENT_NAME" Language="pl_PL">
+      <Text>Pułk rozpoznawczy|Pułku rozpoznawczego|Pułkowi rozpoznawczemu|Pułk rozpoznawczy|Pułkiem rozpoznawczym|Pułku rozpoznawczym|pułk rozpoznawczy|pułku rozpoznawczego|pułkowi rozpoznawczemu|pułk rozpoznawczy|pułkiem rozpoznawczym|pułku rozpoznawczym</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SETTLER_NAME" Language="pl_PL">
+      <Text>Cywile|Cywili|Cywilom|Cywili|Cywilami|Cywilach|cywile|cywili|cywilom|cywili|cywilami|cywilach</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_SUPPLY_DROP_NAME" Language="ru_RU">
+      <Text>Груз с припасами|Груза с припасами|Грузу с припасами|Груз с припасами|Грузом с припасами|Грузе с припасами</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_POPPED_GOODY_NAME" Language="ru_RU">
+      <Text>Исследованные руины города|Исследованных руин города|Исследованным руинам города|Исследованные руины города|Исследованными руинами города|Исследованных руинах города</Text>
+      <Gender>feminine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_BARBARIAN_CAMP_NAME" Language="ru_RU">
+      <Text>Аванпост грабителей|Аванпоста грабителей|Аванпосту грабителей|Аванпост грабителей|Аванпостом грабителей|Аванпосте грабителей</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_BARBARIAN_NAME" Language="ru_RU">
+      <Text>Грабители|Грабителей|Грабителям|Грабителей|Грабителями|Грабителях</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_BARBARIAN_DESCRIPTION" Language="ru_RU">
+      <Text>Грабители|Грабителей|Грабителям|Грабителей|Грабителями|Грабителях</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_FEATURE_DESTROYED_CITY_NAME" Language="ru_RU">
+      <Text>Разрушенный город|Разрушенного города|Разрушенному городу|Разрушенный город|Разрушенным городом|Разрушенном городе</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_FEATURE_ICE_NAME" Language="ru_RU">
+      <Text>Великая гниль (запрещено)|Великой гнили (запрещено)|Великой гнили (запрещено)|Великую гниль (запрещено)|Великой гнилью (запрещено)|Великой гнили (запрещено)</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_FEATURE_MARSH_NAME" Language="ru_RU">
+      <Text>Трясина|Трясины|Трясине|Трясину|Трясиной|Трясине</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_DESERT_NAME" Language="ru_RU">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_DESERT_HILLS_NAME" Language="ru_RU">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_HILLS_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_DESERT_MOUNTAIN_NAME" Language="ru_RU">
+      <Text>Пустыня (горы)|Пустыни (горы)|Пустыне (горы)|Пустыню (горы)|Пустыней (горы)|Пустыне (горы)</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_GRASS_NAME" Language="ru_RU">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_GRASS_HILLS_NAME" Language="ru_RU">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_HILLS_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_GRASS_MOUNTAIN_NAME" Language="ru_RU">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_MOUNTAIN_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_OCEAN_NAME" Language="ru_RU">
+      <Text>Отравленный океан|Отравленного океана|Отравленному океану|Отравленный океан|Отравленным океаном|Отравленном океане</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_PLAINS_NAME" Language="ru_RU">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_PLAINS_HILLS_NAME" Language="ru_RU">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_HILLS_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_PLAINS_MOUNTAIN_NAME" Language="ru_RU">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_MOUNTAIN_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_SNOW_NAME" Language="ru_RU">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_SNOW_HILLS_NAME" Language="ru_RU">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_HILLS_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_SNOW_MOUNTAIN_NAME" Language="ru_RU">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_MOUNTAIN_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_TUNDRA_NAME" Language="ru_RU">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_TUNDRA_HILLS_NAME" Language="ru_RU">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_HILLS_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_TUNDRA_MOUNTAIN_NAME" Language="ru_RU">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_MOUNTAIN_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_VICTORY_WIN_BLURB" Language="ru_RU">
+      <Text>Над нами все смеялись. Говорили, что мы слабы, что нас слишком мало, что мы не доберемся до посадочного модуля. Ну, и чья теперь очередь смеяться? Кто стал последней фракцией на этой идиотской гниющей планете? Кто выиграл билет в один конец на сверкающем звездолете с чистой водой и воздухом, без ядовитой пыли? Мы![NEWLINE][NEWLINE]Мы улетаем! Берегись, Вселенная!</Text>
+    </Replace>
+    <Replace Tag="LOC_GOODYHUT_MILITARY_GRANT_WARRIOR_DESCRIPTION" Language="ru_RU">
+      <Text>[COLOR_FLOAT_MILITARY]К вашей фракции присоединился юнит пехотинцев.[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Tag="LOC_GOODYHUT_MILITARY_GRANT_ARCHER_DESCRIPTION" Language="ru_RU">
+      <Text>[COLOR_FLOAT_MILITARY]К вашей фракции присоединился юнит пулеметчиков.[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Tag="LOC_GOODYHUT_MILITARY_GRANT_AT_TEAM_DESCRIPTION" Language="ru_RU">
+      <Text>[COLOR_FLOAT_MILITARY]К вашей фракции присоединился противотанковый юнит.[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Tag="LOC_GOODYHUT_MILITARY_GRANT_SETTLER_DESCRIPTION" Language="ru_RU">
+      <Text>[COLOR_FLOAT_MILITARY]К вашей фракции присоединились мирные жители, прятавшиеся в руинах.[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Tag="LOC_GOODYHUT_MILITARY_GRANT_GUNSHIP_DESCRIPTION" Language="ru_RU">
+      <Text>[COLOR_FLOAT_MILITARY]Вы обнаружили исправный вертолет.[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Tag="LOC_GOODYHUT_MILITARY_GRANT_TANK_DESCRIPTION" Language="ru_RU">
+      <Text>[COLOR_FLOAT_MILITARY]Вы обнаружили исправный танк.[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Tag="LOC_GOODYHUT_MILITARY_GRANT_ARTILLERY_DESCRIPTION" Language="ru_RU">
+      <Text>[COLOR_FLOAT_MILITARY]К вашей фракции присоединился артиллерийский юнит.[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Tag="LOC_GOODYHUT_MILITARY_GRANT_NUKE_STRIKE_DESCRIPTION" Language="ru_RU">
+      <Text>[COLOR_FLOAT_MILITARY]Вы обнаружили исправное термоядерное устройство.[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_HUD_TURNS_UNTIL_RING_SHRINKS" Language="ru_RU">
+      <Text>Количество ходов до исчезновения безопасной зоны.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_HUD_CATEGORY" Language="ru_RU">
+      <Text>Категория</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_HUD_DAMAGE" Language="ru_RU">
+      <Text>Урон</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_HUD_DAMAGE_TOOLTIP" Language="ru_RU">
+      <Text>Количество урона, который получают ваши выжившие в «Красной смерти».</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_HUD_TURNS_TOOLTIP" Language="ru_RU">
+      <Text>За сколько ходов «Красная смерть» доберется до безопасной зоны.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_HUD_CIVILIAN_WARNING" Language="ru_RU">
+      <Text>Ваш гражданский юнит попал в зону радиоактивного загрязнения!</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_NOTIFICATION_SUPPLY_DROP_MESSAGE" Language="ru_RU">
+      <Text>Груз с припасами!</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_NOTIFICATION_SUPPLY_DROP_SUMMARY" Language="ru_RU">
+      <Text>Обнаружен груз с припасами!</Text>
+    </Replace>
+    <Replace Tag="LOC_NOTIFICATION_DISCOVER_GOODY_HUT_MESSAGE" Language="ru_RU">
+      <Text>Обнаружены руины города</Text>
+    </Replace>
+    <Replace Tag="LOC_NOTIFICATION_DISCOVER_GOODY_HUT_SUMMARY" Language="ru_RU">
+      <Text>Вы обнаружили руины города. Здесь можно найти жизненно важные припасы.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_NOTIFICATION_SAFE_ZONE_APPEARED_MESSAGE" Language="ru_RU">
+      <Text>Появилась безопасная зона</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_NOTIFICATION_SAFE_ZONE_APPEARED_SUMMARY" Language="ru_RU">
+      <Text>«Красная смерть» трансформируется. В самом центре зоны бедствия образовалась безопасная зона. Она отмечена на карте.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_NOTIFICATION_SAFE_ZONE_CHANGED_MESSAGE" Language="ru_RU">
+      <Text>Безопасная зона сжимается</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_NOTIFICATION_SAFE_ZONE_CHANGED_SUMMARY" Language="ru_RU">
+      <Text>Обстановка ухудшается. Безопасная зона сместилась и уменьшилась.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_IMPROVEMENT_GOODY_HUT_NAME" Language="ru_RU">
+      <Text>Руины города</Text>
+    </Replace>
+    <Replace Tag="LOC_MINIMAP_RED_DEATH_TOOLTIP" Language="ru_RU">
+      <Text>Красная смерть</Text>
+    </Replace>
+    <Replace Tag="LOC_MINIMAP_SAFE_ZONE_TOOLTIP" Language="ru_RU">
+      <Text>Безопасная зона</Text>
+    </Replace>
+    <Replace Tag="LOC_PROMOTION_SCOUTING_REGIMENT_DESCRIPTION" Language="ru_RU">
+      <Text>Юниты и построения игнорируют штраф за [ICON_Movement] движение по лесам, тропическим лесам и холмам.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_PROMOTION_CAPARISON_DESCRIPTION" Language="ru_RU">
+      <Text>+5 [ICON_Strength] к боевой мощи против противотанковых команд.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_PROMOTION_COURSERS_DESCRIPTION" Language="ru_RU">
+      <Text>+5 [ICON_Strength] к боевой мощи при атаке пулеметчиков.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_PROMOTION_ARMOR_PIERCING_DESCRIPTION" Language="ru_RU">
+      <Text>+7 [ICON_Strength] к боевой мощи против других танков.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_PROMOTION_REACTIVE_ARMOR_DESCRIPTION" Language="ru_RU">
+      <Text>+7 [ICON_Strength] к боевой мощи в обороне против танков и противотанковых команд.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_PROMOTION_ECHELON_DESCRIPTION" Language="ru_RU">
+      <Text>+5 [ICON_Strength] к боевой мощи против танков и вертолетов.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_PROMOTION_HOLD_THE_LINE_DESCRIPTION" Language="ru_RU">
+      <Text>Соседние юниты других классов получают +10 к [ICON_Strength] боевой мощи против танков и вертолетов.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_PROMOTION_CHOKE_POINTS_DESCRIPTION" Language="ru_RU">
+      <Text>+7 [ICON_Strength] к боевой мощи при обороне в лесах, джунглях, на холмах и болотах.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_UNIT_BASE_WMD_RESISTANCE_NAME" Language="ru_RU">
+      <Text>Привычка к катастрофам</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_UNIT_BASE_WMD_RESISTANCE_DESCRIPTION" Language="ru_RU">
+      <Text>В зоне применения ОМП не мгновенно погибает, а теряет 50 ОЗ.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_ABILITY_WMD_STRIKE_NAME" Language="ru_RU">
+      <Text>Возможность использования ОМП</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_WMD_STRIKE_DESCRIPTION" Language="ru_RU">
+      <Text>Может использовать ОМП.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_PIRATES_IGNORE_EMBARK_DISEMBARK_COST_DESCRIPTION" Language="ru_RU">
+      <Text>Не получает штрафа к перемещению от погрузки и выгрузки с корабля.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_TERRAIN_WASTELAND_NAME" Language="ru_RU">
+      <Text>Пустоши</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_TERRAIN_WASTELAND_HILLS_NAME" Language="ru_RU">
+      <Text>Пустоши (холмы)</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_TERRAIN_WASTELAND_MOUNTAIN_NAME" Language="ru_RU">
+      <Text>Пустоши (горы)</Text>
+    </Replace>
+    <Replace Tag="LOC_TOOLTIP_LAKE" Language="ru_RU">
+      <Text>Отравленное озеро</Text>
+    </Replace>
+    <Replace Tag="LOC_TOOLTIP_COAST" Language="ru_RU">
+      <Text>Отравленное побережье</Text>
+    </Replace>
+    <Replace Tag="LOC_NOTIFICATION_NEW_BARBARIAN_CAMP_MESSAGE" Language="ru_RU">
+      <Text>Новый аванпост грабителей</Text>
+    </Replace>
+    <Replace Tag="LOC_NOTIFICATION_NEW_BARBARIAN_CAMP_SUMMARY" Language="ru_RU">
+      <Text>До вас дошли слухи о том, что в окрестностях обосновалась еще одна банда грабителей.</Text>
+    </Replace>
+    <Replace Tag="LOC_EDGELORD_COMBAT_BONUS_OVERLAY_TT" Language="ru_RU">
+      <Text>Зона антигеройского боевого бонуса</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_CIVROYALE_SCENARIO" Language="ru_RU">
+      <Text>{LOC_CIV_ROYALE_MOD_DESCRIPTION_TUTORIAL}</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_HUD_STORM_STRENGTH" Language="ru_RU">
+      <Text>Радиоактивное загрязнение: категория {1_safeZonePhase} (Урон {2_dangerZoneDamage})</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_HUD_CATEGORY_TOOLTIP" Language="ru_RU">
+      <Text>Юнит получит {1_Damage} ед. урона от радиоактивного загрязнения.[NEWLINE]Безопасная зона сократилась в {2_RingCount} {2_RingCount: plural 1?раз; 2?раза; other?раз;}.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_HUD_TURNS" Language="ru_RU">
+      <Text>{1_Turns: plural 1?ход; 2?хода; other?ходов;}</Text>
+    </Replace>
+    <Replace Tag="LOC_PROMOTION_SCOUTING_REGIMENT_NAME" Language="ru_RU">
+      <Text>Полк разведки|Полка разведки|Полку разведки|Полк разведки|Полком разведки|Полке разведки</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SETTLER_NAME" Language="ru_RU">
+      <Text>Мирный житель|Мирного жителя|Мирному жителю|Мирного жителя|Мирным жителем|Мирном жителе</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_SUPPLY_DROP_NAME" Language="zh_Hans_CN">
+      <Text>空投补给</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_POPPED_GOODY_NAME" Language="zh_Hans_CN">
+      <Text>已探索的城市废墟</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_BARBARIAN_CAMP_NAME" Language="zh_Hans_CN">
+      <Text>劫掠者哨站所</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_BARBARIAN_NAME" Language="zh_Hans_CN">
+      <Text>劫掠者</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_BARBARIAN_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>劫掠者</Text>
+    </Replace>
+    <Replace Tag="LOC_FEATURE_DESTROYED_CITY_NAME" Language="zh_Hans_CN">
+      <Text>被摧毁的城市</Text>
+    </Replace>
+    <Replace Tag="LOC_FEATURE_ICE_NAME" Language="zh_Hans_CN">
+      <Text>大腐山（禁区）</Text>
+    </Replace>
+    <Replace Tag="LOC_FEATURE_MARSH_NAME" Language="zh_Hans_CN">
+      <Text>沼泽</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_DESERT_NAME" Language="zh_Hans_CN">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_DESERT_HILLS_NAME" Language="zh_Hans_CN">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_HILLS_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_DESERT_MOUNTAIN_NAME" Language="zh_Hans_CN">
+      <Text>沙漠（山脉）</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_GRASS_NAME" Language="zh_Hans_CN">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_GRASS_HILLS_NAME" Language="zh_Hans_CN">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_HILLS_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_GRASS_MOUNTAIN_NAME" Language="zh_Hans_CN">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_MOUNTAIN_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_OCEAN_NAME" Language="zh_Hans_CN">
+      <Text>有毒海洋</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_PLAINS_NAME" Language="zh_Hans_CN">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_PLAINS_HILLS_NAME" Language="zh_Hans_CN">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_HILLS_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_PLAINS_MOUNTAIN_NAME" Language="zh_Hans_CN">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_MOUNTAIN_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_SNOW_NAME" Language="zh_Hans_CN">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_SNOW_HILLS_NAME" Language="zh_Hans_CN">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_HILLS_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_SNOW_MOUNTAIN_NAME" Language="zh_Hans_CN">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_MOUNTAIN_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_TUNDRA_NAME" Language="zh_Hans_CN">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_TUNDRA_HILLS_NAME" Language="zh_Hans_CN">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_HILLS_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_TUNDRA_MOUNTAIN_NAME" Language="zh_Hans_CN">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_MOUNTAIN_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_VICTORY_WIN_BLURB" Language="zh_Hans_CN">
+      <Text>他们都在嘲笑我们。他们说我们人数又少又弱，无法抵达登陆船。但笑到最后的是谁？谁成为了这个愚蠢的腐烂星球上的最后势力？谁获得了登上崭新闪耀宇宙飞船的单程船票，喝着纯净的清水，呼吸着不含毒尘的干净空气？是我们！[NEWLINE][NEWLINE]宇宙，注意，我们来了！</Text>
+    </Replace>
+    <Replace Tag="LOC_GOODYHUT_MILITARY_GRANT_WARRIOR_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>[COLOR_FLOAT_MILITARY]1个步兵单位已加入您的势力。[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Tag="LOC_GOODYHUT_MILITARY_GRANT_ARCHER_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>[COLOR_FLOAT_MILITARY]1个机枪手单位已加入您的势力。[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Tag="LOC_GOODYHUT_MILITARY_GRANT_AT_TEAM_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>[COLOR_FLOAT_MILITARY]1个反坦克单位已加入您的势力。[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Tag="LOC_GOODYHUT_MILITARY_GRANT_SETTLER_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>[COLOR_FLOAT_MILITARY]在废墟中避难的平民已加入您的势力。[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Tag="LOC_GOODYHUT_MILITARY_GRANT_GUNSHIP_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>[COLOR_FLOAT_MILITARY]您发现了1台功能完好的直升飞机。[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Tag="LOC_GOODYHUT_MILITARY_GRANT_TANK_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>[COLOR_FLOAT_MILITARY]您发现了1台功能完好的坦克。[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Tag="LOC_GOODYHUT_MILITARY_GRANT_ARTILLERY_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>[COLOR_FLOAT_MILITARY]1个炮兵单位已加入您的势力。[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Tag="LOC_GOODYHUT_MILITARY_GRANT_NUKE_STRIKE_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>[COLOR_FLOAT_MILITARY]您发现了1台功能完好的热核装置。[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_HUD_TURNS_UNTIL_RING_SHRINKS" Language="zh_Hans_CN">
+      <Text>安全区缩小的回合倒数。</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_HUD_CATEGORY" Language="zh_Hans_CN">
+      <Text>类型</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_HUD_DAMAGE" Language="zh_Hans_CN">
+      <Text>伤害</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_HUD_DAMAGE_TOOLTIP" Language="zh_Hans_CN">
+      <Text>您的幸存者在红死风暴区域中受到的伤害。</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_HUD_TURNS_TOOLTIP" Language="zh_Hans_CN">
+      <Text>红死风暴到达安全区的回合倒数。</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_HUD_CIVILIAN_WARNING" Language="zh_Hans_CN">
+      <Text>您的平民正处于辐射之中！</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_NOTIFICATION_SUPPLY_DROP_MESSAGE" Language="zh_Hans_CN">
+      <Text>空投补给！</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_NOTIFICATION_SUPPLY_DROP_SUMMARY" Language="zh_Hans_CN">
+      <Text>已出现空投补给！</Text>
+    </Replace>
+    <Replace Tag="LOC_NOTIFICATION_DISCOVER_GOODY_HUT_MESSAGE" Language="zh_Hans_CN">
+      <Text>已发现城市废墟</Text>
+    </Replace>
+    <Replace Tag="LOC_NOTIFICATION_DISCOVER_GOODY_HUT_SUMMARY" Language="zh_Hans_CN">
+      <Text>您找到了一座城市废墟，其中可能有亟需的物资。</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_NOTIFICATION_SAFE_ZONE_APPEARED_MESSAGE" Language="zh_Hans_CN">
+      <Text>安全区已设立</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_NOTIFICATION_SAFE_ZONE_APPEARED_SUMMARY" Language="zh_Hans_CN">
+      <Text>红死风暴正发生变化。已在地图上标出危险中的安全区。</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_NOTIFICATION_SAFE_ZONE_CHANGED_MESSAGE" Language="zh_Hans_CN">
+      <Text>安全区已缩小</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_NOTIFICATION_SAFE_ZONE_CHANGED_SUMMARY" Language="zh_Hans_CN">
+      <Text>红死风暴变得更加猖獗。安全区已发生位移，且范围变小。</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_IMPROVEMENT_GOODY_HUT_NAME" Language="zh_Hans_CN">
+      <Text>城市废墟</Text>
+    </Replace>
+    <Replace Tag="LOC_MINIMAP_RED_DEATH_TOOLTIP" Language="zh_Hans_CN">
+      <Text>红死风暴</Text>
+    </Replace>
+    <Replace Tag="LOC_MINIMAP_SAFE_ZONE_TOOLTIP" Language="zh_Hans_CN">
+      <Text>安全区</Text>
+    </Replace>
+    <Replace Tag="LOC_PROMOTION_SCOUTING_REGIMENT_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>单位与其编队无视树林、雨林和丘陵中的 [ICON_Movement] 移动力减益。</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_PROMOTION_CAPARISON_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>对抗反坦克组时+5 [ICON_Strength] 战斗力。</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_PROMOTION_COURSERS_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>攻击机关枪时+5 [ICON_Strength] 战斗力。</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_PROMOTION_ARMOR_PIERCING_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>与其他坦克战斗时+7 [ICON_Strength] 战斗力。</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_PROMOTION_REACTIVE_ARMOR_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>防御坦克和反坦克组攻击时+7 [ICON_Strength] 战斗力。</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_PROMOTION_ECHELON_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>对抗坦克和直升飞机时+5 [ICON_Strength] 战斗力。</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_PROMOTION_HOLD_THE_LINE_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>对坦克和直升飞机时，每与一类作战单位相邻则+10 [ICON_Strength] 战斗力。</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_PROMOTION_CHOKE_POINTS_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>在树林、丛林、丘陵或沼泽防御时+7 [ICON_Strength] 战斗力。</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_UNIT_BASE_WMD_RESISTANCE_NAME" Language="zh_Hans_CN">
+      <Text>适应灾难</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_UNIT_BASE_WMD_RESISTANCE_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>遭大规模杀伤性武器攻击时扣除50点生命值，而不会被秒杀。</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_ABILITY_WMD_STRIKE_NAME" Language="zh_Hans_CN">
+      <Text>大杀器发射就绪</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_WMD_STRIKE_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>可发射大规模杀伤性武器。</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_PIRATES_IGNORE_EMBARK_DISEMBARK_COST_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>上下船不消耗额外 [ICON_Movement] 移动力。</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_TERRAIN_WASTELAND_NAME" Language="zh_Hans_CN">
+      <Text>荒漠</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_TERRAIN_WASTELAND_HILLS_NAME" Language="zh_Hans_CN">
+      <Text>荒漠（丘陵）</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_TERRAIN_WASTELAND_MOUNTAIN_NAME" Language="zh_Hans_CN">
+      <Text>荒漠（山脉）</Text>
+    </Replace>
+    <Replace Tag="LOC_TOOLTIP_LAKE" Language="zh_Hans_CN">
+      <Text>有毒湖泊</Text>
+    </Replace>
+    <Replace Tag="LOC_TOOLTIP_COAST" Language="zh_Hans_CN">
+      <Text>有毒海岸</Text>
+    </Replace>
+    <Replace Tag="LOC_NOTIFICATION_NEW_BARBARIAN_CAMP_MESSAGE" Language="zh_Hans_CN">
+      <Text>出现劫掠者哨站所</Text>
+    </Replace>
+    <Replace Tag="LOC_NOTIFICATION_NEW_BARBARIAN_CAMP_SUMMARY" Language="zh_Hans_CN">
+      <Text>流言称一队新的劫掠者已迁至附近区域。</Text>
+    </Replace>
+    <Replace Tag="LOC_EDGELORD_COMBAT_BONUS_OVERLAY_TT" Language="zh_Hans_CN">
+      <Text>边缘人战斗加成区</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_CIVROYALE_SCENARIO" Language="zh_Hans_CN">
+      <Text>{LOC_CIV_ROYALE_MOD_DESCRIPTION_TUTORIAL}</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_HUD_STORM_STRENGTH" Language="zh_Hans_CN">
+      <Text>辐射：类型{1_safeZonePhase}（伤害{2_dangerZoneDamage}）</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_HUD_CATEGORY_TOOLTIP" Language="zh_Hans_CN">
+      <Text>圈中的辐射将对一个单位造成{1_Damage}点伤害。[NEWLINE]目前安全区已关闭{2_RingCount}次。</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_HUD_TURNS" Language="zh_Hans_CN">
+      <Text>{1_Turns : plural 1?回合; other?回合;}</Text>
+    </Replace>
+    <Replace Tag="LOC_PROMOTION_SCOUTING_REGIMENT_NAME" Language="zh_Hans_CN">
+      <Text>侦察团</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SETTLER_NAME" Language="zh_Hans_CN">
+      <Text>平民</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_SUPPLY_DROP_NAME" Language="es_ES">
+      <Text>Envío de suministros|Envíos de suministros</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_POPPED_GOODY_NAME" Language="es_ES">
+      <Text>Ruina de ciudad explorada|Ruinas de ciudad exploradas</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_BARBARIAN_CAMP_NAME" Language="es_ES">
+      <Text>Puesto bandido|Puestos bandidos</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_BARBARIAN_NAME" Language="es_ES">
+      <Text>Bandidos</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_BARBARIAN_DESCRIPTION" Language="es_ES">
+      <Text>Los bandidos.</Text>
+    </Replace>
+    <Replace Tag="LOC_FEATURE_DESTROYED_CITY_NAME" Language="es_ES">
+      <Text>Ciudad destruida|Ciudades destruidas</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_FEATURE_ICE_NAME" Language="es_ES">
+      <Text>La Gran Podredumbre|Las Grandes Podredumbres</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_FEATURE_MARSH_NAME" Language="es_ES">
+      <Text>Ciénaga|Ciénagas</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_DESERT_NAME" Language="es_ES">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_DESERT_HILLS_NAME" Language="es_ES">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_HILLS_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_DESERT_MOUNTAIN_NAME" Language="es_ES">
+      <Text>Desierto (montaña)|Desiertos (montaña)</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_GRASS_NAME" Language="es_ES">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_GRASS_HILLS_NAME" Language="es_ES">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_HILLS_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_GRASS_MOUNTAIN_NAME" Language="es_ES">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_MOUNTAIN_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_OCEAN_NAME" Language="es_ES">
+      <Text>Océano envenenado|Océanos envenenados</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_PLAINS_NAME" Language="es_ES">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_PLAINS_HILLS_NAME" Language="es_ES">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_HILLS_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_PLAINS_MOUNTAIN_NAME" Language="es_ES">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_MOUNTAIN_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_SNOW_NAME" Language="es_ES">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_SNOW_HILLS_NAME" Language="es_ES">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_HILLS_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_SNOW_MOUNTAIN_NAME" Language="es_ES">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_MOUNTAIN_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_TUNDRA_NAME" Language="es_ES">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_TUNDRA_HILLS_NAME" Language="es_ES">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_HILLS_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_TUNDRA_MOUNTAIN_NAME" Language="es_ES">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_MOUNTAIN_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_VICTORY_WIN_BLURB" Language="es_ES">
+      <Text>Todos se reían de nosotros. Nos decían que éramos demasiado débiles y demasiado pocos para llegar hasta el transbordador. Bien, ¿quién ríe ahora? ¿Quién es la última facción de este estúpido planeta de mierda? ¿Quién tiene un billete de ida para largarse a una nave espacial nueva y brillante, beber agua potable y respirar aire que no tenga polvillo tóxico? ¡Nosotros![NEWLINE][NEWLINE]¡Nos largamos de aquí! ¡Prepárate, universo!</Text>
+    </Replace>
+    <Replace Tag="LOC_GOODYHUT_MILITARY_GRANT_WARRIOR_DESCRIPTION" Language="es_ES">
+      <Text>[COLOR_FLOAT_MILITARY]Una unidad de Infantería se ha unido a tu facción.[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Tag="LOC_GOODYHUT_MILITARY_GRANT_ARCHER_DESCRIPTION" Language="es_ES">
+      <Text>[COLOR_FLOAT_MILITARY]Una Ametralladora se ha unido a tu facción.[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Tag="LOC_GOODYHUT_MILITARY_GRANT_AT_TEAM_DESCRIPTION" Language="es_ES">
+      <Text>[COLOR_FLOAT_MILITARY]Una unidad Antitanque se ha unido a tu facción.[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Tag="LOC_GOODYHUT_MILITARY_GRANT_SETTLER_DESCRIPTION" Language="es_ES">
+      <Text>[COLOR_FLOAT_MILITARY]Unos civiles que se refugiaban en las ruinas se han unido a tu facción.[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Tag="LOC_GOODYHUT_MILITARY_GRANT_GUNSHIP_DESCRIPTION" Language="es_ES">
+      <Text>[COLOR_FLOAT_MILITARY]Has descubierto un Helicóptero que funciona.[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Tag="LOC_GOODYHUT_MILITARY_GRANT_TANK_DESCRIPTION" Language="es_ES">
+      <Text>[COLOR_FLOAT_MILITARY]Has descubierto un Tanque que funciona.[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Tag="LOC_GOODYHUT_MILITARY_GRANT_ARTILLERY_DESCRIPTION" Language="es_ES">
+      <Text>[COLOR_FLOAT_MILITARY]Una unidad de Artillería se ha unido a tu facción.</Text>
+    </Replace>
+    <Replace Tag="LOC_GOODYHUT_MILITARY_GRANT_NUKE_STRIKE_DESCRIPTION" Language="es_ES">
+      <Text>[COLOR_FLOAT_MILITARY]Has descubierto un Dispositivo termonuclear que funciona.[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_HUD_TURNS_UNTIL_RING_SHRINKS" Language="es_ES">
+      <Text>Turnos restantes hasta que la zona segura mengüe.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_HUD_CATEGORY" Language="es_ES">
+      <Text>Categoría</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_HUD_DAMAGE" Language="es_ES">
+      <Text>Daño</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_HUD_DAMAGE_TOOLTIP" Language="es_ES">
+      <Text>La cantidad de daño que sufrirán los supervivientes en la Muerte Roja.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_HUD_TURNS_TOOLTIP" Language="es_ES">
+      <Text>La cantidad de turnos que la Muerte Roja tardará en llegar a la zona segura.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_HUD_CIVILIAN_WARNING" Language="es_ES">
+      <Text>¡Tu Civil está en la lluvia radioactiva!</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_NOTIFICATION_SUPPLY_DROP_MESSAGE" Language="es_ES">
+      <Text>¡Envío de suministros!</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_NOTIFICATION_SUPPLY_DROP_SUMMARY" Language="es_ES">
+      <Text>¡Ha aparecido un envío de suministros!</Text>
+    </Replace>
+    <Replace Tag="LOC_NOTIFICATION_DISCOVER_GOODY_HUT_MESSAGE" Language="es_ES">
+      <Text>Ruinas de ciudad descubiertas</Text>
+    </Replace>
+    <Replace Tag="LOC_NOTIFICATION_DISCOVER_GOODY_HUT_SUMMARY" Language="es_ES">
+      <Text>Has encontrado las ruinas de una ciudad que podrían contener los suministros que tanto necesitas.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_NOTIFICATION_SAFE_ZONE_APPEARED_MESSAGE" Language="es_ES">
+      <Text>La zona segura se ha estabilizado.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_NOTIFICATION_SAFE_ZONE_APPEARED_SUMMARY" Language="es_ES">
+      <Text>La Muerte Roja está mutando. Se ha señalado en tu mapa una zona segura que hay en el ojo de la tormenta.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_NOTIFICATION_SAFE_ZONE_CHANGED_MESSAGE" Language="es_ES">
+      <Text>La zona segura ha menguado.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_NOTIFICATION_SAFE_ZONE_CHANGED_SUMMARY" Language="es_ES">
+      <Text>La Muerte Roja se está recrudeciendo. La zona segura se ha movido y ha empequeñecido.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_IMPROVEMENT_GOODY_HUT_NAME" Language="es_ES">
+      <Text>Ruinas de ciudad</Text>
+    </Replace>
+    <Replace Tag="LOC_MINIMAP_RED_DEATH_TOOLTIP" Language="es_ES">
+      <Text>Muerte Roja</Text>
+    </Replace>
+    <Replace Tag="LOC_MINIMAP_SAFE_ZONE_TOOLTIP" Language="es_ES">
+      <Text>Zona segura</Text>
+    </Replace>
+    <Replace Tag="LOC_PROMOTION_SCOUTING_REGIMENT_DESCRIPTION" Language="es_ES">
+      <Text>La unidad y su formación hacen caso omiso de las penalizaciones al Movimiento [ICON_Movement] por Bosques, Selvas tropicales y Colinas.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_PROMOTION_CAPARISON_DESCRIPTION" Language="es_ES">
+      <Text>+5 a la Fuerza de combate [ICON_Strength] contra Tripulaciones antitanque.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_PROMOTION_COURSERS_DESCRIPTION" Language="es_ES">
+      <Text>+5 a la Fuerza de combate [ICON_Strength] al atacar Ametralladoras.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_PROMOTION_ARMOR_PIERCING_DESCRIPTION" Language="es_ES">
+      <Text>+7 a la Fuerza de combate [ICON_Strength] contra otros Tanques.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_PROMOTION_REACTIVE_ARMOR_DESCRIPTION" Language="es_ES">
+      <Text>+7 a la Fuerza de combate [ICON_Strength] al defenderse de Tanques y Tripulaciones antitanque.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_PROMOTION_ECHELON_DESCRIPTION" Language="es_ES">
+      <Text>+5 a la Fuerza de combate [ICON_Strength] contra Tanques y Helicópteros.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_PROMOTION_HOLD_THE_LINE_DESCRIPTION" Language="es_ES">
+      <Text>Las unidades adyacentes de una clase diferente consiguen +10 a la Fuerza de combate [ICON_Strength] contra Tanques y Helicópteros.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_PROMOTION_CHOKE_POINTS_DESCRIPTION" Language="es_ES">
+      <Text>+7 a la Fuerza de combate [ICON_Strength] al defender en Bosques, Selva, Colinas o Pantano.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_UNIT_BASE_WMD_RESISTANCE_NAME" Language="es_ES">
+      <Text>Acostumbrados al desastre</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_UNIT_BASE_WMD_RESISTANCE_DESCRIPTION" Language="es_ES">
+      <Text>Pierde 50 PG en vez de morir al instante debido a las armas de destrucción masiva.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_ABILITY_WMD_STRIKE_NAME" Language="es_ES">
+      <Text>Capacidad de armas de DM</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_WMD_STRIKE_DESCRIPTION" Language="es_ES">
+      <Text>Puede lanzar armas de destrucción masiva.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_PIRATES_IGNORE_EMBARK_DISEMBARK_COST_DESCRIPTION" Language="es_ES">
+      <Text>Ignora los costes de Movimiento [ICON_Movement] adicionales por embarcar y desembarcar.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_TERRAIN_WASTELAND_NAME" Language="es_ES">
+      <Text>Yermo</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_TERRAIN_WASTELAND_HILLS_NAME" Language="es_ES">
+      <Text>Yermo (Colinas)</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_TERRAIN_WASTELAND_MOUNTAIN_NAME" Language="es_ES">
+      <Text>Yermo (Montaña)</Text>
+    </Replace>
+    <Replace Tag="LOC_TOOLTIP_LAKE" Language="es_ES">
+      <Text>Lago envenenado</Text>
+    </Replace>
+    <Replace Tag="LOC_TOOLTIP_COAST" Language="es_ES">
+      <Text>Costa envenenada</Text>
+    </Replace>
+    <Replace Tag="LOC_NOTIFICATION_NEW_BARBARIAN_CAMP_MESSAGE" Language="es_ES">
+      <Text>Nuevo puesto bandido</Text>
+    </Replace>
+    <Replace Tag="LOC_NOTIFICATION_NEW_BARBARIAN_CAMP_SUMMARY" Language="es_ES">
+      <Text>Hemos oído rumores acerca de que un nuevo grupo de bandidos se ha trasladado a una zona cercana.</Text>
+    </Replace>
+    <Replace Tag="LOC_EDGELORD_COMBAT_BONUS_OVERLAY_TT" Language="es_ES">
+      <Text>Zona de bonificación al combate de los Señores del límite</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_CIVROYALE_SCENARIO" Language="es_ES">
+      <Text>{LOC_CIV_ROYALE_MOD_DESCRIPTION_TUTORIAL}</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_HUD_STORM_STRENGTH" Language="es_ES">
+      <Text>Lluvia radioactiva: categoría {1_safeZonePhase} ({2_dangerZoneDamage} de daño)</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_HUD_CATEGORY_TOOLTIP" Language="es_ES">
+      <Text>Una unidad recibirá {1_Damage} de daño por la lluvia radioactiva en el círculo.[NEWLINE]De momento, la zona segura se ha cerrado {2_RingCount} {2_RingCount: plural 1?vez; other?veces;}.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_HUD_TURNS" Language="es_ES">
+      <Text>{1_Turns: plural 1?turno; other?turnos;}</Text>
+    </Replace>
+    <Replace Tag="LOC_PROMOTION_SCOUTING_REGIMENT_NAME" Language="es_ES">
+      <Text>Regimiento de exploradores</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SETTLER_NAME" Language="es_ES">
+      <Text>Civil|Civiles</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_SUPPLY_DROP_NAME" Language="zh_Hant_HK">
+      <Text>空投補給</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_POPPED_GOODY_NAME" Language="zh_Hant_HK">
+      <Text>已探索的城市廢墟</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_BARBARIAN_CAMP_NAME" Language="zh_Hant_HK">
+      <Text>掠奪者哨站所</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_BARBARIAN_NAME" Language="zh_Hant_HK">
+      <Text>掠奪者</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_BARBARIAN_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>掠奪者</Text>
+    </Replace>
+    <Replace Tag="LOC_FEATURE_DESTROYED_CITY_NAME" Language="zh_Hant_HK">
+      <Text>遭摧毀的城市</Text>
+    </Replace>
+    <Replace Tag="LOC_FEATURE_ICE_NAME" Language="zh_Hant_HK">
+      <Text>大爛坑（禁止進入）</Text>
+    </Replace>
+    <Replace Tag="LOC_FEATURE_MARSH_NAME" Language="zh_Hant_HK">
+      <Text>泥塘</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_DESERT_NAME" Language="zh_Hant_HK">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_DESERT_HILLS_NAME" Language="zh_Hant_HK">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_HILLS_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_DESERT_MOUNTAIN_NAME" Language="zh_Hant_HK">
+      <Text>沙漠（山脈）</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_GRASS_NAME" Language="zh_Hant_HK">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_GRASS_HILLS_NAME" Language="zh_Hant_HK">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_HILLS_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_GRASS_MOUNTAIN_NAME" Language="zh_Hant_HK">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_MOUNTAIN_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_OCEAN_NAME" Language="zh_Hant_HK">
+      <Text>有毒海洋</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_PLAINS_NAME" Language="zh_Hant_HK">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_PLAINS_HILLS_NAME" Language="zh_Hant_HK">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_HILLS_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_PLAINS_MOUNTAIN_NAME" Language="zh_Hant_HK">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_MOUNTAIN_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_SNOW_NAME" Language="zh_Hant_HK">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_SNOW_HILLS_NAME" Language="zh_Hant_HK">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_HILLS_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_SNOW_MOUNTAIN_NAME" Language="zh_Hant_HK">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_MOUNTAIN_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_TUNDRA_NAME" Language="zh_Hant_HK">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_TUNDRA_HILLS_NAME" Language="zh_Hant_HK">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_HILLS_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_TERRAIN_TUNDRA_MOUNTAIN_NAME" Language="zh_Hant_HK">
+      <Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_MOUNTAIN_NAME}</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_VICTORY_WIN_BLURB" Language="zh_Hant_HK">
+      <Text>他們當初還嘲笑我們，他們還說我們又軟弱人又太少，在到達登陸艇前早就全都會死光。現在呢？到底是誰笑到最後了啊？誰才是成功離開這個愚蠢腐爛星球的最後陣營呢？是誰登上了閃亮的新船艦，得以喝著乾淨的飲水、吸著不含毒塵的乾淨空氣呢？就是我們啊！[NEWLINE][NEWLINE]我們要閃人了！無垠的宇宙，我們來囉！</Text>
+    </Replace>
+    <Replace Tag="LOC_GOODYHUT_MILITARY_GRANT_WARRIOR_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>[COLOR_FLOAT_MILITARY]一個步兵單位加入了你的陣營。[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Tag="LOC_GOODYHUT_MILITARY_GRANT_ARCHER_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>[COLOR_FLOAT_MILITARY]一個機槍手單位加入了你的陣營。[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Tag="LOC_GOODYHUT_MILITARY_GRANT_AT_TEAM_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>[COLOR_FLOAT_MILITARY]一個反坦克單位加入了你的陣營。[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Tag="LOC_GOODYHUT_MILITARY_GRANT_SETTLER_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>[COLOR_FLOAT_MILITARY]躲在遺跡內的平民加入了你的陣營。[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Tag="LOC_GOODYHUT_MILITARY_GRANT_GUNSHIP_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>[COLOR_FLOAT_MILITARY]你發現了一個可用的直升機。[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Tag="LOC_GOODYHUT_MILITARY_GRANT_TANK_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>[COLOR_FLOAT_MILITARY]你發現了一個可用的坦克。[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Tag="LOC_GOODYHUT_MILITARY_GRANT_ARTILLERY_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>[COLOR_FLOAT_MILITARY]一個大炮單位加入了你的陣營。[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Tag="LOC_GOODYHUT_MILITARY_GRANT_NUKE_STRIKE_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>[COLOR_FLOAT_MILITARY]你發現了一個可用的熱核裝置。[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_HUD_TURNS_UNTIL_RING_SHRINKS" Language="zh_Hant_HK">
+      <Text>安全區縮減前的回合倒數。</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_HUD_CATEGORY" Language="zh_Hant_HK">
+      <Text>類別</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_HUD_DAMAGE" Language="zh_Hant_HK">
+      <Text>傷害</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_HUD_DAMAGE_TOOLTIP" Language="zh_Hant_HK">
+      <Text>你的倖存者將要在紅死潮中承受的傷害。</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_HUD_TURNS_TOOLTIP" Language="zh_Hant_HK">
+      <Text>紅死潮抵達安全區需要的回合數。</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_HUD_CIVILIAN_WARNING" Language="zh_Hant_HK">
+      <Text>你的平民身處在輻射落塵之中！</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_NOTIFICATION_SUPPLY_DROP_MESSAGE" Language="zh_Hant_HK">
+      <Text>空投補給！</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_NOTIFICATION_SUPPLY_DROP_SUMMARY" Language="zh_Hant_HK">
+      <Text>空投補給出現了！</Text>
+    </Replace>
+    <Replace Tag="LOC_NOTIFICATION_DISCOVER_GOODY_HUT_MESSAGE" Language="zh_Hant_HK">
+      <Text>發現了城市廢墟</Text>
+    </Replace>
+    <Replace Tag="LOC_NOTIFICATION_DISCOVER_GOODY_HUT_SUMMARY" Language="zh_Hant_HK">
+      <Text>你發現了一個可能擁有急需補給品的城市廢墟。</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_NOTIFICATION_SAFE_ZONE_APPEARED_MESSAGE" Language="zh_Hant_HK">
+      <Text>安全區已確立</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_NOTIFICATION_SAFE_ZONE_APPEARED_SUMMARY" Language="zh_Hant_HK">
+      <Text>紅死潮又在形成。已經將位於此暴風眼中的安全區標記到你的地圖上。</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_NOTIFICATION_SAFE_ZONE_CHANGED_MESSAGE" Language="zh_Hant_HK">
+      <Text>安全區已縮減</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_NOTIFICATION_SAFE_ZONE_CHANGED_SUMMARY" Language="zh_Hant_HK">
+      <Text>紅死潮越來越嚴重。安全區已變動且範圍縮小。</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_IMPROVEMENT_GOODY_HUT_NAME" Language="zh_Hant_HK">
+      <Text>城市廢墟</Text>
+    </Replace>
+    <Replace Tag="LOC_MINIMAP_RED_DEATH_TOOLTIP" Language="zh_Hant_HK">
+      <Text>紅死潮</Text>
+    </Replace>
+    <Replace Tag="LOC_MINIMAP_SAFE_ZONE_TOOLTIP" Language="zh_Hant_HK">
+      <Text>安全區</Text>
+    </Replace>
+    <Replace Tag="LOC_PROMOTION_SCOUTING_REGIMENT_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>單位與其編隊無視樹林、雨林和丘陵的 [ICON_Movement] 移動力減益。</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_PROMOTION_CAPARISON_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>對抗反坦克組時+5 [ICON_Strength] 戰鬥力。</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_PROMOTION_COURSERS_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>攻擊機關槍時+5 [ICON_Strength] 戰鬥力。</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_PROMOTION_ARMOR_PIERCING_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>迎戰其他坦克時+7 [ICON_Strength] 戰鬥力。</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_PROMOTION_REACTIVE_ARMOR_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>防禦坦克和反坦克組攻擊時+7 [ICON_Strength] 戰鬥力。</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_PROMOTION_ECHELON_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>對抗坦克和直升機時+5 [ICON_Strength] 戰鬥力。</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_PROMOTION_HOLD_THE_LINE_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>對抗坦克和直升機時，每種類型的相鄰單位+10 [ICON_Strength] 戰鬥力。</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_PROMOTION_CHOKE_POINTS_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>在樹林、叢林、丘陵或沼澤防禦時+7 [ICON_Strength] 戰鬥力。</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_UNIT_BASE_WMD_RESISTANCE_NAME" Language="zh_Hant_HK">
+      <Text>大災大難又如何</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_UNIT_BASE_WMD_RESISTANCE_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>遭大規模殺傷性武器攻擊時不會立即死去，而是失去50點生命值。</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_ABILITY_WMD_STRIKE_NAME" Language="zh_Hant_HK">
+      <Text>大規模殺傷性武器發射就緒</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_WMD_STRIKE_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>能發射大規模殺傷性武器。</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_PIRATES_IGNORE_EMBARK_DISEMBARK_COST_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>上下船不消耗額外的 [ICON_Movement] 移動力。</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_TERRAIN_WASTELAND_NAME" Language="zh_Hant_HK">
+      <Text>廢土</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_TERRAIN_WASTELAND_HILLS_NAME" Language="zh_Hant_HK">
+      <Text>廢土（丘陵）</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVROYALE_TERRAIN_WASTELAND_MOUNTAIN_NAME" Language="zh_Hant_HK">
+      <Text>廢土（山脈）</Text>
+    </Replace>
+    <Replace Tag="LOC_TOOLTIP_LAKE" Language="zh_Hant_HK">
+      <Text>有毒湖泊</Text>
+    </Replace>
+    <Replace Tag="LOC_TOOLTIP_COAST" Language="zh_Hant_HK">
+      <Text>有毒海岸</Text>
+    </Replace>
+    <Replace Tag="LOC_NOTIFICATION_NEW_BARBARIAN_CAMP_MESSAGE" Language="zh_Hant_HK">
+      <Text>新的掠奪者哨站所</Text>
+    </Replace>
+    <Replace Tag="LOC_NOTIFICATION_NEW_BARBARIAN_CAMP_SUMMARY" Language="zh_Hant_HK">
+      <Text>我們收到傳聞，有新的掠奪者遷徙到了附近地區。</Text>
+    </Replace>
+    <Replace Tag="LOC_EDGELORD_COMBAT_BONUS_OVERLAY_TT" Language="zh_Hant_HK">
+      <Text>邊緣人戰鬥加成區域</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_CIVROYALE_SCENARIO" Language="zh_Hant_HK">
+      <Text>{LOC_CIV_ROYALE_MOD_DESCRIPTION_TUTORIAL}</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_HUD_STORM_STRENGTH" Language="zh_Hant_HK">
+      <Text>放射：類型{1_safeZonePhase}（傷害 {2_dangerZoneDamage}）</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_HUD_CATEGORY_TOOLTIP" Language="zh_Hant_HK">
+      <Text>一個單位將承受圈中放射的{1_Damage}點傷害。[NEWLINE]目前安全區已關閉{2_RingCount}次。</Text>
+    </Replace>
+    <Replace Tag="LOC_CIV_ROYALE_HUD_TURNS" Language="zh_Hant_HK">
+      <Text>{1_Turns : plural 1?回合; other?回合;}</Text>
+    </Replace>
+    <Replace Tag="LOC_PROMOTION_SCOUTING_REGIMENT_NAME" Language="zh_Hant_HK">
+      <Text>偵察兵軍團</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SETTLER_NAME" Language="zh_Hant_HK">
+      <Text>平民</Text>
+    </Replace>
+  </LocalizedText>
+</GameData>

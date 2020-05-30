@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<BaseGameText>
+		<!-- Civ Info-->
+		<Row Tag="LOC_CIVILIZATION_NUBIA_DESCRIPTION">
+			<Text>Nubian Empire</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_NUBIA_ADJECTIVE">
+			<Text>Nubian</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_NUBIA_LOCATION">
+			<Text>Africa</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_NUBIA_SIZE">
+			<Text>At its peak, est. 486,000 square miles (1.26 million square km)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_NUBIA_POPULATION">
+			<Text>Est. 1.15 million (at peak)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_NUBIA_CAPITAL">
+			<Text>Kerma, Nepata, Meroë</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_AMANITORE">
+			<Text>Amanitore, watchful Queen of Nubia, the empire you command shall claim the horizon as its border. Don't fear those who covet your abundant gold, for your archers can part their hair at five hundred paces. Your cities shall know prosperity and piety, wise queen, for the Land of the Bow honors its past as surely as it builds its own future.</Text>
+		</Row>
+		<!-- Leader Agenda-->
+		<Row Tag="LOC_AGENDA_CITY_PLANNER_NAME">
+			<Text>City Planner</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_CITY_PLANNER_DESCRIPTION">
+			<Text>Always tries to keep the maximum number of districts in each city. Respects other civilizations who also develop their cities in this fashion.</Text>
+		</Row>
+		<!-- City Names -->
+		<Row Tag="LOC_CITY_NAME_MEROE">
+			<Text>Meroë</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KERMA">
+			<Text>Kerma</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_NAPATA">
+			<Text>Napata</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_NURI">
+			<Text>Nuri</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_EL_KURRU">
+			<Text>El-Kurru</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KAWA">
+			<Text>Kawa</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SEDEINGA">
+			<Text>Sedeinga</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HEH">
+			<Text>Heh</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_QASR_IBRIM">
+			<Text>Qasr Ibrim</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FARAS">
+			<Text>Faras</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SHAAT">
+			<Text>Shaat</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_IKEN">
+			<Text>Iken</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ABU_SIMBEL">
+			<Text>Abu Simbel</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BUHEN">
+			<Text>Buhen</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DANGEIL">
+			<Text>Dangeil</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MIAM">
+			<Text>Miam</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TOMBOS">
+			<Text>Tombos</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KURGUS">
+			<Text>Kurgus</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TOSHKA">
+			<Text>Toshka</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SOLEB">
+			<Text>Soleb</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_WAD_BAN_NAQA">
+			<Text>Wad ban Naqa</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DEBBA">
+			<Text>Debba</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BUGDUMBUSH">
+			<Text>Bugdumbush</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BAKI">
+			<Text>Baki</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_AMARA">
+			<Text>Amara</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MUSAWWARAT_ES_SUFRA">
+			<Text>Musawwarat es-Sufra</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_EL_FURA">
+			<Text>El Fura</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_UKMA">
+			<Text>Ukma</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_PEDEME">
+			<Text>Pedeme</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DEFEIA">
+			<Text>Defeia</Text>
+		</Row>
+		<!-- Citizen Names -->
+		<Row Tag="LOC_CITIZEN_NUBIA_MALE_1">
+			<Text>Alara</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NUBIA_MALE_2">
+			<Text>Amanislo</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NUBIA_MALE_3">
+			<Text>Apedemak</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NUBIA_MALE_4">
+			<Text>Arensnuphis</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NUBIA_MALE_5">
+			<Text>Arqamani</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NUBIA_MALE_6">
+			<Text>Dedun</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NUBIA_MALE_7">
+			<Text>Mandulis</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NUBIA_MALE_8">
+			<Text>Mut</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NUBIA_MALE_9">
+			<Text>Piye</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NUBIA_MALE_10">
+			<Text>Sebiumeker</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NUBIA_FEMALE_1">
+			<Text>Amanikhatashan</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NUBIA_FEMALE_2">
+			<Text>Amanirenas</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NUBIA_FEMALE_3">
+			<Text>Amanishakheto</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NUBIA_FEMALE_4">
+			<Text>Amenirdis</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NUBIA_FEMALE_5">
+			<Text>Amesemi</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NUBIA_FEMALE_6">
+			<Text>Kadimalo</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NUBIA_FEMALE_7">
+			<Text>Khalese</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NUBIA_FEMALE_8">
+			<Text>Nasala</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NUBIA_FEMALE_9">
+			<Text>Shanakdakheto</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NUBIA_FEMALE_10">
+			<Text>Tabiry</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NUBIA_MODERN_MALE_1">
+			<Text>Barschanbu</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NUBIA_MODERN_MALE_2">
+			<Text>Douddil</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NUBIA_MODERN_MALE_3">
+			<Text>Eirpanome</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NUBIA_MODERN_MALE_4">
+			<Text>Mashshouda</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NUBIA_MODERN_MALE_5">
+			<Text>Orinourta</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NUBIA_MODERN_MALE_6">
+			<Text>Qalidurut</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NUBIA_MODERN_MALE_7">
+			<Text>Semamun</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NUBIA_MODERN_MALE_8">
+			<Text>Shekanda</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NUBIA_MODERN_MALE_9">
+			<Text>Siti</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NUBIA_MODERN_MALE_10">
+			<Text>Tapara</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NUBIA_MODERN_FEMALE_1">
+			<Text>Aideosa</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NUBIA_MODERN_FEMALE_2">
+			<Text>Anthelia</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NUBIA_MODERN_FEMALE_3">
+			<Text>Damasti</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NUBIA_MODERN_FEMALE_4">
+			<Text>Eikkir</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NUBIA_MODERN_FEMALE_5">
+			<Text>Eitou</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NUBIA_MODERN_FEMALE_6">
+			<Text>Genseoua</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NUBIA_MODERN_FEMALE_7">
+			<Text>Iesousyko</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NUBIA_MODERN_FEMALE_8">
+			<Text>Kel</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NUBIA_MODERN_FEMALE_9">
+			<Text>Ouareno</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NUBIA_MODERN_FEMALE_10">
+			<Text>Pongita</Text>
+		</Row>
+		<!-- Wonders-->
+		<Row Tag="LOC_BUILDING_JEBEL_BARKAL_NAME">
+			<Text>Jebel Barkal</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_JEBEL_BARKAL_DESCRIPTION">
+			<Text>Awards 2 [ICON_RESOURCE_IRON] Iron. Provides +4 [ICON_Faith] Faith to all your cities that are within 6 tiles.[NEWLINE][NEWLINE]Must be built on Desert (Hills) terrain.</Text>
+		</Row>
+		<!-- Trait Info-->
+		<!-- Diplo Text -->
+		<Row Tag="LOC_DIPLO_MODIFIER_CITY_PLANNER_LEADING">
+			<Text>Amanitore is pleased that you are filling your cities with districts.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_CITY_PLANNER_LAGGING">
+			<Text>Amanitore is unhappy you are lagging behind on building districts.</Text>
+		</Row>
+		<!-- Dialog Text -->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_AMANITORE_ANY">
+			<Text>Your warm words linger like the evening sun. We are privileged to call you friend.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_AMANITORE_ANY">
+			<Text>Perhaps, one day, with much effort on your part, Nubia might consider you a friend.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_AMANITORE_ANY">
+			<Text>The Nubian people speak highly of your own. Let us formalize our friendship with a public declaration!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_AMANITORE_ANY">
+			<Text>How gracious of you.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_AMANITORE_ANY">
+			<Text>A shame.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_AMANITORE_ANY">
+			<Text>As predicted, you know only how to take. Come, then—choose the manner of your defeat.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_AMANITORE_ANY">
+			<Text>We have arrows, finely honed. We shall deliver them freely to your throat.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_AMANITORE_ANY">
+			<Text>Our delegation brings goodwill. Also, fresh camel liver. Don't make the mistake of cooking it!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_AMANITORE_ANY">
+			<Text>We must decline. Seasonal flooding has made it a poor time to receive guests.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_AMANITORE_ANY">
+			<Text>Your delegation arrived unharmed. It was truly a pleasure to show them around our capital.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_AMANITORE_ANY">
+			<Text>I will not ask how you dare say such a vile thing. With you, I always expect the worst.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_AMANITORE_ANY">
+			<Text>You are the worst kind of flood—when you deign to show up, you cover everything you touch in muck. (Denounces You).</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_AMANITORE_ANY">
+			<Text>I am Amanitore of Nubia. All are welcome in our magnificent cities—provided they come as friends.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_AMANITORE_ANY">
+			<Text>While nearby, might you visit our city? Our pyramids offer an impressive skyline, especially at dawn.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_AMANITORE_ANY">
+			<Text>An amenable offer.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_AMANITORE_ANY">
+			<Text>I will tell you of our glorious capital if you share tales of your own.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_AMANITORE_ANY">
+			<Text>You may speak.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_AMANITORE_ANY">
+			<Text>Your cities are built properly. For each task, a place to perform it.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_AMANITORE_REASON_ANY">
+			<Text>(You have filled your cities with districts.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_AMANITORE_ANY">
+			<Text>Your cities overflow with filth. Why not put your land to more productive use?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_AMANITORE_REASON_ANY">
+			<Text>(You are not filling your cities with all possible districts.)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_AMANITORE_ANY">
+			<Text>Yes. There is too much destruction. We should each rebuild what we have lost.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_AMANITORE_ANY">
+			<Text>It cannot be.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_AMANITORE_ANY">
+			<Text>Our people tire of the fighting. They seek an end to this war.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_AMANITORE_ANY">
+			<Text>Of course. Take in our principles of municipal composition and make them your own.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_AMANITORE_ANY">
+			<Text>Nubian lands are sacrosanct. A more suspicious ruler would think you prepared an invasion.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_AMANITORE_ANY">
+			<Text>With open borders, we could each learn from our varied approaches to civil planning.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_AMANITORE_ANY">
+			<Text>The Land of the Bow does not approve of your army's proximity. I urge you to recall them.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_NEGATIVE_LEADER_AMANITORE_ANY">
+			<Text>Nubian mercenaries go where they will. I do not control their movements!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_POSITIVE_LEADER_AMANITORE_ANY">
+			<Text>You are gracious for informing me of this unfortunate error. I will withdraw them to show our goodwill.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_AMANITORE_ANY">
+			<Text>Though Nubia declines, our pyramids shall remain long after your plans fall to ruin.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_AMANITORE_ANY">
+			<Text>How disappointing.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_AMANITORE_ANY">
+			<Text>How gracious of you.</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

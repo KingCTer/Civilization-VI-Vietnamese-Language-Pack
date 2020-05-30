@@ -1,0 +1,1714 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <LocalizedText>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_CHOLA_NAME" Language="pt_BR">
+      <Text>Chola</Text>
+      <Gender>neutral</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_CHOLA_DESCRIPTION" Language="pt_BR">
+      <Text>Império Chola</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_CHOLA_ADJECTIVE" Language="pt_BR">
+      <Text>Chola</Text>
+      <Gender>neutral</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_GHAZNAVID_NAME" Language="pt_BR">
+      <Text>Ghaznévida</Text>
+      <Gender>neutral</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_GHAZNAVID_DESCRIPTION" Language="pt_BR">
+      <Text>Império Ghaznévida</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_GHAZNAVID_ADJECTIVE" Language="pt_BR">
+      <Text>do Império Ghaznévida|do Império Ghaznévida|do Império Ghaznévida|do Império Ghaznévida</Text>
+      <Gender>masculine|feminine|masculine|feminine</Gender>
+      <Plurality>1|1|2|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_PALA_NAME" Language="pt_BR">
+      <Text>Pala</Text>
+      <Gender>neutral</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_PALA_DESCRIPTION" Language="pt_BR">
+      <Text>Império Pala</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_PALA_ADJECTIVE" Language="pt_BR">
+      <Text>de Pala|de Pala|de Pala|de Pala</Text>
+      <Gender>masculine|feminine|masculine|feminine</Gender>
+      <Plurality>1|1|2|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_TUFAN_NAME" Language="pt_BR">
+      <Text>Tufan</Text>
+      <Gender>neutral</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_TUFAN_DESCRIPTION" Language="pt_BR">
+      <Text>Império Tufan</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_TUFAN_ADJECTIVE" Language="pt_BR">
+      <Text>de Tufan|de Tufan|de Tufan|de Tufan</Text>
+      <Gender>masculine|feminine|masculine|feminine</Gender>
+      <Plurality>1|1|2|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_INDONESIA_KHMER_SCENARIO_NAME" Language="pt_BR">
+      <Text>Caminho para o nirvana</Text>
+    </Replace>
+    <Replace Tag="LOC_INDONESIA_KHMER_SCENARIO_TOOLTIP" Language="pt_BR">
+      <Text>Qual fé será a mais reluzente da Ásia? Dura 50 turnos.</Text>
+    </Replace>
+    <Replace Tag="LOC_INDONESIA_KHMER_SCENARIO_MAP_NAME" Language="pt_BR">
+      <Text>Leste Asiático</Text>
+    </Replace>
+    <Replace Tag="LOC_INDONESIA_KHMER_SCENARIO_MAP_DESCRIPTION" Language="pt_BR">
+      <Text>Um cenário que representa o Leste Asiático.</Text>
+    </Replace>
+    <Replace Tag="LOC_INDONESIA_KHMER_SCENARIO_DESCRIPTION" Language="pt_BR">
+      <Text>As terras ao redor do Oceano Índico são abundantes de religiões e povos. O Céu escolheu você para trazer luz a essas terras. Sua fé está à altura desse desafio? Será que você conseguirá convencer o povo do Sudeste Asiático a seguir sua religião?[NEWLINE][NEWLINE]Neste cenário de 50 turnos, você competirá para ter o maior número de seguidores da sua [ICON_Religion] religião, mais [ICON_FAITH] fé por turno e mais cidades estrangeiras seguindo a sua [ICON_Religion] religião.</Text>
+    </Replace>
+    <Replace Tag="LOC_VICTORY_INDONESIA_KHMER_SCENARIO_SCORE_DESCRIPTION" Language="pt_BR">
+      <Text>O Nirvana é atingido após alcançar a pontuação máxima após o limite de tempo.</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_INDONESIA_KHMER_SCENARIO" Language="pt_BR">
+      <Text>Que as bênçãos do paraíso venham para você, governante! Muitas religiões são praticadas nessas terras, e muitos credos prometem a salvação. Você irá disseminar suas palavras ao coração dos povos? Ou essas almas serão convencidas por outras crenças? Deixe que os administradores cuidem das questões de estado, e volte o seu coração solidário à incumbência da iluminação.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_CHINA_NAME" Language="pt_BR">
+      <Text>Taoísmo</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_CHINA_DESCRIPTION" Language="pt_BR">
+      <Text>Começa com o taoísmo fundado. Essa religião tem as seguintes crenças:[NEWLINE][ICON_Bullet]Deusa do rio: +1 de [ICON_Amenities] serviços para cidades se elas tiverem um distrito de Local Sagrado adjacente a um rio.[NEWLINE][ICON_Bullet]Alimentar o mundo: Santuários e Templos fornecem [ICON_Food] alimento igual à sua produção intrínseca de [ICON_Faith] fé.[NEWLINE][ICON_Bullet]Pagode: permite a construção de Pagodes (+3 de [ICON_Faith] fé). Unidades de Sacerdote recebem +1 Remover Heresia, e Guru, +1 Carga de Cura. Se desbloqueia com Impressão.[NEWLINE][ICON_Bullet]Isolamento monástico: a pressão da sua religião nunca diminui devido à perdas em combate teológico.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_CHINA_NAME" Language="pt_BR">
+      <Text>Cívico</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_CHINA_DESCRIPTION" Language="pt_BR">
+      <Text>Começa com o cívico Início do Império.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_CHOLA_NAME" Language="pt_BR">
+      <Text>Shivaísmo</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_CHOLA_DESCRIPTION" Language="pt_BR">
+      <Text>Começa com o shivaísmo fundado. Essa religião tem as seguintes crenças:[NEWLINE][ICON_Bullet]Caminho sagrado: distritos de Local Sagrado recebem +1 de [ICON_Faith] fé de painéis de floresta tropical adjacentes.[NEWLINE][ICON_Bullet]Linga: pode comprar edificações dos distritos de Centro Comercial e Porto com [ICON_Faith] fé.[NEWLINE][ICON_Bullet]Administração: cada distrito de Centro Comercial ou Porto em uma cidade que siga essa religião concede +1 de [ICON_Faith] fé.[NEWLINE][ICON_Bullet]Ioga: pode comprar unidades civis com [ICON_Faith] fé.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_CHOLA_NAME" Language="pt_BR">
+      <Text>Cívico</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_CHOLA_DESCRIPTION" Language="pt_BR">
+      <Text>Começa com o cívico Navegação Celestial.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_GHAZNAVID_NAME" Language="pt_BR">
+      <Text>Islamismo</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_GHAZNAVID_DESCRIPTION" Language="pt_BR">
+      <Text>Começa com o islamismo fundado. Essa religião tem as seguintes crenças:[NEWLINE][ICON_Bullet]Folclore do deserto: distritos de Local Sagrado recebem +1 de [ICON_Faith] fé de painéis de deserto adjacentes.[NEWLINE][ICON_Bullet]Comunidade religiosa: Santuários e Templos concedem +1 de [ICON_Housing] habitação cada.[NEWLINE][ICON_Bullet]Mesquita: permite a construção de Mesquitas (+3 de [ICON_Faith] fé). Unidades de Missionários e Monges +1 de Disseminação. Se desbloqueia com Impressão.[NEWLINE][ICON_Bullet]Peregrinação: +2 de [ICON_Faith] fé por cada cidade seguindo essa religião em outras civilizações e cidades-estados.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_GHAZNAVID_NAME" Language="pt_BR">
+      <Text>Cívicos</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_GHAZNAVID_DESCRIPTION" Language="pt_BR">
+      <Text>Começa com os cívicos Navegação Celestial, Moeda e Início do Império.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_INDONESIA_NAME" Language="pt_BR">
+      <Text>Darma hindu</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_INDONESIA_DESCRIPTION" Language="pt_BR">
+      <Text>Começa com o darma hindu fundado. Essa religião tem as seguintes crenças:[NEWLINE][ICON_Bullet]Deus do mar: +1 de [ICON_Production] produção de Barcos de Pesca.[NEWLINE][ICON_Bullet]Grande Nusantara: painéis de costa e de lago concedem um pequeno bônus de adjacência para distritos de Local Sagrado.[NEWLINE][ICON_Bullet]Kampung: seus Construtores agora podem construir a melhoria de Kampung. Se desbloqueia com Guildas.[NEWLINE][ICON_Bullet]Pregadores itinerantes: a religião se espalha para cidades 30% mais distantes.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_INDONESIA_NAME" Language="pt_BR">
+      <Text>Cívico</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_INDONESIA_DESCRIPTION" Language="pt_BR">
+      <Text>Começa com o cívico Navegação Celestial.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_KHMER_NAME" Language="pt_BR">
+      <Text>Budismo teravada</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_KHMER_DESCRIPTION" Language="pt_BR">
+      <Text>Começa com o budismo teravada fundado. Essa religião tem as seguintes crenças:[NEWLINE][ICON_Bullet]Círculos de pedras: +2 de [ICON_Faith] fé e +2 de [ICON_Production] produção das Pedreiras.[NEWLINE][ICON_Bullet]Dana: cada Celeiro fornece +3 de [ICON_Faith] fé. +1 de [ICON_Amenities] serviços para cada cidade.[NEWLINE][ICON_Bullet]Wat: permite a construção de Wats (+3 de [ICON_Faith] fé, +1 de [ICON_Housing] habitação). Se desbloqueia com Impressão.[NEWLINE][ICON_Bullet]Igreja mundial: +1 de [ICON_Culture] cultura para cada 5 devotos dessa religião em outras civilizações.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_KHMER_NAME" Language="pt_BR">
+      <Text>Cívicos</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_KHMER_DESCRIPTION" Language="pt_BR">
+      <Text>Começa com os cívicos Início do Império, Engenharia e Misticismo.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_PALA_NAME" Language="pt_BR">
+      <Text>Budismo maaiana</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_PALA_DESCRIPTION" Language="pt_BR">
+      <Text>Começa com o budismo maaiana fundado. Essa religião tem as seguintes crenças:[NEWLINE][ICON_Bullet]Deusa da terra: +1 de [ICON_Faith] fé de painéis com apelo de encantador ou melhor.[NEWLINE][ICON_Bullet]Ética de trabalho: +1% de [ICON_Production] produção para cada devoto.[NEWLINE][ICON_Bullet]Estupa maaiana: permite a construção de Estupas (+3 de [ICON_Faith] fé, +1 de [ICON_Amenities] serviços). Se desbloqueia com Impressão.[NEWLINE][ICON_Bullet]Ordem Sagrada: Missionários e Monges são 30% mais baratos de se comprar.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_PALA_NAME" Language="pt_BR">
+      <Text>Cívico</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_PALA_DESCRIPTION" Language="pt_BR">
+      <Text>Começa com o cívico Misticismo.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_TUFAN_NAME" Language="pt_BR">
+      <Text>Budismo vajrayana</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_TUFAN_DESCRIPTION" Language="pt_BR">
+      <Text>Começa com o budismo vajrayana fundado. Essa religião tem as seguintes crenças:[NEWLINE][ICON_Bullet]Deus do céu aberto: +2 de [ICON_Food] alimento de Pastos.[NEWLINE][ICON_Bullet]Meditação zen: +1 de [ICON_Amenities] serviço em cidades com 2 distritos especializados.[NEWLINE][ICON_Bullet]Estupa vajrayana: permite a construção de Estupas (+3 de [ICON_Faith] fé, +1 de [ICON_Amenities] serviços). Se desbloqueia com Impressão.[NEWLINE][ICON_Bullet]Zelo dos Missionários: unidades religiosas ignoram custos de [ICON_Movement] movimento de terrenos e características.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_TUFAN_NAME" Language="pt_BR">
+      <Text>Cívico</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_TUFAN_DESCRIPTION" Language="pt_BR">
+      <Text>Começa com o cívico Misticismo.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_CHOLA_NAME" Language="fr_FR">
+      <Text>Chola</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_CHOLA_DESCRIPTION" Language="fr_FR">
+      <Text>Dynastie Chola</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_CHOLA_ADJECTIVE" Language="fr_FR">
+      <Text>Chola</Text>
+      <Gender>feminine:no_article</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_GHAZNAVID_NAME" Language="fr_FR">
+      <Text>Ghaznévides</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_GHAZNAVID_DESCRIPTION" Language="fr_FR">
+      <Text>Empire ghaznévide</Text>
+      <Gender>masculine:vowel</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_GHAZNAVID_ADJECTIVE" Language="fr_FR">
+      <Text>ghaznévide|ghaznévide|ghaznévides|ghaznévides</Text>
+      <Gender>masculine|feminine|masculine|feminine</Gender>
+      <Plurality>1|1|2|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_PALA_NAME" Language="fr_FR">
+      <Text>Pala</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_PALA_DESCRIPTION" Language="fr_FR">
+      <Text>Dynastie Pala</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_PALA_ADJECTIVE" Language="fr_FR">
+      <Text>des Pala|des Pala|des Pala|des Pala</Text>
+      <Gender>masculine|feminine|masculine|feminine</Gender>
+      <Plurality>1|1|2|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_TUFAN_NAME" Language="fr_FR">
+      <Text>Tufan</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_TUFAN_DESCRIPTION" Language="fr_FR">
+      <Text>Empire tufan</Text>
+      <Gender>masculine:vowel</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_TUFAN_ADJECTIVE" Language="fr_FR">
+      <Text>des Tufan|des Tufan|des Tufan|des Tufan</Text>
+      <Gender>masculine|feminine|masculine|feminine</Gender>
+      <Plurality>1|1|2|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_INDONESIA_KHMER_SCENARIO_NAME" Language="fr_FR">
+      <Text>Voie du Nirvana</Text>
+    </Replace>
+    <Replace Tag="LOC_INDONESIA_KHMER_SCENARIO_TOOLTIP" Language="fr_FR">
+      <Text>Quelle foi arrivera le mieux à rayonner dans toute l'Asie ? Dure 50 tours.</Text>
+    </Replace>
+    <Replace Tag="LOC_INDONESIA_KHMER_SCENARIO_MAP_NAME" Language="fr_FR">
+      <Text>Asie orientale</Text>
+    </Replace>
+    <Replace Tag="LOC_INDONESIA_KHMER_SCENARIO_MAP_DESCRIPTION" Language="fr_FR">
+      <Text>Une représentation scénarisée de l'Asie orientale.</Text>
+    </Replace>
+    <Replace Tag="LOC_INDONESIA_KHMER_SCENARIO_DESCRIPTION" Language="fr_FR">
+      <Text>Les terres qui entourent l'océan Indien foisonnent de peuples et de religions, et le ciel vous a choisi pour y apporter la lumière. Votre foi sera-t-elle assez forte ? Parviendrez-vous à convaincre les habitants d'Asie du Sud-Est de se convertir à votre religion ? [NEWLINE][NEWLINE]Dans ce scénario en 50 tours, il vous faudra obtenir le plus de fidèles possible, le plus de [ICON_FAITH] foi par tour et convertir le plus de villes étrangères à votre [ICON_Religion] religion.</Text>
+    </Replace>
+    <Replace Tag="LOC_VICTORY_INDONESIA_KHMER_SCENARIO_SCORE_DESCRIPTION" Language="fr_FR">
+      <Text>Vous pouvez atteindre le nirvana en obtenant le meilleur score à la fin de la partie.</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_INDONESIA_KHMER_SCENARIO" Language="fr_FR">
+      <Text>Que les cieux vous bénissent, noble chef ! De nombreuses religions sont établies dans cette région, et toutes promettent le salut à leurs fidèles. Parviendrez-vous à toucher leur cœur ? Ou ces âmes seront-elles influencées par d'autres croyances ? Confiez les considérations politiques à vos administrateurs, et laissez votre cœur plein de compassion vous guider vers l'illumination.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_CHINA_NAME" Language="fr_FR">
+      <Text>Taoïsme</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_CHINA_DESCRIPTION" Language="fr_FR">
+      <Text>Commence avec le taoïsme, une religion composée des croyances suivantes : [NEWLINE][ICON_Bullet]Déesse des rivières : [ICON_Amenities] activités +1 dans les villes abritant un lieu saint adjacent à une rivière. [NEWLINE][ICON_Bullet]Nourrir le monde : les autels et les temples fournissent une quantité de [ICON_Food] nourriture égale à leur génération de [ICON_Faith] foi intrinsèque. [NEWLINE][ICON_Bullet]Pagode : permet la construction de pagodes ([ICON_Faith] foi +3). Suppression des hérétiques +1 pour les prêtres, charges de soin +1 pour les gurus. Disponible à la découverte de l'imprimerie. [NEWLINE][ICON_Bullet]Isolation monastique : la pression de votre religion ne baisse jamais en cas de défaite théologique.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_CHINA_NAME" Language="fr_FR">
+      <Text>Dogme</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_CHINA_DESCRIPTION" Language="fr_FR">
+      <Text>Commence avec le dogme Premier Empire.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_CHOLA_NAME" Language="fr_FR">
+      <Text>Shivaïsme</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_CHOLA_DESCRIPTION" Language="fr_FR">
+      <Text>Commence avec le shivaïsme, une religion composée des croyances suivantes : [NEWLINE][ICON_Bullet]Chemin sacré : [ICON_Faith] foi +1 pour les lieux saints adjacents à des cases de forêt tropicale. [NEWLINE][ICON_Bullet]Lingam : permet d'acheter des bâtiments pour la plateforme commerciale et le port avec de la [ICON_Faith] foi. [NEWLINE][ICON_Bullet]Intendance : [ICON_FAITH] foi +1 pour chaque plateforme commerciale ou port d'une ville convertie à cette religion. [NEWLINE][ICON_Bullet]Yoga : permet d'acheter des unités civiles avec de la [ICON_Faith] foi.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_CHOLA_NAME" Language="fr_FR">
+      <Text>Dogme</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_CHOLA_DESCRIPTION" Language="fr_FR">
+      <Text>Commence avec le dogme Navigation astronomique.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_GHAZNAVID_NAME" Language="fr_FR">
+      <Text>Islam</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_GHAZNAVID_DESCRIPTION" Language="fr_FR">
+      <Text>Commence avec l'islam, une religion composée des croyances suivantes : [NEWLINE][ICON_Bullet]Traditions du désert : [ICON_Faith] foi +1 pour les lieux saints adjacents à des cases de désert. [NEWLINE][ICON_Bullet]Communauté religieuse : [ICON_Housing] habitations +1 pour les autels et les temples. [NEWLINE][ICON_Bullet]Mosquée : permet la construction de mosquées ([ICON_Faith] foi +3). Propagation +1 pour les missionnaires et les moines. Disponible à la découverte de l'imprimerie. [NEWLINE][ICON_Bullet]Pèlerinage : [ICON_Faith] foi +2 pour chaque ville convertie à cette religion dans d'autres civilisations et cités-états.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_GHAZNAVID_NAME" Language="fr_FR">
+      <Text>Dogmes</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_GHAZNAVID_DESCRIPTION" Language="fr_FR">
+      <Text>Commence avec les dogmes Navigation astronomique, Monnaie et Premier Empire.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_INDONESIA_NAME" Language="fr_FR">
+      <Text>Dharma hindou</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_INDONESIA_DESCRIPTION" Language="fr_FR">
+      <Text>Commence avec le dharma hindou, une religion composée des croyances suivantes : [NEWLINE][ICON_Bullet]Dieu de la mer :  [ICON_Production] production +1 pour les bateaux de pêche. [NEWLINE][ICON_Bullet]Grand Nusantara : les cases de côte et de lac octroient un petit bonus de proximité pour les lieux saints. [NEWLINE][ICON_Bullet]Kampung : vos bâtisseurs peuvent désormais construire des kampungs, disponibles à la découverte des guildes. [NEWLINE][ICON_Bullet]Prédicateurs itinérants : la religion se propage aux villes 30 % plus éloignées.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_INDONESIA_NAME" Language="fr_FR">
+      <Text>Dogme</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_INDONESIA_DESCRIPTION" Language="fr_FR">
+      <Text>Commence avec le dogme Navigation astronomique.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_KHMER_NAME" Language="fr_FR">
+      <Text>Bouddhisme theravāda</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_KHMER_DESCRIPTION" Language="fr_FR">
+      <Text>Commence avec le bouddhisme theravāda, une religion composée des croyances suivantes : [NEWLINE][ICON_Bullet]Cercles de pierres : [ICON_Faith] foi +2 et [ICON_Production] production +2 pour les carrières. [NEWLINE][ICON_Bullet]Dāna : [ICON_FAITH] foi +3 pour chaque grenier. [ICON_Amenities] Activités +1 pour chaque ville. [NEWLINE][ICON_Bullet]Wat : permet la construction de wats ([ICON_Faith] foi +3, [ICON_Housing] habitations +1). Disponible à la découverte de l'imprimerie. [NEWLINE][ICON_Bullet]Église mondiale : [ICON_Culture] culture +1 par groupe de 5 fidèles de cette religion dans d'autres civilisations.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_KHMER_NAME" Language="fr_FR">
+      <Text>Dogmes</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_KHMER_DESCRIPTION" Language="fr_FR">
+      <Text>Commence avec les dogmes Premier Empire, Ingénierie et Mysticisme.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_PALA_NAME" Language="fr_FR">
+      <Text>Bouddhisme mahāyāna</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_PALA_DESCRIPTION" Language="fr_FR">
+      <Text>Commence avec le bouddhisme mahāyāna, une religion composée des croyances suivantes : [NEWLINE][ICON_Bullet]Déesse de la terre : [ICON_Faith] foi +1 pour les cases d'attrait charmant ou supérieur. [NEWLINE][ICON_Bullet]Valeur travail : [ICON_Production] production +1 % pour chaque fidèle. [NEWLINE][ICON_Bullet]Stūpa mahāyāna : permet la construction de stupas ([ICON_Faith] foi +3, [ICON_Amenities] activités +1). Disponible à la découverte de l'imprimerie. [NEWLINE][ICON_Bullet]Ordre sacré : L'achat de missionnaires et de moines coûte 30 % moins cher.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_PALA_NAME" Language="fr_FR">
+      <Text>Dogme</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_PALA_DESCRIPTION" Language="fr_FR">
+      <Text>Commence avec le dogme Mysticisme.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_TUFAN_NAME" Language="fr_FR">
+      <Text>Bouddhisme vajrayāna</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_TUFAN_DESCRIPTION" Language="fr_FR">
+      <Text>Commence avec le bouddhisme vajrayāna, une religion composée des croyances suivantes : [NEWLINE][ICON_Bullet]Dieu du ciel ouvert : [ICON_FOOD] nourriture +2 pour les pâturages. [NEWLINE][ICON_Bullet]Méditation zen : [ICON_Amenities] activités +1 dans les villes abritant deux quartiers spécialisés. [NEWLINE][ICON_Bullet]Stūpa vajrayāna : permet la construction de stupas ([ICON_Faith] foi +3, [ICON_Amenities] activités +1). Disponible à la découverte de l'imprimerie. [NEWLINE][ICON_Bullet]Zèle des missionnaires : les unités religieuses ignorent les pénalités de [ICON_Movement] mouvement du terrain.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_TUFAN_NAME" Language="fr_FR">
+      <Text>Dogme</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_TUFAN_DESCRIPTION" Language="fr_FR">
+      <Text>Commence avec le dogme Mysticisme.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_CHOLA_NAME" Language="de_DE">
+      <Text>Chola|Chola|Chola|Cholas|Chola</Text>
+      <Gender>neuter:no_article</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_CHOLA_DESCRIPTION" Language="de_DE">
+      <Text>Chola-Reich|Chola-Reich|Chola-Reich|Chola-Reichs|Chola-Reich</Text>
+      <Gender>neuter</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_CHOLA_ADJECTIVE" Language="de_DE">
+      <Text>Chola</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_GHAZNAVID_NAME" Language="de_DE">
+      <Text>Ghaznawiden|Ghaznawiden|Ghaznawiden|Ghaznawiden|Ghaznawiden</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_GHAZNAVID_DESCRIPTION" Language="de_DE">
+      <Text>Ghaznawiden-Reich|Ghaznawiden-Reich|Ghaznawiden-Reich|Ghaznawiden-Reichs|Ghaznawiden-Reich</Text>
+      <Gender>neuter</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_GHAZNAVID_ADJECTIVE" Language="de_DE">
+      <Text>ghaznawidisch|ghaznawidischen|ghaznawidische|ghaznawidischer|ghaznawidisches</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_PALA_NAME" Language="de_DE">
+      <Text>Pala|Pala|Pala|Palas|Pala</Text>
+      <Gender>neuter:no_article</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_PALA_DESCRIPTION" Language="de_DE">
+      <Text>Pala-Reich|Pala-Reich|Pala-Reich|Pala-Reichs|Pala-Reich</Text>
+      <Gender>neuter</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_PALA_ADJECTIVE" Language="de_DE">
+      <Text>palaisch|palaischen|palaische|palaischer|palaisches</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_TUFAN_NAME" Language="de_DE">
+      <Text>Tufan|Tufan|Tufan|Tufans|Tufan</Text>
+      <Gender>neuter:no_article</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_TUFAN_DESCRIPTION" Language="de_DE">
+      <Text>Tufan-Reich|Tufan-Reich|Tufan-Reich|Tufan-Reichs|Tufan-Reich</Text>
+      <Gender>neuter</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_TUFAN_ADJECTIVE" Language="de_DE">
+      <Text>tufanisch|tufanischen|tufanische|tufanischer|tufanisches</Text>
+    </Replace>
+    <Replace Tag="LOC_INDONESIA_KHMER_SCENARIO_NAME" Language="de_DE">
+      <Text>Pfad ins Nirwana</Text>
+    </Replace>
+    <Replace Tag="LOC_INDONESIA_KHMER_SCENARIO_TOOLTIP" Language="de_DE">
+      <Text>Welcher Glauben wird in Asien am hellsten erstrahlen? Läuft 50 Runden.</Text>
+    </Replace>
+    <Replace Tag="LOC_INDONESIA_KHMER_SCENARIO_MAP_NAME" Language="de_DE">
+      <Text>Ostasien</Text>
+    </Replace>
+    <Replace Tag="LOC_INDONESIA_KHMER_SCENARIO_MAP_DESCRIPTION" Language="de_DE">
+      <Text>Eine Szenario-Repräsentation Ostasiens</Text>
+    </Replace>
+    <Replace Tag="LOC_INDONESIA_KHMER_SCENARIO_DESCRIPTION" Language="de_DE">
+      <Text>Die Länder um den Indischen Ozean erblühen mit vielen Religionen und vielen Menschen. Der Himmel hat Euch auserwählt, all diesen Ländern das Licht zu bringen. Ist Euer Glaube stark genug für diese Herausforderung? Könnt Ihr die Menschen Südostasiens dazu bewegen, Eurer Religion zu folgen?[NEWLINE][NEWLINE]Erstrebt in diesem Szenario mit 50 Runden die meisten Anhänger für Eure [ICON_Religion] Religion, den meisten [ICON_FAITH] Glauben pro Runde und die meisten fremden Städte, die Eurer [ICON_Religion] Religion anhängen.</Text>
+    </Replace>
+    <Replace Tag="LOC_VICTORY_INDONESIA_KHMER_SCENARIO_SCORE_DESCRIPTION" Language="de_DE">
+      <Text>Das Nirwana wird durch die höchste Punktzahl nach Erreichen des Zeitlimits erreicht.</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_INDONESIA_KHMER_SCENARIO" Language="de_DE">
+      <Text>Möge der Segen des Himmels mit Euch sein! In diesen Landen werden viele Religionen praktiziert und viele Bekenntnisse sprechen von Erlösung. Werdet Ihr Euer Wort in die Herzen der Menschen tragen? Oder werden diese Seelen anderen Glaubensrichtungen folgen? Überlasst die Staatsangelegenheiten den Verwaltern, während Euer erbarmungsvolles Herz sich der Erleuchtung widmet.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_CHINA_NAME" Language="de_DE">
+      <Text>Taoismus</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_CHINA_DESCRIPTION" Language="de_DE">
+      <Text>Startet mit bereits gegründetem Taoismus. Diese Religion hat folgende Glaubenssätze:[NEWLINE][ICON_Bullet]Göttin des Flusses: +1 [ICON_Amenities] Annehmlichkeit für Städte mit einem Heilige-Stätte-Bezirk, der an einen Fluss angrenzt.[NEWLINE][ICON_Bullet]Weltenspeisung: Schreine und Tempel bringen [ICON_Food] Nahrung gleich ihrem [ICON_Faith] Glaubens-Ertrag.[NEWLINE][ICON_Bullet]Pagode: Ermöglicht den Bau von Pagoden (+3 [ICON_Faith] Glauben). Priester-Einheiten +1 Ketzerei entfernen und Guru +1 Heilungsladung. Freigeschaltet durch Druck.[NEWLINE][ICON_Bullet]Klosterisolation: Der Druck Eurer Religion nimmt durch verlorene theologische Kämpfe niemals ab.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_CHINA_NAME" Language="de_DE">
+      <Text>Ausrichtung</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_CHINA_DESCRIPTION" Language="de_DE">
+      <Text>Startet mit der Ausrichtung 'Frühes Reich'.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_CHOLA_NAME" Language="de_DE">
+      <Text>Shivaismus</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_CHOLA_DESCRIPTION" Language="de_DE">
+      <Text>Startet mit bereits gegründetem Shivaismus. Diese Religion hat folgende Glaubenssätze:[NEWLINE][ICON_Bullet]Heiliger Pfad: Heilige-Stätte-Bezirke erhalten +1 [ICON_Faith] Glauben durch benachbarte Regenwald-Geländefelder.[NEWLINE][ICON_Bullet]Linga: Gebäude im Handelszentrum und Hafenbezirk können mit [ICON_Faith] Glauben gekauft werden.[NEWLINE][ICON_Bullet]Verwalteramt: Hafen- oder Handelszentrum-Bezirke in einer Stadt mit dieser Religion bringen +1 [ICON_Faith] Glauben.[NEWLINE][ICON_Bullet]Yoga: Zivileinheiten können mit [ICON_Faith] Glauben gekauft werden.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_CHOLA_NAME" Language="de_DE">
+      <Text>Ausrichtung</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_CHOLA_DESCRIPTION" Language="de_DE">
+      <Text>Startet mit der Ausrichtung 'Astronomische Navigation'.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_GHAZNAVID_NAME" Language="de_DE">
+      <Text>Islam</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_GHAZNAVID_DESCRIPTION" Language="de_DE">
+      <Text>Startet mit bereits gegründetem Islam. Diese Religion hat folgende Glaubenssätze:[NEWLINE][ICON_Bullet]Wüsten-Folklore: Heilige-Stätte-Bezirke erhalten +1 [ICON_Faith] Glauben durch benachbarte Wüsten-Geländefelder.[NEWLINE][ICON_Bullet]Religiöse Gemeinschaft: Schreine und Tempel bringen je +1 [ICON_Housing] Wohnraum.[NEWLINE][ICON_Bullet]Moschee: Ermöglicht den Bau von Moscheen (+3 [ICON_Faith] Glauben). Missionare und Mönche haben +1 Verbreitung. Freigeschaltet durch Druck.[NEWLINE][ICON_Bullet]Pilgerschaft: +2 [ICON_Faith] Glauben für jede Stadt mit dieser Religion in anderen Zivilisationen und Stadtstaaten.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_GHAZNAVID_NAME" Language="de_DE">
+      <Text>Ausrichtungen</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_GHAZNAVID_DESCRIPTION" Language="de_DE">
+      <Text>Startet mit den Ausrichtungen "Astronomische Navigation", 'Währung' und 'Frühes Reich'.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_INDONESIA_NAME" Language="de_DE">
+      <Text>Hindu-Dharma</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_INDONESIA_DESCRIPTION" Language="de_DE">
+      <Text>Startet mit bereits gegründetem Hindu-Dharma. Diese Religion hat folgende Glaubenssätze:[NEWLINE][ICON_Bullet]Gott des Meeres: +1 [ICON_Production] Produktion durch Fischerboote.[NEWLINE][ICON_Bullet]Großer Nusantara: Küsten- und See-Geländefelder gewähren Heilige-Stätte-Bezirken einen kleinen Nachbarschaftsbonus.[NEWLINE][ICON_Bullet]Kampung: Eure Handwerker können jetzt Kampung-Modernisierungen durchführen. Freigeschaltet durch Gilden.[NEWLINE][ICON_Bullet]Wanderprediger: Religion breitet sich in Städte aus, die 30 % weiter entfernt sind.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_INDONESIA_NAME" Language="de_DE">
+      <Text>Ausrichtung</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_INDONESIA_DESCRIPTION" Language="de_DE">
+      <Text>Startet mit der Ausrichtung 'Astronomische Navigation'.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_KHMER_NAME" Language="de_DE">
+      <Text>Theravada-Buddhismus</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_KHMER_DESCRIPTION" Language="de_DE">
+      <Text>Startet mit bereits gegründetem Theravada-Buddhismus. Diese Religion hat folgende Glaubenssätze:[NEWLINE][ICON_Bullet]Steinkreise: +2 [ICON_Faith] Glauben und +2 [ICON_Production] Produktion durch Steinbrüche.[NEWLINE][ICON_Bullet]Dāna: Kornspeicher bringen jeweils +3 [ICON_FAITH] Glauben ein. +1 [ICON_Amenities] Annehmlichkeit für jede Stadt.[NEWLINE][ICON_Bullet]Wat: Ermöglicht den Bau von Wats (+3 [ICON_Faith] Glauben, +1 [ICON_Housing] Wohnraum). Freigeschaltet durch Druck.[NEWLINE][ICON_Bullet]Weltkirche: +1 [ICON_Culture] Kultur pro 5 Anhänger dieser Religion in anderen Zivilisationen.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_KHMER_NAME" Language="de_DE">
+      <Text>Ausrichtungen</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_KHMER_DESCRIPTION" Language="de_DE">
+      <Text>Startet mit den Ausrichtungen Frühes Reich, Maschinenbau und Mystik.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_PALA_NAME" Language="de_DE">
+      <Text>Mahayana-Buddhismus</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_PALA_DESCRIPTION" Language="de_DE">
+      <Text>Startet mit bereits gegründetem Mahayana-Buddhismus. Diese Religion hat folgende Glaubenssätze:[NEWLINE][ICON_Bullet]Göttin der Erde: +1 [ICON_Faith] Glauben von Geländefeldern mit der Anziehungskraft 'Bezaubernd' oder besser.[NEWLINE][ICON_Bullet]Arbeitsethik: +1 % [ICON_Production] Produktion pro Anhänger.[NEWLINE][ICON_Bullet]Mahayana-Stupa: Ermöglicht den Bau von Stupas (+3 [ICON_Faith] Glauben, +1 [ICON_Amenities] Annehmlichkeit). Freigeschaltet durch Druck.[NEWLINE][ICON_Bullet]Heiliger Orden: Der Kauf von Missionaren und Mönchen kostet 30 % weniger.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_PALA_NAME" Language="de_DE">
+      <Text>Ausrichtung</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_PALA_DESCRIPTION" Language="de_DE">
+      <Text>Startet mit der Ausrichtung 'Mystik'.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_TUFAN_NAME" Language="de_DE">
+      <Text>Vajrayana-Buddhismus</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_TUFAN_DESCRIPTION" Language="de_DE">
+      <Text>Startet mit bereits gegründetem Vajrayana-Buddhismus. Diese Religion hat folgende Glaubenssätze:[NEWLINE][ICON_Bullet]Gott des freien Himmels: +2 [ICON_FOOD] Nahrung von Weiden.[NEWLINE][ICON_Bullet]Zen-Meditation: +1 [ICON_Amenities] Annehmlichkeit in Städten mit 2 Spezialbezirken.[NEWLINE][ICON_Bullet]Vajrayana-Stupa: Ermöglicht den Bau von Stupas (+3 [ICON_Faith] Glauben, +1 [ICON_Amenities] Annehmlichkeit). Freigeschaltet durch Druck.[NEWLINE][ICON_Bullet]Missionarischer Eifer: Religiöse Einheiten ignorieren [ICON_Movement] Gelände- und Geländeart-Fortbewegungskosten.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_TUFAN_NAME" Language="de_DE">
+      <Text>Ausrichtung</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_TUFAN_DESCRIPTION" Language="de_DE">
+      <Text>Startet mit der Ausrichtung 'Mystik'.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_CHOLA_NAME" Language="it_IT">
+      <Text>Chola|dei Chola|ai Chola|i Chola|dai Chola</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_CHOLA_DESCRIPTION" Language="it_IT">
+      <Text>Impero Chola|dell'Impero Chola|all'Impero Chola|l'Impero Chola|dall'Impero Chola</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_CHOLA_ADJECTIVE" Language="it_IT">
+      <Text>Chola</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_GHAZNAVID_NAME" Language="it_IT">
+      <Text>Ghaznavidi|dei Ghaznavidi|ai Ghaznavidi|i Ghaznavidi|dai Ghaznavidi</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_GHAZNAVID_DESCRIPTION" Language="it_IT">
+      <Text>Impero Ghaznavide|dell'Impero Ghaznavide|all'Impero Ghaznavide|l'Impero Ghaznavide|dall'Impero Ghaznavide</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_GHAZNAVID_ADJECTIVE" Language="it_IT">
+      <Text>ghaznavide|ghaznavide|ghaznavidi|ghaznavidi</Text>
+      <Gender>masculine|feminine|masculine|feminine </Gender>
+      <Plurality>1|1|2|2 </Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_PALA_NAME" Language="it_IT">
+      <Text>Pala|dei Pala|ai Pala|i Pala|dai Pala</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_PALA_DESCRIPTION" Language="it_IT">
+      <Text>Impero Pala|dell'Impero Pala|all'Impero Pala|l'Impero Pala|dall'Impero Pala</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_PALA_ADJECTIVE" Language="it_IT">
+      <Text>di Pala|di Pala|di Pala|di Pala</Text>
+      <Gender>masculine|feminine|masculine|feminine </Gender>
+      <Plurality>1|1|2|2 </Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_TUFAN_NAME" Language="it_IT">
+      <Text>Tibet|del Tibet|al Tibet|il Tibet|dal Tibet</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_TUFAN_DESCRIPTION" Language="it_IT">
+      <Text>Impero tibetano|dell'Impero tibetano|all'Impero tibetano|l'Impero tibetano|dall'Impero tibetano</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_TUFAN_ADJECTIVE" Language="it_IT">
+      <Text>tibetano|tibetana|tibetani|tibetane</Text>
+      <Gender>masculine|feminine|masculine|feminine </Gender>
+      <Plurality>1|1|2|2 </Plurality>
+    </Replace>
+    <Replace Tag="LOC_INDONESIA_KHMER_SCENARIO_NAME" Language="it_IT">
+      <Text>Il cammino verso il Nirvana</Text>
+    </Replace>
+    <Replace Tag="LOC_INDONESIA_KHMER_SCENARIO_TOOLTIP" Language="it_IT">
+      <Text>Quale fede splenderà più di tutte in Asia? Durata: 50 turni.</Text>
+    </Replace>
+    <Replace Tag="LOC_INDONESIA_KHMER_SCENARIO_MAP_NAME" Language="it_IT">
+      <Text>Asia orientale</Text>
+    </Replace>
+    <Replace Tag="LOC_INDONESIA_KHMER_SCENARIO_MAP_DESCRIPTION" Language="it_IT">
+      <Text>Una rappresentazione dell'Asia orientale</Text>
+    </Replace>
+    <Replace Tag="LOC_INDONESIA_KHMER_SCENARIO_DESCRIPTION" Language="it_IT">
+      <Text>Molte religioni fioriscono nelle terre intorno all'Oceano Indiano, abitate da popoli diversi. Il cielo ti ha scelto affinché porti la luce in queste nazioni. La tua fede sarà abbastanza forte? Saprai convincere i popoli del sud-est asiatico ad abbracciare la tua religione?[NEWLINE][NEWLINE]In questo scenario della durata di 50 turni dovrai competere per avere più seguaci per la tua religione, più Fede per turno e il maggior numero di città straniere che seguono la tua religione.</Text>
+    </Replace>
+    <Replace Tag="LOC_VICTORY_INDONESIA_KHMER_SCENARIO_SCORE_DESCRIPTION" Language="it_IT">
+      <Text>Il Nirvana si raggiunge ottenendo il punteggio più alto quando scade il tempo.</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_INDONESIA_KHMER_SCENARIO" Language="it_IT">
+      <Text>Che la benedizione del cielo scenda su di te, monarca! In queste terre si praticano molte religioni, e molte fedi promettono la salvezza. Diffonderai le tue parole nel cuore dei cittadini, o le loro anime saranno traviate da altri? Lascia gli affari di stato agli amministratori, e rivolgi il tuo compassionevole cuore all'impresa di illuminare gli spiriti.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_CHINA_NAME" Language="it_IT">
+      <Text>Taoismo</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_CHINA_DESCRIPTION" Language="it_IT">
+      <Text>Inizia la partita avendo fondato la religione Taoismo, con le seguenti credenze:[NEWLINE][ICON_Bullet]Dea dei fiumi: +1 [ICON_Amenities] Attrattiva alle città che hanno un distretto Luogo Santo adiacente a un fiume.[NEWLINE][ICON_Bullet]Nutrire gli affamati: Santuari e Templi forniscono una quantità di [ICON_Food] Cibo pari alla loro produzione intrinseca di [ICON_Faith] Fede.[NEWLINE][ICON_Bullet]Pagoda: Permette la costruzione di Pagode (+3 [ICON_Faith] Fede). Le unità Prete hanno +1 Rimuovi eresia e le unità Guru +1 carica per curare. Sbloccata dalla tecnologia Tipografia.[NEWLINE][ICON_Bullet]Isolamento monastico: La tua pressione religiosa non diminuisce mai dopo una sconfitta in combattimento teologico.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_CHINA_NAME" Language="it_IT">
+      <Text>Progresso civico</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_CHINA_DESCRIPTION" Language="it_IT">
+      <Text>Inizia la partita con il Progresso civico Primo impero.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_CHOLA_NAME" Language="it_IT">
+      <Text>Shivaismo</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_CHOLA_DESCRIPTION" Language="it_IT">
+      <Text>Inizia la partita avendo fondato la religione Shivaismo, con le seguenti credenze:[NEWLINE][ICON_Bullet]Cammino sacro: I distretti Luogo Santo ottengono +1 [ICON_Faith] Fede dalle caselle di foresta pluviale adiacenti.[NEWLINE][ICON_Bullet]Lingam: Può acquistare edifici dei distretti Snodo commerciale e Porto in cambio di [ICON_Faith] Fede.[NEWLINE][ICON_Bullet]Castalderia: Ogni distretto Snodo commerciale o Porto in una città che segue questa religione fornisce +1 [ICON_FAITH] Fede.[NEWLINE][ICON_Bullet]Yoga: È possibile acquistare unità civili in cambio di [ICON_Faith] Fede.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_CHOLA_NAME" Language="it_IT">
+      <Text>Progresso civico</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_CHOLA_DESCRIPTION" Language="it_IT">
+      <Text>Inizia la partita con il Progresso civico Navigazione astronomica.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_GHAZNAVID_NAME" Language="it_IT">
+      <Text>Islam</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_GHAZNAVID_DESCRIPTION" Language="it_IT">
+      <Text>Inizia la partita avendo fondato la religione Islam, con le seguenti credenze:[NEWLINE][ICON_Bullet]Folklore del deserto: I distretti Luogo Santo ottengono +1 [ICON_Faith] Fede dalle caselle di deserto adiacenti.[NEWLINE][ICON_Bullet]Comunità religiosa: Santuari e Templi forniscono ciascuno +1 [ICON_Housing] Abitazioni.[NEWLINE][ICON_Bullet]Moschee: Permette la costruzione di Moschee (+3 [ICON_Faith] Fede). Missionari e Monaci hanno +1 diffusione della religione. Sbloccata dalla tecnologia Tipografia.[NEWLINE][ICON_Bullet]Pellegrinaggi: +2 [ICON_Faith] Fede per ogni città straniera (considerando le altre civiltà e le città-stato) che segue questa religione.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_GHAZNAVID_NAME" Language="it_IT">
+      <Text>Progressi civici</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_GHAZNAVID_DESCRIPTION" Language="it_IT">
+      <Text>Inizia la partita con i Progressi civici Navigazione astronomica, Valuta e Primo impero.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_INDONESIA_NAME" Language="it_IT">
+      <Text>Sanātana Dharma</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_INDONESIA_DESCRIPTION" Language="it_IT">
+      <Text>Inizia la partita avendo fondato la religione Sanātana Dharma, con le seguenti credenze:[NEWLINE][ICON_Bullet]Dio del mare: +1 [ICON_Production] Produzione dai Pescherecci.[NEWLINE][ICON_Bullet]Grande Nusantara: Le caselle di lago e di costa forniscono un bonus minore per la posizione ai distretti Luogo Santo.[NEWLINE][ICON_Bullet]Kampung: Ora i tuoi Costruttori possono creare miglioramenti Kampung. Sbloccata dal Progresso civico Gilde.[NEWLINE][ICON_Bullet]Predicatori Erranti: La religione si diffonde in città che si trovano a una distanza 30% maggiore.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_INDONESIA_NAME" Language="it_IT">
+      <Text>Progresso civico</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_INDONESIA_DESCRIPTION" Language="it_IT">
+      <Text>Inizia la partita con il Progresso civico Navigazione astronomica.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_KHMER_NAME" Language="it_IT">
+      <Text>Buddismo Theravada</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_KHMER_DESCRIPTION" Language="it_IT">
+      <Text>Inizia la partita avendo fondato la religione Buddismo Theravada, con le seguenti credenze:[NEWLINE][ICON_Bullet]Cerchi di pietre: +2 [ICON_Faith] Fede e +2 [ICON_Production] Produzione dalle cave.[NEWLINE][ICON_Bullet]Dāna: Ogni Granaio fornisce +3 [ICON_FAITH] Fede. +1 [ICON_Amenities] Attrattiva in ogni città.[NEWLINE][ICON_Bullet]Wat: Permette la costruzione di Wat (+3 [ICON_Faith] Fede, +1 [ICON_Housing] Abitazioni). Sbloccata dalla tecnologia Tipografia.[NEWLINE][ICON_Bullet]Chiesa mondiale: +1 [ICON_Culture] Cultura per ogni 5 seguaci di questa religione in altre civiltà.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_KHMER_NAME" Language="it_IT">
+      <Text>Progressi civici</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_KHMER_DESCRIPTION" Language="it_IT">
+      <Text>Inizia la partita con i Progressi civici Primo impero, Ingegneria e Misticismo.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_PALA_NAME" Language="it_IT">
+      <Text>Buddhismo Mahāyāna</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_PALA_DESCRIPTION" Language="it_IT">
+      <Text>Inizia la partita avendo fondato la religione Buddhismo Mahāyāna, con le seguenti credenze:[NEWLINE][ICON_Bullet]Dea della terra: +1 [ICON_Faith] Fede dalle caselle che hanno un Appeal Delizioso o superiore.[NEWLINE][ICON_Bullet]Etica del lavoro: +1% [ICON_Production] Produzione per ogni seguace.[NEWLINE][ICON_Bullet]Stupa Mahāyāna: Permette la costruzione di Stupa (+3 [ICON_Faith] Fede, +1 [ICON_Amenities] Attrattiva). Sbloccata dalla tecnologia Tipografia.[NEWLINE][ICON_Bullet]Ordine sacro: L'acquisto di Missionari e Monaci costa il 30% in meno.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_PALA_NAME" Language="it_IT">
+      <Text>Progresso civico</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_PALA_DESCRIPTION" Language="it_IT">
+      <Text>Inizia la partita con il Progresso civico Misticismo.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_TUFAN_NAME" Language="it_IT">
+      <Text>Buddhismo Vajrayāna</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_TUFAN_DESCRIPTION" Language="it_IT">
+      <Text>Inizia la partita avendo fondato la religione Buddhismo Vajrayāna, con le seguenti credenze:[NEWLINE][ICON_Bullet]Dio del cielo: +2 [ICON_FOOD] Cibo dai Pascoli.[NEWLINE][ICON_Bullet]Meditazione zen: +1 [ICON_Amenities] Attrattiva nelle città che hanno 2 distretti specializzati.[NEWLINE][ICON_Bullet]Stupa Vajrayāna: Permette la costruzione di Stupa (+3 [ICON_Faith] Fede, +1 [ICON_Amenities] Attrattiva). Sbloccata dalla tecnologia Tipografia.[NEWLINE][ICON_Bullet]Zelo missionario: Le unità religiose ignorano i costi di [ICON_Movement] movimento dei terreni e delle relative caratteristiche.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_TUFAN_NAME" Language="it_IT">
+      <Text>Progresso civico</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_TUFAN_DESCRIPTION" Language="it_IT">
+      <Text>Inizia la partita con il Progresso civico Misticismo.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_CHOLA_NAME" Language="ja_JP">
+      <Text>チョーラ</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_CHOLA_DESCRIPTION" Language="ja_JP">
+      <Text>チョーラ帝国</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_CHOLA_ADJECTIVE" Language="ja_JP">
+      <Text>チョーラの</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_GHAZNAVID_NAME" Language="ja_JP">
+      <Text>ガズナ</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_GHAZNAVID_DESCRIPTION" Language="ja_JP">
+      <Text>ガズナ帝国</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_GHAZNAVID_ADJECTIVE" Language="ja_JP">
+      <Text>ガズナ帝国の</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_PALA_NAME" Language="ja_JP">
+      <Text>パーラ</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_PALA_DESCRIPTION" Language="ja_JP">
+      <Text>パーラ帝国</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_PALA_ADJECTIVE" Language="ja_JP">
+      <Text>パーラの</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_TUFAN_NAME" Language="ja_JP">
+      <Text>吐蕃</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_TUFAN_DESCRIPTION" Language="ja_JP">
+      <Text>吐蕃帝国</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_TUFAN_ADJECTIVE" Language="ja_JP">
+      <Text>吐蕃の</Text>
+    </Replace>
+    <Replace Tag="LOC_INDONESIA_KHMER_SCENARIO_NAME" Language="ja_JP">
+      <Text>涅槃への道</Text>
+    </Replace>
+    <Replace Tag="LOC_INDONESIA_KHMER_SCENARIO_TOOLTIP" Language="ja_JP">
+      <Text>アジアでもっとも眩い光を放つことになるのは、はたしてどの信仰でしょう？ 50ターンで終了します。</Text>
+    </Replace>
+    <Replace Tag="LOC_INDONESIA_KHMER_SCENARIO_MAP_NAME" Language="ja_JP">
+      <Text>東アジア</Text>
+    </Replace>
+    <Replace Tag="LOC_INDONESIA_KHMER_SCENARIO_MAP_DESCRIPTION" Language="ja_JP">
+      <Text>東南アジアを再現したシナリオです。</Text>
+    </Replace>
+    <Replace Tag="LOC_INDONESIA_KHMER_SCENARIO_DESCRIPTION" Language="ja_JP">
+      <Text>多くの宗教と多くの人々で栄えるインド洋周辺地域。この地を明るく照らすべく、天はあなたを遣わしました。あなたの信仰は苦難に打ち勝つことができるでしょうか？東南アジアの人々をあなたの宗教に改宗するよう説得できるでしょうか？[NEWLINE][NEWLINE]この50ターンのシナリオでは、最も多くの [ICON_Religion] 宗教の信者と、ターン毎の [ICON_FAITH] 信仰力、そしてより多くの外国都市があなたの [ICON_Religion] 宗教を信仰することを目指して競います。</Text>
+    </Replace>
+    <Replace Tag="LOC_VICTORY_INDONESIA_KHMER_SCENARIO_SCORE_DESCRIPTION" Language="ja_JP">
+      <Text>時間切れになった時点で最高スコアを獲得していると涅槃に至れる。</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_INDONESIA_KHMER_SCENARIO" Language="ja_JP">
+      <Text>貴方に天の祝福があらんことを！ この地にはあまたの宗教が根づき、いくつもの教えが救いを約束している。貴方の言葉は民の心に届くだろうか？ それとも、彼らは他の教えを善しとするのだろうか？ 国事は役人に任せよ。貴方の憐れみ深い心は、民の心に光をもたらすことにこそ向けられるべきなのだ。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_CHINA_NAME" Language="ja_JP">
+      <Text>道教</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_CHINA_DESCRIPTION" Language="ja_JP">
+      <Text>道教が創始された状態で開始。この宗教には下記の信仰があります。[NEWLINE][ICON_Bullet] 川の女神: 川に隣接した聖地区域を持つ都市の [ICON_Amenities] 快適性+1。[NEWLINE][ICON_Bullet] この世界に糧を: 社と神殿が持っている [ICON_Faith] 信仰力と同等の [ICON_Food] 食料を供給する。[NEWLINE][ICON_Bullet] パゴダ: パゴダが建設可能になる ([ICON_Faith] 信仰力+3)。僧侶ユニットの「異端を排除」とグルの回復力+1。印刷によって解除される。[NEWLINE][ICON_Bullet] 修道院の隔離: 神学戦争で敗北しても宗教的圧力が低下しない。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_CHINA_NAME" Language="ja_JP">
+      <Text>社会制度</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_CHINA_DESCRIPTION" Language="ja_JP">
+      <Text>社会制度「古代の帝国」がある状態でスタートする。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_CHOLA_NAME" Language="ja_JP">
+      <Text>シヴァ派</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_CHOLA_DESCRIPTION" Language="ja_JP">
+      <Text>シヴァ派が創始された状態で開始。この宗教には下記の信仰があります。[NEWLINE][ICON_Bullet] 聖なる道: 聖地区域は隣接する熱帯雨林タイルから [ICON_Faith] 信仰力+1を得る。[NEWLINE][ICON_Bullet] リンガ: [ICON_Faith] 信仰力を使って商業ハブと港区域の建造物を購入できる。[NEWLINE][ICON_Bullet] 管理運用: この宗教を信奉する都市に商業ハブか港区域が存在すると、それぞれ [ICON_Faith] 信仰力+1。[NEWLINE][ICON_Bullet] ヨガ: [ICON_Faith] 信仰力を消費して民間人ユニットを購入できる。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_CHOLA_NAME" Language="ja_JP">
+      <Text>社会制度</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_CHOLA_DESCRIPTION" Language="ja_JP">
+      <Text>社会制度「天文航法」がある状態でスタートする。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_GHAZNAVID_NAME" Language="ja_JP">
+      <Text>イスラム教</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_GHAZNAVID_DESCRIPTION" Language="ja_JP">
+      <Text>イスラム教が創始された状態で開始。この宗教には下記の信仰があります。[NEWLINE][ICON_Bullet] 砂漠の言い伝え: 聖地区域は隣接する砂漠タイルから [ICON_Faith] 信仰力+1。[NEWLINE][ICON_Bullet] 宗教共同体: 社と神殿1つごとに [ICON_Housing] 住宅+1。[NEWLINE][ICON_Bullet] モスク: モスクが建設可能になる ([ICON_Faith] 信仰力+3)。伝道師ユニットと修行僧ユニットの布教力+1。印刷によって解除される。[NEWLINE][ICON_Bullet] 巡礼: この宗教を信奉する他文明と都市国家の都市1つにつき [ICON_Faith] 信仰力+2。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_GHAZNAVID_NAME" Language="ja_JP">
+      <Text>社会制度</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_GHAZNAVID_DESCRIPTION" Language="ja_JP">
+      <Text>社会制度「天文航法」、「通貨」、「古代の帝国」がある状態でスタートする。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_INDONESIA_NAME" Language="ja_JP">
+      <Text>ヒンドゥー・ダルマ</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_INDONESIA_DESCRIPTION" Language="ja_JP">
+      <Text>ヒンドゥー・ダルマが創始された状態で開始。この宗教には下記の信仰があります。[NEWLINE][ICON_Bullet] 海の神: 漁船による [ICON_Production] 生産力+1。[NEWLINE][ICON_Bullet] 大ヌサンタラ: 沿岸/湖タイルに隣接する聖地は若干の隣接ボーナスを得る。[NEWLINE][ICON_Bullet] カンプン: 労働者はカンプンを建設できる。ギルドによって解除される。[NEWLINE][ICON_Bullet] 巡回説教師: 宗教の都市への影響範囲が30%拡大する。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_INDONESIA_NAME" Language="ja_JP">
+      <Text>社会制度</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_INDONESIA_DESCRIPTION" Language="ja_JP">
+      <Text>社会制度「天文航法」がある状態でスタートする。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_KHMER_NAME" Language="ja_JP">
+      <Text>上座部仏教</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_KHMER_DESCRIPTION" Language="ja_JP">
+      <Text>上座部仏教が創始された状態で開始。この宗教には下記の信仰があります。[NEWLINE][ICON_Bullet] 環状列石: 採石場の [ICON_Faith] 信仰力+2、 [ICON_Production] 生産力+2。[NEWLINE][ICON_Bullet] ダーナ: 穀物庫1つにつき [ICON_FAITH] 信仰力+3。各都市の [ICON_Amenities] 快適性+1。[NEWLINE][ICON_Bullet] ワット: ワットが建設可能になる ([ICON_Faith] 信仰力+3、 [ICON_Housing] 住宅+1)。印刷によって解除される。[NEWLINE][ICON_Bullet] 世界教会運動: 他の文明にいるこの宗教の信者5人ごとに [ICON_Culture] 文化力+1。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_KHMER_NAME" Language="ja_JP">
+      <Text>社会制度</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_KHMER_DESCRIPTION" Language="ja_JP">
+      <Text>社会制度「古代の帝国」、「工学」、「神秘主義」がある状態でスタートする。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_PALA_NAME" Language="ja_JP">
+      <Text>大乗仏教</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_PALA_DESCRIPTION" Language="ja_JP">
+      <Text>大乗仏教が創始された状態で開始。この宗教には下記の信仰があります。[NEWLINE][ICON_Bullet] 大地の女神: アピールが「素敵」以上のタイルから [ICON_Faith] 信仰力+1。[NEWLINE][ICON_Bullet] 労働倫理: 信者1人につき [ICON_Production] 生産力+1%。[NEWLINE][ICON_Bullet] 大乗仏教の仏塔: 仏塔が建設可能になる ([ICON_Faith] 信仰力+3、 [ICON_Amenities] 快適性+1)。印刷によって解除される。[NEWLINE][ICON_Bullet] 聖職: 伝道師と修行僧の購入コストが30%下がる。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_PALA_NAME" Language="ja_JP">
+      <Text>社会制度</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_PALA_DESCRIPTION" Language="ja_JP">
+      <Text>社会制度「神秘主義」がある状態でスタートする。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_TUFAN_NAME" Language="ja_JP">
+      <Text>密教</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_TUFAN_DESCRIPTION" Language="ja_JP">
+      <Text>密教が創始された状態で開始。この宗教には下記の信仰があります。[NEWLINE][ICON_Bullet] 蒼天の神: 牧草地による [ICON_FOOD] 食料+2。[NEWLINE][ICON_Bullet] 禅: 2つの専門区域を持つ都市の [ICON_Amenities] 快適性+1。[NEWLINE][ICON_Bullet] 密教の仏塔: 仏塔が建設可能になる ([ICON_Faith] 信仰力+3、 [ICON_Amenities] 快適性+1)。印刷によって解除される。[NEWLINE][ICON_Bullet] 布教の情熱: 宗教ユニットが地形や特徴によって [ICON_Movement] 移動を妨げられなくなる。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_TUFAN_NAME" Language="ja_JP">
+      <Text>社会制度</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_TUFAN_DESCRIPTION" Language="ja_JP">
+      <Text>社会制度「神秘主義」がある状態でスタートする。</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_CHOLA_NAME" Language="ko_KR">
+      <Text>촐라</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_CHOLA_DESCRIPTION" Language="ko_KR">
+      <Text>촐라 제국</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_CHOLA_ADJECTIVE" Language="ko_KR">
+      <Text>촐라의</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_GHAZNAVID_NAME" Language="ko_KR">
+      <Text>가즈나</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_GHAZNAVID_DESCRIPTION" Language="ko_KR">
+      <Text>가즈나 제국</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_GHAZNAVID_ADJECTIVE" Language="ko_KR">
+      <Text>가즈나의</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_PALA_NAME" Language="ko_KR">
+      <Text>팔라</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_PALA_DESCRIPTION" Language="ko_KR">
+      <Text>팔라 제국</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_PALA_ADJECTIVE" Language="ko_KR">
+      <Text>팔라의</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_TUFAN_NAME" Language="ko_KR">
+      <Text>토번</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_TUFAN_DESCRIPTION" Language="ko_KR">
+      <Text>토번 제국</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_TUFAN_ADJECTIVE" Language="ko_KR">
+      <Text>토번의</Text>
+    </Replace>
+    <Replace Tag="LOC_INDONESIA_KHMER_SCENARIO_NAME" Language="ko_KR">
+      <Text>열반에 이르는 길</Text>
+    </Replace>
+    <Replace Tag="LOC_INDONESIA_KHMER_SCENARIO_TOOLTIP" Language="ko_KR">
+      <Text>어떤 종교가 아시아에서 가장 밝게 빛날까요?</Text>
+    </Replace>
+    <Replace Tag="LOC_INDONESIA_KHMER_SCENARIO_MAP_NAME" Language="ko_KR">
+      <Text>동아시아</Text>
+    </Replace>
+    <Replace Tag="LOC_INDONESIA_KHMER_SCENARIO_MAP_DESCRIPTION" Language="ko_KR">
+      <Text>동아시아를 표현한 시나리오</Text>
+    </Replace>
+    <Replace Tag="LOC_INDONESIA_KHMER_SCENARIO_DESCRIPTION" Language="ko_KR">
+      <Text>인도양 주변의 땅은 다수의 종교와 사람들로 번영을 누리고 있습니다. 하늘은 당신이 이러한 모든 땅에 빛을 안기도록 선택했습니다. 이 도전을 받아들일 만한 신앙심이 있으신가요? 동남아시아의 백성들이 당신의 종교를 따르도록 설득할 수 있나요?[NEWLINE][NEWLINE]이 50턴 제한 시나리오에서는 당신의 종교에 가장 많은 신자를 보유하고 턴당 가장 많은 신앙을 획득하며 가장 많은 타 문명 도시가 당신의 종교를 따르게 하도록 경쟁하십시오.</Text>
+    </Replace>
+    <Replace Tag="LOC_VICTORY_INDONESIA_KHMER_SCENARIO_SCORE_DESCRIPTION" Language="ko_KR">
+      <Text>열반은 시간제한 이후 가장 높은 점수를 달성하여 도달할 수 있습니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_INDONESIA_KHMER_SCENARIO" Language="ko_KR">
+      <Text>통치자 시여, 하늘의 축복이 그대에게 있을지어다! 이 땅에는 여러 종교가 있고, 여러 신앙이 구원을 약속합니다. 당신의 신앙을 군중에게 퍼뜨리겠습니까? 아니면 그들은 다른 신앙을 따르게 될까요? 국가의 운영은 행정가들에게 맡기십시오. 당신의 자애로움으로 백성들에게 깨달음을 전파할 때가 왔습니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_CHINA_NAME" Language="ko_KR">
+      <Text>도교</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_CHINA_DESCRIPTION" Language="ko_KR">
+      <Text>도교가 창시된 상태에서 시작합니다. 해당 종교에 포함된 교리:[NEWLINE][ICON_Bullet]강의 여신: 강에 인접한 성지 특수지구가 있는 도시에 [ICON_Amenities] 쾌적도 +1을 제공합니다. [NEWLINE][ICON_Bullet]기아 대책: 성소와 사원은 고유 [ICON_Faith] 신앙 생산량만큼 [ICON_Food] 식량을 제공합니다.[NEWLINE][ICON_Bullet]파고다: 파고다( [ICON_Faith] 신앙 +3)를 건설할 수 있습니다. 사제 유닛이 이단 제거 횟수 +1, 구루는 회복 횟수 +1을 획득합니다. 인쇄술로 잠금 해제됩니다.[NEWLINE][ICON_Bullet]수도원 격리: 신학 전투에 패배하더라도 플레이어 종교의 영향력이 낮아지지 않습니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_CHINA_NAME" Language="ko_KR">
+      <Text>사회 제도</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_CHINA_DESCRIPTION" Language="ko_KR">
+      <Text>초기 제국 사회 제도로 시작합니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_CHOLA_NAME" Language="ko_KR">
+      <Text>시바교</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_CHOLA_DESCRIPTION" Language="ko_KR">
+      <Text>시바교가 창시된 상태에서 시작합니다. 해당 종교에 포함된 교리:[NEWLINE][ICON_Bullet]신성한 길: 성지 특수지구가 인접한 열대우림 타일에서 [ICON_Faith] 신앙 +1을 획득합니다.[NEWLINE][ICON_Bullet]링가: [ICON_Faith] 신앙으로 상업 중심지와 항만 특수지구 건물을 구매할 수 있습니다.[NEWLINE][ICON_Bullet]의무금: 이 종교를 따르는 각 상업 중심지 또는 항만 특수지구가 [ICON_FAITH] 신앙 +1을 제공합니다.[NEWLINE][ICON_Bullet]요가: 민간 유닛을 [ICON_Faith] 신앙으로 구매할 수 있습니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_CHOLA_NAME" Language="ko_KR">
+      <Text>사회 제도</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_CHOLA_DESCRIPTION" Language="ko_KR">
+      <Text>천문 항법 사회 제도로 시작합니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_GHAZNAVID_NAME" Language="ko_KR">
+      <Text>이슬람교</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_GHAZNAVID_DESCRIPTION" Language="ko_KR">
+      <Text>이슬람교가 창시된 상태에서 시작합니다. 해당 종교에 포함된 교리:[NEWLINE][ICON_Bullet]사막의 전설: 사막 타일과 인접한 성지 특수지구가 [ICON_Faith] 신앙 +1을 획득합니다.[NEWLINE][ICON_Bullet]종교 공동체: 각 성소와 사원에서 [ICON_Housing] 주거공간 +1을 제공합니다.[NEWLINE][ICON_Bullet]모스크: 모스크( [ICON_Faith] 신앙 +3 )를 건설할 수 있습니다. 선교사 및 수도승 유닛이 종교 전파 횟수 +1을 획득합니다. 인쇄술로 잠금 해제됩니다.[NEWLINE][ICON_Bullet]성지순례: 다른 문명 및 도시 국가에서 이 종교를 믿는 도시마다 [ICON_Faith] 신앙 +2를 획득합니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_GHAZNAVID_NAME" Language="ko_KR">
+      <Text>사회 제도</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_GHAZNAVID_DESCRIPTION" Language="ko_KR">
+      <Text>천문 항법, 화폐 및 초기 제국 사회 제도로 시작합니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_INDONESIA_NAME" Language="ko_KR">
+      <Text>힌두 다르마</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_INDONESIA_DESCRIPTION" Language="ko_KR">
+      <Text>힌두 다르마가 창시된 상태에서 시작합니다. 해당 종교에 포함된 교리:[NEWLINE][ICON_Bullet]바다의 신: 어선에서 [ICON_Production] 생산력 +1을 제공합니다.[NEWLINE][ICON_Bullet]위대한 누산타라: 해안 및 호수 타일이 성지 특수지구에 약간의 인접 보너스를 제공합니다. [NEWLINE][ICON_Bullet]캄풍: 이제 건설자가 캄풍 시설을 건설할 수 있습니다. 길드로 잠금 해제됩니다.[NEWLINE][ICON_Bullet]순회 전도사: 종교의 전파 거리가 30% 증가됩니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_INDONESIA_NAME" Language="ko_KR">
+      <Text>사회 제도</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_INDONESIA_DESCRIPTION" Language="ko_KR">
+      <Text>천문 항법 사회 제도로 시작합니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_KHMER_NAME" Language="ko_KR">
+      <Text>소승불교</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_KHMER_DESCRIPTION" Language="ko_KR">
+      <Text>소승불교가 창시된 상태에서 시작합니다. 해당 종교에 포함된 교리:[NEWLINE][ICON_Bullet]환상열석: 채석장에서 [ICON_Faith] 신앙 +2 및 [ICON_Production] 생산력 +2를 제공합니다.[NEWLINE][ICON_Bullet]다나: 각 곡창이 [ICON_FAITH] 신앙 +3을 제공합니다. 각 도시에 [ICON_Amenities] 쾌적도 +1을 제공합니다.[NEWLINE][ICON_Bullet]와트: 와트( [ICON_Faith] 신앙 +3, [ICON_Housing] 주거공간 +1)를 건설할 수 있습니다. 인쇄술로 잠금 해제됩니다.[NEWLINE][ICON_Bullet]초교파교회: 다른 문명에서 이 종교를 따르는 신자 5명마다 [ICON_Culture] 문화 +1을 제공합니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_KHMER_NAME" Language="ko_KR">
+      <Text>사회 제도</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_KHMER_DESCRIPTION" Language="ko_KR">
+      <Text>초기 제국, 공학 및 신비주의 사회 제도로 시작합니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_PALA_NAME" Language="ko_KR">
+      <Text>대승불교</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_PALA_DESCRIPTION" Language="ko_KR">
+      <Text>대승불교가 창시된 상태에서 시작합니다. 해당 종교에 포함된 교리:[NEWLINE][ICON_Bullet]대지의 여신: 멋진 매력도 또는 더 높은 매력도를 가진 타일에서 [ICON_Faith] 신앙 +1을 제공합니다.[NEWLINE][ICON_Bullet]직업윤리: 각 신도당 [ICON_Production] 생산력 +1%를 제공합니다.[NEWLINE][ICON_Bullet]대승불교 사리탑: 사리탑( [ICON_Faith] 신앙 +3, [ICON_Amenities] 쾌적도 +1)을 건설할 수 있습니다. 인쇄술로 잠금 해제됩니다.[NEWLINE][ICON_Bullet]상급 성직자: 선교사 및 수도승의 구매 비용이 30% 감소합니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_PALA_NAME" Language="ko_KR">
+      <Text>사회 제도</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_PALA_DESCRIPTION" Language="ko_KR">
+      <Text>신비주의 사회 제도로 시작합니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_TUFAN_NAME" Language="ko_KR">
+      <Text>밀교</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_TUFAN_DESCRIPTION" Language="ko_KR">
+      <Text>밀교가 창시된 상태에서 시작합니다. 해당 종교에 포함된 교리:[NEWLINE][ICON_Bullet]창공의 신: 목장에서 [ICON_FOOD] 식량 +2를 제공합니다.[NEWLINE][ICON_Bullet]참선: 전문 특수지구를 2개 보유한 도시에 [ICON_Amenities] 쾌적도 +1을 제공합니다.[NEWLINE][ICON_Bullet]밀교 사리탑: 사리탑( [ICON_Faith] 신앙 +3, [ICON_Amenities] 쾌적도 +1)을 건설할 수 있습니다. 인쇄술로 잠금 해제됩니다.[NEWLINE][ICON_Bullet]선교 열정: 종교 유닛은 지형과 지형 특성의 [ICON_Movement] 이동 비용을 무시합니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_TUFAN_NAME" Language="ko_KR">
+      <Text>사회 제도</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_TUFAN_DESCRIPTION" Language="ko_KR">
+      <Text>신비주의 사회 제도로 시작합니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_CHOLA_NAME" Language="pl_PL">
+      <Text>Ćola</Text>
+      <Gender>neuter</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_CHOLA_DESCRIPTION" Language="pl_PL">
+      <Text>Imperium Ćola</Text>
+      <Gender>neuter</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_CHOLA_ADJECTIVE" Language="pl_PL">
+      <Text>Ćolski|Ćolska|Ćolscy|Ćolskie|Ćolsk|ćolski|ćolska|ćolscy|ćolskie|ćolsk|ćolskich</Text>
+      <Gender>masculine|feminine|masculine|feminine|neuter|masculine|feminine|masculine|feminine|neuter|masculine</Gender>
+      <Plurality>1|1|2|2|1|1|1|2|2|1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_GHAZNAVID_NAME" Language="pl_PL">
+      <Text>Ghaznawidzi|Ghaznawidów|Ghaznawidach|Ghaznawidów|Ghaznawidami|Ghaznawidach|Ghaznawidzi|Ghaznawidów|Ghaznawidach|Ghaznawidów|Ghaznawidami|Ghaznawidach</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_GHAZNAVID_DESCRIPTION" Language="pl_PL">
+      <Text>Imperium Ghaznawidów</Text>
+      <Gender>neuter</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_GHAZNAVID_ADJECTIVE" Language="pl_PL">
+      <Text>Ghaznawidzki|Ghaznawidzka|Ghaznawidzcy|Ghaznawidzkie|Ghaznawidzk|ghaznawidzki|ghaznawidzka|ghaznawidzcy|ghaznawidzkie|ghaznawidzk|ghaznawidzkich</Text>
+      <Gender>masculine|feminine|masculine|feminine|neuter|masculine|feminine|masculine|feminine|neuter|masculine</Gender>
+      <Plurality>1|1|2|2|1|1|1|2|2|1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_PALA_NAME" Language="pl_PL">
+      <Text>Pala|Pali|Pali|Palę|Palą|Pali|Pala|Pali|Pali|Palę|Palą|Pali</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_PALA_DESCRIPTION" Language="pl_PL">
+      <Text>Imperium Pala</Text>
+      <Gender>neuter</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_PALA_ADJECTIVE" Language="pl_PL">
+      <Text>Palijski|Palijska|Palijscy|Palijskie|Palijsk|palijski|palijska|palijscy|palijskie|palijsk|palijskich</Text>
+      <Gender>masculine|feminine|masculine|feminine|neuter|masculine|feminine|masculine|feminine|neuter|masculine</Gender>
+      <Plurality>1|1|2|2|1|1|1|2|2|1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_TUFAN_NAME" Language="pl_PL">
+      <Text>Tufan|Tufanu|Tufanowi|Tufan|Tufanem|Tufanie|Tufan|Tufanu|Tufanowi|Tufan|Tufanem|Tufanie</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_TUFAN_DESCRIPTION" Language="pl_PL">
+      <Text>Imperium Tufan</Text>
+      <Gender>neuter</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_TUFAN_ADJECTIVE" Language="pl_PL">
+      <Text>Tufański|Tufańska|Tufańscy|Tufańskie|Tufańsk|tufański|tufańska|tufańscy|tufańskie|tufańsk|tufańskich</Text>
+      <Gender>masculine|feminine|masculine|feminine|neuter|masculine|feminine|masculine|feminine|neuter|masculine</Gender>
+      <Plurality>1|1|2|2|1|1|1|2|2|1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_INDONESIA_KHMER_SCENARIO_NAME" Language="pl_PL">
+      <Text>Droga do nirwany</Text>
+    </Replace>
+    <Replace Tag="LOC_INDONESIA_KHMER_SCENARIO_TOOLTIP" Language="pl_PL">
+      <Text>Która religia zdobędzie prymat nad Azją? Trwa 50 tur.</Text>
+    </Replace>
+    <Replace Tag="LOC_INDONESIA_KHMER_SCENARIO_MAP_NAME" Language="pl_PL">
+      <Text>Azja Wschodnia</Text>
+    </Replace>
+    <Replace Tag="LOC_INDONESIA_KHMER_SCENARIO_MAP_DESCRIPTION" Language="pl_PL">
+      <Text>Wykorzystywana w scenariuszu reprezentacja Azji Wschodniej.</Text>
+    </Replace>
+    <Replace Tag="LOC_INDONESIA_KHMER_SCENARIO_DESCRIPTION" Language="pl_PL">
+      <Text>Na ziemiach wokół Oceanu Indyjskiego kwitną miriady wierzeń oraz ludów. Niebiosa wyznaczyły ci misję oświecenia tej krainy. Czy twa wiara okaże się wystarczająca, by poradzić sobie z tym wyzwaniem? Czy zdołasz skłonić narody Azji Południowo-Wschodniej do przyjęcia twej religii?[NEWLINE][NEWLINE]Podczas tego trwającego 50 tur scenariusza stań do walki o największą liczbę wyznawców, największą ilość [ICON_FAITH] wiary na turę oraz największą liczbę obcych miast opanowanych przez twoją [ICON_Religion] religię.</Text>
+    </Replace>
+    <Replace Tag="LOC_VICTORY_INDONESIA_KHMER_SCENARIO_SCORE_DESCRIPTION" Language="pl_PL">
+      <Text>Osiągnięcie nirwany wymaga zdobycia najwyższego wyniku w określonym limicie czasowym.</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_INDONESIA_KHMER_SCENARIO" Language="pl_PL">
+      <Text>Niech spłyną na ciebie niebiańskie błogosławieństwa! Ziemie te są domem licznych religii, wśród których wiele obiecuje zbawienie. Czy sprawisz, że twoje słowa trafią do serc ludu? A może pozwolisz, by inne religie zagarnęły dusze poddanych? Pozostaw sprawy państwa zarządcom i włóż całe swe współczujące serce w zbożne dzieło oświecenia.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_CHINA_NAME" Language="pl_PL">
+      <Text>Taoizm</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_CHINA_DESCRIPTION" Language="pl_PL">
+      <Text>Rozpoczynają z istniejącą religią taoizmu charakteryzującą się następującymi wierzeniami:[NEWLINE][ICON_Bullet]Bogini rzeki: +1 [ICON_Amenities] udogodnienie dla miast mających dzielnicę świątynną sąsiadującą z rzeką.[NEWLINE][ICON_Bullet]Nakarmienie świata: kaplice i świątynie zapewniają [ICON_Food] żywność w ilości równej produkowanej przez nie [ICON_Faith] wiary.[NEWLINE][ICON_Bullet]Pagoda: możliwość budowy pagód (+3 do [ICON_Faith] wiary). Kapłani otrzymują premię +1 do usuwania herezji, guru zaś +1 punkt potencjału leczniczego. Dostępność po opracowaniu technologii druku.[NEWLINE][ICON_Bullet]Odosobnienie klasztorne: nacisk twojej religii nigdy nie spada w wyniku strat w walce teologicznej.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_CHINA_NAME" Language="pl_PL">
+      <Text>Idea</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_CHINA_DESCRIPTION" Language="pl_PL">
+      <Text>Rozpoczynają z ideą wczesnego imperium.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_CHOLA_NAME" Language="pl_PL">
+      <Text>Śiwaizm</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_CHOLA_DESCRIPTION" Language="pl_PL">
+      <Text>Rozpoczyna z istniejącą religią śiwaizmu charakteryzującą się następującymi wierzeniami:[NEWLINE][ICON_Bullet]Święta droga: dzielnice świątynne otrzymują +1 do [ICON_Faith] wiary z sąsiednich pól z lasem deszczowym.[NEWLINE][ICON_Bullet]Linga: możliwość kupowania za [ICON_Faith] wiarę budowli w ośrodkach biznesowych i dzielnicach portowych.[NEWLINE][ICON_Bullet]Zarządzanie: każda dzielnica biznesowa lub portowa w mieście wyznającym tę religię zapewnia +1 do [ICON_Faith] wiary.[NEWLINE][ICON_Bullet]Joga: możliwość zakupu jednostek cywilnych za [ICON_Faith] wiarę.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_CHOLA_NAME" Language="pl_PL">
+      <Text>Idea</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_CHOLA_DESCRIPTION" Language="pl_PL">
+      <Text>Rozpoczyna z ideą astronawigacji.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_GHAZNAVID_NAME" Language="pl_PL">
+      <Text>Islam</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_GHAZNAVID_DESCRIPTION" Language="pl_PL">
+      <Text>Rozpoczyna z istniejącą religią islamu charakteryzującą się następującymi wierzeniami:[NEWLINE][ICON_Bullet]Folklor pustynny: dzielnice świątynne otrzymują +1 do [ICON_Faith] wiary z sąsiednich pól z pustynią.[NEWLINE][ICON_Bullet]Społeczność religijna: kaplice i świątynie zapewniają +1 [ICON_Housing] obszar mieszkalny.[NEWLINE][ICON_Bullet]Meczet: możliwość budowy meczetów (+3 do [ICON_Faith] wiary). Misjonarze i mnisi otrzymują premię +1 do szerzenia religii. Dostępność po opracowaniu technologii druku.[NEWLINE][ICON_Bullet]Pielgrzymka: +2 do [ICON_Faith] wiary za każde miasto-państwo i miasto innych cywilizacji wyznające tę religię.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_GHAZNAVID_NAME" Language="pl_PL">
+      <Text>Idee</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_GHAZNAVID_DESCRIPTION" Language="pl_PL">
+      <Text>Rozpoczyna z ideami astronawigacji, waluty oraz wczesnego imperium.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_INDONESIA_NAME" Language="pl_PL">
+      <Text>Hinduizm dharma</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_INDONESIA_DESCRIPTION" Language="pl_PL">
+      <Text>Rozpoczyna z istniejącą hinduistyczną religią dharmy charakteryzującą się następującymi wierzeniami:[NEWLINE][ICON_Bullet]Bóg morza: +1 do [ICON_Production] produkcji dzięki łodziom rybackim.[NEWLINE][ICON_Bullet]Wielka Nusantara: pola wybrzeża i jeziora zapewniają niewielką premię za sąsiedztwo dzielnicom świątynnym.[NEWLINE][ICON_Bullet]Kampung: twoi budowniczowie mogą budować teraz ulepszenie – kampung. Dostępność po opracowaniu technologii gildii.[NEWLINE][ICON_Bullet]Wędrowni kaznodzieje: religia rozprzestrzenia się do miast w odległości o 30% większej.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_INDONESIA_NAME" Language="pl_PL">
+      <Text>Idea</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_INDONESIA_DESCRIPTION" Language="pl_PL">
+      <Text>Rozpoczyna z ideą astronawigacji.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_KHMER_NAME" Language="pl_PL">
+      <Text>Buddyzm therawada</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_KHMER_DESCRIPTION" Language="pl_PL">
+      <Text>Rozpoczyna z istniejącą buddyjską religią therawady charakteryzującą się następującymi wierzeniami:[NEWLINE][ICON_Bullet]Kamienne kręgi: +2 do [ICON_Faith] wiary i +2 do [ICON_Production] produkcji dzięki kamieniołomom.[NEWLINE][ICON_Bullet]Dana: każdy spichlerz zapewnia +3 do [ICON_Faith] wiary. +1 [ICON_Amenities] udogodnienie w każdym mieście.[NEWLINE][ICON_Bullet]Wat: możliwość budowy watów (+3 do [ICON_Faith] wiary, +1 [ICON_Housing] obszar mieszkalny). Dostępność po opracowaniu technologii druku.[NEWLINE][ICON_Bullet]Kościół światowy: +1 do [ICON_Culture] kultury za każdych 5 wyznawców religii w innych cywilizacjach.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_KHMER_NAME" Language="pl_PL">
+      <Text>Idee</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_KHMER_DESCRIPTION" Language="pl_PL">
+      <Text>Rozpoczynają z ideami wczesnego imperium, inżynierii i mistycyzmu.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_PALA_NAME" Language="pl_PL">
+      <Text>Buddyzm mahajana</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_PALA_DESCRIPTION" Language="pl_PL">
+      <Text>Rozpoczyna z istniejącą buddyjską religią mahajany charakteryzującą się następującymi wierzeniami:[NEWLINE][ICON_Bullet]Bogini ziemi: +1 do [ICON_Faith] wiary dzięki polom o czarującym lub wyższym poziomie atrakcyjności.[NEWLINE][ICON_Bullet]Etyka pracy: +1% do [ICON_Production] produkcji za każdego wyznawcę.[NEWLINE][ICON_Bullet]Stupa: możliwość budowy stup (+3 do [ICON_Faith] wiary, +1 [ICON_Amenities] udogodnienie). Dostępność po opracowaniu technologii druku.[NEWLINE][ICON_Bullet]Święty zakon: misjonarze i mnisi kosztują o 30% mniej.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_PALA_NAME" Language="pl_PL">
+      <Text>Idea</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_PALA_DESCRIPTION" Language="pl_PL">
+      <Text>Rozpoczyna z ideą mistycyzmu.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_TUFAN_NAME" Language="pl_PL">
+      <Text>Buddyzm wadżrajana</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_TUFAN_DESCRIPTION" Language="pl_PL">
+      <Text>Rozpoczyna z istniejącą buddyjską religią wadżrajany charakteryzującą się następującymi wierzeniami:[NEWLINE][ICON_Bullet]Bóg otwartego nieba: +2 do [ICON_Food] żywności dzięki pastwiskom.[NEWLINE][ICON_Bullet]Medytacja zen: +1 [ICON_Amenities] udogodnienie w miastach z dwiema wyspecjalizowanymi dzielnicami.[NEWLINE][ICON_Bullet]Stupa: możliwość budowy stup (+3 do [ICON_Faith] wiary, +1 [ICON_Amenities] udogodnienie). Dostępność po opracowaniu technologii druku.[NEWLINE][ICON_Bullet]Misjonarski zapał: jednostki religijne ignorują koszt [ICON_Movement] ruchu terenu i jego cech.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_TUFAN_NAME" Language="pl_PL">
+      <Text>Idea</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_TUFAN_DESCRIPTION" Language="pl_PL">
+      <Text>Rozpoczyna z ideą mistycyzmu.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_CHOLA_NAME" Language="ru_RU">
+      <Text>Чола|Чолы|Чоле|Чолу|Чолой|Чоле</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_CHOLA_DESCRIPTION" Language="ru_RU">
+      <Text>Государство Чола|Государства Чола|Государству Чола|Государство Чола|Государством Чола|Государстве Чола</Text>
+      <Gender>neuter</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_CHOLA_ADJECTIVE" Language="ru_RU">
+      <Text>чольск.|чольск.|чольск.|чольск.|чольск.|чольск.</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_GHAZNAVID_NAME" Language="ru_RU">
+      <Text>Газневиды|Газневидов|Газневидам|Газневидов|Газневидами|Газневидах</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_GHAZNAVID_DESCRIPTION" Language="ru_RU">
+      <Text>Газневидское государство|Газневидского государства|Газневидскому государству|Газневидское государство|Газневидским государством|Газневидском государстве</Text>
+      <Gender>neuter</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_GHAZNAVID_ADJECTIVE" Language="ru_RU">
+      <Text>газневидск.</Text>
+      <Gender>neuter</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_PALA_NAME" Language="ru_RU">
+      <Text>Пала|Палы|Пале|Палу|Палой|Пале</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_PALA_DESCRIPTION" Language="ru_RU">
+      <Text>Государство Пала|Государства Пала|Государству Пала|Государство Пала|Государством Пала|Государстве Пала</Text>
+      <Gender>neuter</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_PALA_ADJECTIVE" Language="ru_RU">
+      <Text>пальск.|пальск.|пальск.|пальск.|пальск.|пальск.</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_TUFAN_NAME" Language="ru_RU">
+      <Text>Туфань|Туфани|Туфани|Туфань|Туфанью|Туфани</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_TUFAN_DESCRIPTION" Language="ru_RU">
+      <Text>Царство Туфань|Царства Туфань|Царству Туфань|Царство Туфань|Царством Туфань|Царстве Туфань</Text>
+      <Gender>neuter</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_TUFAN_ADJECTIVE" Language="ru_RU">
+      <Text>туфаньск.|туфаньск.|туфаньск.|туфаньск.|туфаньск.|туфаньск.</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_INDONESIA_KHMER_SCENARIO_NAME" Language="ru_RU">
+      <Text>Путь к нирване</Text>
+    </Replace>
+    <Replace Tag="LOC_INDONESIA_KHMER_SCENARIO_TOOLTIP" Language="ru_RU">
+      <Text>Свет какой веры воссияет ярче всех над Азией? Длится 50 ходов.</Text>
+    </Replace>
+    <Replace Tag="LOC_INDONESIA_KHMER_SCENARIO_MAP_NAME" Language="ru_RU">
+      <Text>Восточная Азия</Text>
+    </Replace>
+    <Replace Tag="LOC_INDONESIA_KHMER_SCENARIO_MAP_DESCRIPTION" Language="ru_RU">
+      <Text>Карта, похожая на Восточную Азию</Text>
+    </Replace>
+    <Replace Tag="LOC_INDONESIA_KHMER_SCENARIO_DESCRIPTION" Language="ru_RU">
+      <Text>Земли вокруг Индийского океана – это пестрая мозаика народов и религий. Небо возложило на вас великую миссию – принести свет в эти края. Крепка ли ваша вера? Удастся ли вам обратить все народы Юго-Восточной Азии в истинную религию?[NEWLINE][NEWLINE]В этом 50-ходовом сценарии ваша задача – набрать как можно больше последователей вашей [ICON_Religion] религии, очков [ICON_FAITH] веры за ход и иностранных городов, перешедших в вашу [ICON_Religion] религию.</Text>
+    </Replace>
+    <Replace Tag="LOC_VICTORY_INDONESIA_KHMER_SCENARIO_SCORE_DESCRIPTION" Language="ru_RU">
+      <Text>Для достижения нирваны нужно набрать как можно больше очков за определенное число ходов.</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_INDONESIA_KHMER_SCENARIO" Language="ru_RU">
+      <Text>Да пребудет с тобой благословление небес, о правитель! Множество религий существует на этих землях, и многие обещают спасение. Достучишься ли ты до сердец человеческих? Или позволишь увлечь все эти души на путь обмана? Пусть твои помощники занимаются делами государства, а ты посвяти всю силу своего сострадающего сердца миссии просветления.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_CHINA_NAME" Language="ru_RU">
+      <Text>Даосизм|даосизма|даосизму|даосизм|даосизмом|даосизме</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_CHINA_DESCRIPTION" Language="ru_RU">
+      <Text>Сразу получает религию «даосизм». Эта религия включает следующие верования:[NEWLINE][ICON_Bullet]Речная богиня: +1 [ICON_Amenities] довольства в городах со священным местом у реки.[NEWLINE][ICON_Bullet]Накорми мир: святилища и храмы производят [ICON_Food] пищи столько же, сколько и [ICON_Faith] веры.[NEWLINE][ICON_Bullet]Пагода: можно строить пагоды (+3 [ICON_Faith] веры). Священники получают +1 действие «Очистить от ереси», а гуру получают +1 заряд лечения. Доступно после изучения книгопечатания.[NEWLINE][ICON_Bullet]Монашество: поражения в теологических баталиях не сказываются на уровне влиянии вашей религии.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_CHINA_NAME" Language="ru_RU">
+      <Text>Социальный институт</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_CHINA_DESCRIPTION" Language="ru_RU">
+      <Text>Сразу получает социальный институт «Ранняя империя».</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_CHOLA_NAME" Language="ru_RU">
+      <Text>Шиваизм</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_CHOLA_DESCRIPTION" Language="ru_RU">
+      <Text>Сразу получает религию «шиваизм». Эта религия включает следующие верования:[NEWLINE][ICON_Bullet]Священный путь: священные места получают +1 [ICON_Faith] веры от соседних клеток тропического леса.[NEWLINE][ICON_Bullet]Лингам: можно покупать центр коммерции и гавань за [ICON_Faith] веру.[NEWLINE][ICON_Bullet]Попечение: каждый центр коммерции или гавань в городе с этой религией производит +1 [ICON_FAITH] веры.[NEWLINE][ICON_Bullet]Йога: можно покупать гражданские юниты за [ICON_Faith] веру.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_CHOLA_NAME" Language="ru_RU">
+      <Text>Социальный институт</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_CHOLA_DESCRIPTION" Language="ru_RU">
+      <Text>Сразу получает социальный институт «Навигация по звездам».</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_GHAZNAVID_NAME" Language="ru_RU">
+      <Text>Ислам|ислама|исламу|ислама|исламом|исламе</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_GHAZNAVID_DESCRIPTION" Language="ru_RU">
+      <Text>Сразу получает религию «ислам». Эта религия включает следующие верования:[NEWLINE][ICON_Bullet]Легенды пустыни: священные места получают +1 [ICON_Faith] веры от соседних клеток пустыни.[NEWLINE][ICON_Bullet]Религиозное сообщество: святилища и храмы дают +1 [ICON_Housing] жилья.[NEWLINE][ICON_Bullet]Мечеть: можно строить мечети (+3 [ICON_Faith] веры). Миссионеры и монахи получают +1 к распространению религии. Доступно после изучения книгопечатания.[NEWLINE][ICON_Bullet]Паломничество: +2 [ICON_Faith] веры за каждый город, исповедующий эту религию, в других цивилизациях и городах-государствах.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_GHAZNAVID_NAME" Language="ru_RU">
+      <Text>Социальные институты</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_GHAZNAVID_DESCRIPTION" Language="ru_RU">
+      <Text>Сразу получает социальные институты «Навигация по звездам», «Деньги» и «Ранняя империя».</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_INDONESIA_NAME" Language="ru_RU">
+      <Text>Индуизм</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_INDONESIA_DESCRIPTION" Language="ru_RU">
+      <Text>Сразу получает религию «индуизм». Эта религия включает следующие верования:[NEWLINE][ICON_Bullet]Бог моря: +1 [ICON_Production] производства от рыбацких лодок.[NEWLINE][ICON_Bullet]Великая Нусантара: клетки побережья и озер дают небольшой бонус за соседство священному месту.[NEWLINE][ICON_Bullet]Кампонг: ваши строители могут строить кампонги. Доступно после изучения гильдий.[NEWLINE][ICON_Bullet]Странствующие проповедники: религия распространяется в городах, находящихся на 30% дальше.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_INDONESIA_NAME" Language="ru_RU">
+      <Text>Социальный институт</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_INDONESIA_DESCRIPTION" Language="ru_RU">
+      <Text>Сразу получает социальный институт «Навигация по звездам».</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_KHMER_NAME" Language="ru_RU">
+      <Text>Буддизм Тхеравады</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_KHMER_DESCRIPTION" Language="ru_RU">
+      <Text>Сразу получает религию «буддизм Тхеравады». Эта религия включает следующие верования:[NEWLINE][ICON_Bullet]Кромлехи: +2 [ICON_Faith] веры и +2 [ICON_Production] производства от каменоломен.[NEWLINE][ICON_Bullet]Дана: амбары производят +3 [ICON_FAITH] веры. +1 [ICON_Amenities] довольства во всех городах.[NEWLINE][ICON_Bullet]Ват: можно строить ваты (+3 [ICON_Faith] веры, +1 [ICON_Housing] жилья). Доступно после изучения книгопечатания.[NEWLINE][ICON_Bullet]Всемирная церковь: +1 [ICON_Culture] культуры за каждые 5 последователей этой религии в других цивилизациях.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_KHMER_NAME" Language="ru_RU">
+      <Text>Социальные институты</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_KHMER_DESCRIPTION" Language="ru_RU">
+      <Text>Сразу получает социальные институты «Ранняя империя», «Инженерное дело» и «Мистицизм».</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_PALA_NAME" Language="ru_RU">
+      <Text>Буддизм Махаяны</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_PALA_DESCRIPTION" Language="ru_RU">
+      <Text>Сразу получает религию «буддизм Махаяны». Эта религия включает следующие верования:[NEWLINE][ICON_Bullet]Богиня земли: +1 [ICON_Faith] веры от клеток с престижем «притягивающий» и выше. [NEWLINE][ICON_Bullet]Трудовая дисциплина: +1% [ICON_Production] производства за каждого последователя.[NEWLINE][ICON_Bullet]Ступа Махаяны: можно строить ступы (+3 [ICON_Faith] веры, +1 [ICON_Amenities] довольства). Доступно после изучения книгопечатания.[NEWLINE][ICON_Bullet]Святой орден: Стоимость миссионеров и монахов  снижена на 30%.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_PALA_NAME" Language="ru_RU">
+      <Text>Социальный институт</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_PALA_DESCRIPTION" Language="ru_RU">
+      <Text>Сразу получает социальный институт «Мистицизм».</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_TUFAN_NAME" Language="ru_RU">
+      <Text>Буддизм Ваджраяны</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_TUFAN_DESCRIPTION" Language="ru_RU">
+      <Text>Сразу получает религию «буддизм Ваджраяны». Эта религия включает следующие верования:[NEWLINE][ICON_Bullet]Бог открытого неба: +2 [ICON_FOOD] пищи от пастбищ.[NEWLINE][ICON_Bullet]Медитация дзен: +1 [ICON_Amenities] довольства в городах с двумя специализированными районами.[NEWLINE][ICON_Bullet]Ступа Ваджраяны: можно строить ступы (+3 [ICON_Faith] веры, +1 [ICON_Amenities] довольства). Доступно после изучения книгопечатания.[NEWLINE][ICON_Bullet]Фанатичные проповедники: религиозные юниты игнорируют [ICON_Movement] стоимость перемещения по любому ландшафту и улучшениям.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_TUFAN_NAME" Language="ru_RU">
+      <Text>Социальный институт</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_TUFAN_DESCRIPTION" Language="ru_RU">
+      <Text>Сразу получает социальный институт «Мистицизм».</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_CHOLA_NAME" Language="zh_Hans_CN">
+      <Text>朱罗</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_CHOLA_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>朱罗王国</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_CHOLA_ADJECTIVE" Language="zh_Hans_CN">
+      <Text>朱罗</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_GHAZNAVID_NAME" Language="zh_Hans_CN">
+      <Text>伽色尼</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_GHAZNAVID_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>伽色尼王国</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_GHAZNAVID_ADJECTIVE" Language="zh_Hans_CN">
+      <Text>伽色尼王国的</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_PALA_NAME" Language="zh_Hans_CN">
+      <Text>波罗</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_PALA_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>波罗王国</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_PALA_ADJECTIVE" Language="zh_Hans_CN">
+      <Text>波罗的</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_TUFAN_NAME" Language="zh_Hans_CN">
+      <Text>吐蕃</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_TUFAN_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>吐蕃王国</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_TUFAN_ADJECTIVE" Language="zh_Hans_CN">
+      <Text>吐蕃的</Text>
+    </Replace>
+    <Replace Tag="LOC_INDONESIA_KHMER_SCENARIO_NAME" Language="zh_Hans_CN">
+      <Text>涅槃之路</Text>
+    </Replace>
+    <Replace Tag="LOC_INDONESIA_KHMER_SCENARIO_TOOLTIP" Language="zh_Hans_CN">
+      <Text>哪支宗教将闪耀亚洲？持续50回合。</Text>
+    </Replace>
+    <Replace Tag="LOC_INDONESIA_KHMER_SCENARIO_MAP_NAME" Language="zh_Hans_CN">
+      <Text>东亚</Text>
+    </Replace>
+    <Replace Tag="LOC_INDONESIA_KHMER_SCENARIO_MAP_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>代表东亚的情景</Text>
+    </Replace>
+    <Replace Tag="LOC_INDONESIA_KHMER_SCENARIO_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>印度洋周围的土地养育了诸多人民，兴盛了众多宗教。你乃天选之人，将光明带到这些土地上。你的信仰能否经受住考验？你能让东南亚人民信仰你推崇的宗教吗？[NEWLINE][NEWLINE]在这个50回合的情景中展开激烈角逐，让自己的 [ICON_Religion] 宗教拥有最多信徒。每回合产出的 [ICON_FAITH] 信仰值越多，皈依你 [ICON_Religion] 宗教的外国城市便越多。</Text>
+    </Replace>
+    <Replace Tag="LOC_VICTORY_INDONESIA_KHMER_SCENARIO_SCORE_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>时限结束时拥有最高分即可达成涅槃。</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_INDONESIA_KHMER_SCENARIO" Language="zh_Hans_CN">
+      <Text>伟大的国王，愿上天赐福于您！这些土地上流传着多种宗教，宣扬救赎的信条也不乏其数。您能否将神明的语言传入人民的心中？还是任由其他教义吸引信徒？将国家大事托付给可靠的管理者，让您的慈悲之心专注于启蒙开化，此举方为上策。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_CHINA_NAME" Language="zh_Hans_CN">
+      <Text>道教</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_CHINA_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>初始时便已创立道教。此宗教拥有以下信仰：[NEWLINE][ICON_Bullet]河神：如城市的圣地区域与河流相邻，则+1 [ICON_Amenities] 宜居度。[NEWLINE][ICON_Bullet]哺育世界：神社和寺庙将产出与其固有 [ICON_Faith] 信仰值等量的 [ICON_Food] 食物。[NEWLINE][ICON_Bullet]宝塔：允许建造宝塔（+3 [ICON_Faith] 信仰值）。祭司的“清除异教”次数+1、上师的治疗次数+1。随印刷术解锁。[NEWLINE][ICON_Bullet]与世隔绝：在神学战争中战败后宗教释放的压力也不会下降。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_CHINA_NAME" Language="zh_Hans_CN">
+      <Text>市政</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_CHINA_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>初始便拥有“帝国初期”市政。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_CHOLA_NAME" Language="zh_Hans_CN">
+      <Text>湿婆教</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_CHOLA_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>初始便已创立湿婆教。此宗教拥有以下信仰：[NEWLINE][ICON_Bullet]神圣道路：相邻的雨林单元格使圣地区域+1 [ICON_Faith] 信仰值。[NEWLINE][ICON_Bullet]林伽：可使用 [ICON_Faith] 信仰值购买商业中心和港口区域。[NEWLINE][ICON_Bullet]管理工作：在信仰此宗教的城市中，每个商业中心或港口区域+1 [ICON_FAITH] 信仰值。[NEWLINE][ICON_Bullet]瑜伽：可使用 [ICON_Faith] 信仰值购买平民单位。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_CHOLA_NAME" Language="zh_Hans_CN">
+      <Text>市政</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_CHOLA_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>初始便拥有“天文导航”市政。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_GHAZNAVID_NAME" Language="zh_Hans_CN">
+      <Text>伊斯兰教</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_GHAZNAVID_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>初始便已创立伊斯兰教。此宗教拥有以下信仰：[NEWLINE][ICON_Bullet]沙漠民俗：如与沙漠单元格相邻，圣地区域+1 [ICON_Faith] 信仰值。[NEWLINE][ICON_Bullet]宗教社区：每个神社和寺庙+1 [ICON_Housing] 住房。[NEWLINE][ICON_Bullet]清真寺：允许建造清真寺（+3 [ICON_Faith] 信仰值）。传教士和僧侣传教次数+1。随印刷术解锁。[NEWLINE][ICON_Bullet]朝圣：其他文明和城邦中每出现一座信奉此教的城市，则+2 [ICON_Faith] 信仰值。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_GHAZNAVID_NAME" Language="zh_Hans_CN">
+      <Text>市政</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_GHAZNAVID_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>初始便拥有“天文导航”、“货币”和“帝国初期”市政。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_INDONESIA_NAME" Language="zh_Hans_CN">
+      <Text>印度教</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_INDONESIA_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>初始便已创立印度教。此宗教拥有以下信仰：[NEWLINE][ICON_Bullet]海洋之神：渔船+1 [ICON_Production] 生产力。[NEWLINE][ICON_Bullet]伟大千岛之国：海岸和湖泊单元格为圣地区域提供少量相邻加成。[NEWLINE][ICON_Bullet]甘榜屋：建造者可以建造甘榜屋改良设施。随公会解锁。[NEWLINE][ICON_Bullet]巡回传教士：宗教传播的距离增加30%。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_INDONESIA_NAME" Language="zh_Hans_CN">
+      <Text>市政</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_INDONESIA_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>初始便拥有“天文导航”市政。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_KHMER_NAME" Language="zh_Hans_CN">
+      <Text>上座部佛教</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_KHMER_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>初始便已创立上座部佛教。此宗教拥有以下信仰：[NEWLINE][ICON_Bullet]石圈：采石场+2 [ICON_Faith] 信仰值、+2 [ICON_Production] 生产力。[NEWLINE][ICON_Bullet]布施：粮仓+3 [ICON_FAITH] 信仰值。每个城市+1 [ICON_Amenities] 宜居度。[NEWLINE][ICON_Bullet]佛寺：允许建造佛寺（+3 [ICON_Faith] 信仰值、+1 [ICON_Housing] 住房）。随印刷术解锁。[NEWLINE][ICON_Bullet]普世教会：其他文明中每出现5个此教的信徒，则+1 [ICON_Culture] 文化值。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_KHMER_NAME" Language="zh_Hans_CN">
+      <Text>市政</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_KHMER_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>初始便拥有“帝国初期”、“工程”和“神秘主义”市政。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_PALA_NAME" Language="zh_Hans_CN">
+      <Text>大乘佛教</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_PALA_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>初始便已创立大乘佛教。此宗教拥有以下信仰：[NEWLINE][ICON_Bullet]大地女神：拥有迷人或更高魅力的单元格+1 [ICON_Faith] 信仰值。[NEWLINE][ICON_Bullet]职业道德：每出现一个信徒+1% [ICON_Production] 生产力。[NEWLINE][ICON_Bullet]大乘窣堵波：允许建造窣堵波（+3 [ICON_Faith] 信仰值、+1 [ICON_Amenities] 宜居度）。随印刷术解锁。[NEWLINE][ICON_Bullet]神圣采购：传教士和僧侣的购买费用减少30%。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_PALA_NAME" Language="zh_Hans_CN">
+      <Text>市政</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_PALA_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>初始便拥有“神秘主义”市政。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_TUFAN_NAME" Language="zh_Hans_CN">
+      <Text>密宗佛教</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_TUFAN_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>初始便已创立密宗佛教。此宗教拥有以下信仰：[NEWLINE][ICON_Bullet]天空之神：牧场+2 [ICON_FOOD] 食物。[NEWLINE][ICON_Bullet]禅修：拥有2个特色区域的城市+2 [ICON_Amenities] 宜居度。[NEWLINE][ICON_Bullet]密宗窣堵波：允许建造窣堵波（+3 [ICON_Faith] 信仰值、+1 [ICON_Amenities] 宜居度）。随印刷术解锁。[NEWLINE][ICON_Bullet]传教热忱：宗教单位无视地形地貌的 [ICON_Movement] 移动力消耗。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_TUFAN_NAME" Language="zh_Hans_CN">
+      <Text>市政</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_TUFAN_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>初始便拥有“神秘主义”市政。</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_CHOLA_NAME" Language="es_ES">
+      <Text>Chola</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_CHOLA_DESCRIPTION" Language="es_ES">
+      <Text>Imperio chola</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_CHOLA_ADJECTIVE" Language="es_ES">
+      <Text>Chola</Text>
+      <Gender>neutral</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_GHAZNAVID_NAME" Language="es_ES">
+      <Text>Gaznávida</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_GHAZNAVID_DESCRIPTION" Language="es_ES">
+      <Text>del Imperio gaznávida|del Imperio gaznávida|del Imperio gaznávida|del Imperio gaznávida</Text>
+      <Gender>masculine|feminine|masculine|feminine</Gender>
+      <Plurality>1|1|2|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_GHAZNAVID_ADJECTIVE" Language="es_ES">
+      <Text>del Imperio gaznávida|del Imperio gaznávida|del Imperio gaznávida|del Imperio gaznávida</Text>
+      <Gender>masculine|feminine|masculine|feminine</Gender>
+      <Plurality>1|1|2|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_PALA_NAME" Language="es_ES">
+      <Text>Pala</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_PALA_DESCRIPTION" Language="es_ES">
+      <Text>Imperio pala</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_PALA_ADJECTIVE" Language="es_ES">
+      <Text>de Pala|de Pala|de Pala|de Pala</Text>
+      <Gender>masculine|feminine|masculine|feminine</Gender>
+      <Plurality>1|1|2|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_TUFAN_NAME" Language="es_ES">
+      <Text>Tufan</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_TUFAN_DESCRIPTION" Language="es_ES">
+      <Text>Imperio tufan</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_TUFAN_ADJECTIVE" Language="es_ES">
+      <Text>de Tufan|de Tufan|de Tufan|de Tufan</Text>
+      <Gender>masculine|feminine|masculine|feminine</Gender>
+      <Plurality>1|1|2|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_INDONESIA_KHMER_SCENARIO_NAME" Language="es_ES">
+      <Text>El camino al Nirvana</Text>
+    </Replace>
+    <Replace Tag="LOC_INDONESIA_KHMER_SCENARIO_TOOLTIP" Language="es_ES">
+      <Text>¿Qué fe brillará con más fuerza en Asia? Dura 50 turnos.</Text>
+    </Replace>
+    <Replace Tag="LOC_INDONESIA_KHMER_SCENARIO_MAP_NAME" Language="es_ES">
+      <Text>Asia oriental</Text>
+    </Replace>
+    <Replace Tag="LOC_INDONESIA_KHMER_SCENARIO_MAP_DESCRIPTION" Language="es_ES">
+      <Text>Un escenario que representa a Asia oriental</Text>
+    </Replace>
+    <Replace Tag="LOC_INDONESIA_KHMER_SCENARIO_DESCRIPTION" Language="es_ES">
+      <Text>En las tierras alrededor del Océano Índico abundan las religiones y los pueblos. El cielo te ha elegido para que ilumines estas tierras. ¿Está tu fe a la altura del desafío? ¿Puedes convencer a las gentes del Sudeste Asiático para que sigan tu religión?[NEWLINE][NEWLINE]Compite en este escenario de 50 turnos para conseguir el mayor número de seguidores para tu religión [ICON_Religion], la mayor cantidad de Fe [ICON_FAITH] por turno y el mayor número de ciudades extranjeras que profesen tu religión [ICON_Religion].</Text>
+    </Replace>
+    <Replace Tag="LOC_VICTORY_INDONESIA_KHMER_SCENARIO_SCORE_DESCRIPTION" Language="es_ES">
+      <Text>Alcanzarás el Nirvana si consigues la puntuación máxima cuando se acabe el tiempo límite.</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_INDONESIA_KHMER_SCENARIO" Language="es_ES">
+      <Text>¡Que la bendición de los cielos caiga sobre vos, gobernante! En estas tierras se profesan múltiples religiones, y hay muchos credos que prometen la salvación. ¿Podréis hacer que vuestras palabras calen en los corazones de la gente? ¿O acabarán esas almas engullidas por otros credos? Dejad los asuntos de estado a los administradores y dedicad vuestro misericordioso corazón a la iluminación.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_CHINA_NAME" Language="es_ES">
+      <Text>Taoísmo</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_CHINA_DESCRIPTION" Language="es_ES">
+      <Text>Comienza con la religión taoísta ya fundada. Esta religión tiene las siguientes creencias:[NEWLINE][ICON_Bullet]Diosa del río: +1 a Servicios [ICON_Amenities] para las ciudades que tengan un Lugar sagrado adyacente a un río.[NEWLINE][ICON_Bullet]Alimento del mundo: los Santuarios y Templos proporcionan una cantidad de Alimentos [ICON_Food] igual a su producción de Fe [ICON_Faith] intrínseca.[NEWLINE][ICON_Bullet]Pagoda: permite la construcción de Pagodas (+3 a la Fe [ICON_Faith]). +1 a Eliminar herejía para las unidades de Sacerdotes y +1 a la Carga curativa de los Gurús. Se desbloquea con la Imprenta.[NEWLINE][ICON_Bullet]Aislamiento monástico: la presión religiosa nunca disminuye por las pérdidas en Combate teológico.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_CHINA_NAME" Language="es_ES">
+      <Text>Principio</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_CHINA_DESCRIPTION" Language="es_ES">
+      <Text>Comienza con el principio: Imperio inicial.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_CHOLA_NAME" Language="es_ES">
+      <Text>Shivaísmo</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_CHOLA_DESCRIPTION" Language="es_ES">
+      <Text>Comienza con la religión shivaísta ya fundada. Esta religión tiene las siguientes creencias:[NEWLINE][ICON_Bullet]Camino sagrado: los distritos de Lugar sagrado ganan +1 a Fe [ICON_Faith] de las casillas adyacentes de Selva tropical.[NEWLINE][ICON_Bullet]Linga: puedes comprar edificios de los distritos de Puerto y Centro comercial con Fe [ICON_Faith].[NEWLINE][ICON_Bullet]Administración: cada distrito de Puerto o Centro comercial en una ciudad que siga esta religión proporciona +1 a Fe [ICON_FAITH].[NEWLINE][ICON_Bullet]Yoga: puedes comprar unidades civiles con Fe [ICON_Faith].</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_CHOLA_NAME" Language="es_ES">
+      <Text>Principio</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_CHOLA_DESCRIPTION" Language="es_ES">
+      <Text>Comienza con el principio: Navegación celeste.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_GHAZNAVID_NAME" Language="es_ES">
+      <Text>Islam</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_GHAZNAVID_DESCRIPTION" Language="es_ES">
+      <Text>Comienza con la religión islámica ya fundada. Esta religión tiene las siguientes creencias:[NEWLINE][ICON_Bullet]Folclore del desierto: los distritos de Lugar sagrado ganan +1 a Fe [ICON_Faith] de las casillas de Desierto adyacentes.[NEWLINE][ICON_Bullet]Comunidad religiosa: los Santuarios y Templos proporcionan +1 a Alojamiento [ICON_Housing].[NEWLINE][ICON_Bullet]Mezquita: permite la construcción de Mezquitas (+3 a Fe [ICON_Faith]). +1 a Propagación para Misioneros y Monjes. Se desbloquea con la Imprenta.[NEWLINE][ICON_Bullet]Peregrinaje: +2 a la Fe [ICON_Faith] por cada ciudad que siga esta religión en otras civilizaciones y ciudades-estado.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_GHAZNAVID_NAME" Language="es_ES">
+      <Text>Principios</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_GHAZNAVID_DESCRIPTION" Language="es_ES">
+      <Text>Comienza con los principios Navegación celeste, Moneda e Imperio inicial.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_INDONESIA_NAME" Language="es_ES">
+      <Text>Hinduismo dharma</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_INDONESIA_DESCRIPTION" Language="es_ES">
+      <Text>Comienza con la religión hinduista dharma ya fundada. Esta religión tiene las siguientes creencias:[NEWLINE][ICON_Bullet]Dios de los mares: +1 a la Producción [ICON_Production] de los Barcos pesqueros.[NEWLINE][ICON_Bullet]Gran Nusantara: las casillas de Costa y Lago proporcionan una pequeña bonificación por adyacencia a los distritos de Lugar sagrado.[NEWLINE][ICON_Bullet]Kampong: tus constructores ahora pueden crear la mejora Kampong. Se desbloquea con los Gremios.[NEWLINE][ICON_Bullet]Predicadores itinerantes: la religión se propaga a ciudades un 30% más alejadas.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_INDONESIA_NAME" Language="es_ES">
+      <Text>Principio</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_INDONESIA_DESCRIPTION" Language="es_ES">
+      <Text>Comienza con el principio: Navegación celeste.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_KHMER_NAME" Language="es_ES">
+      <Text>Budismo theravada</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_KHMER_DESCRIPTION" Language="es_ES">
+      <Text>Comienza con la religión budista theravada ya fundada. Esta religión tiene las siguientes creencias:[NEWLINE][ICON_Bullet]Círculos de piedra: +2 a Fe [ICON_Faith] y +2 a la Producción [ICON_Production] de las Canteras.[NEWLINE][ICON_Bullet]Dana: cada Granero proporciona +3 a Fe [ICON_FAITH]. +1 a Servicios [ICON_Amenities] para cada ciudad.[NEWLINE][ICON_Bullet]Wat: permite la construcción de Wats (+3 a Fe [ICON_Faith], +1 a Alojamiento [ICON_Housing]). Se desbloquea con la Imprenta.[NEWLINE][ICON_Bullet]Iglesia del mundo: +1 a Cultura [ICON_Culture] por cada 5 devotos de esta religión en otras civilizaciones.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_KHMER_NAME" Language="es_ES">
+      <Text>Principios</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_KHMER_DESCRIPTION" Language="es_ES">
+      <Text>Comienza con los principios: Imperio inicial, Ingeniería y Misticismo.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_PALA_NAME" Language="es_ES">
+      <Text>Budismo mahāyāna</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_PALA_DESCRIPTION" Language="es_ES">
+      <Text>Comienza con la religión budista mahāyāna ya fundada. Esta religión tiene las siguientes creencias:[NEWLINE][ICON_Bullet]Diosa de la tierra: +1 a Fe [ICON_Faith] en las casillas con un Atractivo Encantador o mejor.[NEWLINE][ICON_Bullet]Ética de trabajo: +1% a la Producción [ICON_Production] por cada seguidor.[NEWLINE][ICON_Bullet]Estupa mahāyāna: permite la construcción de estupas (+3 a Fe [ICON_Faith], +1 a Servicios [ICON_Amenities]). Se desbloquea con la Imprenta.[NEWLINE][ICON_Bullet]Orden sagrada: los Misioneros y los monjes son un 30% más baratos de adquirir.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_PALA_NAME" Language="es_ES">
+      <Text>Principio</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_PALA_DESCRIPTION" Language="es_ES">
+      <Text>Comienza con el principio: Misticismo.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_TUFAN_NAME" Language="es_ES">
+      <Text>Budismo vajrayana</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_TUFAN_DESCRIPTION" Language="es_ES">
+      <Text>Comienza con la religión budista vajrayana ya fundada. Esta religión tiene las siguientes creencias:[NEWLINE][ICON_Bullet]Dios del gran cielo: +2 a Alimentos [ICON_FOOD] de los Pastizales.[NEWLINE][ICON_Bullet]Meditación zen: +1 a Servicios [ICON_Amenities] en ciudades con 2 distritos de especialización.[NEWLINE][ICON_Bullet]Estupa vajrayana: permite la construcción de estupas (+3 a Fe [ICON_Faith], +1 a Servicios [ICON_Amenities]). Se desbloquea con la Imprenta.[NEWLINE][ICON_Bullet]Celo misionero: las unidades religiosas ignoran los costes de Movimiento [ICON_Movement] de los terrenos y los accidentes.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_TUFAN_NAME" Language="es_ES">
+      <Text>Principio</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_TUFAN_DESCRIPTION" Language="es_ES">
+      <Text>Comienza con el principio: Misticismo.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_CHOLA_NAME" Language="zh_Hant_HK">
+      <Text>朱羅</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_CHOLA_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>朱羅王國</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_CHOLA_ADJECTIVE" Language="zh_Hant_HK">
+      <Text>朱羅</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_GHAZNAVID_NAME" Language="zh_Hant_HK">
+      <Text>伽色尼</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_GHAZNAVID_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>伽色尼王國</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_GHAZNAVID_ADJECTIVE" Language="zh_Hant_HK">
+      <Text>伽色尼王國的</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_PALA_NAME" Language="zh_Hant_HK">
+      <Text>波羅</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_PALA_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>波羅王國</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_PALA_ADJECTIVE" Language="zh_Hant_HK">
+      <Text>波羅的</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_TUFAN_NAME" Language="zh_Hant_HK">
+      <Text>吐蕃</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_TUFAN_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>吐蕃王國</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_TUFAN_ADJECTIVE" Language="zh_Hant_HK">
+      <Text>吐蕃的</Text>
+    </Replace>
+    <Replace Tag="LOC_INDONESIA_KHMER_SCENARIO_NAME" Language="zh_Hant_HK">
+      <Text>涅槃之路</Text>
+    </Replace>
+    <Replace Tag="LOC_INDONESIA_KHMER_SCENARIO_TOOLTIP" Language="zh_Hant_HK">
+      <Text>哪個信仰能在亞洲綻放出最耀眼的光芒呢？持續50回合。</Text>
+    </Replace>
+    <Replace Tag="LOC_INDONESIA_KHMER_SCENARIO_MAP_NAME" Language="zh_Hant_HK">
+      <Text>東亞</Text>
+    </Replace>
+    <Replace Tag="LOC_INDONESIA_KHMER_SCENARIO_MAP_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>展現東亞地圖的情景</Text>
+    </Replace>
+    <Replace Tag="LOC_INDONESIA_KHMER_SCENARIO_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>印度洋周遭的土地滋養了許多宗教與人民。你是天選之人，身負將榮光帶到這些土地上的重任。你的信仰能承受住挑戰嗎？你能說服東南亞的人民皈依你的信仰嗎？[NEWLINE][NEWLINE]在這個50回合的場景中展開 [ICON_Religion] 宗教上的角逐，成為擁有最多信徒的玩家，力爭每回合產出最高的 [ICON_FAITH] 信仰值，並讓大多数的外國城市都信仰你的 [ICON_Religion] 宗教。</Text>
+    </Replace>
+    <Replace Tag="LOC_VICTORY_INDONESIA_KHMER_SCENARIO_SCORE_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>在時間限制內獲得最高分數即可達成涅槃。</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_INDONESIA_KHMER_SCENARIO" Language="zh_Hant_HK">
+      <Text>我們的統治者啊，願上蒼的恩賜降臨在您的身上！在這些土地上人們信奉著各種宗教，傳播著各種通往救贖之路的不同信條。您是否能將自己的話語深植到人民心中？還是任憑這些靈魂皈依其他信仰？把治理國家的繁文縟節交給下屬去管理，用您悲天憫人的胸懷帶領人民開悟吧。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_CHINA_NAME" Language="zh_Hant_HK">
+      <Text>道教</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_CHINA_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>開局便已創立道教。此宗教擁有的信仰：[NEWLINE][ICON_Bullet]河流女神：如擁有與河流相鄰的聖地區域，城市+1 [ICON_Amenities] 滿意度。[NEWLINE][ICON_Bullet]哺育世界：神社和寺廟提供等同於其自身 [ICON_Faith] 信仰值產量的 [ICON_Food] 食物。[NEWLINE][ICON_Bullet]寶塔：允許文明建造寶塔（+3 [ICON_Faith] 信仰值）。祭司單位剷除異教次數+1，上師治癒次數+1。隨著「印刷術」科技一同解鎖。[NEWLINE][ICON_Bullet]與世隔絕：宗教釋放的壓力不會因為神學戰爭戰敗而下降。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_CHINA_NAME" Language="zh_Hant_HK">
+      <Text>市政</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_CHINA_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>開局即擁有「帝國初期」市政。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_CHOLA_NAME" Language="zh_Hant_HK">
+      <Text>濕婆教派</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_CHOLA_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>開局便已創立濕婆教。此宗教擁有以下信仰：[NEWLINE][ICON_Bullet]神聖道路：聖地區域從相鄰雨林單元格獲得+1 [ICON_Faith] 信仰值。[NEWLINE][ICON_Bullet]林伽：可以使用 [ICON_Faith] 信仰值購買商業中心和港口區域建築。[NEWLINE][ICON_Bullet]管理工作：在每個信仰此宗教的城市中，商業中心和港口區域提供的 [ICON_FAITH] 信仰值+1。[NEWLINE][ICON_Bullet]瑜珈：可以使用 [ICON_Faith] 信仰值購買平民單位。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_CHOLA_NAME" Language="zh_Hant_HK">
+      <Text>市政</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_CHOLA_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>開局即擁有「天文導航」市政。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_GHAZNAVID_NAME" Language="zh_Hant_HK">
+      <Text>伊斯蘭教</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_GHAZNAVID_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>開局便已創立伊斯蘭教。此宗教擁有以下信仰：[NEWLINE][ICON_Bullet]沙漠民俗：聖地區域從相鄰沙漠單元格獲得+1 [ICON_Faith] 信仰值。[NEWLINE][ICON_Bullet]宗教社區：神社和寺廟各提供+1 [ICON_Housing] 住房。[NEWLINE][ICON_Bullet]清真寺：允許建造清真寺（+3 [ICON_Faith] 信仰值）。傳教士與僧侶單位的傳教次數+1。隨著「印刷術」科技一同解鎖。[NEWLINE][ICON_Bullet]朝聖：其他文明和城邦中每座信奉此宗教的城市+2 [ICON_Faith] 信仰值。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_GHAZNAVID_NAME" Language="zh_Hant_HK">
+      <Text>市政</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_GHAZNAVID_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>開局即擁有「天文導航」、「貨幣」和「帝國初期」市政。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_INDONESIA_NAME" Language="zh_Hant_HK">
+      <Text>印度教</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_INDONESIA_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>開局便已創立印度教。此宗教擁有以下信仰：[NEWLINE][ICON_Bullet]海洋之神：漁船提供的 [ICON_Production] 生產力+1。[NEWLINE][ICON_Bullet]偉大的馬來世界：海岸和湖泊單元格能為聖地區域提供少量相鄰加成。[NEWLINE][ICON_Bullet]甘邦村落：建造者可建造甘邦村落改良設施。隨著「公會」市政一同解鎖。[NEWLINE][ICON_Bullet]巡迴傳教士：宗教傳播距離增加30%。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_INDONESIA_NAME" Language="zh_Hant_HK">
+      <Text>市政</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_INDONESIA_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>開局即擁有「天文導航」市政。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_KHMER_NAME" Language="zh_Hant_HK">
+      <Text>上座部佛教</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_KHMER_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>開局便已創立上座部佛教。此宗教擁有以下信仰：[NEWLINE][ICON_Bullet]石圈：採石場提供+2 [ICON_Faith] 信仰值和+2 [ICON_Production] 生產力。[NEWLINE][ICON_Bullet]布施：每座糧倉提供+3 [ICON_FAITH] 信仰值。每座城市+1 [ICON_Amenities] 滿意度。[NEWLINE][ICON_Bullet]佛寺：允許建造佛寺（+3 [ICON_Faith] 信仰值、+1 [ICON_Housing] 住房）。隨著「印刷術」科技一同解鎖。[NEWLINE][ICON_Bullet]普世教會：其他文明中每出現5位此宗教的信徒，則+1 [ICON_Culture] 文化值。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_KHMER_NAME" Language="zh_Hant_HK">
+      <Text>市政</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_KHMER_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>開局即擁有「帝國初期」、「工程」與「神祕主義」市政。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_PALA_NAME" Language="zh_Hant_HK">
+      <Text>大乘佛教</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_PALA_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>開局便已創立大乘佛教。此宗教擁有以下信仰：[NEWLINE][ICON_Bullet]大地女神：擁有迷人以上魅力的單元格提供+1 [ICON_Faith] 信仰值。[NEWLINE][ICON_Bullet]職業道德：每位信徒提供+1% [ICON_Production] 生產力。[NEWLINE][ICON_Bullet]大乘窣堵坡：允許建造窣堵坡（+3 [ICON_Faith] 信仰值，+1 [ICON_Amenities] 滿意度）。隨著「印刷術」科技一同解鎖。[NEWLINE][ICON_Bullet]神聖訂單：購買傳教士和僧侶的費用降低30%。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_PALA_NAME" Language="zh_Hant_HK">
+      <Text>市政</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_PALA_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>開局即擁有「神祕主義」市政。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_TUFAN_NAME" Language="zh_Hant_HK">
+      <Text>密宗佛教</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SCENARIO_TUFAN_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>開局便已創立密宗佛教。此宗教擁有以下信仰：[NEWLINE][ICON_Bullet]天空之神：牧場提供的 [ICON_FOOD] 食物+2。[NEWLINE][ICON_Bullet]禪修：擁有兩個特色區域的城市+1 [ICON_Amenities] 滿意度。[NEWLINE][ICON_Bullet]密宗窣堵坡：允許建造窣堵坡（+3 [ICON_Faith] 信仰值，+1 [ICON_Amenities] 滿意度）。隨著「印刷術」科技一同解鎖。[NEWLINE][ICON_Bullet]傳教熱忱：宗教單位忽略地形和地貌的 [ICON_Movement] 移動力消耗。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_TUFAN_NAME" Language="zh_Hant_HK">
+      <Text>市政</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_TUFAN_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>開局即擁有「神祕主義」市政。</Text>
+    </Replace>
+  </LocalizedText>
+</GameData>

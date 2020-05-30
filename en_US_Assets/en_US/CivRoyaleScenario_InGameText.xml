@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<BaseGameText>
+		<!-- Next Game button for CivRoyale endgame screen. -->
+		<Row Tag="LOC_GAME_MENU_QUICK_JOIN">
+			<Text>Next Game</Text>
+		</Row>
+		<Row Tag="LOC_GAME_MENU_QUICK_JOIN_TOOLTIP">
+			<Text>Quick Join into a new Red Death game (Battle Royale)!</Text>
+		</Row>
+		<Row Tag="LOC_GAME_MENU_HOW_TO_PLAY">
+			<Text>How to play</Text>
+		</Row>	
+		
+		<!-- Do not put any more text in this file! -->
+		
+	</BaseGameText>
+</GameData>

@@ -1,0 +1,21 @@
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<EnglishText>
+		<!--Improvements-->
+		<Row Tag="LOC_IMPROVEMENT_BATEY_NAME">
+			<Text>Batey</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_BATEY_DESCRIPTION">
+			<Text>Unlocks the Builder ability to construct a Batey.[NEWLINE][NEWLINE]+1 [ICON_Culture] Culture. +1 [ICON_Culture] Culture for every adjacent Bonus Resource and Entertainment Complex (increased to +2 [Icon_Culture] Culture when Exploration is discovered). Provides [Icon_Tourism] Tourism after researching Flight. Cannot be built adjacent to another Batey or on Hills.</Text>
+		</Row>
+    <Row Tag="LOC_IMPROVEMENT_METEOR_GOODY_NAME">
+      <Text>Meteor Site</Text>
+    </Row>
+    <Row Tag="LOC_IMPROVEMENT_METEOR_GOODY_DESCRIPTION">
+      <Text>Left by meteor shower disasters.  Moving on to this tile with any unit grants a free, resource-free heavy cavalry unit more powerful than what the player can currently build.</Text>
+    </Row>
+    <Row Tag="LOC_METEOR_GOODIES_GRANT_UNIT_DESCRIPTION">
+      <Text>[COLOR_FLOAT_MILITARY]Free military unit![ENDCOLOR]</Text>
+    </Row>
+  </EnglishText>
+</GameData>

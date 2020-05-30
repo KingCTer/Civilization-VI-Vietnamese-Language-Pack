@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Dennis Shirk (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+		<!-- Misc -->
+		<Delete Tag="LOC_TERRAIN_DESERT_NAME"/>
+		<Delete Tag="LOC_TERRAIN_DESERT_HILLS_NAME"/>
+		<Delete Tag="LOC_TERRAIN_DESERT_MOUNTAIN_NAME"/>
+		<Delete Tag="LOC_TERRAIN_GRASS_NAME"/>
+		<Delete Tag="LOC_TERRAIN_GRASS_HILLS_NAME"/>
+		<Delete Tag="LOC_TERRAIN_GRASS_MOUNTAIN_NAME"/>
+		<Delete Tag="LOC_TERRAIN_OCEAN_NAME"/>
+		<Delete Tag="LOC_TOOLTIP_LAKE"/>
+		<Delete Tag="LOC_TOOLTIP_COAST"/>
+		<Delete Tag="LOC_TERRAIN_PLAINS_NAME"/>
+		<Delete Tag="LOC_TERRAIN_PLAINS_HILLS_NAME"/>
+		<Delete Tag="LOC_TERRAIN_PLAINS_MOUNTAIN_NAME"/>
+		<Delete Tag="LOC_TERRAIN_SNOW_NAME"/>
+		<Delete Tag="LOC_TERRAIN_SNOW_HILLS_NAME"/>
+		<Delete Tag="LOC_TERRAIN_SNOW_MOUNTAIN_NAME"/>
+		<Delete Tag="LOC_TERRAIN_TUNDRA_NAME"/>
+		<Delete Tag="LOC_TERRAIN_TUNDRA_HILLS_NAME"/>
+		<Delete Tag="LOC_TERRAIN_TUNDRA_MOUNTAIN_NAME"/>
+		<Delete Tag="LOC_FEATURE_ICE_NAME"/>
+		<Delete Tag="LOC_FEATURE_MARSH_NAME"/>
+		<Delete Tag="LOC_UNIT_SETTLER_NAME"/>
+		<Delete Tag="LOC_NOTIFICATION_DISCOVER_GOODY_HUT_MESSAGE"/>
+		<Delete Tag="LOC_NOTIFICATION_DISCOVER_GOODY_HUT_SUMMARY"/>
+		<Delete Tag="LOC_IMPROVEMENT_BARBARIAN_CAMP_NAME"/>
+		<Delete Tag="LOC_CIVILIZATION_BARBARIAN_NAME"/>
+		<Delete Tag="LOC_CIVILIZATION_BARBARIAN_DESCRIPTION"/>
+		<Delete Tag="LOC_NOTIFICATION_NEW_BARBARIAN_CAMP_MESSAGE"/>
+		<Delete Tag="LOC_NOTIFICATION_NEW_BARBARIAN_CAMP_SUMMARY"/>
+	</LocalizedText>
+</GameData>

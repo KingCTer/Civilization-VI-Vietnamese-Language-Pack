@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Mod id="E2749E9A-8056-45CD-901B-C368C8E83DEB" version="1">
+	<Properties>
+		<Name>LOC_MACEDONIA_PERSIA_MOD_TITLE</Name>
+		<Teaser>LOC_MACEDONIA_PERSIA_MOD_TEASER</Teaser>
+		<Description>LOC_MACEDONIA_PERSIA_MOD_DESCRIPTION</Description>
+		<Authors>LOC_MOD_AUTHORS_FIRAXIS</Authors>
+		<EnabledByDefault>1</EnabledByDefault>
+    <CompatibleVersions>2.0</CompatibleVersions>
+	</Properties>
+	<ReverseReferences>
+		<Mod id="1B28771A-C749-434B-9053-D1380C553DE9" title="LOC_EXPANSION1_MOD_TITLE"/>
+		<Mod id="4873eb62-8ccc-4574-b784-dda455e74e68" title="LOC_EXPANSION2_MOD_TITLE"/>
+	</ReverseReferences>
+	<ActionCriteria>
+		<Criteria id="MacedoniaPersia" any="1">
+			<LeaderPlayable>Players:StandardPlayers::LEADER_ALEXANDER,Players:StandardPlayers::LEADER_CYRUS,StandardPlayers::LEADER_ALEXANDER,StandardPlayers::LEADER_CYRUS,Players:Expansion1_Players::LEADER_ALEXANDER,Players:Expansion2_Players::LEADER_CYRUS,Players:Expansion2_Players::LEADER_ALEXANDER,Players:Expansion2_Players::LEADER_CYRUS</LeaderPlayable>
+			<RuleSetInUse>RULESET_STANDARD,RULESET_EXPANSION_1,RULESET_EXPANSION_2</RuleSetInUse>
+		</Criteria>
+		<Criteria id="MacedoniaPersia_Base" any="1">
+			<LeaderPlayable>Players:StandardPlayers::LEADER_ALEXANDER,Players:StandardPlayers::LEADER_CYRUS</LeaderPlayable>
+			<RuleSetInUse>RULESET_STANDARD</RuleSetInUse>
+		</Criteria>
+		<Criteria id="MacedoniaPersia_Expansion1" any="1">
+			<LeaderPlayable>Players:Expansion1_Players::LEADER_ALEXANDER,Players:Expansion1_Players::LEADER_CYRUS</LeaderPlayable>
+			<RuleSetInUse>RULESET_EXPANSION_1</RuleSetInUse>
+		</Criteria>
+		<Criteria id="MacedoniaPersia_Expansion2" any="1">
+			<LeaderPlayable>Players:Expansion2_Players::LEADER_ALEXANDER,Players:Expansion2_Players::LEADER_CYRUS</LeaderPlayable>
+			<RuleSetInUse>RULESET_EXPANSION_2</RuleSetInUse>
+		</Criteria>
+	</ActionCriteria>
+	<InGameActions>
+		<UpdateArt id="MacedoniaArt" criteria="MacedoniaPersia">
+			<File>DLC4.dep</File>
+		</UpdateArt>
+		<UpdateAudio id="MacedoniaAudio" criteria="MacedoniaPersia">
+			<File>Platforms/Windows/Audio/DLC04Banks.ini</File>
+			<File>Platforms/Windows/Audio/DLC04_Music_Bank.bnk</File>
+			<File>Platforms/Windows/Audio/DLC04_Music_Bank.txt</File>
+			<File>Platforms/Windows/Audio/DLC04_Music_Bank.xml</File>
+		</UpdateAudio>
+		<UpdateColors id="MacedoniaColors" criteria="MacedoniaPersia">
+			<File>Data/Macedonia_Persia_Colors.xml</File>
+			<File>Data/Macedonia_Persia_PlayerColors.xml</File>
+		</UpdateColors>
+		<UpdateDatabase id="MacedoniaGameplay" criteria="MacedoniaPersia_Base">
+			<File>Data/Macedonia_Persia_GameplayData.xml</File>
+		</UpdateDatabase>
+		<UpdateDatabase id="MacedoniaGameplay_XP1" criteria="MacedoniaPersia_Expansion1">
+			<File Priority="1">Data/Macedonia_Persia_GameplayData.xml</File>
+			<File>Data/Macedonia_Persia_Expansion1.xml</File>
+		</UpdateDatabase>
+		<UpdateDatabase id="MacedoniaGameplay_XP2" criteria="MacedoniaPersia_Expansion2">
+			<File Priority="1">Data/Macedonia_Persia_GameplayData.xml</File>
+			<File>Data/Macedonia_Persia_Expansion2.xml</File>
+		</UpdateDatabase>
+		<UpdateIcons id="MacedoniaGameplayIcons" criteria="MacedoniaPersia">
+			<File>Data/Macedonia_Persia_Icons_Buildings.xml</File>
+			<File>Data/Macedonia_Persia_Icons_Civilizations.xml</File>
+			<File>Data/Macedonia_Persia_Icons_Leaders.xml</File>
+			<File>Data/Macedonia_Persia_Icons_UnitActions.xml</File>
+			<File>Data/Macedonia_Persia_Icons_UnitPortraits.xml</File>
+			<File>Data/Macedonia_Persia_Icons_Units.xml</File>
+			<File>Data/Macedonia_Persia_Icons_Wonders.xml</File>
+		</UpdateIcons>
+		<UpdateLogitechARX id="MacedoniaARX" criteria="MacedoniaPersia">
+			<File>Data/ARX/Civ_LEADER_ALEXANDER.png</File>
+			<File>Data/ARX/Civ_LEADER_CYRUS.png</File>
+		</UpdateLogitechARX>
+		<UpdateText id="MacedoniaText" criteria="MacedoniaPersia">
+			<File Priority="1">Text/en_US/Macedonia_Persia_ConfigText.xml</File>
+			<File Priority="1">Text/en_US/Macedonia_Persia_CivilopediaText.xml</File>
+			<File Priority="1">Text/en_US/Macedonia_Persia_GameplayText.xml</File>
+			<File>Text/Macedonia_Persia_Translations_ConfigText.xml</File>
+			<File>Text/Macedonia_Persia_Translations_ConfigText_China.xml</File>
+			<File>Text/Macedonia_Persia_Translations_Text.xml</File>
+			<File>Text/Macedonia_Persia_Translations_Text_China.xml</File>
+		</UpdateText>
+	</InGameActions>
+	<FrontEndActions>
+		<UpdateArt id="MacedoniaSettingsArt">
+			<File>DLC4.dep</File>
+		</UpdateArt>
+		<UpdateDatabase id="MacedoniaSettings">
+			<File>Data/Macedonia_Persia_ConfigData.xml</File>
+		</UpdateDatabase>
+		<UpdateColors id="MacedoniaSettingsColors">
+			<File>Data/Macedonia_Persia_Colors.xml</File>
+			<File>Data/Macedonia_Persia_PlayerColors.xml</File>
+		</UpdateColors>
+		<UpdateIcons id="MacedoniaFrontEndIcons">
+			<File>Data/Macedonia_Persia_Icons_Buildings.xml</File>
+			<File>Data/Macedonia_Persia_Icons_Civilizations.xml</File>
+			<File>Data/Macedonia_Persia_Icons_Leaders.xml</File>
+			<File>Data/Macedonia_Persia_Icons_UnitActions.xml</File>
+			<File>Data/Macedonia_Persia_Icons_UnitPortraits.xml</File>
+			<File>Data/Macedonia_Persia_Icons_Units.xml</File>
+		</UpdateIcons>
+		<UpdateText id="MacedoniaSettingsText">
+			<File Priority="1">Text/en_US/Macedonia_Persia_ConfigText.xml</File>
+			<File>Text/Macedonia_Persia_Translations_ConfigText.xml</File>
+			<File>Text/Macedonia_Persia_Translations_ConfigText_China.xml</File>
+		</UpdateText>
+	</FrontEndActions>
+	<Files>
+		<File>DLC4.dep</File>
+		<File>Data/ARX/Civ_LEADER_ALEXANDER.png</File>
+		<File>Data/ARX/Civ_LEADER_CYRUS.png</File>
+		<File>Data/Macedonia_Persia_Colors.xml</File>
+		<File>Data/Macedonia_Persia_ConfigData.xml</File>
+		<File>Data/Macedonia_Persia_Expansion1.xml</File>
+		<File>Data/Macedonia_Persia_Expansion2.xml</File>
+		<File>Data/Macedonia_Persia_GameplayData.xml</File>
+		<File>Data/Macedonia_Persia_Icons_Buildings.xml</File>
+		<File>Data/Macedonia_Persia_Icons_Civilizations.xml</File>
+		<File>Data/Macedonia_Persia_Icons_Leaders.xml</File>
+		<File>Data/Macedonia_Persia_Icons_UnitActions.xml</File>
+		<File>Data/Macedonia_Persia_Icons_UnitPortraits.xml</File>
+		<File>Data/Macedonia_Persia_Icons_Units.xml</File>
+		<File>Data/Macedonia_Persia_Icons_Wonders.xml</File>
+		<File>Data/Macedonia_Persia_PlayerColors.xml</File>
+		<File>Platforms/Windows/Audio/DLC04Banks.ini</File>
+		<File>Platforms/Windows/Audio/DLC04_Music_Bank.bnk</File>
+		<File>Platforms/Windows/Audio/DLC04_Music_Bank.txt</File>
+		<File>Platforms/Windows/Audio/DLC04_Music_Bank.xml</File>
+		<File>Text/Macedonia_Persia_Translations_ConfigText.xml</File>
+		<File>Text/Macedonia_Persia_Translations_ConfigText_China.xml</File>
+		<File>Text/Macedonia_Persia_Translations_Text.xml</File>
+		<File>Text/Macedonia_Persia_Translations_Text_China.xml</File>
+		<File>Text/en_US/Macedonia_Persia_CivilopediaText.xml</File>
+		<File>Text/en_US/Macedonia_Persia_ConfigText.xml</File>
+		<File>Text/en_US/Macedonia_Persia_GameplayText.xml</File>
+	</Files>
+</Mod>

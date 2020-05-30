@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<Row Tag="LOC_MACEDONIA_PERSIA_MOD_TITLE">
+			<Text>DLC: Persia and Macedon Civilization Pack</Text>
+		</Row>
+		<Row Tag="LOC_MACEDONIA_PERSIA_MOD_TEASER">
+			<Text>New Civilizations and Leaders - Alexander the Great of Macedon and Cyrus of Persia</Text>
+		</Row>
+		<Row Tag="LOC_MACEDONIA_PERSIA_MOD_DESCRIPTION">
+			<Text>Contains two new civilizations, two leaders, and two new world wonders.</Text>
+		</Row>
+		<Row Tag="LOC_MOD_ALEXANDER_SCENARIO_TITLE">
+			<Text>Scenario: Conquests of Alexander</Text>
+		</Row>
+		<Row Tag="LOC_MOD_ALEXANDER_SCENARIO_TEASER">
+			<Text>Can you conquer an empire worthy of Alexander the Great? Lasts no more than 60 Turns.</Text>
+		</Row>
+		<Row Tag="LOC_MOD_ALEXANDER_SCENARIO_DESCRIPTION">
+			<Text>In this timed single-player scenario, you must rush to expand your empire to truly earn the title of "Alexander the Great." This scenario emphasizes combat, territorial expansion, and calculated use of the Great Generals who will fight by your side.[NEWLINE][NEWLINE]To win, conquer every city on the map within a number of turns determined by your difficulty level:[NEWLINE][NEWLINE]Settler: 60 turns[NEWLINE]Warlord or Chieftain: 55 turns[NEWLINE]King or Prince: 50 turns[NEWLINE]Immortal or Emperor: 45 turns[NEWLINE]Deity: 37 turns</Text>
+		</Row>
+	</EnglishText>
+</GameData>
+

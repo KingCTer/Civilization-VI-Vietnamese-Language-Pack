@@ -1,0 +1,457 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <LocalizedText>
+    <Replace Tag="LOC_BUILDING_SUKIENNICE_NAME" Language="pt_BR">
+      <Text>Sukiennice|Sukiennices</Text>
+      <Gender>feminine|feminine</Gender>
+      <Plurality>1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_POLAND_NAME" Language="pt_BR">
+      <Text>Polônia</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_JADWIGA_NAME" Language="pt_BR">
+      <Text>Edviges</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_GOLDEN_LIBERTY_NAME" Language="pt_BR">
+      <Text>Liberdade dourada</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_GOLDEN_LIBERTY_DESCRIPTION" Language="pt_BR">
+      <Text>Usa explosão cultural em painéis adjacentes ao completar um Acampamento ou Forte em território amistoso. Um espaço de política militar no governo atual é convertido em um espaço de políticas de base.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_LITHUANIAN_UNION_NAME" Language="pt_BR">
+      <Text>União Lituana</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_LITHUANIAN_UNION_DESCRIPTION" Language="pt_BR">
+      <Text>A religião fundada pela Polônia se torna majoritária em uma cidade adjacente que perca um painel devido a uma explosão cultural polonesa. Locais Sagrados recebem um bônus padrão de adjacência de fé de distritos adjacentes. Todas as relíquias concedem fé (+2), cultura (+2) e ouro (+4) bônus.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_LITHUANIAN_UNION_ALT_DESCRIPTION" Language="pt_BR">
+      <Text>A religião fundada pela Polônia se torna majoritária em uma cidade adjacente que perca um painel devido a uma explosão cultural polonesa. Locais Sagrados recebem um grande bônus de adjacência de fé de Acampamentos adjacentes. Todas as relíquias concedem fé (+2), cultura (+2) e ouro (+4) bônus.</Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_SUKIENNICE_DESCRIPTION" Language="pt_BR">
+      <Text>Uma construção exclusiva da Polônia. [ICON_TradeRoute] Rotas comerciais internacionais desta cidade recebem +2 de [ICON_Production] produção; [ICON_TradeRoute] rotas comerciais domésticas recebem +4 de [ICON_Gold] ouro.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_POLISH_HUSSAR_DESCRIPTION" Language="pt_BR">
+      <Text>Unidade exclusiva polonesa da Era Medieval. Empurra unidades inimigas defensivas de volta para seu hexágono em qualquer batalha na qual causarem mais dano. Defensores que não puderem recuar sofrem danos adicionais.</Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_SUKIENNICE_EXPANSION1_DESCRIPTION" Language="pt_BR">
+      <Text>Uma construção exclusiva da Polônia. [ICON_TradeRoute] Rotas comerciais internacionais desta cidade recebem +2 de [ICON_Production] produção; [ICON_TradeRoute] rotas comerciais domésticas recebem +4 de [ICON_Gold] ouro. +1 de capacidade de [ICON_TradeRoute] rota comercial se esta cidade ainda não tiver um Farol.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_POLISH_HUSSAR_NAME" Language="pt_BR">
+      <Text>Hussardo Alado|Hussardos Alados</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_SUKIENNICE_NAME" Language="fr_FR">
+      <Text>Halle aux draps|Halles aux draps</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_POLAND_NAME" Language="fr_FR">
+      <Text>Pologne</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_JADWIGA_NAME" Language="fr_FR">
+      <Text>Hedwige Ière</Text>
+      <Gender>feminine:no_article</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_GOLDEN_LIBERTY_NAME" Language="fr_FR">
+      <Text>Liberté dorée</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_GOLDEN_LIBERTY_DESCRIPTION" Language="fr_FR">
+      <Text>Les campements et forts en territoire allié déclenchent une bombe culturelle qui capture les cases adjacentes. Un emplacement de doctrine militaire de votre gouvernement actuel est converti en emplacement Joker.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_LITHUANIAN_UNION_NAME" Language="fr_FR">
+      <Text>Union lituanienne</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_LITHUANIAN_UNION_DESCRIPTION" Language="fr_FR">
+      <Text>La religion fondée par la Pologne devient majoritaire dans une ville adjacente qui perd une case suite à la bombe culturelle polonaise. Les lieux saints reçoivent un important bonus de foi pour les quartiers adjacents. Toutes les reliques offrent des bonus : [ICON_Faith] foi +2, [ICON_Culture] culture +2 et [ICON_Gold] or +4.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_LITHUANIAN_UNION_ALT_DESCRIPTION" Language="fr_FR">
+      <Text>La religion fondée par la Pologne devient majoritaire dans une ville adjacente qui perd une case suite à la bombe culturelle polonaise. Les lieux saints reçoivent un important bonus de foi pour les campements adjacents. Toutes les reliques offrent des bonus : [ICON_Faith] foi +2, [ICON_Culture] culture +2 et [ICON_Gold] or +4.</Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_SUKIENNICE_DESCRIPTION" Language="fr_FR">
+      <Text>Bâtiment exclusif à la Pologne. [ICON_Production] Production +2 pour les [ICON_TradeRoute] routes commerciales internationales issues de cette ville, [ICON_Gold] Or +4 pour les [ICON_TradeRoute] routes commerciales intérieures.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_POLISH_HUSSAR_DESCRIPTION" Language="fr_FR">
+      <Text>Exclusive à la Pologne, cette unité du Moyen-âge repousse les unités ennemies en défense dans les combats où elle a l'avantage. Les défenseurs ne pouvant pas battre en retraite subissent des dégâts additionnels.</Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_SUKIENNICE_EXPANSION1_DESCRIPTION" Language="fr_FR">
+      <Text>Bâtiment exclusif à la Pologne. [ICON_Production] Production +2 pour les [ICON_TradeRoute] routes commerciales internationales issues de cette ville, [ICON_Gold] or +4 pour les [ICON_TradeRoute] routes commerciales intérieures. [ICON_TradeRoute] Routes commerciales +1 si la ville ne possède pas encore de phare.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_POLISH_HUSSAR_NAME" Language="fr_FR">
+      <Text>Hussard ailé|Hussards ailés</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_SUKIENNICE_NAME" Language="de_DE">
+      <Text>Sukiennice|Sukiennice|Sukiennice|Sukiennice|Sukiennice</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_POLAND_NAME" Language="de_DE">
+      <Text>Polen|Polen|Polen|Polens|Polen</Text>
+      <Gender>neuter:no_article</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_JADWIGA_NAME" Language="de_DE">
+      <Text>Hedwig</Text>
+      <Gender>feminine:no_article</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_GOLDEN_LIBERTY_NAME" Language="de_DE">
+      <Text>Goldene Freiheit</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_GOLDEN_LIBERTY_DESCRIPTION" Language="de_DE">
+      <Text>Kulturschock auf angrenzenden Geländefeldern bei Fertigstellung eines Lagers oder einer Festung innerhalb freundlich gesinnten Gebiets. Ein Militärpolitik-Platz in der aktuellen Regierung wird in einen Joker-Platz umgewandelt.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_LITHUANIAN_UNION_NAME" Language="de_DE">
+      <Text>Polnisch-Litauische Union</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_LITHUANIAN_UNION_DESCRIPTION" Language="de_DE">
+      <Text>Die von Polen gegründete Religion wird zur Mehrheitsreligion in einer angrenzenden Stadt, die ein Geländefeld durch einen polnischen Kulturschock verliert. Heilige Stätten erhalten den normalen Glauben-Nachbarschaftsbonus von angrenzenden Bezirken. Alle Relikte gewähren einen Bonus auf Glauben (+2), Kultur (+2) und Gold (+4).</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_LITHUANIAN_UNION_ALT_DESCRIPTION" Language="de_DE">
+      <Text>Die von Polen gegründete Religion wird zur Mehrheitsreligion in einer angrenzenden Stadt, die ein Geländefeld durch einen polnischen Kulturschock verliert. Heilige Stätten erhalten einen bedeutenden Glauben-Nachbarschaftsbonus von angrenzenden Lagern. Alle Relikte gewähren einen Bonus auf Glauben (+2), Kultur (+2) und Gold (+4).</Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_SUKIENNICE_DESCRIPTION" Language="de_DE">
+      <Text>Einzigartiges Gebäude von Polen. Internationale [ICON_TradeRoute] Handelswege von dieser Stadt erhalten +2 [ICON_Production] Produktion; inländische [ICON_TradeRoute] Handelswege erhalten +4 [ICON_Gold] Gold.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_POLISH_HUSSAR_DESCRIPTION" Language="de_DE">
+      <Text>Einzigartige Einheit Polens des Mittelalters. Drängt verteidigende feindliche Einheiten zurück von ihrem Geländefeld in jedem Kampf, bei dem sie mehr Schaden nehmen. Verteidiger, die sich nicht zurückziehen können, erleiden zusätzlichen Schaden.</Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_SUKIENNICE_EXPANSION1_DESCRIPTION" Language="de_DE">
+      <Text>Einzigartiges Gebäude von Polen. Internationale [ICON_TradeRoute] Handelswege von dieser Stadt erhalten +2 [ICON_Production] Produktion; inländische [ICON_TradeRoute] Handelswege erhalten +4 [ICON_Gold] Gold. +1 [ICON_TradeRoute] Handelsweg-Kapazität, wenn diese Stadt noch nicht über einen Leuchtturm verfügt.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_POLISH_HUSSAR_NAME" Language="de_DE">
+      <Text>Flügelhusar|Flügelhusar|Flügelhusaren|Flügelhusaren|Flügelhusar</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_SUKIENNICE_NAME" Language="it_IT">
+      <Text>Sukiennice|il Sukiennice|un Sukiennice</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_POLAND_NAME" Language="it_IT">
+      <Text>Polonia|della Polonia|alla Polonia|la Polonia|dalla Polonia</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_JADWIGA_NAME" Language="it_IT">
+      <Text>Edvige|di Edvige|a Edvige|Edvige|da Edvige</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_GOLDEN_LIBERTY_NAME" Language="it_IT">
+      <Text>Libertà dorata</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_GOLDEN_LIBERTY_DESCRIPTION" Language="it_IT">
+      <Text>Quando completi un Accampamento o un Forte in territorio amico scateni una Bomba culturale nelle caselle adiacenti. Uno slot per politiche militari nel governo attuale viene convertito in uno slot jolly.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_LITHUANIAN_UNION_NAME" Language="it_IT">
+      <Text>Unione Lituana</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_LITHUANIAN_UNION_DESCRIPTION" Language="it_IT">
+      <Text>La religione fondata dalla Polonia diventa quella di maggioranza in una città adiacente che perde una casella per una Bomba culturale polacca. I Luoghi Santi ottengono un bonus standard per la posizione dai distretti adiacenti. Tutte le reliquie forniscono un bonus alla Fede (+2), alla Cultura (+2) e all'Oro (+4).</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_LITHUANIAN_UNION_ALT_DESCRIPTION" Language="it_IT">
+      <Text>La religione fondata dalla Polonia diventa quella di maggioranza in una città adiacente che perde una casella per una Bomba culturale polacca. I Luoghi Santi ottengono un grande bonus per la posizione dagli Accampamenti adiacenti. Tutte le reliquie forniscono un bonus alla Fede (+2), alla Cultura (+2) e all'Oro (+4).</Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_SUKIENNICE_DESCRIPTION" Language="it_IT">
+      <Text>Edificio esclusivo polacco. Le [ICON_TradeRoute] Rotte commerciali internazionali che partono da questa città forniscono +2 [ICON_Production] Produzione; le [ICON_TradeRoute] Rotte commerciali interne forniscono +4 [ICON_Gold] Oro.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_POLISH_HUSSAR_DESCRIPTION" Language="it_IT">
+      <Text>Unità esclusiva della Polonia, di epoca medievale. Quando in battaglia infligge più danni di quelli subiti da un'unità nemica che si difende, quell'unità è respinta al di fuori della sua casella. Le unità nemiche che non possono ritirarsi subiscono danni aggiuntivi.</Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_SUKIENNICE_EXPANSION1_DESCRIPTION" Language="it_IT">
+      <Text>Edificio esclusivo polacco. Le [ICON_TradeRoute] Rotte commerciali internazionali che partono da questa città forniscono +2 [ICON_Production] Produzione; le [ICON_TradeRoute] Rotte commerciali interne forniscono +4 [ICON_Gold] Oro. +1 capacità [ICON_TradeRoute] Rotte commerciali se la città non ha già un edificio Faro.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_POLISH_HUSSAR_NAME" Language="it_IT">
+      <Text>Ussaro alato|un Ussaro alato|dal tuo Ussaro alato|al tuo Ussaro alato|il tuo Ussaro alato|da un Ussaro alato</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_SUKIENNICE_NAME" Language="ja_JP">
+      <Text>織物会館</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_POLAND_NAME" Language="ja_JP">
+      <Text>ポーランド</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_JADWIGA_NAME" Language="ja_JP">
+      <Text>ヤドヴィガ</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_GOLDEN_LIBERTY_NAME" Language="ja_JP">
+      <Text>黄金の自由</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_GOLDEN_LIBERTY_DESCRIPTION" Language="ja_JP">
+      <Text>友好的な領土に兵営か要塞を完成させると、隣接するタイルで文化爆弾が発動する。現在の政府の軍事政策スロットがワイルドカードスロットに変化する。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_LITHUANIAN_UNION_NAME" Language="ja_JP">
+      <Text>リトアニア連合</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_LITHUANIAN_UNION_DESCRIPTION" Language="ja_JP">
+      <Text>隣接し、かつポーランドの文化爆弾でタイルを失った都市において、ポーランドの創始した宗教が主流になる。聖地は隣接する区域から通常の信仰力ボーナスを得る。すべての遺物が信仰力+2、文化力+2、ゴールド+4のボーナスをもたらす。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_LITHUANIAN_UNION_ALT_DESCRIPTION" Language="ja_JP">
+      <Text>隣接し、かつポーランドの文化爆弾でタイルを失った都市において、ポーランドの創始した宗教が主流になる。聖地は隣接する兵営から大規模な信仰力ボーナスを得る。すべての遺物が信仰力+2、文化力+2、ゴールド+4のボーナスをもたらす。</Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_SUKIENNICE_DESCRIPTION" Language="ja_JP">
+      <Text>ポーランド固有の建造物。この都市を起点とする国家間の [ICON_TradeRoute] 交易路の [ICON_Production] 生産力+2、自国の [ICON_TradeRoute] 交易路の [ICON_Gold] ゴールド+4。</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_POLISH_HUSSAR_DESCRIPTION" Language="ja_JP">
+      <Text>ポーランド固有の中世時代のユニット。防御側の敵ユニットをダメージで上回った場合は敵を後退させる。退却できない敵は追加ダメージを受ける。</Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_SUKIENNICE_EXPANSION1_DESCRIPTION" Language="ja_JP">
+      <Text>ポーランド固有の建造物。この都市を起点とする国家間の [ICON_TradeRoute] 交易路の [ICON_Production] 生産力+2、自国の [ICON_TradeRoute] 交易路の [ICON_Gold] ゴールド+4。灯台がない場合、 [ICON_TradeRoute] 交易路の数 +1。</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_POLISH_HUSSAR_NAME" Language="ja_JP">
+      <Text>ウイングフッサー</Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_SUKIENNICE_NAME" Language="ko_KR">
+      <Text>수키엔니체</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_POLAND_NAME" Language="ko_KR">
+      <Text>폴란드</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_JADWIGA_NAME" Language="ko_KR">
+      <Text>야드비가</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_GOLDEN_LIBERTY_NAME" Language="ko_KR">
+      <Text>황금의 자유</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_GOLDEN_LIBERTY_DESCRIPTION" Language="ko_KR">
+      <Text>우호적인 영토 내에서 주둔지 또는 요새를 완성할 때마다 인접 타일에 문화 폭탄을 투여합니다. 현재 정부의 군사 정책 슬롯 하나가 와일드카드 슬롯으로 변경됩니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_LITHUANIAN_UNION_NAME" Language="ko_KR">
+      <Text>리투아니아 연합</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_LITHUANIAN_UNION_DESCRIPTION" Language="ko_KR">
+      <Text>폴란드 창시 종교는 폴란드의 문화 폭탄으로 타일을 잃은 인접 도시의 대중 종교가 됩니다. 성지는 인접 특수지구로부터 일반적인 신앙 인접 보너스를 획득합니다. 모든 성유물은 신앙(+2), 문화(+2) 및 금(+4) 보너스를 제공합니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_LITHUANIAN_UNION_ALT_DESCRIPTION" Language="ko_KR">
+      <Text>폴란드 창시 종교는 폴란드의 문화 폭탄으로 타일을 잃은 인접 도시의 대중 종교가 됩니다. 성지는 인접 주둔지로부터 상당한 신앙 인접 보너스를 획득합니다. 모든 성유물은 신앙(+2), 문화(+2) 및 금(+4) 보너스를 제공합니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_SUKIENNICE_DESCRIPTION" Language="ko_KR">
+      <Text>폴란드 특유의 건물입니다. 해당 도시를 출발지로 하는 국제 [ICON_TradeRoute] 교역로에서 [ICON_Production] 생산력 +2, 국내 [ICON_TradeRoute] 교역로에서 [ICON_Gold] 금 +4를 획득합니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_POLISH_HUSSAR_DESCRIPTION" Language="ko_KR">
+      <Text>폴란드 특유의 중세 시대 유닛입니다. 공격 시 적보다 더 많은 피해를 입히면 방어하는 적 유닛을 타일 뒤로 밀어냅니다. 후퇴할 수 없는 방어 유닛은 추가 피해를 받습니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_SUKIENNICE_EXPANSION1_DESCRIPTION" Language="ko_KR">
+      <Text>폴란드 특유의 건물입니다. 이 도시의 국제 [ICON_TradeRoute] 교역로는 [ICON_Production] 생산력 +2를 제공합니다. 국내 [ICON_TradeRoute] 교역로는 [ICON_Gold] 금 +4를 제공합니다. 이 도시에 등대 건물이 없는 경우 [ICON_TradeRoute] 교역로 최대치가 +1 증가합니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_POLISH_HUSSAR_NAME" Language="ko_KR">
+      <Text>날개 달린 후사르</Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_SUKIENNICE_NAME" Language="pl_PL">
+      <Text>Sukiennice|Sukiennic|Sukiennicom|Sukiennice|Sukiennicami|Sukiennicach|Sukiennice|Sukiennic|Sukiennicom|Sukiennice|Sukiennicami|Sukiennicach</Text>
+      <Gender>feminine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_POLAND_NAME" Language="pl_PL">
+      <Text>Polska|Polski|Polsce|Polskę|Polską|Polsce|Polska|Polski|Polsce|Polskę|Polską|Polsce</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_JADWIGA_NAME" Language="pl_PL">
+      <Text>Jadwiga|Jadwigi|Jadwidze|Jadwigę|Jadwigą|Jadwidze|Jadwiga|Jadwigi|Jadwidze|Jadwigę|Jadwigą|Jadwidze</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_GOLDEN_LIBERTY_NAME" Language="pl_PL">
+      <Text>Złota wolność</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_GOLDEN_LIBERTY_DESCRIPTION" Language="pl_PL">
+      <Text>Ukończenie dzielnicy wojskowej lub fortu na przyjaznym terytorium bombarduje kulturowo sąsiednie pola. Jedno miejsce na doktrynę wojskową w aktualnym ustroju zostaje przekształcone w miejsce na dziką kartę.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_LITHUANIAN_UNION_NAME" Language="pl_PL">
+      <Text>Unia polsko-litewska</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_LITHUANIAN_UNION_DESCRIPTION" Language="pl_PL">
+      <Text>Religia założona przez Polskę staje się dominującą religią w miastach, które utracą pola z powodu polskiej bomby kulturowej. Dzielnice świątynne uzyskują standardową premię do wiary za sąsiedztwo dzielnic. Wszystkie relikwie zapewniają premię do wiary (+2), kultury (+2) i złota (+4).</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_LITHUANIAN_UNION_ALT_DESCRIPTION" Language="pl_PL">
+      <Text>Religia założona przez Polskę staje się dominującą religią w miastach, które utracą pola z powodu polskiej bomby kulturowej. Dzielnice świątynne uzyskują wysoką premię do wiary za sąsiedztwo dzielnicy wojskowej. Wszystkie relikwie zapewniają premię do wiary (+2), kultury (+2) i złota (+4).</Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_SUKIENNICE_DESCRIPTION" Language="pl_PL">
+      <Text>Budowla dostępna wyłącznie dla Polski. Międzynarodowe [ICON_TradeRoute] szlaki handlowe z tego miasta zyskują premię +2 do [ICON_Production] produkcji, a krajowe [ICON_TradeRoute] szlaki handlowe +4 do [ICON_Gold] złota.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_POLISH_HUSSAR_DESCRIPTION" Language="pl_PL">
+      <Text>Średniowieczna jednostka dostępna wyłącznie dla Polski. Zmusza obrońców przeciwnika do wycofania się z ich pola, jeśli zada im większe obrażenia, niż sama odniesie. Obrońcy, którzy nie mogą się wycofać, odnoszą dodatkowe obrażenia.</Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_SUKIENNICE_EXPANSION1_DESCRIPTION" Language="pl_PL">
+      <Text>Budowla dostępna wyłącznie dla Polski. Międzynarodowe [ICON_TradeRoute] szlaki handlowe z tego miasta zyskują premię +2 do [ICON_Production] produkcji, a krajowe [ICON_TradeRoute] szlaki handlowe +4 do [ICON_Gold] złota. +1 [ICON_TradeRoute] do maksymalnej liczby szlaków handlowych, jeśli w mieście nie ma jeszcze latarni morskiej.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_POLISH_HUSSAR_NAME" Language="pl_PL">
+      <Text>Husaria|Husarii|Husarii|Husarię|Husarią|Husarii|husaria|husarii|husarii|husarię|husarią|husarii</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_SUKIENNICE_NAME" Language="ru_RU">
+      <Text>Суконные ряды|суконных рядов|суконным рядам|суконные ряды|суконными рядами|суконных рядах</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_POLAND_NAME" Language="ru_RU">
+      <Text>Польша|Польши|Польше|Польшу|Польшей|Польше</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_JADWIGA_NAME" Language="ru_RU">
+      <Text>Ядвига|Ядвиги|Ядвиге|Ядвигу|Ядвигой|Ядвиге</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_GOLDEN_LIBERTY_NAME" Language="ru_RU">
+      <Text>Золотая вольность</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_GOLDEN_LIBERTY_DESCRIPTION" Language="ru_RU">
+      <Text>Производит культурный захват соседних клеток после строительства военного лагеря или форта на дружественной территории. Одна ячейка военного курса при текущей форме правления превращается в универсальную ячейку.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_LITHUANIAN_UNION_NAME" Language="ru_RU">
+      <Text>Литовский союз</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_LITHUANIAN_UNION_DESCRIPTION" Language="ru_RU">
+      <Text>Религия, основанная Польшей, получает большинство в одном из соседних городов, который теряет клетку в результате культурного захвата. Священные места получают стандартный бонус веры от соседства с районами. Все реликвии дают бонус к вере (+2), культуре (+2) и золоту (+4).</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_LITHUANIAN_UNION_ALT_DESCRIPTION" Language="ru_RU">
+      <Text>Религия, основанная Польшей, получает большинство в одном из соседних городов, который теряет клетку в результате культурного захвата. Священные места получают увеличенный бонус веры от соседства с военными лагерями. Все реликвии дают бонус к вере (+2), культуре (+2) и золоту (+4).</Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_SUKIENNICE_DESCRIPTION" Language="ru_RU">
+      <Text>Уникальное польское здание. Международные [ICON_TradeRoute] торговые пути из этого города дают +2 [ICON_Production] производства; внутренние [ICON_TradeRoute] торговые пути дают +4 [ICON_Gold] золота.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_POLISH_HUSSAR_DESCRIPTION" Language="ru_RU">
+      <Text>Уникальный польский юнит Средневековья. Отбрасывает обороняющийся вражеский юнит с занимаемой им клетки в случае, если нанесет больше урона, чем получит. Если вражеский юнит не может отступить, то получает дополнительный урон.</Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_SUKIENNICE_EXPANSION1_DESCRIPTION" Language="ru_RU">
+      <Text>Уникальное польское здание. Международные [ICON_TradeRoute] торговые пути из этого города дают +2 [ICON_Production] производства; внутренние [ICON_TradeRoute] торговые пути дают +4 [ICON_Gold] золота. +1 [ICON_TradeRoute] доступный торговый путь, если в городе еще нет маяка.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_POLISH_HUSSAR_NAME" Language="ru_RU">
+      <Text>Крылатые гусары|крылатых гусаров|крылатым гусарам|крылатых гусаров|крылатыми гусарами|крылатых гусарах</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_SUKIENNICE_NAME" Language="zh_Hans_CN">
+      <Text>纺织会馆</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_POLAND_NAME" Language="zh_Hans_CN">
+      <Text>波兰</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_JADWIGA_NAME" Language="zh_Hans_CN">
+      <Text>雅德维加</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_GOLDEN_LIBERTY_NAME" Language="zh_Hans_CN">
+      <Text>贵族民主制</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_GOLDEN_LIBERTY_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>在友好领土内建成军营或堡垒后对相邻单元格施放文化炸弹。当前政体的一个军事政策槽位将转换为一个通配符槽位。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_LITHUANIAN_UNION_NAME" Language="zh_Hans_CN">
+      <Text>立陶宛联邦</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_LITHUANIAN_UNION_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>如相邻城市在波兰文化炸弹的攻击下失去单元格，则波兰创立的宗教将成为此城中的主流宗教。圣地从相邻区域获得标准信仰值相邻加成。所有遗物均提供加成：信仰值+2、文化值+2、金币+4。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_LITHUANIAN_UNION_ALT_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>如相邻城市在波兰文化炸弹的攻击下失去单元格，则波兰创立的宗教将成为此城中的主流宗教。圣地从相邻军营获得大量信仰值相邻加成。所有遗物均提供加成：信仰值+2、文化值+2、金币+4。</Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_SUKIENNICE_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>波兰特色建筑。从此城开始的国际 [ICON_TradeRoute] 贸易路线+2 [ICON_Production] 生产力；国内 [ICON_TradeRoute] 贸易路线+4 [ICON_Gold] 金币。</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_POLISH_HUSSAR_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>波兰特色中世纪单位。伤害点数高于敌方的状况下，会将防守的敌方单位推至后方的单元格。无法后退的防守单位会遭受额外伤害。</Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_SUKIENNICE_EXPANSION1_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>波兰特色建筑。从此城开始的国际 [ICON_TradeRoute] 贸易路线+2 [ICON_Production] 生产力；国内 [ICON_TradeRoute] 贸易路线+4 [ICON_Gold] 金币。如此城尚未建有灯塔，则+1 [ICON_TradeRoute] 贸易路线容量。</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_POLISH_HUSSAR_NAME" Language="zh_Hans_CN">
+      <Text>翼骑兵</Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_SUKIENNICE_NAME" Language="es_ES">
+      <Text>Sukiennice|Sukiennices</Text>
+      <Gender>masculine|masculine</Gender>
+      <Plurality>1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_POLAND_NAME" Language="es_ES">
+      <Text>Polonia</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_JADWIGA_NAME" Language="es_ES">
+      <Text>Eduviges</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_GOLDEN_LIBERTY_NAME" Language="es_ES">
+      <Text>Libertad dorada</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_GOLDEN_LIBERTY_DESCRIPTION" Language="es_ES">
+      <Text>Bombardea culturalmente las casillas adyacentes al completar un Campamento o un Fuerte en territorio amistoso. Un espacio de política militar en el gobierno actual se convierte en un espacio comodín.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_LITHUANIAN_UNION_NAME" Language="es_ES">
+      <Text>Unión lituana</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_LITHUANIAN_UNION_DESCRIPTION" Language="es_ES">
+      <Text>La religión fundada por Polonia se convierte en mayoritaria en una ciudad adyacente que pierde una casilla por un Bombardeo cultural polaco. Los Lugares sagrados obtienen una bonificación normal de Fe por adyacencia de los distritos adyacentes. Todas las reliquias confieren una bonificación de Fe (+2), Cultura (+2) y Oro (+4).</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_LITHUANIAN_UNION_ALT_DESCRIPTION" Language="es_ES">
+      <Text>La religión fundada por Polonia se convierte en mayoritaria en una ciudad adyacente que pierde una casilla por un Bombardeo cultural polaco. Los Lugares sagrados obtienen una bonificación importante de Fe por adyacencia de los Campamentos adyacentes. Todas las reliquias confieren una bonificación de Fe (+2), Cultura (+2) y Oro (+4).</Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_SUKIENNICE_DESCRIPTION" Language="es_ES">
+      <Text>Un edificio exclusivo de Polonia. +2 a la Producción [ICON_Production] para las Rutas comerciales [ICON_TradeRoute] internacionales, y +4 de Oro [ICON_Gold] para las Rutas comerciales [ICON_TradeRoute] internas.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_POLISH_HUSSAR_DESCRIPTION" Language="es_ES">
+      <Text>Unidad exclusiva de Polonia de la Época medieval. Hace retroceder de su hexágono a las unidades defensoras enemigas en cualquier batalla en la que obtienen más daño. Los defensores que no pueden retirarse sufren daño adicional.</Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_SUKIENNICE_EXPANSION1_DESCRIPTION" Language="es_ES">
+      <Text>Un edificio exclusivo de Polonia. +2 a la Producción [ICON_Production] para las Rutas comerciales [ICON_TradeRoute] internacionales, y +4 de Oro [ICON_Gold] para las Rutas comerciales [ICON_TradeRoute] internas. +1 a la capacidad de Rutas comerciales [ICON_TradeRoute] si esta ciudad no cuenta ya con un Faro.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_POLISH_HUSSAR_NAME" Language="es_ES">
+      <Text>Húsar alado|Húsares alados</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_SUKIENNICE_NAME" Language="zh_Hant_HK">
+      <Text>紡織會館</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_POLAND_NAME" Language="zh_Hant_HK">
+      <Text>波蘭</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_JADWIGA_NAME" Language="zh_Hant_HK">
+      <Text>雅德維加</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_GOLDEN_LIBERTY_NAME" Language="zh_Hant_HK">
+      <Text>貴族民主制</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_GOLDEN_LIBERTY_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>在友方領土完成兵營或堡壘時對鄰近單元格進行文化轟炸。目前政體的一個軍事政策槽位會轉為通用槽位。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_LITHUANIAN_UNION_NAME" Language="zh_Hant_HK">
+      <Text>立陶宛邦聯</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_LITHUANIAN_UNION_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>如相鄰城市受波蘭文化炸彈攻擊失去單元格，波蘭所創立的宗教將成為此城的主流宗教。聖地從相鄰的區域獲得標準信仰值相鄰加成。所有遺跡提供加成：信仰值+2、文化+2與金幣+4。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_LITHUANIAN_UNION_ALT_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>如相鄰城市受波蘭文化炸彈攻擊失去單元格，波蘭所創立的宗教將成為此城的主流宗教。聖地從相鄰的營地獲得大量信仰值相鄰加成。所有遺跡提供加成：信仰值+2、文化+2與金幣+4。</Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_SUKIENNICE_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>波蘭特色建築。從此城市出發的國際 [ICON_TradeRoute] 貿易路線 +2 [ICON_Production] 生產力；國內 [ICON_TradeRoute] 貿易路線 +4 [ICON_Gold] 金幣。</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_POLISH_HUSSAR_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>波蘭的中世紀時期特色單位。傷害點數高於對方的狀況下，會將防守的敵方單位推至後方的單元格。無法後退的防守單位會遭受額外傷害。</Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_SUKIENNICE_EXPANSION1_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>波蘭特色建築。從此城市出發的國際 [ICON_TradeRoute] 貿易路線 +2 [ICON_Production] 生產力；國內 [ICON_TradeRoute] 貿易路線 +4 [ICON_Gold] 金幣。若此城市尚未擁有燈塔建築，則+1 [ICON_TradeRoute] 貿易路線容量。</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_POLISH_HUSSAR_NAME" Language="zh_Hant_HK">
+      <Text>翼騎兵</Text>
+    </Replace>
+  </LocalizedText>
+</GameData>

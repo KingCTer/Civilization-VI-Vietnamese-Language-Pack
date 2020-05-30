@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <EnglishText>
+    <Row Tag="LOC_POLAND_JADWIGA_MOD_TITLE">
+      <Text>DLC: Poland Civilization Pack</Text>
+    </Row>
+    <Row Tag="LOC_POLAND_JADWIGA_MOD_TEASER">
+      <Text>New Civilization and Leader - Jadwiga of Poland</Text>
+    </Row>
+    <Row Tag="LOC_POLAND_JADWIGA_MOD_DESCRIPTION">
+      <Text>Contains a new civilization and leader.</Text>
+    </Row>
+    <Row Tag="LOC_MOD_POLAND_SCENARIO_TITLE">
+      <Text>Scenario: Jadwiga's Legacy</Text>
+    </Row>
+    <Row Tag="LOC_MOD_POLAND_SCENARIO_TEASER">
+      <Text>Fight alongside two other players to defend Poland from foreign invasions.</Text>
+    </Row>
+    <Row Tag="LOC_MOD_POLAND_SCENARIO_DESCRIPTION">
+      <Text>In this 60 turn scenario, you stand at the crossroads of Europe, protecting the fertile Polish homelands from a constant barraging of invaders from all directions. Rally your Winged Hussars and face off against Teutonic Knights and Ottoman Turks as you grow your civilization.[NEWLINE][NEWLINE]The player with best empire by standard scoring at end of the game is the winner.</Text>
+    </Row>
+  </EnglishText>
+</GameData>
+

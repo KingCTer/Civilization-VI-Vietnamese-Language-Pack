@@ -1,0 +1,1364 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <LocalizedText>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_FRANCE_NAME" Language="pt_BR">
+      <Text>França</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_FRANCE_DESCRIPTION" Language="pt_BR">
+      <Text>Terceira República Francesa</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_FRANCE_ADJECTIVE" Language="pt_BR">
+      <Text>francês|francesa|franceses|francesas</Text>
+      <Gender>masculine|feminine|masculine|feminine</Gender>
+      <Plurality>1|1|2|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_GERMANY_NAME" Language="pt_BR">
+      <Text>Império Alemão</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_GERMANY_DESCRIPTION" Language="pt_BR">
+      <Text>Alemanha Imperial</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_GERMANY_ADJECTIVE" Language="pt_BR">
+      <Text>alemão|alemã|alemães|alemãs</Text>
+      <Gender>masculine|feminine|masculine|feminine</Gender>
+      <Plurality>1|1|2|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_BRITAIN_NAME" Language="pt_BR">
+      <Text>Bretanha</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_BRITAIN_DESCRIPTION" Language="pt_BR">
+      <Text>Reino Unido</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_BRITAIN_ADJECTIVE" Language="pt_BR">
+      <Text>britânico|britânica|britânicos|britânicas</Text>
+      <Gender>masculine|feminine|masculine|feminine</Gender>
+      <Plurality>1|1|2|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_BELGIUM_NAME" Language="pt_BR">
+      <Text>Bélgica</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_BELGIUM_DESCRIPTION" Language="pt_BR">
+      <Text>Reino da Bélgica</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_BELGIUM_ADJECTIVE" Language="pt_BR">
+      <Text>belga|belga|belgas|belgas</Text>
+      <Gender>masculine|feminine|masculine|feminine</Gender>
+      <Plurality>1|1|2|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_LUXEMBOURG_NAME" Language="pt_BR">
+      <Text>Luxemburgo</Text>
+      <Gender>neutral</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_LUXEMBOURG_DESCRIPTION" Language="pt_BR">
+      <Text>Grão-Ducado de Luxemburgo</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_LUXEMBOURG_ADJECTIVE" Language="pt_BR">
+      <Text>luxemburguês|luxemburguesa|luxemburgueses|luxemburguesas</Text>
+      <Gender>masculine|feminine|masculine|feminine</Gender>
+      <Plurality>1|1|2|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_WARMACHINE_SCENARIO_FRANCE_NAME" Language="pt_BR">
+      <Text>Alto Comando Francês</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_WARMACHINE_SCENARIO_GERMANY_NAME" Language="pt_BR">
+      <Text>Estado-Maior Alemão</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_WARMACHINE_SCENARIO_BRITAIN_NAME" Language="pt_BR">
+      <Text>Força Expd Britânica</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_WARMACHINE_SCENARIO_BELGIUM_NAME" Language="pt_BR">
+      <Text>Rei Alberto I</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_WARMACHINE_SCENARIO_LUXEMBOURG_NAME" Language="pt_BR">
+      <Text>Luxemburgo</Text>
+      <Gender>neutral</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_WARMACHINE_SCENARIO_ERA_INDUSTRIAL_DESCRIPTION" Language="pt_BR">
+      <Text>Neste cenário, você assume o comando dos exércitos da França ou da Alemanha durante o primeiro mês da Segunda Guerra Mundial. Você tem um exército enorme pronto para atacar, uma nação industrial pronta para apoiá-lo e apenas 40 turnos para capturar ou defender Paris. Você conseguirá triunfar no maior confronto armado que o mundo já viu? Ou uma guerra dessa escala e com essa velocidade sobrecarregará você?</Text>
+    </Replace>
+    <Replace Tag="LOC_WARMACHINE_SCENARIO_NAME" Language="pt_BR">
+      <Text>Máquina de Guerra</Text>
+    </Replace>
+    <Replace Tag="LOC_WARMACHINE_SCENARIO_SCORE_VICTORY_NAME" Language="pt_BR">
+      <Text>Vitória em Máquina de Guerra</Text>
+    </Replace>
+    <Replace Tag="LOC_WARMACHINE_SCENARIO_SCORE_VICTORY_TT" Language="pt_BR">
+      <Text>Com a Alemanha, você deve capturar Paris dentro do tempo limite. Com a França, você deve defender Paris até o tempo acabar.</Text>
+    </Replace>
+    <Replace Tag="LOC_VICTORY_WARMACHINE_SCENARIO_NAME" Language="pt_BR">
+      <Text>Vitória em Máquina de Guerra</Text>
+    </Replace>
+    <Replace Tag="LOC_VICTORY_WARMACHINE_SCENARIO_TEXT" Language="pt_BR">
+      <Text>Você venceu a sua campanha!</Text>
+    </Replace>
+    <Replace Tag="LOC_VICTORY_WARMACHINE_SCENARIO_TT" Language="pt_BR">
+      <Text>Para vencer com a Alemanha: capture Paris antes do tempo acabar. Para vencer com a França: defenda Paris até o tempo acabar.</Text>
+    </Replace>
+    <Replace Tag="LOC_MAPSIZE_WARMACHINE_SCENARIO_NAME" Language="pt_BR">
+      <Text>Frente Ocid. 1ª Guerra Mundial</Text>
+    </Replace>
+    <Replace Tag="LOC_MAPSIZE_WARMACHINE_SCENARIO_DESCRIPTION" Language="pt_BR">
+      <Text>Um mapa padrão representando a fronteira entre a França e a Alemanha em 1914.</Text>
+    </Replace>
+    <Replace Tag="LOC_WARMACHINE_SCENARIO_FRANCE_ABILITY_NAME" Language="pt_BR">
+      <Text>Attaque à Outrance</Text>
+    </Replace>
+    <Replace Tag="LOC_WARMACHINE_SCENARIO_FRANCE_ABILITY_DESCRIPTION" Language="pt_BR">
+      <Text>A infantaria ganha +4 de [ICON_Strength] força de combate quando ataca.</Text>
+    </Replace>
+    <Replace Tag="LOC_WARMACHINE_SCENARIO_GERMANY_ABILITY_NAME" Language="pt_BR">
+      <Text>Inovação dos Krupps</Text>
+    </Replace>
+    <Replace Tag="LOC_WARMACHINE_SCENARIO_GERMANY_ABILITY_DESCRIPTION" Language="pt_BR">
+      <Text>A artilharia ganha +4 de [ICON_Strength] força de combate quando ataca.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_FRANCE_NAME" Language="fr_FR">
+      <Text>France</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_FRANCE_DESCRIPTION" Language="fr_FR">
+      <Text>Troisième république française</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_FRANCE_ADJECTIVE" Language="fr_FR">
+      <Text>français|française|français|françaises</Text>
+      <Gender>masculine|feminine|masculine|feminine</Gender>
+      <Plurality>1|1|2|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_GERMANY_NAME" Language="fr_FR">
+      <Text>Empire allemand</Text>
+      <Gender>masculine:vowel</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_GERMANY_DESCRIPTION" Language="fr_FR">
+      <Text>Allemagne impériale</Text>
+      <Gender>feminine:vowel</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_GERMANY_ADJECTIVE" Language="fr_FR">
+      <Text>allemand|allemande|allemands|allemandes</Text>
+      <Gender>masculine:vowel|feminine:vowel|masculine:vowel|feminine:vowel</Gender>
+      <Plurality>1|1|2|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_BRITAIN_NAME" Language="fr_FR">
+      <Text>Grande-Bretagne</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_BRITAIN_DESCRIPTION" Language="fr_FR">
+      <Text>Royaume-Uni</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_BRITAIN_ADJECTIVE" Language="fr_FR">
+      <Text>britannique|britannique|britanniques|britanniques</Text>
+      <Gender>masculine|feminine|masculine|feminine</Gender>
+      <Plurality>1|1|2|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_BELGIUM_NAME" Language="fr_FR">
+      <Text>Belgique</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_BELGIUM_DESCRIPTION" Language="fr_FR">
+      <Text>Royaume de Belgique</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_BELGIUM_ADJECTIVE" Language="fr_FR">
+      <Text>belge|belge|belges|belges</Text>
+      <Gender>masculine|feminine|masculine|feminine</Gender>
+      <Plurality>1|1|2|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_LUXEMBOURG_NAME" Language="fr_FR">
+      <Text>Luxembourg</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_LUXEMBOURG_DESCRIPTION" Language="fr_FR">
+      <Text>Grand-duché de Luxembourg</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_LUXEMBOURG_ADJECTIVE" Language="fr_FR">
+      <Text>luxembourgeois|luxembourgeoise|luxembourgeois|luxembourgeoises</Text>
+      <Gender>masculine|feminine|masculine|feminine</Gender>
+      <Plurality>1|1|2|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_WARMACHINE_SCENARIO_FRANCE_NAME" Language="fr_FR">
+      <Text>État-major français</Text>
+      <Gender>masculine:vowel</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_WARMACHINE_SCENARIO_GERMANY_NAME" Language="fr_FR">
+      <Text>État-major allemand</Text>
+      <Gender>masculine:vowel</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_WARMACHINE_SCENARIO_BRITAIN_NAME" Language="fr_FR">
+      <Text>Corps expéditionnaire britannique</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_WARMACHINE_SCENARIO_BELGIUM_NAME" Language="fr_FR">
+      <Text>Albert Ier</Text>
+      <Gender>masculine:no_article</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_WARMACHINE_SCENARIO_LUXEMBOURG_NAME" Language="fr_FR">
+      <Text>Luxembourg</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_WARMACHINE_SCENARIO_ERA_INDUSTRIAL_DESCRIPTION" Language="fr_FR">
+      <Text>Dans ce scénario, vous commandez l'armée française ou allemande durant le premier mois de la Première Guerre mondiale. Votre armée est prête à frapper à tout moment avec le soutien de l'industrie. Vous avez 40 tours devant vous pour capturer Paris ou résister aux assauts allemands. Parviendrez-vous à sortir vainqueur du plus grand affrontement de l'histoire ? Ou vous laisserez-vous dépasser par ce conflit à grande échelle ?</Text>
+    </Replace>
+    <Replace Tag="LOC_WARMACHINE_SCENARIO_NAME" Language="fr_FR">
+      <Text>Machine de guerre</Text>
+    </Replace>
+    <Replace Tag="LOC_WARMACHINE_SCENARIO_SCORE_VICTORY_NAME" Language="fr_FR">
+      <Text>Machine de guerre : victoire</Text>
+    </Replace>
+    <Replace Tag="LOC_WARMACHINE_SCENARIO_SCORE_VICTORY_TT" Language="fr_FR">
+      <Text>À la tête de l'Allemagne, vous devez capturer Paris dans le temps imparti. Avec la France, vous devez défendre la capitale jusqu'à la fin du temps imparti.</Text>
+    </Replace>
+    <Replace Tag="LOC_VICTORY_WARMACHINE_SCENARIO_NAME" Language="fr_FR">
+      <Text>Machine de guerre : victoire</Text>
+    </Replace>
+    <Replace Tag="LOC_VICTORY_WARMACHINE_SCENARIO_TEXT" Language="fr_FR">
+      <Text>Vous avez remporté cette campagne !</Text>
+    </Replace>
+    <Replace Tag="LOC_VICTORY_WARMACHINE_SCENARIO_TT" Language="fr_FR">
+      <Text>Pour remporter la victoire avec l'Allemagne, capturez Paris avant la fin du temps imparti. Pour remporter la victoire avec la France, résistez à la capture jusqu'à la fin du temps imparti.</Text>
+    </Replace>
+    <Replace Tag="LOC_MAPSIZE_WARMACHINE_SCENARIO_NAME" Language="fr_FR">
+      <Text>1ère Guerre mondiale : Front ouest</Text>
+    </Replace>
+    <Replace Tag="LOC_MAPSIZE_WARMACHINE_SCENARIO_DESCRIPTION" Language="fr_FR">
+      <Text>Une carte standard représentant la frontière franco-allemande en 1914.</Text>
+    </Replace>
+    <Replace Tag="LOC_WARMACHINE_SCENARIO_FRANCE_ABILITY_NAME" Language="fr_FR">
+      <Text>Attaque à outrance</Text>
+    </Replace>
+    <Replace Tag="LOC_WARMACHINE_SCENARIO_FRANCE_ABILITY_DESCRIPTION" Language="fr_FR">
+      <Text>[ICON_Strength] Puissance d'attaque +4 pour les unités d'infanterie.</Text>
+    </Replace>
+    <Replace Tag="LOC_WARMACHINE_SCENARIO_GERMANY_ABILITY_NAME" Language="fr_FR">
+      <Text>Innovations de Krupp</Text>
+    </Replace>
+    <Replace Tag="LOC_WARMACHINE_SCENARIO_GERMANY_ABILITY_DESCRIPTION" Language="fr_FR">
+      <Text>[ICON_Strength] Puissance d'attaque +4 pour les unités d'artillerie.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_FRANCE_NAME" Language="de_DE">
+      <Text>Frankreich|Frankreich|Frankreich|Frankreichs|Frankreich</Text>
+      <Gender>neuter:no_article</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_FRANCE_DESCRIPTION" Language="de_DE">
+      <Text>Dritte Französische Republik|Dritte Französische Republik|Dritten Französischen Republik|Dritten Französischen Republik|Dritte Französische Republik</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_FRANCE_ADJECTIVE" Language="de_DE">
+      <Text>französisch|französischen|französische|französischer|französisches</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_GERMANY_NAME" Language="de_DE">
+      <Text>Deutsches Reich|Deutsche Reich|Deutschen Reich|Deutschen Reichs|Deutsche Reich</Text>
+      <Gender>neuter</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_GERMANY_DESCRIPTION" Language="de_DE">
+      <Text>Deutsches Kaiserreich|Deutsche Kaiserreich|Deutschen Kaiserreich|Deutschen Kaiserreichs|Deutsche Kaiserreich</Text>
+      <Gender>neuter</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_GERMANY_ADJECTIVE" Language="de_DE">
+      <Text>deutsch|deutschen|deutsche|deutscher|deutsches</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_BRITAIN_NAME" Language="de_DE">
+      <Text>Großbritannien|Großbritannien|Großbritannien|Großbritanniens|Großbritannien</Text>
+      <Gender>neuter:no_article</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_BRITAIN_DESCRIPTION" Language="de_DE">
+      <Text>Vereinigtes Königreich|Vereinigte Königreich|Vereinigten Königreich|Vereinigten Königreichs|Vereinigte Königreich</Text>
+      <Gender>neuter</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_BRITAIN_ADJECTIVE" Language="de_DE">
+      <Text>britisch|britischen|britische|britischer|britisches</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_BELGIUM_NAME" Language="de_DE">
+      <Text>Belgien|Belgien|Belgien|Belgiens|Belgien</Text>
+      <Gender>neuter:no_article</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_BELGIUM_DESCRIPTION" Language="de_DE">
+      <Text>Königreich Belgien|Königreich Belgien|Königreich Belgien|Königreichs Belgien|Königreich Belgien</Text>
+      <Gender>neuter</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_BELGIUM_ADJECTIVE" Language="de_DE">
+      <Text>belgisch|belgischen|belgische|belgischer|belgisches</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_LUXEMBOURG_NAME" Language="de_DE">
+      <Text>Luxemburg|Luxemburg|Luxemburg|Luxemburgs|Luxemburg</Text>
+      <Gender>neuter:no_article</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_LUXEMBOURG_DESCRIPTION" Language="de_DE">
+      <Text>Großherzogtum Luxemburg|Großherzogtum Luxemburg|Großherzogtum Luxemburg|Großherzogtums Luxemburg|Großherzogtum Luxemburg</Text>
+      <Gender>neuter</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_LUXEMBOURG_ADJECTIVE" Language="de_DE">
+      <Text>luxemburgisch|luxemburgischen|luxemburgische|luxemburgischer|luxemburgisches</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_WARMACHINE_SCENARIO_FRANCE_NAME" Language="de_DE">
+      <Text>Französisches Kommando|Französische Kommando|Französischen Kommando|Französischen Kommandos|Französische Kommando</Text>
+      <Gender>neuter</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_WARMACHINE_SCENARIO_GERMANY_NAME" Language="de_DE">
+      <Text>Deutscher Generalstab|Deutschen Generalstab|Deutschen Generalstab|Deutschen Generalstabs|Deutsche Generalstab</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_WARMACHINE_SCENARIO_BRITAIN_NAME" Language="de_DE">
+      <Text>Britisches Expeditionskorps|Britische Expeditionskorps|Britischen Expeditionskorps|Britischen Expeditionskorps|Britische Expeditionskorps</Text>
+      <Gender>neuter</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_WARMACHINE_SCENARIO_BELGIUM_NAME" Language="de_DE">
+      <Text>König Albert I.</Text>
+      <Gender>masculine:no_article</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_WARMACHINE_SCENARIO_LUXEMBOURG_NAME" Language="de_DE">
+      <Text>Luxemburg|Luxemburg|Luxemburg|Luxemburgs|Luxemburg</Text>
+      <Gender>neuter:no_article</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_WARMACHINE_SCENARIO_ERA_INDUSTRIAL_DESCRIPTION" Language="de_DE">
+      <Text>In diesem Szenario befehligt Ihr die Armeen von Frankreich oder Deutschland im ersten Monat des Ersten Weltkriegs. Ihr habt eine enorme, angriffsbereite Armee, eine Industrienation im Rücken und nur 40 Runden, um Paris einzunehmen oder zu verteidigen. Könnt Ihr in der größten Auseinandersetzung, die die Welt je gesehen hat, den Sieg erringen? Oder wird Euch die Kriegsführung in diesem Ausmaß und Tempo überwältigen?</Text>
+    </Replace>
+    <Replace Tag="LOC_WARMACHINE_SCENARIO_NAME" Language="de_DE">
+      <Text>Kriegsmaschine</Text>
+    </Replace>
+    <Replace Tag="LOC_WARMACHINE_SCENARIO_SCORE_VICTORY_NAME" Language="de_DE">
+      <Text>Kriegsmaschine-Sieg</Text>
+    </Replace>
+    <Replace Tag="LOC_WARMACHINE_SCENARIO_SCORE_VICTORY_TT" Language="de_DE">
+      <Text>Als Deutschland müsst Ihr Paris innerhalb des Zeitlimits einnehmen. Als Frankreich müsst Ihr Paris gegen die Eroberung verteidigen, bis die Zeit abgelaufen ist.</Text>
+    </Replace>
+    <Replace Tag="LOC_VICTORY_WARMACHINE_SCENARIO_NAME" Language="de_DE">
+      <Text>Kriegsmaschine-Sieg</Text>
+    </Replace>
+    <Replace Tag="LOC_VICTORY_WARMACHINE_SCENARIO_TEXT" Language="de_DE">
+      <Text>Ihr seid siegreich aus Eurer Kampagne hervorgegangen!</Text>
+    </Replace>
+    <Replace Tag="LOC_VICTORY_WARMACHINE_SCENARIO_TT" Language="de_DE">
+      <Text>Um als Deutschland zu gewinnen: Nehmt Paris ein, bevor die Zeit um ist. Um als Frankreich zu gewinnen: Verteidigt Paris gegen die Eroberung, bis die Zeit abgelaufen ist.</Text>
+    </Replace>
+    <Replace Tag="LOC_MAPSIZE_WARMACHINE_SCENARIO_NAME" Language="de_DE">
+      <Text>Erster Weltkrieg: Westfront</Text>
+    </Replace>
+    <Replace Tag="LOC_MAPSIZE_WARMACHINE_SCENARIO_DESCRIPTION" Language="de_DE">
+      <Text>Eine Standardkarte, die die Grenzregion zwischen Frankreich und Deutschland im Jahr 1914 darstellt.</Text>
+    </Replace>
+    <Replace Tag="LOC_WARMACHINE_SCENARIO_FRANCE_ABILITY_NAME" Language="de_DE">
+      <Text>Angriff bis zum Äußersten</Text>
+    </Replace>
+    <Replace Tag="LOC_WARMACHINE_SCENARIO_FRANCE_ABILITY_DESCRIPTION" Language="de_DE">
+      <Text>Infanterie erhält beim Angriff +4 [ICON_Strength] Kampfstärke.</Text>
+    </Replace>
+    <Replace Tag="LOC_WARMACHINE_SCENARIO_GERMANY_ABILITY_NAME" Language="de_DE">
+      <Text>Krupp-Innovation</Text>
+    </Replace>
+    <Replace Tag="LOC_WARMACHINE_SCENARIO_GERMANY_ABILITY_DESCRIPTION" Language="de_DE">
+      <Text>Artillerie erhält beim Angriff +4 [ICON_Strength] Kampfstärke.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_FRANCE_NAME" Language="it_IT">
+      <Text>Francia|della Francia|alla Francia|la Francia|dalla Francia</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_FRANCE_DESCRIPTION" Language="it_IT">
+      <Text>Terza Repubblica francese|della Terza Repubblica francese|alla Terza Repubblica francese|la Terza Repubblica francese|dalla Terza Repubblica francese</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_FRANCE_ADJECTIVE" Language="it_IT">
+      <Text>francese|francese|francesi|francesi</Text>
+      <Gender>masculine|feminine|masculine|feminine</Gender>
+      <Plurality>1|1|2|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_GERMANY_NAME" Language="it_IT">
+      <Text>Impero germanico|dell'Impero germanico|all'Impero germanico|l'Impero germanico|dall'Impero germanico</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_GERMANY_DESCRIPTION" Language="it_IT">
+      <Text>Germania imperiale|della Germania imperiale|alla Germania imperiale|la Germania imperiale|dalla Germania imperiale</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_GERMANY_ADJECTIVE" Language="it_IT">
+      <Text>tedesco|tedesca|tedeschi|tedesche</Text>
+      <Gender>masculine|feminine|masculine|feminine</Gender>
+      <Plurality>1|1|2|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_BRITAIN_NAME" Language="it_IT">
+      <Text>Britannia|della Britannia|alla Britannia|la Britannia|dalla Britannia</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_BRITAIN_DESCRIPTION" Language="it_IT">
+      <Text>Regno Unito|del Regno Unito|al Regno Unito|il Regno Unito|dal Regno Unito</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_BRITAIN_ADJECTIVE" Language="it_IT">
+      <Text>britannico|britannica|britannici|britanniche</Text>
+      <Gender>masculine|feminine|masculine|feminine</Gender>
+      <Plurality>1|1|2|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_BELGIUM_NAME" Language="it_IT">
+      <Text>Belgio|del Belgio|al Belgio|il Belgio|dal Belgio</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_BELGIUM_DESCRIPTION" Language="it_IT">
+      <Text>regno del Belgio|del regno del Belgio|al regno del Belgio|il regno del Belgio|dal regno del Belgio</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_BELGIUM_ADJECTIVE" Language="it_IT">
+      <Text>belga|belga|belgi|belghe</Text>
+      <Gender>masculine|feminine|masculine|feminine</Gender>
+      <Plurality>1|1|2|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_LUXEMBOURG_NAME" Language="it_IT">
+      <Text>Lussemburgo|del Lussemburgo|al Lussemburgo|il Lussemburgo|dal Lussemburgo</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_LUXEMBOURG_DESCRIPTION" Language="it_IT">
+      <Text>Granducato di Lussemburgo|del Granducato di Lussemburgo|al Granducato di Lussemburgo|il Granducato di Lussemburgo|dal Granducato di Lussemburgo</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_LUXEMBOURG_ADJECTIVE" Language="it_IT">
+      <Text>lussenburghese|lussenburghese|lussenburghesi|lussenburghesi</Text>
+      <Gender>masculine|feminine|masculine|feminine</Gender>
+      <Plurality>1|1|2|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_WARMACHINE_SCENARIO_FRANCE_NAME" Language="it_IT">
+      <Text>Alto comando francese|dell'Alto comando francese|all'Alto comando francese|l'Alto comando francese|dall'Alto comando francese</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_WARMACHINE_SCENARIO_GERMANY_NAME" Language="it_IT">
+      <Text>Comando militare tedesco|del Comando militare tedesco|al Comando militare tedesco|il Comando militare tedesco|dal Comando militare tedesco</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_WARMACHINE_SCENARIO_BRITAIN_NAME" Language="it_IT">
+      <Text>British Expeditionary Force|della British Expeditionary Force|alla British Expeditionary Force|la British Expeditionary Force|dalla British Expeditionary Force</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_WARMACHINE_SCENARIO_BELGIUM_NAME" Language="it_IT">
+      <Text>re Alberto I|del re Alberto I|al re Alberto I|re Alberto I|dal re Alberto I</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_WARMACHINE_SCENARIO_LUXEMBOURG_NAME" Language="it_IT">
+      <Text>Lussemburgo|del Lussemburgo|al Lussemburgo|il Lussemburgo|dal Lussemburgo</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_WARMACHINE_SCENARIO_ERA_INDUSTRIAL_DESCRIPTION" Language="it_IT">
+      <Text>In questo scenario devi prendere il comando degli eserciti della Francia o della Germania durante il primo mese della Prima guerra mondiale. Hai un enorme esercito pronto a entrare in azione, una nazione industrializzata per supportarlo e solo 40 turni per catturare o difendere Parigi. Riuscirai a trionfare nel più grande scontro armato a cui il mondo abbia mai assistito oppure una guerra di questa scala e rapidità si dimostrerà troppo ardua per le tue capacità?</Text>
+    </Replace>
+    <Replace Tag="LOC_WARMACHINE_SCENARIO_NAME" Language="it_IT">
+      <Text>Macchina da Guerra</Text>
+    </Replace>
+    <Replace Tag="LOC_WARMACHINE_SCENARIO_SCORE_VICTORY_NAME" Language="it_IT">
+      <Text>Vittoria Macchina da Guerra</Text>
+    </Replace>
+    <Replace Tag="LOC_WARMACHINE_SCENARIO_SCORE_VICTORY_TT" Language="it_IT">
+      <Text>Giocando con la Germania devi catturare Parigi prima che finisca il tempo. Giocando con la Francia devi difendere Parigi dalla cattura finché non finisce il tempo.</Text>
+    </Replace>
+    <Replace Tag="LOC_VICTORY_WARMACHINE_SCENARIO_NAME" Language="it_IT">
+      <Text>Vittoria Macchina da Guerra</Text>
+    </Replace>
+    <Replace Tag="LOC_VICTORY_WARMACHINE_SCENARIO_TEXT" Language="it_IT">
+      <Text>Hai riportato la vittoria nella campagna!</Text>
+    </Replace>
+    <Replace Tag="LOC_VICTORY_WARMACHINE_SCENARIO_TT" Language="it_IT">
+      <Text>Per vincere con la Germania: cattura Parigi prima che finisca il tempo. Per vincere con la Francia: difendi Parigi dalla cattura finché non finisce il tempo.</Text>
+    </Replace>
+    <Replace Tag="LOC_MAPSIZE_WARMACHINE_SCENARIO_NAME" Language="it_IT">
+      <Text>Fronte occ. Iª guerra mondiale</Text>
+    </Replace>
+    <Replace Tag="LOC_MAPSIZE_WARMACHINE_SCENARIO_DESCRIPTION" Language="it_IT">
+      <Text>Una mappa standard che rappresenta la regione di confine tra Francia e Germania nel 1914.</Text>
+    </Replace>
+    <Replace Tag="LOC_WARMACHINE_SCENARIO_FRANCE_ABILITY_NAME" Language="it_IT">
+      <Text>Attaque à Outrance</Text>
+    </Replace>
+    <Replace Tag="LOC_WARMACHINE_SCENARIO_FRANCE_ABILITY_DESCRIPTION" Language="it_IT">
+      <Text>La Fanteria guadagna +4 alla [ICON_Strength] Forza di combattimento quando attacca.</Text>
+    </Replace>
+    <Replace Tag="LOC_WARMACHINE_SCENARIO_GERMANY_ABILITY_NAME" Language="it_IT">
+      <Text>Invenzione di Krupp</Text>
+    </Replace>
+    <Replace Tag="LOC_WARMACHINE_SCENARIO_GERMANY_ABILITY_DESCRIPTION" Language="it_IT">
+      <Text>L'artiglieria guadagna +4 alla [ICON_Strength] Forza di combattimento quando attacca.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_FRANCE_NAME" Language="ja_JP">
+      <Text>フランス</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_FRANCE_DESCRIPTION" Language="ja_JP">
+      <Text>第3共和制フランス</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_FRANCE_ADJECTIVE" Language="ja_JP">
+      <Text>フランスの</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_GERMANY_NAME" Language="ja_JP">
+      <Text>ドイツ帝国</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_GERMANY_DESCRIPTION" Language="ja_JP">
+      <Text>帝政ドイツ</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_GERMANY_ADJECTIVE" Language="ja_JP">
+      <Text>ドイツの</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_BRITAIN_NAME" Language="ja_JP">
+      <Text>イギリス</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_BRITAIN_DESCRIPTION" Language="ja_JP">
+      <Text>イギリス</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_BRITAIN_ADJECTIVE" Language="ja_JP">
+      <Text>イギリスの</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_BELGIUM_NAME" Language="ja_JP">
+      <Text>ベルギー</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_BELGIUM_DESCRIPTION" Language="ja_JP">
+      <Text>ベルギー王国</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_BELGIUM_ADJECTIVE" Language="ja_JP">
+      <Text>ベルギーの</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_LUXEMBOURG_NAME" Language="ja_JP">
+      <Text>ルクセンブルク</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_LUXEMBOURG_DESCRIPTION" Language="ja_JP">
+      <Text>ルクセンブルク大公国</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_LUXEMBOURG_ADJECTIVE" Language="ja_JP">
+      <Text>ルクセンブルクの</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_WARMACHINE_SCENARIO_FRANCE_NAME" Language="ja_JP">
+      <Text>フランス軍総司令部</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_WARMACHINE_SCENARIO_GERMANY_NAME" Language="ja_JP">
+      <Text>ドイツ参謀本部</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_WARMACHINE_SCENARIO_BRITAIN_NAME" Language="ja_JP">
+      <Text>BEF</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_WARMACHINE_SCENARIO_BELGIUM_NAME" Language="ja_JP">
+      <Text>アルベール1世</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_WARMACHINE_SCENARIO_LUXEMBOURG_NAME" Language="ja_JP">
+      <Text>ルクセンブルク</Text>
+    </Replace>
+    <Replace Tag="LOC_WARMACHINE_SCENARIO_ERA_INDUSTRIAL_DESCRIPTION" Language="ja_JP">
+      <Text>第一次世界大戦の開戦直後の1ヶ月ほどを題材にしたシナリオです。フランスかドイツの指導者となり、軍を指揮してください。どちらの国にも、万全の戦闘態勢を整えた巨大な軍隊とそれを支える工業力があります。ドイツの目標はパリ制圧、フランスの目標はパリ防衛ですが、与えられた時間は40ターンしかありません。この人類史上最大の軍事衝突で、あなたは勝どきを上げることができるでしょうか？ それとも、近代戦の規模とスピードに翻弄され、何もできないまま終わってしまうのでしょうか？</Text>
+    </Replace>
+    <Replace Tag="LOC_WARMACHINE_SCENARIO_NAME" Language="ja_JP">
+      <Text>機械化戦争</Text>
+    </Replace>
+    <Replace Tag="LOC_WARMACHINE_SCENARIO_SCORE_VICTORY_NAME" Language="ja_JP">
+      <Text>「機械化戦争」での勝利</Text>
+    </Replace>
+    <Replace Tag="LOC_WARMACHINE_SCENARIO_SCORE_VICTORY_TT" Language="ja_JP">
+      <Text>ドイツは時間切れになる前にパリを占領しなくてはなりません。フランスは時間切れになるまでパリを守り抜く必要があります。</Text>
+    </Replace>
+    <Replace Tag="LOC_VICTORY_WARMACHINE_SCENARIO_NAME" Language="ja_JP">
+      <Text>「機械化戦争」での勝利</Text>
+    </Replace>
+    <Replace Tag="LOC_VICTORY_WARMACHINE_SCENARIO_TEXT" Language="ja_JP">
+      <Text>激しい戦いの末、ついに勝利をつかみ取りました！</Text>
+    </Replace>
+    <Replace Tag="LOC_VICTORY_WARMACHINE_SCENARIO_TT" Language="ja_JP">
+      <Text>ドイツの勝利条件: 時間切れになる前にパリを占領する。[NEWLINE]フランスの勝利条件: 時間切れになるまでパリを守り抜く。</Text>
+    </Replace>
+    <Replace Tag="LOC_MAPSIZE_WARMACHINE_SCENARIO_NAME" Language="ja_JP">
+      <Text>第一次世界大戦 - 西部戦線</Text>
+    </Replace>
+    <Replace Tag="LOC_MAPSIZE_WARMACHINE_SCENARIO_DESCRIPTION" Language="ja_JP">
+      <Text>1914年のフランスとドイツの国境地帯を再現した標準サイズのマップです。</Text>
+    </Replace>
+    <Replace Tag="LOC_WARMACHINE_SCENARIO_FRANCE_ABILITY_NAME" Language="ja_JP">
+      <Text>攻撃あるのみ</Text>
+    </Replace>
+    <Replace Tag="LOC_WARMACHINE_SCENARIO_FRANCE_ABILITY_DESCRIPTION" Language="ja_JP">
+      <Text>攻撃時、歩兵の [ICON_Strength] 戦闘力+4。</Text>
+    </Replace>
+    <Replace Tag="LOC_WARMACHINE_SCENARIO_GERMANY_ABILITY_NAME" Language="ja_JP">
+      <Text>クルップの新発明</Text>
+    </Replace>
+    <Replace Tag="LOC_WARMACHINE_SCENARIO_GERMANY_ABILITY_DESCRIPTION" Language="ja_JP">
+      <Text>攻撃時、砲兵の [ICON_Strength] 戦闘力+4。</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_FRANCE_NAME" Language="ko_KR">
+      <Text>프랑스</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_FRANCE_DESCRIPTION" Language="ko_KR">
+      <Text>프랑스 제3공화정</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_FRANCE_ADJECTIVE" Language="ko_KR">
+      <Text>프랑스의</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_GERMANY_NAME" Language="ko_KR">
+      <Text>독일 제국</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_GERMANY_DESCRIPTION" Language="ko_KR">
+      <Text>독일 제국</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_GERMANY_ADJECTIVE" Language="ko_KR">
+      <Text>독일의</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_BRITAIN_NAME" Language="ko_KR">
+      <Text>영국</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_BRITAIN_DESCRIPTION" Language="ko_KR">
+      <Text>영국</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_BRITAIN_ADJECTIVE" Language="ko_KR">
+      <Text>영국의</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_BELGIUM_NAME" Language="ko_KR">
+      <Text>벨기에</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_BELGIUM_DESCRIPTION" Language="ko_KR">
+      <Text>벨기에 왕국</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_BELGIUM_ADJECTIVE" Language="ko_KR">
+      <Text>벨기에의</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_LUXEMBOURG_NAME" Language="ko_KR">
+      <Text>룩셈부르크</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_LUXEMBOURG_DESCRIPTION" Language="ko_KR">
+      <Text>룩셈부르크 대공국</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_LUXEMBOURG_ADJECTIVE" Language="ko_KR">
+      <Text>룩셈부르크의</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_WARMACHINE_SCENARIO_FRANCE_NAME" Language="ko_KR">
+      <Text>프랑스 최고사령부</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_WARMACHINE_SCENARIO_GERMANY_NAME" Language="ko_KR">
+      <Text>독일 작전 참모</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_WARMACHINE_SCENARIO_BRITAIN_NAME" Language="ko_KR">
+      <Text>영국 원정군</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_WARMACHINE_SCENARIO_BELGIUM_NAME" Language="ko_KR">
+      <Text>앨버트 1세</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_WARMACHINE_SCENARIO_LUXEMBOURG_NAME" Language="ko_KR">
+      <Text>룩셈부르크</Text>
+    </Replace>
+    <Replace Tag="LOC_WARMACHINE_SCENARIO_ERA_INDUSTRIAL_DESCRIPTION" Language="ko_KR">
+      <Text>이 시나리오에서 당신은 1차 세계대전의 첫 달 동안 프랑스 혹은 독일의 군대를 지휘하게 됩니다. 당신은 공격을 준비 중인 엄청난 군대와 군대를 지원할 준비가 된 산업 국가를 가지고 오직 40턴 안에 파리를 점령하거나 방어해야 합니다. 세상에서 가장 치열했던 충돌에서 승리를 거둘 수 있겠습니까? 아니면 전쟁의 규모와 속도에 굴복하시겠습니까?</Text>
+    </Replace>
+    <Replace Tag="LOC_WARMACHINE_SCENARIO_NAME" Language="ko_KR">
+      <Text>전쟁 기계</Text>
+    </Replace>
+    <Replace Tag="LOC_WARMACHINE_SCENARIO_SCORE_VICTORY_NAME" Language="ko_KR">
+      <Text>전쟁 기계 승리</Text>
+    </Replace>
+    <Replace Tag="LOC_WARMACHINE_SCENARIO_SCORE_VICTORY_TT" Language="ko_KR">
+      <Text>독일의 입장에서, 제한 시간 내에 파리 시를 점령해야 합니다. 프랑스의 입장에서, 제한 시간이 끝날 때까지 파리가 점령되지 않도록 방어해야 합니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_VICTORY_WARMACHINE_SCENARIO_NAME" Language="ko_KR">
+      <Text>전쟁 기계 승리</Text>
+    </Replace>
+    <Replace Tag="LOC_VICTORY_WARMACHINE_SCENARIO_TEXT" Language="ko_KR">
+      <Text>캠페인에서 승리를 거뒀습니다!</Text>
+    </Replace>
+    <Replace Tag="LOC_VICTORY_WARMACHINE_SCENARIO_TT" Language="ko_KR">
+      <Text>독일 승리 조건: 제한 시간 내에 파리를 점령하십시오.[NEWLINE]프랑스 승리 조건: 제한 시간이 끝날 때까지 파리가 점령되지 않도록 방어하십시오.</Text>
+    </Replace>
+    <Replace Tag="LOC_MAPSIZE_WARMACHINE_SCENARIO_NAME" Language="ko_KR">
+      <Text>제1차 세계대전 서부 전선</Text>
+    </Replace>
+    <Replace Tag="LOC_MAPSIZE_WARMACHINE_SCENARIO_DESCRIPTION" Language="ko_KR">
+      <Text>1914년 프랑스와 독일 사이 국경 지역을 그린 중형 지도</Text>
+    </Replace>
+    <Replace Tag="LOC_WARMACHINE_SCENARIO_FRANCE_ABILITY_NAME" Language="ko_KR">
+      <Text>최후까지 공격</Text>
+    </Replace>
+    <Replace Tag="LOC_WARMACHINE_SCENARIO_FRANCE_ABILITY_DESCRIPTION" Language="ko_KR">
+      <Text>공격 시 보병이 [ICON_Strength] 전투력 +4를 획득합니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_WARMACHINE_SCENARIO_GERMANY_ABILITY_NAME" Language="ko_KR">
+      <Text>크루프 혁신 산업</Text>
+    </Replace>
+    <Replace Tag="LOC_WARMACHINE_SCENARIO_GERMANY_ABILITY_DESCRIPTION" Language="ko_KR">
+      <Text>공격 시 포병이 [ICON_Strength] 전투력 +4를 획득합니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_FRANCE_NAME" Language="pl_PL">
+      <Text>Francja|Francji|Francji|Francję|Francją|Francji|Francja|Francji|Francji|Francję|Francją|Francji</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_FRANCE_DESCRIPTION" Language="pl_PL">
+      <Text>III Republika Francuska|III Republiki Francuskiej|III Republice Francuskiej|III Republikę Francuską|III Republiką Francuską|III Republice Francuskiej</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_FRANCE_ADJECTIVE" Language="pl_PL">
+      <Text>Francuski|Francuska|Francuscy|Francuskie|Francusk|francuski|francuska|francuscy|francuskie|francusk|francuskich</Text>
+      <Gender>masculine|feminine|masculine|feminine|neuter|masculine|feminine|masculine|feminine|neuter|masculine</Gender>
+      <Plurality>1|1|2|2|1|1|1|2|2|1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_GERMANY_NAME" Language="pl_PL">
+      <Text>Cesarstwo Niemieckie|Cesarstwa Niemieckiego|Cesarstwu Niemieckiemu|Cesarstwo Niemieckie|Cesarstwem Niemieckim|Cesarstwie Niemieckim|Cesarstwo Niemieckie|Cesarstwa Niemieckiego|Cesarstwu Niemieckiemu|Cesarstwo Niemieckie|Cesarstwem Niemieckim|Cesarstwie Niemieckim</Text>
+      <Gender>neuter</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_GERMANY_DESCRIPTION" Language="pl_PL">
+      <Text>Rzesza Niemiecka|Rzeszy Niemieckiej|Rzeszy Niemieckiej|Rzeszę Niemiecką|Rzeszą Niemiecką|Rzeszy Niemieckiej</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_GERMANY_ADJECTIVE" Language="pl_PL">
+      <Text>Niemiecki|Niemiecka|Niemieccy|Niemieckie|Niemieck|niemiecki|niemiecka|niemieccy|niemieckie|niemieck|niemieckich</Text>
+      <Gender>masculine|feminine|masculine|feminine|neuter|masculine|feminine|masculine|feminine|neuter|masculine</Gender>
+      <Plurality>1|1|2|2|1|1|1|2|2|1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_BRITAIN_NAME" Language="pl_PL">
+      <Text>Brytania|Brytanii|Brytanii|Brytanię|Brytanią|Brytanii|Brytania|Brytanii|Brytanii|Brytanię|Brytanią|Brytanii</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_BRITAIN_DESCRIPTION" Language="pl_PL">
+      <Text>Zjednoczone Królestwo|Zjednoczonego Królestwa|Zjednoczonemu Królestwu|Zjednoczone Królestwo|Zjednoczonym Królestwem|Zjednoczonym Królestwie</Text>
+      <Gender>neuter</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_BRITAIN_ADJECTIVE" Language="pl_PL">
+      <Text>Brytyjski|Brytyjska|Brytyjscy|Brytyjskie|Brytyjsk|brytyjski|brytyjska|brytyjscy|brytyjskie|brytyjsk|brytyjskich</Text>
+      <Gender>masculine|feminine|masculine|feminine|neuter|masculine|feminine|masculine|feminine|neuter|masculine</Gender>
+      <Plurality>1|1|2|2|1|1|1|2|2|1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_BELGIUM_NAME" Language="pl_PL">
+      <Text>Belgia|Belgii|Belgii|Belgię|Belgią|Belgii|Belgia|Belgii|Belgii|Belgię|Belgią|Belgii</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_BELGIUM_DESCRIPTION" Language="pl_PL">
+      <Text>Królestwo Belgii|Królestwa Belgii|Królestwu Belgii|Królestwo Belgii|Królestwem Belgii|Królestwie Belgii|Królestwo Belgii|Królestwa Belgii|Królestwu Belgii|Królestwo Belgii|Królestwem Belgii|Królestwie Belgii</Text>
+      <Gender>neuter</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_BELGIUM_ADJECTIVE" Language="pl_PL">
+      <Text>Belgijski|Belgijska|Belgijscy|Belgijskie|Belgijsk|belgijski|belgijska|belgijscy|belgijskie|belgijsk|belgijskich</Text>
+      <Gender>masculine|feminine|masculine|feminine|neuter|masculine|feminine|masculine|feminine|neuter|masculine</Gender>
+      <Plurality>1|1|2|2|1|1|1|2|2|1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_LUXEMBOURG_NAME" Language="pl_PL">
+      <Text>Luksemburg|Luksemburga|Luksemburgowi|Luksemburg|Luksemburgiem|Luksemburgu|Luksemburg|Luksemburga|Luksemburgowi|Luksemburg|Luksemburgiem|Luksemburgu</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_LUXEMBOURG_DESCRIPTION" Language="pl_PL">
+      <Text>Wielkie Księstwo Luksemburga|Wielkiego Księstwa Luksemburga|Wielkiemu Księstwu Luksemburga|Wielkie Księstwo Luksemburga|Wielkim Księstwem Luksemburga|Wielkim Księstwie Luksemburga</Text>
+      <Gender>neuter</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_LUXEMBOURG_ADJECTIVE" Language="pl_PL">
+      <Text>Luksemburski|Luksemburska|Luksemburscy|Luksemburskie|Luksembursk|luksemburski|luksemburska|luksemburscy|luksemburskie|luksembursk|luksemburskich</Text>
+      <Gender>masculine|feminine|masculine|feminine|neuter|masculine|feminine|masculine|feminine|neuter|masculine</Gender>
+      <Plurality>1|1|2|2|1|1|1|2|2|1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_WARMACHINE_SCENARIO_FRANCE_NAME" Language="pl_PL">
+      <Text>Najwyższe Dowództwo Francuskie|Najwyższego Dowództwa Francuskiego|Najwyższemu Dowództwu Francuskiemu|Najwyższe Dowództwo Francuskie|Najwyższym Dowództwem Francuskim|Najwyższym Dowództwie Francuskim</Text>
+      <Gender>neuter</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_WARMACHINE_SCENARIO_GERMANY_NAME" Language="pl_PL">
+      <Text>Niemiecki Sztab Generalny|Niemieckiego Sztabu Generalnego|Niemieckiemu Sztabowi Generalnemu|Niemiecki Sztab Generalny|Niemieckim Sztabem Generalnym|Niemieckim Sztabie Generalnym</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_WARMACHINE_SCENARIO_BRITAIN_NAME" Language="pl_PL">
+      <Text>Brytyjski Korpus Ekspedycyjny|Brytyjskiego Korpusu Ekspedycyjnego|Brytyjskiemu Korpusowi Ekspedycyjnemu|Brytyjski Korpus Ekspedycyjny|Brytyjskim Korpusem Ekspedycyjnym|Brytyjskim Korpusie Ekspedycyjnym</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_WARMACHINE_SCENARIO_BELGIUM_NAME" Language="pl_PL">
+      <Text>Albert I|Alberta I|Albertowi I|Alberta I|Albertem I|Albercie I</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_WARMACHINE_SCENARIO_LUXEMBOURG_NAME" Language="pl_PL">
+      <Text>Luksemburg|Luksemburga|Luksemburgowi|Luksemburg|Luksemburgiem|Luksemburgu</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_WARMACHINE_SCENARIO_ERA_INDUSTRIAL_DESCRIPTION" Language="pl_PL">
+      <Text>W tym scenariuszu staniesz na czele Francji lub Niemiec w pierwszym miesiącu pierwszej wojny światowej. Masz do swojej dyspozycji potężną armię gotową do uderzenia, wspierający ją przemysł i jedynie 40 tur, by przejąć lub obronić Paryż. Czy zwyciężysz w jednym z największych starć w historii świata? A może działania wojenne toczone w tak wielkim tempie i na tak ogromną skalę okażą się dla ciebie zbyt przytłaczające?</Text>
+    </Replace>
+    <Replace Tag="LOC_WARMACHINE_SCENARIO_NAME" Language="pl_PL">
+      <Text>Wojenna machina</Text>
+    </Replace>
+    <Replace Tag="LOC_WARMACHINE_SCENARIO_SCORE_VICTORY_NAME" Language="pl_PL">
+      <Text>Wojenna machina – zwycięstwo</Text>
+    </Replace>
+    <Replace Tag="LOC_WARMACHINE_SCENARIO_SCORE_VICTORY_TT" Language="pl_PL">
+      <Text>Jako Niemcy musisz zdobyć Paryż przed upływem czasu. Grając jako Francja, musisz chronić Paryż przed przejęciem aż do upływu wyznaczonego czasu.</Text>
+    </Replace>
+    <Replace Tag="LOC_VICTORY_WARMACHINE_SCENARIO_NAME" Language="pl_PL">
+      <Text>Wojenna machina – zwycięstwo</Text>
+    </Replace>
+    <Replace Tag="LOC_VICTORY_WARMACHINE_SCENARIO_TEXT" Language="pl_PL">
+      <Text>Twoje wojska odniosły zwycięstwo!</Text>
+    </Replace>
+    <Replace Tag="LOC_VICTORY_WARMACHINE_SCENARIO_TT" Language="pl_PL">
+      <Text>Aby zwyciężyć jako Niemcy, zdobądź Paryż przed upływem czasu. W celu odniesienia zwycięstwa jako Francja broń Paryża aż do chwili upłynięcia czasu.</Text>
+    </Replace>
+    <Replace Tag="LOC_MAPSIZE_WARMACHINE_SCENARIO_NAME" Language="pl_PL">
+      <Text>Zach. front I wojny światowej</Text>
+    </Replace>
+    <Replace Tag="LOC_MAPSIZE_WARMACHINE_SCENARIO_DESCRIPTION" Language="pl_PL">
+      <Text>Standardowa mapa przedstawiająca obszar między Francją i Niemcami w 1914 r.</Text>
+    </Replace>
+    <Replace Tag="LOC_WARMACHINE_SCENARIO_FRANCE_ABILITY_NAME" Language="pl_PL">
+      <Text>Attaque à outrance</Text>
+    </Replace>
+    <Replace Tag="LOC_WARMACHINE_SCENARIO_FRANCE_ABILITY_DESCRIPTION" Language="pl_PL">
+      <Text>Atakująca piechota zyskuje +4 do [ICON_Strength] siły bojowej.</Text>
+    </Replace>
+    <Replace Tag="LOC_WARMACHINE_SCENARIO_GERMANY_ABILITY_NAME" Language="pl_PL">
+      <Text>Innowacja Kruppa</Text>
+    </Replace>
+    <Replace Tag="LOC_WARMACHINE_SCENARIO_GERMANY_ABILITY_DESCRIPTION" Language="pl_PL">
+      <Text>Atakująca artyleria zyskuje +4 do [ICON_Strength] siły bojowej.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_FRANCE_NAME" Language="ru_RU">
+      <Text>Франция|Франции|Франции|Францию|Францией|Франции</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_FRANCE_DESCRIPTION" Language="ru_RU">
+      <Text>Третья Республика|Третьей Республики|Третьей Республике|Третью Республику|Третьей Республикой|Третьей Республике</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_FRANCE_ADJECTIVE" Language="ru_RU">
+      <Text>французск.|французск.|французск.|французск.|французск.|французск.</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_GERMANY_NAME" Language="ru_RU">
+      <Text>Германская империя|Германской империи|Германской империи|Германскую империю|Германской империей|Германской империи</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_GERMANY_DESCRIPTION" Language="ru_RU">
+      <Text>Германская империя|Германской империи|Германской империи|Германскую империю|Германской империей|Германской империи</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_GERMANY_ADJECTIVE" Language="ru_RU">
+      <Text>германск.|германск.|германск.|германск.|германск.|германск.</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_BRITAIN_NAME" Language="ru_RU">
+      <Text>Британия|Британии|Британии|Британию|Британией|Британии</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_BRITAIN_DESCRIPTION" Language="ru_RU">
+      <Text>Соединенное Королевство|Соединенного Королевства|Соединенному Королевству|Соединенное Королевство|Соединенным Королевством|Соединенном Королевстве</Text>
+      <Gender>neuter</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_BRITAIN_ADJECTIVE" Language="ru_RU">
+      <Text>британск.|британск.|британск.|британск.|британск.|британск.</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_BELGIUM_NAME" Language="ru_RU">
+      <Text>Бельгия|Бельгии|Бельгии|Бельгию|Бельгией|Бельгии</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_BELGIUM_DESCRIPTION" Language="ru_RU">
+      <Text>Королевство Бельгия|королевства Бельгия|королевству Бельгия|королевство Бельгия|королевством Бельгия|королевстве Бельгия</Text>
+      <Gender>neuter</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_BELGIUM_ADJECTIVE" Language="ru_RU">
+      <Text>бельгийск.|бельгийск.|бельгийск.|бельгийск.|бельгийск.|бельгийск.</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_LUXEMBOURG_NAME" Language="ru_RU">
+      <Text>Люксембург|Люксембурга|Люксембургу|Люксембург|Люксембургом|Люксембурге</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_LUXEMBOURG_DESCRIPTION" Language="ru_RU">
+      <Text>Великое Герцогство Люксембург|Великого Герцогства Люксембург|Великому Герцогству Люксембург|Великое Герцогство Люксембург|Великим Герцогством Люксембург|Великом Герцогстве Люксембург</Text>
+      <Gender>neuter</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_LUXEMBOURG_ADJECTIVE" Language="ru_RU">
+      <Text>люксембургск.|люксембургск.|люксембургск.|люксембургск.|люксембургск.|люксембургск.</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_WARMACHINE_SCENARIO_FRANCE_NAME" Language="ru_RU">
+      <Text>Командование Франции|командования Франции|командованию Франции|командование Франции|командованием Франции|командовании Франции</Text>
+      <Gender>neuter</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_WARMACHINE_SCENARIO_GERMANY_NAME" Language="ru_RU">
+      <Text>Германский генштаб|Германского генштаба|Германскому генштабу|Германский генштаб|Германским генштабом|Германском генштабе</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_WARMACHINE_SCENARIO_BRITAIN_NAME" Language="ru_RU">
+      <Text>БЭС|БЭС|БЭС|БЭС|БЭС|БЭС</Text>
+      <Gender>feminine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_WARMACHINE_SCENARIO_BELGIUM_NAME" Language="ru_RU">
+      <Text>Король Альберт I|Короля Альберта І|Королю Альберту І|Короля Альберта І|Королем Альбертом І|Короле Альберте І</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_WARMACHINE_SCENARIO_LUXEMBOURG_NAME" Language="ru_RU">
+      <Text>Люксембург|Люксембурга|Люксембургу|Люксембург|Люксембургом|Люксембурге</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_WARMACHINE_SCENARIO_ERA_INDUSTRIAL_DESCRIPTION" Language="ru_RU">
+      <Text>В этом сценарии вы командуете армией Франции или Германии в начале Первой мировой войны. В вашем распоряжении огромная армия, готовая нанести удар, надежный тыл с развитой промышленностью – и всего 40 ходов, чтобы захватить или защитить Париж. Сможете ли вы победить в этом грандиозном столкновении военных машин? Или масштабная война вам не по силам?</Text>
+    </Replace>
+    <Replace Tag="LOC_WARMACHINE_SCENARIO_NAME" Language="ru_RU">
+      <Text>Военная машина</Text>
+    </Replace>
+    <Replace Tag="LOC_WARMACHINE_SCENARIO_SCORE_VICTORY_NAME" Language="ru_RU">
+      <Text>Победа в «Военной машине»</Text>
+    </Replace>
+    <Replace Tag="LOC_WARMACHINE_SCENARIO_SCORE_VICTORY_TT" Language="ru_RU">
+      <Text>Играя за Германию, вы должны захватить Париж за ограниченное число ходов. Играя за Францию, вы должны удержать Париж и не допустить его захвата.</Text>
+    </Replace>
+    <Replace Tag="LOC_VICTORY_WARMACHINE_SCENARIO_NAME" Language="ru_RU">
+      <Text>Победа в «Военной машине»</Text>
+    </Replace>
+    <Replace Tag="LOC_VICTORY_WARMACHINE_SCENARIO_TEXT" Language="ru_RU">
+      <Text>Эта кампания принесла вам победу!</Text>
+    </Replace>
+    <Replace Tag="LOC_VICTORY_WARMACHINE_SCENARIO_TT" Language="ru_RU">
+      <Text>Победа за Германию: за определенное время захватить Париж. Победа за Францию: удержать Париж и не допустить его захвата.</Text>
+    </Replace>
+    <Replace Tag="LOC_MAPSIZE_WARMACHINE_SCENARIO_NAME" Language="ru_RU">
+      <Text>Западный фронт ПМВ</Text>
+    </Replace>
+    <Replace Tag="LOC_MAPSIZE_WARMACHINE_SCENARIO_DESCRIPTION" Language="ru_RU">
+      <Text>Стандартная карта, изображающая регионы, прилегающие к франко-германской границе, в 1914 г.</Text>
+    </Replace>
+    <Replace Tag="LOC_WARMACHINE_SCENARIO_FRANCE_ABILITY_NAME" Language="ru_RU">
+      <Text>Массированное наступление</Text>
+    </Replace>
+    <Replace Tag="LOC_WARMACHINE_SCENARIO_FRANCE_ABILITY_DESCRIPTION" Language="ru_RU">
+      <Text>+4 [ICON_Strength] к боевой мощи пехоты при атаке.</Text>
+    </Replace>
+    <Replace Tag="LOC_WARMACHINE_SCENARIO_GERMANY_ABILITY_NAME" Language="ru_RU">
+      <Text>Инновации Круппа</Text>
+    </Replace>
+    <Replace Tag="LOC_WARMACHINE_SCENARIO_GERMANY_ABILITY_DESCRIPTION" Language="ru_RU">
+      <Text>+4 [ICON_Strength] к боевой мощи артиллерии при атаке.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_FRANCE_NAME" Language="zh_Hans_CN">
+      <Text>法国</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_FRANCE_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>法兰西第三共和国</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_FRANCE_ADJECTIVE" Language="zh_Hans_CN">
+      <Text>法国的</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_GERMANY_NAME" Language="zh_Hans_CN">
+      <Text>德意志帝国</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_GERMANY_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>德意志帝国</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_GERMANY_ADJECTIVE" Language="zh_Hans_CN">
+      <Text>德国的</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_BRITAIN_NAME" Language="zh_Hans_CN">
+      <Text>英国</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_BRITAIN_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>大英帝国</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_BRITAIN_ADJECTIVE" Language="zh_Hans_CN">
+      <Text>英国的</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_BELGIUM_NAME" Language="zh_Hans_CN">
+      <Text>比利时</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_BELGIUM_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>比利时王国</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_BELGIUM_ADJECTIVE" Language="zh_Hans_CN">
+      <Text>比利时的</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_LUXEMBOURG_NAME" Language="zh_Hans_CN">
+      <Text>卢森堡</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_LUXEMBOURG_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>卢森堡大公国</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_LUXEMBOURG_ADJECTIVE" Language="zh_Hans_CN">
+      <Text>卢森堡的</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_WARMACHINE_SCENARIO_FRANCE_NAME" Language="zh_Hans_CN">
+      <Text>法军统帅部</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_WARMACHINE_SCENARIO_GERMANY_NAME" Language="zh_Hans_CN">
+      <Text>德军司令部</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_WARMACHINE_SCENARIO_BRITAIN_NAME" Language="zh_Hans_CN">
+      <Text>英国远征军</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_WARMACHINE_SCENARIO_BELGIUM_NAME" Language="zh_Hans_CN">
+      <Text>阿尔贝一世国王</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_WARMACHINE_SCENARIO_LUXEMBOURG_NAME" Language="zh_Hans_CN">
+      <Text>卢森堡</Text>
+    </Replace>
+    <Replace Tag="LOC_WARMACHINE_SCENARIO_ERA_INDUSTRIAL_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>在这个情景中，您将成为法军或德军的指挥官，率领部队参加第一次世界大战的首月战事。您的麾下是一支时刻准备发起攻击的庞大军队，以及支持这支军队的工业化国家。您仅有40回合来占领或保卫巴黎。您是否能在人类历史上最大规模的战争中旗开得胜？亦或是被猛烈的战火迅速吞噬？</Text>
+    </Replace>
+    <Replace Tag="LOC_WARMACHINE_SCENARIO_NAME" Language="zh_Hans_CN">
+      <Text>战争机器</Text>
+    </Replace>
+    <Replace Tag="LOC_WARMACHINE_SCENARIO_SCORE_VICTORY_NAME" Language="zh_Hans_CN">
+      <Text>战争机器胜利</Text>
+    </Replace>
+    <Replace Tag="LOC_WARMACHINE_SCENARIO_SCORE_VICTORY_TT" Language="zh_Hans_CN">
+      <Text>作为德军，您必须在时限内占领巴黎。作为法军，您必须在时限内保卫巴黎，阻止德军的占领。</Text>
+    </Replace>
+    <Replace Tag="LOC_VICTORY_WARMACHINE_SCENARIO_NAME" Language="zh_Hans_CN">
+      <Text>战争机器胜利</Text>
+    </Replace>
+    <Replace Tag="LOC_VICTORY_WARMACHINE_SCENARIO_TEXT" Language="zh_Hans_CN">
+      <Text>您赢得了这场战争的胜利！</Text>
+    </Replace>
+    <Replace Tag="LOC_VICTORY_WARMACHINE_SCENARIO_TT" Language="zh_Hans_CN">
+      <Text>以德国胜利：时限内占领巴黎。以法国胜利：时限内保卫巴黎以防被占领。</Text>
+    </Replace>
+    <Replace Tag="LOC_MAPSIZE_WARMACHINE_SCENARIO_NAME" Language="zh_Hans_CN">
+      <Text>一战西线</Text>
+    </Replace>
+    <Replace Tag="LOC_MAPSIZE_WARMACHINE_SCENARIO_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>标准地图，描绘1914年法国与德国相互接壤的边境地区。</Text>
+    </Replace>
+    <Replace Tag="LOC_WARMACHINE_SCENARIO_FRANCE_ABILITY_NAME" Language="zh_Hans_CN">
+      <Text>人海战术</Text>
+    </Replace>
+    <Replace Tag="LOC_WARMACHINE_SCENARIO_FRANCE_ABILITY_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>步兵攻击时+4 [ICON_Strength] 战斗力。</Text>
+    </Replace>
+    <Replace Tag="LOC_WARMACHINE_SCENARIO_GERMANY_ABILITY_NAME" Language="zh_Hans_CN">
+      <Text>克虏伯革新</Text>
+    </Replace>
+    <Replace Tag="LOC_WARMACHINE_SCENARIO_GERMANY_ABILITY_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>大炮攻击时+4 [ICON_Strength] 战斗力。</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_FRANCE_NAME" Language="es_ES">
+      <Text>Francia</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_FRANCE_DESCRIPTION" Language="es_ES">
+      <Text>Tercera República Francesa</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_FRANCE_ADJECTIVE" Language="es_ES">
+      <Text>francés|francesa|franceses|francesas</Text>
+      <Gender>masculine|feminine|masculine|feminine</Gender>
+      <Plurality>1|1|2|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_GERMANY_NAME" Language="es_ES">
+      <Text>Imperio alemán</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_GERMANY_DESCRIPTION" Language="es_ES">
+      <Text>Alemania imperial</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_GERMANY_ADJECTIVE" Language="es_ES">
+      <Text>alemán|alemana|alemanes|alemanas</Text>
+      <Gender>masculine|feminine|masculine|feminine</Gender>
+      <Plurality>1|1|2|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_BRITAIN_NAME" Language="es_ES">
+      <Text>Bretaña</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_BRITAIN_DESCRIPTION" Language="es_ES">
+      <Text>Reino Unido</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_BRITAIN_ADJECTIVE" Language="es_ES">
+      <Text>británico|británica|británicos|británicas</Text>
+      <Gender>masculine|feminine|masculine|feminine</Gender>
+      <Plurality>1|1|2|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_BELGIUM_NAME" Language="es_ES">
+      <Text>Bélgica</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_BELGIUM_DESCRIPTION" Language="es_ES">
+      <Text>Reino de Bélgica</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_BELGIUM_ADJECTIVE" Language="es_ES">
+      <Text>belga|belga|belgas|belgas</Text>
+      <Gender>masculine|feminine|masculine|feminine</Gender>
+      <Plurality>1|1|2|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_LUXEMBOURG_NAME" Language="es_ES">
+      <Text>Luxemburgo</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_LUXEMBOURG_DESCRIPTION" Language="es_ES">
+      <Text>Gran Ducado de Luxemburgo</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_LUXEMBOURG_ADJECTIVE" Language="es_ES">
+      <Text>luxemburgués|luxemburguesa|luxemburgueses|luxemburguesas</Text>
+      <Gender>masculine|feminine|masculine|feminine</Gender>
+      <Plurality>1|1|2|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_WARMACHINE_SCENARIO_FRANCE_NAME" Language="es_ES">
+      <Text>Alto mando francés</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_WARMACHINE_SCENARIO_GERMANY_NAME" Language="es_ES">
+      <Text>Estado Mayor alemán</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_WARMACHINE_SCENARIO_BRITAIN_NAME" Language="es_ES">
+      <Text>Fuerza Expedicionaria Británica</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_WARMACHINE_SCENARIO_BELGIUM_NAME" Language="es_ES">
+      <Text>Rey Alberto I</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_WARMACHINE_SCENARIO_LUXEMBOURG_NAME" Language="es_ES">
+      <Text>Luxemburgo</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_WARMACHINE_SCENARIO_ERA_INDUSTRIAL_DESCRIPTION" Language="es_ES">
+      <Text>En este escenario te pondrás al mando de los ejércitos franceses o alemanes durante el primer mes de la 1.ª Guerra Mundial. Tienes un ejército enorme listo para atacar, una nación industrial preparada para ofrecerle apoyo y solo 40 turnos para capturar o defender París. ¿Podrás salir triunfante en el mayor enfrentamiento bélico del mundo? ¿O te superará la escala y la velocidad de esta guerra?</Text>
+    </Replace>
+    <Replace Tag="LOC_WARMACHINE_SCENARIO_NAME" Language="es_ES">
+      <Text>Máquina de guerra</Text>
+    </Replace>
+    <Replace Tag="LOC_WARMACHINE_SCENARIO_SCORE_VICTORY_NAME" Language="es_ES">
+      <Text>Victoria de Máquina de guerra</Text>
+    </Replace>
+    <Replace Tag="LOC_WARMACHINE_SCENARIO_SCORE_VICTORY_TT" Language="es_ES">
+      <Text>Como Alemania debes capturar la ciudad de París antes de que se acabe el tiempo. Como Francia debes defender París de los invasores hasta que se acabe el tiempo.</Text>
+    </Replace>
+    <Replace Tag="LOC_VICTORY_WARMACHINE_SCENARIO_NAME" Language="es_ES">
+      <Text>Victoria de Máquina de guerra</Text>
+    </Replace>
+    <Replace Tag="LOC_VICTORY_WARMACHINE_SCENARIO_TEXT" Language="es_ES">
+      <Text>¡Has emergido victorioso de la campaña!</Text>
+    </Replace>
+    <Replace Tag="LOC_VICTORY_WARMACHINE_SCENARIO_TT" Language="es_ES">
+      <Text>Para ganar como Alemania debes capturar Francia antes de que el tiempo se acabe. Para ganar como Francia debes defender París de la invasión hasta que el tiempo se acabe.</Text>
+    </Replace>
+    <Replace Tag="LOC_MAPSIZE_WARMACHINE_SCENARIO_NAME" Language="es_ES">
+      <Text>Frente occidental de la PGM</Text>
+    </Replace>
+    <Replace Tag="LOC_MAPSIZE_WARMACHINE_SCENARIO_DESCRIPTION" Language="es_ES">
+      <Text>Un mapa normal que muestra la frontera entre Francia y Alemania en 1914.</Text>
+    </Replace>
+    <Replace Tag="LOC_WARMACHINE_SCENARIO_FRANCE_ABILITY_NAME" Language="es_ES">
+      <Text>Attaque à Outrance</Text>
+    </Replace>
+    <Replace Tag="LOC_WARMACHINE_SCENARIO_FRANCE_ABILITY_DESCRIPTION" Language="es_ES">
+      <Text>La infantería gana +4 a la Fuerza de combate [ICON_Strength] al atacar.</Text>
+    </Replace>
+    <Replace Tag="LOC_WARMACHINE_SCENARIO_GERMANY_ABILITY_NAME" Language="es_ES">
+      <Text>Innovaciones Krupp</Text>
+    </Replace>
+    <Replace Tag="LOC_WARMACHINE_SCENARIO_GERMANY_ABILITY_DESCRIPTION" Language="es_ES">
+      <Text>La artillería obtiene a +4 a la Fuerza de combate [ICON_Strength] al atacar.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_FRANCE_NAME" Language="zh_Hant_HK">
+      <Text>法國</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_FRANCE_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>法蘭西第三共和國</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_FRANCE_ADJECTIVE" Language="zh_Hant_HK">
+      <Text>法國的</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_GERMANY_NAME" Language="zh_Hant_HK">
+      <Text>德意志帝國</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_GERMANY_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>德意志帝國</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_GERMANY_ADJECTIVE" Language="zh_Hant_HK">
+      <Text>德國的</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_BRITAIN_NAME" Language="zh_Hant_HK">
+      <Text>英國</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_BRITAIN_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>大英帝國</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_BRITAIN_ADJECTIVE" Language="zh_Hant_HK">
+      <Text>英國的</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_BELGIUM_NAME" Language="zh_Hant_HK">
+      <Text>比利時</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_BELGIUM_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>比利時王國</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_BELGIUM_ADJECTIVE" Language="zh_Hant_HK">
+      <Text>比利時的</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_LUXEMBOURG_NAME" Language="zh_Hant_HK">
+      <Text>盧森堡</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_LUXEMBOURG_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>盧森堡大公國</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_WARMACHINE_SCENARIO_LUXEMBOURG_ADJECTIVE" Language="zh_Hant_HK">
+      <Text>盧森堡的</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_WARMACHINE_SCENARIO_FRANCE_NAME" Language="zh_Hant_HK">
+      <Text>法軍高層</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_WARMACHINE_SCENARIO_GERMANY_NAME" Language="zh_Hant_HK">
+      <Text>德軍參謀長</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_WARMACHINE_SCENARIO_BRITAIN_NAME" Language="zh_Hant_HK">
+      <Text>英國遠征軍</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_WARMACHINE_SCENARIO_BELGIUM_NAME" Language="zh_Hant_HK">
+      <Text>阿爾貝一世</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_WARMACHINE_SCENARIO_LUXEMBOURG_NAME" Language="zh_Hant_HK">
+      <Text>盧森堡</Text>
+    </Replace>
+    <Replace Tag="LOC_WARMACHINE_SCENARIO_ERA_INDUSTRIAL_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>在此情景中，你將統領法國或德國的軍隊經歷一次大戰的第一個月份。你有一支隨時準備出擊的大軍，以及支援這隻大軍的工業化國家，必須在短短40個回合內佔領或防守巴黎。你是否能在世界史上最大的武裝衝突中勝出呢？還是說如此大規模且迅速的戰鬥會讓你應接不暇呢？</Text>
+    </Replace>
+    <Replace Tag="LOC_WARMACHINE_SCENARIO_NAME" Language="zh_Hant_HK">
+      <Text>戰爭機械</Text>
+    </Replace>
+    <Replace Tag="LOC_WARMACHINE_SCENARIO_SCORE_VICTORY_NAME" Language="zh_Hant_HK">
+      <Text>戰爭機械勝利</Text>
+    </Replace>
+    <Replace Tag="LOC_WARMACHINE_SCENARIO_SCORE_VICTORY_TT" Language="zh_Hant_HK">
+      <Text>作為德國，你必須在時限內佔領巴黎。作為法國，則必須在時限結束前守住巴黎。</Text>
+    </Replace>
+    <Replace Tag="LOC_VICTORY_WARMACHINE_SCENARIO_NAME" Language="zh_Hant_HK">
+      <Text>戰爭機械勝利</Text>
+    </Replace>
+    <Replace Tag="LOC_VICTORY_WARMACHINE_SCENARIO_TEXT" Language="zh_Hant_HK">
+      <Text>你在戰役中成為了最後的勝利者！</Text>
+    </Replace>
+    <Replace Tag="LOC_VICTORY_WARMACHINE_SCENARIO_TT" Language="zh_Hant_HK">
+      <Text>若要以德國拿下勝利：在時間結束前佔領巴黎。若要以法國拿下勝利：持續堅守巴黎至時間結束為止。</Text>
+    </Replace>
+    <Replace Tag="LOC_MAPSIZE_WARMACHINE_SCENARIO_NAME" Language="zh_Hant_HK">
+      <Text>一次大戰西方戰線</Text>
+    </Replace>
+    <Replace Tag="LOC_MAPSIZE_WARMACHINE_SCENARIO_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>描述1914年法國和德國間國境版圖的標準地圖。</Text>
+    </Replace>
+    <Replace Tag="LOC_WARMACHINE_SCENARIO_FRANCE_ABILITY_NAME" Language="zh_Hant_HK">
+      <Text>人海戰術</Text>
+    </Replace>
+    <Replace Tag="LOC_WARMACHINE_SCENARIO_FRANCE_ABILITY_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>步兵進攻時獲得+4 [ICON_Strength] 戰鬥力。</Text>
+    </Replace>
+    <Replace Tag="LOC_WARMACHINE_SCENARIO_GERMANY_ABILITY_NAME" Language="zh_Hant_HK">
+      <Text>克虜伯革新</Text>
+    </Replace>
+    <Replace Tag="LOC_WARMACHINE_SCENARIO_GERMANY_ABILITY_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>大炮進攻時獲得+4 [ICON_Strength] 戰鬥力。</Text>
+    </Replace>
+  </LocalizedText>
+</GameData>

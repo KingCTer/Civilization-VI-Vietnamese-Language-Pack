@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Mod id="05698E46-1032-43C7-A40C-FA3D02858D2A" version="1">
+	<Properties>
+		<Name>LOC_MOD_VIKINGS_SCENARIO_TITLE</Name>
+		<Teaser>LOC_MOD_VIKINGS_SCENARIO_TEASER</Teaser>
+		<Description>LOC_MOD_VIKINGS_SCENARIO_DESCRIPTION</Description>
+		<Authors>LOC_MOD_AUTHORS_FIRAXIS</Authors>
+		<EnabledByDefault>1</EnabledByDefault>
+    <CompatibleVersions>2.0</CompatibleVersions>
+	</Properties>
+	<Dependencies>
+		<Mod id="2F6E858A-28EF-46B3-BEAC-B985E52E9BC1" title="LOC_MOD_VIKINGSLANDMARKS_TITLE"/>
+	</Dependencies>
+  <ActionCriteria>
+		<Criteria id="VikingsScenario">
+			<RuleSetInUse>RULESET_SCENARIO_VIKINGS</RuleSetInUse>
+		</Criteria>
+	</ActionCriteria>
+	<Components>
+		<UpdateColors id="VIKINGS_COLORS">
+			<Properties>
+				<RuleSet>RULESET_SCENARIO_VIKINGS</RuleSet>
+			</Properties>
+			<File>Data/VikingsScenario_Colors.xml</File>
+			<File>Data/VikingsScenario_PlayerColors.xml</File>
+		</UpdateColors>
+		<Icons id="VIKING_ICONS">
+			<Properties>
+				<RuleSet>RULESET_SCENARIO_VIKINGS</RuleSet>
+			</Properties>
+			<Items>
+				<File Priority="1">Data/VikingsScenario_Icons_Beliefs.xml</File>
+				<File Priority="1">Data/VikingsScenario_Icons_Leaders.xml</File>
+				<File>Data/VikingsScenario_Icons_Civics.xml</File>
+				<File>Data/VikingsScenario_Icons_Civilizations.xml</File>
+				<File>Data/VikingsScenario_Icons_Policies.xml</File>
+				<File>Data/VikingsScenario_Icons_Technologies.xml</File>
+				<File>Data/VikingsScenario_Icons_Units.xml</File>
+				<File>Data/VikingsScenario_Icons_UnitPortraits.xml</File>
+			</Items>
+		</Icons>
+		<UpdateDatabase id="VIKING_COMPONENT">
+			<Properties>
+				<LoadOrder>100</LoadOrder>
+				<RuleSet>RULESET_SCENARIO_VIKINGS</RuleSet>
+			</Properties>
+			<Items>
+				<File Priority="1">Data/VikingsScenario_RemoveData.xml</File>
+				<File>Data/VikingsScenario_Beliefs.xml</File>
+				<File>Data/VikingsScenario_Buildings.xml</File>
+				<File>Data/VikingsScenario_Civics.xml</File>
+				<File>Data/VikingsScenario_Civilizations.xml</File>
+				<File>Data/VikingsScenario_DiplomacyInfo.xml</File>
+				<File>Data/VikingsScenario_Districts.xml</File>
+				<File>Data/VikingsScenario_Eras.xml</File>
+				<File>Data/VikingsScenario_Features.xml</File>
+				<File>Data/VikingsScenario_GameSpeeds.xml</File>
+				<File>Data/VikingsScenario_GlobalParameters.xml</File>
+				<File>Data/VikingsScenario_GoodyHuts.xml</File>
+				<File>Data/VikingsScenario_Gossip.xml</File>
+				<File>Data/VikingsScenario_Governments.xml</File>
+				<File>Data/VikingsScenario_GreatPeople.xml</File>
+				<File>Data/VikingsScenario_Improvements.xml</File>
+				<File>Data/VikingsScenario_Leaders.xml</File>
+				<File>Data/VikingsScenario_LoadingInfo.xml</File>
+				<File>Data/VikingsScenario_Maps.xml</File>
+				<File>Data/VikingsScenario_Policies.xml</File>
+				<File>Data/VikingsScenario_Projects.xml</File>
+				<File>Data/VikingsScenario_Resources.xml</File>
+				<File>Data/VikingsScenario_Routes.xml</File>
+				<File>Data/VikingsScenario_Scoring.xml</File>
+				<File>Data/VikingsScenario_Technologies.xml</File>
+				<File>Data/VikingsScenario_Units.xml</File>
+				<File>Data/VikingsScenario_UnitAbilities.xml</File>
+				<File>Data/VikingsScenario_Victories.xml</File>
+			</Items>
+		</UpdateDatabase>
+		<UpdateARX id="VIKING_SCENARIO_ARX">
+			<Properties>
+				<RuleSet>RULESET_SCENARIO_VIKINGS</RuleSet>
+			</Properties>
+			<Items>
+				<File>Data/ARX/Civ_LEADER_CNUT.png</File>
+				<File>Data/ARX/Civ_LEADER_HARDRADA.png</File>
+				<File>Data/ARX/Civ_LEADER_OLOF.png</File>
+				<File>Data/ARX/Civ_LEADER_AL_HAKAM_II.png</File>
+				<File>Data/ARX/Civ_LEADER_BASIL_II.png</File>
+				<File>Data/ARX/Civ_LEADER_CHARLEMAGNE.png</File>
+			</Items>
+		</UpdateARX>
+		<LocalizedText id="VIKING_COMPONENT_TEXT">
+			<Properties>
+				<RuleSet>RULESET_SCENARIO_VIKINGS</RuleSet>
+			</Properties>
+			<Items>
+				<File Priority="2">Text/VikingsScenario_Text_Preprocess.xml</File>
+				<File Priority="1">Text/en_US/VikingsScenario_CivilopediaText.xml</File>
+				<File Priority="1">Text/en_US/VikingsScenario_ConfigText.xml</File>
+				<File Priority="1">Text/en_US/VikingsScenario_Text.xml</File>
+				<File>Text/VikingsScenario_Translations_ConfigText.xml</File>
+				<File>Text/VikingsScenario_Translations_ConfigText_China.xml</File>
+				<File>Text/VikingsScenario_Translations_Text.xml</File>
+				<File>Text/VikingsScenario_Translations_Text_China.xml</File>
+			</Items>
+		</LocalizedText>
+		<GameplayScripts id="VIKING_FILES">
+			<Properties>
+				<RuleSet>RULESET_SCENARIO_VIKINGS</RuleSet>
+			</Properties>
+			<Items>
+				<File>Scripts/VikingScenario.lua</File>
+			</Items>
+		</GameplayScripts>
+		<ModArt id="ART_COMPOMENT">
+			<Properties>
+				<RuleSet>RULESET_SCENARIO_VIKINGS</RuleSet>
+			</Properties>
+			<Items>
+				<File>VikingScenario.dep</File>
+			</Items>
+		</ModArt>
+		<ReplaceUIScript id="VikingsScenarioPartialScreenHooks">
+			<Properties>
+				<RuleSet>RULESET_SCENARIO_VIKINGS</RuleSet>
+				<LuaContext>PartialScreenHooks</LuaContext>
+				<LuaReplace>UI/Replacements/PartialScreenHooks_VikingsScenario.lua</LuaReplace>
+			</Properties>
+		</ReplaceUIScript>
+    <!--Needs requirement to prevent from being replaced in Base!!!-->
+    <ReplaceUIScript id="WorldRankings_VikingsScenario" criteria ="VikingsScenario">
+      <Properties>
+        <LuaContext>WorldRankings</LuaContext>
+        <LuaReplace>UI/Replacements/WorldRankings_VikingsScenario.lua</LuaReplace>
+      </Properties>
+    </ReplaceUIScript>
+		<ImportFiles>
+			<Properties>
+				<RuleSet>RULESET_SCENARIO_VIKINGS</RuleSet>
+			</Properties>
+			<Items>
+				<File>UI/ReligionScreen.lua</File>
+				<File>UI/Replacements/WorldRankings_VikingsScenario.lua</File>
+				<File>UI/WorldRankings.xml</File>
+				<File>UI/Replacements/PartialScreenHooks_VikingsScenario.lua</File>
+			</Items>
+		</ImportFiles>
+	</Components>
+	<Settings>
+		<Map id="VIKING_MAP_CIV6_WORLDBUILDER">
+			<Properties>
+				<Group>VikingScenario_Maps</Group>
+				<Name>LOC_VIKING_SCENARIO_MAP_NAME</Name>
+				<Description>LOC_VIKING_SCENARIO_MAP_DESCRIPTION</Description>
+			</Properties>
+			<Items>
+				<File>Maps/Viking.Civ6Map</File>
+			</Items>
+		</Map>
+		<UpdateColors id="VIKINGS_CONFIG_COLORS">
+			<File>Data/VikingsScenario_Colors.xml</File>
+			<File>Data/VikingsScenario_PlayerColors.xml</File>
+		</UpdateColors>
+		<Icons id="VIKING_CONFIG_ICONS">
+			<Properties>
+				<RuleSet>RULESET_SCENARIO_VIKINGS</RuleSet>
+			</Properties>
+			<Items>
+				<File>Data/VikingsScenario_Icons_Config.xml</File>
+			</Items>
+		</Icons>
+		<Custom id="VIKING_SETTING">
+			<Items>
+				<File>Data/VikingsScenario_Config.xml</File>
+			</Items>
+		</Custom>
+		<LocalizedText id="VIKING_SETTING_TEXT">
+			<Items>
+				<File>Text/en_US/VikingsScenario_ConfigText.xml</File>
+				<File>Text/VikingsScenario_Translations_ConfigText.xml</File>
+				<File>Text/VikingsScenario_Translations_ConfigText_China.xml</File>
+			</Items>
+		</LocalizedText>
+		<ModArt id="VIKING_SCENARIO_ART">
+			<Items>
+				<File>VikingScenario.dep</File>
+			</Items>
+		</ModArt>
+	</Settings>
+	<Files>
+		<File>Data/ARX/Civ_LEADER_CNUT.png</File>
+		<File>Data/ARX/Civ_LEADER_HARDRADA.png</File>
+		<File>Data/ARX/Civ_LEADER_OLOF.png</File>
+		<File>Data/ARX/Civ_LEADER_AL_HAKAM_II.png</File>
+		<File>Data/ARX/Civ_LEADER_BASIL_II.png</File>
+		<File>Data/ARX/Civ_LEADER_CHARLEMAGNE.png</File>
+		<File>Data/VikingsScenario_Beliefs.xml</File>
+		<File>Data/VikingsScenario_Buildings.xml</File>
+		<File>Data/VikingsScenario_Colors.xml</File>
+		<File>Data/VikingsScenario_Civics.xml</File>
+		<File>Data/VikingsScenario_Civilizations.xml</File>
+		<File>Data/VikingsScenario_Config.xml</File>
+		<File>Data/VikingsScenario_DiplomacyInfo.xml</File>
+		<File>Data/VikingsScenario_Districts.xml</File>
+		<File>Data/VikingsScenario_Eras.xml</File>
+		<File>Data/VikingsScenario_Features.xml</File>
+		<File>Data/VikingsScenario_GameSpeeds.xml</File>
+		<File>Data/VikingsScenario_GlobalParameters.xml</File>
+		<File>Data/VikingsScenario_GoodyHuts.xml</File>
+		<File>Data/VikingsScenario_Gossip.xml</File>
+		<File>Data/VikingsScenario_Governments.xml</File>
+		<File>Data/VikingsScenario_GreatPeople.xml</File>
+		<File>Data/VikingsScenario_Improvements.xml</File>
+		<File>Data/VikingsScenario_Icons_Beliefs.xml</File>
+		<File>Data/VikingsScenario_Icons_Civics.xml</File>
+		<File>Data/VikingsScenario_Icons_Civilizations.xml</File>
+		<File>Data/VikingsScenario_Icons_Config.xml</File>
+		<File>Data/VikingsScenario_Icons_Leaders.xml</File>
+		<File>Data/VikingsScenario_Icons_Policies.xml</File>
+		<File>Data/VikingsScenario_Icons_Technologies.xml</File>
+		<File>Data/VikingsScenario_Icons_UnitPortraits.xml</File>
+		<File>Data/VikingsScenario_Icons_Units.xml</File>
+		<File>Data/VikingsScenario_Leaders.xml</File>
+		<File>Data/VikingsScenario_LoadingInfo.xml</File>
+		<File>Data/VikingsScenario_Maps.xml</File>
+		<File>Data/VikingsScenario_PlayerColors.xml</File>
+		<File>Data/VikingsScenario_Policies.xml</File>
+		<File>Data/VikingsScenario_Projects.xml</File>
+		<File>Data/VikingsScenario_RemoveData.xml</File>
+		<File>Data/VikingsScenario_Resources.xml</File>
+		<File>Data/VikingsScenario_Routes.xml</File>
+		<File>Data/VikingsScenario_Scoring.xml</File>
+		<File>Data/VikingsScenario_Technologies.xml</File>
+		<File>Data/VikingsScenario_Units.xml</File>
+		<File>Data/VikingsScenario_UnitAbilities.xml</File>
+		<File>Data/VikingsScenario_Victories.xml</File>
+		<File>Maps/Viking.Civ6Map</File>
+		<File>Scripts/VikingScenario.lua</File>
+		<File>Text/en_US/VikingsScenario_CivilopediaText.xml</File>
+		<File>Text/en_US/VikingsScenario_ConfigText.xml</File>
+		<File>Text/en_US/VikingsScenario_Text.xml</File>
+		<File>Text/VikingsScenario_Text_Preprocess.xml</File>
+		<File>Text/VikingsScenario_Translations_ConfigText.xml</File>
+		<File>Text/VikingsScenario_Translations_ConfigText_China.xml</File>
+		<File>Text/VikingsScenario_Translations_Text.xml</File>
+		<File>Text/VikingsScenario_Translations_Text_China.xml</File>
+		<File>VikingScenario.dep</File>
+		<File>UI/ReligionScreen.lua</File>
+		<File>UI/Replacements/WorldRankings_VikingsScenario.lua</File>
+		<File>UI/WorldRankings.xml</File>
+		<File>UI/Replacements/PartialScreenHooks_VikingsScenario.lua</File>
+	</Files>
+</Mod>

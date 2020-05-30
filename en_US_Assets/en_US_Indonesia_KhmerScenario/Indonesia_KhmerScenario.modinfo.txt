@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Mod id="8550ED6C-E370-426C-80CD-AB4B46B201DD" version="1">
+	<Properties>
+		<Name>LOC_MOD_INDONESIA_KHMER_SCENARIO_TITLE</Name>
+		<Teaser>LOC_MOD_INDONESIA_KHMER_SCENARIO_TEASER</Teaser>
+		<Description>LOC_MOD_INDONESIA_KHMER_SCENARIO_DESCRIPTION</Description>
+		<Authors>LOC_MOD_AUTHORS_FIRAXIS</Authors>
+		<EnabledByDefault>1</EnabledByDefault>
+    <CompatibleVersions>2.0</CompatibleVersions>
+	</Properties>
+	<Dependencies>
+		<Mod id="1F367231-A040-4793-BDBB-088816853683" title="LOC_INDONESIA_KHMER_MOD_TITLE"/>
+	</Dependencies>
+	<ActionCriteria>
+		<Criteria id="Indonesia_KhmerScenario">
+			<RuleSetInUse>RULESET_SCENARIO_INDONESIA_KHMER</RuleSetInUse>
+		</Criteria>
+	</ActionCriteria>
+	<InGameActions>
+		<ModArt id="IndonesiaKhmerScenarioArt" criteria="Indonesia_KhmerScenario">
+			<File>Indonesia_KhmerScenario.dep</File>
+		</ModArt>
+		<None id="Indonesia_KhmerScenarioIncludes" criteria="Indonesia_KhmerScenario">
+			<Include mod_id="1F367231-A040-4793-BDBB-088816853683" action_id="IndonesiaKhmerArt" required="1" />
+			<Include mod_id="1F367231-A040-4793-BDBB-088816853683" action_id="IndonesiaKhmerGameplay" required="1" />
+			<Include mod_id="1F367231-A040-4793-BDBB-088816853683" action_id="IndonesiaKhmerARX" required="1" />
+			<Include mod_id="1F367231-A040-4793-BDBB-088816853683" action_id="IndonesiaKhmerAudio" required="1" />
+			<Include mod_id="1F367231-A040-4793-BDBB-088816853683" action_id="IndonesiaKhmerText" required="1" />
+			<Include mod_id="1F367231-A040-4793-BDBB-088816853683" action_id="IndonesiaKhmerInGameIcons" required="1" />
+		</None>
+		<UpdateColors id="Indonesia_KhmerScenarioColors" criteria="Indonesia_KhmerScenario">
+			<File>Data/Indonesia_KhmerScenario_Colors.xml</File>
+			<File>Data/Indonesia_KhmerScenario_MinorPlayerColors.xml</File>
+			<File>Data/Indonesia_KhmerScenario_PlayerColors.xml</File>
+		</UpdateColors>
+		<AddGameplayScripts id="Indonesia_KhmerScenarioScripts" criteria="Indonesia_KhmerScenario">
+			<File>Scripts/IndonesiaKhmerScenario.lua</File>
+		</AddGameplayScripts>
+		<ReplaceUIScript id="Indonesia_KhmerScenarioCityStates" criteria="Indonesia_KhmerScenario">
+			<Properties>
+				<LuaContext>CityStates</LuaContext>
+				<LuaReplace>UI/Replacements/CityStates_Indonesia_KhmerScenario.lua</LuaReplace>
+			</Properties>
+		</ReplaceUIScript>
+		<ReplaceUIScript id="Indonesia_KhmerScenarioTradeOverview" criteria="Indonesia_KhmerScenario">
+			<Properties>
+				<LuaContext>TradeOverview</LuaContext>
+				<LuaReplace>UI/Replacements/TradeOverview_Indonesia_KhmerScenario.lua</LuaReplace>
+			</Properties>
+		</ReplaceUIScript>
+		<ReplaceUIScript id="Indonesia_KhmerScenarioReligionScreen" criteria="Indonesia_KhmerScenario">
+			<Properties>
+				<LuaContext>ReligionScreen</LuaContext>
+				<LuaReplace>UI/Replacements/ReligionScreen_Indonesia_KhmerScenario.lua</LuaReplace>
+			</Properties>
+		</ReplaceUIScript>
+		<UpdateDatabase id="Indonesia_KhmerScenarioGameplay" criteria="Indonesia_KhmerScenario">
+			<Properties>
+				<LoadOrder>100</LoadOrder>
+			</Properties>
+			<File Priority="1">Data/Indonesia_KhmerScenario_RemoveData.xml</File>
+			<File>Data/Indonesia_KhmerScenario_Buildings.xml</File>
+			<File>Data/Indonesia_KhmerScenario_Civics.xml</File>
+			<File>Data/Indonesia_KhmerScenario_Civilizations.xml</File>
+			<File>Data/Indonesia_KhmerScenario_DiplomacyInfo.xml</File>
+			<File>Data/Indonesia_KhmerScenario_Districts.xml</File>
+			<File>Data/Indonesia_KhmerScenario_Eras.xml</File>
+			<File>Data/Indonesia_KhmerScenario_GlobalParameters.xml</File>
+			<File>Data/Indonesia_KhmerScenario_Improvements.xml</File>
+			<File>Data/Indonesia_KhmerScenario_LoadingInfo.xml</File>
+			<File>Data/Indonesia_KhmerScenario_Religions.xml</File>
+			<File>Data/Indonesia_KhmerScenario_Resources.xml</File>
+			<File>Data/Indonesia_KhmerScenario_Scoring.xml</File>
+			<File>Data/Indonesia_KhmerScenario_Units.xml</File>
+			<File>Data/Indonesia_KhmerScenario_Victories.xml</File>
+		</UpdateDatabase>
+		<UpdateIcons id="Indonesia_KhmerScenarioInGameIcons" criteria="Indonesia_KhmerScenario">
+			<File>Data/Indonesia_KhmerScenario_Icons_Beliefs.xml</File>
+			<File>Data/Indonesia_KhmerScenario_Icons_Civilizations.xml</File>
+			<File>Data/Indonesia_KhmerScenario_Icons_CityStates.xml</File>
+			<File>Data/Indonesia_KhmerScenario_Icons_Civics.xml</File>
+			<File>Data/Indonesia_KhmerScenario_Icons_Units.xml</File>
+			<File>Data/Indonesia_KhmerScenario_Icons_Religions.xml</File>
+			<File>Data/Indonesia_KhmerScenario_Icons_Leaders.xml</File>
+			<File>Data/Indonesia_KhmerScenario_Icons_UnitPortraits.xml</File>
+			<File>Data/Indonesia_KhmerScenario_Icons_Envoys.xml</File>
+			<File>Data/Indonesia_KhmerScenario_Icons_Governments.xml</File>
+			<File>Data/Indonesia_KhmerScenario_Icons_Policies.xml</File>
+		</UpdateIcons>
+		<UpdateAudio id="Indonesia_KhmerScenarioAudio" criteria="Indonesia_KhmerScenario">
+			<File>Platforms/Windows/Audio/IKBanks.ini</File>
+			<File>Platforms/Windows/Audio/IK_Music_Bank.bnk</File>
+		</UpdateAudio>
+		<UpdateText id="Indonesia_KhmerScenarioText" criteria="Indonesia_KhmerScenario">
+			<Properties>
+				<LoadOrder>100</LoadOrder>
+			</Properties>
+			<File Priority="3">Text/Indonesia_KhmerScenario_Text_PreProcess.xml</File>
+			<File Priority="2">Text/en_US/Indonesia_KhmerScenario_ConfigText.xml</File>
+			<File Priority="2">Text/en_US/Indonesia_KhmerScenario_Civilopedia.xml</File>
+			<File Priority="2">Text/en_US/Indonesia_KhmerScenario_Text.xml</File>
+			<File Priority="1">Text/Indonesia_KhmerScenario_Translations_ConfigText.xml</File>
+			<File Priority="1">Text/Indonesia_KhmerScenario_Translations_ConfigText_China.xml</File>
+			<File Priority="1">Text/Indonesia_KhmerScenario_Translations_Text.xml</File>
+			<File Priority="1">Text/Indonesia_KhmerScenario_Translations_Text_China.xml</File>
+			<File Priority="0">Text/Indonesia_KhmerScenario_Text_PostProcess.xml</File>
+		</UpdateText>
+		<UpdateLogitechARX id="IndonesiaKhmerScenarioARX" criteria="Indonesia_KhmerScenario">
+			<File>Data/ARX/index.html</File>
+			<File>Data/ARX/Civ_LEADER_CHINA.png</File>
+			<File>Data/ARX/Civ_LEADER_CHOLA.png</File>
+			<File>Data/ARX/Civ_LEADER_GHAZNAVID.png</File>
+			<File>Data/ARX/Civ_LEADER_INDONESIA.png</File>
+			<File>Data/ARX/Civ_LEADER_KHMER.png</File>
+			<File>Data/ARX/Civ_LEADER_PALA.png</File>
+			<File>Data/ARX/Civ_LEADER_TUFAN.png</File>
+		</UpdateLogitechARX>
+
+    <ReplaceUIScript id="WorldRankings_Indonesia_KhmerScenario" criteria="Indonesia_KhmerScenario">
+      <Properties>
+        <LuaContext>WorldRankings</LuaContext>
+        <LuaReplace>UI/Replacements/WorldRankings_Indonesia_KhmerScenario.lua</LuaReplace>
+      </Properties>
+    </ReplaceUIScript>
+		<ImportFiles id="Indonesia_KhmerScenarioFiles" criteria="Indonesia_KhmerScenario">
+			<File>UI/ARXManager.lua</File>
+			<File>UI/CivilopediaPage_Resource.lua</File>
+			<File>UI/EndGameMenu_Indonesia_KhmerScenario.lua</File>
+			<File>UI/Replacements/CityStates_Indonesia_KhmerScenario.lua</File>
+			<File>UI/Replacements/TradeOverview_Indonesia_KhmerScenario.lua</File>
+			<File>UI/Replacements/ReligionScreen_Indonesia_KhmerScenario.lua</File>
+			<File>UI/Replacements/WorldRankings_Indonesia_KhmerScenario.lua</File>
+			<File>UI/WorldRankings.xml</File>
+			<File>UI/GreatWorksOverview.lua</File>
+		</ImportFiles>
+	</InGameActions>
+	<FrontEndActions>
+		<UpdateDatabase id="Indonesia_KhmerScenarioSettings">
+			<File>Data/Indonesia_KhmerScenario_Config.xml</File>
+		</UpdateDatabase>
+		<UpdateArt id="IndonesiaKhmerSettingsArt">
+			<File>Indonesia_KhmerScenario.dep</File>
+		</UpdateArt>
+		<UpdateColors id="Indonesia_KhmerScenarioSettingsColors">
+			<File>Data/Indonesia_KhmerScenario_Colors.xml</File>
+			<File>Data/Indonesia_KhmerScenario_PlayerColors.xml</File>
+		</UpdateColors>
+		<UpdateIcons id="Indonesia_KhmerScenarioIcons">
+			<File>Data/Indonesia_KhmerScenario_Icons_Leaders.xml</File>
+			<File>Data/Indonesia_KhmerScenario_Icons_Civilizations.xml</File>
+		</UpdateIcons>
+		<UpdateText id="Indonesia_KhmerScenarioSettingsText">
+			<File Priority="1">Text/en_US/Indonesia_KhmerScenario_ConfigText.xml</File>
+			<File>Text/Indonesia_KhmerScenario_Translations_ConfigText.xml</File>
+			<File>Text/Indonesia_KhmerScenario_Translations_ConfigText_China.xml</File>
+		</UpdateText>
+	</FrontEndActions>
+	<Files>
+		<File>Indonesia_KhmerScenario.dep</File>
+		<File>Data/Indonesia_KhmerScenario_Buildings.xml</File>
+		<File>Data/Indonesia_KhmerScenario_Civics.xml</File>
+		<File>Data/Indonesia_KhmerScenario_Civilizations.xml</File>
+		<File>Data/Indonesia_KhmerScenario_Colors.xml</File>
+		<File>Data/Indonesia_KhmerScenario_Config.xml</File>
+		<File>Data/Indonesia_KhmerScenario_DiplomacyInfo.xml</File>
+		<File>Data/Indonesia_KhmerScenario_Districts.xml</File>
+		<File>Data/Indonesia_KhmerScenario_Eras.xml</File>
+		<File>Data/Indonesia_KhmerScenario_GlobalParameters.xml</File>
+		<File>Data/Indonesia_KhmerScenario_Icons_Beliefs.xml</File>
+		<File>Data/Indonesia_KhmerScenario_Icons_CityStates.xml</File>
+		<File>Data/Indonesia_KhmerScenario_Icons_Civics.xml</File>
+		<File>Data/Indonesia_KhmerScenario_Icons_Civilizations.xml</File>
+		<File>Data/Indonesia_KhmerScenario_Icons_Envoys.xml</File>
+		<File>Data/Indonesia_KhmerScenario_Icons_Governments.xml</File>
+		<File>Data/Indonesia_KhmerScenario_Icons_Leaders.xml</File>
+		<File>Data/Indonesia_KhmerScenario_Icons_Religions.xml</File>
+		<File>Data/Indonesia_KhmerScenario_Icons_UnitPortraits.xml</File>
+		<File>Data/Indonesia_KhmerScenario_Icons_Units.xml</File>
+		<File>Data/Indonesia_KhmerScenario_Icons_Policies.xml</File>
+		<File>Data/Indonesia_KhmerScenario_Improvements.xml</File>
+		<File>Data/Indonesia_KhmerScenario_LoadingInfo.xml</File>
+		<File>Data/Indonesia_KhmerScenario_MinorPlayerColors.xml</File>
+		<File>Data/Indonesia_KhmerScenario_PlayerColors.xml</File>
+		<File>Data/Indonesia_KhmerScenario_Religions.xml</File>
+		<File>Data/Indonesia_KhmerScenario_RemoveData.xml</File>
+		<File>Data/Indonesia_KhmerScenario_Resources.xml</File>
+		<File>Data/Indonesia_KhmerScenario_Scoring.xml</File>
+		<File>Data/Indonesia_KhmerScenario_Units.xml</File>
+		<File>Data/Indonesia_KhmerScenario_Victories.xml</File>
+		<File>Maps/Indonesia_KhmerScenario.Civ6Map</File>
+		<File>Scripts/IndonesiaKhmerScenario.lua</File>
+		<File>Text/Indonesia_KhmerScenario_Text_PreProcess.xml</File>
+		<File>Text/Indonesia_KhmerScenario_Translations_ConfigText.xml</File>
+		<File>Text/Indonesia_KhmerScenario_Translations_ConfigText_China.xml</File>
+		<File>Text/Indonesia_KhmerScenario_Translations_Text.xml</File>
+		<File>Text/Indonesia_KhmerScenario_Translations_Text_China.xml</File>
+		<File>Text/Indonesia_KhmerScenario_Text_PostProcess.xml</File>
+		<File>Text/en_US/Indonesia_KhmerScenario_Civilopedia.xml</File>
+		<File>Text/en_US/Indonesia_KhmerScenario_ConfigText.xml</File>
+		<File>Text/en_US/Indonesia_KhmerScenario_Text.xml</File>		
+		<File>Platforms/Windows/Audio/IKBanks.ini</File>
+		<File>Platforms/Windows/Audio/IK_Music_Bank.bnk</File>
+		<File>Data/ARX/index.html</File>
+		<File>Data/ARX/Civ_LEADER_CHINA.png</File>
+		<File>Data/ARX/Civ_LEADER_CHOLA.png</File>
+		<File>Data/ARX/Civ_LEADER_GHAZNAVID.png</File>
+		<File>Data/ARX/Civ_LEADER_INDONESIA.png</File>
+		<File>Data/ARX/Civ_LEADER_KHMER.png</File>
+		<File>Data/ARX/Civ_LEADER_PALA.png</File>
+		<File>Data/ARX/Civ_LEADER_TUFAN.png</File>
+		<File>UI/ARXManager.lua</File>
+		<File>UI/CivilopediaPage_Resource.lua</File>
+		<File>UI/EndGameMenu_Indonesia_KhmerScenario.lua</File>
+		<File>UI/GreatWorksOverview.lua</File>
+		<File>UI/Replacements/CityStates_Indonesia_KhmerScenario.lua</File>
+		<File>UI/Replacements/TradeOverview_Indonesia_KhmerScenario.lua</File>
+		<File>UI/Replacements/ReligionScreen_Indonesia_KhmerScenario.lua</File>
+		<File>UI/Replacements/WorldRankings_Indonesia_KhmerScenario.lua</File>
+		<File>UI/WorldRankings.xml</File>	
+	</Files>
+</Mod>

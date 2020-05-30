@@ -1,0 +1,1693 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <LocalizedText>
+    <Replace Tag="LOC_IMPROVEMENT_HACIENDA_NAME" Language="pt_BR">
+      <Text>Hacienda|Haciendas</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_OBSERVATORY_NAME" Language="pt_BR">
+      <Text>Observatório|Observatórios</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_GRAN_COLOMBIA_NAME" Language="pt_BR">
+      <Text>Grande Colômbia</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_GRAN_COLOMBIA_DESCRIPTION" Language="pt_BR">
+      <Text>Império da Grande Colômbia</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_GRAN_COLOMBIA_ADJECTIVE" Language="pt_BR">
+      <Text>da Grande Colômbia</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_MAYA_NAME" Language="pt_BR">
+      <Text>Império Maia</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_MAYA_DESCRIPTION" Language="pt_BR">
+      <Text>Império Maia</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_MAYA_ADJECTIVE" Language="pt_BR">
+      <Text>Maia|Maia|Maias|Maias</Text>
+      <Gender>masculine|feminine|masculine|feminine</Gender>
+      <Plurality>1|1|2|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SIMON_BOLIVAR_NAME" Language="pt_BR">
+      <Text>Simón Bolívar</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_LADY_SIX_SKY_NAME" Language="pt_BR">
+      <Text>Rainha Wac-Chanil-Ajaw</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_GAMEMODE_APOCALYPSE_NAME" Language="pt_BR">
+      <Text>Modo Apocalipse</Text>
+    </Replace>
+    <Replace Tag="LOC_GAMEMODE_APOCALYPSE_DESCRIPTION" Language="pt_BR">
+      <Text>Este modo acrescenta novos desastres naturais, versões maiores e mais impactantes de desastres existentes, e aumenta as chances de todos os desastres naturais. O Modo Apocalipse também acrescenta a unidade Vidente ao jogo, e quando o clima chegar ao seu nível final de mudança, cometas chovem na Terra e destroem a humanidade.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_EJERCITO_PATRIOTA_NAME" Language="pt_BR">
+      <Text>Ejército Patriota</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_EJERCITO_PATRIOTA_DESCRIPTION" Language="pt_BR">
+      <Text>+1 de [ICON_Movement] movimento para todas as unidades. Promover uma unidade não encerra o turno dela.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_EJERCITO_PATRIOTA_EXTRA_MOVEMENT_NAME" Language="pt_BR">
+      <Text>Ejército Patriota</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_EJERCITO_PATRIOTA_EXTRA_MOVEMENT_DESCRIPTION" Language="pt_BR">
+      <Text>+1 de [ICON_Movement] movimento para todas as unidades. (Ejército Patriota)</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_HACIENDA_DESCRIPTION" Language="pt_BR">
+      <Text>Desbloqueia a habilidade de Construtores para construírem uma Hacienda, exclusiva da Grande Colômbia.[NEWLINE][NEWLINE]+2 de [ICON_GOLD] ouro, +1 de [ICON_PRODUCTION] produção e +1 de [Icon_Housing] habitação. +1 de [ICON_Food] alimento para cada duas Plantações adjacentes (aumenta para cada Plantação com Partes Substituíveis). Plantações e Haciendas recebem +1 de [ICON_Production] produção para cada duas Haciendas adjacentes (aumenta para cada Hacienda com mobilização rápida). Só pode ser construída em Planícies, Colinas de Planícies, Pradarias e Colinas de Pradarias.</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_LEADER_SIMON_BOLIVAR" Language="pt_BR">
+      <Text>Você poderia ter seguido os caprichos de seus colegas, Simón Bolívar, mas escolheu se transformar no Libertador. As dificuldades nunca o abateram, então se atenha aos seus ideais e guie sua república para uma nova era de prosperidade.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_CAMPANA_ADMIRABLE_NAME" Language="pt_BR">
+      <Text>Campaña Admirable</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_CAMPANA_ADMIRABLE_DESCRIPTION" Language="pt_BR">
+      <Text>Receba um Comandante General ao entrar em uma nova era.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_CAMPANA_ADMIRABLE_DESCRIPTION_XP1" Language="pt_BR">
+      <Text>Receba um Comandante General quando a partida entra em uma nova era.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_COMANDANTE_GENERAL_DESCRIPTION" Language="pt_BR">
+      <Text>Um tipo especial de Grande Personalidade disponível apenas para Simón Bolívar. Cada uma tem habilidades exclusivas, incluindo um efeito passivo e um efeito de retirada.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_COLOMBIAN_LLANERO_DESCRIPTION" Language="pt_BR">
+      <Text>Unidade da Era Industrial exclusiva da Grande Colômbia, que substitui a Cavalaria. Baixo custo de manutenção. +4 de [ICON_Strength] força de combate por cada Llanero adjacente. Cura-se totalmente quando estiver no alcance de um Comandante General que ative sua habilidade de Retirada.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_MAYAB_NAME" Language="pt_BR">
+      <Text>Mayab</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_MAYAB_DESCRIPTION" Language="pt_BR">
+      <Text>Estabelecer-se adjacente à água doce e costa não concede [ICON_HOUSING] habitação adicional. Em vez disso, cada Fazenda concede +1 de [ICON_HOUSING] habitação e +1 de [ICON_GOLD] ouro adicional. +1 de [ICON_AMENITIES] serviço para cada luxo adjacente ao Centro da Cidade.</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_OBSERVATORY_DESCRIPTION" Language="pt_BR">
+      <Text>Um distrito exclusivo dos maias para empreendimentos científicos. Substitui o distrito do Campus e é mais barato de se construir.[NEWLINE][NEWLINE]+2 de bônus de [ICON_Science] ciência para Plantações adjacentes. +1 de bônus de [ICON_Science] ciência para cada dois painéis adjacentes de Fazenda ou distrito.</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_OBSERVATORY_DESCRIPTION_ADJACENCY" Language="pt_BR">
+      <Text>Adjacência: bônus grande de [ICON_Science] ciência para cada Plantação adjacente. Pequeno bônus de [ICON_Science] ciência para painéis de distritos ou Fazendas adjacentes.</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_LEADER_LADY_SIX_SKY" Language="pt_BR">
+      <Text>Rainha Wac-Chanil-Ajaw, grande mãe guerreira de Dos Pilas e Wak Kab'nal, conduza seu povo para uma nova dinastia. Amplie o seu alcance para conquistar seus inimigos próximos e distantes. Os Deuses a guiarão, e você, por sua vez, levará seus leais cidadãos à vitória.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_MUTAL_NAME" Language="pt_BR">
+      <Text>Ix Mutal Ajaw</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_MUTAL_DESCRIPTION" Language="pt_BR">
+      <Text>Cidades que não sejam a Capital dentro de 6 painéis da [ICON_Capital] Capital recebem +10% para todas as produções. Outras cidades que não sejam a Capital recebem -15% para todas as produções. +5 de [ICON_Strength] força de combate para unidades dentro de 6 painéis da [ICON_Capital] Capital.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_MUTAL_COMBAT_STRENGTH_NEAR_CAPITAL_NAME" Language="pt_BR">
+      <Text>Mutal</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_MUTAL_COMBAT_STRENGTH_NEAR_CAPITAL_DESCRIPTION" Language="pt_BR">
+      <Text>+5 de [ICON_Strength] força de combate para unidades dentro de 6 painéis da [ICON_Capital] Capital. (Ix Mutal Ajaw)</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_MAYAN_HULCHE_DESCRIPTION" Language="pt_BR">
+      <Text>Unidade a distância da Era Antiga exclusiva dos maias, que substitui o Arqueiro. Forte ataque a distância. +5 de [ICON_Strength] força de combate ao lutar contra um adversário ferido.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_HULCHE_DESCRIPTION" Language="pt_BR">
+      <Text>+5 de [ICON_Strength] força de combate ao lutar contra um adversário ferido.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_LAHORE_NIHANG_DESCRIPTION" Language="pt_BR">
+      <Text>Unidade exclusiva da Cidade-estado de Lahore com uma árvore de promoção exclusiva. Pode ser comprada com [ICON_Faith] fé. A [ICON_Strength] força de combate é aumentada ao construir pela primeira vez Caserna, Arsenal e Academia Militar.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SOOTHSAYER_DESCRIPTION" Language="pt_BR">
+      <Text>Unidade de suporte específica do Modo Apocalipse. Pode usar a ação Causar Desastre para iniciar um desastre aleatório nos hexágonos próximos à unidade. Fazer isso destrói o Vidente se ele não possuir mais cargas.</Text>
+    </Replace>
+    <Replace Tag="LOC_CLIMATE_FOREST_FIRE" Language="pt_BR">
+      <Text>Incêndios florestais</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_PLANTATION_SCIENCE" Language="pt_BR">
+      <Text>+{1_num} de [ICON_Science] ciência {1_Num : plural 1?do painel adjacente; other?dos painéis adjacentes;} de Plantação.</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_FARM_SCIENCE" Language="pt_BR">
+      <Text>+{1_num} de [ICON_Science] ciência {1_Num : plural 1?do painel adjacente; other?dos painéis adjacentes;} de Fazenda.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_MUTAL_NEAR_CAPITAL_COMBAT_DESCRIPTION" Language="pt_BR">
+      <Text>+{1_Amount} de força de combate do traço Mutal.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_COMANDANTE_GENERAL_NAME" Language="pt_BR">
+      <Text>Comandante General</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_UNIT_COLOMBIAN_LLANERO_NAME" Language="pt_BR">
+      <Text>Llanero</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_UNIT_MAYAN_HULCHE_NAME" Language="pt_BR">
+      <Text>Hul'che</Text>
+      <Gender>neutral</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_UNIT_LAHORE_NIHANG_NAME" Language="pt_BR">
+      <Text>Nihang</Text>
+      <Gender>neutral</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SOOTHSAYER_NAME" Language="pt_BR">
+      <Text>Vidente</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_HACIENDA_NAME" Language="fr_FR">
+      <Text>Hacienda|Haciendas</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_OBSERVATORY_NAME" Language="fr_FR">
+      <Text>Observatoire|Observatoires</Text>
+      <Gender>masculine:vowel</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_GRAN_COLOMBIA_NAME" Language="fr_FR">
+      <Text>Grande Colombie</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_GRAN_COLOMBIA_DESCRIPTION" Language="fr_FR">
+      <Text>Empire de la Grande Colombie</Text>
+      <Gender>masculine:vowel</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_GRAN_COLOMBIA_ADJECTIVE" Language="fr_FR">
+      <Text>de Grande Colombie|de Grande Colombie|de Grande Colombie|de Grande Colombie|</Text>
+      <Gender>masculine|feminine|masculine|feminine</Gender>
+      <Plurality>1|1|2|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_MAYA_NAME" Language="fr_FR">
+      <Text>Maya</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_MAYA_DESCRIPTION" Language="fr_FR">
+      <Text>Empire maya</Text>
+      <Gender>masculine:vowel</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_MAYA_ADJECTIVE" Language="fr_FR">
+      <Text>maya|maya|mayas|mayas</Text>
+      <Gender>masculine:vowel|feminine:vowel|masculine:vowel|feminine:vowel</Gender>
+      <Plurality>1|1|2|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SIMON_BOLIVAR_NAME" Language="fr_FR">
+      <Text>Simón Bolívar</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_LADY_SIX_SKY_NAME" Language="fr_FR">
+      <Text>Dame Six Cieux</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_GAMEMODE_APOCALYPSE_NAME" Language="fr_FR">
+      <Text>Mode Apocalypse</Text>
+    </Replace>
+    <Replace Tag="LOC_GAMEMODE_APOCALYPSE_DESCRIPTION" Language="fr_FR">
+      <Text>Ce mode de jeu ajoute de nouvelles catastrophes naturelles d'une ampleur supérieure à celles qui existent déjà et augmente les probabilités de catastrophes naturelles. Le mode Apocalypse ajoute également l'unité de devins au jeu. En outre, lorsque le changement climatique atteint son niveau maximum, une pluie de comètes entraîne la fin du monde et de l'humanité.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_EJERCITO_PATRIOTA_NAME" Language="fr_FR">
+      <Text>Ejército Patriota</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_EJERCITO_PATRIOTA_DESCRIPTION" Language="fr_FR">
+      <Text>[ICON_Movement] PM +1 pour toutes les unités. La promotion d'une unité ne met pas fin à son tour.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_EJERCITO_PATRIOTA_EXTRA_MOVEMENT_NAME" Language="fr_FR">
+      <Text>Ejército Patriota</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_EJERCITO_PATRIOTA_EXTRA_MOVEMENT_DESCRIPTION" Language="fr_FR">
+      <Text>[ICON_Movement] PM +1 pour toutes les unités (Ejército Patriota).</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_HACIENDA_DESCRIPTION" Language="fr_FR">
+      <Text>Débloque la compétence de bâtisseur permettant de construire une hacienda, un bâtiment exclusif à la Grande Colombie.[NEWLINE][NEWLINE][ICON_GOLD] Or +2, [ICON_PRODUCTION] Production +1 et [Icon_Housing] Habitations +1. [ICON_Food] Nourriture +1 toutes les 2 cases de plantations adjacentes (augmente pour chaque plantation après la découverte des pièces détachées). [ICON_Production] Production +1 pour les plantations et les haciendas, toutes les 2 haciendas adjacentes (passe à chaque hacienda adjacente après la découverte du déploiement rapide). Ne peut être construite que sur une case de plaine, de prairie, de colline des plaines ou de colline des prairies.</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_LEADER_SIMON_BOLIVAR" Language="fr_FR">
+      <Text>Vous auriez pu suivre les lubies de vos collègues, Simón Bolívar, mais au lieu de cela, vous avez choisi de devenir le Libérateur. Les obstacles ne vous ont jamais fait peur. Ne perdez pas de vue vos idéaux, et vous mènerez votre république jusqu'à une nouvelle ère de prospérité.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_CAMPANA_ADMIRABLE_NAME" Language="fr_FR">
+      <Text>Campagne Admirable</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_CAMPANA_ADMIRABLE_DESCRIPTION" Language="fr_FR">
+      <Text>Obtenez un Comandante General quand vous entrez dans une nouvelle ère.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_CAMPANA_ADMIRABLE_DESCRIPTION_XP1" Language="fr_FR">
+      <Text>Obtenez un Comandante General quand le jeu entre dans une nouvelle ère.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_COMANDANTE_GENERAL_DESCRIPTION" Language="fr_FR">
+      <Text>Personnage illustre spécial exclusif à Simón Bolívar. Chaque  personnage illustre a ses propres compétences, notamment un effet passif et un effet de retraite.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_COLOMBIAN_LLANERO_DESCRIPTION" Language="fr_FR">
+      <Text>Unité exclusive à l'ère industrielle de la Grande Colombie remplaçant la cavalerie. Coût d'entretien réduit. [ICON_Strength] Puissance de combat +4 pour chaque llanero adjacent. Se soigne entièrement si elle est proche d'un Comandante General qui active sa compétence de retraite.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_MAYAB_NAME" Language="fr_FR">
+      <Text>Mayab</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_MAYAB_DESCRIPTION" Language="fr_FR">
+      <Text>L'installation à côté des cases d'eau douce et côtières n'octroie pas [ICON_HOUSING] d'habitations supplémentaires, mais chaque ferme octroie [ICON_HOUSING] Habitations +1 et [ICON_GOLD] Or +1. [ICON_AMENITIES] Activités +1 pour chaque ressource de luxe adjacente au centre-ville.</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_OBSERVATORY_DESCRIPTION" Language="fr_FR">
+      <Text>Quartier exclusif aux Mayas pour leurs recherches scientifiques. Remplace le campus à moindre coût.[NEWLINE][NEWLINE] [ICON_Science] Science +2 pour chaque plantation adjacente. [ICON_Science] Science +1 pour toutes les deux cases de fermes ou de quartiers adjacentes.</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_OBSERVATORY_DESCRIPTION_ADJACENCY" Language="fr_FR">
+      <Text>Proximité : Bonus majeur de [ICON_Science] science pour chaque plantation adjacente. Bonus mineur de [ICON_Science] science pour chaque ferme ou case de quartier adjacente.</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_LEADER_LADY_SIX_SKY" Language="fr_FR">
+      <Text>Dame Six Cieux, grande guerrière et mère de Dos Pilas et Naranjo, guidez votre peuple pour fonder une nouvelle dynastie. Que votre triomphe soit éclatant et que vos ennemis succombent où que vous alliez. Les dieux vous guideront et à votre tour, vous guiderez vos fidèles citoyens jusqu'à la victoire.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_MUTAL_NAME" Language="fr_FR">
+      <Text>Ix Mutal Ahaw</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_MUTAL_DESCRIPTION" Language="fr_FR">
+      <Text>Rendements des villes dans un rayon de moins de 6 cases de la [ICON_Capital] capitale +10%. Rendements des autres villes -15%. [ICON_Strength] Puissance de combat +5 pour les unités dans un rayon de moins de 6 cases de la [ICON_Capital] capitale.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_MUTAL_COMBAT_STRENGTH_NEAR_CAPITAL_NAME" Language="fr_FR">
+      <Text>Mutal</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_MUTAL_COMBAT_STRENGTH_NEAR_CAPITAL_DESCRIPTION" Language="fr_FR">
+      <Text>[ICON_Strength] Puissance de combat +5 pour les unités à moins de 6 cases de votre [ICON_Capital] capitale (Ix Mutal Ajaw).</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_MAYAN_HULCHE_DESCRIPTION" Language="fr_FR">
+      <Text>Unité de l'Antiquité exclusive aux Mayas remplaçant l'archer et dotée d'une puissante attaque à distance. [ICON_Strength] Puissance de combat +5 contre les unités blessées.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_HULCHE_DESCRIPTION" Language="fr_FR">
+      <Text>[ICON_Strength] Puissance de combat +5 contre les unités blessées.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_LAHORE_NIHANG_DESCRIPTION" Language="fr_FR">
+      <Text>Unité exclusive à la cité-état de Lahore avec un arbre de compétences spécifique. Peut être achetée avec de la [ICON_Faith] foi. [ICON_Strength] Puissance de combat supérieure si une caserne, une armurerie et une école militaire ont d'abord été construites.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SOOTHSAYER_DESCRIPTION" Language="fr_FR">
+      <Text>Unité de soutien spécifique au mode Apocalypse. Peut utiliser l'action "Provoquer une catastrophe" pour déclencher une catastrophe sur les cases à proximité. L'unité de devins est alors détruite si elle n'a plus de charges.</Text>
+    </Replace>
+    <Replace Tag="LOC_CLIMATE_FOREST_FIRE" Language="fr_FR">
+      <Text>Feux de forêt</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_PLANTATION_SCIENCE" Language="fr_FR">
+      <Text>[ICON_Science] Science +{1_num} pour {1_Num : plural 1?la plantation adjacente; other?les plantations adjacentes;}.</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_FARM_SCIENCE" Language="fr_FR">
+      <Text>[ICON_Science] Science +{1_num} pour {1_Num : plural 1?la ferme adjacente; other?les fermes adjacentes;}.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_MUTAL_NEAR_CAPITAL_COMBAT_DESCRIPTION" Language="fr_FR">
+      <Text>Mutal : Puissance de combat +{1_Amount}</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_COMANDANTE_GENERAL_NAME" Language="fr_FR">
+      <Text>Comandante General|Comandantes General</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_UNIT_COLOMBIAN_LLANERO_NAME" Language="fr_FR">
+      <Text>Llanero|Llaneros</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_UNIT_MAYAN_HULCHE_NAME" Language="fr_FR">
+      <Text>Hul-Che</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_UNIT_LAHORE_NIHANG_NAME" Language="fr_FR">
+      <Text>Nihang</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SOOTHSAYER_NAME" Language="fr_FR">
+      <Text>Devin|Devins</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_HACIENDA_NAME" Language="de_DE">
+      <Text>Hacienda|Hacienda|Hacienda|Hacienda|Hacienda</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_OBSERVATORY_NAME" Language="de_DE">
+      <Text>Observatorium|Observatorium|Observatorium|Observatoriums|Observatorium</Text>
+      <Gender>neuter</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_GRAN_COLOMBIA_NAME" Language="de_DE">
+      <Text>Großkolumbien|Großkolumbien|Großkolumbien|Großkolumbiens|Großkolumbien</Text>
+      <Gender>neuter:no_article</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_GRAN_COLOMBIA_DESCRIPTION" Language="de_DE">
+      <Text>Großkolumbianisches Reich|Großkolumbianische Reich|Großkolumbianischen Reich|Großkolumbianischen Reichs|Großkolumbianische Reich</Text>
+      <Gender>neuter</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_GRAN_COLOMBIA_ADJECTIVE" Language="de_DE">
+      <Text>Großkolumbianisch|Großkolumbianischen|Großkolumbianische|Großkolumbianischer|Großkolumbianisches</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_MAYA_NAME" Language="de_DE">
+      <Text>Mayareich|Mayareich|Mayareich|Mayareichs|Mayareich</Text>
+      <Gender>neuter</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_MAYA_DESCRIPTION" Language="de_DE">
+      <Text>Mayareich|Mayareich|Mayareich|Mayareichs|Mayareich</Text>
+      <Gender>neuter</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_MAYA_ADJECTIVE" Language="de_DE">
+      <Text>Maya-|Maya-|Maya-|Maya-|Maya-</Text>
+      <Gender>neuter:no_space</Gender>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SIMON_BOLIVAR_NAME" Language="de_DE">
+      <Text>Simón Bolívar</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_LADY_SIX_SKY_NAME" Language="de_DE">
+      <Text>Wac Chanil Ajaw</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_GAMEMODE_APOCALYPSE_NAME" Language="de_DE">
+      <Text>Apokalypsen-Modus</Text>
+    </Replace>
+    <Replace Tag="LOC_GAMEMODE_APOCALYPSE_DESCRIPTION" Language="de_DE">
+      <Text>Dieser Spielmodus fügt neue Naturkatastrophen sowie größere und verheerendere Versionen vorhandener Katastrophen hinzu und erhöht die Wahrscheinlichkeit für alle Naturkatastrophen. Der Apokalypsen-Modus fügt dem Spiel zudem die Seher-Einheit hinzu. Sollte die letzte Stufe des Klimawandels erreicht werden, prasseln Kometen auf die Erde und vernichten die Menschheit.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_EJERCITO_PATRIOTA_NAME" Language="de_DE">
+      <Text>Ejército Patriota</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_EJERCITO_PATRIOTA_DESCRIPTION" Language="de_DE">
+      <Text>+1 [ICON_Movement] Fortbewegung für alle Einheiten. Die Beförderung einer Einheit beendet nicht ihre Runde.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_EJERCITO_PATRIOTA_EXTRA_MOVEMENT_NAME" Language="de_DE">
+      <Text>Ejército Patriota</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_EJERCITO_PATRIOTA_EXTRA_MOVEMENT_DESCRIPTION" Language="de_DE">
+      <Text>+1 [ICON_Movement] Fortbewegung für alle Einheiten (Ejército Patriota)</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_HACIENDA_DESCRIPTION" Language="de_DE">
+      <Text>Schaltet die Handwerker-Fähigkeit frei, eine Hacienda zu bauen, die einzigartig für Großkolumbien ist.[NEWLINE][NEWLINE]+2 [ICON_GOLD] Gold, +1 [ICON_Production] Produktion und +1 [Icon_Housing] Wohnraum. +1 [ICON_Food] Nahrung für je zwei angrenzende Plantagen (wird für jede Plantage mit Normbauteilen erhöht). Plantagen und Haciendas erhalten +1 [ICON_Production] Produktion für je zwei angrenzende Haciendas (wird für jede Hacienda mit Schneller Einsatz erhöht). Kann nur auf Ebenen, Ebenen-Hügeln, Grasland und Grasland-Hügeln gebaut werden.</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_LEADER_SIMON_BOLIVAR" Language="de_DE">
+      <Text>Ihr hättet den Launen Eurer Kollegen folgen können, Simón Bolívar, doch stattdessen habt Ihr Euch als Befreier in den Dienst Eures Volkes gestellt. Trotz Widrigkeiten haltet Ihr an Euren Idealen fest und führt Eure Republik in ein neues Zeitalter des Wohlstands.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_CAMPANA_ADMIRABLE_NAME" Language="de_DE">
+      <Text>Campaña Admirable</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_CAMPANA_ADMIRABLE_DESCRIPTION" Language="de_DE">
+      <Text>Verdient einen Comandante General, wenn Ihr ein neues Zeitalter betretet.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_CAMPANA_ADMIRABLE_DESCRIPTION_XP1" Language="de_DE">
+      <Text>Verdient einen Comandante General, wenn im Spiel ein neues Zeitalter beginnt.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_COMANDANTE_GENERAL_DESCRIPTION" Language="de_DE">
+      <Text>Eine besondere Art Großer Persönlichkeit, die nur Simón Bolívar zur Verfügung steht. Jeder hat einzigartige Fähigkeiten, darunter einen passiven Effekt und einen 'Zur Ruhe setzen'-Effekt.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_COLOMBIAN_LLANERO_DESCRIPTION" Language="de_DE">
+      <Text>Großkolumbianische Spezialeinheit des Industriezeitalters, welche die Kavallerie ersetzt. Niedrige Unterhaltskosten. +4 [ICON_Strength] Kampfstärke für jeden angrenzenden Llanero. Wird in Reichweite eines Comandante General, der seine Ruhestand-Fähigkeit aktiviert, vollständig geheilt.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_MAYAB_NAME" Language="de_DE">
+      <Text>Mayab</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_MAYAB_DESCRIPTION" Language="de_DE">
+      <Text>Das Ansiedeln neben Süßwasser- und Küsten-Geländefeldern liefert keinen zusätzlichen [ICON_HOUSING] Wohnraum, aber jeder Bauernhof liefert zusätzlich +1 [ICON_HOUSING] Wohnraum und +1 [ICON_GOLD] Gold. +1 [ICON_AMENITIES] Annehmlichkeit für jedes an das Stadtzentrum angrenzende Luxusgut.</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_OBSERVATORY_DESCRIPTION" Language="de_DE">
+      <Text>Ein Bezirk, der ausschließlich den Maya für wissenschaftliche Vorhaben zur Verfügung steht. Ersetzt den Campus-Bezirk und ist günstiger zu bauen.[NEWLINE][NEWLINE]+2 [ICON_Science] Wissenschaftsbonus für angrenzende Plantagen. +1 [ICON_Science] Wissenschaftsbonus für angrenzende Bauernhöfe oder Bezirke.</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_OBSERVATORY_DESCRIPTION_ADJACENCY" Language="de_DE">
+      <Text>Nachbarschaft: Großer [ICON_Science] Wissenschaftsbonus für jede angrenzende Plantage. Kleiner [ICON_Science] Wissenschaftsbonus für angrenzende Bauernhöfe oder Bezirke.</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_LEADER_LADY_SIX_SKY" Language="de_DE">
+      <Text>Wac Chanil Ajaw, große Kriegermutter von Dos Pilas und Wak Kab'nal, Ihr führt Euer Volk in eine neue Dynastie. Möge sich Eure Macht mehren, auf dass Ihr Eure Feinde unterwerft. So wie Euch die Götter führen, werdet auch Ihr Eure loyalen Bürger zum Sieg führen.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_MUTAL_NAME" Language="de_DE">
+      <Text>Ix Mutal Ajaw</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_MUTAL_DESCRIPTION" Language="de_DE">
+      <Text>Städte innerhalb von 6 Geländefeldern Entfernung zur [ICON_Capital] Hauptstadt, die selbst keine Hauptstädte sind, erhalten +10 % auf alle Erträge. Andere Städte, die keine Hauptstädte sind, erhalten -15 % auf alle Erträge. +5 [ICON_Strength] Kampfstärke für Einheiten innerhalb von 6 Geländefeldern Entfernung zur [ICON_Capital] Hauptstadt.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_MUTAL_COMBAT_STRENGTH_NEAR_CAPITAL_NAME" Language="de_DE">
+      <Text>Mutal</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_MUTAL_COMBAT_STRENGTH_NEAR_CAPITAL_DESCRIPTION" Language="de_DE">
+      <Text>+5 [ICON_Strength] Kampfstärke für Einheiten im Umkreis von 6 Feldern um die [ICON_Capital] Hauptstadt herum (Ix Mutal Ajaw)</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_MAYAN_HULCHE_DESCRIPTION" Language="de_DE">
+      <Text>Maya-Fernkampf-Spezialeinheit der Antike, die den Bogenschützen ersetzt. Starker Fernangriff. +5 [ICON_Strength] Kampfstärke beim Kampf mit einem verwundeten Gegner.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_HULCHE_DESCRIPTION" Language="de_DE">
+      <Text>+5 [ICON_Strength] Kampfstärke im Kampf gegen einen verletzten Gegner.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_LAHORE_NIHANG_DESCRIPTION" Language="de_DE">
+      <Text>Spezialeinheit des Stadtstaats Lahore mit einzigartigem Beförderungsbaum. Kauf mit [ICON_Faith] Glauben möglich. [ICON_Strength] Kampfstärke steigt, wenn die Gebäude Kaserne, Waffenkammer und Militärakademie zum ersten Mal gebaut werden.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SOOTHSAYER_DESCRIPTION" Language="de_DE">
+      <Text>Eine Unterstützungseinheit, die es nur im Apokalypsen-Modus gibt. Kann mit der Aktion 'Katastrophe auslösen' eine zufällige Katastrophe auf Geländefeldern in der Nähe der Einheit verursachen. Dabei wird der Seher zerstört, wenn er keine weiteren Ladungen besitzt.</Text>
+    </Replace>
+    <Replace Tag="LOC_CLIMATE_FOREST_FIRE" Language="de_DE">
+      <Text>Waldbrände</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_PLANTATION_SCIENCE" Language="de_DE">
+      <Text>+{1_num} [ICON_Science] Wissenschaft durch {1_Num : plural 1?angrenzendes Plantagen-Geländefeld; other?angrenzende Plantagen-Geländefelder;}.</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_FARM_SCIENCE" Language="de_DE">
+      <Text>+{1_num} [ICON_Science] Wissenschaft durch {1_Num : plural 1?angrenzendes Bauernhof-Geländefeld; other?angrenzende Bauernhof-Geländefelder;}.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_MUTAL_NEAR_CAPITAL_COMBAT_DESCRIPTION" Language="de_DE">
+      <Text>+{1_Amount} Kampfstärke durch Eigenschaft "Mutal"</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_COMANDANTE_GENERAL_NAME" Language="de_DE">
+      <Text>Comandante General|Comandante General|Comandante General|Comandante General|Comandante General</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_UNIT_COLOMBIAN_LLANERO_NAME" Language="de_DE">
+      <Text>Llanero|Llanero|Llanero|Llaneros|Llanero</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_UNIT_MAYAN_HULCHE_NAME" Language="de_DE">
+      <Text>Hul'che|Hul'che|Hul'che|Hul'ches|Hul'che</Text>
+      <Gender>neuter</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_UNIT_LAHORE_NIHANG_NAME" Language="de_DE">
+      <Text>Nihang|Nihang|Nihang|Nihangs|Nihang</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SOOTHSAYER_NAME" Language="de_DE">
+      <Text>Seher|Seher|Seher|Sehers|Seher</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_HACIENDA_NAME" Language="it_IT">
+      <Text>Hacienda|l'Hacienda|un'Hacienda</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_OBSERVATORY_NAME" Language="it_IT">
+      <Text>Osservatorio|l'Osservatorio|un Osservatorio</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_GRAN_COLOMBIA_NAME" Language="it_IT">
+      <Text>Grande Colombia|della Grande Colombia|alla Grande Colombia|la Grande Colombia|dalla Grande Colombia</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_GRAN_COLOMBIA_DESCRIPTION" Language="it_IT">
+      <Text>Impero della Grande Colombia|dell'Impero della Grande Colombia|all'Impero della Grande Colombia|l'Impero della Grande Colombia|dall'Impero della Grande Colombia</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_GRAN_COLOMBIA_ADJECTIVE" Language="it_IT">
+      <Text>della Grande Colombia|della Grande Colombia|della Grande Colombia|della Grande Colombia</Text>
+      <Gender>masculine|feminine|masculine|feminine</Gender>
+      <Plurality>1|1|2|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_MAYA_NAME" Language="it_IT">
+      <Text>Maya|dei Maya|ai Maya|i Maya|dai Maya</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_MAYA_DESCRIPTION" Language="it_IT">
+      <Text>Impero maya|dell'Impero maya|all'Impero maya|l'Impero maya|dall'Impero maya</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_MAYA_ADJECTIVE" Language="it_IT">
+      <Text>dei Maya|dei Maya|dei Maya|dei Maya</Text>
+      <Gender>masculine|feminine|masculine|feminine</Gender>
+      <Plurality>1|1|2|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SIMON_BOLIVAR_NAME" Language="it_IT">
+      <Text>Simón Bolívar|di Simón Bolívar|a Simón Bolívar|Simón Bolívar|da Simón Bolívar</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_LADY_SIX_SKY_NAME" Language="it_IT">
+      <Text>Wac-Chanil-Ahau|di Wac-Chanil-Ahau|a Wac-Chanil-Ahau|Wac-Chanil-Ahau|da Wac-Chanil-Ahau</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_GAMEMODE_APOCALYPSE_NAME" Language="it_IT">
+      <Text>Modalità Apocalisse</Text>
+    </Replace>
+    <Replace Tag="LOC_GAMEMODE_APOCALYPSE_DESCRIPTION" Language="it_IT">
+      <Text>Questa modalità di gioco aggiunge nuovi disastri naturali, versioni più gravi dei disastri esistenti e aumenta la probabilità che i disastri si verifichino. La Modalità Apocalisse aggiunge anche l'unità Veggente. Inoltre, se il cambiamento climatico raggiunge il suo livello massimo, uno sciame di comete si abbatte sulla Terra e distrugge l'umanità.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_EJERCITO_PATRIOTA_NAME" Language="it_IT">
+      <Text>Ejército Patriota</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_EJERCITO_PATRIOTA_DESCRIPTION" Language="it_IT">
+      <Text>+1 al [ICON_Movement] movimento di tutte le unità. Promuovere un'unità non fa terminare il suo turno.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_EJERCITO_PATRIOTA_EXTRA_MOVEMENT_NAME" Language="it_IT">
+      <Text>Ejército Patriota</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_EJERCITO_PATRIOTA_EXTRA_MOVEMENT_DESCRIPTION" Language="it_IT">
+      <Text>+1 al [ICON_Movement] movimento di tutte le unità (Ejército Patriota).</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_HACIENDA_DESCRIPTION" Language="it_IT">
+      <Text>Sblocca l'abilità dei Costruttori di realizzare un'Hacienda, miglioramento esclusivo della Gran Colombia.[NEWLINE][NEWLINE]+2 [ICON_GOLD] Oro, +1 [ICON_PRODUCTION] Produzione e +1 [Icon_Housing] Abitazioni. +1 [ICON_Food] Cibo per ogni 2 Piantagioni adiacenti (che passa a +1 per Piantagione dopo aver ottenuto la tecnologia Pezzi Indipendenti). Le Piantagioni e le Hacienda ricevono +1 [ICON_Production] Produzione per ogni 2 Hacienda adiacenti (che passa a +1 per Hacienda dopo aver ottenuto la tecnologia Dislocazione Rapida). Si può costruire solo in pianura, pianura con colline, prateria e prateria con colline.</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_LEADER_SIMON_BOLIVAR" Language="it_IT">
+      <Text>Avresti potuto seguire la volontà dei tuoi pari, Simón Bolívar, invece hai scelto di diventare El Libertador. Le avversità non ti hanno mai spaventato, perciò tieni stretti i tuoi ideali e guida la repubblica in una nuova epoca di prosperità.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_CAMPANA_ADMIRABLE_NAME" Language="it_IT">
+      <Text>Campaña Admirable</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_CAMPANA_ADMIRABLE_DESCRIPTION" Language="it_IT">
+      <Text>Guadagni un Comandante General quando entri in una nuova epoca.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_CAMPANA_ADMIRABLE_DESCRIPTION_XP1" Language="it_IT">
+      <Text>Guadagni un Comandante General quando la partita entra in una nuova epoca.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_COMANDANTE_GENERAL_DESCRIPTION" Language="it_IT">
+      <Text>Un Grande Personaggio speciale, esclusivo di Simón Bolívar. Ogni General ha abilità distinte, tra cui un effetto passivo e uno che scatta al momento del ritiro dal gioco.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_COLOMBIAN_LLANERO_DESCRIPTION" Language="it_IT">
+      <Text>Unità di epoca industriale esclusiva della Grande Colombia che sostituisce la Cavalleria. Costi di mantenimento bassi. +4 alla [ICON_Strength] Forza di combattimento per ogni Llanero adiacente. Si cura completamente quando è nel raggio d'azione di un Comandante General che attiva la sua abilità al momento del ritiro.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_MAYAB_NAME" Language="it_IT">
+      <Text>Mayab</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_MAYAB_DESCRIPTION" Language="it_IT">
+      <Text>Gli insediamenti adiacenti all'acqua dolce e alla costa non ricevono ulteriori [ICON_HOUSING] Abitazioni; piuttosto, ogni Fattoria fornisce +1 [ICON_HOUSING] Abitazioni aggiuntive e +1 [ICON_GOLD] Oro. +1 [ICON_AMENITIES] Attrattiva per ogni risorsa di lusso adiacente al Centro cittadino.</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_OBSERVATORY_DESCRIPTION" Language="it_IT">
+      <Text>Un distretto esclusivo dei Maya dedicato alle imprese scientifiche. Sostituisce il Campus, ma la sua costruzione costa meno.[NEWLINE][NEWLINE]Bonus +2 alla [ICON_Science] Scienza per ogni Piantagione adiacente. Bonus +1 alla [ICON_Science] Scienza per ogni due Fattorie o distretti adiacenti.</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_OBSERVATORY_DESCRIPTION_ADJACENCY" Language="it_IT">
+      <Text>Bonus per la posizione: grande bonus alla [ICON_Science] Scienza per ogni Piantagione adiacente. Bonus minore alla [ICON_Science] Scienza per ogni Fattoria o distretto adiacente.</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_LEADER_LADY_SIX_SKY" Language="it_IT">
+      <Text>Wac-Chanil-Ahau, madre guerriera di Dos Pilas e Wak Kab'nal, conduci il tuo popolo in una nuova dinastia. Che la portata del tuo potere si estenda, così potrai sbaragliare nemici vicini e lontani. Gli dèi ti guideranno e tu porterai i tuoi leali cittadini alla vittoria.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_MUTAL_NAME" Language="it_IT">
+      <Text>Ix Mutal Ajaw</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_MUTAL_DESCRIPTION" Language="it_IT">
+      <Text>Le città non capitali entro 6 caselle dalla [ICON_Capital] capitale hanno +10% a tutte le rese. Le altre città non capitali hanno -15% a tutte le rese. +5 alla [ICON_Strength] Forza di combattimento delle unità che si trovano entro 6 caselle dalla loro [ICON_Capital] capitale.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_MUTAL_COMBAT_STRENGTH_NEAR_CAPITAL_NAME" Language="it_IT">
+      <Text>Mutal</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_MUTAL_COMBAT_STRENGTH_NEAR_CAPITAL_DESCRIPTION" Language="it_IT">
+      <Text>+5 alla [ICON_Strength] Forza di combattimento delle unità che si trovano in un raggio di 6 caselle dalla [ICON_Capital] capitale (Ix Mutal Ajaw).</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_MAYAN_HULCHE_DESCRIPTION" Language="it_IT">
+      <Text>Unità di epoca antica esclusiva dei Maya che sostituisce l'Arciere e dispone di un potente attacco a distanza. +5 alla [ICON_Strength] Forza di combattimento quando il suo avversario è ferito.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_HULCHE_DESCRIPTION" Language="it_IT">
+      <Text>+5 alla [ICON_Strength] Forza di combattimento quando l'avversario è ferito</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_LAHORE_NIHANG_DESCRIPTION" Language="it_IT">
+      <Text>Unità esclusiva della città-stato di Lahore. Ha un albero di promozioni esclusivo e si può acquistare in cambio di [ICON_Faith] Fede. La sua [ICON_Strength] Forza di combattimento aumenta con la prima costruzione degli edifici Caserma, Armeria e Accademia militare.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SOOTHSAYER_DESCRIPTION" Language="it_IT">
+      <Text>Unità esclusiva della modalità Apocalisse. Può usare l'azione Causa disastro per scatenare un disastro casuale in una delle caselle vicine. Se non restano altre cariche, questo distrugge il Veggente.</Text>
+    </Replace>
+    <Replace Tag="LOC_CLIMATE_FOREST_FIRE" Language="it_IT">
+      <Text>Incendi boschivi</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_PLANTATION_SCIENCE" Language="it_IT">
+      <Text>+{1_num} [ICON_Science] Scienza {1_Num : plural 1?dalla casella adiacente che contiene; other?dalle caselle adiacenti che contengono;} una Piantagione.</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_FARM_SCIENCE" Language="it_IT">
+      <Text>+{1_num} [ICON_Science] Scienza {1_Num : plural 1?dalla casella adiacente che contiene; other?dalle casella adiacenti che contengono;} una Fattoria.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_MUTAL_NEAR_CAPITAL_COMBAT_DESCRIPTION" Language="it_IT">
+      <Text>+{1_Amount} alla Forza di combattimento dal tratto caratteristico Mutal</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_COMANDANTE_GENERAL_NAME" Language="it_IT">
+      <Text>Comandante General|un Comandante General|dal tuo Comandante General|al tuo Comandante General|il tuo Comandante General|da un Comandante General</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_UNIT_COLOMBIAN_LLANERO_NAME" Language="it_IT">
+      <Text>Llanero|un Llanero|dal tuo Llanero|al tuo Llanero|il tuo Llanero|da un Llanero</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_UNIT_MAYAN_HULCHE_NAME" Language="it_IT">
+      <Text>Hul'che|un Hul'che|dal tuo Hul'che|al tuo Hul'che|il tuo Hul'che|da un Hul'che</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_UNIT_LAHORE_NIHANG_NAME" Language="it_IT">
+      <Text>Nihang|un Nihang|dal tuo Nihang|al tuo Nihang|il tuo Nihang|da un Nihang</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SOOTHSAYER_NAME" Language="it_IT">
+      <Text>Veggente|un Veggente|dal tuo Veggente|al tuo Veggente|il tuo Veggente|da un Veggente</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_HACIENDA_NAME" Language="ja_JP">
+      <Text>アシエンダ</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_OBSERVATORY_NAME" Language="ja_JP">
+      <Text>観測所</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_GRAN_COLOMBIA_NAME" Language="ja_JP">
+      <Text>大コロンビア</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_GRAN_COLOMBIA_DESCRIPTION" Language="ja_JP">
+      <Text>大コロンビア帝国</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_GRAN_COLOMBIA_ADJECTIVE" Language="ja_JP">
+      <Text>大コロンビアの</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_MAYA_NAME" Language="ja_JP">
+      <Text>マヤ</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_MAYA_DESCRIPTION" Language="ja_JP">
+      <Text>マヤ帝国</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_MAYA_ADJECTIVE" Language="ja_JP">
+      <Text>マヤの</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SIMON_BOLIVAR_NAME" Language="ja_JP">
+      <Text>シモン・ボリバル</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_LADY_SIX_SKY_NAME" Language="ja_JP">
+      <Text>レディ・シックス・スカイ</Text>
+    </Replace>
+    <Replace Tag="LOC_GAMEMODE_APOCALYPSE_NAME" Language="ja_JP">
+      <Text>黙示録モード</Text>
+    </Replace>
+    <Replace Tag="LOC_GAMEMODE_APOCALYPSE_DESCRIPTION" Language="ja_JP">
+      <Text>このモードでは新たな自然災害が追加されるほか、既存の災害の規模が大きくなり、より大きな被害をもたらすようになります。また、あらゆる自然災害の発生率が上がります。黙示録モードには終末の予言者ユニットが登場し、気候変動が最終段階に達すると空から隕石が降ってきて人類は滅亡してしまいます。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_EJERCITO_PATRIOTA_NAME" Language="ja_JP">
+      <Text>愛国軍</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_EJERCITO_PATRIOTA_DESCRIPTION" Language="ja_JP">
+      <Text>すべてのユニットの [ICON_Movement] 移動力+1。レベルアップしてもユニットのターンが終了しない。</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_EJERCITO_PATRIOTA_EXTRA_MOVEMENT_NAME" Language="ja_JP">
+      <Text>愛国軍</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_EJERCITO_PATRIOTA_EXTRA_MOVEMENT_DESCRIPTION" Language="ja_JP">
+      <Text>すべてのユニットの [ICON_Movement] 移動力+1 (エジェルシト・パトリオタ)</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_HACIENDA_DESCRIPTION" Language="ja_JP">
+      <Text>労働者が大コロンビア固有のアシエンダを建設できるようになる。[NEWLINE][NEWLINE][ICON_Gold] ゴールド+2、 [ICON_PRODUCTION] 生産力+1、 [Icon_HOUSING] 住宅+1。隣接するプランテーション2つにつき [ICON_Food] 食料+1 (「共通規格」がある場合はさらに増える)。 隣接するアシエンダ2つにつきプランテーションとアシエンダの [ICON_PRODUCTION] 生産力+1 (「早期展開」がある場合はさらに増える)。平原と平原の丘陵、草原と草原の丘陵にのみ建設可能。</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_LEADER_SIMON_BOLIVAR" Language="ja_JP">
+      <Text>シモン・ボリバル、同志たちの変節に追随することなく、困難に挫かれることなく、あくまで解放者の道を歩みし者よ。信じる理想を高らかに掲げ、共和国を新たな繁栄の時代へと導きたまえ。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_CAMPANA_ADMIRABLE_NAME" Language="ja_JP">
+      <Text>すばらしき闘争</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_CAMPANA_ADMIRABLE_DESCRIPTION" Language="ja_JP">
+      <Text>新たな時代に入ると大司令官を獲得する。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_CAMPANA_ADMIRABLE_DESCRIPTION_XP1" Language="ja_JP">
+      <Text>ゲームが新たな時代に入ると大司令官を獲得する。</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_COMANDANTE_GENERAL_DESCRIPTION" Language="ja_JP">
+      <Text>シモン・ボリバル固有の特別な偉人。パッシブ効果と退職効果を含め、それぞれ固有の能力を持つ。</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_COLOMBIAN_LLANERO_DESCRIPTION" Language="ja_JP">
+      <Text>騎兵に取ってかわる、大コロンビア固有の産業時代のユニット。維持コストが低い。隣接するリャネロ1体につき [ICON_Strength] 戦闘力+4。大司令官が退職能力を発動する際、一定の範囲内にいると体力が完全に回復する。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_MAYAB_NAME" Language="ja_JP">
+      <Text>マヤブ</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_MAYAB_DESCRIPTION" Language="ja_JP">
+      <Text>真水や沿岸に隣接したタイルに都市を築いても追加の [ICON_HOUSING] 住宅を得られないが、各農場がさらに [ICON_HOUSING] 住宅+1、 [ICON_Gold] ゴールド+1をもたらす。都心に隣接する高級資源1つにつき [ICON_AMENITIES] 快適性+1。</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_OBSERVATORY_DESCRIPTION" Language="ja_JP">
+      <Text>科学を探求するマヤ固有の区域。キャンパス区域に取ってかわり、より安価に建設できる。[NEWLINE][NEWLINE]隣接するプランテーション1つにつき [ICON_SCiENCE] 科学力+2のボーナス。隣接する農場か区域タイル2つにつき [ICON_SCiENCE] 科学力+1のボーナス。</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_OBSERVATORY_DESCRIPTION_ADJACENCY" Language="ja_JP">
+      <Text>隣接効果: 隣接するプランテーション1つにつき大量の [ICON_Science] 科学力ボーナス。農場か区域タイルに隣接している場合は若干の [ICON_Science] 科学力ボーナス。</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_LEADER_LADY_SIX_SKY" Language="ja_JP">
+      <Text>レディ・シックス・スカイ、ドス・ピラスとワク・カブナルの母にして偉大なる戦士よ、民を新たな時代へ導きたまえ。遥か彼方までその腕を伸ばし、近くの敵も遠くの敵もねじ伏せよ。神々に見守られ、そなたは忠実なる民を栄光へといざなうだろう。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_MUTAL_NAME" Language="ja_JP">
+      <Text>イシュ・ムタル・アハウ</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_MUTAL_DESCRIPTION" Language="ja_JP">
+      <Text>[ICON_Capital] 首都から6タイル以内にある首都以外の都市は、すべての産出量+10%。その他の首都以外の都市は産出量-15%。 [ICON_Capital] 首都から6タイル以内にいるユニットの [ICON_Strength] 戦闘力+5。</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_MUTAL_COMBAT_STRENGTH_NEAR_CAPITAL_NAME" Language="ja_JP">
+      <Text>ムタル</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_MUTAL_COMBAT_STRENGTH_NEAR_CAPITAL_DESCRIPTION" Language="ja_JP">
+      <Text>[ICON_Capital] 首都から6タイル以内にいるユニットの [ICON_Strength] 戦闘力+5 (イシュ・ムタル・アハウ)</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_MAYAN_HULCHE_DESCRIPTION" Language="ja_JP">
+      <Text>弓兵に取ってかわる、マヤ固有の太古の長距離戦闘ユニット。長距離攻撃力が高い。負傷している敵に対する [ICON_Strength] 戦闘力+5。</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_HULCHE_DESCRIPTION" Language="ja_JP">
+      <Text>ダメージを負っている敵に対する [ICON_Strength] 戦闘力+5。</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_LAHORE_NIHANG_DESCRIPTION" Language="ja_JP">
+      <Text>ラホール都市国家の固有ユニット。固有のレベルアップツリーを持ち、 [ICON_Faith] 信仰力を使って購入できる。兵舎、武器庫、士官学校を初めて建設すると [ICON_Strength] 戦闘力が強化される。</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SOOTHSAYER_DESCRIPTION" Language="ja_JP">
+      <Text>黙示録モード限定の支援ユニット。「災害を起こす」アクションは、ユニット近くのタイルにランダムな災害を発生させる。チャージを使いきると消滅する。</Text>
+    </Replace>
+    <Replace Tag="LOC_CLIMATE_FOREST_FIRE" Language="ja_JP">
+      <Text>森林火災</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_PLANTATION_SCIENCE" Language="ja_JP">
+      <Text>隣接するプランテーションにより [ICON_Science] 科学力+{1_num}。</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_FARM_SCIENCE" Language="ja_JP">
+      <Text>隣接する農場により [ICON_Science] 科学力+{1_num}。</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_MUTAL_NEAR_CAPITAL_COMBAT_DESCRIPTION" Language="ja_JP">
+      <Text>特性「ムタル」により戦闘力+{1_Amount}</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_COMANDANTE_GENERAL_NAME" Language="ja_JP">
+      <Text>大司令官</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_COLOMBIAN_LLANERO_NAME" Language="ja_JP">
+      <Text>リャネロ</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_MAYAN_HULCHE_NAME" Language="ja_JP">
+      <Text>フルチェ</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_LAHORE_NIHANG_NAME" Language="ja_JP">
+      <Text>ニハング</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SOOTHSAYER_NAME" Language="ja_JP">
+      <Text>終末の予言者</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_HACIENDA_NAME" Language="ko_KR">
+      <Text>하시엔다</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_OBSERVATORY_NAME" Language="ko_KR">
+      <Text>천문대</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_GRAN_COLOMBIA_NAME" Language="ko_KR">
+      <Text>그란 콜롬비아</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_GRAN_COLOMBIA_DESCRIPTION" Language="ko_KR">
+      <Text>그란 콜롬비아 제국</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_GRAN_COLOMBIA_ADJECTIVE" Language="ko_KR">
+      <Text>그란 콜롬비아</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_MAYA_NAME" Language="ko_KR">
+      <Text>마야</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_MAYA_DESCRIPTION" Language="ko_KR">
+      <Text>마야 제국</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_MAYA_ADJECTIVE" Language="ko_KR">
+      <Text>마야</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SIMON_BOLIVAR_NAME" Language="ko_KR">
+      <Text>시몬 볼리바르</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_LADY_SIX_SKY_NAME" Language="ko_KR">
+      <Text>여섯하늘 여왕</Text>
+    </Replace>
+    <Replace Tag="LOC_GAMEMODE_APOCALYPSE_NAME" Language="ko_KR">
+      <Text>대재앙 모드</Text>
+    </Replace>
+    <Replace Tag="LOC_GAMEMODE_APOCALYPSE_DESCRIPTION" Language="ko_KR">
+      <Text>이 게임 모드는 기존 자연재해보다 훨씬 더 강력하고 광범위한 새로운 자연재해를 추가하고 모든 자연재해 발생 가능성을 증가시킵니다. 대재앙 모드는 게임에 예언자 유닛을 추가하며, 기후 변화가 최종 단계에 도달하면 혜성이 지구를 강타하고 인류를 파괴합니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_EJERCITO_PATRIOTA_NAME" Language="ko_KR">
+      <Text>애국자 군대</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_EJERCITO_PATRIOTA_DESCRIPTION" Language="ko_KR">
+      <Text>모든 유닛에게 [ICON_Movement] 이동력 +1을 부여합니다. 유닛을 진급시켜도 해당 유닛의 턴이 끝나지 않습니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_EJERCITO_PATRIOTA_EXTRA_MOVEMENT_NAME" Language="ko_KR">
+      <Text>애국자 군대</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_EJERCITO_PATRIOTA_EXTRA_MOVEMENT_DESCRIPTION" Language="ko_KR">
+      <Text>모든 유닛에게 [ICON_Movement] 이동력 +1을 부여합니다(애국자 군대).</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_HACIENDA_DESCRIPTION" Language="ko_KR">
+      <Text>그란 콜롬비아 특유 건물인 하시엔다를 건설할 수 있는 건설자 능력을 잠금 해제합니다.[NEWLINE][NEWLINE][ICON_GOLD] 금 +2, [ICON_PRODUCTION] 생산력 +1, [Icon_Housing] 주거공간 +1을 부여합니다. 2개의 인접한 재배지마다 [ICON_Food] 식량 +1을 얻습니다(교환부품 연구 이후 모든 재배지마다 획득). 재배지와 하시엔다가 인접한 2개의 하시엔다마다 [ICON_Production] 생산력 +1을 얻습니다(신속한 배치 연구 이후 모든 하시엔다마다 획득). 평원, 평원 언덕, 초원, 초원 언덕에만 건설할 수 있습니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_LEADER_SIMON_BOLIVAR" Language="ko_KR">
+      <Text>시몬 볼리바르, 동료들의 기분을 따를 수도 있었지만, 해방자가 되는 편을 선택하셨군요. 역경은 결코 당신을 붙잡지 않습니다. 이상을 고집하고 공화국을 새로운 번창의 시대로 이끄십시오.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_CAMPANA_ADMIRABLE_NAME" Language="ko_KR">
+      <Text>아드라블레 회전</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_CAMPANA_ADMIRABLE_DESCRIPTION" Language="ko_KR">
+      <Text>새 시대에 진입하면 사령관을 얻습니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_CAMPANA_ADMIRABLE_DESCRIPTION_XP1" Language="ko_KR">
+      <Text>게임이 새 시대에 진입하면 사령관을 얻습니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_COMANDANTE_GENERAL_DESCRIPTION" Language="ko_KR">
+      <Text>시몬 볼리바르만 이용할 수 있는 특별 유형의 위인입니다. 각각 패시브 효과, 퇴장 효과 같은 특유의 능력을 보유합니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_COLOMBIAN_LLANERO_DESCRIPTION" Language="ko_KR">
+      <Text>기병대를 대체하는 그란 콜롬비아 특유의 산업 시대 유닛입니다. 유지 비용이 낮습니다. 인접한 각 야네로에게서 [ICON_Strength] 전투력 +4를 얻습니다. 퇴각 능력을 활성화하는 사령관의 범위 내에 있으면 체력을 모두 회복합니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_MAYAB_NAME" Language="ko_KR">
+      <Text>마야브</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_MAYAB_DESCRIPTION" Language="ko_KR">
+      <Text>담수와 해안 근처에 정착해도 추가 [ICON_HOUSING] 주거공간을 제공하지 않습니다. 대신에 각 농장이 추가로 [ICON_HOUSING] 주거공간 +1과 [ICON_GOLD] 금 +1을 제공합니다. 도심부에 인접한 사치 자원마다 [ICON_AMENITIES] 쾌적도 +1을 얻습니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_OBSERVATORY_DESCRIPTION" Language="ko_KR">
+      <Text>과학 활동을 위한 마야 특유의 특수지구입니다. 캠퍼스 특수지구를 대체하고 건설 비용이 더 낮습니다.[NEWLINE][NEWLINE]인근에 재배지가 있으면 [ICON_Science] 과학 보너스 +2를 얻습니다. 인접한 농장 또는 특수지구 타일 2개마다 [ICON_Science] 과학 보너스 +1을 제공합니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_OBSERVATORY_DESCRIPTION_ADJACENCY" Language="ko_KR">
+      <Text>인접: 인접한 각 재배지로부터 많은 [ICON_Science] 과학 보너스를 얻습니다. 인접한 농장 또는 특수지구 타일로부터 약간의 [ICON_Science] 과학 보너스를 얻습니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_LEADER_LADY_SIX_SKY" Language="ko_KR">
+      <Text>도스 필라스와 와크 카브날의 위대한 전사 어머니인 여섯하늘 여왕이 국민을 새로운 시대로 인도합니다. 멀고 가까운 적들을 정복하기 위해 영향력을 넓히십시오. 신들이 당신을 인도할 것이고, 당신은 충성스러운 시민들을 승리로 인도할 것입니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_MUTAL_NAME" Language="ko_KR">
+      <Text>익스 무탈 아조</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_MUTAL_DESCRIPTION" Language="ko_KR">
+      <Text>[ICON_Capital] 수도 6타일 이내의 비수도 도시들의 모든 생산량이 +10% 증가합니다. 다른 비수도 도시들의 모든 생산량에는 -15%가 적용됩니다. [ICON_Capital] 수도 6타일 이내의 유닛에 [ICON_Strength] 전투력 +5를 부여합니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_MUTAL_COMBAT_STRENGTH_NEAR_CAPITAL_NAME" Language="ko_KR">
+      <Text>무탈</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_MUTAL_COMBAT_STRENGTH_NEAR_CAPITAL_DESCRIPTION" Language="ko_KR">
+      <Text>[ICON_Capital] 수도 6타일 이내의 유닛에 [ICON_Strength] 전투력 +5를 부여합니다(익스 무탈 아조).</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_MAYAN_HULCHE_DESCRIPTION" Language="ko_KR">
+      <Text>궁수를 대체하는 마야 특유의 고대 시대 원거리 유닛입니다. 강력한 원거리 공격을 자랑합니다. 부상 입은 상대와 전투 시 [ICON_Strength] 전투력 +5를 얻습니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_HULCHE_DESCRIPTION" Language="ko_KR">
+      <Text>부상 입은 상대와 전투 시 [ICON_Strength] 전투력 +5.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_LAHORE_NIHANG_DESCRIPTION" Language="ko_KR">
+      <Text>고유한 진급 트리를 보유한 라호르 도시 국가 특유의 유닛입니다. [ICON_Faith] 신앙으로 구매할 수 있습니다.병영, 무기고, 사관 학교 건물을 먼저 건설하면 [ICON_Strength] 전투력이 증가합니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SOOTHSAYER_DESCRIPTION" Language="ko_KR">
+      <Text>대재앙 모드 전용 지원 유닛입니다. 자연재해 유발 행동을 사용해 유닛 근처 타일에 무작위 자연재해를 시작할 수 있습니다. 사용 횟수가 없을 때 이 행동을 하면 예언자가 사라집니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_CLIMATE_FOREST_FIRE" Language="ko_KR">
+      <Text>산불</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_PLANTATION_SCIENCE" Language="ko_KR">
+      <Text>인접한 재배지 타일에서 [ICON_Science] 과학 +{1_num}.</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_FARM_SCIENCE" Language="ko_KR">
+      <Text>인접한 농장 타일에서 [ICON_Science] 과학 +{1_num}.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_MUTAL_NEAR_CAPITAL_COMBAT_DESCRIPTION" Language="ko_KR">
+      <Text>무탈 특성으로부터 전투력 +{1_Amount}</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_COMANDANTE_GENERAL_NAME" Language="ko_KR">
+      <Text>사령관</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_COLOMBIAN_LLANERO_NAME" Language="ko_KR">
+      <Text>야네로</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_MAYAN_HULCHE_NAME" Language="ko_KR">
+      <Text>훌체</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_LAHORE_NIHANG_NAME" Language="ko_KR">
+      <Text>니항</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SOOTHSAYER_NAME" Language="ko_KR">
+      <Text>예언자</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_HACIENDA_NAME" Language="pl_PL">
+      <Text>Hacjenda|Hacjendy|Hacjendzie|Hacjendę|Hacjendą|Hacjendzie|hacjenda|hacjendy|hacjendzie|hacjendę|hacjendą|hacjendzie</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_OBSERVATORY_NAME" Language="pl_PL">
+      <Text>Obserwatorium|Obserwatorium|Obserwatorium|Obserwatorium|Obserwatorium|Obserwatorium|obserwatorium|obserwatorium|obserwatorium|obserwatorium|obserwatorium|obserwatorium</Text>
+      <Gender>neuter</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_GRAN_COLOMBIA_NAME" Language="pl_PL">
+      <Text>Wielka Kolumbia|Wielkiej Kolumbii|Wielkiej Kolumbii|Wielką Kolumbię|Wielką Kolumbią|Wielkiej Kolumbii</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_GRAN_COLOMBIA_DESCRIPTION" Language="pl_PL">
+      <Text>Imperium Wielkiej Kolumbii</Text>
+      <Gender>neuter</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_GRAN_COLOMBIA_ADJECTIVE" Language="pl_PL">
+      <Text>Kolumbijski|Kolumbijska|Kolumbijscy|Kolumbijskie|Kolumbijsk|kolumbijski|kolumbijska|kolumbijscy|kolumbijskie|kolumbijsk|kolumbijskich</Text>
+      <Gender>masculine|feminine|masculine|feminine|neuter|masculine|feminine|masculine|feminine|neuter|masculine</Gender>
+      <Plurality>1|1|2|2|1|1|1|2|2|1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_MAYA_NAME" Language="pl_PL">
+      <Text>Majowie|Majów|Majom|Majów|Majami|Majach</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_MAYA_DESCRIPTION" Language="pl_PL">
+      <Text>Imperium Majów</Text>
+      <Gender>neuter</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_MAYA_ADJECTIVE" Language="pl_PL">
+      <Text>Majański|Majańska|Majańscy|Majańskie|Majańsk|majański|majańska|majańscy|majańskie|majańsk|majańskich</Text>
+      <Gender>masculine|feminine|masculine|feminine|neuter|masculine|feminine|masculine|feminine|neuter|masculine</Gender>
+      <Plurality>1|1|2|2|1|1|1|2|2|1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SIMON_BOLIVAR_NAME" Language="pl_PL">
+      <Text>Simón Bolívar|Simóna Bolívara|Simónowi Bolívarowi|Simóna Bolívara|Simónem Bolívarem|Simónie Bolívarze</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_LADY_SIX_SKY_NAME" Language="pl_PL">
+      <Text>Panie Szóste Niebo|Pani Szóste Niebo|Pani Szóste Niebo|Panią Szóste Niebo|Panią Szóste Niebo|Pani Szóste Niebo</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_GAMEMODE_APOCALYPSE_NAME" Language="pl_PL">
+      <Text>Tryb apokalipsy</Text>
+    </Replace>
+    <Replace Tag="LOC_GAMEMODE_APOCALYPSE_DESCRIPTION" Language="pl_PL">
+      <Text>Ten tryb gry wprowadza nowe katastrofy naturalne oraz zastępuje te istniejące ich potężniejszymi wersjami, zwiększając przy tym ryzyko wystąpienia wszystkich katastrof naturalnych. W trybie apokalipsy dostępna jest też jednostka wieszcza, a gdy zmiany klimatu osiągną maksymalny poziom, z planetą zaczną zderzać się komety, które doprowadzą do unicestwienia ludzkości.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_EJERCITO_PATRIOTA_NAME" Language="pl_PL">
+      <Text>Ejército Patriota</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_EJERCITO_PATRIOTA_DESCRIPTION" Language="pl_PL">
+      <Text>+1 do [ICON_Movement] ruchu wszystkich jednostek. Awansowanie jednostki nie kończy jej tury.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_EJERCITO_PATRIOTA_EXTRA_MOVEMENT_NAME" Language="pl_PL">
+      <Text>Ejército Patriota</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_EJERCITO_PATRIOTA_EXTRA_MOVEMENT_DESCRIPTION" Language="pl_PL">
+      <Text>+1 do [ICON_Movement] ruchu wszystkich jednostek.</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_HACIENDA_DESCRIPTION" Language="pl_PL">
+      <Text>Odblokowuje zdolność budowniczych pozwalającą wznieść hacjendę, dostępną tylko dla Wielkiej Kolumbii.[NEWLINE][NEWLINE]+2 [ICON_GOLD] złota, +1 do [ICON_PRODUCTION] produkcji oraz +1 [Icon_Housing] obszar mieszkalny. +1 do [ICON_Food] żywności za każde dwie sąsiadujące plantacje (po opracowaniu technologii części zamiennych premia przyznawana za każdą plantację). Plantacje i hacjendy zyskują +1 do [ICON_Production] produkcji za każde dwie sąsiadujące hacjendy (po opracowaniu idei błyskawicznej relokacji premia przyznawana za każdą hacjendę). Można wznieść wyłącznie na równinach, łąkach oraz wzgórzach z równinami i łąkami.</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_LEADER_SIMON_BOLIVAR" Language="pl_PL">
+      <Text>Mogłeś ulec kaprysom swych towarzyszy, Simónie Bolívarze, ale zamiast tego postanowiłeś zostać Wyzwolicielem. Trudności nigdy cię nie zniechęcały, więc pozostań wierny swym ideałom i poprowadź swoją republikę ku nowej epoce dostatku.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_CAMPANA_ADMIRABLE_NAME" Language="pl_PL">
+      <Text>Campaña Admirable</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_CAMPANA_ADMIRABLE_DESCRIPTION" Language="pl_PL">
+      <Text>Gdy wkraczasz w nową epokę, zyskujesz komendanta generalnego.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_CAMPANA_ADMIRABLE_DESCRIPTION_XP1" Language="pl_PL">
+      <Text>Gdy rozgrywka wkracza w nową epokę, zyskujesz komendanta generalnego.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_COMANDANTE_GENERAL_DESCRIPTION" Language="pl_PL">
+      <Text>Specjalny typ wielkiego człowieka dostępny tylko dla Simóna Bolívara. Każdy dysponuje unikalnymi umiejętnościami, w tym efektem pasywnym i efektem zakończenia kariery.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_COLOMBIAN_LLANERO_DESCRIPTION" Language="pl_PL">
+      <Text>Jednostka epoki przemysłowej dostępna wyłącznie dla Wielkiej Kolumbii zastępująca kawalerię. Niskie koszty utrzymania. +4 do [ICON_Strength] siły bojowej za każdą sąsiadującą jednostkę llanero. Odzyskuje pełnię zdrowia, gdy znajduje się w zasięgu komendanta generalnego, który aktywował swoją jednorazową umiejętność związaną z zakończeniem kariery.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_MAYAB_NAME" Language="pl_PL">
+      <Text>Mayab</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_MAYAB_DESCRIPTION" Language="pl_PL">
+      <Text>Założenie miasta w sąsiedztwie źródła wody pitnej i wybrzeża nie zapewnia dodatkowych [ICON_HOUSING] obszarów mieszkalnych – zamiast tego każda farma daje dodatkowe +1 [ICON_HOUSING] obszar mieszkalny i +1 [ICON_GOLD] złota. +1 [ICON_AMENITIES] udogodnienie za każdy zasób luksusowy sąsiadujący z centrum miasta.</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_OBSERVATORY_DESCRIPTION" Language="pl_PL">
+      <Text>Dostępna wyłącznie dla Majów dzielnica wspomagająca naukę. Zastępuje kampus, a jej wzniesienie jest tańsze.[NEWLINE][NEWLINE]+2 do [ICON_Science] nauki za sąsiadujące plantacje. +1 do [ICON_Science] nauki za każde dwa sąsiadujące pola z farmą lub dzielnicą.</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_OBSERVATORY_DESCRIPTION_ADJACENCY" Language="pl_PL">
+      <Text>Sąsiedztwo: duża premia do [ICON_Science] nauki za każdą sąsiadującą plantację. Mała premia do [ICON_Science] nauki za sąsiadujące pola z farmą lub dzielnicą.</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_LEADER_LADY_SIX_SKY" Language="pl_PL">
+      <Text>Pani Szóste Niebo, wielka matko-wojowniczko Dos Pilas i Wak Kab’nalu, poprowadź swój lud ku rządom nowej dynastii. Niech twa potęga rośnie, byś podbiła wrogów tak bliskich, jak i odległych. Poprowadzą cię bogowie, a ty wskażesz swym wiernym poddanym drogę do zwycięstwa.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_MUTAL_NAME" Language="pl_PL">
+      <Text>Ix Mutal Ajaw</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_MUTAL_DESCRIPTION" Language="pl_PL">
+      <Text>Niebędące stolicą miasta, które znajdują się w promieniu 6 pól od [ICON_Capital] stolicy, zyskują +10% do wszystkich przychodów. Pozostałe miasta niebędące stolicą otrzymują karę -15% do wszystkich przychodów. +5 do [ICON_Strength] siły bojowej jednostek znajdujących się w promieniu 6 pól od [ICON_Capital] stolicy.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_MUTAL_COMBAT_STRENGTH_NEAR_CAPITAL_NAME" Language="pl_PL">
+      <Text>Mutal</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_MUTAL_COMBAT_STRENGTH_NEAR_CAPITAL_DESCRIPTION" Language="pl_PL">
+      <Text>+5 do [ICON_Strength] siły bojowej jednostek znajdujących się w promieniu 6 pól od [ICON_Capital] stolicy.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_MAYAN_HULCHE_DESCRIPTION" Language="pl_PL">
+      <Text>Unikalna starożytna jednostka dystansowa Majów zastępująca łuczników. Dysponuje silnym atakiem dystansowym. +5 do [ICON_Strength] siły bojowej podczas walki z rannym przeciwnikiem.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_HULCHE_DESCRIPTION" Language="pl_PL">
+      <Text>+5 do [ICON_Strength] siły bojowej podczas walki z rannym przeciwnikiem.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_LAHORE_NIHANG_DESCRIPTION" Language="pl_PL">
+      <Text>Unikalna jednostka miasta-państwa Lahauru dysponująca unikalnymi awansami. Można ją nabyć za [ICON_Faith] wiarę. Jej [ICON_Strength] siła bojowa zwiększa się wraz ze wzniesieniem pierwszych koszar, zbrojowni i akademii wojskowej.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SOOTHSAYER_DESCRIPTION" Language="pl_PL">
+      <Text>Jednostka wsparcia związana z trybem apokalipsy. Dysponuje działaniem „Wywołaj katastrofę”, które rozpoczyna losową katastrofę na pobliskich polach. Jeśli użycie tego działania spowoduje utratę wszystkich ładunków wieszcza, ulegnie on zniszczeniu.</Text>
+    </Replace>
+    <Replace Tag="LOC_CLIMATE_FOREST_FIRE" Language="pl_PL">
+      <Text>Pożary lasu</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_PLANTATION_SCIENCE" Language="pl_PL">
+      <Text>+{1_num} do [ICON_Science] nauki dzięki sąsiedztwu {1_Num : plural 1?pola; other?pól;} z plantacją.</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_FARM_SCIENCE" Language="pl_PL">
+      <Text>+{1_num} do [ICON_Science] nauki dzięki sąsiedztwu {1_Num : plural 1?pola; other?pól;} z farmą.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_MUTAL_NEAR_CAPITAL_COMBAT_DESCRIPTION" Language="pl_PL">
+      <Text>+{1_Amount} do siły bojowej dzięki cesze „Mutal”.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_COMANDANTE_GENERAL_NAME" Language="pl_PL">
+      <Text>Komendant generalny|Komendanta generalnego|Komendantowi generalnemu|Komendanta generalnego|Komendantem generalnym|Komendancie generalnym|komendant generalny|komendanta generalnego|komendantowi generalnemu|komendanta generalnego|komendantem generalnym|komendancie generalnym</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_UNIT_COLOMBIAN_LLANERO_NAME" Language="pl_PL">
+      <Text>Llanero|Llanero|Llanero|Llanero|Llanero|Llanero|llanero|llanero|llanero|llanero|llanero|llanero</Text>
+      <Gender>neuter</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_UNIT_MAYAN_HULCHE_NAME" Language="pl_PL">
+      <Text>Hul'che|Hul'chów|Hul'chom|Hul'che|Hul'chami|Hul'chach|hul'che|hul'chów|hul'chom|hul'che|hul'chami|hul'chach</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_UNIT_LAHORE_NIHANG_NAME" Language="pl_PL">
+      <Text>Nihangowie|Nihangów|Nihangom|Nihangów|Nihangami|Nihangach|nihangowie|nihangów|nihangom|nihangów|nihangami|nihangach</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SOOTHSAYER_NAME" Language="pl_PL">
+      <Text>Wieszcz|Wieszcza|Wieszczowi|Wieszcza|Wieszczem|Wieszczu|wieszcz|wieszcza|wieszczowi|wieszcza|wieszczem|wieszczu</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_HACIENDA_NAME" Language="ru_RU">
+      <Text>Асьенда|асьенды|асьенде|асьенду|асьендой|асьенде</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_OBSERVATORY_NAME" Language="ru_RU">
+      <Text>Обсерватория|обсерватории|обсерватории|обсерваторию|обсерваторией|обсерватории</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_GRAN_COLOMBIA_NAME" Language="ru_RU">
+      <Text>Великая Колумбия|Великой Колумбии|Великой Колумбии|Великую Колумбию|Великой Колумбией|Великой Колумбии</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_GRAN_COLOMBIA_DESCRIPTION" Language="ru_RU">
+      <Text>Великая Колумбийская империя|Великой Колумбийской империи|Великой Колумбийской империи|Великую Колумбийскую империю|Великой Колумбийской империей|Великой Колумбийской империи</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_GRAN_COLOMBIA_ADJECTIVE" Language="ru_RU">
+      <Text>вел. колумбийск.|вел. колумбийск.|вел. колумбийск.|вел. колумбийск.|вел. колумбийск.|вел. колумбийск.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_MAYA_NAME" Language="ru_RU">
+      <Text>Майя|Майя|Майя|Майя|Майя|Майя</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_MAYA_DESCRIPTION" Language="ru_RU">
+      <Text>Империя майя|Империи майя|Империи майя|Империю майя|Империей майя|Империи майя</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_MAYA_ADJECTIVE" Language="ru_RU">
+      <Text>майя|майя|майя|майя|майя|майя</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SIMON_BOLIVAR_NAME" Language="ru_RU">
+      <Text>Симон Боливар|Симона Боливара|Симону Боливару|Симона Боливара|Симоном Боливаром|Симоне Боливаре</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_LADY_SIX_SKY_NAME" Language="ru_RU">
+      <Text>Иш-Вак-Чан-Ахав|Иш-Вак-Чан-Ахав|Иш-Вак-Чан-Ахав|Иш-Вак-Чан-Ахав|Иш-Вак-Чан-Ахав|Иш-Вак-Чан-Ахав</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_GAMEMODE_APOCALYPSE_NAME" Language="ru_RU">
+      <Text>Режим апокалипсиса</Text>
+    </Replace>
+    <Replace Tag="LOC_GAMEMODE_APOCALYPSE_DESCRIPTION" Language="ru_RU">
+      <Text>Этот игровой режим добавляет новые стихийные бедствия, расширяет и усиливает уже имеющиеся и повышает вероятность их возникновения. В игре появляется новый юнит — прорицатель. Когда изменения климата достигнут последней стадии, на Землю посыплются разрушительные кометы.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_EJERCITO_PATRIOTA_NAME" Language="ru_RU">
+      <Text>Патриотическая армия</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_EJERCITO_PATRIOTA_DESCRIPTION" Language="ru_RU">
+      <Text>+1 [ICON_Movement] ОП всем юнитам. Повышение юнита не заканчивает его ход.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_EJERCITO_PATRIOTA_EXTRA_MOVEMENT_NAME" Language="ru_RU">
+      <Text>Патриотическая армия</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_EJERCITO_PATRIOTA_EXTRA_MOVEMENT_DESCRIPTION" Language="ru_RU">
+      <Text>+1 [ICON_Movement] ОП всем юнитам (Патриотическая армия).</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_HACIENDA_DESCRIPTION" Language="ru_RU">
+      <Text>Открывает способность «Строитель», чтобы построить асьенду (уникально для Великой Колумбии).[NEWLINE][NEWLINE]+2 ед. [ICON_GOLD] золота, +1 ед. [ICON_PRODUCTION] производства и +1 ед. [Icon_Housing] жилья. +1 ед. [ICON_Food] пищи за каждые две соседние плантации (повышается за каждую плантацию со «Стандартизацией»). Плантации и асьенды получают +1 ед. [ICON_Production] производства за каждые две соседние плантации (повышается за каждую асьенду с «Быстрым развертыванием»). Можно строить только на равнинах и лугах (с холмами или без них).</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_LEADER_SIMON_BOLIVAR" Language="ru_RU">
+      <Text>Вы могли пойти на поводу у своих соратников, Симон Боливар, но решили стать Освободителем. Вас никогда не страшили трудности, так что оставайтесь верны своим идеалам и ведите республику к процветанию.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_CAMPANA_ADMIRABLE_NAME" Language="ru_RU">
+      <Text>Кампания «Восхищение»</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_CAMPANA_ADMIRABLE_DESCRIPTION" Language="ru_RU">
+      <Text>При переходе в новую эру вы получаете главнокомандующего.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_CAMPANA_ADMIRABLE_DESCRIPTION_XP1" Language="ru_RU">
+      <Text>При переходе игры в новую эру вы получаете главнокомандующего.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_COMANDANTE_GENERAL_DESCRIPTION" Language="ru_RU">
+      <Text>Особый тип великого человека, доступный только Симону Боливару. Каждый из них обладает уникальными способностями, включая пассивный эффект и эффект отхода от дел.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_COLOMBIAN_LLANERO_DESCRIPTION" Language="ru_RU">
+      <Text>Уникальный кавалерийский юнит Великой Колумбии в Промышленную эру. Малые расходы на содержание. +4 к [ICON_Strength] боевой мощи за каждый юнит льянеро в соседней клетке. Полностью исцеляется, если находится в радиусе активированной способности главнокомандующего «Отойти от дел».</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_MAYAB_NAME" Language="ru_RU">
+      <Text>Майяб</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_MAYAB_DESCRIPTION" Language="ru_RU">
+      <Text>Селение рядом с пресной водой и побережьем не дает дополнительного [ICON_HOUSING] жилья. Вместо этого каждая ферма дает дополнительные +1 ед. [ICON_HOUSING] жилья и +1 ед. [ICON_GOLD] золота. +1 ед. [ICON_AMENITIES] довольства за каждый редкий ресурс рядом с городским центром.</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_OBSERVATORY_DESCRIPTION" Language="ru_RU">
+      <Text>Уникальный район Майя для научных исследований. Заменяет кампус, дешевле в строительстве.[NEWLINE][NEWLINE]Бонус: +2 ед. [ICON_Science] науки за плантации по соседству. Бонус: +1 ед. [ICON_Science] науки за каждые две фермы или два района по соседству.</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_OBSERVATORY_DESCRIPTION_ADJACENCY" Language="ru_RU">
+      <Text>Соседство: повышенный бонус к [ICON_Science] науке за каждую плантацию по соседству. Небольшой бонус к [ICON_Science] науке за соседство с фермами и городскими районами.</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_LEADER_LADY_SIX_SKY" Language="ru_RU">
+      <Text>Иш-Вак-Чан-Ахав, великая мать-воительница Дос-Пиласа и Вак-Кабналя, станьте основательницей новой династии, которая поведет ваш народ в будущее. Покорите врагов во всех уголках земли и распространите свое влияние по всему миру. Да ведут вас боги, как вы ведете своих подданных к победе.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_MUTAL_NAME" Language="ru_RU">
+      <Text>Иш-Муталь-Ахав</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_MUTAL_DESCRIPTION" Language="ru_RU">
+      <Text>Города, не являющиеся столицами и находящиеся в пределах 6 клеток от [ICON_Capital] столицы, получают +10% ко всем доходам. Остальные нестоличные города получают -15% ко всем доходам. +5 [ICON_Strength] к боевой мощи юнитов в пределах 6 клеток от [ICON_Capital] столицы.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_MUTAL_COMBAT_STRENGTH_NEAR_CAPITAL_NAME" Language="ru_RU">
+      <Text>Муталь</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_MUTAL_COMBAT_STRENGTH_NEAR_CAPITAL_DESCRIPTION" Language="ru_RU">
+      <Text>+5 к [ICON_Strength] боевой мощи юнитов в пределах 6 клеток от [ICON_Capital] столицы.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_MAYAN_HULCHE_DESCRIPTION" Language="ru_RU">
+      <Text>Уникальный дальнобойный юнит древних майя, заменяющий им лучника. Сильная дальнобойная атака. +5 к [ICON_Strength] боевой мощи против поврежденного противника.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_HULCHE_DESCRIPTION" Language="ru_RU">
+      <Text>+5 [ICON_Strength] к боевой мощи против поврежденного противника.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_LAHORE_NIHANG_DESCRIPTION" Language="ru_RU">
+      <Text>Лахорский уникальный юнит с собственным деревом повышений. Можно приобрести за [ICON_Faith] веру. [ICON_Strength] Боевая мощь увеличивается, если предварительно построить казармы, оружейную и военную академию.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SOOTHSAYER_DESCRIPTION" Language="ru_RU">
+      <Text>Юнит поддержки, уникальный для режима Апокалипсиса. Может находиться на клетке с другими боевыми юнитами. Может воспользоваться действием «Устроить катастрофу», чтобы начать случайную катастрофу на клетках рядом с собой. Это действие уничтожает прорицателя, если у него не осталось зарядов.</Text>
+    </Replace>
+    <Replace Tag="LOC_CLIMATE_FOREST_FIRE" Language="ru_RU">
+      <Text>Лесные пожары</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_PLANTATION_SCIENCE" Language="ru_RU">
+      <Text>+{1_num} ед. [ICON_Science] науки за соседство с {1_Num : plural 1?плантацией; other?плантациями;}.</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_FARM_SCIENCE" Language="ru_RU">
+      <Text>+{1_num} ед. [ICON_Science] науки за соседство с {1_Num : plural 1?фермой; other?фермами;}.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_MUTAL_NEAR_CAPITAL_COMBAT_DESCRIPTION" Language="ru_RU">
+      <Text>+{1_Amount} к боевой мощи от особенности «Муталь»</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_COMANDANTE_GENERAL_NAME" Language="ru_RU">
+      <Text>Главнокомандующий|главнокомандующего|главнокомандующему|главнокомандующего|главнокомандующим|главнокомандующем</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_UNIT_COLOMBIAN_LLANERO_NAME" Language="ru_RU">
+      <Text>Льянеро|льянеро|льянеро|льянеро|льянеро|льянеро</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_UNIT_MAYAN_HULCHE_NAME" Language="ru_RU">
+      <Text>Хульче|хульче|хульче|хульче|хульче|хульче</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_UNIT_LAHORE_NIHANG_NAME" Language="ru_RU">
+      <Text>Ниханги|нихангов|нихангам|нихангов|нихангами|нихангах</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SOOTHSAYER_NAME" Language="ru_RU">
+      <Text>Прорицатель|прорицателя|прорицателю|прорицателя|прорицателем|прорицателе</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_HACIENDA_NAME" Language="zh_Hans_CN">
+      <Text>大庄园</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_OBSERVATORY_NAME" Language="zh_Hans_CN">
+      <Text>天文台</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_GRAN_COLOMBIA_NAME" Language="zh_Hans_CN">
+      <Text>大哥伦比亚</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_GRAN_COLOMBIA_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>大哥伦比亚帝国</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_GRAN_COLOMBIA_ADJECTIVE" Language="zh_Hans_CN">
+      <Text>大哥伦比亚的</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_MAYA_NAME" Language="zh_Hans_CN">
+      <Text>玛雅</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_MAYA_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>玛雅帝国</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_MAYA_ADJECTIVE" Language="zh_Hans_CN">
+      <Text>玛雅的</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SIMON_BOLIVAR_NAME" Language="zh_Hans_CN">
+      <Text>西蒙·玻利瓦尔</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_LADY_SIX_SKY_NAME" Language="zh_Hans_CN">
+      <Text>六日夫人</Text>
+    </Replace>
+    <Replace Tag="LOC_GAMEMODE_APOCALYPSE_NAME" Language="zh_Hans_CN">
+      <Text>天启模式</Text>
+    </Replace>
+    <Replace Tag="LOC_GAMEMODE_APOCALYPSE_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>此游戏模式新增全新的自然灾害、现有的灾害将变得更大更强、所有自然灾害的发生几率将增加。天启模式将在游戏中加入单位“预言者”；如气候达到变化的最后等级，彗星将撞击地球，终结人类文明。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_EJERCITO_PATRIOTA_NAME" Language="zh_Hans_CN">
+      <Text>爱国军</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_EJERCITO_PATRIOTA_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>所有单位+1 [ICON_Movement] 移动力。升级单位不会结束其回合。</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_EJERCITO_PATRIOTA_EXTRA_MOVEMENT_NAME" Language="zh_Hans_CN">
+      <Text>爱国军</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_EJERCITO_PATRIOTA_EXTRA_MOVEMENT_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>所有单位+1 [ICON_Movement] 移动力（爱国军）</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_HACIENDA_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>解锁建造者建造大哥伦比亚特色建筑大庄园的能力。[NEWLINE][NEWLINE]+2 [ICON_GOLD] 金币、+1 [ICON_PRODUCTION] 生产力并+1 [Icon_Housing] 住房。每与2座种植园相邻则+1 [ICON_Food] 食物（解锁科技“零件规格化”后，每与1座种植园相邻便能获得加成）。每与2座大庄园相邻，种植园与大庄园便+1 [ICON_Production] 生产力（获得市政“紧急部署”后，每与1座大庄园相邻便能获得加成）。只能建造在平原、平原丘陵、草原和草原丘陵上。</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_LEADER_SIMON_BOLIVAR" Language="zh_Hans_CN">
+      <Text>西蒙·玻利瓦尔，你本可以与同僚们一起随波逐流，但天命让你成为了独一无二的解放者。艰难困苦无法阻止你，抱紧信念，带领你的共和国走入繁荣的新时代。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_CAMPANA_ADMIRABLE_NAME" Language="zh_Hans_CN">
+      <Text>荣耀之战</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_CAMPANA_ADMIRABLE_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>进入新时代后获得1名总指挥。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_CAMPANA_ADMIRABLE_DESCRIPTION_XP1" Language="zh_Hans_CN">
+      <Text>游戏进入新时代后获得1名总指挥。</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_COMANDANTE_GENERAL_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>仅限西蒙·玻利瓦尔使用的特殊伟人。每个皆拥有特色能力，包括被动效果和“退役”技能。</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_COLOMBIAN_LLANERO_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>大哥伦比亚工业时代特色骑兵单位，替代骑兵。维护花费较低。每与1个牛仔骑兵相邻，则+4 [ICON_Strength] 战斗力。总指挥发动“退役”技能时，若处于有效范围内，将完全回复生命值。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_MAYAB_NAME" Language="zh_Hans_CN">
+      <Text>玛雅布</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_MAYAB_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>在淡水和海岸旁定居时不提供额外 [ICON_HOUSING] 住房，而每座农场提供的 [ICON_HOUSING] 住房和 [ICON_GOLD] 金币额外+1。每有一种奢侈品与市中心相邻，则+1 [ICON_AMENITIES] 宜居度。</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_OBSERVATORY_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>玛雅特色科学研究区域。替代“学院”区域，且建造花费更低。[NEWLINE][NEWLINE]与种植园相邻则+2 [ICON_Science] 科技值。每与2个农场或区域单元格相邻，则+1 [ICON_Science] 科技值。</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_OBSERVATORY_DESCRIPTION_ADJACENCY" Language="zh_Hans_CN">
+      <Text>相邻：与每座种植园相邻将获得大量 [ICON_Science] 科技值加成。与农场或区域单元格相邻将获得少量 [ICON_Science] 科技值加成。</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_LEADER_LADY_SIX_SKY" Language="zh_Hans_CN">
+      <Text>六日夫人，多斯皮拉斯和瓦克卡布纳尔的伟大女武神，带领你的人民建立一个全新的王朝。借助你强大的战力，四方讨伐远近之敌。诸神将指引你，而你又将带领忠实的子民们迈向胜利。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_MUTAL_NAME" Language="zh_Hans_CN">
+      <Text>穆塔尔忠烈之女</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_MUTAL_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>[ICON_Capital] 首都6个单元格范围内的非首都城市所有产出+10%。其他非首都城市所有产出-15%。[ICON_Capital] 首都6个单元格范围内的单位+5 [ICON_Strength] 战斗力。</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_MUTAL_COMBAT_STRENGTH_NEAR_CAPITAL_NAME" Language="zh_Hans_CN">
+      <Text>穆塔尔</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_MUTAL_COMBAT_STRENGTH_NEAR_CAPITAL_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>[ICON_Capital] 首都6个单元格内的单位+5 [ICON_Strength] 战斗力（穆塔尔忠烈之女）</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_MAYAN_HULCHE_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>玛雅特色远古时代远程单位，替代弓箭手，远程攻击力强。与受伤的对手作战时+5 [ICON_Strength] 战斗力。</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_HULCHE_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>与受伤对手作战时+5 [ICON_Strength] 战斗力。</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_LAHORE_NIHANG_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>拉合尔城邦特色单位，拥有独特的升级树。可用 [ICON_Faith] 信仰值进行购买。首次建造出兵营、兵工厂和军事学院时，其 [ICON_Strength] 战斗力将得到提升。</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SOOTHSAYER_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>“天启”模式专属支援单位。可通过“制造灾难”操作在单位附近的格位中制造一次随机灾难。如无剩余次数使用，执行此操作将消灭预言者。</Text>
+    </Replace>
+    <Replace Tag="LOC_CLIMATE_FOREST_FIRE" Language="zh_Hans_CN">
+      <Text>林火</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_PLANTATION_SCIENCE" Language="zh_Hans_CN">
+      <Text>相邻种植园单元格提供+{1_num} [ICON_Science] 科技值。</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_FARM_SCIENCE" Language="zh_Hans_CN">
+      <Text>相邻农场单元格提供+{1_num} [ICON_Science] 科技值。</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_MUTAL_NEAR_CAPITAL_COMBAT_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>穆塔尔特质+{1_Amount}战斗力</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_COMANDANTE_GENERAL_NAME" Language="zh_Hans_CN">
+      <Text>总指挥</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_COLOMBIAN_LLANERO_NAME" Language="zh_Hans_CN">
+      <Text>牛仔骑兵</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_MAYAN_HULCHE_NAME" Language="zh_Hans_CN">
+      <Text>投枪手</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_LAHORE_NIHANG_NAME" Language="zh_Hans_CN">
+      <Text>尼杭战士</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SOOTHSAYER_NAME" Language="zh_Hans_CN">
+      <Text>预言者</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_HACIENDA_NAME" Language="es_ES">
+      <Text>Hacienda|Haciendas</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_OBSERVATORY_NAME" Language="es_ES">
+      <Text>Observatorio|Observatorios</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_GRAN_COLOMBIA_NAME" Language="es_ES">
+      <Text>Gran Colombia</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_GRAN_COLOMBIA_DESCRIPTION" Language="es_ES">
+      <Text>Imperio de la Gran Colombia</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_GRAN_COLOMBIA_ADJECTIVE" Language="es_ES">
+      <Text>de la Gran Colombia|de la Gran Colombia|de la Gran Colombia|de la Gran Colombia</Text>
+      <Gender>masculine|feminine|masculine|feminine</Gender>
+      <Plurality>1|1|2|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_MAYA_NAME" Language="es_ES">
+      <Text>Maya</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_MAYA_DESCRIPTION" Language="es_ES">
+      <Text>Imperio Maya</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_MAYA_ADJECTIVE" Language="es_ES">
+      <Text>maya|maya|mayas|mayas</Text>
+      <Gender>masculine|feminine|masculine|feminine</Gender>
+      <Plurality>1|1|2|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SIMON_BOLIVAR_NAME" Language="es_ES">
+      <Text>Simón Bolívar</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_LADY_SIX_SKY_NAME" Language="es_ES">
+      <Text>Señora Seis Cielo</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_GAMEMODE_APOCALYPSE_NAME" Language="es_ES">
+      <Text>Modo Apocalipsis</Text>
+    </Replace>
+    <Replace Tag="LOC_GAMEMODE_APOCALYPSE_DESCRIPTION" Language="es_ES">
+      <Text>Este modo de juego incorpora nuevos desastres naturales y versiones más grandes y catastróficas de desastres ya existentes, al tiempo que aumenta las posibilidades de todos los desastres naturales. El modo Apocalipsis también añade al juego la unidad del Adivino y, si el clima llega al nivel de cambio final, los cometas machacarán la Tierra y acabarán con la humanidad.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_EJERCITO_PATRIOTA_NAME" Language="es_ES">
+      <Text>Ejército patriota</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_EJERCITO_PATRIOTA_DESCRIPTION" Language="es_ES">
+      <Text>+1 al Movimiento [ICON_Movement] para todas las unidades. Al ascender a una unidad no finaliza su turno.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_EJERCITO_PATRIOTA_EXTRA_MOVEMENT_NAME" Language="es_ES">
+      <Text>Ejército Patriota</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_EJERCITO_PATRIOTA_EXTRA_MOVEMENT_DESCRIPTION" Language="es_ES">
+      <Text>+1 al Movimiento [ICON_Movement] para todas las unidades (Ejército patriota).</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_HACIENDA_DESCRIPTION" Language="es_ES">
+      <Text>Desbloquea la habilidad del Constructor de erigir una Hacienda, exclusiva de la Gran Colombia.[NEWLINE][NEWLINE]+2 a Oro [ICON_GOLD], +1 a Producción [ICON_PRODUCTION] y +1 a Alojamiento [Icon_Housing]. +1 a Alimentos [ICON_Food] por cada dos Plantaciones adyacentes (aumentado en cada Plantación con Repuestos). Las Plantaciones y Haciendas reciben un +1 a Producción [ICON_Production] por cada dos Haciendas adyacentes (aumentado en cada Hacienda con Despliegue rápido). Solo se puede construir en Llanuras, Colinas de llanuras, Praderas y Colinas de praderas.</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_LEADER_SIMON_BOLIVAR" Language="es_ES">
+      <Text>Podrías haber seguido los antojos de tus compañeros, Simón Bolívar, pero en vez de ello has decidido convertirte en el Libertador. Las penurias nunca te han disuadido, así que aferra tus ideales y conduce a la república a una nueva era de prosperidad.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_CAMPANA_ADMIRABLE_NAME" Language="es_ES">
+      <Text>Campaña admirable</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_CAMPANA_ADMIRABLE_DESCRIPTION" Language="es_ES">
+      <Text>Gana un Comandante general cuando se entra en una nueva era.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_CAMPANA_ADMIRABLE_DESCRIPTION_XP1" Language="es_ES">
+      <Text>Gana un Comandante general cuando el juego entra en una nueva era.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_COMANDANTE_GENERAL_DESCRIPTION" Language="es_ES">
+      <Text>Un tipo especial de Gran personaje que solo está disponible para Simón Bolívar. Cada Comandante general tiene capacidades exclusivas, incluidos un efecto pasivo y uno de Retirarse.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_COLOMBIAN_LLANERO_DESCRIPTION" Language="es_ES">
+      <Text>Unidad de caballería exclusiva de la Gran Colombia de la Era Industrial que sustituye a la Caballería. Coste de mantenimiento bajo. +4 a la Fuerza de combate [ICON_Strength] por cada Llanero adyacente. Se cura por completo cuando está dentro del alcance de un Comandante general que active su habilidad de Retirarse.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_MAYAB_NAME" Language="es_ES">
+      <Text>Mayab</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_MAYAB_DESCRIPTION" Language="es_ES">
+      <Text>Asentarse cerca de Agua dulce y Costa no da Alojamiento [ICON_HOUSING] adicional; en su lugar, cada Granja proporciona +1 a Alojamiento [ICON_HOUSING] y +1 a Oro [ICON_GOLD]. +1 a Servicios [ICON_AMENITIES] por cada recurso de lujo adyacente al Centro urbano.</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_OBSERVATORY_DESCRIPTION" Language="es_ES">
+      <Text>Un distrito exclusivo de los mayas y destinado a fines científicos. Sustituye al distrito de Campus y es más barato de construir.[NEWLINE][NEWLINE]+2 a la bonificación a Ciencia [ICON_Science] por Plantaciones adyacentes. +1 a la bonificación a Ciencia [ICON_Science] por cada dos casillas de distrito o Granjas adyacentes.</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_OBSERVATORY_DESCRIPTION_ADJACENCY" Language="es_ES">
+      <Text>Adyacencia: bonificación importante a Ciencia [ICON_Science] por cada Plantación adyacente. Bonificación menor a Ciencia [ICON_Science] por casillas de Granja o distrito adyacentes.</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_LEADER_LADY_SIX_SKY" Language="es_ES">
+      <Text>Señora Seis Cielo, gran madre guerrera de Dos Pilas y Wak Kab'nal, conduce a tu pueblo a una nueva dinastía. Que tu brazo se alargue tanto que alcance a los enemigos que están cerca y a los que están lejos. Los dioses te guiarán y tú a tu vez guiarás a tus leales ciudadanos a la victoria.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_MUTAL_NAME" Language="es_ES">
+      <Text>Ix Mutal Ajaw</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_MUTAL_DESCRIPTION" Language="es_ES">
+      <Text>Las ciudades que no sean la Capital [ICON_Capital] y estén a 6 casillas o menos de esta ganan un +10% a todos los rendimientos. Las demás ciudades de este tipo reciben un -15% a todos los rendimientos. +5 a la Fuerza de combate [ICON_Strength] a las unidades a 6 casillas o menos de la capital [ICON_Capital].</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_MUTAL_COMBAT_STRENGTH_NEAR_CAPITAL_NAME" Language="es_ES">
+      <Text>Mutal</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_MUTAL_COMBAT_STRENGTH_NEAR_CAPITAL_DESCRIPTION" Language="es_ES">
+      <Text>+5 a la Fuerza de combate [ICON_Strength] a las unidades a 6 casillas o menos de la capital [ICON_Capital] (Ix Mutal Ajaw).</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_MAYAN_HULCHE_DESCRIPTION" Language="es_ES">
+      <Text>Unidad de ataque a distancia de la Antigüedad exclusiva de los mayas. +5 a la Fuerza de combate [ICON_Strength] al luchar contra un oponente herido.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_HULCHE_DESCRIPTION" Language="es_ES">
+      <Text>+5 a la Fuerza de combate [ICON_Strength] al luchar contra un oponente herido.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_LAHORE_NIHANG_DESCRIPTION" Language="es_ES">
+      <Text>Unidad exclusiva de la ciudad-estado de Lahore con un árbol de ascensos exclusivos. Se puede adquirir con Fe [ICON_Faith]. La Fuerza de combate [ICON_Strength] aumenta cuando se construyen por primera vez los edificios de los Cuarteles, el Arsenal y la Academia militar.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SOOTHSAYER_DESCRIPTION" Language="es_ES">
+      <Text>Una unidad de apoyo específica del modo Apocalipsis. Puede utilizar la acción Provocar desastre para empezar un desastre al azar en las casillas que haya cerca de la unidad. Hacer esto destruye al Adivino si no tiene más cargas.</Text>
+    </Replace>
+    <Replace Tag="LOC_CLIMATE_FOREST_FIRE" Language="es_ES">
+      <Text>Incendios forestales</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_PLANTATION_SCIENCE" Language="es_ES">
+      <Text>+{1_num} a Ciencia [ICON_Science] por {1_Num: plural 1?la casilla de Plantación adyacente; other?las casillas de Plantación adyacentes;}.</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_FARM_SCIENCE" Language="es_ES">
+      <Text>+{1_num} a Ciencia [ICON_Science] por {1_Num: plural 1?la casilla de Granja adyacente; other?las casillas de Granja adyacentes;}.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_MUTAL_NEAR_CAPITAL_COMBAT_DESCRIPTION" Language="es_ES">
+      <Text>+{1_Amount} a la Fuerza de combate por el rasgo Mutal.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_COMANDANTE_GENERAL_NAME" Language="es_ES">
+      <Text>Comandante general|Comandantes generales</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_UNIT_COLOMBIAN_LLANERO_NAME" Language="es_ES">
+      <Text>Llanero|Llaneros</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_UNIT_MAYAN_HULCHE_NAME" Language="es_ES">
+      <Text>Hul'che|Hul'che</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_UNIT_LAHORE_NIHANG_NAME" Language="es_ES">
+      <Text>Nihang|Nihang</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SOOTHSAYER_NAME" Language="es_ES">
+      <Text>Adivino|Adivinos</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_HACIENDA_NAME" Language="zh_Hant_HK">
+      <Text>大莊園</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_OBSERVATORY_NAME" Language="zh_Hant_HK">
+      <Text>天文台</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_GRAN_COLOMBIA_NAME" Language="zh_Hant_HK">
+      <Text>大哥倫比亞</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_GRAN_COLOMBIA_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>大哥倫比亞帝國</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_GRAN_COLOMBIA_ADJECTIVE" Language="zh_Hant_HK">
+      <Text>大哥倫比亞的</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_MAYA_NAME" Language="zh_Hant_HK">
+      <Text>馬雅</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_MAYA_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>馬雅帝國</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_MAYA_ADJECTIVE" Language="zh_Hant_HK">
+      <Text>馬雅的</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SIMON_BOLIVAR_NAME" Language="zh_Hant_HK">
+      <Text>西蒙·玻利瓦</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_LADY_SIX_SKY_NAME" Language="zh_Hant_HK">
+      <Text>六天夫人</Text>
+    </Replace>
+    <Replace Tag="LOC_GAMEMODE_APOCALYPSE_NAME" Language="zh_Hant_HK">
+      <Text>末日模式</Text>
+    </Replace>
+    <Replace Tag="LOC_GAMEMODE_APOCALYPSE_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>此遊戲模式不只新增了新的天災，還增加了現有天災的規模及影響力，也提升了天災發生的機率。末日模式還新增了卜術士單位；若氣候達到變遷的最後等級，彗星將撞擊地球，終結人類文明。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_EJERCITO_PATRIOTA_NAME" Language="zh_Hant_HK">
+      <Text>愛國軍</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_EJERCITO_PATRIOTA_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>所有單位+1 [ICON_Movement] 移動力。強化單位行動並不會結束該單位的回合。</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_EJERCITO_PATRIOTA_EXTRA_MOVEMENT_NAME" Language="zh_Hant_HK">
+      <Text>愛國軍</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_EJERCITO_PATRIOTA_EXTRA_MOVEMENT_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>所有單位+1 [ICON_Movement] 移動力（愛國軍）</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_HACIENDA_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>解鎖建造者建造大哥倫比亞特色建築大莊園的能力。[NEWLINE][NEWLINE]+2 [ICON_GOLD] 金幣、+1 [ICON_PRODUCTION] 生產力，以及+1 [Icon_Housing] 住房。每2個相鄰的種植園+1 [ICON_Food] 食物（研發完「零組件規格化」後提升為每個提供+1 [ICON_Food] 食物）。種植園和大莊園能從每2個相鄰的大莊園處獲得+1 [ICON_Production] 生產力（研發完「緊急部署」後提升為每個提供+1 [ICON_Production] 生產力）。僅能建造在平原、平原丘陵、草原、草原丘陵上。</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_LEADER_SIMON_BOLIVAR" Language="zh_Hant_HK">
+      <Text>西蒙‧玻利瓦，你本可隨著同僚們的異想天開隨波逐流，但你最後選擇成為了解放者。艱困逆境從不會讓你灰心喪志，所以堅持住你的理想，領導你的共和國走進全新的繁榮時代吧。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_CAMPANA_ADMIRABLE_NAME" Language="zh_Hant_HK">
+      <Text>可敬征旅</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_CAMPANA_ADMIRABLE_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>進入新時代時可獲得一名總指揮官。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_CAMPANA_ADMIRABLE_DESCRIPTION_XP1" Language="zh_Hant_HK">
+      <Text>遊戲進入新時代時可獲得一名總指揮官。</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_COMANDANTE_GENERAL_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>僅供西蒙‧玻利瓦使用的特殊偉人類型。每人都有獨特的能力，包含一種被動效果，以及一種退役效果。</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_COLOMBIAN_LLANERO_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>大哥倫比亞工業時代的特色騎兵單位，替代騎兵。維護費用低廉。每個相鄰的平原牧人+4 [ICON_Strength] 戰鬥力。總指揮官啟動退役能力時，所有位於其範圍內的平原牧人皆可完全治癒。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_MAYAB_NAME" Language="zh_Hant_HK">
+      <Text>人煙稀少之處</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_MAYAB_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>在淡水及海岸旁開拓城市無法提供額外 [ICON_HOUSING] 住房，但每座農場額外提供+1 [ICON_HOUSING] 住房及+1 [ICON_GOLD] 金幣。市中心每與一個奢侈品資源相鄰則+1 [ICON_AMENITIES] 滿意度。</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_OBSERVATORY_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>馬雅特色科學發展區域。取代學院區域且造價較為低廉。[NEWLINE][NEWLINE]相鄰的種植園提供+2 [ICON_Science] 科技值加成；每有2個相鄰的農場或區域單元格，則+1 [ICON_Science] 科技值加成。</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_OBSERVATORY_DESCRIPTION_ADJACENCY" Language="zh_Hant_HK">
+      <Text>相鄰加成：每座相鄰的種植園獲得大量 [ICON_Science] 科技值加成。每座相鄰農場和區域單元格獲得少量 [ICON_Science] 科技值加成。</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_LEADER_LADY_SIX_SKY" Language="zh_Hant_HK">
+      <Text>六天女士，雙池王朝與六地王朝的偉大戰士女皇，引領你的人民走進新的朝代吧。讓你的勢力不斷增長，得以征服近處與遠方的仇敵。眾神們將會領導著你，而你將領導忠心的人們走向勝利。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_MUTAL_NAME" Language="zh_Hant_HK">
+      <Text>繩結女王</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_MUTAL_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>在距離 [ICON_Capital] 首都6單元格範圍內的非首都都市可獲得+10%的所有收益。其他非首都都市之所有收益-15%。在距離 [ICON_Capital] 首都6單元格範圍內戰鬥時+5 [ICON_Strength] 戰鬥力。</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_MUTAL_COMBAT_STRENGTH_NEAR_CAPITAL_NAME" Language="zh_Hant_HK">
+      <Text>繩結</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_MUTAL_COMBAT_STRENGTH_NEAR_CAPITAL_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>距離 [ICON_Capital] 首都6個單元格範圍內的所有單位+5 [ICON_Strength] 戰鬥力（繩結女王）</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_MAYAN_HULCHE_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>馬雅遠古時代特色遠程單位，替代弓箭手。遠程攻擊力強大。對抗負傷的對手時+5 [ICON_Strength] 戰鬥力。</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_HULCHE_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>和負傷對手戰鬥時+5 [ICON_Strength] 戰鬥力。</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_LAHORE_NIHANG_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>擁有獨特強化樹的拉合爾城邦特色單位。可使用 [ICON_Faith] 信仰值購買。首次建造兵營、兵工廠及軍事學院後將提升其 [ICON_Strength] 戰鬥力。</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SOOTHSAYER_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>「末日」模式專有的支援單位。可以使用「造成災害」行動來在單位旁的格位開始隨機災害。若無任何剩餘使用次數，此行動將摧毀該卜術士。</Text>
+    </Replace>
+    <Replace Tag="LOC_CLIMATE_FOREST_FIRE" Language="zh_Hant_HK">
+      <Text>森林大火</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_PLANTATION_SCIENCE" Language="zh_Hant_HK">
+      <Text>+{1_num} [ICON_Science] 科技值來自相鄰種植園單元格。</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_FARM_SCIENCE" Language="zh_Hant_HK">
+      <Text>+{1_num} [ICON_Science] 科技值來自相鄰農場單元格。</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_MUTAL_NEAR_CAPITAL_COMBAT_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>+{1_Amount}戰鬥力來自繩結特質</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_COMANDANTE_GENERAL_NAME" Language="zh_Hant_HK">
+      <Text>總指揮官</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_COLOMBIAN_LLANERO_NAME" Language="zh_Hant_HK">
+      <Text>平原牧人</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_MAYAN_HULCHE_NAME" Language="zh_Hant_HK">
+      <Text>馬雅鉤棍</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_LAHORE_NIHANG_NAME" Language="zh_Hant_HK">
+      <Text>尼昂武士</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SOOTHSAYER_NAME" Language="zh_Hant_HK">
+      <Text>卜術士</Text>
+    </Replace>
+  </LocalizedText>
+</GameData>

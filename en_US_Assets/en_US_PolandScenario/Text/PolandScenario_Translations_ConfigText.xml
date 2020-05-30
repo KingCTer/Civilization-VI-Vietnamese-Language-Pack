@@ -1,0 +1,1184 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <LocalizedText>
+    <Replace Tag="LOC_CIVILIZATION_POLAND_SCENARIO_RADZIWILL_NAME" Language="pt_BR">
+      <Text>Nobreza lituana</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_POLAND_SCENARIO_POTOCKI_NAME" Language="pt_BR">
+      <Text>Nobreza polonesa</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_POLAND_SCENARIO_OSTROGSKI_NAME" Language="pt_BR">
+      <Text>Nobreza da Volínia</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_RADZIWILL_NAME" Language="pt_BR">
+      <Text>Nobreza lituana</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_POTOCKI_NAME" Language="pt_BR">
+      <Text>Nobreza polonesa</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_OSTROGSKI_NAME" Language="pt_BR">
+      <Text>Nobreza da Volínia</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_POLAND_SCENARIO_RADZIWILL_NAME" Language="pt_BR">
+      <Text>Mikolaj Radziwill</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_POLAND_SCENARIO_POTOCKI_NAME" Language="pt_BR">
+      <Text>Stanislaw Potocki</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_POLAND_SCENARIO_OSTROGSKI_NAME" Language="pt_BR">
+      <Text>Konstanty Ostrogski</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_RADZIWILL_NAME" Language="pt_BR">
+      <Text>Mikolaj Radziwill</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_POTOCKI_NAME" Language="pt_BR">
+      <Text>Stanislaw Potocki</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_OSTROGSKI_NAME" Language="pt_BR">
+      <Text>Konstanty Ostrogski</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_POLAND_SCENARIO_NAME" Language="pt_BR">
+      <Text>Legado de Edviges</Text>
+    </Replace>
+    <Replace Tag="LOC_POLAND_SCENARIO_TOOLTIP" Language="pt_BR">
+      <Text>Quem pode melhor defender a Polônia do Renascimento contra invasões estrangeiras? Dura 60 turnos.</Text>
+    </Replace>
+    <Replace Tag="LOC_POLAND_SCENARIO_DESCRIPTION" Language="pt_BR">
+      <Text>Neste cenário de 60 turnos, você se encontra na encruzilhada da Europa, protegendo as férteis terras natais da Polônia contra constantes ataques de invasores de todas as direções. Reúna seus Hussardos Alados e enfrente os Cavaleiros Teutônicos e os turco-otomanos enquanto desenvolve sua civilização.[NEWLINE][NEWLINE]O jogador com o melhor império por pontuação padrão no final do jogo será o vencedor.</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_POLAND_SCENARIO" Language="pt_BR">
+      <Text>A sua nação é unificada, uma fusão do Reino da Polônia e do Grão-Ducado da Lituânia que forma algo muito maior do que a soma de suas partes. Você é um reluzente farol em meio ao caos da Europa com seu monarca eleito, sua tolerância religiosa e os amplos direitos legais compartilhados pelos seus magnatas. Luzes claras atraem atenção indesejada, porém. Você será capaz de manter a união que se esforçou tanto para alcançar frente a intratáveis oponentes?</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_POLANDSCENARIO_MAP_NAME" Language="pt_BR">
+      <Text>Leste Europeu</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_RADZIWILL_ABILITY_NAME" Language="pt_BR">
+      <Text>Liberdade dourada</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_RADZIWILL_ABILITY_DESCRIPTION" Language="pt_BR">
+      <Text>Usa explosão cultural em painéis adjacentes ao completar um Acampamento ou Forte em território amistoso. Um espaço de política militar no governo atual é convertido em um espaço de políticas de base.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_POTOCKI_ABILITY_NAME" Language="pt_BR">
+      <Text>Liberdade dourada</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_POTOCKI_ABILITY_DESCRIPTION" Language="pt_BR">
+      <Text>Usa explosão cultural em painéis adjacentes ao completar um Acampamento ou Forte em território amistoso. Um espaço de política militar no governo atual é convertido em um espaço de políticas de base.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_OSTROGSKI_ABILITY_NAME" Language="pt_BR">
+      <Text>Liberdade dourada</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_OSTROGSKI_ABILITY_DESCRIPTION" Language="pt_BR">
+      <Text>Usa explosão cultural em painéis adjacentes ao completar um Acampamento ou Forte em território amistoso. Um espaço de política militar no governo atual é convertido em um espaço de políticas de base.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_RADZIWILL_NAME" Language="pt_BR">
+      <Text>Castelo Nesvizh</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_RADZIWILL_DESCRIPTION" Language="pt_BR">
+      <Text>Recebe um segundo Engenheiro Militar a cada vez que treinar um.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_RADZIWILL_ALT_DESCRIPTION" Language="pt_BR">
+      <Text>Recebe um segundo Construtor ou Engenheiro Militar a cada vez que treinar um.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_POTOCKI_NAME" Language="pt_BR">
+      <Text>Rotmistrz</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_POTOCKI_DESCRIPTION" Language="pt_BR">
+      <Text>Recebe um segundo Cavaleiro ou Hussardo Alado a cada vez que treinar um.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_OSTROGSKI_NAME" Language="pt_BR">
+      <Text>Hetman de Campo</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_OSTROGSKI_DESCRIPTION" Language="pt_BR">
+      <Text>Recebe um segundo Piqueiro a cada vez que treinar um.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_OSTROGSKI_ALT_DESCRIPTION" Language="pt_BR">
+      <Text>Recebe um segundo Piqueiro a cada vez que treinar um. Recebe Cossacos como uma segunda unidade exclusiva.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_POLAND_SCENARIO_RADZIWILL_NAME" Language="fr_FR">
+      <Text>Noblesse lituanienne</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_POLAND_SCENARIO_POTOCKI_NAME" Language="fr_FR">
+      <Text>Noblesse polonaise</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_POLAND_SCENARIO_OSTROGSKI_NAME" Language="fr_FR">
+      <Text>Noblesse de Volhynie</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_RADZIWILL_NAME" Language="fr_FR">
+      <Text>Noblesse lituanienne</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_POTOCKI_NAME" Language="fr_FR">
+      <Text>Noblesse polonaise</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_OSTROGSKI_NAME" Language="fr_FR">
+      <Text>Noblesse de Volhynie</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_POLAND_SCENARIO_RADZIWILL_NAME" Language="fr_FR">
+      <Text>Nicolas Christophe Radziwiłł</Text>
+      <Gender>masculine:no_article</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_POLAND_SCENARIO_POTOCKI_NAME" Language="fr_FR">
+      <Text>Stanisław Potocki</Text>
+      <Gender>masculine:no_article</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_POLAND_SCENARIO_OSTROGSKI_NAME" Language="fr_FR">
+      <Text>Constantin Ostrogski</Text>
+      <Gender>masculine:no_article</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_RADZIWILL_NAME" Language="fr_FR">
+      <Text>Nicolas Christophe Radziwiłł</Text>
+      <Gender>masculine:no_article</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_POTOCKI_NAME" Language="fr_FR">
+      <Text>Stanisław Potocki</Text>
+      <Gender>masculine:no_article</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_OSTROGSKI_NAME" Language="fr_FR">
+      <Text>Constantin Ostrogski</Text>
+      <Gender>masculine:no_article</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_POLAND_SCENARIO_NAME" Language="fr_FR">
+      <Text>L'Héritage d'Hedwige</Text>
+    </Replace>
+    <Replace Tag="LOC_POLAND_SCENARIO_TOOLTIP" Language="fr_FR">
+      <Text>Qui pourra défendre la Pologne de la Renaissance face aux envahisseurs ? Dure 60 tours.</Text>
+    </Replace>
+    <Replace Tag="LOC_POLAND_SCENARIO_DESCRIPTION" Language="fr_FR">
+      <Text>Dans ce scénario en 60 tours, vous vous trouvez à la croisée des chemins européens, protégeant les terres fertiles de Pologne contre des hordes d'envahisseurs. Rassemblez vos hussards ailés et affrontez les Chevaliers teutoniques et les Ottomans, tout en développant votre civilisation ! [NEWLINE][NEWLINE]Le joueur possédant le meilleur score à la fin de la partie sera déclaré vainqueur.</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_POLAND_SCENARIO" Language="fr_FR">
+      <Text>Votre république est unie, liant le royaume de Pologne et le grand-duché de Lituanie pour les rendre plus forts. Vous êtes la lumière au milieu du chaos qui règne en Europe, avec votre monarque élu, votre tolérance religieuse et les nombreux droits partagés par vos magnats. Mais la lumière attire aussi l'attention des nuisibles... Parviendrez-vous à maintenir l'intégrité de la république que vous avez eu tant de mal à bâtir, face à des ennemis prêts à tout ?</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_POLANDSCENARIO_MAP_NAME" Language="fr_FR">
+      <Text>Europe de l'est</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_RADZIWILL_ABILITY_NAME" Language="fr_FR">
+      <Text>Liberté dorée</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_RADZIWILL_ABILITY_DESCRIPTION" Language="fr_FR">
+      <Text>Les campements et forts en territoire allié déclenchent une bombe culturelle qui capture les cases adjacentes. Un emplacement de doctrine militaire de votre gouvernement actuel est converti en emplacement Joker.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_POTOCKI_ABILITY_NAME" Language="fr_FR">
+      <Text>Liberté dorée</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_POTOCKI_ABILITY_DESCRIPTION" Language="fr_FR">
+      <Text>Les campements et forts en territoire allié déclenchent une bombe culturelle qui capture les cases adjacentes. Un emplacement de doctrine militaire de votre gouvernement actuel est converti en emplacement Joker.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_OSTROGSKI_ABILITY_NAME" Language="fr_FR">
+      <Text>Liberté dorée</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_OSTROGSKI_ABILITY_DESCRIPTION" Language="fr_FR">
+      <Text>Les campements et forts en territoire allié déclenchent une bombe culturelle qui capture les cases adjacentes. Un emplacement de doctrine militaire de votre gouvernement actuel est converti en emplacement Joker.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_RADZIWILL_NAME" Language="fr_FR">
+      <Text>Château de Niasvij</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_RADZIWILL_DESCRIPTION" Language="fr_FR">
+      <Text>Les ingénieurs militaires sont formés deux par deux.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_RADZIWILL_ALT_DESCRIPTION" Language="fr_FR">
+      <Text>Les bâtisseurs ou ingénieurs militaires sont formés deux par deux.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_POTOCKI_NAME" Language="fr_FR">
+      <Text>Rotmistrz</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_POTOCKI_DESCRIPTION" Language="fr_FR">
+      <Text>Les chevaliers et hussards ailés sont formés deux par deux.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_OSTROGSKI_NAME" Language="fr_FR">
+      <Text>Hetman</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_OSTROGSKI_DESCRIPTION" Language="fr_FR">
+      <Text>Les piquiers sont formés deux par deux.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_OSTROGSKI_ALT_DESCRIPTION" Language="fr_FR">
+      <Text>Les piquiers sont formés deux par deux. Deuxième unité exclusive : les cosaques.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_POLAND_SCENARIO_RADZIWILL_NAME" Language="de_DE">
+      <Text>Litauischer Adel|Litauischen Adel|Litauischen Adel|Litauischen Adels|Litauische Adel</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_POLAND_SCENARIO_POTOCKI_NAME" Language="de_DE">
+      <Text>Polnischer Adel|Polnischen Adel|Polnischen Adel|Polnischen Adels|Polnische Adel</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_POLAND_SCENARIO_OSTROGSKI_NAME" Language="de_DE">
+      <Text>Wolhynischer Adel|Wolhynischen Adel|Wolhynischen Adel|Wolhynischen Adels|Wolhynische Adel</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_RADZIWILL_NAME" Language="de_DE">
+      <Text>Litauischer Adel|Litauischen Adel|Litauischen Adel|Litauischen Adels|Litauische Adel</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_POTOCKI_NAME" Language="de_DE">
+      <Text>Polnischer Adel|Polnischen Adel|Polnischen Adel|Polnischen Adels|Polnische Adel</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_OSTROGSKI_NAME" Language="de_DE">
+      <Text>Wolhynischer Adel|Wolhynischen Adel|Wolhynischen Adel|Wolhynischen Adels|Wolhynische Adel</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_POLAND_SCENARIO_RADZIWILL_NAME" Language="de_DE">
+      <Text>Mikolaj Radziwill</Text>
+      <Gender>masculine:no_article</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_POLAND_SCENARIO_POTOCKI_NAME" Language="de_DE">
+      <Text>Stanislaw Potocki</Text>
+      <Gender>masculine:no_article</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_POLAND_SCENARIO_OSTROGSKI_NAME" Language="de_DE">
+      <Text>Konstantin Ostroschski</Text>
+      <Gender>masculine:no_article</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_RADZIWILL_NAME" Language="de_DE">
+      <Text>Mikolaj Radziwill</Text>
+      <Gender>masculine:no_article</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_POTOCKI_NAME" Language="de_DE">
+      <Text>Stanislaw Potocki</Text>
+      <Gender>masculine:no_article</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_OSTROGSKI_NAME" Language="de_DE">
+      <Text>Konstantin Ostroschski</Text>
+      <Gender>masculine:no_article</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_POLAND_SCENARIO_NAME" Language="de_DE">
+      <Text>Hedwigs Vermächtnis</Text>
+    </Replace>
+    <Replace Tag="LOC_POLAND_SCENARIO_TOOLTIP" Language="de_DE">
+      <Text>Wer kann das Polen der Renaissance am besten vor Invasionen aus dem Ausland beschützen? Läuft 60 Runden.</Text>
+    </Replace>
+    <Replace Tag="LOC_POLAND_SCENARIO_DESCRIPTION" Language="de_DE">
+      <Text>In diesem Szenario mit 60 Runden steht Ihr am Scheideweg Europas, beschützt die fruchtbare Heimaterde Polens vor ständigen Angriffen von Eindringlingen aus allen Richtungen. Versammelt Eure Flügelhusaren und stellt Euch den Deutschrittern und den osmanischen Türken, während Ihr Eure Zivilisation ausbaut.[NEWLINE][NEWLINE]Der Spieler mit dem besten Reich nach Standard-Punktewertung am Ende des Spiels gewinnt.</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_POLAND_SCENARIO" Language="de_DE">
+      <Text>Ihr führt eine vereinte Nation, bestehend aus dem Königreich Polen und dem Großherzogtum Litauen, zu einem Ganzen, das größer ist als die Summe seiner Bestandteile. Ihr seid ein strahlendes Signal inmitten des Chaos in Europa, mit einem gewählten Monarchen, religiöser Toleranz und umfassenden Rechten, die sich eure Magnaten teilen. Aber strahlendes Licht zieht auch ungewollte Aufmerksamkeit auf sich. Könnt Ihr im Angesicht hartnäckiger Widersacher den Bestand der Union bewahren, für deren Gelingen Ihr so hart gearbeitet habt?</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_POLANDSCENARIO_MAP_NAME" Language="de_DE">
+      <Text>Osteuropa</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_RADZIWILL_ABILITY_NAME" Language="de_DE">
+      <Text>Goldene Freiheit</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_RADZIWILL_ABILITY_DESCRIPTION" Language="de_DE">
+      <Text>Kulturschock auf angrenzenden Geländefeldern bei Fertigstellung eines Lagers oder einer Festung innerhalb freundlich gesinnten Gebiets. Ein Militärpolitik-Platz in der aktuellen Regierung wird in einen Joker-Platz umgewandelt.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_POTOCKI_ABILITY_NAME" Language="de_DE">
+      <Text>Goldene Freiheit</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_POTOCKI_ABILITY_DESCRIPTION" Language="de_DE">
+      <Text>Kulturschock auf angrenzenden Geländefeldern bei Fertigstellung eines Lagers oder einer Festung innerhalb freundlich gesinnten Gebiets. Ein Militärpolitik-Platz in der aktuellen Regierung wird in einen Joker-Platz umgewandelt.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_OSTROGSKI_ABILITY_NAME" Language="de_DE">
+      <Text>Goldene Freiheit</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_OSTROGSKI_ABILITY_DESCRIPTION" Language="de_DE">
+      <Text>Kulturschock auf angrenzenden Geländefeldern bei Fertigstellung eines Lagers oder einer Festung innerhalb freundlich gesinnten Gebiets. Ein Militärpolitik-Platz in der aktuellen Regierung wird in einen Joker-Platz umgewandelt.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_RADZIWILL_NAME" Language="de_DE">
+      <Text>Schloss Njaswisch</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_RADZIWILL_DESCRIPTION" Language="de_DE">
+      <Text>Ihr erhaltet bei jeder Ausbildung eines Militärpioniers einen zweiten.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_RADZIWILL_ALT_DESCRIPTION" Language="de_DE">
+      <Text>Ihr erhaltet bei jeder Ausbildung eines Handwerkers oder Militärpioniers einen zweiten.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_POTOCKI_NAME" Language="de_DE">
+      <Text>Rotmistrz</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_POTOCKI_DESCRIPTION" Language="de_DE">
+      <Text>Ihr erhaltet bei jeder Ausbildung eines Ritters oder Flügelhusaren einen zweiten.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_OSTROGSKI_NAME" Language="de_DE">
+      <Text>Feld-Hetmann</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_OSTROGSKI_DESCRIPTION" Language="de_DE">
+      <Text>Ihr erhaltet bei jeder Ausbildung eines Pikeniers einen zweiten.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_OSTROGSKI_ALT_DESCRIPTION" Language="de_DE">
+      <Text>Ihr erhaltet bei jeder Ausbildung eines Pikeniers einen zweiten. Ihr erhaltet Kosaken als zweite Spezialeinheit.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_POLAND_SCENARIO_RADZIWILL_NAME" Language="it_IT">
+      <Text>Nobiltà lituana|della Nobiltà lituana|alla Nobiltà lituana|la Nobiltà lituana|dalla Nobiltà lituana</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_POLAND_SCENARIO_POTOCKI_NAME" Language="it_IT">
+      <Text>Nobiltà polacca|della Nobiltà polacca|alla Nobiltà polacca|la Nobiltà polacca|dalla Nobiltà polacca</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_POLAND_SCENARIO_OSTROGSKI_NAME" Language="it_IT">
+      <Text>Nobiltà di Volinia|della Nobiltà di Volinia|alla Nobiltà di Volinia|la Nobiltà di Volinia|dalla Nobiltà di Volinia</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_RADZIWILL_NAME" Language="it_IT">
+      <Text>Nobiltà lituana|della Nobiltà lituana|alla Nobiltà lituana|la Nobiltà lituana|dalla Nobiltà lituana</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_POTOCKI_NAME" Language="it_IT">
+      <Text>Nobiltà polacca|della Nobiltà polacca|alla Nobiltà polacca|la Nobiltà polacca|dalla Nobiltà polacca</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_OSTROGSKI_NAME" Language="it_IT">
+      <Text>Nobiltà di Volinia|della Nobiltà di Volinia|alla Nobiltà di Volinia|la Nobiltà di Volinia|dalla Nobiltà di Volinia</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_POLAND_SCENARIO_RADZIWILL_NAME" Language="it_IT">
+      <Text>Mikolaj Radziwill|di Mikolaj Radziwill|a Mikolaj Radziwill|Mikolaj Radziwill|da Mikolaj Radziwill</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_POLAND_SCENARIO_POTOCKI_NAME" Language="it_IT">
+      <Text>Stanislaw Potocki|di Stanislaw Potocki|a Stanislaw Potocki|Stanislaw Potocki|da Stanislaw Potocki</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_POLAND_SCENARIO_OSTROGSKI_NAME" Language="it_IT">
+      <Text>Konstanty Ostrogski|di Konstanty Ostrogski|a Konstanty Ostrogski|Konstanty Ostrogski|da Konstanty Ostrogski</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_RADZIWILL_NAME" Language="it_IT">
+      <Text>Mikolaj Radziwill|di Mikolaj Radziwill|a Mikolaj Radziwill|Mikolaj Radziwill|da Mikolaj Radziwill</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_POTOCKI_NAME" Language="it_IT">
+      <Text>Stanislaw Potocki|di Stanislaw Potocki|a Stanislaw Potocki|Stanislaw Potocki|da Stanislaw Potocki</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_OSTROGSKI_NAME" Language="it_IT">
+      <Text>Konstanty Ostrogski|di Konstanty Ostrogski|a Konstanty Ostrogski|Konstanty Ostrogski|da Konstanty Ostrogski</Text>
+    </Replace>
+    <Replace Tag="LOC_POLAND_SCENARIO_NAME" Language="it_IT">
+      <Text>L'eredità di Jadwiga</Text>
+    </Replace>
+    <Replace Tag="LOC_POLAND_SCENARIO_TOOLTIP" Language="it_IT">
+      <Text>Chi saprà difendere meglio la Polonia rinascimentale dagli invasori stranieri? Durata: 60 turni.</Text>
+    </Replace>
+    <Replace Tag="LOC_POLAND_SCENARIO_DESCRIPTION" Language="it_IT">
+      <Text>Questo scenario della durata di 60 turni ti pone al crocevia dell'Europa: il tuo compito è proteggere le fertili terre della Polonia dai costanti attacchi degli invasori che provengono da tutte le direzioni. Raduna i tuoi Ussari alati e affronta i Cavalieri Teutonici e i turchi ottomani mentre sviluppi la tua civiltà.[NEWLINE][NEWLINE]La vittoria va al giocatore che alla fine della partita ottiene il punteggio più alto secondo la valutazione standard.</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_POLAND_SCENARIO" Language="it_IT">
+      <Text>La tua è una nazione unita, che fonde il Regno di Polonia e il Granducato di Lituania in un tutto che è più grande della somma delle sue parti. Tu rappresenti un fulgido esempio nel caos dell'Europa grazie alla tua monarchia elettiva, alla tolleranza religiosa e agli estesi diritti legali di cui godono i tuoi magnati. Ma le luci più sfolgoranti attraggono le maggiori attenzioni. Saprai mantenere l'unione che hai ottenuto con tanta fatica di fronte a nemici implacabili?</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_POLANDSCENARIO_MAP_NAME" Language="it_IT">
+      <Text>Europa dell'est</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_RADZIWILL_ABILITY_NAME" Language="it_IT">
+      <Text>Libertà dorata</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_RADZIWILL_ABILITY_DESCRIPTION" Language="it_IT">
+      <Text>Quando completi un Accampamento o un Forte in territorio amico scateni una Bomba culturale nelle caselle adiacenti. Uno slot per politiche militari nel governo attuale viene convertito in uno slot jolly.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_POTOCKI_ABILITY_NAME" Language="it_IT">
+      <Text>Libertà dorata</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_POTOCKI_ABILITY_DESCRIPTION" Language="it_IT">
+      <Text>Quando completi un Accampamento o un Forte in territorio amico scateni una Bomba culturale nelle caselle adiacenti. Uno slot per politiche militari nel governo attuale viene convertito in uno slot jolly.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_OSTROGSKI_ABILITY_NAME" Language="it_IT">
+      <Text>Libertà dorata</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_OSTROGSKI_ABILITY_DESCRIPTION" Language="it_IT">
+      <Text>Quando completi un Accampamento o un Forte in territorio amico scateni una Bomba culturale nelle caselle adiacenti. Uno slot per politiche militari nel governo attuale viene convertito in uno slot jolly.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_RADZIWILL_NAME" Language="it_IT">
+      <Text>Castello di Njasviž</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_RADZIWILL_DESCRIPTION" Language="it_IT">
+      <Text>Ogni volta che addestri un Ingegnere militare ne ricevi un secondo.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_RADZIWILL_ALT_DESCRIPTION" Language="it_IT">
+      <Text>Ogni volta che addestri un Costruttore o un Ingegnere militare ne ricevi un secondo.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_POTOCKI_NAME" Language="it_IT">
+      <Text>Rotmistrz</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_POTOCKI_DESCRIPTION" Language="it_IT">
+      <Text>Ogni volta che addestri un Cavaliere o un Ussaro alato ne ricevi un secondo.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_OSTROGSKI_NAME" Language="it_IT">
+      <Text>Atamano</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_OSTROGSKI_DESCRIPTION" Language="it_IT">
+      <Text>Ogni volta che addestri un Picchiere ne ricevi un secondo.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_OSTROGSKI_ALT_DESCRIPTION" Language="it_IT">
+      <Text>Ogni volta che addestri un Picchiere ne ricevi un secondo. Ricevi i Cosacchi come seconda unità esclusiva.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_POLAND_SCENARIO_RADZIWILL_NAME" Language="ja_JP">
+      <Text>リトアニア貴族</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_POLAND_SCENARIO_POTOCKI_NAME" Language="ja_JP">
+      <Text>ポーランド貴族</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_POLAND_SCENARIO_OSTROGSKI_NAME" Language="ja_JP">
+      <Text>ヴォルィーニ貴族</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_RADZIWILL_NAME" Language="ja_JP">
+      <Text>リトアニア貴族</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_POTOCKI_NAME" Language="ja_JP">
+      <Text>ポーランド貴族</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_OSTROGSKI_NAME" Language="ja_JP">
+      <Text>ヴォルィーニ貴族</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_POLAND_SCENARIO_RADZIWILL_NAME" Language="ja_JP">
+      <Text>ミコワイ・ラジヴィウ</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_POLAND_SCENARIO_POTOCKI_NAME" Language="ja_JP">
+      <Text>スタニスワフ・ポトツキ</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_POLAND_SCENARIO_OSTROGSKI_NAME" Language="ja_JP">
+      <Text>コンスタンティ・オストログスキ</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_RADZIWILL_NAME" Language="ja_JP">
+      <Text>ミコワイ・ラジヴィウ</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_POTOCKI_NAME" Language="ja_JP">
+      <Text>スタニスワフ・ポトツキ</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_OSTROGSKI_NAME" Language="ja_JP">
+      <Text>コンスタンティ・オストログスキ</Text>
+    </Replace>
+    <Replace Tag="LOC_POLAND_SCENARIO_NAME" Language="ja_JP">
+      <Text>ヤドヴィガの遺産</Text>
+    </Replace>
+    <Replace Tag="LOC_POLAND_SCENARIO_TOOLTIP" Language="ja_JP">
+      <Text>ルネサンス時代のポーランドを異国の侵略から守るのに最も長けているのは誰でしょうか？ 60ターンで終了します。</Text>
+    </Replace>
+    <Replace Tag="LOC_POLAND_SCENARIO_DESCRIPTION" Language="ja_JP">
+      <Text>ヨーロッパの交差路を舞台に、あらゆる方向から攻めてくる侵略者を退け、肥沃な祖国ポーランドを守り抜く、60ターンのシナリオです。ウイングフッサーの力を束ねてチュートン騎士団やオスマン帝国と戦いつつ、文明を育んでいきましょう。[NEWLINE][NEWLINE]ゲームが終了した時点で、最も優れた帝国を築いていたプレイヤーが勝利します。スコアは通常の方法で計算されます。</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_POLAND_SCENARIO" Language="ja_JP">
+      <Text>君は連合国家の君主だ。力を合わせることによってポーランド王国とリトアニア大公国は、1+1を2ではなく3にも4にもした。選挙で選出された君主、宗教的寛容、有力者が分かち合う広範な法的権利。これらすべてを備えたこの国は、混沌としたヨーロッパを照らすかがり火となるだろう。しかし、まばゆい光は好ましくない注目をも招くもの。虎視眈々と隙をうかがう敵に囲まれ、君は苦労の末に築いたこの国を維持できるだろうか？</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_POLANDSCENARIO_MAP_NAME" Language="ja_JP">
+      <Text>東欧</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_RADZIWILL_ABILITY_NAME" Language="ja_JP">
+      <Text>黄金の自由</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_RADZIWILL_ABILITY_DESCRIPTION" Language="ja_JP">
+      <Text>友好的な領土に兵営か要塞を完成させると、隣接するタイルで文化爆弾が発動する。現在の政府の軍事政策スロットがワイルドカードスロットに変化する。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_POTOCKI_ABILITY_NAME" Language="ja_JP">
+      <Text>黄金の自由</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_POTOCKI_ABILITY_DESCRIPTION" Language="ja_JP">
+      <Text>友好的な領土に兵営か要塞を完成させると、隣接するタイルで文化爆弾が発動する。現在の政府の軍事政策スロットがワイルドカードスロットに変化する。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_OSTROGSKI_ABILITY_NAME" Language="ja_JP">
+      <Text>黄金の自由</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_OSTROGSKI_ABILITY_DESCRIPTION" Language="ja_JP">
+      <Text>友好的な領土に兵営か要塞を完成させると、隣接するタイルで文化爆弾が発動する。現在の政府の軍事政策スロットがワイルドカードスロットに変化する。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_RADZIWILL_NAME" Language="ja_JP">
+      <Text>ネスヴィジ城</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_RADZIWILL_DESCRIPTION" Language="ja_JP">
+      <Text>工兵を訓練するたびに、工兵がもう1ユニット手に入る。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_RADZIWILL_ALT_DESCRIPTION" Language="ja_JP">
+      <Text>労働者または工兵を訓練するたびに、労働者または工兵がもう1ユニット手に入る。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_POTOCKI_NAME" Language="ja_JP">
+      <Text>リットマイスター</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_POTOCKI_DESCRIPTION" Language="ja_JP">
+      <Text>騎士またはウイングフッサーを訓練するたびに、騎士またはウイングフッサーがもう1ユニット手に入る。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_OSTROGSKI_NAME" Language="ja_JP">
+      <Text>野戦ヘトマン</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_OSTROGSKI_DESCRIPTION" Language="ja_JP">
+      <Text>長槍兵を訓練するたびに、長槍兵がもう1ユニット手に入る。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_OSTROGSKI_ALT_DESCRIPTION" Language="ja_JP">
+      <Text>長槍兵を訓練するたびに、長槍兵がもう1ユニット手に入る。第2の固有ユニットとしてコサックが手に入る。</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_POLAND_SCENARIO_RADZIWILL_NAME" Language="ko_KR">
+      <Text>리투아니아 귀족들</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_POLAND_SCENARIO_POTOCKI_NAME" Language="ko_KR">
+      <Text>폴란드 귀족들</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_POLAND_SCENARIO_OSTROGSKI_NAME" Language="ko_KR">
+      <Text>볼히니아 귀족들</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_RADZIWILL_NAME" Language="ko_KR">
+      <Text>리투아니아 귀족들</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_POTOCKI_NAME" Language="ko_KR">
+      <Text>폴란드 귀족들</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_OSTROGSKI_NAME" Language="ko_KR">
+      <Text>볼히니아 귀족들</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_POLAND_SCENARIO_RADZIWILL_NAME" Language="ko_KR">
+      <Text>미코와이 라지비우</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_POLAND_SCENARIO_POTOCKI_NAME" Language="ko_KR">
+      <Text>스타니스와프 포토츠키</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_POLAND_SCENARIO_OSTROGSKI_NAME" Language="ko_KR">
+      <Text>콘스탄티 오스트록스키</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_RADZIWILL_NAME" Language="ko_KR">
+      <Text>미코와이 라지비우</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_POTOCKI_NAME" Language="ko_KR">
+      <Text>스타니스와프 포토츠키</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_OSTROGSKI_NAME" Language="ko_KR">
+      <Text>콘스탄티 오스트록스키</Text>
+    </Replace>
+    <Replace Tag="LOC_POLAND_SCENARIO_NAME" Language="ko_KR">
+      <Text>야드비가의 유산</Text>
+    </Replace>
+    <Replace Tag="LOC_POLAND_SCENARIO_TOOLTIP" Language="ko_KR">
+      <Text>누가 침략자로부터 르네상스 시대 폴란드를 가장 성공적으로 지킬 수 있을까요? 60턴 제한.</Text>
+    </Replace>
+    <Replace Tag="LOC_POLAND_SCENARIO_DESCRIPTION" Language="ko_KR">
+      <Text>이 60턴 제한 시나리오에서, 유럽의 교차로에 서 있는 당신은 자원이 풍부한 폴란드의 영토를 사방에서 침략하는 적들로부터 지켜야 합니다. 문명 발전과 함께 날개 달린 후사르를 결집시켜 튜턴 기사들과 오스만 제국을 상대하십시오.[NEWLINE][NEWLINE]게임 종료 시점에 일반 점수 방식 기준으로 가장 위대한 제국이 되어 승리를 거두십시오.</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_POLAND_SCENARIO" Language="ko_KR">
+      <Text>당신의 국가는 폴란드 왕국과 리투아니아 대공국이 통합된 것보다 더 위대한 통일 국가입니다. 당신은 선출된 왕정, 종교상의 관용과 왕들 간의 공유된 폭넓은 법적 권리를 지닌 유럽의 혼란 속에서 빛나고 있는 등불과도 같은 존재입니다. 하지만 이렇게 밝은 불은 원치 않는 상대까지 끌어들이는 법이죠. 상대하기 쉽지 않은 이들에 맞서 그동안 열심히 공들인 연합국을 지켜낼 수 있으십니까?</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_POLANDSCENARIO_MAP_NAME" Language="ko_KR">
+      <Text>동유럽</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_RADZIWILL_ABILITY_NAME" Language="ko_KR">
+      <Text>황금의 자유</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_RADZIWILL_ABILITY_DESCRIPTION" Language="ko_KR">
+      <Text>우호적인 영토 내에서 주둔지 또는 요새를 완성할 때마다 인접 타일에 문화 폭탄을 투여합니다. 현재 정부의 군사 정책 슬롯 하나가 와일드카드 슬롯으로 변경됩니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_POTOCKI_ABILITY_NAME" Language="ko_KR">
+      <Text>황금의 자유</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_POTOCKI_ABILITY_DESCRIPTION" Language="ko_KR">
+      <Text>우호적인 영토 내에서 주둔지 또는 요새를 완성할 때마다 인접 타일에 문화 폭탄을 투여합니다. 현재 정부의 군사 정책 슬롯 하나가 와일드카드 슬롯으로 변경됩니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_OSTROGSKI_ABILITY_NAME" Language="ko_KR">
+      <Text>황금의 자유</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_OSTROGSKI_ABILITY_DESCRIPTION" Language="ko_KR">
+      <Text>우호적인 영토 내에서 주둔지 또는 요새를 완성할 때마다 인접 타일에 문화 폭탄을 투여합니다. 현재 정부의 군사 정책 슬롯 하나가 와일드카드 슬롯으로 변경됩니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_RADZIWILL_NAME" Language="ko_KR">
+      <Text>니에시비에시 성</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_RADZIWILL_DESCRIPTION" Language="ko_KR">
+      <Text>공병 유닛을 훈련할 때마다 동일한 유닛을 추가로 받습니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_RADZIWILL_ALT_DESCRIPTION" Language="ko_KR">
+      <Text>건설자 또는 공병 유닛을 훈련할 때마다 동일한 유닛을 추가로 받습니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_POTOCKI_NAME" Language="ko_KR">
+      <Text>기병대장</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_POTOCKI_DESCRIPTION" Language="ko_KR">
+      <Text>기사 또는 날개 달린 후사르를 훈련할 때마다 동일한 유닛을 추가로 받습니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_OSTROGSKI_NAME" Language="ko_KR">
+      <Text>야전 헤트만</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_OSTROGSKI_DESCRIPTION" Language="ko_KR">
+      <Text>파이크병 유닛을 훈련할 때마다 동일한 유닛을 추가로 받습니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_OSTROGSKI_ALT_DESCRIPTION" Language="ko_KR">
+      <Text>파이크병 유닛을 훈련할 때마다 동일한 유닛을 추가로 받습니다. 코사크를 두 번째 특유 유닛으로 부여받습니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_POLAND_SCENARIO_RADZIWILL_NAME" Language="pl_PL">
+      <Text>Litewska magnateria|litewskiej magnaterii|litewskiej magnaterii|litewską magnaterię|litewską magnaterią|litewskiej magnaterii|litewska magnateria|litewskiej magnaterii|litewskiej magnaterii|litewską magnaterię|litewską magnaterią|litewskiej magnaterii</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_POLAND_SCENARIO_POTOCKI_NAME" Language="pl_PL">
+      <Text>Polska magnateria|polskiej magnaterii|polskiej magnaterii|polską magnaterię|polską magnaterią|polskiej magnaterii|polska magnateria|polskiej magnaterii|polskiej magnaterii|polską magnaterię|polską magnaterią|polskiej magnaterii</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_POLAND_SCENARIO_OSTROGSKI_NAME" Language="pl_PL">
+      <Text>Wołyńska magnateria|wołyńskiej magnaterii|wołyńskiej magnaterii|wołyńską magnaterię|wołyńską magnaterią|wołyńskiej magnaterii|wołyńska magnateria|wołyńskiej magnaterii|wołyńskiej magnaterii|wołyńską magnaterię|wołyńską magnaterią|wołyńskiej magnaterii</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_RADZIWILL_NAME" Language="pl_PL">
+      <Text>Litewska magnateria|litewskiej magnaterii|litewskiej magnaterii|litewską magnaterię|litewską magnaterią|litewskiej magnaterii|litewska magnateria|litewskiej magnaterii|litewskiej magnaterii|litewską magnaterię|litewską magnaterią|litewskiej magnaterii</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_POTOCKI_NAME" Language="pl_PL">
+      <Text>Polska magnateria|polskiej magnaterii|polskiej magnaterii|polską magnaterię|polską magnaterią|polskiej magnaterii|polska magnateria|polskiej magnaterii|polskiej magnaterii|polską magnaterię|polską magnaterią|polskiej magnaterii</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_OSTROGSKI_NAME" Language="pl_PL">
+      <Text>Wołyńska magnateria|wołyńskiej magnaterii|wołyńskiej magnaterii|wołyńską magnaterię|wołyńską magnaterią|wołyńskiej magnaterii|wołyńska magnateria|wołyńskiej magnaterii|wołyńskiej magnaterii|wołyńską magnaterię|wołyńską magnaterią|wołyńskiej magnaterii</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_POLAND_SCENARIO_RADZIWILL_NAME" Language="pl_PL">
+      <Text>Mikołaj Radziwiłł|Mikołaja Radziwiłła|Mikołajowi Radziwiłłowi|Mikołaja Radziwiłła|Mikołajem Radziwiłłem|Mikołaju Radziwille|Mikołaj Radziwiłł|Mikołaja Radziwiłła|Mikołajowi Radziwiłłowi|Mikołaja Radziwiłła|Mikołajem Radziwiłłem|Mikołaju Radziwille</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_POLAND_SCENARIO_POTOCKI_NAME" Language="pl_PL">
+      <Text>Stanisław Potocki|Stanisława Potockiego|Stanisławowi Potockiemu|Stanisława Potockiego|Stanisławem Potockim|Stanisławie Potockim|Stanisław Potocki|Stanisława Potockiego|Stanisławowi Potockiemu|Stanisława Potockiego|Stanisławem Potockim|Stanisławie Potockim</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_POLAND_SCENARIO_OSTROGSKI_NAME" Language="pl_PL">
+      <Text>Konstanty Ostrogski|Konstantego Ostrogskiego|Konstantemu Ostrogskiemu|Konstantego Ostrogskiego|Konstantym Ostrogskim|Konstantym Ostrogskim|Konstanty Ostrogski|Konstantego Ostrogskiego|Konstantemu Ostrogskiemu|Konstantego Ostrogskiego|Konstantym Ostrogskim|Konstantym Ostrogskim</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_RADZIWILL_NAME" Language="pl_PL">
+      <Text>Mikołaj Radziwiłł|Mikołaja Radziwiłła|Mikołajowi Radziwiłłowi|Mikołaja Radziwiłła|Mikołajem Radziwiłłem|Mikołaju Radziwille|Mikołaj Radziwiłł|Mikołaja Radziwiłła|Mikołajowi Radziwiłłowi|Mikołaja Radziwiłła|Mikołajem Radziwiłłem|Mikołaju Radziwille</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_POTOCKI_NAME" Language="pl_PL">
+      <Text>Stanisław Potocki|Stanisława Potockiego|Stanisławowi Potockiemu|Stanisława Potockiego|Stanisławem Potockim|Stanisławie Potockim|Stanisław Potocki|Stanisława Potockiego|Stanisławowi Potockiemu|Stanisława Potockiego|Stanisławem Potockim|Stanisławie Potockim</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_OSTROGSKI_NAME" Language="pl_PL">
+      <Text>Konstanty Ostrogski|Konstantego Ostrogskiego|Konstantemu Ostrogskiemu|Konstantego Ostrogskiego|Konstantym Ostrogskim|Konstantym Ostrogskim|Konstanty Ostrogski|Konstantego Ostrogskiego|Konstantemu Ostrogskiemu|Konstantego Ostrogskiego|Konstantym Ostrogskim|Konstantym Ostrogskim</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_POLAND_SCENARIO_NAME" Language="pl_PL">
+      <Text>Dziedzictwo Jadwigi</Text>
+    </Replace>
+    <Replace Tag="LOC_POLAND_SCENARIO_TOOLTIP" Language="pl_PL">
+      <Text>Kto najlepiej obroni renesansową Polskę przed obcymi inwazjami? Trwa 60 tur.</Text>
+    </Replace>
+    <Replace Tag="LOC_POLAND_SCENARIO_DESCRIPTION" Language="pl_PL">
+      <Text>W tym 60-turowym scenariuszu stoisz na rozdrożach Europy, chroniąc żyzne ziemie Polski przed nieustającymi falami najeźdźców nacierających ze wszystkich stron. Zbierz skrzydlatą husarię, zmierz się z zakonem krzyżackim oraz Turkami osmańskimi, rozwiń swoją cywilizację![NEWLINE][NEWLINE]Zwycięzcą będzie gracz, który po zakończeniu rozgrywki uzyska najlepszy wynik punktowy.</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_POLAND_SCENARIO" Language="pl_PL">
+      <Text>Stoisz na czele zjednoczonego narodu łączącego Królestwo Polskie i Wielkie Księstwo Litewskie w całość o wiele większą niż poszczególne jej części. Ze swoją monarchią elekcyjną, religijną tolerancją i prawami przyznanymi magnatom jesteście jak latarnia wskazująca drogę wśród chaosu, który ogarnął Europę. Niestety, to jasne światło przyciąga uwagę wrogów. Czy zdołasz obronić unię, nad której powstaniem pracowało tak wielu, przed atakami nieustępliwych wrogów?</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_POLANDSCENARIO_MAP_NAME" Language="pl_PL">
+      <Text>Europa Wschodnia</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_RADZIWILL_ABILITY_NAME" Language="pl_PL">
+      <Text>Złota wolność</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_RADZIWILL_ABILITY_DESCRIPTION" Language="pl_PL">
+      <Text>Ukończenie dzielnicy wojskowej lub fortu na przyjaznym terytorium bombarduje kulturowo sąsiednie pola. Jedno miejsce na doktrynę wojskową w aktualnym ustroju zostaje przekształcone w miejsce na dziką kartę.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_POTOCKI_ABILITY_NAME" Language="pl_PL">
+      <Text>Złota wolność</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_POTOCKI_ABILITY_DESCRIPTION" Language="pl_PL">
+      <Text>Ukończenie dzielnicy wojskowej lub fortu na przyjaznym terytorium bombarduje kulturowo sąsiednie pola. Jedno miejsce na doktrynę wojskową w aktualnym ustroju zostaje przekształcone w miejsce na dziką kartę.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_OSTROGSKI_ABILITY_NAME" Language="pl_PL">
+      <Text>Złota wolność</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_OSTROGSKI_ABILITY_DESCRIPTION" Language="pl_PL">
+      <Text>Ukończenie dzielnicy wojskowej lub fortu na przyjaznym terytorium bombarduje kulturowo sąsiednie pola. Jedno miejsce na doktrynę wojskową w aktualnym ustroju zostaje przekształcone w miejsce na dziką kartę.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_RADZIWILL_NAME" Language="pl_PL">
+      <Text>Zamek w Nieświeżu</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_RADZIWILL_DESCRIPTION" Language="pl_PL">
+      <Text>Za każdym razem, gdy wyszkolisz inżyniera wojskowego, otrzymasz dodatkową jednostkę tego typu.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_RADZIWILL_ALT_DESCRIPTION" Language="pl_PL">
+      <Text>Za każdym razem, gdy wyszkolisz inżyniera wojskowego lub budowniczego, otrzymasz dodatkową jednostkę tego typu.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_POTOCKI_NAME" Language="pl_PL">
+      <Text>Rotmistrz</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_POTOCKI_DESCRIPTION" Language="pl_PL">
+      <Text>Za każdym razem, gdy wyszkolisz rycerza lub husarza, otrzymasz dodatkową jednostkę tego typu.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_OSTROGSKI_NAME" Language="pl_PL">
+      <Text>Hetman polny</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_OSTROGSKI_DESCRIPTION" Language="pl_PL">
+      <Text>Za każdym razem, gdy wyszkolisz pikiniera, otrzymasz dodatkową jednostkę tego typu.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_OSTROGSKI_ALT_DESCRIPTION" Language="pl_PL">
+      <Text>Za każdym razem, gdy wyszkolisz pikiniera, otrzymasz dodatkową jednostkę tego typu. Kozaków otrzymasz jako drugą unikalną jednostkę.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_POLAND_SCENARIO_RADZIWILL_NAME" Language="ru_RU">
+      <Text>Литовское дворянство|литовского дворянства|литовскому дворянству|литовское дворянство|литовским дворянством|литовском дворянстве</Text>
+      <Gender>neuter</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_POLAND_SCENARIO_POTOCKI_NAME" Language="ru_RU">
+      <Text>Польское дворянство|польского дворянства|польскому дворянству|польское дворянство|польским дворянством|польском дворянстве</Text>
+      <Gender>neuter</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_POLAND_SCENARIO_OSTROGSKI_NAME" Language="ru_RU">
+      <Text>Волынское дворянство|волынского дворянства|волынскому дворянству|волынское дворянство|волынским дворянством|волынском дворянстве</Text>
+      <Gender>neuter</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_RADZIWILL_NAME" Language="ru_RU">
+      <Text>Литовское дворянство|литовского дворянства|литовскому дворянству|литовское дворянство|литовским дворянством|литовском дворянстве</Text>
+      <Gender>neuter</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_POTOCKI_NAME" Language="ru_RU">
+      <Text>Польское дворянство|польского дворянства|польскому дворянству|польское дворянство|польским дворянством|польском дворянстве</Text>
+      <Gender>neuter</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_OSTROGSKI_NAME" Language="ru_RU">
+      <Text>Волынское дворянство|волынского дворянства|волынскому дворянству|волынское дворянство|волынским дворянством|волынском дворянстве</Text>
+      <Gender>neuter</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_POLAND_SCENARIO_RADZIWILL_NAME" Language="ru_RU">
+      <Text>Николай Радзивилл|Николая Радзивилла|Николаю Радзивиллу|Николая Радзивилла|Николаем Радзивиллом|Николае Радзивилле</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_POLAND_SCENARIO_POTOCKI_NAME" Language="ru_RU">
+      <Text>Станислав Потоцкий|Станислава Потоцкого|Станиславу Потоцкому|Станислава Потоцкого|Станиславом Потоцким|Станиславе Потоцком</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_POLAND_SCENARIO_OSTROGSKI_NAME" Language="ru_RU">
+      <Text>Константин Острожский|Константина Острожского|Константину Острожскому|Константина Острожского|Константином Острожским|Константине Острожском</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_RADZIWILL_NAME" Language="ru_RU">
+      <Text>Николай Радзивилл|Николая Радзивилла|Николаю Радзивиллу|Николая Радзивилла|Николаем Радзивиллом|Николае Радзивилле</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_POTOCKI_NAME" Language="ru_RU">
+      <Text>Станислав Потоцкий|Станислава Потоцкого|Станиславу Потоцкому|Станислава Потоцкого|Станиславом Потоцким|Станиславе Потоцком</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_OSTROGSKI_NAME" Language="ru_RU">
+      <Text>Константин Острожский|Константина Острожского|Константину Острожскому|Константина Острожского|Константином Острожским|Константине Острожском</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_POLAND_SCENARIO_NAME" Language="ru_RU">
+      <Text>Наследие Ядвиги</Text>
+    </Replace>
+    <Replace Tag="LOC_POLAND_SCENARIO_TOOLTIP" Language="ru_RU">
+      <Text>Кто лучше всех защитит Польшу эпохи Возрождения от иноземных захватчиков? Длительность: 60 ходов.</Text>
+    </Replace>
+    <Replace Tag="LOC_POLAND_SCENARIO_DESCRIPTION" Language="ru_RU">
+      <Text>В этом 60-ходовом сценарии вы находитесь на перекрестке Европы и защищаете родную Польшу от постоянного натиска врагов со всех сторон. Развивайте свою цивилизацию, мобилизуйте крылатых гусар и сражайтесь с рыцарями Тевтонского ордена и турками-османами.[NEWLINE][NEWLINE]В конце игры побеждает игрок с лучшей империей по стандартной системе подсчета.</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_POLAND_SCENARIO" Language="ru_RU">
+      <Text>Вы правите объединенным государством Королевства Польского и Великого княжества Литовского. Этот союз – нечто большее, чем просто сумма его частей. Вы – светоч посреди европейского хаоса. У вас выборная монархия, веротерпимость, вашим магнатам предоставлены широкие права. Но этот блеск привлекает ненужное внимание. Сможете ли вы уберечь созданный вами союз от посягательств безжалостных недругов?</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_POLANDSCENARIO_MAP_NAME" Language="ru_RU">
+      <Text>Восточная Европа</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_RADZIWILL_ABILITY_NAME" Language="ru_RU">
+      <Text>Золотая вольность</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_RADZIWILL_ABILITY_DESCRIPTION" Language="ru_RU">
+      <Text>Производит культурный захват соседних клеток после строительства военного лагеря или форта на дружественной территории. Одна ячейка военного курса при текущей форме правления превращается в универсальную ячейку.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_POTOCKI_ABILITY_NAME" Language="ru_RU">
+      <Text>Золотая вольность</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_POTOCKI_ABILITY_DESCRIPTION" Language="ru_RU">
+      <Text>Производит культурный захват соседних клеток после строительства военного лагеря или форта на дружественной территории. Одна ячейка военного курса при текущей форме правления превращается в универсальную ячейку.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_OSTROGSKI_ABILITY_NAME" Language="ru_RU">
+      <Text>Золотая вольность</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_OSTROGSKI_ABILITY_DESCRIPTION" Language="ru_RU">
+      <Text>Производит культурный захват соседних клеток после строительства военного лагеря или форта на дружественной территории. Одна ячейка военного курса при текущей форме правления превращается в универсальную ячейку.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_RADZIWILL_NAME" Language="ru_RU">
+      <Text>Замок Несвиж</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_RADZIWILL_DESCRIPTION" Language="ru_RU">
+      <Text>При подготовке юнита военных инженеров получите еще один.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_RADZIWILL_ALT_DESCRIPTION" Language="ru_RU">
+      <Text>При подготовке юнита строителей или военных инженеров получите еще один.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_POTOCKI_NAME" Language="ru_RU">
+      <Text>Ротмистр</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_POTOCKI_DESCRIPTION" Language="ru_RU">
+      <Text>При подготовке юнита рыцарей или крылатых гусар получите еще один.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_OSTROGSKI_NAME" Language="ru_RU">
+      <Text>Полевой гетман</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_OSTROGSKI_DESCRIPTION" Language="ru_RU">
+      <Text>При подготовке юнита пикинеров получите еще один.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_OSTROGSKI_ALT_DESCRIPTION" Language="ru_RU">
+      <Text>При подготовке юнита пикинеров получите еще один. Доступен второй уникальный юнит: казаки.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_POLAND_SCENARIO_RADZIWILL_NAME" Language="zh_Hans_CN">
+      <Text>立陶宛贵族</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_POLAND_SCENARIO_POTOCKI_NAME" Language="zh_Hans_CN">
+      <Text>波兰贵族</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_POLAND_SCENARIO_OSTROGSKI_NAME" Language="zh_Hans_CN">
+      <Text>沃利尼亚贵族</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_RADZIWILL_NAME" Language="zh_Hans_CN">
+      <Text>立陶宛贵族</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_POTOCKI_NAME" Language="zh_Hans_CN">
+      <Text>波兰贵族</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_OSTROGSKI_NAME" Language="zh_Hans_CN">
+      <Text>沃利尼亚贵族</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_POLAND_SCENARIO_RADZIWILL_NAME" Language="zh_Hans_CN">
+      <Text>米科拉伊·拉济维乌</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_POLAND_SCENARIO_POTOCKI_NAME" Language="zh_Hans_CN">
+      <Text>斯坦尼斯拉夫·波托茨基</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_POLAND_SCENARIO_OSTROGSKI_NAME" Language="zh_Hans_CN">
+      <Text>康斯坦蒂·奥斯卓哥斯基</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_RADZIWILL_NAME" Language="zh_Hans_CN">
+      <Text>米科拉伊·拉济维乌</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_POTOCKI_NAME" Language="zh_Hans_CN">
+      <Text>斯坦尼斯拉夫·波托茨基</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_OSTROGSKI_NAME" Language="zh_Hans_CN">
+      <Text>康斯坦蒂·奥斯卓哥斯基</Text>
+    </Replace>
+    <Replace Tag="LOC_POLAND_SCENARIO_NAME" Language="zh_Hans_CN">
+      <Text>雅德维加的遗产</Text>
+    </Replace>
+    <Replace Tag="LOC_POLAND_SCENARIO_TOOLTIP" Language="zh_Hans_CN">
+      <Text>您能保卫文艺复兴时代的波兰免遭外敌入侵吗？持续60回合。</Text>
+    </Replace>
+    <Replace Tag="LOC_POLAND_SCENARIO_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>在这个60回合的情景中，您将站在欧洲的十字路口，在各方侵略者的不断进攻下保护祖国波兰的肥沃土地。在发展文明的同时，集合翼骑兵对抗条顿骑士和奥斯曼土耳其士兵。[NEWLINE][NEWLINE]游戏结束时拥有最高得分的玩家将获得胜利。</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_POLAND_SCENARIO" Language="zh_Hans_CN">
+      <Text>您治下是一个联合王国，波兰王国和立陶宛大公国合二为一、取长补短。在混乱不堪的欧洲，您拥有选举君主制、宗教宽容和权贵共享的广泛合法权益，就像发光的灯塔一样启迪着人心。但明亮的光芒也会引起小人的注意。面对棘手的敌人，您能否维持苦心经营的联邦？</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_POLANDSCENARIO_MAP_NAME" Language="zh_Hans_CN">
+      <Text>东欧</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_RADZIWILL_ABILITY_NAME" Language="zh_Hans_CN">
+      <Text>贵族民主制</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_RADZIWILL_ABILITY_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>在友好领土内建成军营或堡垒后对相邻单元格施放文化炸弹。当前政体的一个军事政策槽位将转换为一个通配符槽位。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_POTOCKI_ABILITY_NAME" Language="zh_Hans_CN">
+      <Text>贵族民主制</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_POTOCKI_ABILITY_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>在友好领土内建成军营或堡垒后对相邻单元格施放文化炸弹。当前政体的一个军事政策槽位将转换为一个通配符槽位。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_OSTROGSKI_ABILITY_NAME" Language="zh_Hans_CN">
+      <Text>贵族民主制</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_OSTROGSKI_ABILITY_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>在友好领土内建成军营或堡垒后对相邻单元格施放文化炸弹。当前政体的一个军事政策槽位将转换为一个通配符槽位。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_RADZIWILL_NAME" Language="zh_Hans_CN">
+      <Text>涅斯维日城堡</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_RADZIWILL_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>训练军事工程师时额外多获得一个单位。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_RADZIWILL_ALT_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>训练建造者或军事工程师时额外获得一个相同单位。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_POTOCKI_NAME" Language="zh_Hans_CN">
+      <Text>骑兵上尉</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_POTOCKI_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>训练骑士或翼骑兵时额外获得一个相同单位。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_OSTROGSKI_NAME" Language="zh_Hans_CN">
+      <Text>战场盖特曼</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_OSTROGSKI_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>训练长矛兵时额外获得一个相同单位。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_OSTROGSKI_ALT_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>训练长矛兵时额外获得一个相同单位。获得哥萨克骑兵作为第二个特色单位。</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_POLAND_SCENARIO_RADZIWILL_NAME" Language="es_ES">
+      <Text>Nobleza lituana</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_POLAND_SCENARIO_POTOCKI_NAME" Language="es_ES">
+      <Text>Nobleza polaca</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_POLAND_SCENARIO_OSTROGSKI_NAME" Language="es_ES">
+      <Text>Nobleza de Volinia</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_RADZIWILL_NAME" Language="es_ES">
+      <Text>Nobleza lituana</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_POTOCKI_NAME" Language="es_ES">
+      <Text>Nobleza polaca</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_OSTROGSKI_NAME" Language="es_ES">
+      <Text>Nobleza de Volinia</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_POLAND_SCENARIO_RADZIWILL_NAME" Language="es_ES">
+      <Text>Mikolaj Radziwiłł</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_POLAND_SCENARIO_POTOCKI_NAME" Language="es_ES">
+      <Text>Stanislaw Potocki</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_POLAND_SCENARIO_OSTROGSKI_NAME" Language="es_ES">
+      <Text>Konstanty Ostrogski</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_RADZIWILL_NAME" Language="es_ES">
+      <Text>Mikolaj Radziwiłł</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_POTOCKI_NAME" Language="es_ES">
+      <Text>Stanislaw Potocki</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_OSTROGSKI_NAME" Language="es_ES">
+      <Text>Konstanty Ostrogski</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_POLAND_SCENARIO_NAME" Language="es_ES">
+      <Text>El legado de Eduviges</Text>
+    </Replace>
+    <Replace Tag="LOC_POLAND_SCENARIO_TOOLTIP" Language="es_ES">
+      <Text>¿Quién es capaz de defender mejor la Polonia renacentista frente a las invasiones extranjeras? Dura 60 turnos.</Text>
+    </Replace>
+    <Replace Tag="LOC_POLAND_SCENARIO_DESCRIPTION" Language="es_ES">
+      <Text>En este escenario de 60 turnos te encuentras en la encrucijada de Europa y debes proteger los fértiles territorios polacos de las constantes invasiones. Congrega a tus Húsares alados y enfréntate a los Caballeros teutones y a los Turcos otomanos mientras haces crecer a tu civilización.[NEWLINE][NEWLINE]Ganará el jugador con el mejor imperio según la puntuación estándar al final de la partida.</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_POLAND_SCENARIO" Language="es_ES">
+      <Text>Tu nación está unida y la fusión del Reino de Polonia y el Gran Ducado de Lituania crea un todo mayor que la suma de sus partes. Con tu monarca electo, la tolerancia religiosa y los amplios derechos legales compartidos por tus magnates, eres un faro que ilumina a una Europa sumida en el caos. Pero muchos malintencionados se sentirán atraídos por esa luz. ¿Podrás defender frente a tus enemigos la unión que tanto te ha costado lograr?</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_POLANDSCENARIO_MAP_NAME" Language="es_ES">
+      <Text>Europa del este</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_RADZIWILL_ABILITY_NAME" Language="es_ES">
+      <Text>Libertad dorada</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_RADZIWILL_ABILITY_DESCRIPTION" Language="es_ES">
+      <Text>Bombardea culturalmente las casillas adyacentes al completar un Campamento o un Fuerte en territorio amistoso. Un espacio de política militar en el gobierno actual se convierte en un espacio comodín.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_POTOCKI_ABILITY_NAME" Language="es_ES">
+      <Text>Libertad dorada</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_POTOCKI_ABILITY_DESCRIPTION" Language="es_ES">
+      <Text>Bombardea culturalmente las casillas adyacentes al completar un Campamento o un Fuerte en territorio amistoso. Un espacio de política militar en el gobierno actual se convierte en un espacio comodín.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_OSTROGSKI_ABILITY_NAME" Language="es_ES">
+      <Text>Libertad dorada</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_OSTROGSKI_ABILITY_DESCRIPTION" Language="es_ES">
+      <Text>Bombardea culturalmente las casillas adyacentes al completar un Campamento o un Fuerte en territorio amistoso. Un espacio de política militar en el gobierno actual se convierte en un espacio comodín.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_RADZIWILL_NAME" Language="es_ES">
+      <Text>Castillo de Nesvizh</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_RADZIWILL_DESCRIPTION" Language="es_ES">
+      <Text>Recibe un segundo Ingeniero militar cada vez que entrenes a uno.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_RADZIWILL_ALT_DESCRIPTION" Language="es_ES">
+      <Text>Recibe un segundo Constructor o Ingeniero militar cada vez que entrenes a uno.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_POTOCKI_NAME" Language="es_ES">
+      <Text>Rotmistrz</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_POTOCKI_DESCRIPTION" Language="es_ES">
+      <Text>Recibe un segundo Caballero o Húsar alado cada vez que entrenes a uno.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_OSTROGSKI_NAME" Language="es_ES">
+      <Text>Hetman de campaña</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_OSTROGSKI_DESCRIPTION" Language="es_ES">
+      <Text>Recibe un segundo Piquero cada vez que entrenes a uno.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_OSTROGSKI_ALT_DESCRIPTION" Language="es_ES">
+      <Text>Recibe un segundo Piquero cada vez que entrenes a uno. Recibe Cosacos como segunda unidad exclusiva.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_POLAND_SCENARIO_RADZIWILL_NAME" Language="zh_Hant_HK">
+      <Text>立陶宛貴族</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_POLAND_SCENARIO_POTOCKI_NAME" Language="zh_Hant_HK">
+      <Text>波蘭貴族</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_POLAND_SCENARIO_OSTROGSKI_NAME" Language="zh_Hant_HK">
+      <Text>沃里尼亞貴族</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_RADZIWILL_NAME" Language="zh_Hant_HK">
+      <Text>立陶宛貴族</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_POTOCKI_NAME" Language="zh_Hant_HK">
+      <Text>波蘭貴族</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_OSTROGSKI_NAME" Language="zh_Hant_HK">
+      <Text>沃里尼亞貴族</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_POLAND_SCENARIO_RADZIWILL_NAME" Language="zh_Hant_HK">
+      <Text>米可拉什‧拉齊維烏</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_POLAND_SCENARIO_POTOCKI_NAME" Language="zh_Hant_HK">
+      <Text>史坦尼斯洛‧波托茨基</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_POLAND_SCENARIO_OSTROGSKI_NAME" Language="zh_Hant_HK">
+      <Text>康士坦提‧奧斯托格斯基</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_RADZIWILL_NAME" Language="zh_Hant_HK">
+      <Text>米可拉什‧拉齊維烏</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_POTOCKI_NAME" Language="zh_Hant_HK">
+      <Text>史坦尼斯洛‧波托茨基</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_OSTROGSKI_NAME" Language="zh_Hant_HK">
+      <Text>康士坦提‧奧斯托格斯基</Text>
+    </Replace>
+    <Replace Tag="LOC_POLAND_SCENARIO_NAME" Language="zh_Hant_HK">
+      <Text>雅德維加的遺產</Text>
+    </Replace>
+    <Replace Tag="LOC_POLAND_SCENARIO_TOOLTIP" Language="zh_Hant_HK">
+      <Text>誰才能保護好文藝復興時期的波蘭，使其不受外敵入侵呢？持續60回合。</Text>
+    </Replace>
+    <Replace Tag="LOC_POLAND_SCENARIO_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>在這個60回合的場景中，你站在歐洲的十字路口，必須承受住來自四面八方的侵略者的連番進攻，保護好波蘭祖國的肥沃領土。在發展自己文明的同時，集結起你的翼騎兵，與條頓騎士團和鄂圖曼土耳其軍一決雌雄吧。[NEWLINE][NEWLINE]在遊戲結束時標準得分最高的最強玩家便是勝利者。</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_POLAND_SCENARIO" Language="zh_Hant_HK">
+      <Text>你的國家是一個聯邦，波蘭王國與立陶宛大公國合二為一，但是一加一大於二。有著君主選舉制、宗教寬容，以及權貴間共享的許多法律權利的你，在歐洲的亂局中，就像是閃亮的燈塔一般耀眼。但是明亮的燈光也會招致不必要的注意。面對難纏的對手，你是否還能維持你花費無數心力所組成的邦聯呢？</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_POLANDSCENARIO_MAP_NAME" Language="zh_Hant_HK">
+      <Text>東歐</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_RADZIWILL_ABILITY_NAME" Language="zh_Hant_HK">
+      <Text>貴族民主制</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_RADZIWILL_ABILITY_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>在友方領土完成兵營或堡壘時對鄰近單元格進行文化轟炸。目前政體的一個軍事政策槽位會轉為通用槽位。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_POTOCKI_ABILITY_NAME" Language="zh_Hant_HK">
+      <Text>貴族民主制</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_POTOCKI_ABILITY_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>在友方領土完成兵營或堡壘時對鄰近單元格進行文化轟炸。目前政體的一個軍事政策槽位會轉為通用槽位。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_OSTROGSKI_ABILITY_NAME" Language="zh_Hant_HK">
+      <Text>貴族民主制</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_OSTROGSKI_ABILITY_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>在友方領土完成兵營或堡壘時對鄰近單元格進行文化轟炸。目前政體的一個軍事政策槽位會轉為通用槽位。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_RADZIWILL_NAME" Language="zh_Hant_HK">
+      <Text>涅斯維日城堡</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_RADZIWILL_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>每訓練一個軍事工程師，會額外獲得一個相同單位。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_RADZIWILL_ALT_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>每訓練一個建造者或軍事工程師，會額外獲得一個相同單位。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_POTOCKI_NAME" Language="zh_Hant_HK">
+      <Text>騎兵隊長</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_POTOCKI_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>每訓練一個騎士或翼騎兵，會額外獲得一個相同單位。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_OSTROGSKI_NAME" Language="zh_Hant_HK">
+      <Text>前線蓋特曼</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_OSTROGSKI_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>每訓練一個長矛兵，會額外獲得一個相同單位。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_SCENARIO_OSTROGSKI_ALT_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>每訓練一個長矛兵，會額外獲得一個相同單位。獲得哥薩克騎兵作為第二個特殊單位。</Text>
+    </Replace>
+  </LocalizedText>
+</GameData>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <EnglishText>
+	 <Row Tag="LOC_EXPANSION1_MOD_TITLE">
+      <Text>Expansion: Rise and Fall</Text>
+    </Row>
+    <Row Tag="LOC_EXPANSION1_MOD_TEASER">
+      <Text>An Expansion pack with Great Ages, Loyalty, Governors, Emergencies, new civilizations and leaders and much, much more!</Text>
+    </Row>
+    <Row Tag="LOC_EXPANSION1_MOD_DESCRIPTION">
+      <Text>This is a game using the Rise and Fall Expansion, which includes Great Ages, Loyalty, Governors, and Emergencies. Can you lead your people into a Golden Age of prosperity? Or will your empire face the challenges of a Dark Age?</Text>
+    </Row>
+  </EnglishText>
+</GameData>
+

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<FrontEndText>
+		<!-- Multiplayer Lobby Screen -->
+		<Row Tag="LOC_LOBBY_GAME_STARTED_TOOLTIP">
+			<Text>Game in progress</Text>
+		</Row>
+		<Row Tag="LOC_LOBBY_GAME_LOADING_SAVE_TOOLTIP">
+			<Text>Game loading save</Text>
+		</Row>
+		<Row Tag="LOC_LOBBY_GAME_VERSION_MISMATCH_TOOLTIP">
+			<Text>This game is running a different version of the game.[NEWLINE]Game: {1_GameVersion} Local: {2_GameVersion}</Text>
+		</Row>
+		<Row Tag="LOC_LOBBY_JOIN_DISABLED_VERSION_MISMATCH_TOOLTIP">
+			<Text>Unable to join games with a different version.</Text>
+		</Row>
+	</FrontEndText>
+</GameData>

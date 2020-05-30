@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <LocalizedText>
+    <Replace Tag="LOC_GRANCOLOMBIA_MAYA_MOD_TITLE" Language="pt_BR">
+      <Text>DLC: Pacote Maia e Grande Colômbia</Text>
+    </Replace>
+    <Replace Tag="LOC_GRANCOLOMBIA_MAYA_MOD_TEASER" Language="pt_BR">
+      <Text>Novas civilizações e líderes - Rainha Wac-Chanil-Ajaw dos Maias e Simón Bolívar da Grande Colômbia</Text>
+    </Replace>
+    <Replace Tag="LOC_GRANCOLOMBIA_MAYA_MOD_DESCRIPTION" Language="pt_BR">
+      <Text>Contém duas novas civilizações e líderes, seis novas Cidades-estados, dois novos recursos, três novas maravilhas da natureza, desastres adicionais e o modo de jogo Apocalipse.</Text>
+    </Replace>
+    <Replace Tag="LOC_GRANCOLOMBIA_MAYA_MOD_TITLE" Language="fr_FR">
+      <Text>Contenu téléchargeable : Pack Mayas et Grande Colombie</Text>
+    </Replace>
+    <Replace Tag="LOC_GRANCOLOMBIA_MAYA_MOD_TEASER" Language="fr_FR">
+      <Text>Nouvelles civilisations et leurs dirigeants - Dame Six Cieux des Mayas et Simón Bolívar de Grande Colombie</Text>
+    </Replace>
+    <Replace Tag="LOC_GRANCOLOMBIA_MAYA_MOD_DESCRIPTION" Language="fr_FR">
+      <Text>Contient deux nouvelles civilisations et leurs dirigeants, six cités-états, deux ressources, trois merveilles naturelles inédites, de nouvelles catastrophes ainsi que le mode de jeu Apocalypse.</Text>
+    </Replace>
+    <Replace Tag="LOC_GRANCOLOMBIA_MAYA_MOD_TITLE" Language="de_DE">
+      <Text>DLC: Maya- und Großkolumbien-Paket</Text>
+    </Replace>
+    <Replace Tag="LOC_GRANCOLOMBIA_MAYA_MOD_TEASER" Language="de_DE">
+      <Text>Neue Zivilisationen und Staatsoberhäupter - Lady Wac Chanil Ajaw der Maya und Simón Bolívar von Großkolumbien</Text>
+    </Replace>
+    <Replace Tag="LOC_GRANCOLOMBIA_MAYA_MOD_DESCRIPTION" Language="de_DE">
+      <Text>Enthält zwei neue Zivilisationen und Anführer, sechs neue Stadtstaaten, zwei neue Ressourcen, drei neue Naturwunder, zusätzliche Katastrophen und den Apokalypsen-Spielmodus.</Text>
+    </Replace>
+    <Replace Tag="LOC_GRANCOLOMBIA_MAYA_MOD_TITLE" Language="it_IT">
+      <Text>DLC: Pacchetto Maya e Grande Colombia</Text>
+    </Replace>
+    <Replace Tag="LOC_GRANCOLOMBIA_MAYA_MOD_TEASER" Language="it_IT">
+      <Text>Nuove civiltà e leader - Wac-Chanil-Ahau dei Maya e Simón Bolívar della Grande Colombia</Text>
+    </Replace>
+    <Replace Tag="LOC_GRANCOLOMBIA_MAYA_MOD_DESCRIPTION" Language="it_IT">
+      <Text>Contiene due nuovi leader con le loro civiltà, sei nuove città-stato, due nuove risorse, tre nuove Meraviglie naturali, nuovi disastri e la modalità di gioco Apocalisse.</Text>
+    </Replace>
+    <Replace Tag="LOC_GRANCOLOMBIA_MAYA_MOD_TITLE" Language="ja_JP">
+      <Text>DLC: マヤ＆大コロンビアパック</Text>
+    </Replace>
+    <Replace Tag="LOC_GRANCOLOMBIA_MAYA_MOD_TEASER" Language="ja_JP">
+      <Text>新たな文明と指導者 - マヤのレディ・シックス・スカイと大コロンビアのシモン・ボリバル</Text>
+    </Replace>
+    <Replace Tag="LOC_GRANCOLOMBIA_MAYA_MOD_DESCRIPTION" Language="ja_JP">
+      <Text>新たな文明と指導者が2つずつ、6つの都市国家、2つの資源、3つの自然遺産、さまざまな災害が追加され、新たに「黙示録」モードが登場します。</Text>
+    </Replace>
+    <Replace Tag="LOC_GRANCOLOMBIA_MAYA_MOD_TITLE" Language="ko_KR">
+      <Text>DLC: 마야 및 그란 콜롬비아 팩</Text>
+    </Replace>
+    <Replace Tag="LOC_GRANCOLOMBIA_MAYA_MOD_TEASER" Language="ko_KR">
+      <Text>새로운 문명과 지도자 - 마야의 여섯하늘 여왕과 그란 콜롬비아의 시몬 볼리바르</Text>
+    </Replace>
+    <Replace Tag="LOC_GRANCOLOMBIA_MAYA_MOD_DESCRIPTION" Language="ko_KR">
+      <Text>두 개의 새로운 문명과 두 명의 새로운 지도자, 여섯 개의 새로운 도시 국가, 두 개의 새로운 자원, 세 개의 새로운 자연경관, 추가 자연재해, 대재앙 게임 모드를 포함합니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_GRANCOLOMBIA_MAYA_MOD_TITLE" Language="pl_PL">
+      <Text>Zawartość do pobrania: Pakiet Majów i Wielkiej Kolumbii</Text>
+    </Replace>
+    <Replace Tag="LOC_GRANCOLOMBIA_MAYA_MOD_TEASER" Language="pl_PL">
+      <Text>Nowe cywilizacje i przywódcy – Pani Szóste Niebo, władczyni Majów, i Simón Bolívar, władca Wielkiej Kolumbii</Text>
+    </Replace>
+    <Replace Tag="LOC_GRANCOLOMBIA_MAYA_MOD_DESCRIPTION" Language="pl_PL">
+      <Text>Zawiera dwie nowe cywilizacje i przywódców, sześć nowych miast-państw, dwa nowe zasoby, trzy nowe cuda natury, dodatkowe katastrofy oraz tryb apokalipsy.</Text>
+    </Replace>
+    <Replace Tag="LOC_GRANCOLOMBIA_MAYA_MOD_TITLE" Language="ru_RU">
+      <Text>Набор: «Майя и Великая Колумбия»</Text>
+    </Replace>
+    <Replace Tag="LOC_GRANCOLOMBIA_MAYA_MOD_TEASER" Language="ru_RU">
+      <Text>Новые цивилизации и лидеры: Иш-Вак-Чан-Ахав, царица Майя, и Симон Боливар, президент Великой Колумбии.</Text>
+    </Replace>
+    <Replace Tag="LOC_GRANCOLOMBIA_MAYA_MOD_DESCRIPTION" Language="ru_RU">
+      <Text>Включает две новые цивилизации, двоих правителей, шесть городов-государств, два новых ресурса, три чуда природы, новые стихийные бедствия и игровой режим апокалипсиса.</Text>
+    </Replace>
+    <Replace Tag="LOC_GRANCOLOMBIA_MAYA_MOD_TITLE" Language="zh_Hans_CN">
+      <Text>DLC：玛雅和大哥伦比亚包</Text>
+    </Replace>
+    <Replace Tag="LOC_GRANCOLOMBIA_MAYA_MOD_TEASER" Language="zh_Hans_CN">
+      <Text>新文明和领袖——玛雅的六日夫人和大哥伦比亚的西蒙·玻利瓦尔</Text>
+    </Replace>
+    <Replace Tag="LOC_GRANCOLOMBIA_MAYA_MOD_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>包含2个新文明和领袖、6个新城邦、2个新资源、3个全新自然奇观、还有更多灾难，以及“天启”游戏模式。</Text>
+    </Replace>
+    <Replace Tag="LOC_GRANCOLOMBIA_MAYA_MOD_TITLE" Language="es_ES">
+      <Text>DLC: Pack de los mayas y la Gran Colombia</Text>
+    </Replace>
+    <Replace Tag="LOC_GRANCOLOMBIA_MAYA_MOD_TEASER" Language="es_ES">
+      <Text>Nuevas civilizaciones y líderes: Señora Seis Cielo de los mayas y Simón Bolívar de la Gran Colombia</Text>
+    </Replace>
+    <Replace Tag="LOC_GRANCOLOMBIA_MAYA_MOD_DESCRIPTION" Language="es_ES">
+      <Text>Contiene dos nuevas civilizaciones y líderes, seis ciudades-estado más, dos recursos adicionales, tres nuevas maravillas de la naturaleza, más desastres y el modo de juego Apocalipsis.</Text>
+    </Replace>
+    <Replace Tag="LOC_GRANCOLOMBIA_MAYA_MOD_TITLE" Language="zh_Hant_HK">
+      <Text>DLC：馬雅及大哥倫比亞包</Text>
+    </Replace>
+    <Replace Tag="LOC_GRANCOLOMBIA_MAYA_MOD_TEASER" Language="zh_Hant_HK">
+      <Text>新文明和領袖——馬雅的六天女士及大哥倫比亞的西蒙·玻利瓦</Text>
+    </Replace>
+    <Replace Tag="LOC_GRANCOLOMBIA_MAYA_MOD_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>包含2個新的文明及領袖、6個新的城邦、2種新的資源、3個新的自然奇觀、額外的災害，以及「末日」遊戲模式。</Text>
+    </Replace>
+  </LocalizedText>
+</GameData>

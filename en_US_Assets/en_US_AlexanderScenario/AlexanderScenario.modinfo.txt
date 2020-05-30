@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Mod id="2F3A65C2-0883-4BF6-8C70-EDA688C66F3C" version="1">
+	<Properties>
+		<Name>LOC_MOD_ALEXANDER_SCENARIO_TITLE</Name>
+		<Teaser>LOC_MOD_ALEXANDER_SCENARIO_TEASER</Teaser>
+		<Description>LOC_MOD_ALEXANDER_SCENARIO_DESCRIPTION</Description>
+		<Authors>LOC_MOD_AUTHORS_FIRAXIS</Authors>
+		<SupportsMultiplayer>0</SupportsMultiplayer>
+		<EnabledByDefault>1</EnabledByDefault>
+    <CompatibleVersions>2.0</CompatibleVersions>
+	</Properties>
+	<Dependencies>
+		<Mod id="E2749E9A-8056-45CD-901B-C368C8E83DEB" title="LOC_MACEDONIA_PERSIA_MOD_TITLE"/>
+	</Dependencies>
+	<ActionCriteria>
+		<Criteria id="AlexanderScenarioRequirements">
+			<RuleSetInUse>RULESET_SCENARIO_ALEXANDER</RuleSetInUse>
+		</Criteria>
+	</ActionCriteria>
+	<InGameActions>
+		<UpdateArt id="AlexanderScenarioArt" criteria="AlexanderScenarioRequirements">
+			<Include mod_id="E2749E9A-8056-45CD-901B-C368C8E83DEB" action_id="MacedoniaArt" required="1" />
+			<Include mod_id="E2749E9A-8056-45CD-901B-C368C8E83DEB" action_id="MacedoniaAudio" required="1" />
+			<Include mod_id="E2749E9A-8056-45CD-901B-C368C8E83DEB" action_id="MacedoniaGameplayIcons" required="1" />
+			<File>AlexanderScenario.dep</File>
+		</UpdateArt>
+		<UpdateColors id="AlexanderScenarioColors" criteria="AlexanderScenarioRequirements">
+			<File>Data/AlexanderScenario_PlayerColors.xml</File>
+		</UpdateColors>
+		<UpdateDatabase id="AlexanderScenarioGameplay" criteria="AlexanderScenarioRequirements">
+			<Properties>
+				<LoadOrder>100</LoadOrder>
+			</Properties>
+			<Include mod_id="E2749E9A-8056-45CD-901B-C368C8E83DEB" action_id="MacedoniaGameplay" required="1" />
+			<File Priority="1">Data/AlexanderScenario_RemoveData.xml</File>
+			<File>Data/AlexanderScenario_Buildings.xml</File>
+			<File>Data/AlexanderScenario_Civilizations.xml</File>
+			<File>Data/AlexanderScenario_Districts.xml</File>
+			<File>Data/AlexanderScenario_Eras.xml</File>
+			<File>Data/AlexanderScenario_Features.xml</File>
+			<File>Data/AlexanderScenario_GameSpeeds.xml</File>
+			<File>Data/AlexanderScenario_GlobalParameters.xml</File>
+			<File>Data/AlexanderScenario_GreatPeople.xml</File>
+			<File>Data/AlexanderScenario_Improvements.xml</File>
+			<File>Data/AlexanderScenario_Leaders.xml</File>
+			<File>Data/AlexanderScenario_Resources.xml</File>
+			<File>Data/AlexanderScenario_Routes.xml</File>
+			<File>Data/AlexanderScenario_Units.xml</File>
+			<File>Data/AlexanderScenario_Victories.xml</File>
+		</UpdateDatabase>
+		<UpdateIcons id="AlexanderScenarioGameplayIcons" criteria="AlexanderScenarioRequirements">
+			<File>Data/AlexanderScenario_Icons_Civilizations.xml</File>
+		</UpdateIcons>
+		<UpdateLogitechARX id="AlexanderScenarioARX" criteria="AlexanderScenarioRequirements">
+			<File>Data/ARX/index.html</File>
+			<File>Data/ARX/Civ_LEADER_ALEXANDER.png</File>
+			<File>Data/ARX/Civ_LEADER_DARIUS_III.png</File>
+		</UpdateLogitechARX>
+		<AddGameplayScripts id="AlexanderScenarioScripts" criteria="AlexanderScenarioRequirements">
+			<File>Scripts/AlexanderScenario.lua</File>
+		</AddGameplayScripts>
+		<UpdateText id="AlexanderScenarioText" criteria="AlexanderScenarioRequirements">
+			<Properties>
+				<LoadOrder>100</LoadOrder>
+			</Properties>
+			<Include mod_id="E2749E9A-8056-45CD-901B-C368C8E83DEB" action_id="MacedoniaText" required="1" />
+			<File Priority="1">Text/en_US/AlexanderScenario_ConfigText.xml</File>
+			<File Priority="1">Text/en_US/AlexanderScenario_CivilopediaText.xml</File>
+			<File Priority="1">Text/en_US/AlexanderScenario_Text.xml</File>
+			<File>Text/AlexanderScenario_Translations_ConfigText.xml</File>
+			<File>Text/AlexanderScenario_Translations_ConfigText_China.xml</File>
+			<File>Text/AlexanderScenario_Translations_Text.xml</File>
+			<File>Text/AlexanderScenario_Translations_Text_China.xml</File>
+		</UpdateText>
+    
+    <ReplaceUIScript id="WorldRankings_AlexanderScenario" criteria="AlexanderScenarioRequirements">
+      <Properties>
+        <LuaContext>WorldRankings</LuaContext>
+        <LuaReplace>UI/Replacements/WorldRankings_AlexanderScenario.lua</LuaReplace>
+      </Properties>
+    </ReplaceUIScript>
+		<ImportFiles id="AlexanderScenarioUI" criteria="AlexanderScenarioRequirements">
+			<File>UI/ARXManager.lua</File>
+      <File>UI/Replacements/WorldRankings_AlexanderScenario.lua</File>
+			<File>UI/WorldRankings.xml</File>
+		</ImportFiles>
+    
+	</InGameActions>
+	<FrontEndActions>
+		<UpdateArt id="AlexanderScenarioConfigArt">
+			<File>AlexanderScenario.dep</File>
+		</UpdateArt>
+		<AddMap id="AlexanderScenarioMap">
+			<Properties>
+				<Group>AlexanderScenario_Maps</Group>
+				<Name>LOC_MOD_ALEXANDERSCENARIO_MAP_NAME</Name>
+			</Properties>
+			<File>Map/Alexander.Civ6Map</File>
+		</AddMap>
+		<UpdateDatabase id="AlexanderScenarioSettings">
+			<File>Data/AlexanderScenario_Config.xml</File>
+		</UpdateDatabase>
+		<UpdateText id="AlexanderScenarioSettingText">
+			<File Priority="1">Text/en_US/AlexanderScenario_ConfigText.xml</File>
+			<File>Text/AlexanderScenario_Translations_ConfigText.xml</File>
+			<File>Text/AlexanderScenario_Translations_ConfigText_China.xml</File>
+		</UpdateText>
+	</FrontEndActions>
+	<Files>
+		<File>AlexanderScenario.dep</File>
+		<File>Data/ARX/index.html</File>
+		<File>Data/ARX/Civ_LEADER_ALEXANDER.png</File>
+		<File>Data/ARX/Civ_LEADER_DARIUS_III.png</File>
+		<File>Data/AlexanderScenario_Buildings.xml</File>
+		<File>Data/AlexanderScenario_Civilizations.xml</File>
+		<File>Data/AlexanderScenario_Config.xml</File>
+		<File>Data/AlexanderScenario_Districts.xml</File>
+		<File>Data/AlexanderScenario_Eras.xml</File>
+		<File>Data/AlexanderScenario_Features.xml</File>
+		<File>Data/AlexanderScenario_GameSpeeds.xml</File>
+		<File>Data/AlexanderScenario_GlobalParameters.xml</File>
+		<File>Data/AlexanderScenario_GreatPeople.xml</File>
+		<File>Data/AlexanderScenario_Icons_Civilizations.xml</File>
+		<File>Data/AlexanderScenario_Improvements.xml</File>
+		<File>Data/AlexanderScenario_Leaders.xml</File>
+		<File>Data/AlexanderScenario_PlayerColors.xml</File>
+		<File>Data/AlexanderScenario_RemoveData.xml</File>
+		<File>Data/AlexanderScenario_Resources.xml</File>
+		<File>Data/AlexanderScenario_Routes.xml</File>
+		<File>Data/AlexanderScenario_Units.xml</File>
+		<File>Data/AlexanderScenario_Victories.xml</File>
+		<File>Map/Alexander.Civ6Map</File>
+		<File>Scripts/AlexanderScenario.lua</File>
+		<File>Text/AlexanderScenario_Translations_ConfigText.xml</File>
+		<File>Text/AlexanderScenario_Translations_ConfigText_China.xml</File>
+		<File>Text/AlexanderScenario_Translations_Text.xml</File>
+		<File>Text/AlexanderScenario_Translations_Text_China.xml</File>
+		<File>Text/en_US/AlexanderScenario_CivilopediaText.xml</File>
+		<File>Text/en_US/AlexanderScenario_ConfigText.xml</File>
+		<File>Text/en_US/AlexanderScenario_Text.xml</File>
+		<File>UI/ARXManager.lua</File>
+    <File>UI/Replacements/WorldRankings_AlexanderScenario.lua</File>
+		<File>UI/WorldRankings.xml</File>
+	</Files>
+</Mod>

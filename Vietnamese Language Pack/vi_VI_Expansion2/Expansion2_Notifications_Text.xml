@@ -1,0 +1,265 @@
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+    <Replace Language='en_US' Tag="LOC_NOTIFICATION_GAIN_DIPLO_POINTS_MESSAGE">
+      <Text>Diplomatic Victory Points</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_NOTIFICATION_GAIN_DIPLO_POINTS_SUMMARY">
+      <Text>World Congress has awarded you {1_Value} Diplomatic Victory Points.</Text>
+    </Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_VOLCANO_ACTIVE_MESSAGE">
+			<Text>Volcano Becomes Active</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_VOLCANO_ACTIVE_SUMMARY">
+			<Text>{1_VolcanoName} is now active. It could erupt at any time.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_VOLCANO_INACTIVE_MESSAGE">
+			<Text>Volcano Becomes Dormant</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_VOLCANO_INACTIVE_SUMMARY">
+			<Text>{1_VolcanoName} is now dormant. There is no longer any danger of it erupting.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_VOLCANO_ERUPTS_SEV0_MESSAGE">
+			<Text>Gentle Volcanic Eruption</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_VOLCANO_ERUPTS_SEV0_SUMMARY">
+			<Text>{1_VolcanoName} has erupted. Thankfully damage appears to be light ({2_Tiles} {2_Tiles: plural 1?tile; other?tiles;} damaged, {3_Pop} [ICON_CITIZEN] population lost, {4_Units} {4_Units: plural 1?unit; other?units;} killed, {5_Yields} {5_Yields: plural 1?tile; other?tiles;} gained fertility).</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_VOLCANO_ERUPTS_SEV1_MESSAGE">
+			<Text>Catastrophic Volcanic Eruption</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_VOLCANO_ERUPTS_SEV1_SUMMARY">
+			<Text>{1_VolcanoName} has erupted. Damage in the area is severe ({2_Tiles} {2_Tiles: plural 1?tile; other?tiles;} damaged, {3_Pop} [ICON_CITIZEN] population lost, {4_Units} {4_Units: plural 1?unit; other?units;} killed, {5_Yields} {5_Yields: plural 1?tile; other?tiles;} gained fertility).</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_VOLCANO_ERUPTS_SEV2_MESSAGE">
+			<Text>Megacolossal Volcano Erupts!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_VOLCANO_ERUPTS_SEV2_SUMMARY">
+			<Text>{1_VolcanoName} has erupted in one of the deadliest explosions known to mankind ({2_Tiles} {2_Tiles: plural 1?tile; other?tiles;} damaged, {3_Pop} [ICON_CITIZEN] population lost, {4_Units} {4_Units: plural 1?unit; other?units;} killed, {5_Yields} {5_Yields: plural 1?tile; other?tiles;} gained fertility).</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_RIVER_FLOODS_SEV0_MESSAGE">
+			<Text>River Floods</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_RIVER_FLOODS_SEV0_SUMMARY">
+			<Text>The river {1_RiverName} has flooded. Thankfully damage appears to be light ({2_Tiles} {2_Tiles: plural 1?tile; other?tiles;} damaged, {3_Pop} [ICON_CITIZEN] population lost, {4_Units} {4_Units: plural 1?unit; other?units;} killed, {5_Yields} {5_Yields: plural 1?tile; other?tiles;} gained fertility).</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_RIVER_FLOODS_SEV1_MESSAGE">
+			<Text>Major River Flooding</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_RIVER_FLOODS_SEV1_SUMMARY">
+			<Text>The {1_RiverName} has flooded. Damage in the area is severe ({2_Tiles} {2_Tiles: plural 1?tile; other?tiles;} damaged, {3_Pop} [ICON_CITIZEN] population lost, {4_Units} {4_Units: plural 1?unit; other?units;} killed, {5_Yields} {5_Yields: plural 1?tile; other?tiles;} gained fertility).</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_RIVER_FLOODS_SEV2_MESSAGE">
+			<Text>Record-Setting River Flooding</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_RIVER_FLOODS_SEV2_SUMMARY">
+			<Text>The {1_RiverName} has flooded and devastated the area as never seen before ({2_Tiles} {2_Tiles: plural 1?tile; other?tiles;} damaged, {3_Pop} [ICON_CITIZEN] population lost, {4_Units} {4_Units: plural 1?unit; other?units;} killed, {5_Yields} {5_Yields: plural 1?tile; other?tiles;} gained fertility).</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_RIVER_FLOOD_MITIGATED_MESSAGE">
+			<Text>River Flooding Prevented</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_RIVER_FLOOD_MITIGATED_SUMMARY">
+			<Text>The heavy rains along the {1_RiverName} could have been a major problem. Thankfully {LOC_GRAMMAR_A_AN &lt;&lt; {2_BuildingOrDistrict}} {2_BuildingOrDistrict: plural 1?was; other?were;} in place to control the rising waters. ({3_Yields} {3_Yields: plural 1?tile; other?tiles;} gained fertility)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_STORM_ARRIVED_MESSAGE">
+			<Text>Violent Storm!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_STORM_ARRIVED_SUMMARY">
+			<Text>A {1_StormType} named {2_StormName} has developed and is headed to the {3_Direction}. The storm will cause destruction over the next two turns. (With its arrival there were {4_Tiles} {4_Tiles: plural 1?tile; other?tiles;} damaged, {5_Pop} [ICON_CITIZEN] population lost, {6_Units} {6_Units: plural 1?unit; other?units;} killed, {7_Yields} {7_Yields: plural 1?tile; other?tiles;} gained fertility)</Text>
+		</Replace>
+    <Replace Language='en_US' Tag="LOC_NOTIFICATION_STORM_ARRIVED_LOSSES_SUMMARY">
+      <Text>A {1_StormType} named {2_StormName} has developed and is headed to the {3_Direction}. The storm will cause destruction over the next two turns. (With its arrival there were {4_Tiles} {4_Tiles: plural 1?tile; other?tiles;} damaged, {5_Pop} [ICON_CITIZEN] population lost, {6_Units} {6_Units: plural 1?unit; other?units;} killed, {7_Yields} {7_Yields: plural 1?tile; other?tiles;} lost fertility)</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_NOTIFICATION_STORM_MOVED_MESSAGE">
+			<Text>Storm Rages On</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_STORM_MOVED_SUMMARY">
+			<Text>The {1_StormType} named {2_StormName} continues its movement and is now headed to the {3_Direction}. (During this turn there were {4_Tiles} {4_Tiles: plural 1?tile; other?tiles;} damaged, {5_Pop} [ICON_CITIZEN] population lost, {6_Units} {6_Units: plural 1?unit; other?units;} killed, {7_Yields} {7_Yields: plural 1?tile; other?tiles;} gained fertility)</Text>
+		</Replace>
+    <Replace Language='en_US' Tag="LOC_NOTIFICATION_STORM_MOVED_LOSSES_SUMMARY">
+      <Text>The {1_StormType} named {2_StormName} continues its movement and is now headed to the {3_Direction}. (During this turn there were {4_Tiles} {4_Tiles: plural 1?tile; other?tiles;} damaged, {5_Pop} [ICON_CITIZEN] population lost, {6_Units} {6_Units: plural 1?unit; other?units;} killed, {7_Yields} {7_Yields: plural 1?tile; other?tiles;} lost fertility)</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_NOTIFICATION_STORM_DISSIPATED_MESSAGE">
+			<Text>Storm Peters Out</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_STORM_DISSIPATED_SUMMARY">
+			<Text>The {1_StormType} named {2_StormName}, now weaker, has made its final move across the map. (During this turn there were {3_Tiles} {3_Tiles: plural 1?tile; other?tiles;} damaged, {4_Pop} [ICON_CITIZEN] population lost, {5_Units} {5_Units: plural 1?unit; other?units;} killed, {6_Yields} {6_Yields: plural 1?tile; other?tiles;} gained fertility)</Text>
+		</Replace>
+    <Replace Language='en_US' Tag="LOC_NOTIFICATION_STORM_DISSIPATED_LOSSES_SUMMARY">
+      <Text>The {1_StormType} named {2_StormName}, now weaker, has made its final move across the map. (During this turn there were {3_Tiles} {3_Tiles: plural 1?tile; other?tiles;} damaged, {4_Pop} [ICON_CITIZEN] population lost, {5_Units} {5_Units: plural 1?unit; other?units;} killed, {6_Yields} {6_Yields: plural 1?tile; other?tiles;} lost fertility)</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_NOTIFICATION_DROUGHT_ARRIVED_MESSAGE">
+			<Text>Drought!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_DROUGHT_ARRIVED_SUMMARY">
+			<Text>A {1_DroughtType} has struck. Named the {2_DroughtName} Drought, this severe lack of rainfall can damage improvements and will curb [ICON_Food] Food output for the next {3_Duration} turns. ({4_Tiles} {4_Tiles: plural 1?tile; other?tiles;} damaged)</Text>
+		</Replace>
+    <Replace Language='en_US' Tag="LOC_NOTIFICATION_DROUGHT_ARRIVED_LOSSES_SUMMARY">
+      <Text>A {1_DroughtType} has struck. Named the {2_DroughtName} Drought, this severe lack of rainfall can damage improvements and will curb [ICON_Food] Food output for the next {3_Duration} turns. ({4_Tiles} {4_Tiles: plural 1?tile; other?tiles;} damaged, {5_Yields} {5_Yields: plural 1?tile; other?tiles;} lost fertility)</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_NOTIFICATION_DROUGHT_CLEARED_MESSAGE">
+			<Text>Welcome Rainfall</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_DROUGHT_CLEARED_SUMMARY">
+			<Text>At last rain has arrived to alleviate the suffering from the {1_DroughtType}. Already our crops are recovering and the {2_DroughtName} Drought is now a footnote in the historical record.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_EVENT_AVOIDED_MESSAGE">
+			<Text>Crisis Averted</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_EVENT_AVOIDED_SUMMARY">
+			<Text>The {1_RandomEvent} was avoided by {2_civName}, preventing damage to their civilization.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_RISING_SEA_LEVEL_FLOODED_MESSAGE">
+			<Text>Permanent Coastal Flooding</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_RISING_SEA_LEVEL_FLOODED_SUMMARY">
+			<Text>The sea level has risen. All coastal lowland tiles marked as '{1_Name}' have been permanently flooded.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_RISING_SEA_LEVEL_SUBMERGED_MESSAGE">
+			<Text>Coastal Tiles Lost</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_RISING_SEA_LEVEL_SUBMERGED_SUMMARY">
+			<Text>The sea level has risen further. All coastal lowland tiles marked as '{1_Name}' have been submerged and lost to the sea.</Text>
+		</Replace>
+    <Replace Language='en_US' Tag="LOC_NOTIFICATION_RISING_SEA_LEVEL_SUMMARY_TEMPLATE">
+      <Text>{1_Summary}[NEWLINE][NEWLINE]{2_LongDescription}</Text>
+    </Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_CITY_UNPOWERED_MESSAGE">
+			<Text>City Unpowered</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_CITY_UNPOWERED_SUMMARY">
+			<Text>Buildings or Projects in {1_CityName} can be enhanced by {2_PowerRequired} [ICON_Power]Power, but the city only has {3_PowerAvailable}. They will be less effective until [ICON_Power]Power is restored.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_PLAYER_WMD_DISARMAMENT_MESSAGE">
+			<Text>Nuclear Disarmament</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_PLAYER_WMD_DISARMAMENT_SUMMARY">
+			<Text>Due to the actions of the World Congress, you have been forced to decommission your nuclear arsenal.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_PLAYER_WMD_POSITIVE_ADJUSTMENT_MESSAGE">
+			<Text>Nuclear Weapon Equalization</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_PLAYER_WMD_POSITIVE_ADJUSTMENT_SUMMARY">
+			<Text>Due to the actions of the World Congress, your nuclear weapons arsenal has been increased to match that of other civilizations.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_PLAYER_WMD_NEGATIVE_ADJUSTMENT_MESSAGE">
+			<Text>Arms Reduction</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_PLAYER_WMD_NEGATIVE_ADJUSTMENT_SUMMARY">
+			<Text>Due to the actions of the World Congress, you have been forced to reduce your nuclear weapons arsenal to match that of other civilizations.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_SPY_BREACH_DAM_MESSAGE">
+			<Text>Success Breaching Dam</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_SPY_BREACH_DAM_SUMMARY">
+			<Text>Your agent {1_unitName} succeeded in breaching the Dam in the city of {2_cityName}.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_SPY_ENEMY_BREACH_DAM_MESSAGE">
+			<Text>Enemy Spy Breached Dam</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_SPY_ENEMY_BREACH_DAM_SUMMARY">
+			<Text>An enemy Spy succeeded in breaching the Dam in the city of {1_cityName}.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_NUCLEAR_ACCIDENT_SEV0_MESSAGE">
+			<Text>Radioactive Steam Venting!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_NUCLEAR_ACCIDENT_SEV0_SUMMARY">
+			<Text>A Nuclear Power Plant in {1_CityName} has suffered a malfunction and was forced to vent a small amount of radioactive steam to avoid a major catastrophe. (During this turn there were {2_Tiles} {2_Tiles: plural 1?tile; other?tiles;} affected, {3_Pop} [ICON_CITIZEN] population lost, and {4_Units} {4_Units: plural 1?unit; other?units;} killed.)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_NUCLEAR_ACCIDENT_SEV1_MESSAGE">
+			<Text>Radiation Leak!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_NUCLEAR_ACCIDENT_SEV1_SUMMARY">
+			<Text>A Nuclear Power Plant in {1_CityName} has suffered a major failure causing a crack in the reactor. A large amount of radioactivity has been released into the surrounding area. (During this turn there were {2_Tiles} {2_Tiles: plural 1?tile; other?tiles;} affected, {3_Pop} [ICON_CITIZEN] population lost, and {4_Units} {4_Units: plural 1?unit; other?units;} killed.)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_NUCLEAR_ACCIDENT_SEV2_MESSAGE">
+			<Text>Nuclear Meltdown!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_NUCLEAR_ACCIDENT_SEV2_SUMMARY">
+			<Text>A Nuclear Power Plant in {1_CityName} has suffered a catastrophic failure causing a a total reactor meltdown. A lethal amount of radioactivity has been released into the surrounding area. (During this turn there were {2_Tiles} {2_Tiles: plural 1?tile; other?tiles;} affected, {3_Pop} [ICON_CITIZEN] population lost, and {4_Units} {4_Units: plural 1?unit; other?units;} killed.)</Text>
+		</Replace>
+		<!--DIPLOMACY-->
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_DIPLO_PROMISE_FROM_BROKEN_SUMMARY">
+			<Text>The promise made to you by the {1_CivName} to {2_PromiseType} has been broken (100 [ICON_STAT_GRIEVANCE] Grievances generated).</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_DIPLO_PROMISE_TO_BROKEN_SUMMARY">
+			<Text>Your promise to the {1_CivName} to {2_PromiseType} has been broken (100 [ICON_STAT_GRIEVANCE] Grievances generated).</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_DIPLO_NO_PROMISE_FROM_BUT_REPEATED_MESSAGE">
+			<Text>Additional Grievances Against Opponent</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_DIPLO_NO_PROMISE_FROM_BUT_REPEATED_SUMMARY">
+			<Text>You asked for a promise from the {1_CivName} to {2_PromiseType} and they declined. In fact, they have continued to do this, adding 25 additional [ICON_STAT_GRIEVANCE] Grievances against them.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_DIPLO_NO_PROMISE_TO_BUT_REPEATED_MESSAGE">
+			<Text>Additional Grievances Against You</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_DIPLO_NO_PROMISE_TO_BUT_REPEATED_SUMMARY">
+			<Text>The {1_CivName} asked you for a promise to {2_PromiseType} and you declined. In fact, you have continued to do this, adding 25 additional [ICON_STAT_GRIEVANCE] Grievances against you.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_WORLD_CONGRESS_SPECIAL_SESSION_BLOCKING_MESSAGE">
+			<Text>World Congress is about to Meet</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_WORLD_CONGRESS_SPECIAL_SESSION_BLOCKING_SUMMARY">
+			<Text>Someone has called for a Special Session of the World Congress.  Please choose what you wish to discuss (if anything) at this session.  It will begin at the end of this turn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_WORLD_CONGRESS_SPECIAL_SESSION_NON_BLOCKING_MESSAGE">
+			<Text>World Congress is about to Meet</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_WORLD_CONGRESS_SPECIAL_SESSION_NON_BLOCKING_SUMMARY">
+			<Text>Someone has called for a Special Session of the World Congress.  It will begin at the end of this turn.</Text>
+		</Replace>
+    <Replace Language='en_US' Tag="LOC_NOTIFICATION_WORLD_CONGRESS_SPECIAL_SESSION_CAN_BE_CALLED_MESSAGE">
+      <Text>Discussions Available for Proposal</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_NOTIFICATION_WORLD_CONGRESS_SPECIAL_SESSION_CAN_BE_CALLED_SUMMARY">
+      <Text>It is now possible for you to call a Special Session of the World Congress.</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_NOTIFICATION_WORLD_CONGRESS_EMERGENCY_CAN_BE_CALLED_MESSAGE">
+      <Text>New Discussion Available for Proposal</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_NOTIFICATION_WORLD_CONGRESS_EMERGENCY_CAN_BE_CALLED_SUMMARY">
+      <Text>Due to recent world events, you now have new concerns to bring to the World Congress' attention in a Special Session.</Text>
+    </Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_GRIEVANCES_AGAINST_YOU_MESSAGE">
+			<Text>Grievances Against You</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_GRIEVANCES_AGAINST_YOU_SUMMARY">
+			<Text>The {1_DeclaringCivName} has declared war against the {2_TargetCivName}, one of your friends or allies. You now have {3_NumGrievances} new [ICON_STAT_GRIEVANCE] Grievances against them.</Text>
+		</Replace>
+    <!--SPECULATIVE NOTIFICATION TEXT (ADDED AT TEXT-LOCK, MOVE UP IF ACTUALLY MAKE IT INTO GAME)-->
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_CITY_LIBERATED_TO_YOU_MESSAGE">
+			<Text>Your City Liberated</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_CITY_LIBERATED_TO_YOU_SUMMARY">
+			<Text>Your citizens in {1_CityName} rejoice at their liberation. They are rejoining your empire thanks to this magnanimous act courtesy of {2_LiberatingLeader}.</Text>
+		</Replace>
+    <Replace Language='en_US' Tag="LOC_NOTIFICATION_SCORED_COMPETITION_BEGUN_MESSAGE">
+      <Text>Scored Competition Begun</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_NOTIFICATION_SCORED_COMPETITION_BEGUN_SUMMARY">
+      <Text>According to the decision of the World Congress, a {1_CompetitionName} Scored Competition has begun.</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_NOTIFICATION_REQUEST_FOR_AID_BEGUN_SUMMARY">
+      <Text>To assist {1_CivName} in their time of need, an Aid Request Scored Competition has begun.</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_NOTIFICATION_SCORED_COMPETITION_OVER_MESSAGE">
+      <Text>Scored Competition Completed</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_NOTIFICATION_SCORED_COMPETITION_OVER_SUMMARY">
+      <Text>The {1_CompetitionName} Scored Competition has come to an end.  Rewards have been awarded to those who participated.</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_NOTIFICATION_RECEIVED_AID_MESSAGE">
+      <Text>Aid Received</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_NOTIFICATION_RECEIVED_AID_SUMMARY">
+      <Text>{1_PlayerName} has sent you {2_Amount} [ICON_Gold] Gold as Aid.</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_NOTIFICATION_ROCK_BANDS_PROHIBITED_MESSAGE">
+      <Text>{LOC_GRAMMAR_LEADER_UPPER &lt;&lt; {1_leader}} Censors Rock Music</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_NOTIFICATION_ROCK_BANDS_PROHIBITED_SUMMARY">
+      <Text>{LOC_GRAMMAR_LEADER_UPPER &lt;&lt; {1_leader}} {1_leader: plural 1?is; other?are;} now prohibiting rock concerts. Your Rock Bands inside their empire have been displaced to a tile just outside their lands.</Text>
+    </Replace>
+	</LocalizedText>
+</GameData>

@@ -1,0 +1,2152 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <LocalizedText>
+    <Replace Tag="LOC_IMPROVEMENT_SCENARIO_ALCAZAR_NAME" Language="pt_BR">
+      <Text>Alcácer|Alcáceres</Text>
+      <Gender>masculine|masculine</Gender>
+      <Plurality>1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_SCENARIO_MONASTERY_NAME" Language="pt_BR">
+      <Text>Monastério|Monastérios</Text>
+      <Gender>masculine|masculine</Gender>
+      <Plurality>1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_DENMARK_DESCRIPTION" Language="pt_BR">
+      <Text>Império Dinamarquês</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_SWEDEN_DESCRIPTION" Language="pt_BR">
+      <Text>Império Sueco</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_AL_ANDALUS_DESCRIPTION" Language="pt_BR">
+      <Text>Califado de Al-Andalus</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_BYZANTIUM_DESCRIPTION" Language="pt_BR">
+      <Text>Império Bizantino</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_FRANCIA_DESCRIPTION" Language="pt_BR">
+      <Text>Império Franco</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_DENMARK_NAME" Language="pt_BR">
+      <Text>Dinamarca</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_SWEDEN_NAME" Language="pt_BR">
+      <Text>Suécia</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_AL_ANDALUS_NAME" Language="pt_BR">
+      <Text>Al-Andalus</Text>
+      <Gender>neutral</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_BYZANTIUM_NAME" Language="pt_BR">
+      <Text>Bizâncio</Text>
+      <Gender>neutral</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_FRANCIA_NAME" Language="pt_BR">
+      <Text>Frância</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_AL_HAKAM_II_NAME" Language="pt_BR">
+      <Text>Al-Hakam II</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_BASIL_II_NAME" Language="pt_BR">
+      <Text>Basílio II</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_CHARLEMAGNE_NAME" Language="pt_BR">
+      <Text>Carlos Magno</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_CNUT_NAME" Language="pt_BR">
+      <Text>Canuto</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_OLOF_NAME" Language="pt_BR">
+      <Text>Olavo da Suécia</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_MAP_NAME" Language="pt_BR">
+      <Text>Midgard</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_MAP_DESCRIPTION" Language="pt_BR">
+      <Text>A terra dos vikings.</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_GAMESPEED_VALHALLA_NAME" Language="pt_BR">
+      <Text>Valhala</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_GAMESPEED_VALHALLA_HELP" Language="pt_BR">
+      <Text>A velocidade do combate eterno.</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_ERA_EARLY_NAME" Language="pt_BR">
+      <Text>Lindisfarne</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_ERA_EARLY_DESCRIPTION" Language="pt_BR">
+      <Text>A Era Lindisfarne é o início dos vikings.</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_ERA_MIDDLE_NAME" Language="pt_BR">
+      <Text>Rus</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_ERA_MIDDLE_DESCRIPTION" Language="pt_BR">
+      <Text>A Era Rus é o ápice dos vikings.</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_ERA_LATE_NAME" Language="pt_BR">
+      <Text>Hastings</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_ERA_LATE_DESCRIPTION" Language="pt_BR">
+      <Text>A Era Hastings é o fim dos vikings.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_VIKING_NAME" Language="pt_BR">
+      <Text>Viking</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_VIKING_DESCRIPTION" Language="pt_BR">
+      <Text>Ignora custos adicionais de movimento para embarcar e desembarcar.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_FRANKISH_NAME" Language="pt_BR">
+      <Text>Franco</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_FRANKISH_DESCRIPTION" Language="pt_BR">
+      <Text>A maravilha Monte Saint-Michel está localizada em Rouen.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_MOORISH_NAME" Language="pt_BR">
+      <Text>Mouro</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_MOORISH_DESCRIPTION" Language="pt_BR">
+      <Text>A maravilha Alambra está localizada em Išbiliya.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_BYZANTINE_NAME" Language="pt_BR">
+      <Text>Bizantino</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_BYZANTINE_DESCRIPTION" Language="pt_BR">
+      <Text>A maravilha Hagia Sophia está localizada em Constantinopla.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_EXTRA_MILITARY_SLOT_NAME" Language="pt_BR">
+      <Text>Império do Mar do Norte</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_EXTRA_MILITARY_SLOT_DESCRIPTION" Language="pt_BR">
+      <Text>Possui um espaço de política militar extra. Pode construir Colonos, Dracares Vikings, Missionários e o Porto.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_FASTER_SHIPS_DESCRIPTION" Language="pt_BR">
+      <Text>Unidades navais possuem +2 de movimento. Pode construir Colonos, Dracares Vikings, Missionários e o distrito de Porto.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_EXTRA_ECONOMIC_SLOT_NAME" Language="pt_BR">
+      <Text>Rei do Tesouro</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_EXTRA_ECONOMIC_SLOT_DESCRIPTION" Language="pt_BR">
+      <Text>Possui um espaço de política econômica extra. Pode construir Colonos, Dracares Vikings, Missionários e o distrito de Porto.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_PIOUS_NAME" Language="pt_BR">
+      <Text>Diligente</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_PIOUS_DESCRIPTION" Language="pt_BR">
+      <Text>Começa com teocracia e a habilidade de construir Cavaleiros.</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_NAME" Language="pt_BR">
+      <Text>Vikings, Comerciantes e invasores!</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_TOOLTIP" Language="pt_BR">
+      <Text>Como um rei viking, você consegue acumular a maior riqueza de todas? Dura 60 turnos.</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_DESCRIPTION" Language="pt_BR">
+      <Text>Coloque a Europa sob o seu controle como o mais poderoso senhor viking neste cenário de 60 turnos. Jogue como um de três distintivos líderes vikings da Dinamarca, da Noruega ou da Suécia, atacando e saqueando toda a Europa. Inicie uma invasão naval contra a Inglaterra, conquiste Paris ou contorne o Gibraltar e domine o Mediterrâneo.[NEWLINE][NEWLINE]De volta ao lar, construa um império mercantil à medida que acumula rotas comerciais com as cidades mais lucrativas que puder. E caso se veja seguindo uma religião, espalhe a boa palavra e gere [ICON_Faith] fé para o seu povo.</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_VIKING_SCENARIO" Language="pt_BR">
+      <Text>Qual o valor de um senhor viking? Sob seu comando há guerreiros navegantes que o seguiriam para além dos oceanos do mundo desconhecido. Seus dracares projetam sombras sobre os corações daqueles que mantêm suas riquezas à vista da costa. Contudo, saquear apenas por saquear não passa de simples banditismo. E você, meu senhor, não é nem simples nem bandido. Ensine a eles a dura verdade da riqueza que ostentam: se eles não podem protegê-la, então ela jamais foi deles.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SCENARIO_NORWEGIAN_BERSERKER_DESCRIPTION" Language="pt_BR">
+      <Text>Unidade exclusiva Viking. 4 de [ICON_Movement] movimento se esta unidade começar em território inimigo. +10 de [ICON_Strength] força de combate ao atacar e -5 de [ICON_Strength] força de combate ao defender. Ganha pontos de Grande General por baixas.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SCENARIO_NORWEGIAN_LONGSHIP_DESCRIPTION" Language="pt_BR">
+      <Text>Unidade naval exclusiva viking que substitui a Galé. Pode pilhar terras costeiras inimigas e capturar civis se adjacente. Pode curar em território neutro. Ganha pontos de Grande Almirante por baixas.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SCENARIO_FRANKISH_CABALLARII_DESCRIPTION" Language="pt_BR">
+      <Text>Unidade exclusiva da Frância que substitui o Cavaleiro. Não sofre penalidades de combate quando danificado.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SCENARIO_MOORISH_FARFANES_DESCRIPTION" Language="pt_BR">
+      <Text>Unidade exclusiva de Al-Andulus. Cavalaria Leve que luta melhor se adjacente ou no território natal. Pode se mover depois de atacar se ainda possuir pontos de movimento.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SCENARIO_SETTLER_DESCRIPTION" Language="pt_BR">
+      <Text>Unidade exclusiva viking que pode criar novas cidades.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SCENARIO_QUADRIREME_DESCRIPTION" Language="pt_BR">
+      <Text>Unidade exclusiva bizantina. Primeira unidade naval de combate a distância.</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_SCENARIO_HARBOR_DESCRIPTION" Language="pt_BR">
+      <Text>Um distrito exclusivo dos vikings para atividade naval em sua cidade. Também remove a penalidade de [ICON_Movement] movimento para embarcar e desembarcar deste painel. Deve ser construído em terreno de costa ou lago, adjacente a terra.[NEWLINE][NEWLINE]+1 de capacidade de [ICON_TradeRoute] rota comercial se esta cidade ainda não tiver um distrito de Centro Comercial.[NEWLINE][NEWLINE]Adjacência: bônus padrão de [ICON_Gold] ouro para cada recurso litorâneo adjacente. Pequeno bônus de [ICON_Gold] ouro para painéis de distrito adjacentes.</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_SCENARIO_ALCAZAR_DESCRIPTION" Language="pt_BR">
+      <Text>Melhoria de Al-Andulus que concede fortificação, [ICON_Faith] fé e [ICON_Gold] ouro.</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_SCENARIO_MONASTERY_DESCRIPTION" Language="pt_BR">
+      <Text>Melhoria franca, bizantina e de cidades-estados que concedem [ICON_Faith] fé.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SCENARIO_FRANKISH_CABALLARII_NAME" Language="pt_BR">
+      <Text>Caballarii|Caballarii</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SCENARIO_MOORISH_FARFANES_NAME" Language="pt_BR">
+      <Text>Farfanes|Farfanes</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_SCENARIO_ALCAZAR_NAME" Language="fr_FR">
+      <Text>Alcázar</Text>
+      <Gender>masculine:vowel</Gender>
+      <Plurality>1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_SCENARIO_MONASTERY_NAME" Language="fr_FR">
+      <Text>Monastère|Monastères</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_DENMARK_DESCRIPTION" Language="fr_FR">
+      <Text>Empire danois</Text>
+      <Gender>masculine:vowel</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_SWEDEN_DESCRIPTION" Language="fr_FR">
+      <Text>Empire suédois</Text>
+      <Gender>masculine:vowel</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_AL_ANDALUS_DESCRIPTION" Language="fr_FR">
+      <Text>Califat d'Al-Andalus</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_BYZANTIUM_DESCRIPTION" Language="fr_FR">
+      <Text>Empire byzantin</Text>
+      <Gender>masculine:vowel</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_FRANCIA_DESCRIPTION" Language="fr_FR">
+      <Text>Empire franc</Text>
+      <Gender>masculine:vowel</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_DENMARK_NAME" Language="fr_FR">
+      <Text>Danemark</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_SWEDEN_NAME" Language="fr_FR">
+      <Text>Suède</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_AL_ANDALUS_NAME" Language="fr_FR">
+      <Text>Al-Andalus</Text>
+      <Gender>feminine:no_article</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_BYZANTIUM_NAME" Language="fr_FR">
+      <Text>Byzance</Text>
+      <Gender>feminine:no_article</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_FRANCIA_NAME" Language="fr_FR">
+      <Text>Francie</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_AL_HAKAM_II_NAME" Language="fr_FR">
+      <Text>Al-Hakam II</Text>
+      <Gender>masculine:no_article</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_BASIL_II_NAME" Language="fr_FR">
+      <Text>Basile II</Text>
+      <Gender>masculine:no_article</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_CHARLEMAGNE_NAME" Language="fr_FR">
+      <Text>Charlemagne</Text>
+      <Gender>masculine:no_article</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_CNUT_NAME" Language="fr_FR">
+      <Text>Knut</Text>
+      <Gender>masculine:no_article</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_OLOF_NAME" Language="fr_FR">
+      <Text>Olof Skötkonung</Text>
+      <Gender>masculine:no_article</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_MAP_NAME" Language="fr_FR">
+      <Text>Midgard</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_MAP_DESCRIPTION" Language="fr_FR">
+      <Text>La terre des Vikings.</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_GAMESPEED_VALHALLA_NAME" Language="fr_FR">
+      <Text>Valhalla</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_GAMESPEED_VALHALLA_HELP" Language="fr_FR">
+      <Text>La vitesse du combat éternel.</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_ERA_EARLY_NAME" Language="fr_FR">
+      <Text>Lindisfarne</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_ERA_EARLY_DESCRIPTION" Language="fr_FR">
+      <Text>Ère de Lindisfarne, la naissance des Vikings.</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_ERA_MIDDLE_NAME" Language="fr_FR">
+      <Text>Rus</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_ERA_MIDDLE_DESCRIPTION" Language="fr_FR">
+      <Text>Ère des Rus, l'apogée des Vikings.</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_ERA_LATE_NAME" Language="fr_FR">
+      <Text>Hastings</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_ERA_LATE_DESCRIPTION" Language="fr_FR">
+      <Text>Ère de Hastings, le crépuscule des Vikings.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_VIKING_NAME" Language="fr_FR">
+      <Text>Viking</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_VIKING_DESCRIPTION" Language="fr_FR">
+      <Text>Pas de pénalité d'embarquement ou de débarquement pour les unités.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_FRANKISH_NAME" Language="fr_FR">
+      <Text>Franc</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_FRANKISH_DESCRIPTION" Language="fr_FR">
+      <Text>Le Mont-Saint-Michel se trouve à Rouen.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_MOORISH_NAME" Language="fr_FR">
+      <Text>Maure</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_MOORISH_DESCRIPTION" Language="fr_FR">
+      <Text>L'Alhambra se trouve à Išbiliya.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_BYZANTINE_NAME" Language="fr_FR">
+      <Text>Byzantin</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_BYZANTINE_DESCRIPTION" Language="fr_FR">
+      <Text>La Basilique Sainte-Sophie se trouve à Constantinople.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_EXTRA_MILITARY_SLOT_NAME" Language="fr_FR">
+      <Text>Empire scandinave </Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_EXTRA_MILITARY_SLOT_DESCRIPTION" Language="fr_FR">
+      <Text>Dispose d'un emplacement de doctrine militaire supplémentaire. Peut produire des colons, des langskips et des ports.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_FASTER_SHIPS_DESCRIPTION" Language="fr_FR">
+      <Text>Mouvement +2 pour les unités navales. Peut produire des colons, des langskips, des missionnaires et des ports.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_EXTRA_ECONOMIC_SLOT_NAME" Language="fr_FR">
+      <Text>Roi du trésor</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_EXTRA_ECONOMIC_SLOT_DESCRIPTION" Language="fr_FR">
+      <Text>Dispose d'un emplacement de doctrine économique supplémentaire. Peut produire des colons, des langskips, des missionnaires et des ports.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_PIOUS_NAME" Language="fr_FR">
+      <Text>Piété</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_PIOUS_DESCRIPTION" Language="fr_FR">
+      <Text>Commence avec la théocratie et la possibilité de former des chevaliers.</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_NAME" Language="fr_FR">
+      <Text>Vikings, marchands et pillards !</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_TOOLTIP" Language="fr_FR">
+      <Text>Dans la peau d'un roi viking, parviendrez-vous à amasser le plus grand des trésors ? Dure 60 tours.</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_DESCRIPTION" Language="fr_FR">
+      <Text>Dominez toute l'Europe dans la peau d'un puissant seigneur viking avec ce scénario en 60 tours. Incarnez l'un des trois dirigeants vikings, danois, suédois ou norvégien, et partez à l'assaut de toutes les autres nations européennes. Tentez d'envahir l'Angleterre par les côtes, lancez-vous à la conquête de Paris, ou mettez le cap sur Gibraltar pour piller la Méditerranée. [NEWLINE][NEWLINE]Chez vous, développez un véritable empire marchand en multipliant les routes commerciales avec les villes les plus profitables. Et si jamais vous adoptez une religion, propagez la bonne parole de façon à générer de la [ICON_Faith] foi pour votre peuple !</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_VIKING_SCENARIO" Language="fr_FR">
+      <Text>Que vaut un seigneur viking ? Les guerriers marins sous votre commandement n'attendent que vos ordres pour partir à la découverte du monde par-delà les océans. Vos langskips insufflent la peur dans le cœur des malheureux qui conservent leurs richesses trop près des côtes. Mais piller pour piller serait bien trop simple, et à peine digne d'un bandit... et vous n'êtes ni l'un, ni l'autre. Alors enseignez-leur la cruelle vérité : s'ils ne sont pas capables de protéger leurs trésors, c'est qu'ils n'en étaient pas dignes.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SCENARIO_NORWEGIAN_BERSERKER_DESCRIPTION" Language="fr_FR">
+      <Text>Exclusive aux Vikings, cette unité reçoit 4 [ICON_Movement] PM lorsqu'elle commence en territoire ennemi. [ICON_Strength] Puissance de combat +10 en attaque, mais -5 en défense. Elle génère également des points de général illustre en détruisant des unités.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SCENARIO_NORWEGIAN_LONGSHIP_DESCRIPTION" Language="fr_FR">
+      <Text>Exclusive aux Vikings et remplaçant la galère, cette unité peut piller les côtes ennemies et capturer des civils sur les cases adjacentes. Elle peut aussi se soigner en territoire ennemi et génère des points d'amiral illustre en détruisant des unités.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SCENARIO_FRANKISH_CABALLARII_DESCRIPTION" Language="fr_FR">
+      <Text>Exclusive à la Francie et remplaçant le chevalier, cette unité ne subit pas de pénalité de combat si elle est blessée.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SCENARIO_MOORISH_FARFANES_DESCRIPTION" Language="fr_FR">
+      <Text>Exclusive à Al-Andalus, cette unité de cavalerie légère est plus efficace sur son territoire ou les cases adjacentes, et peut se déplacer après l'attaque s'il lui reste des PM.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SCENARIO_SETTLER_DESCRIPTION" Language="fr_FR">
+      <Text>Exclusive aux Vikings, cette unité peut fonder de nouvelles villes.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SCENARIO_QUADRIREME_DESCRIPTION" Language="fr_FR">
+      <Text>Exclusive aux Byzantins, cette unité est la première unité navale d'attaque à distance.</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_SCENARIO_HARBOR_DESCRIPTION" Language="fr_FR">
+      <Text>Quartier exclusif aux Vikings destiné aux activités navales. Annule la pénalité de [ICON_Movement] mouvement en cas d'embarquement ou de débarquement depuis cette case. Doit être construit sur une côte ou un lac adjacent à la terre ferme. [NEWLINE][NEWLINE][ICON_TradeRoute] Routes commerciales +1 si la ville ne possède pas encore de plateforme commerciale. [NEWLINE][NEWLINE]Proximité : bonus d'[ICON_Gold] or normal pour chaque ressource côtière adjacente, bonus d'[ICON_Gold]or mineur pour chaque quartier adjacent.</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_SCENARIO_ALCAZAR_DESCRIPTION" Language="fr_FR">
+      <Text>Aménagement exclusif à Al-Andalus octroyant des fortifications, de la [ICON_Faith] foi et de l'[ICON_Gold] or.</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_SCENARIO_MONASTERY_DESCRIPTION" Language="fr_FR">
+      <Text>Francs, Byzantins et cités-états. Aménagement fournissant de la [ICON_Faith] foi.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SCENARIO_FRANKISH_CABALLARII_NAME" Language="fr_FR">
+      <Text>Caballarius|Caballarii</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SCENARIO_MOORISH_FARFANES_NAME" Language="fr_FR">
+      <Text>Farfane|Farfanes</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_SCENARIO_ALCAZAR_NAME" Language="de_DE">
+      <Text>Alcázar|Alcázar|Alcázar|Alcázars|Alcázar</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_SCENARIO_MONASTERY_NAME" Language="de_DE">
+      <Text>Kloster|Kloster|Kloster|Klosters|Kloster</Text>
+      <Gender>neuter</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_DENMARK_DESCRIPTION" Language="de_DE">
+      <Text>Dänisches Reich|Dänische Reich|Dänischen Reich|Dänischen Reiches|Dänische Reich</Text>
+      <Gender>neuter</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_SWEDEN_DESCRIPTION" Language="de_DE">
+      <Text>Schwedisches Reich|Schwedische Reich|Schwedischen Reich|Schwedischen Reiches|Schwedische Reich|</Text>
+      <Gender>neuter</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_AL_ANDALUS_DESCRIPTION" Language="de_DE">
+      <Text>Kalifat Al-Andalus|Kalifat Al-Andalus|Kalifat Al-Andalus|Kalifats Al-Andalus|Kalifat Al-Andalus</Text>
+      <Gender>neuter</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_BYZANTIUM_DESCRIPTION" Language="de_DE">
+      <Text>Byzantinisches Reich|Byzantinische Reich|Byzantinischen Reich|Byzantinischen Reiches|Byzantinische Reich</Text>
+      <Gender>neuter</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_FRANCIA_DESCRIPTION" Language="de_DE">
+      <Text>Frankenreich|Frankenreich|Frankenreich|Frankenreichs|Frankenreich</Text>
+      <Gender>neuter</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_DENMARK_NAME" Language="de_DE">
+      <Text>Dänemark|Dänemark|Dänemark|Dänemarks|Dänemark</Text>
+      <Gender>neuter:no_article</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_SWEDEN_NAME" Language="de_DE">
+      <Text>Schweden|Schweden|Schweden|Schwedens|Schweden|</Text>
+      <Gender>neuter:no_article</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_AL_ANDALUS_NAME" Language="de_DE">
+      <Text>Al-Andalus|Al-Andalus|Al-Andalus|Al-Andalus'|Al-Andalus</Text>
+      <Gender>neuter:no_article</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_BYZANTIUM_NAME" Language="de_DE">
+      <Text>Byzanz|Byzanz|Byzanz|Byzanz'|Byzanz</Text>
+      <Gender>neuter:no_article</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_FRANCIA_NAME" Language="de_DE">
+      <Text>Frankenreich|Frankenreich|Frankenreich|Frankenreichs|Frankenreich</Text>
+      <Gender>neuter</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_AL_HAKAM_II_NAME" Language="de_DE">
+      <Text>al-Hakam II.</Text>
+      <Gender>masculine:no_article</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_BASIL_II_NAME" Language="de_DE">
+      <Text>Basileios II.</Text>
+      <Gender>masculine:no_article</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_CHARLEMAGNE_NAME" Language="de_DE">
+      <Text>Karl der Große</Text>
+      <Gender>masculine:no_article</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_CNUT_NAME" Language="de_DE">
+      <Text>Knut der Große</Text>
+      <Gender>masculine:no_article</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_OLOF_NAME" Language="de_DE">
+      <Text>Olof Skötkonung</Text>
+      <Gender>masculine:no_article</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_MAP_NAME" Language="de_DE">
+      <Text>Midgard</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_MAP_DESCRIPTION" Language="de_DE">
+      <Text>Das Land der Wikinger.</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_GAMESPEED_VALHALLA_NAME" Language="de_DE">
+      <Text>Walhalla</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_GAMESPEED_VALHALLA_HELP" Language="de_DE">
+      <Text>Das Tempo des ewigen Kampfes.</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_ERA_EARLY_NAME" Language="de_DE">
+      <Text>Lindisfarne</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_ERA_EARLY_DESCRIPTION" Language="de_DE">
+      <Text>Die Lindisfarne-Periode: Der Anfang der Wikinger.</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_ERA_MIDDLE_NAME" Language="de_DE">
+      <Text>Rus</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_ERA_MIDDLE_DESCRIPTION" Language="de_DE">
+      <Text>Die Rus-Periode: Der Höhepunkt der Wikinger.</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_ERA_LATE_NAME" Language="de_DE">
+      <Text>Hastings</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_ERA_LATE_DESCRIPTION" Language="de_DE">
+      <Text>Die Hastings-Periode: Die Dämmerung der Wikinger.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_VIKING_NAME" Language="de_DE">
+      <Text>Wikinger</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_VIKING_DESCRIPTION" Language="de_DE">
+      <Text>Einheiten ignorieren zusätzliche Fortbewegungskosten für das Wassern und Ausschiffen.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_FRANKISH_NAME" Language="de_DE">
+      <Text>Fränkisches Reich</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_FRANKISH_DESCRIPTION" Language="de_DE">
+      <Text>Das Wunder Mont-Saint-Michel befindet sich in Rouen.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_MOORISH_NAME" Language="de_DE">
+      <Text>Maurisch</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_MOORISH_DESCRIPTION" Language="de_DE">
+      <Text>Das Wunder Alhambra befindet sich in Išbiliya.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_BYZANTINE_NAME" Language="de_DE">
+      <Text>Byzanz</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_BYZANTINE_DESCRIPTION" Language="de_DE">
+      <Text>Das Wunder Hagia Sophia befindet sich in Konstantinopel.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_EXTRA_MILITARY_SLOT_NAME" Language="de_DE">
+      <Text>Nordseereich</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_EXTRA_MILITARY_SLOT_DESCRIPTION" Language="de_DE">
+      <Text>Hat einen zusätzlichen Militärpolitik-Platz. Kann den Siedler, das Wikinger-Langschiff, Missionare und den Hafenbezirk bauen.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_FASTER_SHIPS_DESCRIPTION" Language="de_DE">
+      <Text>Marineeinheiten haben +2 Fortbewegung. Kann den Siedler, das Wikinger-Langschiff, Missionare und den Hafenbezirk bauen.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_EXTRA_ECONOMIC_SLOT_NAME" Language="de_DE">
+      <Text>Schatzkönig</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_EXTRA_ECONOMIC_SLOT_DESCRIPTION" Language="de_DE">
+      <Text>Hat einen zusätzlichen Wirtschaftspolitik-Platz. Kann den Siedler, das Wikinger-Langschiff, Missionare und den Hafenbezirk bauen.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_PIOUS_NAME" Language="de_DE">
+      <Text>Fromm</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_PIOUS_DESCRIPTION" Language="de_DE">
+      <Text>Startet mit Theokratie und der Möglichkeit, Ritter zu bauen.</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_NAME" Language="de_DE">
+      <Text>Wikinger, Händler und Plünderer!</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_TOOLTIP" Language="de_DE">
+      <Text>Könnt Ihr als Wikinger-König den größten Reichtum anhäufen? Läuft 60 Runden.</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_DESCRIPTION" Language="de_DE">
+      <Text>Erlangt als der mächtigste Wikingerfürst die Herrschaft über Europa in diesem 60-Runden-Szenario. Spielt als einer von drei einzigartigen Wikinger-Herrschern aus Dänemark, Norwegen oder Schweden und plündert und brandschatzt Euren Weg durch Europa. Startet eine Seeinvasion von England, erobert Paris oder segelt um Gibraltar und überfallt das Mittelmeer.[NEWLINE][NEWLINE]Baut zurück in der Heimat ein Handelsimperium auf, indem Ihr Handelswege mit den profitabelsten Städten anhäuft. Und wenn Ihr Anhänger einer Religion seid, verbreitet diese und generiert [ICON_Faith] Glauben für Euer Volk.</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_VIKING_SCENARIO" Language="de_DE">
+      <Text>Wieviel ist ein Wikingerfürst wert? Unter Eurem Kommando stehen seefahrende Krieger, die Euch über alle Ozeane der bekannten Welt folgen würden. Eure Langschiffe werfen Schatten auf die Herzen derjenigen, die ihren Wohlstand in Sichtweite der Küste bewahren. Aber Plündern nur um der Plünderung willen ist nichts weiter als schlichtes Banditentum. Ihr, mein Fürst, seid weder schlicht noch ein Bandit. Lehrt sie die harte Wahrheit über den Wohlstand, mit dem sie protzen - wenn sie ihn nicht beschützen können, haben sie ihn von vornherein nicht verdient.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SCENARIO_NORWEGIAN_BERSERKER_DESCRIPTION" Language="de_DE">
+      <Text>Einzigartige Einheit der Wikinger. Hat 4 [ICON_Movement] Fortbewegung, wenn diese Einheit auf feindlichem Gebiet startet. +10 [ICON_Strength] Kampfstärke beim Angriff und -5 [ICON_Strength] Kampfstärke beim Verteidigen. Erhält Großer-General-Punkte durch Eliminierungen.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SCENARIO_NORWEGIAN_LONGSHIP_DESCRIPTION" Language="de_DE">
+      <Text>Einzigartige Marineeinheit der Wikinger, ersetzt die Galeere. Kann feindliche Küstengebiete plündern und benachbarte Zivilisten gefangen nehmen. Kann sich auf neutralem Territorium heilen. Erhält Großer-Admiral-Punkte durch Eliminierungen.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SCENARIO_FRANKISH_CABALLARII_DESCRIPTION" Language="de_DE">
+      <Text>Einzigartige Einheit des Frankenreichs, die den Ritter ersetzt. Erhält bei erlittenem Schaden keinen Kampfmalus.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SCENARIO_MOORISH_FARFANES_DESCRIPTION" Language="de_DE">
+      <Text>Spezialeinheit von Al-Andulus. Leichte Kavallerieeinheit, die auf oder neben eigenem Territorium besser kämpft. Kann sich nach dem Angriff fortbewegen, wenn noch Fortbewegungspunkte übrig sind.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SCENARIO_SETTLER_DESCRIPTION" Language="de_DE">
+      <Text>Spezialeinheit der Wikinger, die neue Städte gründen kann.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SCENARIO_QUADRIREME_DESCRIPTION" Language="de_DE">
+      <Text>Einzigartige Einheit von Byzanz. Erste Marine-Fernkampfeinheit.</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_SCENARIO_HARBOR_DESCRIPTION" Language="de_DE">
+      <Text>Ein besonderer Stadtbezirk der Wikinger für Marine-Aktivitäten. Hebt außerdem den [ICON_Movement] Fortbewegungsmalus für das Wassern und Ausschiffen von und zu diesem Geländefeld auf. Muss an Küste oder See-Geländefeldern neben Land gebaut werden.[NEWLINE][NEWLINE]+1 [ICON_TradeRoute] Handelswegkapazität, wenn diese Stadt noch nicht über einen Handelszentrum-Bezirk verfügt.[NEWLINE][NEWLINE]Nachbarschaft: Standard-Goldbonus [ICON_Gold] für jede angrenzende Küstenressource. Kleiner Goldbonus [ICON_Gold] für angrenzende Bezirke.</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_SCENARIO_ALCAZAR_DESCRIPTION" Language="de_DE">
+      <Text>Al-Andulus-Modernisierung, die Befestigung, [ICON_Faith] Glauben und [ICON_Gold] Gold bietet.</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_SCENARIO_MONASTERY_DESCRIPTION" Language="de_DE">
+      <Text>Fränkische, byzantinische und Stadtstaat-Modernisierung, die [ICON_Faith] Glauben bietet.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SCENARIO_FRANKISH_CABALLARII_NAME" Language="de_DE">
+      <Text>Caballarius|Caballarius|Caballarius|Caballarius|Caballarius</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SCENARIO_MOORISH_FARFANES_NAME" Language="de_DE">
+      <Text>Farfan|Farfan|Farfan|Farfans|Farfan</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_SCENARIO_ALCAZAR_NAME" Language="it_IT">
+      <Text>Alcázar|l'Alcázar|un Alcázar</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_SCENARIO_MONASTERY_NAME" Language="it_IT">
+      <Text>Monastero|il Monastero|un Monastero</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_DENMARK_DESCRIPTION" Language="it_IT">
+      <Text>Impero danese|dell'Impero danese|all'Impero danese|l'Impero danese|dall'Impero danese</Text>
+      <Gender>masculine:vowel</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_SWEDEN_DESCRIPTION" Language="it_IT">
+      <Text>Impero svedese|dell'Impero svedese|all'Impero svedese|l'Impero svedese|dall'Impero svedese</Text>
+      <Gender>masculine:vowel</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_AL_ANDALUS_DESCRIPTION" Language="it_IT">
+      <Text>Califfato di Andalusia</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_BYZANTIUM_DESCRIPTION" Language="it_IT">
+      <Text>Impero bizantino|dell'Impero bizantino|all'Impero bizantino|l'Impero bizantino|dall'Impero bizantino</Text>
+      <Gender>masculine:vowel</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_FRANCIA_DESCRIPTION" Language="it_IT">
+      <Text>Impero franco|dell'Impero franco|all'Impero franco|l'Impero franco|dall'Impero franco</Text>
+      <Gender>masculine:vowel</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_DENMARK_NAME" Language="it_IT">
+      <Text>Danimarca|della Danimarca|alla Danimarca|la Danimarca|dalla Danimarca</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_SWEDEN_NAME" Language="it_IT">
+      <Text>Svezia|della Svezia|alla Svezia|la Svezia|dalla Svezia</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_AL_ANDALUS_NAME" Language="it_IT">
+      <Text>Andalusia|dell'Andalusia|all'Andalusia|l'Andalusia|dall'Andalusia</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_BYZANTIUM_NAME" Language="it_IT">
+      <Text>Bisanzio|di Bisanzio|a Bisanzio|Bisanzio|da Bisanzio</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_FRANCIA_NAME" Language="it_IT">
+      <Text>Francia|della Francia|alla Francia|la Francia|dalla Francia</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_AL_HAKAM_II_NAME" Language="it_IT">
+      <Text>Al-Hakam II|di Al-Hakam II|ad Al-Hakam II|Al-Hakam II|da Al-Hakam II</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_BASIL_II_NAME" Language="it_IT">
+      <Text>Basilio II|di Basilio II|a Basilio II|Basilio II|da Basilio II</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_CHARLEMAGNE_NAME" Language="it_IT">
+      <Text>Carlo Magno|di Carlo Magno|a Carlo Magno|Carlo Magno|da Carlo Magno</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_CNUT_NAME" Language="it_IT">
+      <Text>Canuto|di Canuto|a Canuto|Canuto|da Canuto</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_OLOF_NAME" Language="it_IT">
+      <Text>Olof Skötkonung|di Olof Skötkonung|a Olof Skötkonung|Olof Skötkonung|da Olof Skötkonung</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_MAP_NAME" Language="it_IT">
+      <Text>Midgard</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_MAP_DESCRIPTION" Language="it_IT">
+      <Text>Le terre dei vichinghi.</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_GAMESPEED_VALHALLA_NAME" Language="it_IT">
+      <Text>Valhalla</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_GAMESPEED_VALHALLA_HELP" Language="it_IT">
+      <Text>La velocità dell'eterno combattimento.</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_ERA_EARLY_NAME" Language="it_IT">
+      <Text>Lindisfarne</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_ERA_EARLY_DESCRIPTION" Language="it_IT">
+      <Text>L'epoca Lindisfarne, l'inizio dei vichinghi.</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_ERA_MIDDLE_NAME" Language="it_IT">
+      <Text>Rus</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_ERA_MIDDLE_DESCRIPTION" Language="it_IT">
+      <Text>L'epoca di Rus', l'apice dei vichinghi.</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_ERA_LATE_NAME" Language="it_IT">
+      <Text>Hastings</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_ERA_LATE_DESCRIPTION" Language="it_IT">
+      <Text>L'epoca di Hastings, il crepuscolo dei vichinghi.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_VIKING_NAME" Language="it_IT">
+      <Text>Vichingo</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_VIKING_DESCRIPTION" Language="it_IT">
+      <Text>Le unità ignorano i costi aggiuntivi di movimento per l'imbarco e lo sbarco.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_FRANKISH_NAME" Language="it_IT">
+      <Text>Franco</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_FRANKISH_DESCRIPTION" Language="it_IT">
+      <Text>La Meraviglia Mont St. Michel si trova a Rouen.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_MOORISH_NAME" Language="it_IT">
+      <Text>Moro</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_MOORISH_DESCRIPTION" Language="it_IT">
+      <Text>La Meraviglia Alhambra si trova a Granada.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_BYZANTINE_NAME" Language="it_IT">
+      <Text>Bizantino</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_BYZANTINE_DESCRIPTION" Language="it_IT">
+      <Text>La Meraviglia Santa Sofia si trova a Costantinopoli.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_EXTRA_MILITARY_SLOT_NAME" Language="it_IT">
+      <Text>Impero del Mare del Nord</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_EXTRA_MILITARY_SLOT_DESCRIPTION" Language="it_IT">
+      <Text>Ha uno slot Politica militare extra. Può costruire Coloni, Navi lunghe vichinghe, Missionari e il distretto Porto.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_FASTER_SHIPS_DESCRIPTION" Language="it_IT">
+      <Text>Le unità navali hanno +2 al movimento. Può costruire Coloni, Navi lunghe vichinghe, Missionari e il distretto Porto.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_EXTRA_ECONOMIC_SLOT_NAME" Language="it_IT">
+      <Text>Tesoreria reale</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_EXTRA_ECONOMIC_SLOT_DESCRIPTION" Language="it_IT">
+      <Text>Ha uno slot Politica economica extra. Può costruire Coloni, Navi lunghe vichinghe, Missionari e il distretto Porto.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_PIOUS_NAME" Language="it_IT">
+      <Text>Pio</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_PIOUS_DESCRIPTION" Language="it_IT">
+      <Text>Parte con la Teocrazia e la capacità di costruire Cavalieri.</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_NAME" Language="it_IT">
+      <Text>Vichinghi, commercianti e saccheggiatori!</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_TOOLTIP" Language="it_IT">
+      <Text>Come re vichingo, saprai accumulare la ricchezza più grande? Durata: 60 turni.</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_DESCRIPTION" Language="it_IT">
+      <Text>Porta l'Europa sotto il tuo dominio e dimostra di essere il più grande signore dei vichinghi in questo scenario della durata di 60 turni. Vesti i panni di uno di tre leader distinti di Danimarca, Norvegia e Svezia e saccheggia le coste di tutto il continente. Lancia un'invasione navale dell'Inghilterra, conquista Parigi o varca lo stretto di Gibilterra e scatena la tua furia nel Mediterraneo.[NEWLINE][NEWLINE]All'interno dei tuoi confini, costruisci un impero mercantile tracciando rotte commerciali con le città più lucrative. E se ti trovi a seguire una religione, diffondi la buona novella e genera [ICON_Faith] Fede per il tuo popolo.</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_VIKING_SCENARIO" Language="it_IT">
+      <Text>Quale impresa è degna di un signore dei vichinghi? Al tuo comando hai marinai guerrieri che ti seguirebbero in tutti i mari conosciuti. Le tue navi lunghe gettano il terrore nell'animo di coloro i cui beni si trovano alla portata delle incursioni costiere. Ma saccheggiare per il gusto di farlo è semplice banditismo... e tu, signore, non sei né semplice, né un bandito. Insegna loro la dura verità sulle ricchezze che ostentano: se non sono in grado di proteggerle, non le hanno mai veramente possedute.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SCENARIO_NORWEGIAN_BERSERKER_DESCRIPTION" Language="it_IT">
+      <Text>Unità esclusiva vichinga. Ha 4 punti [ICON_Movement] movimento se comincia la mossa in territorio nemico. +10 alla [ICON_Strength] Forza di combattimento quando attacca e -5 alla [ICON_Strength] Forza di combattimento quando si difende. Guadagna punti Grande Generale per le uccisioni.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SCENARIO_NORWEGIAN_LONGSHIP_DESCRIPTION" Language="it_IT">
+      <Text>Unità navale esclusiva vichinga che sostituisce la Galea. Può saccheggiare le coste nemiche e catturare le unità civili adiacenti. Può curarsi in territorio neutrale. Guadagna punti Grande Generale per le uccisioni.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SCENARIO_FRANKISH_CABALLARII_DESCRIPTION" Language="it_IT">
+      <Text>Unità esclusiva francese che sostituisce il Cavaliere. Non subisce penalità al combattimento quando è ferita.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SCENARIO_MOORISH_FARFANES_DESCRIPTION" Language="it_IT">
+      <Text>Unità esclusiva andalusa. Un'unità di Cavalleria leggera che combatte meglio se si trova all'interno o adiacente al territorio amico. Può muoversi dopo aver attaccato, se ha ancora punti movimento.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SCENARIO_SETTLER_DESCRIPTION" Language="it_IT">
+      <Text>Unità esclusiva vichinga che può creare nuove città.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SCENARIO_QUADRIREME_DESCRIPTION" Language="it_IT">
+      <Text>Unità esclusiva bizantina. Prima unità navale che attacca a distanza.</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_SCENARIO_HARBOR_DESCRIPTION" Language="it_IT">
+      <Text>Un distretto esclusivo dei vichinghi dedicato all'attività navale, elimina la penalità al [ICON_Movement] movimento per le unità che si imbarcano da questa casella o vi sbarcano. Dev'essere costruito in una casella di costa o di lago adiacente alla terraferma.[NEWLINE][NEWLINE]+1 capacità [ICON_TradeRoute] Rotte commerciali, se la città non ha già un distretto Snodo commerciale.[NEWLINE][NEWLINE]Bonus per la posizione: bonus standard all'[ICON_Gold] Oro per ogni risorsa costiera adiacente. Bonus minore all'[ICON_Gold] Oro per ogni distretto adiacente.</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_SCENARIO_ALCAZAR_DESCRIPTION" Language="it_IT">
+      <Text>Miglioramento andaluso che fornisce fortificazione, [ICON_Faith] Fede e [ICON_Gold] Oro.</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_SCENARIO_MONASTERY_DESCRIPTION" Language="it_IT">
+      <Text>Miglioramento costruito da franchi, bizantini e città-stato. Fornisce [ICON_Faith] Fede.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SCENARIO_FRANKISH_CABALLARII_NAME" Language="it_IT">
+      <Text>Caballarius|un Caballarius|dal tuo Caballarius|al tuo Caballarius|il tuo Caballarius|da un Caballarius</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SCENARIO_MOORISH_FARFANES_NAME" Language="it_IT">
+      <Text>Farfan|un Farfan|dal tuo Farfan|al tuo Farfan|il tuo Farfan|da un Farfan</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_SCENARIO_ALCAZAR_NAME" Language="ja_JP">
+      <Text>アルカサル宮殿</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_SCENARIO_MONASTERY_NAME" Language="ja_JP">
+      <Text>修道院</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_DENMARK_DESCRIPTION" Language="ja_JP">
+      <Text>デンマーク帝国</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_SWEDEN_DESCRIPTION" Language="ja_JP">
+      <Text>スウェーデン帝国</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_AL_ANDALUS_DESCRIPTION" Language="ja_JP">
+      <Text>アル＝アンダルス管区</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_BYZANTIUM_DESCRIPTION" Language="ja_JP">
+      <Text>ビザンティン帝国</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_FRANCIA_DESCRIPTION" Language="ja_JP">
+      <Text>フランク帝国</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_DENMARK_NAME" Language="ja_JP">
+      <Text>デンマーク</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_SWEDEN_NAME" Language="ja_JP">
+      <Text>スウェーデン</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_AL_ANDALUS_NAME" Language="ja_JP">
+      <Text>アル＝アンダルス</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_BYZANTIUM_NAME" Language="ja_JP">
+      <Text>ビザンティン</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_FRANCIA_NAME" Language="ja_JP">
+      <Text>フランク王国</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_AL_HAKAM_II_NAME" Language="ja_JP">
+      <Text>ハカム2世</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_BASIL_II_NAME" Language="ja_JP">
+      <Text>バシレイオス2世</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_CHARLEMAGNE_NAME" Language="ja_JP">
+      <Text>シャルルマーニュ大帝</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_CNUT_NAME" Language="ja_JP">
+      <Text>カヌート</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_OLOF_NAME" Language="ja_JP">
+      <Text>オーロフ・シェートコヌング</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_MAP_NAME" Language="ja_JP">
+      <Text>ミッドガルド</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_MAP_DESCRIPTION" Language="ja_JP">
+      <Text>バイキングの故郷。</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_GAMESPEED_VALHALLA_NAME" Language="ja_JP">
+      <Text>ヴァルハラ</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_GAMESPEED_VALHALLA_HELP" Language="ja_JP">
+      <Text>永遠の戦いの速度。</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_ERA_EARLY_NAME" Language="ja_JP">
+      <Text>リンディスファーン</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_ERA_EARLY_DESCRIPTION" Language="ja_JP">
+      <Text>リンディスファーンの時代。バイキングの勃興。</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_ERA_MIDDLE_NAME" Language="ja_JP">
+      <Text>ルーシ</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_ERA_MIDDLE_DESCRIPTION" Language="ja_JP">
+      <Text>ルーシの時代。バイキングの全盛期。</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_ERA_LATE_NAME" Language="ja_JP">
+      <Text>ヘイスティングス</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_ERA_LATE_DESCRIPTION" Language="ja_JP">
+      <Text>ヘイスティングスの時代。バイキングの黄昏。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_VIKING_NAME" Language="ja_JP">
+      <Text>バイキング</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_VIKING_DESCRIPTION" Language="ja_JP">
+      <Text>ユニットの乗船と下船に追加移動コストを必要としなくなる。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_FRANKISH_NAME" Language="ja_JP">
+      <Text>フランク</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_FRANKISH_DESCRIPTION" Language="ja_JP">
+      <Text>遺産「モン・サン＝ミシェル」はルーアンにある。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_MOORISH_NAME" Language="ja_JP">
+      <Text>ムーア</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_MOORISH_DESCRIPTION" Language="ja_JP">
+      <Text>遺産「アルハンブラ宮殿」はイスビリヤにある。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_BYZANTINE_NAME" Language="ja_JP">
+      <Text>ビザンティン</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_BYZANTINE_DESCRIPTION" Language="ja_JP">
+      <Text>遺産「ハギア・ソフィア聖堂」はコンスタンティノープルにある。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_EXTRA_MILITARY_SLOT_NAME" Language="ja_JP">
+      <Text>北海帝国</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_EXTRA_MILITARY_SLOT_DESCRIPTION" Language="ja_JP">
+      <Text>軍事政策スロットが1つ多い。開拓者、ロングシップ、伝道師、港を作ることができる。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_FASTER_SHIPS_DESCRIPTION" Language="ja_JP">
+      <Text>海洋ユニットの移動力+2。開拓者、ロングシップ、伝道師、港区域を作ることができる。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_EXTRA_ECONOMIC_SLOT_NAME" Language="ja_JP">
+      <Text>財宝王</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_EXTRA_ECONOMIC_SLOT_DESCRIPTION" Language="ja_JP">
+      <Text>経済政策スロットが1つ多い。開拓者、ロングシップ、伝道師、港区域を作ることができる。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_PIOUS_NAME" Language="ja_JP">
+      <Text>敬虔</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_PIOUS_DESCRIPTION" Language="ja_JP">
+      <Text>神権政治を持った状態でスタートする。騎士を生産可能。</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_NAME" Language="ja_JP">
+      <Text>バイキングと交易商と略奪者</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_TOOLTIP" Language="ja_JP">
+      <Text>バイキングの王として、誰よりも大きな富を築けるのでしょうか？ 60ターンで終了します。</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_DESCRIPTION" Language="ja_JP">
+      <Text>バイキングの王としてヨーロッパ全土の支配を目指す、60ターンのシナリオです。それぞれが個性的なデンマーク、ノルウェー、スウェーデンいずれかのバイキングの指導者としてプレイし、ヨーロッパ全土を蹂躙してください。イングランドを海から侵略し、パリの都を攻め落とし、ジブラルタル海峡の覇権を握り、地中海の富を奪い尽くすのです。[NEWLINE][NEWLINE]自国もおろそかにはできません。利益を見込める都市との交易路を確保し、都市を富み栄えさせてください。宗教を信じるのなら、よき言葉を広めて民の [ICON_Faith] 信仰力を高めましょう。</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_VIKING_SCENARIO" Language="ja_JP">
+      <Text>バイキングの王たる資格とは何か？ 君がひと声号令すれば、世界の海を股にかける百戦錬磨の猛者たちが立ち上がり、率いるロングシップは海の近くで富を築こうとする者を悩ませる。しかし、気ままに略奪を繰り返すだけでは、ありきたりの盗賊と変わらない。君は「ありきたり」でもなければ「盗賊」でもないはずだ。彼らが富を誇示するなら、富にまつわる厳然たる真実を教えてやれ。富を守れぬ者は富を持つに値しないのだ。</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SCENARIO_NORWEGIAN_BERSERKER_DESCRIPTION" Language="ja_JP">
+      <Text>バイキング固有のユニット。敵の領土で移動を開始した場合は [ICON_Movement] 移動力4。攻撃時は [ICON_Strength] 戦闘力+10、防衛時は [ICON_Strength] 戦闘力-5。敵を倒すと大将軍ポイントを獲得する。</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SCENARIO_NORWEGIAN_LONGSHIP_DESCRIPTION" Language="ja_JP">
+      <Text>バイキングの固有海洋ユニット。他文明のガレー船に相当する。敵の勢力下にある沿岸地域に隣接している場合、略奪をおこなって市民を捕らえることができる。中立地帯での回復が可能。敵を倒すことで大提督ポイントを獲得可能。</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SCENARIO_FRANKISH_CABALLARII_DESCRIPTION" Language="ja_JP">
+      <Text>フランク王国固有のユニットで、騎士の代わりとなる。ダメージを受けても戦闘力にペナルティを受けない。</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SCENARIO_MOORISH_FARFANES_DESCRIPTION" Language="ja_JP">
+      <Text>アル＝アンダルス固有のユニット。軽騎兵。自国領土に隣接するか自国領土内にいる場合は有利に戦える。移動ポイントが残っていれば攻撃後に移動可能。</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SCENARIO_SETTLER_DESCRIPTION" Language="ja_JP">
+      <Text>バイキング固有のユニット。新しい都市を作ることができる。</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SCENARIO_QUADRIREME_DESCRIPTION" Language="ja_JP">
+      <Text>ビザンチン帝国固有のユニットで、最初の海洋長距離戦闘ユニットでもある。</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_SCENARIO_HARBOR_DESCRIPTION" Language="ja_JP">
+      <Text>都市における船舶活動を目的としたバイキング固有の区域。このタイルを利用すると乗船および下船に [ICON_Movement] 移動ペナルティがつかない。陸地に隣接する沿岸、または湖地形にのみ建設可能。[NEWLINE][NEWLINE]商業ハブ区域がない場合、 [ICON_TradeRoute] 交易路の数+1。[NEWLINE][NEWLINE]隣接効果: 隣接する沿岸の資源タイル1つごとに通常の [ICON_Gold] ゴールドボーナス。隣接する区域タイル1つごとに若干の [ICON_Gold] ゴールドボーナス。</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_SCENARIO_ALCAZAR_DESCRIPTION" Language="ja_JP">
+      <Text>アル＝アンダルスの施設。要塞化に加え、 [ICON_Faith] 信仰力と [ICON_Gold] ゴールドをもたらす。</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_SCENARIO_MONASTERY_DESCRIPTION" Language="ja_JP">
+      <Text>フランク、ビザンティン、都市国家の施設で、 [ICON_Faith] 信仰力をもたらす。</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SCENARIO_FRANKISH_CABALLARII_NAME" Language="ja_JP">
+      <Text>カバラリ</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SCENARIO_MOORISH_FARFANES_NAME" Language="ja_JP">
+      <Text>ファルファネス</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_SCENARIO_ALCAZAR_NAME" Language="ko_KR">
+      <Text>알카사르</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_SCENARIO_MONASTERY_NAME" Language="ko_KR">
+      <Text>수도원</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_DENMARK_DESCRIPTION" Language="ko_KR">
+      <Text>덴마크 제국</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_SWEDEN_DESCRIPTION" Language="ko_KR">
+      <Text>스웨덴 제국</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_AL_ANDALUS_DESCRIPTION" Language="ko_KR">
+      <Text>알안달루스 왕조</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_BYZANTIUM_DESCRIPTION" Language="ko_KR">
+      <Text>비잔티움 제국</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_FRANCIA_DESCRIPTION" Language="ko_KR">
+      <Text>프랑크 제국</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_DENMARK_NAME" Language="ko_KR">
+      <Text>덴마크</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_SWEDEN_NAME" Language="ko_KR">
+      <Text>스웨덴</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_AL_ANDALUS_NAME" Language="ko_KR">
+      <Text>알안달루스</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_BYZANTIUM_NAME" Language="ko_KR">
+      <Text>비잔티움</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_FRANCIA_NAME" Language="ko_KR">
+      <Text>프랑크</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_AL_HAKAM_II_NAME" Language="ko_KR">
+      <Text>알-하캄 2세</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_BASIL_II_NAME" Language="ko_KR">
+      <Text>바실리우스 2세</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_CHARLEMAGNE_NAME" Language="ko_KR">
+      <Text>샤를마뉴</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_CNUT_NAME" Language="ko_KR">
+      <Text>크누트</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_OLOF_NAME" Language="ko_KR">
+      <Text>울로프 쉐트코눙</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_MAP_NAME" Language="ko_KR">
+      <Text>미드가르드</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_MAP_DESCRIPTION" Language="ko_KR">
+      <Text>바이킹의 고향입니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_GAMESPEED_VALHALLA_NAME" Language="ko_KR">
+      <Text>발할라</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_GAMESPEED_VALHALLA_HELP" Language="ko_KR">
+      <Text>영원한 전투의 속도입니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_ERA_EARLY_NAME" Language="ko_KR">
+      <Text>린디스판</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_ERA_EARLY_DESCRIPTION" Language="ko_KR">
+      <Text>바이킹이 시작된 린디스판 시대입니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_ERA_MIDDLE_NAME" Language="ko_KR">
+      <Text>루시</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_ERA_MIDDLE_DESCRIPTION" Language="ko_KR">
+      <Text>바이킹의 전성기였던 루시 시대입니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_ERA_LATE_NAME" Language="ko_KR">
+      <Text>헤이스팅스</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_ERA_LATE_DESCRIPTION" Language="ko_KR">
+      <Text>바이킹이 몰락한 헤이스팅스 시대입니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_VIKING_NAME" Language="ko_KR">
+      <Text>바이킹</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_VIKING_DESCRIPTION" Language="ko_KR">
+      <Text>유닛은 승선 및 하선에 대한 이동 비용이 추가로 들지 않습니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_FRANKISH_NAME" Language="ko_KR">
+      <Text>프랑크족</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_FRANKISH_DESCRIPTION" Language="ko_KR">
+      <Text>몽생미셸 수도원 불가사의는 루앙에 있습니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_MOORISH_NAME" Language="ko_KR">
+      <Text>무어족</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_MOORISH_DESCRIPTION" Language="ko_KR">
+      <Text>알람브라 궁전 불가사의는 이쉬빌리아에 있습니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_BYZANTINE_NAME" Language="ko_KR">
+      <Text>비잔티움</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_BYZANTINE_DESCRIPTION" Language="ko_KR">
+      <Text>성 소피아 대성당 불가사의는 콘스탄티노플에 있습니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_EXTRA_MILITARY_SLOT_NAME" Language="ko_KR">
+      <Text>북해 제국</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_EXTRA_MILITARY_SLOT_DESCRIPTION" Language="ko_KR">
+      <Text>추가 군사 정책 슬롯을 보유합니다. 개척자, 바이킹 롱십, 선교사 및 항만을 생산 및 건설할 수 있습니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_FASTER_SHIPS_DESCRIPTION" Language="ko_KR">
+      <Text>해상 유닛에 이동력 +2를 제공합니다. 개척자, 바이킹 롱십, 선교사 및 항만 특수지구를 생산 및 건설할 수 있습니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_EXTRA_ECONOMIC_SLOT_NAME" Language="ko_KR">
+      <Text>보물왕</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_EXTRA_ECONOMIC_SLOT_DESCRIPTION" Language="ko_KR">
+      <Text>추가 경제 정책 슬롯을 보유합니다. 개척자, 바이킹 롱십, 선교사 및 항만 특수지구를 생산 및 건설할 수 있습니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_PIOUS_NAME" Language="ko_KR">
+      <Text>경건</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_PIOUS_DESCRIPTION" Language="ko_KR">
+      <Text>신권 정치 및 기사 생산 능력을 갖추고 시작합니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_NAME" Language="ko_KR">
+      <Text>바이킹, 상인과 침략자!</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_TOOLTIP" Language="ko_KR">
+      <Text>바이킹 왕으로서 가장 많은 부를 축적하실 수 있겠습니까? 60턴 제한.</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_DESCRIPTION" Language="ko_KR">
+      <Text>이 60턴 제한 시나리오에서 가장 강력한 바이킹 군주로 유럽을 제패하십시오. 덴마크, 노르웨이 또는 스웨덴의 세 명의 독특한 바이킹 통치자로 플레이하면서 유럽을 침략하고 약탈하십시오. 영국의 해상 침략, 파리의 점령, 또는 지브롤터 해협을 지나 지중해를 약탈할 수 있습니다.[NEWLINE][NEWLINE]침략과 함께 모국에는 최대한 수익성이 좋은 도시들과 교역로를 설립하여 무역 제국을 세우십시오. 만약 종교를 따르게 된다면, 복음을 전파하여 백성을 위해 [ICON_Faith] 신앙을 생성하십시오.</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_VIKING_SCENARIO" Language="ko_KR">
+      <Text>바이킹 군주의 가치는 무엇입니까? 당신의 지휘하에는 알려진 세계의 바다를 같이 항해할 전사들이 있습니다. 바이킹 롱십은 해안가 가시거리에 있는 부유한 자들의 마음을 두려움에 떨게 만듭니다. 하지만 약탈만을 위한 약탈은 단순한 노략질일 뿐입니다. 하지만 당신은 단순하지도 않고, 노략자도 아닙니다. 그들이 과시하는 부유함에 관한 진정한 의미를 일깨워 주십시오. 보호할 능력이 없는 자는 소유할 자격도 없습니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SCENARIO_NORWEGIAN_BERSERKER_DESCRIPTION" Language="ko_KR">
+      <Text>바이킹 특유의 유닛입니다. 이 유닛이 적 영토에서 턴을 시작하는 경우 [ICON_Movement] 이동력이 4가 됩니다. 공격 시 [ICON_Strength] 전투력 +10을 획득하고, 방어 시 [ICON_Strength] 전투력 -5가 적용됩니다. 적 처치 시 위대한 장군 점수를 얻습니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SCENARIO_NORWEGIAN_LONGSHIP_DESCRIPTION" Language="ko_KR">
+      <Text>갤리를 대체하는 바이킹 특유의 해상 유닛입니다. 적의 해안가를 약탈하고 인접한 민간 유닛을 생포할 수 있습니다. 중립 지역에서 체력을 회복할 수 있습니다. 적 처치 시 위대한 제독 점수를 얻습니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SCENARIO_FRANKISH_CABALLARII_DESCRIPTION" Language="ko_KR">
+      <Text>기사를 대체하는 프랑크 특유의 유닛입니다. 이 유닛은 부상당해도 전투 페널티를 받지 않습니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SCENARIO_MOORISH_FARFANES_DESCRIPTION" Language="ko_KR">
+      <Text>알안달루스 특유의 유닛입니다. 자국 영토 타일 또는 해당 타일 인근에서 전투를 더 잘하는 경기병 유닛입니다. 이동력이 남아있다면 공격 후 이동이 가능합니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SCENARIO_SETTLER_DESCRIPTION" Language="ko_KR">
+      <Text>새 도시를 건설할 수 있는 바이킹 특유의 유닛입니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SCENARIO_QUADRIREME_DESCRIPTION" Language="ko_KR">
+      <Text>비잔티움 특유의 유닛입니다. 첫 원거리 해상 유닛입니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_SCENARIO_HARBOR_DESCRIPTION" Language="ko_KR">
+      <Text>도시 내 해상 활동을 위한 바이킹 특유의 특수지구입니다. 이 타일에서 승선 또는 하선할 경우 [ICON_Movement] 이동력 페널티가 없습니다. 육지에 인접한 해안가 또는 호수 지형에 지어야 합니다.[NEWLINE][NEWLINE]이 도시에 아직 상업 중심지 특수지구가 건설되지 않은 경우 [ICON_TradeRoute] 교역로 최대치 +1.[NEWLINE][NEWLINE]인접효과: 인접한 해안 자원마다 일반적인 [ICON_Gold] 금 보너스를 부여합니다. 인접 특수지구 타일은 약소한 [ICON_Gold] 금 보너스를 부여합니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_SCENARIO_ALCAZAR_DESCRIPTION" Language="ko_KR">
+      <Text>알안달루스의 시설로 방어 태세, [ICON_Faith] 신앙 및 [ICON_Gold] 금을 제공합니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_SCENARIO_MONASTERY_DESCRIPTION" Language="ko_KR">
+      <Text>프랑크, 비잔티움 및 도시 국가들의 시설로 [ICON_Faith] 신앙을 제공합니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SCENARIO_FRANKISH_CABALLARII_NAME" Language="ko_KR">
+      <Text>카발라리</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SCENARIO_MOORISH_FARFANES_NAME" Language="ko_KR">
+      <Text>파르판</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_SCENARIO_ALCAZAR_NAME" Language="pl_PL">
+      <Text>Alkazar</Text>
+      <Gender>neuter</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_SCENARIO_MONASTERY_NAME" Language="pl_PL">
+      <Text>Klasztor|Klasztoru|Klasztorowi|Klasztor|Klasztorem|Klasztorze|klasztor|klasztoru|klasztorowi|klasztor|klasztorem|klasztorze</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_DENMARK_DESCRIPTION" Language="pl_PL">
+      <Text>Imperium Duńskie|Imperium Duńskiego|Imperium Duńskiemu|Imperium Duńskie|Imperium Duńskim|Imperium Duńskim|Imperium Duńskie|Imperium Duńskiego|Imperium Duńskiemu|Imperium Duńskie|Imperium Duńskim|Imperium Duńskim</Text>
+      <Gender>neuter</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_SWEDEN_DESCRIPTION" Language="pl_PL">
+      <Text>Imperium Szwedzkie|Imperium Szwedzkiego|Imperium Szwedzkiemu|Imperium Szwedzkie|Imperium Szwedzkim|Imperium Szwedzkim|Imperium Szwedzkie|Imperium Szwedzkiego|Imperium Szwedzkiemu|Imperium Szwedzkie|Imperium Szwedzkim|Imperium Szwedzkim</Text>
+      <Gender>neuter</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_AL_ANDALUS_DESCRIPTION" Language="pl_PL">
+      <Text>Kalifat Al-Andalus|Kalifatu Al-Andalus|Kalifatowi Al-Andalus|Kalifat Al-Andalus|Kalifatem Al-Andalus|Kalifacie Al-Andalus|Kalifat Al-Andalus|Kalifatu Al-Andalus|Kalifatowi Al-Andalus|Kalifat Al-Andalus|Kalifatem Al-Andalus|Kalifacie Al-Andalus</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_BYZANTIUM_DESCRIPTION" Language="pl_PL">
+      <Text>Imperium Bizantyjskie|Imperium Bizantyjskiego|Imperium Bizantyjskiemu|Imperium Bizantyjskie|Imperium Bizantyjskim|Imperium Bizantyjskim|Imperium Bizantyjskie|Imperium Bizantyjskiego|Imperium Bizantyjskiemu|Imperium Bizantyjskie|Imperium Bizantyjskim|Imperium Bizantyjskim</Text>
+      <Gender>neuter</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_FRANCIA_DESCRIPTION" Language="pl_PL">
+      <Text>Imperium Frankijskie|Imperium Frankijskiego|Imperium Frankijskiemu|Imperium Frankijskie|Imperium Frankijskim|Imperium Frankijskim|Imperium Frankijskie|Imperium Frankijskiego|Imperium Frankijskiemu|Imperium Frankijskie|Imperium Frankijskim|Imperium Frankijskim</Text>
+      <Gender>neuter</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_DENMARK_NAME" Language="pl_PL">
+      <Text>Dania|Danii|Danii|Danię|Danią|Danii|Dania|Danii|Danii|Danię|Danią|Danii</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_SWEDEN_NAME" Language="pl_PL">
+      <Text>Szwecja|Szwecji|Szwecji|Szwecję|Szwecją|Szwecji|Szwecja|Szwecji|Szwecji|Szwecję|Szwecją|Szwecji</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_AL_ANDALUS_NAME" Language="pl_PL">
+      <Text>Al-Andalus</Text>
+      <Gender>neuter</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_BYZANTIUM_NAME" Language="pl_PL">
+      <Text>Bizancjum</Text>
+      <Gender>neuter</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_FRANCIA_NAME" Language="pl_PL">
+      <Text>Państwo frankijskie|państwa frankijskiego|państwu frankijskiemu|państwo frankijskie|państwem frankijskim|państwie frankijskim|państwo frankijskie|państwa frankijskiego|państwu frankijskiemu|państwo frankijskie|państwem frankijskim|państwie frankijskim</Text>
+      <Gender>neuter</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_AL_HAKAM_II_NAME" Language="pl_PL">
+      <Text>Al-Hakam II|Al-Hakama II|Al-Hakamowi II|Al-Hakama II|Al-Hakamem II|Al-Hakamie II|Al-Hakam II|Al-Hakama II|Al-Hakamowi II|Al-Hakama II|Al-Hakamem II|Al-Hakamie II</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_BASIL_II_NAME" Language="pl_PL">
+      <Text>Bazyli II|Bazylego II|Bazylemu II|Bazylego II|Bazylim II|Bazylim II|Bazyli II|Bazylego II|Bazylemu II|Bazylego II|Bazylim II|Bazylim II</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_CHARLEMAGNE_NAME" Language="pl_PL">
+      <Text>Karol Wielki|Karola Wielkiego|Karolowi Wielkiemu|Karola Wielkiego|Karolem Wielkim|Karolu Wielkim|Karol Wielki|Karola Wielkiego|Karolowi Wielkiemu|Karola Wielkiego|Karolem Wielkim|Karolu Wielkim</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_CNUT_NAME" Language="pl_PL">
+      <Text>Kanut|Kanuta|Kanutowi|Kanuta|Kanutem|Kanucie|Kanut|Kanuta|Kanutowi|Kanuta|Kanutem|Kanucie</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_OLOF_NAME" Language="pl_PL">
+      <Text>Olof Skötkonung|Olofa Skötkonunga|Olofowi Skötkonungowi|Olofa Skötkonunga|Olofem Skötkonungem|Olofie Skötkonungu|Olof Skötkonung|Olofa Skötkonunga|Olofowi Skötkonungowi|Olofa Skötkonunga|Olofem Skötkonungem|Olofie Skötkonungu</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_MAP_NAME" Language="pl_PL">
+      <Text>Midgard</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_MAP_DESCRIPTION" Language="pl_PL">
+      <Text>Kraina wikingów.</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_GAMESPEED_VALHALLA_NAME" Language="pl_PL">
+      <Text>Walhalla</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_GAMESPEED_VALHALLA_HELP" Language="pl_PL">
+      <Text>Szybkość wiecznej walki.</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_ERA_EARLY_NAME" Language="pl_PL">
+      <Text>Lindisfarne</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_ERA_EARLY_DESCRIPTION" Language="pl_PL">
+      <Text>Epoka Lindisfarne, początki wikingów.</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_ERA_MIDDLE_NAME" Language="pl_PL">
+      <Text>Rus</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_ERA_MIDDLE_DESCRIPTION" Language="pl_PL">
+      <Text>Epoka Rus, szczyt potęgi wikingów.</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_ERA_LATE_NAME" Language="pl_PL">
+      <Text>Hastings</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_ERA_LATE_DESCRIPTION" Language="pl_PL">
+      <Text>Epoka Hastings, świt wikingów.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_VIKING_NAME" Language="pl_PL">
+      <Text>Wiking</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_VIKING_DESCRIPTION" Language="pl_PL">
+      <Text>Jednostki nie ponoszą dodatkowego kosztu ruchu za okrętowanie i wyokrętowanie.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_FRANKISH_NAME" Language="pl_PL">
+      <Text>Frank</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_FRANKISH_DESCRIPTION" Language="pl_PL">
+      <Text>Cud Mont Saint-Michel znajduje się w Rouen.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_MOORISH_NAME" Language="pl_PL">
+      <Text>Maur</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_MOORISH_DESCRIPTION" Language="pl_PL">
+      <Text>Cud Alhambra znajduje się w Išbiliji.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_BYZANTINE_NAME" Language="pl_PL">
+      <Text>Bizantyjczyk</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_BYZANTINE_DESCRIPTION" Language="pl_PL">
+      <Text>Cud Hagia Sofia znajduje się w Konstantynopolu.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_EXTRA_MILITARY_SLOT_NAME" Language="pl_PL">
+      <Text>Imperium Morza Północnego</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_EXTRA_MILITARY_SLOT_DESCRIPTION" Language="pl_PL">
+      <Text>Ma dodatkowe miejsce na doktrynę wojskową. Może tworzyć osadników, langskipy wikingów, misjonarzy i przystań.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_FASTER_SHIPS_DESCRIPTION" Language="pl_PL">
+      <Text>Jednostki morskie mają +2 punkty ruchu. Może tworzyć osadników, langskipy wikingów, misjonarzy i dzielnicę portową.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_EXTRA_ECONOMIC_SLOT_NAME" Language="pl_PL">
+      <Text>Król skarbów</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_EXTRA_ECONOMIC_SLOT_DESCRIPTION" Language="pl_PL">
+      <Text>Ma dodatkowe miejsce na doktrynę gospodarczą. Może tworzyć osadników, langskipy wikingów, misjonarzy i dzielnicę portową.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_PIOUS_NAME" Language="pl_PL">
+      <Text>Pobożny</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_PIOUS_DESCRIPTION" Language="pl_PL">
+      <Text>Zaczyna z teokracją i może wytwarzać rycerzy.</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_NAME" Language="pl_PL">
+      <Text>Wikingowie, kupcy i najeźdźcy!</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_TOOLTIP" Language="pl_PL">
+      <Text>Czy jako król wikingów zdołasz zgromadzić najwięcej skarbów? Trwa 60 tur.</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_DESCRIPTION" Language="pl_PL">
+      <Text>W tym trwającym 60 tur scenariuszu zjednocz Europę pod swoimi rządami jako najpotężniejszy wiking. Wciel się w jednego z unikalnych wikińskich władców Danii, Norwegii lub Szwecji i łup całą Europę. Rozpocznij morską inwazję na Anglię, podbij Paryż, przepłyń Cieśninę Gibraltarską, by najeżdżać wybrzeże Morza Śródziemnego.[NEWLINE][NEWLINE]Buduj potęgę handlową swojego państwa, tworząc szlaki z miastami przynoszącymi jak największy zysk – a jeśli postanowisz przyjąć religię, szerz dobrą nowinę i generuj [ICON_Faith] wiarę dla swego ludu.</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_VIKING_SCENARIO" Language="pl_PL">
+      <Text>Co jest prawdziwą miarą władcy wikingów? Pod swoją komendą masz morskich wojowników, którzy popłyną za tobą na drugi kraniec oceanów znanego świata. Widok twoich langskipów napełnia przerażeniem serca tych, których majątek można dostrzec z morskiego brzegu. Jednak plądrowanie dla samego plądrowania to zwykły bandytyzm. Ty, mój panie, nie jesteś zwykłym bandytą. Naucz ich twardej prawdy o bogactwie, z którym się obnoszą: jeśli nie są w stanie go ochronić, to znaczy, że tak naprawdę nigdy do nich nie należało.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SCENARIO_NORWEGIAN_BERSERKER_DESCRIPTION" Language="pl_PL">
+      <Text>Unikalna jednostka wikingów. 4 punkty [ICON_Movement] ruchu, jeśli ruch jednostki rozpoczyna się na wrogim terytorium. +10 do [ICON_Strength] siły bojowej podczas ataku i -5 do [ICON_Strength] siły bojowej podczas obrony. Zdobywa punkty wielkiego generała za zniszczenie wroga.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SCENARIO_NORWEGIAN_LONGSHIP_DESCRIPTION" Language="pl_PL">
+      <Text>Unikalna jednostka wikingów zastępująca galerę. Możliwość plądrowania wybrzeża wroga i przejmowania sąsiadujących cywili. Leczenie na terenie neutralnym. Zdobywa punkty wielkiego admirała za zniszczenie wroga.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SCENARIO_FRANKISH_CABALLARII_DESCRIPTION" Language="pl_PL">
+      <Text>Unikalna jednostka państwa frankijskiego zastępująca rycerzy. Brak kar bojowych po uszkodzeniu.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SCENARIO_MOORISH_FARFANES_DESCRIPTION" Language="pl_PL">
+      <Text>Jednostka dostępna wyłącznie dla Al-Andulus. Lekka kawaleria walcząca skuteczniej na własnym terytorium lub na polu z nim sąsiadującym. Możliwość wykonania ruchu po ataku, jeśli pozostaną dostępne punkty ruchu.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SCENARIO_SETTLER_DESCRIPTION" Language="pl_PL">
+      <Text>Jednostka dostępna wyłącznie dla wikingów. Może zakładać nowe miasta.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SCENARIO_QUADRIREME_DESCRIPTION" Language="pl_PL">
+      <Text>Unikalna jednostka Bizancjum. Pierwsza morska jednostka dystansowa.</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_SCENARIO_HARBOR_DESCRIPTION" Language="pl_PL">
+      <Text>Dzielnica specjalizująca się w działalności morskiej. Likwiduje koszt okrętowania i wyokrętowania na tym polu. Można ją zbudować tylko na brzegu lub jeziorze w sąsiedztwie lądu.[NEWLINE][NEWLINE]+1 miejsce na [ICON_TradeRoute] szlak handlowy, jeśli miasto nie posiada dzielnicy biznesowej.[NEWLINE][NEWLINE]Sąsiedztwo: standardowa premia do [ICON_Gold] złota za każdy sąsiadujący zasób przybrzeżny. Mała premia do [ICON_Gold] złota za sąsiadujące dzielnice.</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_SCENARIO_ALCAZAR_DESCRIPTION" Language="pl_PL">
+      <Text>Ulepszenie Al-Andalus zapewniające fortyfikacje, [ICON_Faith] wiarę i [ICON_Gold] złoto.</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_SCENARIO_MONASTERY_DESCRIPTION" Language="pl_PL">
+      <Text>Frankijskie, bizantyjskie i typowe dla miast-państw ulepszenie zapewniające [ICON_Faith] wiarę.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SCENARIO_FRANKISH_CABALLARII_NAME" Language="pl_PL">
+      <Text>Caballarii|Caballarii|Caballarii|Caballarii|Caballarii|Caballarii|caballarii|caballarii|caballarii|caballarii|caballarii|caballarii</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SCENARIO_MOORISH_FARFANES_NAME" Language="pl_PL">
+      <Text>Farfanes|Farfanes|Farfanes|Farfanes|Farfanes|Farfanes|farfanes|farfanes|farfanes|farfanes|farfanes|farfanes</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_SCENARIO_ALCAZAR_NAME" Language="ru_RU">
+      <Text>Алькасар|алькасара|алькасару|алькасар|алькасаром|алькасаре</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_SCENARIO_MONASTERY_NAME" Language="ru_RU">
+      <Text>Монастырь|монастыря|монастырю|монастырь|монастырем|монастыре</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_DENMARK_DESCRIPTION" Language="ru_RU">
+      <Text>Датская империя|Датской империи|Датской империи|Датскую империю|Датской империей|Датской империи</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_SWEDEN_DESCRIPTION" Language="ru_RU">
+      <Text>Шведская империя|Шведской империи|Шведской империи|Шведскую империю|Шведской империей|Шведской империи</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_AL_ANDALUS_DESCRIPTION" Language="ru_RU">
+      <Text>Халифат Аль-Андалус|халифата Аль-Андалус|халифату Аль-Андалус|халифат Аль-Андалус|хлифатом Аль-Андалус|халифате Аль-Андалус</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_BYZANTIUM_DESCRIPTION" Language="ru_RU">
+      <Text>Византийская империя|Византийской империи|Византийской империи|Византийскую империю|Византийской империей|Византийской империи</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_FRANCIA_DESCRIPTION" Language="ru_RU">
+      <Text>Франкская империя|Франкской империи|Франкской империи|Франкскую империю|Франкской империей|Франкской империи</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_DENMARK_NAME" Language="ru_RU">
+      <Text>Дания|Дании|Дании|Данию|Данией|Дании</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_SWEDEN_NAME" Language="ru_RU">
+      <Text>Швеция|Швеции|Швеции|Швецию|Швецией|Швеции</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_AL_ANDALUS_NAME" Language="ru_RU">
+      <Text>Аль-Андалус|Аль-Андалуса|Аль-Андалусу|Аль-Андалус|Аль-Андалусом|Аль-Андалусе</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_BYZANTIUM_NAME" Language="ru_RU">
+      <Text>Византия|Византии|Византии|Византию|Византией|Византии</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_FRANCIA_NAME" Language="ru_RU">
+      <Text>Франкия|Франкии|Франкии|Франкию|Франкией|Франкии</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_AL_HAKAM_II_NAME" Language="ru_RU">
+      <Text>Аль-Хакам II|Аль-Хакама ІІ|Аль-Хакаму ІІ|Аль-Хакама ІІ|Аль-Хакамом ІІ|Аль-Хакаме ІІ</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_BASIL_II_NAME" Language="ru_RU">
+      <Text>Василий II|Василия ІІ|Василию ІІ|Василия ІІ|Василием ІІ|Василии ІІ</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_CHARLEMAGNE_NAME" Language="ru_RU">
+      <Text>Карл Великий|Карла Великого|Карлу Великому|Карла Великого|Карлом Великим|Карле Великом</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_CNUT_NAME" Language="ru_RU">
+      <Text>Кнуд|Кнуда|Кнуду|Кнуда|Кнудом|Кнуде</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_OLOF_NAME" Language="ru_RU">
+      <Text>Олаф Шетконунг|Олафа Шетконунга|Олафу Шетконунгу|Олафа Шетконунга|Олафом Шетконунгом|Олафе Шетконунге</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_MAP_NAME" Language="ru_RU">
+      <Text>Мидгард</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_MAP_DESCRIPTION" Language="ru_RU">
+      <Text>Земля викингов</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_GAMESPEED_VALHALLA_NAME" Language="ru_RU">
+      <Text>Вальгалла</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_GAMESPEED_VALHALLA_HELP" Language="ru_RU">
+      <Text>Скорость вечного боя.</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_ERA_EARLY_NAME" Language="ru_RU">
+      <Text>Линдисфарн</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_ERA_EARLY_DESCRIPTION" Language="ru_RU">
+      <Text>Эпоха Линдисфарна, заря викингов</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_ERA_MIDDLE_NAME" Language="ru_RU">
+      <Text>Русь|Руси|Руси|Русь|Русью|Руси</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_ERA_MIDDLE_DESCRIPTION" Language="ru_RU">
+      <Text>Эпоха Руси, расцвет викингов</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_ERA_LATE_NAME" Language="ru_RU">
+      <Text>Гастингс</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_ERA_LATE_DESCRIPTION" Language="ru_RU">
+      <Text>Эпоха Гастингса, закат викингов</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_VIKING_NAME" Language="ru_RU">
+      <Text>Викинг</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_VIKING_DESCRIPTION" Language="ru_RU">
+      <Text>Юниты не получают штрафа к перемещению от погрузки и выгрузки с корабля.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_FRANKISH_NAME" Language="ru_RU">
+      <Text>Франкия</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_FRANKISH_DESCRIPTION" Language="ru_RU">
+      <Text>Мон-Сен-Мишель – чудо света, расположенное в Руане.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_MOORISH_NAME" Language="ru_RU">
+      <Text>Мавры</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_MOORISH_DESCRIPTION" Language="ru_RU">
+      <Text>Альгамбра – чудо света, расположенное в провинции Ишбилья.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_BYZANTINE_NAME" Language="ru_RU">
+      <Text>Византия</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_BYZANTINE_DESCRIPTION" Language="ru_RU">
+      <Text>Собор Святой Софии – чудо света, расположенное в Константинополе.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_EXTRA_MILITARY_SLOT_NAME" Language="ru_RU">
+      <Text>Империя Северного моря</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_EXTRA_MILITARY_SLOT_DESCRIPTION" Language="ru_RU">
+      <Text>Имеет дополнительную ячейку военного курса. Может создавать поселенцев, драккары, миссионеров и гавань.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_FASTER_SHIPS_DESCRIPTION" Language="ru_RU">
+      <Text>Морские юниты имеют на 2 ОП больше. Может создавать поселенцев, драккары, миссионеров и гавань.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_EXTRA_ECONOMIC_SLOT_NAME" Language="ru_RU">
+      <Text>Царь сокровищ</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_EXTRA_ECONOMIC_SLOT_DESCRIPTION" Language="ru_RU">
+      <Text>Имеет дополнительную ячейку экономического курса. Может создавать поселенцев, драккары, миссионеров и гавань.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_PIOUS_NAME" Language="ru_RU">
+      <Text>Благочестие</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_PIOUS_DESCRIPTION" Language="ru_RU">
+      <Text>Начинает с теократией и способностью создавать рыцарей.</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_NAME" Language="ru_RU">
+      <Text>Викинги, купцы и захватчики!</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_TOOLTIP" Language="ru_RU">
+      <Text>Сможете ли вы, король викингов, накопить величайшие богатства? Длительность: 60 ходов.</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_DESCRIPTION" Language="ru_RU">
+      <Text>В этом 60-ходовом сценарии ваша задача в роли предводителя викингов – подчинить Европу своей власти. Играйте за одного из трех уникальных правителей из Дании, Норвегии или Швеции. Грабьте и разоряйте все на своем пути по Европе. Выступите в морской поход против Англии, захватите Париж, пройдите через Гибралтар и хозяйничайте на Средиземном море.[NEWLINE][NEWLINE]Вернувшись домой, проложите торговые пути в богатейшие города и постройте торговую империю. А если вы – последователь какой-либо религии, то распространяйте благую весть и укрепляйте [ICON_Faith] веру своего народа.</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_VIKING_SCENARIO" Language="ru_RU">
+      <Text>Что значит быть предводителем викингов? Под вашим командованием – воины-моряки, которые последуют за вами через все океаны известного мира. Ваши драккары вселяют ужас в сердца тех, чьи богатые города расположены на морском берегу. Но грабеж ради грабежа – это всего лишь разбой. А вы, повелитель, не простой разбойник. Откройте им суровую правду: то, что ты не в силах защитить, тебе не принадлежит.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SCENARIO_NORWEGIAN_BERSERKER_DESCRIPTION" Language="ru_RU">
+      <Text>Уникальный юнит викингов. 4 [ICON_Movement] ОП, если начинает движение на вражеской территории. +10 к [ICON_Strength] боевой мощи в атаке и -5 [ICON_Strength] боевой мощи в обороне. Дает очки великого полководца, уничтожая другие юниты.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SCENARIO_NORWEGIAN_LONGSHIP_DESCRIPTION" Language="ru_RU">
+      <Text>Уникальный морской юнит викингов, заменяющий галеру. Грабит прибрежные территории и захватывает соседних жителей. Лечится на нейтральной территории. Дает очки великого флотоводца, уничтожая другие юниты.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SCENARIO_FRANKISH_CABALLARII_DESCRIPTION" Language="ru_RU">
+      <Text>Уникальный юнит франков, замещающий рыцаря. Не получает штрафа к мощи при повреждении.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SCENARIO_MOORISH_FARFANES_DESCRIPTION" Language="ru_RU">
+      <Text>Уникальная легкая кавалерия Аль-Андалуса, которая лучше сражается на своей территории или рядом с ней. Если остались ОП, может двигаться после атаки.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SCENARIO_SETTLER_DESCRIPTION" Language="ru_RU">
+      <Text>Уникальный юнит викингов, может строить новые города.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SCENARIO_QUADRIREME_DESCRIPTION" Language="ru_RU">
+      <Text>Византийский уникальный юнит. Первый морской юнит дальнего боя.</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_SCENARIO_HARBOR_DESCRIPTION" Language="ru_RU">
+      <Text>Уникальный район викингов, отвечающий за морские коммуникации. На клетке района не действует [ICON_Movement] штраф за погрузку на корабль и выгрузку с него. Должен быть построен на клетке побережья или озера, примыкающей к земле.[NEWLINE][NEWLINE]+1 [ICON_TradeRoute] доступный торговый путь, если в городе нет центра коммерции.[NEWLINE][NEWLINE]Соседство: стандартный бонус к [ICON_Gold] золоту за соседство с береговыми ресурсами. Небольшой бонус к [ICON_Gold] золоту за соседство с другими городскими районами.</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_SCENARIO_ALCAZAR_DESCRIPTION" Language="ru_RU">
+      <Text>Улучшение Аль-Андалуса. Предоставляет укрепления, очки [ICON_Faith] веры, и [ICON_Gold] золото.</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_SCENARIO_MONASTERY_DESCRIPTION" Language="ru_RU">
+      <Text>Улучшение Франкии, Византии и городов-государств. Предоставляет очки [ICON_Faith] веры.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SCENARIO_FRANKISH_CABALLARII_NAME" Language="ru_RU">
+      <Text>Кабалларии|кабаллариев|кабаллариям|кабаллариев|кабаллариями|кабаллариях</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SCENARIO_MOORISH_FARFANES_NAME" Language="ru_RU">
+      <Text>Фарфаны|фарфанов|фарфанам|фарфаны|фарфанами|фарфанах</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_SCENARIO_ALCAZAR_NAME" Language="zh_Hans_CN">
+      <Text>阿卡萨城堡</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_SCENARIO_MONASTERY_NAME" Language="zh_Hans_CN">
+      <Text>修道院</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_DENMARK_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>丹麦帝国</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_SWEDEN_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>瑞典帝国</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_AL_ANDALUS_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>安达卢斯哈里发帝国</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_BYZANTIUM_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>拜占庭帝国</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_FRANCIA_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>法兰克帝国</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_DENMARK_NAME" Language="zh_Hans_CN">
+      <Text>丹麦</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_SWEDEN_NAME" Language="zh_Hans_CN">
+      <Text>瑞典</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_AL_ANDALUS_NAME" Language="zh_Hans_CN">
+      <Text>安达卢斯</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_BYZANTIUM_NAME" Language="zh_Hans_CN">
+      <Text>拜占庭</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_FRANCIA_NAME" Language="zh_Hans_CN">
+      <Text>法兰克</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_AL_HAKAM_II_NAME" Language="zh_Hans_CN">
+      <Text>阿勒哈卡姆二世</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_BASIL_II_NAME" Language="zh_Hans_CN">
+      <Text>巴兹尔二世</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_CHARLEMAGNE_NAME" Language="zh_Hans_CN">
+      <Text>查理曼大帝</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_CNUT_NAME" Language="zh_Hans_CN">
+      <Text>克努特</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_OLOF_NAME" Language="zh_Hans_CN">
+      <Text>奥洛夫·舍特康努格</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_MAP_NAME" Language="zh_Hans_CN">
+      <Text>米德加德</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_MAP_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>维京勇士之地。</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_GAMESPEED_VALHALLA_NAME" Language="zh_Hans_CN">
+      <Text>瓦尔哈拉</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_GAMESPEED_VALHALLA_HELP" Language="zh_Hans_CN">
+      <Text>永恒之战的速度。</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_ERA_EARLY_NAME" Language="zh_Hans_CN">
+      <Text>林迪斯法恩</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_ERA_EARLY_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>维京人在林迪斯法恩时代初现端倪。</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_ERA_MIDDLE_NAME" Language="zh_Hans_CN">
+      <Text>基辅罗斯</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_ERA_MIDDLE_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>维京人在罗斯时代发展到顶峰。</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_ERA_LATE_NAME" Language="zh_Hans_CN">
+      <Text>黑斯廷斯</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_ERA_LATE_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>维京人走向没落的黑斯廷斯时代。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_VIKING_NAME" Language="zh_Hans_CN">
+      <Text>维京人</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_VIKING_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>单位忽略上船、下船产生的额外移动力消耗。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_FRANKISH_NAME" Language="zh_Hans_CN">
+      <Text>法兰克人</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_FRANKISH_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>圣米歇尔山位于鲁昂。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_MOORISH_NAME" Language="zh_Hans_CN">
+      <Text>摩尔人</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_MOORISH_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>阿尔罕布拉宫位于伊斯比利亚。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_BYZANTINE_NAME" Language="zh_Hans_CN">
+      <Text>拜占庭人</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_BYZANTINE_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>圣索菲亚大教堂位于君士坦丁堡。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_EXTRA_MILITARY_SLOT_NAME" Language="zh_Hans_CN">
+      <Text>北海帝国</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_EXTRA_MILITARY_SLOT_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>拥有一个额外的军事政策槽位。可建造开拓者、维京长船、传教士和港口。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_FASTER_SHIPS_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>海军单位移动力+2。可建造开拓者、维京长船、传教士和港口。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_EXTRA_ECONOMIC_SLOT_NAME" Language="zh_Hans_CN">
+      <Text>珍宝之王</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_EXTRA_ECONOMIC_SLOT_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>拥有一个额外的经济政策槽位。可建造开拓者、维京长船、传教士和港口。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_PIOUS_NAME" Language="zh_Hans_CN">
+      <Text>虔诚的</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_PIOUS_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>以神权政体和创建骑士的能力开始。</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_NAME" Language="zh_Hans_CN">
+      <Text>维京人、商人、掠夺者！</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_TOOLTIP" Language="zh_Hans_CN">
+      <Text>作为维京国王，您能积累起最伟大的财富吗？持续60回合。</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>扮演霸气十足的维京领主，在这个持续60回合的情景中将欧洲纳入您的治下。可在丹麦、挪威或瑞典三个特色维京统治者之间进行选择，一路劫掠向欧洲进军。从海上入侵英格兰、征服巴黎、或围绕直布罗陀海峡航行并扫荡地中海。[NEWLINE][NEWLINE]返回家乡，和利润丰厚的城市建立贸易路线，打造商业帝国。如果有意皈依宗教，则广传善言，树立人民的 [ICON_Faith] 信仰。</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_VIKING_SCENARIO" Language="zh_Hans_CN">
+      <Text>怎样才配得上被称作维京领主？在海上听候您指挥的，是愿意跟随您一起穿越这个已知世界的大海的勇士。您的长船将在那些目光短浅止于海岸的人们心中投下深深的阴影。但劫掠本身其实是简单的土匪行径。而您，我的领主，绝不肤浅、亦非匪徒。用那些目光短浅者四处招摇的财富给他们上一课吧——能够守护住的财富才真正属于自己。</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SCENARIO_NORWEGIAN_BERSERKER_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>维京特色单位。如该单位在敌方领土开始回合，则[ICON_Movement] 移动力为4点。攻击时 [ICON_Strength] 战斗力+10，防御时 [ICON_Strength] 战斗力-5。击杀敌人可获得大将军点数。</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SCENARIO_NORWEGIAN_LONGSHIP_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>取代桨帆船的维京特色海军单位。如果相邻，可掠夺敌人沿海土地，并俘获平民。可在中立领土上获得治愈。通过击杀获取海军统帅点数。</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SCENARIO_FRANKISH_CABALLARII_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>取代骑士的法兰克特色单位。受伤害时不会遭受战斗减益。</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SCENARIO_MOORISH_FARFANES_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>安杜鲁斯特色单位。靠近或位于本土时，轻骑兵单位战斗力更强。如有剩余移动值，能在攻击后移动。</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SCENARIO_SETTLER_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>维京特色单位，可以建造新城市。</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SCENARIO_QUADRIREME_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>拜占庭特色单位。第一个海军远程单位。</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_SCENARIO_HARBOR_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>城市中的海军活动区域（维京人特色）。同时移除该单元格的上船和下船 [ICON_Movement] 移动力消耗。必须修建在与陆地相邻的海岸或湖泊地貌上。[NEWLINE][NEWLINE]如此城尚未拥有商业中心区域，[ICON_TradeRoute] 贸易路线容量+1。[NEWLINE][NEWLINE]相邻：每个相邻的海岸资源均获得标准 [ICON_Gold] 金币加成。相邻区域单元格获得少量 [ICON_Gold] 金币加成。</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_SCENARIO_ALCAZAR_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>安达卢斯改良设施，提供防御工事、[ICON_Faith] 信仰值和 [ICON_Gold] 金币。</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_SCENARIO_MONASTERY_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>法兰克人、拜占庭人和城邦提供 [ICON_Faith] 信仰值的改良设施。</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SCENARIO_FRANKISH_CABALLARII_NAME" Language="zh_Hans_CN">
+      <Text>骑师</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SCENARIO_MOORISH_FARFANES_NAME" Language="zh_Hans_CN">
+      <Text>伊比利亚雇佣兵</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_SCENARIO_ALCAZAR_NAME" Language="es_ES">
+      <Text>Alcázar|Alcázares</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_SCENARIO_MONASTERY_NAME" Language="es_ES">
+      <Text>Monasterio|Monasterios</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_DENMARK_DESCRIPTION" Language="es_ES">
+      <Text>Imperio danés</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_SWEDEN_DESCRIPTION" Language="es_ES">
+      <Text>Imperio sueco</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_AL_ANDALUS_DESCRIPTION" Language="es_ES">
+      <Text>Califato de al-Ándalus</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_BYZANTIUM_DESCRIPTION" Language="es_ES">
+      <Text>Imperio bizantino</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_FRANCIA_DESCRIPTION" Language="es_ES">
+      <Text>Imperio franco</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_DENMARK_NAME" Language="es_ES">
+      <Text>Dinamarca</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_SWEDEN_NAME" Language="es_ES">
+      <Text>Suecia</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_AL_ANDALUS_NAME" Language="es_ES">
+      <Text>Al-Ándalus</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_BYZANTIUM_NAME" Language="es_ES">
+      <Text>Bizancio</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_FRANCIA_NAME" Language="es_ES">
+      <Text>Francia</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_AL_HAKAM_II_NAME" Language="es_ES">
+      <Text>Alhakén II</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_BASIL_II_NAME" Language="es_ES">
+      <Text>Basilio II</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_CHARLEMAGNE_NAME" Language="es_ES">
+      <Text>Carlomagno</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_CNUT_NAME" Language="es_ES">
+      <Text>Canuto</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_OLOF_NAME" Language="es_ES">
+      <Text>Olof Skötkonung</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_MAP_NAME" Language="es_ES">
+      <Text>Midgard</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_MAP_DESCRIPTION" Language="es_ES">
+      <Text>La tierra de los Vikingos.</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_GAMESPEED_VALHALLA_NAME" Language="es_ES">
+      <Text>Valhalla</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_GAMESPEED_VALHALLA_HELP" Language="es_ES">
+      <Text>La velocidad del combate eterno.</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_ERA_EARLY_NAME" Language="es_ES">
+      <Text>Lindisfarne</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_ERA_EARLY_DESCRIPTION" Language="es_ES">
+      <Text>La época Lindisfarne, los inicios de los vikingos.</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_ERA_MIDDLE_NAME" Language="es_ES">
+      <Text>Rus</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_ERA_MIDDLE_DESCRIPTION" Language="es_ES">
+      <Text>La época Rus, el cénit de los vikingos.</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_ERA_LATE_NAME" Language="es_ES">
+      <Text>Hastings</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_ERA_LATE_DESCRIPTION" Language="es_ES">
+      <Text>La época Hastings, el ocaso de los vikingos.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_VIKING_NAME" Language="es_ES">
+      <Text>Vikingos</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_VIKING_DESCRIPTION" Language="es_ES">
+      <Text>Las unidades ignoran los costes de Movimiento adicionales por embarcar y desembarcar.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_FRANKISH_NAME" Language="es_ES">
+      <Text>Francos</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_FRANKISH_DESCRIPTION" Language="es_ES">
+      <Text>La maravilla Mont Saint Michel se encuentra en Ruán.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_MOORISH_NAME" Language="es_ES">
+      <Text>Moriscos</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_MOORISH_DESCRIPTION" Language="es_ES">
+      <Text>La maravilla Alhambra se encuentra en Granada.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_BYZANTINE_NAME" Language="es_ES">
+      <Text>Bizancio</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_BYZANTINE_DESCRIPTION" Language="es_ES">
+      <Text>La maravilla Santa Sofía se encuentra en Constantinopla.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_EXTRA_MILITARY_SLOT_NAME" Language="es_ES">
+      <Text>Imperio del Mar del Norte</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_EXTRA_MILITARY_SLOT_DESCRIPTION" Language="es_ES">
+      <Text>Tiene un espacio de política militar adicional. Puede construir Colonos, Drakkars vikingos, Misioneros y el Puerto.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_FASTER_SHIPS_DESCRIPTION" Language="es_ES">
+      <Text>+2 al Movimiento para las unidades navales. Puede construir Colonos, Drakkars vikingos, Misioneros y el distrito del Puerto.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_EXTRA_ECONOMIC_SLOT_NAME" Language="es_ES">
+      <Text>Rey del tesoro</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_EXTRA_ECONOMIC_SLOT_DESCRIPTION" Language="es_ES">
+      <Text>Tiene un espacio de política económica adicional. Puede construir Colonos, Drakkars vikingos, Misioneros y el distrito del Puerto.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_PIOUS_NAME" Language="es_ES">
+      <Text>Devoto</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_PIOUS_DESCRIPTION" Language="es_ES">
+      <Text>Empieza con Teocracia y la habilidad de crear Caballeros.</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_NAME" Language="es_ES">
+      <Text>¡Vikingos, comerciantes y piratas!</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_TOOLTIP" Language="es_ES">
+      <Text>Como rey de los vikingos, ¿podrás amasar la mayor riqueza? Dura 60 turnos.</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_DESCRIPTION" Language="es_ES">
+      <Text>Conviértete en el señor vikingo más poderoso de Europa y controla el continente en este escenario de 60 turnos. Juega con uno de los tres gobernantes vikingos de Dinamarca, Noruega o Suecia mientras saqueas y asaltas Europa. Invade Inglaterra por mar, conquista París, navega por Gibraltar y siembra el caos por el Mediterráneo.[NEWLINE][NEWLINE]En tu tierra, establece Rutas comerciales con las ciudades más rentables para crear un imperio mercantil. Y si eres devoto de alguna religión, propágala y genera Fe [ICON_Faith] para tu pueblo.</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_VIKING_SCENARIO" Language="es_ES">
+      <Text>¿Cuál es la valía de un señor vikingo? Tienes a tus órdenes guerreros navegantes que te seguirán por los mares del mundo conocido. Tus drakkars intimidan a los adinerados que los divisan desde la costa. Pero el saqueo sin más es un simple asunto de bandidos. Tú, mi señor, no eres ni simple ni bandido. Si no son capaces de defender su riqueza, es que no merecen tenerla.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SCENARIO_NORWEGIAN_BERSERKER_DESCRIPTION" Language="es_ES">
+      <Text>Unidad exclusiva de los vikingos. 4 de Movimiento [ICON_Movement] si esta unidad empieza en territorio enemigo. +10 a la Fuerza de combate [ICON_Strength] al atacar y -5 a la Fuerza de combate [ICON_Strength] al defender. Gana puntos de Gran general por bajas.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SCENARIO_NORWEGIAN_LONGSHIP_DESCRIPTION" Language="es_ES">
+      <Text>Unidad naval exclusiva de los vikingos que sustituye a la Galera. Puede saquear tierras costeras enemigas y capturar a civiles si están adyacentes. Puede curarse en territorio neutral. Gana puntos de Gran almirante por bajas.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SCENARIO_FRANKISH_CABALLARII_DESCRIPTION" Language="es_ES">
+      <Text>Unidad exclusiva francesa que sustituye al Caballero. No sufre penalizaciones al combate cuando recibe daños.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SCENARIO_MOORISH_FARFANES_DESCRIPTION" Language="es_ES">
+      <Text>Unidad exclusiva de al-Ándalus. Unidad de Caballería ligera que lucha mejor cuando se encuentra adyacente o en su territorio de origen. Puede moverse después de atacar si quedan puntos de Movimiento.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SCENARIO_SETTLER_DESCRIPTION" Language="es_ES">
+      <Text>Unidad exclusiva vikinga que puede crear nuevas ciudades.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SCENARIO_QUADRIREME_DESCRIPTION" Language="es_ES">
+      <Text>Unidad exclusiva bizantina. Primera unidad naval a distancia.</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_SCENARIO_HARBOR_DESCRIPTION" Language="es_ES">
+      <Text>Un distrito exclusivo para los vikingos dedicado a las actividades navales en la ciudad. También quita la penalización al movimiento [ICON_Movement] por embarcar desde esta casilla y desembarcar en ella. Debe construirse en terreno de Costa o Lago adyacente a tierra.[NEWLINE][NEWLINE]+1 a la capacidad de Rutas comerciales [ICON_TradeRoute] si esta ciudad todavía no tiene un distrito de Centro comercial. [NEWLINE][NEWLINE]Adyacencia: bonificación normal a Oro [ICON_Gold] por cada recurso de costa adyacente. Bonificación menor a Oro [ICON_Gold] por casillas de distrito adyacentes.</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_SCENARIO_ALCAZAR_DESCRIPTION" Language="es_ES">
+      <Text>Mejora de al-Ándalus que otorga fortificación, Fe [ICON_Faith] y Oro [ICON_Gold].</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_SCENARIO_MONASTERY_DESCRIPTION" Language="es_ES">
+      <Text>Mejora de los francos, de Bizancio y de las ciudades-estado que otorga Fe [ICON_Faith].</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SCENARIO_FRANKISH_CABALLARII_NAME" Language="es_ES">
+      <Text>Caballarius|Caballarii</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SCENARIO_MOORISH_FARFANES_NAME" Language="es_ES">
+      <Text>Farfán|Farfanes</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_SCENARIO_ALCAZAR_NAME" Language="zh_Hant_HK">
+      <Text>阿爾卡薩城堡</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_SCENARIO_MONASTERY_NAME" Language="zh_Hant_HK">
+      <Text>修道院</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_DENMARK_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>丹麥帝國</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_SWEDEN_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>瑞典帝國</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_AL_ANDALUS_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>安達魯斯哈里發帝國</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_BYZANTIUM_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>拜占庭帝國</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_FRANCIA_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>法蘭克帝國</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_DENMARK_NAME" Language="zh_Hant_HK">
+      <Text>丹麥</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_SWEDEN_NAME" Language="zh_Hant_HK">
+      <Text>瑞典</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_AL_ANDALUS_NAME" Language="zh_Hant_HK">
+      <Text>安達魯斯</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_BYZANTIUM_NAME" Language="zh_Hant_HK">
+      <Text>拜占庭</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_FRANCIA_NAME" Language="zh_Hant_HK">
+      <Text>法蘭克</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_AL_HAKAM_II_NAME" Language="zh_Hant_HK">
+      <Text>阿勒哈卡姆二世</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_BASIL_II_NAME" Language="zh_Hant_HK">
+      <Text>巴茲爾二世</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_CHARLEMAGNE_NAME" Language="zh_Hant_HK">
+      <Text>查理曼大帝</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_CNUT_NAME" Language="zh_Hant_HK">
+      <Text>克努特</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_OLOF_NAME" Language="zh_Hant_HK">
+      <Text>奧洛夫•舍特康努格</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_MAP_NAME" Language="zh_Hant_HK">
+      <Text>米德加爾特</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_MAP_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>維京人的世界。</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_GAMESPEED_VALHALLA_NAME" Language="zh_Hant_HK">
+      <Text>瓦爾哈拉</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_GAMESPEED_VALHALLA_HELP" Language="zh_Hant_HK">
+      <Text>永恆之戰的速度。</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_ERA_EARLY_NAME" Language="zh_Hant_HK">
+      <Text>林迪斯法恩</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_ERA_EARLY_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>維京人在林迪斯法恩時代初現端倪。</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_ERA_MIDDLE_NAME" Language="zh_Hant_HK">
+      <Text>羅斯時代</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_ERA_MIDDLE_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>維京人在羅斯時代發展到頂峰。</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_ERA_LATE_NAME" Language="zh_Hant_HK">
+      <Text>黑斯廷斯時期</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_ERA_LATE_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>維京人遲暮之年的黑斯廷斯年代。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_VIKING_NAME" Language="zh_Hant_HK">
+      <Text>維京人</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_VIKING_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>單位忽略上船、下船的額外移動力消耗。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_FRANKISH_NAME" Language="zh_Hant_HK">
+      <Text>法蘭克人</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_FRANKISH_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>魯昂擁有聖米歇爾山。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_MOORISH_NAME" Language="zh_Hant_HK">
+      <Text>摩爾人</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_MOORISH_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>伊斯比利亞擁有阿蘭布拉宮。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_BYZANTINE_NAME" Language="zh_Hant_HK">
+      <Text>拜占庭人</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_SCENARIO_BYZANTINE_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>君士坦丁堡擁有聖索菲亞大教堂。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_EXTRA_MILITARY_SLOT_NAME" Language="zh_Hant_HK">
+      <Text>北海帝國</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_EXTRA_MILITARY_SLOT_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>擁有一個額外的軍事政策槽位。能創建開拓者、維京長船、傳教士和港口。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_FASTER_SHIPS_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>海軍單位+2移動力。能創建開拓者、維京長船、傳教士和港口。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_EXTRA_ECONOMIC_SLOT_NAME" Language="zh_Hant_HK">
+      <Text>財寶天王</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_EXTRA_ECONOMIC_SLOT_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>擁有一個額外的經濟政策槽位。能創建開拓者、維京長船、傳教士和港口。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_PIOUS_NAME" Language="zh_Hant_HK">
+      <Text>虔誠</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_PIOUS_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>開局便擁有神權政體及創建騎士的能力。</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_NAME" Language="zh_Hant_HK">
+      <Text>維京人、商人、掠奪者！</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_TOOLTIP" Language="zh_Hant_HK">
+      <Text>作為維京國王，你能積累起最多的財富嗎？持續60回合。</Text>
+    </Replace>
+    <Replace Tag="LOC_VIKING_SCENARIO_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>在這個60回合的場景中扮演強大的維京王者，將整個歐洲納入你的統治之下。扮演來自丹麥、挪威或瑞典的三位維京統治者之一，一路靠著搶劫與掠奪浩浩蕩蕩前往歐洲。向英格蘭發動海軍攻勢、征服巴黎，或在直布羅陀海峽附近徜徉，並劫掠地中海沿岸。[NEWLINE][NEWLINE]回到祖國，盡可能累積報酬率最高的貿易路線，建立出一個商業帝國。而如果你發現自己正在信仰某種宗教，便去散播福音，為你的人民產生更多 [ICON_Faith] 信仰值吧。</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_VIKING_SCENARIO" Language="zh_Hant_HK">
+      <Text>維京王者的價值何在？你的一聲令下，航海的勇士們便會跟隨你穿過已知世界的各個海域。你麾下的維京戰船能在那些將財富囤積在岸邊的人心中造成許多陰影。但單是為了劫掠而劫掠不過是尋常土匪所為。而你，我的大王，並不是尋常人，也不是土匪。我們要教訓他們炫耀財富的下場，讓他們知道保護不了的財富終究只是浮雲。</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SCENARIO_NORWEGIAN_BERSERKER_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>維京人特色單位。如果該單位在敵人領土開始回合，[ICON_Movement] 移動力為4。攻擊時+10 [ICON_Strength] 戰鬥力，防禦時-5 [ICON_Strength] 戰鬥力。每次擊殺可獲得大將軍點數。</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SCENARIO_NORWEGIAN_LONGSHIP_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>取代槳帆船的維京特色海軍單位。如果相鄰，可掠奪敵人沿海土地，並俘獲平民。可在中立領土上獲得治癒。通過擊殺獲取海軍統帥點數。</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SCENARIO_FRANKISH_CABALLARII_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>取代騎士的法蘭克特色單位。受傷害時不會遭受戰鬥減益。</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SCENARIO_MOORISH_FARFANES_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>安杜魯斯特色單位。靠近或位於本土時，輕裝甲兵單位戰鬥力更強。如有剩餘移動力，能在攻擊後移動。</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SCENARIO_SETTLER_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>維京特色單位，可以創建新城市。</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SCENARIO_QUADRIREME_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>拜占庭特色單位。第一個海軍遠程單位。</Text>
+    </Replace>
+    <Replace Tag="LOC_DISTRICT_SCENARIO_HARBOR_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>城市裡的維京人特色海軍活動區域。同時移除從該單元格上船和下船的 [ICON_Movement] 移動力減益。必須建在靠近陸地的海岸或湖泊地形上。[NEWLINE][NEWLINE]若此城市尚未建立商業中心區域，則+1 [ICON_TradeRoute] 貿易路線容量。[NEWLINE][NEWLINE]相鄰加成：每個相鄰的海岸資源會獲得標準 [ICON_Gold] 金幣加成。相鄰的區域單元格會獲得些許 [ICON_Gold] 金幣加成。</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_SCENARIO_ALCAZAR_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>安杜魯斯的改良設施提供防禦工事加成、 [ICON_Faith] 信仰值、 [ICON_Gold] 金幣。</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_SCENARIO_MONASTERY_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>提供 [ICON_Faith] 信仰值的法蘭克人、拜占庭人和城邦改良設施。</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SCENARIO_FRANKISH_CABALLARII_NAME" Language="zh_Hant_HK">
+      <Text>騎師</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_SCENARIO_MOORISH_FARFANES_NAME" Language="zh_Hant_HK">
+      <Text>僱傭兵</Text>
+    </Replace>
+  </LocalizedText>
+</GameData>

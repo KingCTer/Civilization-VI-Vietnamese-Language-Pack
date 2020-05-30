@@ -1,0 +1,797 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <LocalizedText>
+    <Replace Tag="LOC_ALEXANDER_SCENARIO_NAME" Language="pt_BR">
+      <Text>Conquistas de Alexandre</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_SCENARIO_TOOLTIP" Language="pt_BR">
+      <Text>Você conseguirá conquistar um império digno de Alexandre, o Grande? Não dura mais que 60 turnos.</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_SCENARIO_DESCRIPTION" Language="pt_BR">
+      <Text>Neste cenário para um jogador com limite de turnos, você precisa correr para expandir o seu império e ser realmente merecedor do título "Alexandre, o Grande". Esse cenário enfatiza o combate, expansão territorial e o uso calculado dos Grandes Generais que lutarão ao seu lado.[NEWLINE][NEWLINE]Para vencer, conquiste todas as cidades do mapa dentro de um determinado número de turnos determinado pelo nível de dificuldade:[NEWLINE][NEWLINE]Colono: 60 turnos[NEWLINE]Senhor da Guerra ou Chefe: 55 turnos[NEWLINE]Rei ou Príncipe: 50 turnos[NEWLINE]Imortal ou Imperador: 45 turnos[NEWLINE]Divindade: 37 turnos</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_ALEXANDERSCENARIO_MAP_NAME" Language="pt_BR">
+      <Text>O Mundo de Alexandre</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_ALEXANDER_SCENARIO_MAP_DESCRIPTION" Language="pt_BR">
+      <Text>Dá Grécia à Índia, passando pelo Egito</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_ALEXANDER_SCENARIO_DARIUS_III_NAME" Language="pt_BR">
+      <Text>Dario III</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_ALEXANDER_SCENARIO_MACEDON_TRAIT_NAME" Language="pt_BR">
+      <Text>Cidades epônimas</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_ALEXANDER_SCENARIO_MACEDON_TRAIT_DESCRIPTION" Language="pt_BR">
+      <Text>Colonos recebem +1 de [ICON_Movement] movimento. Todas as cidades começam com 2 de [ICON_Citizen] população e um Celeiro. O tempo de [ICON_Production] produção do Distrito é reduzido e Acampamentos começam com uma Academia dos Basilikoi Paides.</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_ALEXANDER_SCENARIO_PERSIA_TRAIT_NAME" Language="pt_BR">
+      <Text>Aliados</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_ALEXANDER_SCENARIO_PERSIA_TRAIT_DESCRIPTION" Language="pt_BR">
+      <Text>Começa o jogo como suserano de Atenas, Marakanda e Patala.</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_ALEXANDER_SCENARIO_DARIUS_III_TRAIT_NAME" Language="pt_BR">
+      <Text>Qualificação de serviço postal</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_ALEXANDER_SCENARIO_DARIUS_III_TRAIT_DESCRIPTION" Language="pt_BR">
+      <Text>Construtores podem construir 1 melhoria extra.</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_ALEXANDER_SCENARIO_UNIT_SETTLER_TRAIT_NAME" Language="pt_BR">
+      <Text>Unidade exclusiva da Macedônia: Colono</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_QUOTE" Language="pt_BR">
+      <Text>"Eu não roubo a vitória." — Alexandre, o Grande</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_1_NAME" Language="pt_BR">
+      <Text>Alexandre, o Indiscutivelmente Grande</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_1_QUOTE" Language="pt_BR">
+      <Text>"Ao mais forte!"</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_2_NAME" Language="pt_BR">
+      <Text>Alexandre, o Muito Bom</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_2_QUOTE" Language="pt_BR">
+      <Text>"Não há nada impossível para aquele que tenta."</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_3_NAME" Language="pt_BR">
+      <Text>Alexandre, o Mais ou Menos</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_3_QUOTE" Language="pt_BR">
+      <Text>"Prefiro superar os outros no conhecimento do que é bom, do que em poder e domínio."</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_4_NAME" Language="pt_BR">
+      <Text>Alexandre, o Excepcionalmente Medíocre</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_4_QUOTE" Language="pt_BR">
+      <Text>"Sabíeis vós que o fim e o meio da conquista é evitar fazer o mesmo que o conquistado?"</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_5_NAME" Language="pt_BR">
+      <Text>Alexandre, o Comprovadamente Péssimo</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_5_QUOTE" Language="pt_BR">
+      <Text>"Santa sombra da morte, não sou eu o culpado pelo seu destino cruel e amargo."</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_SCENARIO_NAME" Language="fr_FR">
+      <Text>Conquêtes d'Alexandre</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_SCENARIO_TOOLTIP" Language="fr_FR">
+      <Text>Parviendrez-vous à conquérir un empire digne d'Alexandre le Grand ? Dure 60 tours au maximum.</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_SCENARIO_DESCRIPTION" Language="fr_FR">
+      <Text>Dans ce scénario solo en temps limité, vous devez accroître votre empire au plus vite afin de mériter le titre d'Alexandre "le Grand". Pour l'emporter, vous devrez devenir un maître de guerre, agrandir votre territoire et optimiser l'utilisation des généraux illustres qui combattront à vos côtés. [NEWLINE][NEWLINE]Prenez le contrôle de toutes les villes de la carte dans le nombre de tours défini par le niveau de difficulté : [NEWLINE][NEWLINE]Colon : 60 tours [NEWLINE]Seigneur ou chef tribal : 55 tours [NEWLINE]Roi ou prince : 50 tours [NEWLINE]Immortel ou empereur : 45 tours [NEWLINE]Divinité : 37 tours</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_ALEXANDERSCENARIO_MAP_NAME" Language="fr_FR">
+      <Text>Monde d'Alexandre</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_ALEXANDER_SCENARIO_MAP_DESCRIPTION" Language="fr_FR">
+      <Text>De la Grèce à l'Inde en passant par l'Égypte.</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_ALEXANDER_SCENARIO_DARIUS_III_NAME" Language="fr_FR">
+      <Text>Darius III</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_ALEXANDER_SCENARIO_MACEDON_TRAIT_NAME" Language="fr_FR">
+      <Text>Villes éponymes</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_ALEXANDER_SCENARIO_MACEDON_TRAIT_DESCRIPTION" Language="fr_FR">
+      <Text>[ICON_Movement] PM +1 pour les colons. Toutes les villes sont fondées avec 2 [ICON_Citizen] citoyens et un grenier. Les quartiers sont plus vite construits et les campements contiennent un Basilikoi Paides.</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_ALEXANDER_SCENARIO_PERSIA_TRAIT_NAME" Language="fr_FR">
+      <Text>Alliés</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_ALEXANDER_SCENARIO_PERSIA_TRAIT_DESCRIPTION" Language="fr_FR">
+      <Text>Vous commencez la partie en étant suzerain d'Athènes, de Marakanda et de Patala.</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_ALEXANDER_SCENARIO_DARIUS_III_TRAIT_NAME" Language="fr_FR">
+      <Text>Expérience postale</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_ALEXANDER_SCENARIO_DARIUS_III_TRAIT_DESCRIPTION" Language="fr_FR">
+      <Text>Les bâtisseurs peuvent construire un aménagement supplémentaire.</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_ALEXANDER_SCENARIO_UNIT_SETTLER_TRAIT_NAME" Language="fr_FR">
+      <Text>Unité exclusive à la Macédoine : Colon</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_QUOTE" Language="fr_FR">
+      <Text>"Je ne vole jamais mes victoires." - Alexandre le Grand</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_1_NAME" Language="fr_FR">
+      <Text>Alexandre le Visiblement grand</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_1_QUOTE" Language="fr_FR">
+      <Text>"Au plus fort !"</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_2_NAME" Language="fr_FR">
+      <Text>Alexandre le Très bon</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_2_QUOTE" Language="fr_FR">
+      <Text>"Rien n'est impossible pour celui qui essaie."</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_3_NAME" Language="fr_FR">
+      <Text>Alexandre le Pas mal du tout</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_3_QUOTE" Language="fr_FR">
+      <Text>"Je préfère savoir mieux que les autres ce qui est excellent, plutôt que d'étaler ma puissance et mes frontières."</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_4_NAME" Language="fr_FR">
+      <Text>Alexandre l'Étonnamment médiocre</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_4_QUOTE" Language="fr_FR">
+      <Text>"Ne sais-tu donc pas que l'objectif de la conquête est d'éviter de subir le même sort que le conquis ?"</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_5_NAME" Language="fr_FR">
+      <Text>Alexandre le Décidément nul</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_5_QUOTE" Language="fr_FR">
+      <Text>"Ombre sacrée de la mort, je ne suis nullement responsable de ton cruel destin."</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_SCENARIO_NAME" Language="de_DE">
+      <Text>Alexanders Eroberungen</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_SCENARIO_TOOLTIP" Language="de_DE">
+      <Text>Könnt Ihr ein Reich erobern, das Alexander dem Großen würdig ist? Läuft maximal 60 Runden.</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_SCENARIO_DESCRIPTION" Language="de_DE">
+      <Text>In diesem Einzelspieler-Szenario auf Zeit müsst Ihr Euer Reich schnell erweitern, um Euch den Titel "Alexander der Große" wirklich zu verdienen. Das Szenario stellt den Kampf, territoriale Expansion und den strategischen Einsatz Großer Generäle, die an Eurer Seite kämpfen, in den Vordergrund.[NEWLINE][NEWLINE]Zum Sieg müsst Ihr jede Stadt auf der Karte innerhalb einer bestimmten Anzahl von Runden basierend auf Eurem Schwierigkeitsgrad erobern:[NEWLINE][NEWLINE]Siedler: 60 Runden[NEWLINE]Kriegsherr oder Häuptling: 55 Runden[NEWLINE]König oder Prinz: 50 Runden[NEWLINE]Unsterblicher oder Kaiser: 45 Runden[NEWLINE]Gottheit: 37 Runden</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_ALEXANDERSCENARIO_MAP_NAME" Language="de_DE">
+      <Text>Alexanders Welt</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_ALEXANDER_SCENARIO_MAP_DESCRIPTION" Language="de_DE">
+      <Text>Von Griechenland über Ägypten bis nach Indien.</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_ALEXANDER_SCENARIO_DARIUS_III_NAME" Language="de_DE">
+      <Text>Dareios III.</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_ALEXANDER_SCENARIO_MACEDON_TRAIT_NAME" Language="de_DE">
+      <Text>Stadt-Namensgeber</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_ALEXANDER_SCENARIO_MACEDON_TRAIT_DESCRIPTION" Language="de_DE">
+      <Text>Siedler erhalten +1 [ICON_Movement] Fortbewegung. Alle Städte starten mit 2 [ICON_Citizen] Bevölkerung und einem Kornspeicher. Die [ICON_Production] Produktionszeit des Bezirks ist verringert und Lager starten mit einer Basilikoi Paides.</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_ALEXANDER_SCENARIO_PERSIA_TRAIT_NAME" Language="de_DE">
+      <Text>Verbündete</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_ALEXANDER_SCENARIO_PERSIA_TRAIT_DESCRIPTION" Language="de_DE">
+      <Text>Startet das Spiel als Suzerän von Athen, Marakanda und Patala.</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_ALEXANDER_SCENARIO_DARIUS_III_TRAIT_NAME" Language="de_DE">
+      <Text>Feldpost-Qualifizierung</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_ALEXANDER_SCENARIO_DARIUS_III_TRAIT_DESCRIPTION" Language="de_DE">
+      <Text>Handwerker können 1 zusätzliche Modernisierung bauen.</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_ALEXANDER_SCENARIO_UNIT_SETTLER_TRAIT_NAME" Language="de_DE">
+      <Text>Makedonische Spezialeinheit: Siedler</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_QUOTE" Language="de_DE">
+      <Text>"Ich stehle keine Siege." - Alexander der Große</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_1_NAME" Language="de_DE">
+      <Text>Alexander der offensichtlich Große</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_1_QUOTE" Language="de_DE">
+      <Text>"Für den Stärksten!"</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_2_NAME" Language="de_DE">
+      <Text>Alexander der sehr Gute</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_2_QUOTE" Language="de_DE">
+      <Text>"Nichts ist unmöglich für den, der es versucht."</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_3_NAME" Language="de_DE">
+      <Text>Alexander der ziemlich Bescheidene</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_3_QUOTE" Language="de_DE">
+      <Text>"Ich überlasse es lieber anderen, sich bezüglich des Wissens auszuzeichnen, was ausgezeichnet ist, statt bezüglich meiner Macht und Herrschaft."</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_4_NAME" Language="de_DE">
+      <Text>Alexander der ungewohnt Mittelmäßige</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_4_QUOTE" Language="de_DE">
+      <Text>"Wisst Ihr nicht, dass man bei einer Eroberung vermeiden muss, dasselbe zu tun wie die Eroberten?"</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_5_NAME" Language="de_DE">
+      <Text>Alexander der erwiesenermaßen Schreckliche</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_5_QUOTE" Language="de_DE">
+      <Text>"Heilige Schatten der Toten - ich bin nicht verantwortlich für Euer grausames und bitteres Schicksal."</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_SCENARIO_NAME" Language="it_IT">
+      <Text>Le conquiste di Alessandro</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_SCENARIO_TOOLTIP" Language="it_IT">
+      <Text>Saprai conquistare un impero degno di Alessandro Magno? Dura al massimo 60 turni.</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_SCENARIO_DESCRIPTION" Language="it_IT">
+      <Text>In questo scenario a tempo per un giocatore singolo, devi affrettarti a espandere il tuo impero per guadagnarti, con merito, il titolo di "Alessandro Magno". Questo scenario si concentra sul combattimento, sull'espansione territoriale e sull'uso accorto dei Grandi Generali che combatteranno per te.[NEWLINE][NEWLINE]Per vincere devi conquistare tutte le città sulla mappa entro un numero di turni determinato dal livello di difficoltà:[NEWLINE][NEWLINE]Colono: 60 turni[NEWLINE]Condottiero o Capitano: 55 turni[NEWLINE]Re o Principe: 50 turni[NEWLINE]Immortale o Imperatore: 45 turni[NEWLINE]Divinità: 37 turni</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_ALEXANDERSCENARIO_MAP_NAME" Language="it_IT">
+      <Text>Il mondo di Alessandro</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_ALEXANDER_SCENARIO_MAP_DESCRIPTION" Language="it_IT">
+      <Text>Dalla Grecia all'Egitto all'India.</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_ALEXANDER_SCENARIO_DARIUS_III_NAME" Language="it_IT">
+      <Text>Dario III|di Dario III|a Dario III|Dario III|da Dario III</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_ALEXANDER_SCENARIO_MACEDON_TRAIT_NAME" Language="it_IT">
+      <Text>Città eponime</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_ALEXANDER_SCENARIO_MACEDON_TRAIT_DESCRIPTION" Language="it_IT">
+      <Text>I Coloni ricevono +1 al [ICON_Movement] movimento. Tutte le città partono con una [ICON_Citizen] popolazione di 2 e un Granaio. La costruzione dei distretti è più rapida e gli Accampamenti entrano in gioco contenendo già Basilikoi Paides.</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_ALEXANDER_SCENARIO_PERSIA_TRAIT_NAME" Language="it_IT">
+      <Text>Alleati</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_ALEXANDER_SCENARIO_PERSIA_TRAIT_DESCRIPTION" Language="it_IT">
+      <Text>Cominci la partita già Sovrano di Atene, Marakanda e Patala.</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_ALEXANDER_SCENARIO_DARIUS_III_TRAIT_NAME" Language="it_IT">
+      <Text>Servizio postale qualificato</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_ALEXANDER_SCENARIO_DARIUS_III_TRAIT_DESCRIPTION" Language="it_IT">
+      <Text>I Costruttori possono realizzare 1 miglioramento extra.</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_ALEXANDER_SCENARIO_UNIT_SETTLER_TRAIT_NAME" Language="it_IT">
+      <Text>Unità esclusiva macedone: Colono</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_QUOTE" Language="it_IT">
+      <Text>"Io non rubo la vittoria." - Alessandro Magno</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_1_NAME" Language="it_IT">
+      <Text>Alessandro il Manifestamente Magno</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_1_QUOTE" Language="it_IT">
+      <Text>"Al più forte di tutti!"</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_2_NAME" Language="it_IT">
+      <Text>Alessandro il Molto Bravo</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_2_QUOTE" Language="it_IT">
+      <Text>"Non c'è nulla di impossibile per chi ha il coraggio di provare."</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_3_NAME" Language="it_IT">
+      <Text>Alessandro il Piuttosto Decente</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_3_QUOTE" Language="it_IT">
+      <Text>"Preferirei superare gli altri nella conoscenza di ciò che è eccellente, piuttosto che nell'estensione del mio potere e dei miei domìni."</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_4_NAME" Language="it_IT">
+      <Text>Alessandro l'Insolitamente Mediocre</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_4_QUOTE" Language="it_IT">
+      <Text>"Non sai che lo scopo di andare alla conquista è di evitare di fare le stesse cose dei conquistati?"</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_5_NAME" Language="it_IT">
+      <Text>Alessandro il Palesemente Scarso</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_5_QUOTE" Language="it_IT">
+      <Text>"Sacre ombre dei morti, non sono io il responsabile del vostro destino aspro e crudele."</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_SCENARIO_NAME" Language="ja_JP">
+      <Text>アレキサンドロスの征服</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_SCENARIO_TOOLTIP" Language="ja_JP">
+      <Text>アレキサンドロス大王の名にふさわしい大帝国を打ち立てろ！ 最大60ターンで終了します。</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_SCENARIO_DESCRIPTION" Language="ja_JP">
+      <Text>「アレキサンドロス大王」の名にふさわしい帝国を築くべく、限られたターン内で版図を拡大していくシングルプレイヤーシナリオです。戦闘と領土の拡張を中心として展開するこのシナリオでは、大将軍の使い方が勝利の鍵となります。[NEWLINE][NEWLINE]マップ上に存在するすべての都市を以下のターン数以内に占領できれば勝利となります。[NEWLINE][NEWLINE]開拓者: 60ターン[NEWLINE]族長/将軍: 55ターン[NEWLINE]王子/王: 50ターン[NEWLINE]皇帝/不死: 45ターン[NEWLINE]神: 37ターン</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_ALEXANDERSCENARIO_MAP_NAME" Language="ja_JP">
+      <Text>アレキサンドロスの世界</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_ALEXANDER_SCENARIO_MAP_DESCRIPTION" Language="ja_JP">
+      <Text>ギリシャからエジプト、そしてインドへ。</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_ALEXANDER_SCENARIO_DARIUS_III_NAME" Language="ja_JP">
+      <Text>ダレイオス3世</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_ALEXANDER_SCENARIO_MACEDON_TRAIT_NAME" Language="ja_JP">
+      <Text>王名を冠せし都市</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_ALEXANDER_SCENARIO_MACEDON_TRAIT_DESCRIPTION" Language="ja_JP">
+      <Text>開拓者の [ICON_Movement] 移動力+1。すべての都市が最初から [ICON_Citizen] 人口2と穀物庫1を有する。区域の [ICON_Production] 生産時間が短縮され、兵営に最初からバシリコイ・パイデスが備わっている。</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_ALEXANDER_SCENARIO_PERSIA_TRAIT_NAME" Language="ja_JP">
+      <Text>同盟国</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_ALEXANDER_SCENARIO_PERSIA_TRAIT_DESCRIPTION" Language="ja_JP">
+      <Text>ゲーム開始時からアテネ、マラカンダ、パーターラの宗主国になっている。</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_ALEXANDER_SCENARIO_DARIUS_III_TRAIT_NAME" Language="ja_JP">
+      <Text>郵便制度</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_ALEXANDER_SCENARIO_DARIUS_III_TRAIT_DESCRIPTION" Language="ja_JP">
+      <Text>労働者が建設可能な施設+1。</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_ALEXANDER_SCENARIO_UNIT_SETTLER_TRAIT_NAME" Language="ja_JP">
+      <Text>マケドニア固有のユニット: 開拓者</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_QUOTE" Language="ja_JP">
+      <Text>「私は勝利を盗まない。」[NEWLINE]- アレキサンドロス大王</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_1_NAME" Language="ja_JP">
+      <Text>アレキサンドロス大帝王</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_1_QUOTE" Language="ja_JP">
+      <Text>「最強の者に従うべし！」</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_2_NAME" Language="ja_JP">
+      <Text>アレキサンドロス英明王</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_2_QUOTE" Language="ja_JP">
+      <Text>「あきらめぬ限り不可能などない。」</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_3_NAME" Language="ja_JP">
+      <Text>アレキサンドロス及第王</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_3_QUOTE" Language="ja_JP">
+      <Text>「私は権勢において人より優れていたのではない。優れているとはどういうことかを人よりも知っていたのだ。」</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_4_NAME" Language="ja_JP">
+      <Text>アレキサンドロス凡庸王</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_4_QUOTE" Language="ja_JP">
+      <Text>「征服するためにはどうすればよいか。征服された者たちと同じことをしないことだ。」</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_5_NAME" Language="ja_JP">
+      <Text>アレキサンドロス暗愚王</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_5_QUOTE" Language="ja_JP">
+      <Text>「死せる者たちよ、お前たちが迎えた破滅の責を負うべきは私にあらず。」</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_SCENARIO_NAME" Language="ko_KR">
+      <Text>알렉산더의 정복</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_SCENARIO_TOOLTIP" Language="ko_KR">
+      <Text>알렉산더 대왕의 명성에 걸맞게 제국을 정복할 수 있습니까? 최대 60턴 제한.</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_SCENARIO_DESCRIPTION" Language="ko_KR">
+      <Text>이 턴 제한 싱글 플레이 시나리오에서는 제국을 확장하여 '위대한 알렉산더'의 칭호를 얻어야 합니다. 이 시나리오는 전투, 영토 확장 및 당신과 함께 싸울 위대한 장군의 전략적 활용이 중요합니다.[NEWLINE][NEWLINE]승리하려면 각 난이도 레벨의 정해진 턴 횟수 내에서 지도상의 모든 도시를 정복해야 합니다.[NEWLINE][NEWLINE]개척자: 60턴[NEWLINE]대장군 또는 족장: 55턴[NEWLINE]왕 또는 왕자: 50턴[NEWLINE]불멸자 또는 황제: 45턴[NEWLINE]신: 37턴</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_ALEXANDERSCENARIO_MAP_NAME" Language="ko_KR">
+      <Text>알렉산더의 세상</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_ALEXANDER_SCENARIO_MAP_DESCRIPTION" Language="ko_KR">
+      <Text>그리스에서 이집트를 거쳐 인도까지</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_ALEXANDER_SCENARIO_DARIUS_III_NAME" Language="ko_KR">
+      <Text>다리우스 3세</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_ALEXANDER_SCENARIO_MACEDON_TRAIT_NAME" Language="ko_KR">
+      <Text>동명의 도시</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_ALEXANDER_SCENARIO_MACEDON_TRAIT_DESCRIPTION" Language="ko_KR">
+      <Text>개척자는 [ICON_Movement] 이동력 +1을 획득합니다. 모든 도시가 [ICON_Citizen] 인구 2 및 곡창을 보유한 채 시작합니다. 특수지구 [ICON_Production] 생산 시간이 단축되고 주둔지는 바실리코이 파이데스를 가지고 시작합니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_ALEXANDER_SCENARIO_PERSIA_TRAIT_NAME" Language="ko_KR">
+      <Text>동맹</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_ALEXANDER_SCENARIO_PERSIA_TRAIT_DESCRIPTION" Language="ko_KR">
+      <Text>아테네, 마라칸다 및 파탈라의 종주국으로 게임을 시작합니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_ALEXANDER_SCENARIO_DARIUS_III_TRAIT_NAME" Language="ko_KR">
+      <Text>우편 제도 요건</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_ALEXANDER_SCENARIO_DARIUS_III_TRAIT_DESCRIPTION" Language="ko_KR">
+      <Text>건설자는 시설 1곳을 추가로 건설할 수 있습니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_ALEXANDER_SCENARIO_UNIT_SETTLER_TRAIT_NAME" Language="ko_KR">
+      <Text>마케도니아 특유의 유닛: 개척자</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_QUOTE" Language="ko_KR">
+      <Text>"나는 승리를 도둑질하지 않는다."[NEWLINE]- 알렉산더 대왕</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_1_NAME" Language="ko_KR">
+      <Text>의심할 여지 없이 위대한 알렉산더</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_1_QUOTE" Language="ko_KR">
+      <Text>"가장 강한 자를 위하여!"</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_2_NAME" Language="ko_KR">
+      <Text>뛰어난 알렉산더</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_2_QUOTE" Language="ko_KR">
+      <Text>"노력하는 자에게 불가능이란 없다."</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_3_NAME" Language="ko_KR">
+      <Text>나름 괜찮은 알렉산더</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_3_QUOTE" Language="ko_KR">
+      <Text>"내가 다른 이들보다 뛰어난 점은 힘과 통치력이 아니라 탁월한 것을 알아보는 안목이다."</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_4_NAME" Language="ko_KR">
+      <Text>희한할 정도로 평범한 알렉산더</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_4_QUOTE" Language="ko_KR">
+      <Text>"정복의 목표이자 끝은 정복당한 자와 똑같이 처신하지 않는 것임을 모르는가?"</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_5_NAME" Language="ko_KR">
+      <Text>확실하게 형편없는 알렉산더</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_5_QUOTE" Language="ko_KR">
+      <Text>"신성한 죽은 자들의 그림자들이여, 그대들의 잔인하고 비참한 운명은 내 탓이 아니다."</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_SCENARIO_NAME" Language="pl_PL">
+      <Text>Podboje Aleksandra</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_SCENARIO_TOOLTIP" Language="pl_PL">
+      <Text>Czy stworzysz imperium godne Aleksandra Wielkiego? Trwa nie więcej niż 60 tur.</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_SCENARIO_DESCRIPTION" Language="pl_PL">
+      <Text>W tym ograniczonym czasowo scenariuszu dla jednego gracza musisz stworzyć imperium godne Aleksandra Wielkiego. Scenariusz kładzie nacisk na walkę, ekspansję terytorialną i rozmyślne korzystanie z wielkich generałów wojujących u boku gracza.[NEWLINE][NEWLINE]Aby zwyciężyć, podbij wszystkie miasta na mapie w czasie określonym przez poziom trudności:[NEWLINE][NEWLINE]Osadnik: 60 tur[NEWLINE]Watażka lub wódz: 55 tur[NEWLINE]Król lub książę: 50 tur[NEWLINE]Nieśmiertelny lub imperator: 45 tur[NEWLINE]Bóstwo: 37 tur</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_ALEXANDERSCENARIO_MAP_NAME" Language="pl_PL">
+      <Text>Świat Aleksandra</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_ALEXANDER_SCENARIO_MAP_DESCRIPTION" Language="pl_PL">
+      <Text>Z Grecji do Egiptu i do Indii</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_ALEXANDER_SCENARIO_DARIUS_III_NAME" Language="pl_PL">
+      <Text>Dariusz III|Dariusza III|Dariuszowi III|Dariusza III|Dariuszem III|Dariuszu III</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_ALEXANDER_SCENARIO_MACEDON_TRAIT_NAME" Language="pl_PL">
+      <Text>Miasta eponimiczne</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_ALEXANDER_SCENARIO_MACEDON_TRAIT_DESCRIPTION" Language="pl_PL">
+      <Text>Osadnicy otrzymują premię +1 do [ICON_Movement] ruchu. Wszystkie miasta rozpoczynają rozgrywkę z [ICON_Citizen] populacją równą 2 oraz spichlerzem. Czas [ICON_Production] produkcji dzielnic jest zmniejszony, a dzielnica wojskowa po wybudowaniu zawiera basilikoi paides.</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_ALEXANDER_SCENARIO_PERSIA_TRAIT_NAME" Language="pl_PL">
+      <Text>Sojusznicy</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_ALEXANDER_SCENARIO_PERSIA_TRAIT_DESCRIPTION" Language="pl_PL">
+      <Text>Rozpoczyna grę jako suzeren Aten, Marakandy i Patali.</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_ALEXANDER_SCENARIO_DARIUS_III_TRAIT_NAME" Language="pl_PL">
+      <Text>Pocztowe kwalifikacje</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_ALEXANDER_SCENARIO_DARIUS_III_TRAIT_DESCRIPTION" Language="pl_PL">
+      <Text>Budowniczowie mogą wznieść o 1 ulepszenie więcej.</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_ALEXANDER_SCENARIO_UNIT_SETTLER_TRAIT_NAME" Language="pl_PL">
+      <Text>Unikalna jednostka macedońska: Osadnik</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_QUOTE" Language="pl_PL">
+      <Text>„Nie chcę kradzionego zwycięstwa”. – Aleksander Wielki</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_1_NAME" Language="pl_PL">
+      <Text>Aleksander Wyraźnie Wielki</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_1_QUOTE" Language="pl_PL">
+      <Text>„Najsilniejszemu!”</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_2_NAME" Language="pl_PL">
+      <Text>Aleksander Bardzo Dobry</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_2_QUOTE" Language="pl_PL">
+      <Text>„Nie ma rzeczy niemożliwych dla tego, kto próbuje”.</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_3_NAME" Language="pl_PL">
+      <Text>Aleksander Całkiem Niezły</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_3_QUOTE" Language="pl_PL">
+      <Text>„Wolałbym przewyższać innych w wiedzy o tym, co dobre, niż w zdobywaniu władzy i wpływów”.</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_4_NAME" Language="pl_PL">
+      <Text>Aleksander Niezwykle Przeciętny</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_4_QUOTE" Language="pl_PL">
+      <Text>„Czy nie wiesz, że celem podboju jest uniknięcie błędów popełnianych przez podbitych?”</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_5_NAME" Language="pl_PL">
+      <Text>Aleksander Niewątpliwie Beznadziejny</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_5_QUOTE" Language="pl_PL">
+      <Text>„Święte cienie poległych, nie jam jest winien waszemu okrutnemu i gorzkiemu losowi”.</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_SCENARIO_NAME" Language="ru_RU">
+      <Text>Завоевания Александра</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_SCENARIO_TOOLTIP" Language="ru_RU">
+      <Text>Создадите ли вы империю, достойную Александра Великого? Количество ходов: не более 60.</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_SCENARIO_DESCRIPTION" Language="ru_RU">
+      <Text>В этом одиночном сценарии с ограничением времени вам придется поторопиться с расширением своей империи, чтобы заслужить прозвище «Александр Великий». Этот сценарий сосредоточен на боевых действиях, территориальной экспансии и расчетливом использовании великих полководцев, которые будут сражаться на вашей стороне.[NEWLINE][NEWLINE]Чтобы победить, захватите все города на карте за определенное количество ходов в зависимости от уровня сложности:[NEWLINE][NEWLINE]Поселенец: 60 ходов[NEWLINE]Полководец или вождь: 55 ходов[NEWLINE]Царь или князь: 50 ходов[NEWLINE]Бессмертный или император: 45 ходов[NEWLINE]Божество: 37 ходов</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_ALEXANDERSCENARIO_MAP_NAME" Language="ru_RU">
+      <Text>Мир Александра</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_ALEXANDER_SCENARIO_MAP_DESCRIPTION" Language="ru_RU">
+      <Text>От Греции до Египта и Индии.</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_ALEXANDER_SCENARIO_DARIUS_III_NAME" Language="ru_RU">
+      <Text>Дарий III|Дария III|Дарию III|Дария III|Дарием III|Дарии III</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_ALEXANDER_SCENARIO_MACEDON_TRAIT_NAME" Language="ru_RU">
+      <Text>Города, названные в честь основателя</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_ALEXANDER_SCENARIO_MACEDON_TRAIT_DESCRIPTION" Language="ru_RU">
+      <Text>Поселенцы получают +1 [ICON_Movement] ОП. Все города при основании получают 2 единицы [ICON_Citizen] населения и амбар. [ICON_Production] Строительство районов ускоряется, военные лагеря строятся сразу со школой царских пажей.</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_ALEXANDER_SCENARIO_PERSIA_TRAIT_NAME" Language="ru_RU">
+      <Text>Союзники</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_ALEXANDER_SCENARIO_PERSIA_TRAIT_DESCRIPTION" Language="ru_RU">
+      <Text>Начать игру сюзереном Афин, Мараканды и Паталы.</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_ALEXANDER_SCENARIO_DARIUS_III_TRAIT_NAME" Language="ru_RU">
+      <Text>Организация почтовой службы</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_ALEXANDER_SCENARIO_DARIUS_III_TRAIT_DESCRIPTION" Language="ru_RU">
+      <Text>Строители могут построить на 1 улучшение больше.</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_ALEXANDER_SCENARIO_UNIT_SETTLER_TRAIT_NAME" Language="ru_RU">
+      <Text>Уникальный македонский юнит: поселенцы</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_QUOTE" Language="ru_RU">
+      <Text>«Я не краду победу» (Александр Великий)</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_1_NAME" Language="ru_RU">
+      <Text>Александр Несомненно Великий</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_1_QUOTE" Language="ru_RU">
+      <Text>«Сильнейшему!»</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_2_NAME" Language="ru_RU">
+      <Text>Александр Очень Хороший</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_2_QUOTE" Language="ru_RU">
+      <Text>«Нет ничего невозможного для того, кто пытается».</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_3_NAME" Language="ru_RU">
+      <Text>Александр Довольно Неплохой</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_3_QUOTE" Language="ru_RU">
+      <Text>«Я бы желал отличаться не могуществом, а знанием того, что прекрасно».</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_4_NAME" Language="ru_RU">
+      <Text>Александр Весьма Посредственный</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_4_QUOTE" Language="ru_RU">
+      <Text>«Разве вы не знаете, что конечная цель победы заключается для нас в том, чтобы не делать того, что делают побежденные?»</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_5_NAME" Language="ru_RU">
+      <Text>Александр Совершенно Никчемный</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_5_QUOTE" Language="ru_RU">
+      <Text>«О, священные тени смерти! Я не виню вас за жестокую и горькую участь».</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_SCENARIO_NAME" Language="zh_Hans_CN">
+      <Text>亚历山大的征服</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_SCENARIO_TOOLTIP" Language="zh_Hans_CN">
+      <Text>您能否开疆拓土打造一个伟大帝国，实至名归地获得亚历山大大帝的头衔？持续时间不超过60回合。</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_SCENARIO_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>在这个计时的单人情景中，玩家必须争分夺秒地扩张自己的帝国，实至名归地加冕“亚历山大大帝”的头衔。此情景着重于战斗、领土扩张，以及大将军的合理使用。[NEWLINE][NEWLINE]不同难度下，征服地图上所有城市取得游戏胜利所需的回合数也有所不同：[NEWLINE][NEWLINE]开拓者：60回合[NEWLINE]军阀或首领：55回合[NEWLINE]国王或王子：50回合[NEWLINE]不朽或君主：45回合[NEWLINE]神：37回合</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_ALEXANDERSCENARIO_MAP_NAME" Language="zh_Hans_CN">
+      <Text>亚历山大的世界</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_ALEXANDER_SCENARIO_MAP_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>从希腊到埃及、再到印度。</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_ALEXANDER_SCENARIO_DARIUS_III_NAME" Language="zh_Hans_CN">
+      <Text>大流士三世</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_ALEXANDER_SCENARIO_MACEDON_TRAIT_NAME" Language="zh_Hans_CN">
+      <Text>同名城市</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_ALEXANDER_SCENARIO_MACEDON_TRAIT_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>开拓者 [ICON_Movement] 移动力+1。开局时所有城市拥有2 [ICON_Citizen]人口和1座粮仓。区域 [ICON_Production] 生产时间缩短，开局时军营中便拥有1座皇家学堂。</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_ALEXANDER_SCENARIO_PERSIA_TRAIT_NAME" Language="zh_Hans_CN">
+      <Text>联盟</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_ALEXANDER_SCENARIO_PERSIA_TRAIT_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>以雅典、马拉坎达和帕塔拉宗主国开始游戏。</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_ALEXANDER_SCENARIO_DARIUS_III_TRAIT_NAME" Language="zh_Hans_CN">
+      <Text>邮政业务资质</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_ALEXANDER_SCENARIO_DARIUS_III_TRAIT_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>建造者可额外建造1个改良设施。</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_ALEXANDER_SCENARIO_UNIT_SETTLER_TRAIT_NAME" Language="zh_Hans_CN">
+      <Text>马其顿特色单位：开拓者</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_QUOTE" Language="zh_Hans_CN">
+      <Text>我不屑于窃取胜利。[NEWLINE]——亚历山大大帝</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_1_NAME" Language="zh_Hans_CN">
+      <Text>超级无敌的亚历山大</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_1_QUOTE" Language="zh_Hans_CN">
+      <Text>“向最强者致敬！”</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_2_NAME" Language="zh_Hans_CN">
+      <Text>相当不错的亚历山大</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_2_QUOTE" Language="zh_Hans_CN">
+      <Text>“有志者，事竟成。”</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_3_NAME" Language="zh_Hans_CN">
+      <Text>差强人意的亚历山大</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_3_QUOTE" Language="zh_Hans_CN">
+      <Text>“我宁愿自己超越常人的是对优秀的认知，而非权力和统治。”</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_4_NAME" Language="zh_Hans_CN">
+      <Text>庸庸碌碌的亚历山大</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_4_QUOTE" Language="zh_Hans_CN">
+      <Text>“岂不知征服的终点和目的便是为了避免重蹈被征服的覆辙？”</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_5_NAME" Language="zh_Hans_CN">
+      <Text>昏聩无能的亚历山大</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_5_QUOTE" Language="zh_Hans_CN">
+      <Text>“亡灵的神圣阴影啊，不要将你们残酷而凄苦的命运怪罪于我。”</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_SCENARIO_NAME" Language="es_ES">
+      <Text>Conquistas de Alejandro</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_SCENARIO_TOOLTIP" Language="es_ES">
+      <Text>¿Podrás conquistar un imperio digno de Alejandro Magno? No dura más de 60 turnos.</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_SCENARIO_DESCRIPTION" Language="es_ES">
+      <Text>En este escenario para un jugador con límite de tiempo tendrás que ampliar con rapidez tu imperio para ganar el título de "Alejandro Magno". Este escenario se centra en la lucha, la expansión territorial y el empleo meditado de los Grandes generales que lucharán a tu lado.[NEWLINE][NEWLINE]Para ganar, tendrás que conquistar todas las ciudades del mapa en un número de turnos determinado por el nivel de dificultad:[NEWLINE][NEWLINE]Colono: 60 turnos[NEWLINE]Caudillo o Cacique: 55 turnos[NEWLINE]Rey o Príncipe: 50 turnos[NEWLINE]Inmortal o Emperador: 45 turnos[NEWLINE]Deidad: 37 turnos</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_ALEXANDERSCENARIO_MAP_NAME" Language="es_ES">
+      <Text>El mundo de Alejandro</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_ALEXANDER_SCENARIO_MAP_DESCRIPTION" Language="es_ES">
+      <Text>De Grecia a Egipto y a la India.</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_ALEXANDER_SCENARIO_DARIUS_III_NAME" Language="es_ES">
+      <Text>Darío III</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_ALEXANDER_SCENARIO_MACEDON_TRAIT_NAME" Language="es_ES">
+      <Text>Ciudades epónimas</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_ALEXANDER_SCENARIO_MACEDON_TRAIT_DESCRIPTION" Language="es_ES">
+      <Text>Los Colonos reciben +1 al Movimiento [ICON_Movement]. Todas las ciudades comienzan con 2 de Población [ICON_Citizen] y un Granero. El tiempo de Producción [ICON_Production] del distrito disminuye y los Campamentos comienzan con un Basilikoi Paides.</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_ALEXANDER_SCENARIO_PERSIA_TRAIT_NAME" Language="es_ES">
+      <Text>Aliados</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_ALEXANDER_SCENARIO_PERSIA_TRAIT_DESCRIPTION" Language="es_ES">
+      <Text>Comienza el juego como suzerano de Atenas, Marakanda y Patala.</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_ALEXANDER_SCENARIO_DARIUS_III_TRAIT_NAME" Language="es_ES">
+      <Text>Requisitos del servicio postal</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_ALEXANDER_SCENARIO_DARIUS_III_TRAIT_DESCRIPTION" Language="es_ES">
+      <Text>Los Constructores pueden crear 1 mejora extra.</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_ALEXANDER_SCENARIO_UNIT_SETTLER_TRAIT_NAME" Language="es_ES">
+      <Text>Unidad exclusiva de Macedonia: Colono</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_QUOTE" Language="es_ES">
+      <Text>"No robo las victorias".[NEWLINE]– Alejandro Magno</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_1_NAME" Language="es_ES">
+      <Text>Alejandro el Demostrablemente Magno</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_1_QUOTE" Language="es_ES">
+      <Text>"¡Por los más fuertes!"</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_2_NAME" Language="es_ES">
+      <Text>Alejandro el Muy Bueno</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_2_QUOTE" Language="es_ES">
+      <Text>"No hay nada imposible para aquel que lo intenta".</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_3_NAME" Language="es_ES">
+      <Text>Alejandro el Aceptable</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_3_QUOTE" Language="es_ES">
+      <Text>"Prefiero conocer mejor que otros qué es la excelencia a regodearme en el alcance de mi poder y mis dominios".</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_4_NAME" Language="es_ES">
+      <Text>Alejandro el Extrañamente Mediocre</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_4_QUOTE" Language="es_ES">
+      <Text>"¿No comprendéis que el fin y propósito de una conquista es evitar hacer lo mismo que los conquistados?"</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_5_NAME" Language="es_ES">
+      <Text>Alejandro el Verificadamente Terrible</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_5_QUOTE" Language="es_ES">
+      <Text>"Sombras sagradas de los muertos, no os culparé de vuestro cruel y amargo destino".</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_SCENARIO_NAME" Language="zh_Hant_HK">
+      <Text>亞歷山大的征途</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_SCENARIO_TOOLTIP" Language="zh_Hant_HK">
+      <Text>你能否攻城掠地，創建一個帝國，獲得亞歷山大大帝之名？持續時間不超過60回合。</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_SCENARIO_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>在這個計時制的單人情景中，玩家必須盡快拓張帝國，才能真正贏得「亞歷山大大帝」的頭銜。這個情景著重於戰鬥、領土擴張，以及麾下大將軍的精準使用。[NEWLINE][NEWLINE]在不同難度的回合限制內征服地圖上的每座城市便可獲得勝利：[NEWLINE][NEWLINE]開拓者：60回合[NEWLINE]軍閥或首領：55回合[NEWLINE]國王或王子：50回合[NEWLINE]不朽或皇帝：45回合[NEWLINE]神：37回合</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_ALEXANDERSCENARIO_MAP_NAME" Language="zh_Hant_HK">
+      <Text>亞歷山大的世界</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_ALEXANDER_SCENARIO_MAP_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>從希臘到埃及，再到印度。</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_ALEXANDER_SCENARIO_DARIUS_III_NAME" Language="zh_Hant_HK">
+      <Text>大流士三世</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_ALEXANDER_SCENARIO_MACEDON_TRAIT_NAME" Language="zh_Hant_HK">
+      <Text>同名之城</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_ALEXANDER_SCENARIO_MACEDON_TRAIT_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>開拓者 [ICON_Movement] 移動力+1。開場時所有城市擁有2點 [ICON_Citizen] 人口和1座糧倉。區域 [ICON_Production] 生產時間縮短，開場時營地中便擁有1座王室扈從學院。</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_ALEXANDER_SCENARIO_PERSIA_TRAIT_NAME" Language="zh_Hant_HK">
+      <Text>結盟</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_ALEXANDER_SCENARIO_PERSIA_TRAIT_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>遊戲開始時便是雅典、馬拉坎達和帕塔拉的宗主國。</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_ALEXANDER_SCENARIO_DARIUS_III_TRAIT_NAME" Language="zh_Hant_HK">
+      <Text>郵政服務資格</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_ALEXANDER_SCENARIO_DARIUS_III_TRAIT_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>建造者可額外建造1座改良設施。</Text>
+    </Replace>
+    <Replace Tag="LOC_MOD_ALEXANDER_SCENARIO_UNIT_SETTLER_TRAIT_NAME" Language="zh_Hant_HK">
+      <Text>馬其頓特色單位：開拓者</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_QUOTE" Language="zh_Hant_HK">
+      <Text>「我不屑於竊取勝利。」[NEWLINE]—亞歷山大大帝</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_1_NAME" Language="zh_Hant_HK">
+      <Text>英明神武的亞歷山大大帝</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_1_QUOTE" Language="zh_Hant_HK">
+      <Text>「致最強者！」</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_2_NAME" Language="zh_Hant_HK">
+      <Text>厲害萬分的亞歷山大</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_2_QUOTE" Language="zh_Hant_HK">
+      <Text>「有志者事竟成。」</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_3_NAME" Language="zh_Hant_HK">
+      <Text>差強人意的亞歷山大</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_3_QUOTE" Language="zh_Hant_HK">
+      <Text>「我寧願自己超越常人的是對優秀的認知，而非權力和統治。」</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_4_NAME" Language="zh_Hant_HK">
+      <Text>庸庸碌碌的亞歷山大</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_4_QUOTE" Language="zh_Hant_HK">
+      <Text>「你們難道不知道征途的終點和重點就在於不要重蹈被征服的覆轍嗎？」</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_5_NAME" Language="zh_Hant_HK">
+      <Text>昏聵無能的亞歷山大</Text>
+    </Replace>
+    <Replace Tag="LOC_ALEXANDER_ENDGAME_RANKING_LEADER_5_QUOTE" Language="zh_Hant_HK">
+      <Text>「死者的聖影啊，你們不該將殘酷而苦澀的命運怪罪於我。」</Text>
+    </Replace>
+  </LocalizedText>
+</GameData>

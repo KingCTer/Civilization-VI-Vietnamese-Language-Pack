@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <LocalizedText>
+    <!-- Modifier Object Text - Used in GameCore -->
+    <Replace Language='en_US' Tag="LOC_MODIFIER_OBJECT_BUILDING">
+      <Text>K?n Tr�c|C�c K?n Tr�c</Text>
+      <Plurality>1|2</Plurality>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_MODIFIER_OBJECT_CITY">
+      <Text>Th�nh Ph?|C�c Th�nh Ph?</Text>
+      <Plurality>1|2</Plurality>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_MODIFIER_OBJECT_DISTRICT">
+      <Text>�?c Khu |C�c �?c Khu</Text>
+      <Plurality>1|2</Plurality>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_MODIFIER_OBJECT_GOVERNMENT">
+      <Text>Ch�nh Ph?|C�c Ch�nh Ph?</Text>
+      <Plurality>1|2</Plurality>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_MODIFIER_OBJECT_PLAYER">
+      <Text>Ng?i Choi|Nh?u Ng?i Choi</Text>
+      <Plurality>1|2</Plurality>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_MODIFIER_OBJECT_PLAYER_CAPTURED_UNIT">
+      <Text>Ng?i Choi d� b?t don v?|Ng?i Choi d� b?t don v?</Text>
+      <Plurality>1|2</Plurality>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_MODIFIER_OBJECT_POLICY">
+      <Text>Ch�nh S�ch|C�c Ch�nh S�ch</Text>
+      <Plurality>1|2</Plurality>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_MODIFIER_OBJECT_TEAM">
+      <Text>�?i|C�c �?i</Text>
+      <Plurality>1|2</Plurality>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_MODIFIER_OBJECT_TECHNOLOGY">
+      <Text>C�ng Ngh?|C�c C�ng Ngh?</Text>
+      <Plurality>1|2</Plurality>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_MODIFIER_OBJECT_UNIT">
+      <Text>�on V?|C�c �on V?</Text>
+      <Plurality>1|2</Plurality>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_MODIFIER_OBJECT_UNIT_PROMOTION">
+      <Text>Hu�n Chuong �on V?|Hu�n Chuong �on V?</Text>
+      <Plurality>1|2</Plurality>
+    </Replace>
+  </LocalizedText>
+</GameData>

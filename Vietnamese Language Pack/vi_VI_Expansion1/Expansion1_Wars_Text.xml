@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Replace Language="en_US" Tag="LOC_GOLDEN_AGE_NAME">
+			<Text>Kultakauden sota</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_EMERGENCY_WAR_NAME">
+			<Text>Hätätilasota</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_WAR_OF_RETRIBUTION_NAME">
+			<Text>Hyvityssota</Text>
+		</Replace>
+		<Replace Language="en_US" Tag="LOC_IDEOLOGICAL_WAR_NAME">
+			<Text>Ideologinen sota</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

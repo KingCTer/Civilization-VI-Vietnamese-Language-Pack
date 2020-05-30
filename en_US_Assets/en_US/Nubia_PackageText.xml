@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<EnglishText>
+		<Row Tag="LOC_NUBIA_MOD_TITLE">
+			<Text>DLC: Nubia Civilization Pack</Text>
+		</Row>
+		<Row Tag="LOC_NUBIA_MOD_TEASER">
+			<Text>New Civilization and Leader - Queen Amanitore of Nubia</Text>
+		</Row>
+		<Row Tag="LOC_NUBIA_MOD_DESCRIPTION">
+			<Text>Contains a new civilization and leader as well as a new world wonder.</Text>
+		</Row>
+		<Row Tag="LOC_MOD_NUBIA_SCENARIO_TITLE">
+			<Text>Scenario: Gifts of the Nile</Text>
+		</Row>
+		<Row Tag="LOC_MOD_NUBIA_SCENARIO_TEASER">
+			<Text>Can you become the dominant empire in the Nile River valley? Lasts no more than 125 Turns.</Text>
+		</Row>
+		<Row Tag="LOC_MOD_NUBIA_SCENARIO_DESCRIPTION">
+			<Text>In this 125-turn scenario, you must expand your empire up and down the Nile River valley competing to become the people most blessed by the great god Amun.  Build 7 temples to his glory and victory is yours!</Text>
+		</Row>
+	</EnglishText>
+</GameData>

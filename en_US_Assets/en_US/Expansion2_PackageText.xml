@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <EnglishText>
+	 <Row Tag="LOC_EXPANSION2_MOD_TITLE">
+      <Text>Expansion: Gathering Storm</Text>
+    </Row>
+    <Row Tag="LOC_EXPANSION2_MOD_TEASER">
+      <Text>An Expansion pack with World Congress, environmental effects and disasters, power, new civilizations and leaders, and much, much more!</Text>
+    </Row>
+    <Row Tag="LOC_EXPANSION2_MOD_DESCRIPTION">
+      <Text>This is a game using the Gathering Storm Expansion, which includes the World Congress, environmental effects and disasters, power, and more. Can you deal with the unpredictability of a changing world to make a civilization that will stand the test of time?</Text>
+    </Row>
+	<!-- Black Death Scenario -->
+	<Row Tag="LOC_BLACKDEATH_MOD_TITLE">
+		<Text>Scenario: The Black Death</Text>
+	</Row>
+	<Row Tag="LOC_BLACKDEATH_SCENARIO_TOOLTIP">
+		<Text>Can you guide your nation through the terrible plague? 4 players, 85 turns.</Text>
+	</Row>
+	<Row Tag="LOC_BLACKDEATH_SCENARIO_DESCRIPTION">
+		<Text>In this scenario you must guide a Medieval civilization through the infamous Black Death, keeping their cultural and scientific efforts alive as their population falls and faith collapses. The plague will sweep the landscape in waves, killing citizens and rendering tiles unworkable. Can you hold on long enough to sow the seeds of the Enlightenment, or will your nation collapse into disloyalty and despair?</Text>
+	</Row>
+	  <!-- War Machine Scenario -->
+	<Row Tag="LOC_WARMACHINE_MOD_TITLE">
+		<Text>Multiplayer Scenario: War Machine</Text>
+	</Row>
+	<Row Tag="LOC_WARMACHINE_SCENARIO_TOOLTIP">
+		<Text>1v1 multiplayer scenario based on the German attack on France during the outbreak of WWI.</Text>
+	</Row>
+	<Row Tag="LOC_WARMACHINE_SCENARIO_DESCRIPTION">
+		<Text>In this scenario you take command of the armies of France or Germany during the first month of WWI. You have a massive army poised to strike, an industrial nation ready to back it up, and only 40 turns to capture or defend Paris. Can you triumph in the greatest clash of arms the world has ever seen? Or will warfare on this scale and speed overwhelm you?</Text>
+	</Row>
+  </EnglishText>
+</GameData>
+

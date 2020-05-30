@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Mod id="1F367231-A040-4793-BDBB-088816853683" version="1">
+	<Properties>
+		<Name>LOC_INDONESIA_KHMER_MOD_TITLE</Name>
+		<Teaser>LOC_INDONESIA_KHMER_MOD_TEASER</Teaser>
+		<Description>LOC_INDONESIA_KHMER_MOD_DESCRIPTION</Description>
+		<Authors>LOC_MOD_AUTHORS_FIRAXIS</Authors>
+		<EnabledByDefault>1</EnabledByDefault>
+    <CompatibleVersions>2.0</CompatibleVersions>
+	</Properties>
+	<ReverseReferences>
+		<Mod id="1B28771A-C749-434B-9053-D1380C553DE9" title="LOC_EXPANSION1_MOD_TITLE"/>
+		<Mod id="4873eb62-8ccc-4574-b784-dda455e74e68" title="LOC_EXPANSION2_MOD_TITLE"/>
+	</ReverseReferences>
+	<ActionCriteria>
+		<Criteria id="IndonesiaKhmer" any="1">
+			<LeaderPlayable>Players:StandardPlayers::LEADER_GITARJA,Players:StandardPlayers::LEADER_JAYAVARMAN,StandardPlayers::LEADER_GITARJA,StandardPlayers::LEADER_JAYAVARMAN,Players:Expansion1_Players::LEADER_GITARJA,Players:Expansion2_Players::LEADER_JAYAVARMAN,Players:Expansion2_Players::LEADER_GITARJA,Players:Expansion2_Players::LEADER_JAYAVARMAN</LeaderPlayable>
+			<RuleSetInUse>RULESET_STANDARD,RULESET_EXPANSION_1,RULESET_EXPANSION_2</RuleSetInUse>
+		</Criteria>
+		<Criteria id="IndonesiaKhmer_Expansion1" any="1">
+			<LeaderPlayable>Players:Expansion1_Players::LEADER_GITARJA,Players:Expansion1_Players::LEADER_JAYAVARMAN</LeaderPlayable>
+			<RuleSetInUse>RULESET_EXPANSION_1</RuleSetInUse>
+		</Criteria>
+		<Criteria id="IndonesiaKhmer_Expansion2" any="1">
+			<LeaderPlayable>Players:Expansion2_Players::LEADER_GITARJA,Players:Expansion2_Players::LEADER_JAYAVARMAN</LeaderPlayable>
+			<RuleSetInUse>RULESET_EXPANSION_2</RuleSetInUse>
+		</Criteria>
+	</ActionCriteria>
+	<InGameActions>
+		<UpdateArt id="IndonesiaKhmerArt" criteria="IndonesiaKhmer">
+			<File>DLC6.dep</File>
+		</UpdateArt>
+		<UpdateColors id="IndonesiaKhmerColors" criteria="IndonesiaKhmer">
+			<File>Data/Indonesia_Khmer_Colors.xml</File>
+		</UpdateColors>
+		<UpdateDatabase id="IndonesiaKhmerGameplay" criteria="IndonesiaKhmer">
+			<File>Data/Indonesia_Khmer_GameplayData.xml</File>
+		</UpdateDatabase>
+		<UpdateDatabase id="IndonesiaKhmerGameplay_XP1" criteria="IndonesiaKhmer_Expansion1">
+			<File>Data/Indonesia_Khmer_Expansion1.xml</File>
+		</UpdateDatabase>
+		<UpdateDatabase id="IndonesiaKhmerGameplay_XP2" criteria="IndonesiaKhmer_Expansion2">
+			<File>Data/Indonesia_Khmer_Expansion2.xml</File>
+		</UpdateDatabase>
+		<UpdateLogitechARX id="IndonesiaKhmerARX" criteria="IndonesiaKhmer">
+			<File>Data/ARX/Civ_LEADER_GITARJA.png</File>
+			<File>Data/ARX/Civ_LEADER_JAYAVARMAN.png</File>
+		</UpdateLogitechARX>
+		<UpdateAudio id="IndonesiaKhmerAudio" criteria="IndonesiaKhmer">
+			<File>Platforms/Windows/Audio/DLC06Banks.ini</File>
+			<File>Platforms/Windows/Audio/DLC06_Leader_SFX.bnk</File>
+			<File>Platforms/Windows/Audio/DLC06_Leader_SFX.txt</File>
+			<File>Platforms/Windows/Audio/DLC06_Leader_SFX.xml</File>
+			<File>Platforms/Windows/Audio/DLC06_Music_Bank.bnk</File>
+			<File>Platforms/Windows/Audio/DLC06_Music_Bank.txt</File>
+			<File>Platforms/Windows/Audio/DLC06_Music_Bank.xml</File>
+			<File>Platforms/Windows/Audio/DLC06_Speech.bnk</File>
+			<File>Platforms/Windows/Audio/DLC06_Speech.txt</File>
+			<File>Platforms/Windows/Audio/DLC06_Speech.xml</File>
+			<File>Platforms/Windows/Audio/DLC06_Unit_Bank_2D.bnk</File>
+			<File>Platforms/Windows/Audio/DLC06_Unit_Bank_2D.txt</File>
+			<File>Platforms/Windows/Audio/DLC06_Unit_Bank_2D.xml</File>
+		</UpdateAudio>
+		<UpdateText id="IndonesiaKhmerText" criteria="IndonesiaKhmer">
+			<File Priority="1">Text/en_US/Indonesia_Khmer_ConfigText.xml</File>
+			<File Priority="1">Text/en_US/Indonesia_Khmer_CivilopediaText.xml</File>
+			<File Priority="1">Text/en_US/Indonesia_Khmer_Text.xml</File>
+			<File>Text/Indonesia_Khmer_Translations_ConfigText.xml</File>
+			<File>Text/Indonesia_Khmer_Translations_ConfigText_China.xml</File>
+			<File>Text/Indonesia_Khmer_Translations_Text.xml</File>
+			<File>Text/Indonesia_Khmer_Translations_Text_China.xml</File>
+		</UpdateText>
+		<UpdateIcons id="IndonesiaKhmerInGameIcons" criteria="IndonesiaKhmer">
+			<File>Data/Indonesia_Khmer_Icons_Civilizations.xml</File>
+			<File>Data/Indonesia_Khmer_Icons_Buildings.xml</File>
+			<File>Data/Indonesia_Khmer_Icons_UnitActions.xml</File>
+			<File>Data/Indonesia_Khmer_Icons_Features.xml</File>
+			<File>Data/Indonesia_Khmer_Icons_Wonders.xml</File>
+			<File>Data/Indonesia_Khmer_Icons_Leaders.xml</File>
+			<File>Data/Indonesia_Khmer_Icons_Units.xml</File>
+			<File>Data/Indonesia_Khmer_Icons_UnitPortraits.xml</File>
+		</UpdateIcons>
+	</InGameActions>
+	<FrontEndActions>
+		<UpdateDatabase id="IndonesiaKhmerSettings">
+			<File>Data/Indonesia_Khmer_ConfigData.xml</File>
+		</UpdateDatabase>
+		<UpdateArt id="IndonesiaKhmerSettingsArt">
+			<File>DLC6.dep</File>
+		</UpdateArt>
+		<UpdateColors id="IndonesiaKhmerSettingsColors">
+			<File>Data/Indonesia_Khmer_Colors.xml</File>
+		</UpdateColors>
+		<UpdateText id="IndonesiaKhmerSettingsText">
+			<File Priority="1">Text/en_US/Indonesia_Khmer_ConfigText.xml</File>
+			<File>Text/Indonesia_Khmer_Translations_ConfigText.xml</File>
+			<File>Text/Indonesia_Khmer_Translations_ConfigText_China.xml</File>
+		</UpdateText>
+		<UpdateIcons id="IndonesiaKhmerFrontEndIcons" criteria="IndonesiaKhmer">
+			<File>Data/Indonesia_Khmer_Icons_Civilizations.xml</File>
+			<File>Data/Indonesia_Khmer_Icons_Buildings.xml</File>
+			<File>Data/Indonesia_Khmer_Icons_UnitActions.xml</File>
+			<File>Data/Indonesia_Khmer_Icons_Features.xml</File>
+			<File>Data/Indonesia_Khmer_Icons_Wonders.xml</File>
+			<File>Data/Indonesia_Khmer_Icons_Leaders.xml</File>
+			<File>Data/Indonesia_Khmer_Icons_Units.xml</File>
+			<File>Data/Indonesia_Khmer_Icons_UnitPortraits.xml</File>
+		</UpdateIcons>
+	</FrontEndActions>
+	<Files>
+		<File>DLC6.dep</File>
+		<File>Data/ARX/Civ_LEADER_GITARJA.png</File>
+		<File>Data/ARX/Civ_LEADER_JAYAVARMAN.png</File>
+		<File>Data/Indonesia_Khmer_ConfigData.xml</File>
+		<File>Data/Indonesia_Khmer_Colors.xml</File>
+		<File>Data/Indonesia_Khmer_Expansion1.xml</File>
+		<File>Data/Indonesia_Khmer_Expansion2.xml</File>
+		<File>Data/Indonesia_Khmer_GameplayData.xml</File>
+		<File>Data/Indonesia_Khmer_Icons_Civilizations.xml</File>
+		<File>Data/Indonesia_Khmer_Icons_Buildings.xml</File>
+		<File>Data/Indonesia_Khmer_Icons_UnitActions.xml</File>
+		<File>Data/Indonesia_Khmer_Icons_Features.xml</File>
+		<File>Data/Indonesia_Khmer_Icons_Wonders.xml</File>
+		<File>Data/Indonesia_Khmer_Icons_Leaders.xml</File>
+		<File>Data/Indonesia_Khmer_Icons_Units.xml</File>
+		<File>Data/Indonesia_Khmer_Icons_UnitPortraits.xml</File>
+		<File>Maps/EastAsiaStandard.Civ6Map</File>
+		<File>Maps/EastAsiaStandard.lua</File>
+		<File>Maps/EastAsiaStandard_XP2.Civ6Map</File>
+		<File>Maps/EastAsiaStandard_XP2.lua</File>
+		<File>Maps/TSLEastAsiaStandard.Civ6Map</File>
+		<File>Maps/TSLEastAsiaStandard.lua</File>
+		<File>Maps/TSLEastAsiaStandard_XP2.Civ6Map</File>
+		<File>Maps/TSLEastAsiaStandard_XP2.lua</File>
+		<File>Platforms/Windows/Audio/DLC06Banks.ini</File>
+		<File>Platforms/Windows/Audio/DLC06_Leader_SFX.bnk</File>
+		<File>Platforms/Windows/Audio/DLC06_Leader_SFX.txt</File>
+		<File>Platforms/Windows/Audio/DLC06_Leader_SFX.xml</File>
+		<File>Platforms/Windows/Audio/DLC06_Music_Bank.bnk</File>
+		<File>Platforms/Windows/Audio/DLC06_Music_Bank.txt</File>
+		<File>Platforms/Windows/Audio/DLC06_Music_Bank.xml</File>
+		<File>Platforms/Windows/Audio/DLC06_Speech.bnk</File>
+		<File>Platforms/Windows/Audio/DLC06_Speech.txt</File>
+		<File>Platforms/Windows/Audio/DLC06_Speech.xml</File>
+		<File>Platforms/Windows/Audio/DLC06_Unit_Bank_2D.bnk</File>
+		<File>Platforms/Windows/Audio/DLC06_Unit_Bank_2D.txt</File>
+		<File>Platforms/Windows/Audio/DLC06_Unit_Bank_2D.xml</File>
+		<File>Text/Indonesia_Khmer_Translations_ConfigText.xml</File>
+		<File>Text/Indonesia_Khmer_Translations_ConfigText_China.xml</File>
+		<File>Text/Indonesia_Khmer_Translations_Text.xml</File>
+		<File>Text/Indonesia_Khmer_Translations_Text_China.xml</File>
+		<File>Text/en_US/Indonesia_Khmer_CivilopediaText.xml</File>
+		<File>Text/en_US/Indonesia_Khmer_ConfigText.xml</File>
+		<File>Text/en_US/Indonesia_Khmer_Text.xml</File>	
+	</Files>
+</Mod>

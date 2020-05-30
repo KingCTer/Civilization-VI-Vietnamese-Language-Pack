@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<EnglishText>
+		<Row Tag="LOC_MULTIPLAYER_CROSSPLAY_GAME">
+			<Text>Internet (Unified PC Play)</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_CROSSPLAY_NEW_GAME">
+			<Text>[ICON_Exclamation] Internet (Unified PC Play)</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_CROSSPLAY_GAME_OFFLINE">
+			<Text>[ICON_CheckFail] Internet (Unified PC Play)</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_CROSSPLAY_NEW_GAME_OFFLINE">
+			<Text>[ICON_Exclamation][ICON_CheckFail] Internet (Unified PC Play)</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_CROSSPLAY_GAME_TT">
+			<Text>Play a multiplayer game on the internet against users on other platforms.</Text>
+		</Row>
+    <Row Tag="LOC_MULTIPLAYER_CROSSPLAY_NEW_GAME_TT">
+      <Text>New multiplayer mode: Play a multiplayer game on the internet against users on other platforms.</Text>
+    </Row>
+		<Row Tag="LOC_MULTIPLAYER_CROSSPLAY_GAME_OFFLINE_TT">
+			<Text>Unified PC Play games are not available while Unified Play servers are offline.</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_CROSSPLAY_NEW_GAME_OFFLINE_TT">
+			<Text>New multiplayer mode: Unified PC Play games are not available while Unified Play servers are offline.</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_CROSSPLAY_GAME_NEW_MODE_TT">
+			<Text>New multiplayer mode available!</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_CROSSPLAY_LOBBY">
+			<Text>UNIFIED PC PLAY GAMES</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CROSSPLAY_OK">
+			<Text>Ok</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CROSSPLAY_LOGIN_ERROR_TITLE">
+			<Text>Login Error</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CROSSPLAY_LOGIN_ERROR_MESSAGE">
+			<Text>There has been an error with your login attempt.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CROSSPLAY_AUTHORIZATION_ERROR_MESSAGE">
+			<Text>There was an issue validating your Steam account.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CROSSPLAY_CREATE_USER_ERROR_MESSAGE">
+			<Text>There was an issue generating a Unified Play ID for your account.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

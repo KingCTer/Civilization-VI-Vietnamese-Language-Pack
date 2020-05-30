@@ -1,0 +1,1201 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <LocalizedText>
+    <Replace Tag="LOC_IMPROVEMENT_KAMPUNG_NAME" Language="pt_BR">
+      <Text>Kampung|Kampung</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_PRASAT_NAME" Language="pt_BR">
+      <Text>Prasat|Prasat</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_INDONESIA_NAME" Language="pt_BR">
+      <Text>Indonésia</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_INDONESIA_DESCRIPTION" Language="pt_BR">
+      <Text>Império da Indonésia</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_KHMER_NAME" Language="pt_BR">
+      <Text>Khmer</Text>
+      <Gender>neutral</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_KHMER_DESCRIPTION" Language="pt_BR">
+      <Text>Império Khmer</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_GITARJA_NAME" Language="pt_BR">
+      <Text>Gitarja</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_JAYAVARMAN_NAME" Language="pt_BR">
+      <Text>Jayavarman VII</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_LEADER_GITARJA" Language="pt_BR">
+      <Text>Audaz Gitarja, rainha das dez mil ilhas de Majapahit, os mares da Indonésia são a sua maior força. Deusa Exaltada dos Três Mundos, você difundirá sua influência divina por todas as águas tocadas pelo sol. Confie na sua frota leal, rainha audaciosa! Lance uma terrível tempestade sobre aqueles que trouxerem conflito às costas indonésias.</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_KAMPUNG_DESCRIPTION" Language="pt_BR">
+      <Text>Desbloqueia a habilidade de Construtores para construir uma kampung, exclusiva da Indonésia.[NEWLINE][NEWLINE]+1 de [ICON_PRODUCTION] produção e +1 de [ICON_Housing] habitação. +1 de [ICON_FOOD] alimento para cada Barco de Pesca adjacente. [ICON_PRODUCTION] Produção, [ICON_Housing] habitação e [ICON_TOURISM] turismo adicionais à medida que você avançar na árvore cívica e tecnológica. Deve ser colocada em um painel em uma costa ou lago adjacente a um recurso marítimo.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_KAMPUNG_NAME" Language="pt_BR">
+      <Text>Melhoria exclusiva indonésia: Kampung</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_INDONESIA_NUSANTARA_NAME" Language="pt_BR">
+      <Text>Grande Nusantara</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_INDONESIA_NUSANTARA_DESCRIPTION" Language="pt_BR">
+      <Text>Painéis de costa e de lago concedem um pequeno bônus de adjacência para distritos de Local Sagrado, Campus, Zona Industrial e Teatro. +1 de [ICON_AMENITIES] serviços do entretenimento para cada Complexo de Entretenimento adjacente a um painel de costa ou de lago.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_UNIT_INDONESIAN_JONG_NAME" Language="pt_BR">
+      <Text>Unidade exclusiva indonésia: Jong</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_EXALTED_GODDESS_NAME" Language="pt_BR">
+      <Text>Deusa exaltada dos três mundos</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_EXALTED_GODDESS_DESCRIPTION" Language="pt_BR">
+      <Text>Unidades navais podem ser compradas com [ICON_FAITH] fé. Unidades religiosas não gastam movimento para embarcar ou desembarcar. +2 de [ICON_FAITH] fé para Centros da Cidade adjacentes a painéis de costa e de lago.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_INDONESIAN_JONG_DESCRIPTION" Language="pt_BR">
+      <Text>Unidade naval exclusiva indonésia da Era Medieval que substitui a fragata. Todas as unidades na formação herdam a velocidade de [ICON_Movement] movimento da escolta e +5 de [ICON_Strength] força de combate quando em uma formação.</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_LEADER_JAYAVARMAN" Language="pt_BR">
+      <Text>Sábio Jayavarman, sétimo a receber o título, os khmers admiram sua dedicação ao bem-estar deles. O seu comando sobre as águas doces desta terra alimenta o povo faminto e o leva para mais perto do Céu. Avante, arquiteto divino! Construa um império que se aproxime da perfeição, e que seus inimigos encontrem o fim sob os seus poderosos elefantes de guerra.</Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_PRASAT_DESCRIPTION" Language="pt_BR">
+      <Text>Edificação exclusiva do Império Khmer. Substitui o Templo. Requerido para comprar Apóstolos e Inquisidores com [ICON_Faith] fé. Missionários comprados nesta cidade recebem a habilidade mártir, que concede uma [ICON_GreatWork_Relic] relíquia se este Missionário morrer em combate teológico.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_BUILDING_PRASAT_NAME" Language="pt_BR">
+      <Text>Edificação exclusiva khmer: Prasat</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_KHMER_BARAYS_NAME" Language="pt_BR">
+      <Text>Grandes Barays</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_KHMER_BARAYS_DESCRIPTION" Language="pt_BR">
+      <Text>+3 de [ICON_FAITH] fé e +1 de [ICON_AMENITIES] serviços do entretenimento para cada cidade com um Aqueduto. Fazendas concedem +2 de [ICON_FOOD] alimento se adjacentes a um Aqueduto.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_UNIT_KHMER_DOMREY_NAME" Language="pt_BR">
+      <Text>Unidade exclusiva khmer: Domrey</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_MONASTERIES_KING_NAME" Language="pt_BR">
+      <Text>Monastérios do rei</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_MONASTERIES_KING_DESCRIPTION" Language="pt_BR">
+      <Text>Locais Sagrados concedem +2 de [ICON_FOOD] alimento e +1 de [ICON_HOUSING] habitação se posicionados em um rio. Locais Sagrados ativam uma explosão cultural.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_KHMER_DOMREY_DESCRIPTION" Language="pt_BR">
+      <Text>Unidade de cerco exclusiva khmer da Era Medieval. Pode se mover e atirar no mesmo turno e exerce zona de controle.</Text>
+    </Replace>
+    <Replace Tag="LOC_MAP_TSLEAST_ASIA_STANDARD_NAME" Language="pt_BR">
+      <Text>Local inicial real: Leste Asiático</Text>
+    </Replace>
+    <Replace Tag="LOC_MAP_TSLEAST_ASIA_STANDARD_DESCRIPTION" Language="pt_BR">
+      <Text>Civilizações começam no local de sua capital histórica no mapa da Ásia.</Text>
+    </Replace>
+    <Replace Tag="LOC_MAP_EAST_ASIA_STANDARD_NAME" Language="pt_BR">
+      <Text>Leste Asiático</Text>
+    </Replace>
+    <Replace Tag="LOC_MAP_EAST_ASIA_STANDARD_DESCRIPTION" Language="pt_BR">
+      <Text>Uma representação do Leste Asiático com recursos, terreno e elementos que refletem seus locais históricos.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_INDONESIAN_JONG_NAME" Language="pt_BR">
+      <Text>Jong|Jongs</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_UNIT_KHMER_DOMREY_NAME" Language="pt_BR">
+      <Text>Domrey|Domreys</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_KAMPUNG_NAME" Language="fr_FR">
+      <Text>Kampung</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_PRASAT_NAME" Language="fr_FR">
+      <Text>Prasat|Prasats</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_INDONESIA_NAME" Language="fr_FR">
+      <Text>Indonésie</Text>
+      <Gender>feminine:vowel</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_INDONESIA_DESCRIPTION" Language="fr_FR">
+      <Text>Empire indonésien</Text>
+      <Gender>masculine:vowel</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_KHMER_NAME" Language="fr_FR">
+      <Text>Peuple khmer</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_KHMER_DESCRIPTION" Language="fr_FR">
+      <Text>Empire khmer</Text>
+      <Gender>masculine:vowel</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_GITARJA_NAME" Language="fr_FR">
+      <Text>Dyah Gitarja</Text>
+      <Gender>feminine:no_article</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_JAYAVARMAN_NAME" Language="fr_FR">
+      <Text>Jayavarman VII</Text>
+      <Gender>masculine:no_article</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_LEADER_GITARJA" Language="fr_FR">
+      <Text>Audacieuse Dyah Gitarja, reine de Majapahit et de mille autres îles, les mers d'Indonésie sont votre meilleur atout. En tant que Déesse exaltée des Trois mondes, propagez votre influence divine à toutes les eaux touchées par le soleil. Envoyez votre flotte multiplier les conquêtes, courageuse souveraine ! C'est une puissante tempête qui attendra ceux venus chercher le conflit sur les rivages indonésiens.</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_KAMPUNG_DESCRIPTION" Language="fr_FR">
+      <Text>Débloque la compétence de bâtisseur permettant de construire un kampung, exclusif à l'Indonésie. [NEWLINE][NEWLINE][ICON_PRODUCTION] Production +1 et [ICON_Housing] habitations +1. [ICON_FOOD] Nourriture +1 pour chaque bateau de pêche adjacent. [ICON_PRODUCTION] Production, [ICON_Housing] habitations et [ICON_TOURISM] tourisme bonus à mesure que vous progressez dans les arbres des technologies et des dogmes. Doit être placé sur une case de côte ou de lac adjacente à une ressource maritime.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_KAMPUNG_NAME" Language="fr_FR">
+      <Text>Aménagement exclusif aux Indonésiens : Kampung</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_INDONESIA_NUSANTARA_NAME" Language="fr_FR">
+      <Text>Grand Nusantara</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_INDONESIA_NUSANTARA_DESCRIPTION" Language="fr_FR">
+      <Text>Les cases de côte et de lac octroient un petit bonus de proximité pour le lieu saint, le campus, la zone industrielle et la place du théâtre. [ICON_AMENITIES] Activités de loisirs +1 pour chaque complexe de loisirs adjacent à une côte ou un lac.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_UNIT_INDONESIAN_JONG_NAME" Language="fr_FR">
+      <Text>Unité exclusive aux Indonésiens : Jonque</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_EXALTED_GODDESS_NAME" Language="fr_FR">
+      <Text>Déesse exaltée des Trois mondes</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_EXALTED_GODDESS_DESCRIPTION" Language="fr_FR">
+      <Text>Les unités navales peuvent être achetées contre de la [ICON_FAITH] foi. Les unités religieuses ne consomment pas de PM pour embarquer ou débarquer. [ICON_FAITH] Foi +2 pour les centres-villes adjacents à une côte ou un lac.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_INDONESIAN_JONG_DESCRIPTION" Language="fr_FR">
+      <Text>Exclusive à l'Indonésie, cette unité navale médiévale remplace la frégate. [ICON_Strength] Puissance de combat +5 pour les unités en formation, qui profitent de la vitesse de [ICON_Movement] déplacement de leur escorte.</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_LEADER_JAYAVARMAN" Language="fr_FR">
+      <Text>Ô sage Jayavarman, septième du nom, le peuple khmer admire votre dévouement à son bien-être. Votre mainmise sur les sources d'eau claire de la région vous permet de nourrir vos sujets affamés, tout en vous rapprochant un peu plus des cieux. Allez de l'avant, architecte divin ! Bâtissez un empire proche de la perfection, et que vos ennemis finissent piétinés sous le pas puissant de vos éléphants de guerre.</Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_PRASAT_DESCRIPTION" Language="fr_FR">
+      <Text>Bâtiment exclusif aux Khmers, sans lequel vous ne pourrez pas acheter d'apôtres ou d'inquisiteurs contre de la [ICON_Faith] foi. Remplace le temple. Les missionnaires achetés dans cette ville reçoivent la compétence Martyr, qui octroie une [ICON_GreatWork_Relic] relique en cas de mort en combat théologique.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_BUILDING_PRASAT_NAME" Language="fr_FR">
+      <Text>Bâtiment exclusif aux Khmers : Prasat</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_KHMER_BARAYS_NAME" Language="fr_FR">
+      <Text>Grands barays</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_KHMER_BARAYS_DESCRIPTION" Language="fr_FR">
+      <Text>[ICON_FAITH] Foi +3 et [ICON_AMENITIES] activités de loisirs +1 pour chaque ville dotée d'un aqueduc. [ICON_FOOD] Nourriture +2 pour les fermes adjacentes à un aqueduc.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_UNIT_KHMER_DOMREY_NAME" Language="fr_FR">
+      <Text>Unité exclusive aux Khmers : Domrey</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_MONASTERIES_KING_NAME" Language="fr_FR">
+      <Text>Monastères du roi</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_MONASTERIES_KING_DESCRIPTION" Language="fr_FR">
+      <Text>[ICON_FOOD] Nourriture +2 et [ICON_HOUSING] habitations +1 pour les lieux saints placés sur une rivière. Les lieux saints déclenchent une bombe culturelle.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_KHMER_DOMREY_DESCRIPTION" Language="fr_FR">
+      <Text>Exclusive aux Khmers, cette unité de siège médiévale peut se déplacer et tirer dans le même tour, en plus d'exercer une zone de contrôle.</Text>
+    </Replace>
+    <Replace Tag="LOC_MAP_TSLEAST_ASIA_STANDARD_NAME" Language="fr_FR">
+      <Text>Positions réelles (Asie de l'Est)</Text>
+    </Replace>
+    <Replace Tag="LOC_MAP_TSLEAST_ASIA_STANDARD_DESCRIPTION" Language="fr_FR">
+      <Text>Les civilisations commencent la partie à l'emplacement de leur capitale historique sur la carte de l'Asie.</Text>
+    </Replace>
+    <Replace Tag="LOC_MAP_EAST_ASIA_STANDARD_NAME" Language="fr_FR">
+      <Text>Asie orientale</Text>
+    </Replace>
+    <Replace Tag="LOC_MAP_EAST_ASIA_STANDARD_DESCRIPTION" Language="fr_FR">
+      <Text>Dans cette représentation de l'Asie orientale, les ressources, terrains et caractéristiques sont à leur emplacement historique.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_INDONESIAN_JONG_NAME" Language="fr_FR">
+      <Text>Jonque|Jonques</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_UNIT_KHMER_DOMREY_NAME" Language="fr_FR">
+      <Text>Domrey</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_KAMPUNG_NAME" Language="de_DE">
+      <Text>Kampung|Kampung|Kampung|Kampungs|Kampung</Text>
+      <Gender>neuter</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_PRASAT_NAME" Language="de_DE">
+      <Text>Prasat|Prasat|Prasat|Prasats|Prasat</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_INDONESIA_NAME" Language="de_DE">
+      <Text>Indonesien|Indonesien|Indonesien|Indonesiens|Indonesien</Text>
+      <Gender>neuter:no_article</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_INDONESIA_DESCRIPTION" Language="de_DE">
+      <Text>Indonesisches Reich|Indonesische Reich|Indonesischen Reich|Indonesischen Reichs|Indonesische Reich</Text>
+      <Gender>neuter</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_KHMER_NAME" Language="de_DE">
+      <Text>Khmer|Khmer|Khmer|Khmers|Khmer</Text>
+      <Gender>neuter:no_article</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_KHMER_DESCRIPTION" Language="de_DE">
+      <Text>Khmer-Reich|Khmer-Reich|Khmer-Reich|Khmer-Reichs|Khmer-Reich</Text>
+      <Gender>neuter</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_GITARJA_NAME" Language="de_DE">
+      <Text>Gitarja</Text>
+      <Gender>feminine:no_article</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_JAYAVARMAN_NAME" Language="de_DE">
+      <Text>Jayavarman VII.</Text>
+      <Gender>masculine:no_article</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_LEADER_GITARJA" Language="de_DE">
+      <Text>Wagemutige Gitarja, Majapahit-Königin von zehntausend Inseln, Indonesiens Meere sind Eure größte Stärke. Als erhabene Göttin der drei Welten sollt Ihr Euren Einfluss über alle Wellen verbreiten, die von der Sonne berührt werden. Verlasst Euch auf Eure loyale Flotte, kühne Königin! Entfesselt einen furchtbaren Sturm über allen, die Zwietracht an die Ufer Indonesiens bringen.</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_KAMPUNG_DESCRIPTION" Language="de_DE">
+      <Text>Schaltet die Handwerker-Fähigkeit frei, ein Kampung, die einzigartige Modernisierung Indonesiens, zu bauen.[NEWLINE][NEWLINE]+1 [ICON_PRODUCTION] Produktion und +1 [ICON_Housing] Wohnraum.+1 [ICON_FOOD] Nahrung für jedes angrenzende Fischerboot. Zusätzlich [ICON_PRODUCTION] Produktion, [ICON_Housing] Wohnraum und [ICON_Tourism] Tourismus beim Fortschritt durch den Technologie- und Ausrichtungsbaum. Muss auf einem Küsten- oder See-Geländefeld gebaut werden, das an eine Meeresressource angrenzt.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_KAMPUNG_NAME" Language="de_DE">
+      <Text>Indonesische einzigartige Modernisierung: Kampung</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_INDONESIA_NUSANTARA_NAME" Language="de_DE">
+      <Text>Großer Nusantara</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_INDONESIA_NUSANTARA_DESCRIPTION" Language="de_DE">
+      <Text>Küsten- und See-Geländefelder bieten einen geringen Nachbarschaftsbonus für Heilige-Stätte-, Campus-, Industriegebiet- und Theaterplatz-Bezirke. +1 [ICON_AMENITIES] Annehmlichkeit durch Unterhaltung für jeden Unterhaltungskomplex, der an ein Küsten- oder See-Geländefeld grenzt.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_UNIT_INDONESIAN_JONG_NAME" Language="de_DE">
+      <Text>Indonesische einzigartige Einheit: Jong</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_EXALTED_GODDESS_NAME" Language="de_DE">
+      <Text>Erhabene Göttin der drei Welten</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_EXALTED_GODDESS_DESCRIPTION" Language="de_DE">
+      <Text>Marineeinheiten können mit [ICON_FAITH] Glauben gekauft werden. Religiöse Einheiten zahlen keine Fortbewegung zum Wassern oder Ausschiffen. +2 [ICON_FAITH] Glauben für Stadtzentren, die an Küsten- oder See-Geländefelder grenzen.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_INDONESIAN_JONG_DESCRIPTION" Language="de_DE">
+      <Text>Indonesische einzigartige Mittelalter-Marineeinheit, die die Fregatte ersetzt. Formationseinheiten erben die [ICON_Movement] Fortbewegungsgeschwindigkeit der Eskorte und +5 [ICON_Strength] Kampfstärke wenn in einer Formation.</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_LEADER_JAYAVARMAN" Language="de_DE">
+      <Text>Weiser Jayavarman, Siebter dieses Titels, die Khmer bewundern Eure Hingabe für ihr Wohlergehen. Eure Herrschaft über die Flüsse und Seen des Landes füttert Euer hungriges Volk und führt Euch so näher gen Himmel. Fahrt fort, göttlicher Architekt! Baut ein Reich, das an die Perfektion angrenzt - und mögen Eure Feinde ihr Ende unter Euren mächtigen Kriegselefanten finden.</Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_PRASAT_DESCRIPTION" Language="de_DE">
+      <Text>Einzigartiges Gebäude des Khmer-Reichs. Ersetzt den Tempel. Erforderlich für den Erwerb von Aposteln und Inquisitoren mit [ICON_Faith] Glauben. Missionare, die in dieser Stadt erworben werden, erhalten die Märtyrer-Fähigkeit, die eine [ICON_GreatWork_Relic] Reliquie gewährt, wenn dieser Missionar im theologischen Kampf stirbt.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_BUILDING_PRASAT_NAME" Language="de_DE">
+      <Text>Einzigartiges Gebäude von Khmer: Prasat</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_KHMER_BARAYS_NAME" Language="de_DE">
+      <Text>Große Barays</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_KHMER_BARAYS_DESCRIPTION" Language="de_DE">
+      <Text>+3 [ICON_FAITH] Glauben und +1 [ICON_AMENITIES] Annehmlichkeit durch Unterhaltung für jede Stadt mit einem Aquädukt. Bauernhöfe bieten +2 [ICON_FOOD] Nahrung, wenn sie an ein Aquädukt grenzen.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_UNIT_KHMER_DOMREY_NAME" Language="de_DE">
+      <Text>Einzigartige Khmer-Einheit: Domrey</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_MONASTERIES_KING_NAME" Language="de_DE">
+      <Text>Klöster des Königs</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_MONASTERIES_KING_DESCRIPTION" Language="de_DE">
+      <Text>Heilige Stätten bieten +2 [ICON_FOOD] Nahrung und +1 [ICON_HOUSING] Wohnraum, wenn sie an einem Fluss platziert werden. Heilige Stätten lösen einen Kulturschock aus.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_KHMER_DOMREY_DESCRIPTION" Language="de_DE">
+      <Text>Einzigartige Khmer Mittelalter-Belagerungseinheit. Kann sich in einer Runde sowohl fortbewegen als auch schießen und wendet Kontrollzone an.</Text>
+    </Replace>
+    <Replace Tag="LOC_MAP_TSLEAST_ASIA_STANDARD_NAME" Language="de_DE">
+      <Text>Wahrer Startpunkt Ostasien</Text>
+    </Replace>
+    <Replace Tag="LOC_MAP_TSLEAST_ASIA_STANDARD_DESCRIPTION" Language="de_DE">
+      <Text>Zivilisationen starten am Standort ihrer historischen Hauptstadt auf der Asienkarte.</Text>
+    </Replace>
+    <Replace Tag="LOC_MAP_EAST_ASIA_STANDARD_NAME" Language="de_DE">
+      <Text>Ostasien</Text>
+    </Replace>
+    <Replace Tag="LOC_MAP_EAST_ASIA_STANDARD_DESCRIPTION" Language="de_DE">
+      <Text>Eine Darstellung Ostasiens mit Ressourcen und Geländetypen wie an den historischen Orten.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_INDONESIAN_JONG_NAME" Language="de_DE">
+      <Text>Jong|Jong|Jong|Jongs|Jong</Text>
+      <Gender>neuter</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_UNIT_KHMER_DOMREY_NAME" Language="de_DE">
+      <Text>Domrey|Domrey|Domrey|Domreys|Domrey</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_KAMPUNG_NAME" Language="it_IT">
+      <Text>Kampung|il Kampung|un Kampung</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_PRASAT_NAME" Language="it_IT">
+      <Text>Prasat|il Prasat|un Prasat</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_INDONESIA_NAME" Language="it_IT">
+      <Text>Indonesia|dell'Indonesia|all'Indonesia|l'Indonesia|dall'Indonesia</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_INDONESIA_DESCRIPTION" Language="it_IT">
+      <Text>Impero indonesiano|dell'Impero indonesiano|all'Impero indonesiano|l'Impero indonesiano|dall'Impero indonesiano</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_KHMER_NAME" Language="it_IT">
+      <Text>Khmer|dei Khmer|ai Khmer|i Khmer|dai Khmer</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_KHMER_DESCRIPTION" Language="it_IT">
+      <Text>Impero khmer|dell'Impero khmer|all'Impero khmer|l'Impero khmer|dall'Impero khmer</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_GITARJA_NAME" Language="it_IT">
+      <Text>Gitarja|di Gitarja|a Gitarja|Gitarja|da Gitarja</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_JAYAVARMAN_NAME" Language="it_IT">
+      <Text>Jayavarman VII|di Jayavarman VII|a Jayavarman VII|Jayavarman VII|da Jayavarman VII</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_LEADER_GITARJA" Language="it_IT">
+      <Text>Audace Gitarja, regina di Majapahit dalle diecimila isole, i mari dell'Indonesia sono la tua risorsa più grande. Come Dea dei Tre Mondi, diffonderai la tua influenza divina su tutte le acque toccate dal sole. Affidati alla tua leale flotta, ardita regina! Scatena una terrificante tempesta su coloro che oseranno portare la guerra sulle coste indonesiane.</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_KAMPUNG_DESCRIPTION" Language="it_IT">
+      <Text>Sblocca l'abilità dei Costruttori di realizzare Kampung, edifici esclusivi dell'Indonesia.[NEWLINE][NEWLINE]+1 [ICON_PRODUCTION] Produzione e +1 [ICON_Housing] Abitazioni. +1 [ICON_Food] Cibo per ogni Peschereccio adiacente. Bonus aggiuntivi a [ICON_PRODUCTION] Produzione, [ICON_Housing] Abitazioni e [ICON_TOURISM] Turismo con il progressivo avanzamento nell'Albero delle tecnologie e in quello dei Progressi civici. Dev'essere costruito in una casella di costa o lago adiacente a una risorsa acquatica.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_KAMPUNG_NAME" Language="it_IT">
+      <Text>Miglioramento esclusivo indonesiano: Kampung</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_INDONESIA_NUSANTARA_NAME" Language="it_IT">
+      <Text>Grande Nusantara</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_INDONESIA_NUSANTARA_DESCRIPTION" Language="it_IT">
+      <Text>Le caselle di lago e di costa forniscono un bonus minore per la posizione ai distretti Luogo Santo, Campus, Zona industriale e Piazza del Teatro. +1 [ICON_AMENITIES] Attrattiva dai divertimenti per ogni Quartiere dei divertimenti adiacente a una casella di costa o di lago.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_UNIT_INDONESIAN_JONG_NAME" Language="it_IT">
+      <Text>Unità esclusiva indonesiana: Jong</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_EXALTED_GODDESS_NAME" Language="it_IT">
+      <Text>Dea dei tre mondi</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_EXALTED_GODDESS_DESCRIPTION" Language="it_IT">
+      <Text>Permette di acquistare unità navali in cambio di [ICON_Faith] Fede. Le unità religiose non pagano un costo per imbarcarsi o sbarcare. +2 [ICON_FAITH] Fede dai Centri cittadini adiacenti a caselle di costa o di lago.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_INDONESIAN_JONG_DESCRIPTION" Language="it_IT">
+      <Text>Unità navale esclusiva indonesiana di epoca medievale che sostituisce la Fregata. Le unità in formazione ereditano tutte la velocità di [ICON_Movement] movimento della loro scorta e ricevono +5 alla [ICON_Strength] Forza di combattimento finché restano in formazione.</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_LEADER_JAYAVARMAN" Language="it_IT">
+      <Text>Saggio Jayavarman, settimo del tuo nome, il popolo khmer ammira la dedizione con cui ti adoperi per il suo benessere. Il tuo dominio sull'acqua nei tuoi territori ti permette di nutrire gli affamati e ti innalza verso il cielo. Continua così, architetto divino! Costruisci un impero sempre più perfetto... e che i tuoi nemici finiscano schiacciati sotto le zampe dei tuoi possenti elefanti da guerra.</Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_PRASAT_DESCRIPTION" Language="it_IT">
+      <Text>Edificio esclusivo degli Khmer che sostituisce il Tempio. Permette di acquistare Apostoli e Inquisitori in cambio di [ICON_Faith] Fede. I Missionari acquistati in questa città ricevono l'abilità Martire, che fornisce una [ICON_GreatWork_Relic] Reliquia se il Missionario muore in Combattimento teologico.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_BUILDING_PRASAT_NAME" Language="it_IT">
+      <Text>Edificio esclusivo khmer: Prasat</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_KHMER_BARAYS_NAME" Language="it_IT">
+      <Text>Grandi baray</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_KHMER_BARAYS_DESCRIPTION" Language="it_IT">
+      <Text>+3 [ICON_FAITH] Fede e +1 [ICON_AMENITIES] Attrattiva dai divertimenti in ogni città dotata di un Acquedotto. Le Fattorie forniscono +2 [ICON_FOOD] Cibo se sono adiacenti a un Acquedotto.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_UNIT_KHMER_DOMREY_NAME" Language="it_IT">
+      <Text>Unità esclusiva khmer: Domrey</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_MONASTERIES_KING_NAME" Language="it_IT">
+      <Text>Monasteri del re</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_MONASTERIES_KING_DESCRIPTION" Language="it_IT">
+      <Text>I Luoghi Santi forniscono +2 [ICON_FOOD] Cibo e +1 [ICON_HOUSING] Abitazioni se sono adiacenti a un fiume. I Luoghi Santi fanno scattare una Bomba culturale.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_KHMER_DOMREY_DESCRIPTION" Language="it_IT">
+      <Text>Unità d'assedio esclusiva khmer di epoca medievale. Può muoversi e attaccare nello stesso turno ed esercita una Zona di Controllo.</Text>
+    </Replace>
+    <Replace Tag="LOC_MAP_TSLEAST_ASIA_STANDARD_NAME" Language="it_IT">
+      <Text>Asia orientale: posizione storica</Text>
+    </Replace>
+    <Replace Tag="LOC_MAP_TSLEAST_ASIA_STANDARD_DESCRIPTION" Language="it_IT">
+      <Text>Le civiltà iniziano la partita nella posizione della loro capitale storica sulla mappa dell'Asia.</Text>
+    </Replace>
+    <Replace Tag="LOC_MAP_EAST_ASIA_STANDARD_NAME" Language="it_IT">
+      <Text>Asia orientale</Text>
+    </Replace>
+    <Replace Tag="LOC_MAP_EAST_ASIA_STANDARD_DESCRIPTION" Language="it_IT">
+      <Text>Una rappresentazione dell'Asia orientale con risorse, terreno e caratteristiche che riflettono la loro posizione storica.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_INDONESIAN_JONG_NAME" Language="it_IT">
+      <Text>Jong|uno Jong|dal tuo Jong|al tuo Jong|il tuo Jong|da uno Jong</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_UNIT_KHMER_DOMREY_NAME" Language="it_IT">
+      <Text>Domrey|un Domrey|dal tuo Domrey|al tuo Domrey|il tuo Domrey|da un Domrey</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_KAMPUNG_NAME" Language="ja_JP">
+      <Text>カンプン</Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_PRASAT_NAME" Language="ja_JP">
+      <Text>プラサート</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_INDONESIA_NAME" Language="ja_JP">
+      <Text>インドネシア</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_INDONESIA_DESCRIPTION" Language="ja_JP">
+      <Text>インドネシア帝国</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_KHMER_NAME" Language="ja_JP">
+      <Text>クメール</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_KHMER_DESCRIPTION" Language="ja_JP">
+      <Text>クメール帝国</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_GITARJA_NAME" Language="ja_JP">
+      <Text>ギターチャ</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_JAYAVARMAN_NAME" Language="ja_JP">
+      <Text>ジャヤーヴァルマン7世</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_LEADER_GITARJA" Language="ja_JP">
+      <Text>豪胆なるギターチャ、万の島々を統べるマジャパヒトの女王よ。インドネシアの海こそ貴女の力。三界の貴き女神たる貴女の威光は、太陽に照らされるすべての海に広まるだろう。勇敢なる女王よ、忠実なる艦隊を武器とせよ！ 海を越えてインドネシアに争いをもたらす輩には、凄まじき嵐を解き放つのだ。</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_KAMPUNG_DESCRIPTION" Language="ja_JP">
+      <Text>労働者がインドネシア固有の施設「カンプン」を建設できるようになる。[NEWLINE][NEWLINE]漁船に隣接するたび [ICON_PRODUCTION] 生産力+1、 [ICON_Housing] 住宅+1、 [ICON_FOOD] 食料+1。技術ツリーと社会制度ツリーの発展にともない、 [ICON_PRODUCTION] 生産力、 [ICON_Housing] 住宅、 [ICON_TOURISM] 観光力がさらに追加される。海洋資源に隣接する沿岸/湖タイルにのみ建設可能。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_KAMPUNG_NAME" Language="ja_JP">
+      <Text>インドネシア固有の施設: カンプン</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_INDONESIA_NUSANTARA_NAME" Language="ja_JP">
+      <Text>大ヌサンタラ</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_INDONESIA_NUSANTARA_DESCRIPTION" Language="ja_JP">
+      <Text>沿岸/湖タイルに隣接する聖地、キャンパス、工業地帯、劇場広場の各区域は若干の隣接ボーナスを得る。沿岸/湖タイルに隣接する総合娯楽施設は、娯楽による [ICON_AMENITIES] 快適性+1。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_UNIT_INDONESIAN_JONG_NAME" Language="ja_JP">
+      <Text>インドネシア固有のユニット: ジョング</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_EXALTED_GODDESS_NAME" Language="ja_JP">
+      <Text>三界の貴き女神</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_EXALTED_GODDESS_DESCRIPTION" Language="ja_JP">
+      <Text>[ICON_FAITH] 信仰力で海洋ユニットを購入できる。宗教ユニットは移動力を消費せず乗船と下船が可能。沿岸/湖タイルに隣接している都心の [ICON_FAITH] 信仰力+2。</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_INDONESIAN_JONG_DESCRIPTION" Language="ja_JP">
+      <Text>フリゲート艦に取ってかわるインドネシア固有の中世の海洋ユニット。すべての陣形ユニットは護衛の [ICON_Movement] 移動速度を継承する。陣形を組むと [ICON_Strength] 戦闘力+5。</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_LEADER_JAYAVARMAN" Language="ja_JP">
+      <Text>賢きジャヤーヴァルマンの名を受け継ぐ7世よ、民の幸せに身を砕く貴方こそクメールの慶び。飢えた民が食物を口にできるのも、貴方が水を治めればこそだ。その功徳は貴方を極楽浄土へと導くだろう。進め、天から遣わされし建設者よ！ 理想郷となる帝国を築くのだ。願わくば逞しき戦象たちが貴方の敵を蹂躙せんことを。</Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_PRASAT_DESCRIPTION" Language="ja_JP">
+      <Text>クメール固有の建造物。神殿に取ってかわる。 [ICON_Faith] 信仰力を使って使徒と審問官を購入するのに必要。この都市で購入された伝道師は殉教者の能力を得る。神学戦争でこの伝道師が命を落とすと [ICON_GreatWork_Relic] 遺物が生まれる。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_BUILDING_PRASAT_NAME" Language="ja_JP">
+      <Text>クメール固有の建造物: プラサート</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_KHMER_BARAYS_NAME" Language="ja_JP">
+      <Text>大バライ</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_KHMER_BARAYS_DESCRIPTION" Language="ja_JP">
+      <Text>用水路のある各都市に [ICON_FAITH] 信仰力+3、娯楽による [ICON_AMENITIES] 快適性+1。用水路に隣接している場合、農場から [ICON_FOOD] 食料+2。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_UNIT_KHMER_DOMREY_NAME" Language="ja_JP">
+      <Text>クメール固有のユニット: ダムレイ</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_MONASTERIES_KING_NAME" Language="ja_JP">
+      <Text>王の僧院</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_MONASTERIES_KING_DESCRIPTION" Language="ja_JP">
+      <Text>川に面している場合、聖地が [ICON_FOOD] 食料+2、 [ICON_HOUSING] 住宅+1をもたらす。聖地が文化爆弾を発動させる。</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_KHMER_DOMREY_DESCRIPTION" Language="ja_JP">
+      <Text>クメール固有の中世の攻囲ユニット。同じターンに移動と攻撃を実行し、支配領域を行使できる。</Text>
+    </Replace>
+    <Replace Tag="LOC_MAP_TSLEAST_ASIA_STANDARD_NAME" Language="ja_JP">
+      <Text>史実と同じ地点 (東アジア)</Text>
+    </Replace>
+    <Replace Tag="LOC_MAP_TSLEAST_ASIA_STANDARD_DESCRIPTION" Language="ja_JP">
+      <Text>アジアを再現したマップが用いられ、実際に各文明の首都があった場所がスタート地点となります。</Text>
+    </Replace>
+    <Replace Tag="LOC_MAP_EAST_ASIA_STANDARD_NAME" Language="ja_JP">
+      <Text>東アジア</Text>
+    </Replace>
+    <Replace Tag="LOC_MAP_EAST_ASIA_STANDARD_DESCRIPTION" Language="ja_JP">
+      <Text>東アジアを再現したマップです。資源、地形、その他の特徴は、実際の歴史を反映したものになっています。</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_INDONESIAN_JONG_NAME" Language="ja_JP">
+      <Text>ジョング</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_KHMER_DOMREY_NAME" Language="ja_JP">
+      <Text>ダムレイ</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_KAMPUNG_NAME" Language="ko_KR">
+      <Text>캄풍</Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_PRASAT_NAME" Language="ko_KR">
+      <Text>프라사트</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_INDONESIA_NAME" Language="ko_KR">
+      <Text>인도네시아</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_INDONESIA_DESCRIPTION" Language="ko_KR">
+      <Text>인도네시아 제국</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_KHMER_NAME" Language="ko_KR">
+      <Text>크메르</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_KHMER_DESCRIPTION" Language="ko_KR">
+      <Text>크메르 제국</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_GITARJA_NAME" Language="ko_KR">
+      <Text>기타르자</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_JAYAVARMAN_NAME" Language="ko_KR">
+      <Text>자야바르만 7세</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_LEADER_GITARJA" Language="ko_KR">
+      <Text>대담한 만 개의 섬의 마자파히트 여왕 기타르자시여, 인도네시아의 바다는 당신의 가장 큰 힘입니다. 당신은 세 가지 세상의 고귀한 여신으로, 태양이 비추는 모든 바다 위로 당신의 신성한 영향력을 전파할 것입니다. 용감한 여왕이시여, 충성스러운 당신의 함대를 믿고 나아가십시오! 인도네시아 해안에 분쟁을 몰고 오는 모든 이들 위에 무서운 폭풍을 불러일으키십시오.</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_KAMPUNG_DESCRIPTION" Language="ko_KR">
+      <Text>인도네시아 특유의 캄풍을 지을 수 있는 건설자의 능력을 잠금 해제합니다.[NEWLINE][NEWLINE][ICON_PRODUCTION] 생산력 +1과 [ICON_Housing] 주거공간 +1을 제공합니다. 인접한 어선에 [ICON_FOOD] 식량 +1을 제공합니다. 기술 발전표와 사회 제도표의 진전에 따라 추가 [ICON_PRODUCTION] 생산력, [ICON_Housing] 주거공간과 [ICON_TOURISM] 관광을 제공합니다. 해양 자원과 인접한 해안 또는 호수 타일에 배치되어야 합니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_KAMPUNG_NAME" Language="ko_KR">
+      <Text>인도네시아 특유의 시설: 캄풍</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_INDONESIA_NUSANTARA_NAME" Language="ko_KR">
+      <Text>위대한 누산타라</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_INDONESIA_NUSANTARA_DESCRIPTION" Language="ko_KR">
+      <Text>해안 및 호수 타일은 성지, 캠퍼스, 산업구역과 극장가 특수지구에 대한 약소한 인접 보너스를 제공합니다. 해안 또는 호수 타일과 인접한 각 유흥단지에 유흥에 의한 [ICON_AMENITIES] 쾌적도 +1이 제공됩니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_UNIT_INDONESIAN_JONG_NAME" Language="ko_KR">
+      <Text>인도네시아 특유 유닛: 종</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_EXALTED_GODDESS_NAME" Language="ko_KR">
+      <Text>세 가지 세상의 고귀한 여신</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_EXALTED_GODDESS_DESCRIPTION" Language="ko_KR">
+      <Text>해상 유닛은 [ICON_FAITH] 신앙으로 구매할 수 있습니다. 종교 유닛은 승선 또는 하선 시 이동력을 소비하지 않습니다. 해안 또는 호수 타일에 인접한 도심부에 [ICON_FAITH] 신앙 +2가 제공됩니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_INDONESIAN_JONG_DESCRIPTION" Language="ko_KR">
+      <Text>프리깃을 대체하는 인도네시아 특유의 중세 시대 유닛입니다. 대형을 이룬 모든 유닛이 호위 유닛의 [ICON_Movement] 이동 속도를 상속받고 [ICON_Strength] 전투력 +5를 획득합니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_LEADER_JAYAVARMAN" Language="ko_KR">
+      <Text>지혜로운 자야바르만 7세시여, 크메르의 안녕을 향한 당신의 헌신을 모두가 존경합니다. 당신은 왕국의 담수 자원을 통해 백성에게 양식을 제공할 뿐 아니라 천국에 한 발 가까이 다가갈 수 있습니다. 신성한 설계자시여, 나아가십시오! 완벽에 가까운 제국을 설립하고, 강력한 전투 코끼리의 발 아래 적을 짓밟으십시오.</Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_PRASAT_DESCRIPTION" Language="ko_KR">
+      <Text>사원을 대체하는 크메르 특유의 건물입니다. [ICON_Faith] 신앙으로 사도와 이단심문관을 구매하는 데 필요합니다. 이 도시에서 구매한 선교사는 신학 전투에서 처치되었을 때 [ICON_GreatWork_Relic] 성유물을 부여하는 순교자 능력을 얻습니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_BUILDING_PRASAT_NAME" Language="ko_KR">
+      <Text>크메르 특유의 건물: 프라사트</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_KHMER_BARAYS_NAME" Language="ko_KR">
+      <Text>거대한 바라이</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_KHMER_BARAYS_DESCRIPTION" Language="ko_KR">
+      <Text>송수로를 보유한 각 도시는 유흥에 의한 [ICON_FAITH] 신앙 +3 및 [ICON_AMENITIES] 쾌적도 +1을 제공합니다. 농장은 송수로에 인접한 경우 [ICON_FOOD] 식량 +2를 제공합니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_UNIT_KHMER_DOMREY_NAME" Language="ko_KR">
+      <Text>크메르 특유 유닛: 돔레이</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_MONASTERIES_KING_NAME" Language="ko_KR">
+      <Text>왕립 수도원</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_MONASTERIES_KING_DESCRIPTION" Language="ko_KR">
+      <Text>성지를 강에 배치할 경우 [ICON_FOOD] 식량 +2 및 [ICON_HOUSING] 주거공간 +1을 제공합니다. 성지는 문화 폭탄을 유발합니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_KHMER_DOMREY_DESCRIPTION" Language="ko_KR">
+      <Text>크메르 특유의 중세 시대 공성 유닛입니다. 같은 턴에 이동 및 발포 가능하며 통제 지역 영향력을 행사합니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_MAP_TSLEAST_ASIA_STANDARD_NAME" Language="ko_KR">
+      <Text>실제 동아시아와 같은 시작 위치</Text>
+    </Replace>
+    <Replace Tag="LOC_MAP_TSLEAST_ASIA_STANDARD_DESCRIPTION" Language="ko_KR">
+      <Text>문명들은 아시아 지도의 해당 역사적 수도 위치에서 시작합니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_MAP_EAST_ASIA_STANDARD_NAME" Language="ko_KR">
+      <Text>동아시아</Text>
+    </Replace>
+    <Replace Tag="LOC_MAP_EAST_ASIA_STANDARD_DESCRIPTION" Language="ko_KR">
+      <Text>역사적 위치가 반영된 자원, 지형 및 지형 특성이 있는 동아시아를 표현한 지도입니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_INDONESIAN_JONG_NAME" Language="ko_KR">
+      <Text>종</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_KHMER_DOMREY_NAME" Language="ko_KR">
+      <Text>돔레이</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_KAMPUNG_NAME" Language="pl_PL">
+      <Text>Kampung|Kampungu|Kampungowi|Kampung|Kampungiem|Kampungu|kampung|kampungu|kampungowi|kampung|kampungiem|kampungu</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_PRASAT_NAME" Language="pl_PL">
+      <Text>Prasat|Prasatu|Prasatowi|Prasat|Prasatem|Prasacie|prasat|prasatu|prasatowi|prasat|prasatem|prasacie</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_INDONESIA_NAME" Language="pl_PL">
+      <Text>Indonezja|Indonezji|Indonezji|Indonezję|Indonezją|Indonezji|Indonezja|Indonezji|Indonezji|Indonezję|Indonezją|Indonezji</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_INDONESIA_DESCRIPTION" Language="pl_PL">
+      <Text>Imperium Indonezyjskie|Imperium Indonezyjskiego|Imperium Indonezyjskiemu|Imperium Indonezyjskie|Imperium Indonezyjskim|Imperium Indonezyjskim|Imperium Indonezyjskie|Imperium Indonezyjskiego|Imperium Indonezyjskiemu|Imperium Indonezyjskie|Imperium Indonezyjskim|Imperium Indonezyjskim</Text>
+      <Gender>neuter</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_KHMER_NAME" Language="pl_PL">
+      <Text>Khmer|Khmeru|Khmerowi|Khmer|Khmerem|Khmerze|Khmer|Khmeru|Khmerowi|Khmer|Khmerem|Khmerze</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_KHMER_DESCRIPTION" Language="pl_PL">
+      <Text>Imperium Khmerskie|Imperium Khmerskiego|Imperium Khmerskiemu|Imperium Khmerskie|Imperium Khmerskim|Imperium Khmerskim|Imperium Khmerskie|Imperium Khmerskiego|Imperium Khmerskiemu|Imperium Khmerskie|Imperium Khmerskim|Imperium Khmerskim</Text>
+      <Gender>neuter</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_GITARJA_NAME" Language="pl_PL">
+      <Text>Gitardża|Gitardży|Gitardży|Gitardżę|Gitardżą|Gitardży|Gitardża|Gitardży|Gitardży|Gitardżę|Gitardżą|Gitardży</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_JAYAVARMAN_NAME" Language="pl_PL">
+      <Text>Dżajawarman VII|Dżajawarmana VII|Dżajawarmanowi VII|Dżajawarmana VII|Dżajawarmanem VII|Dżajawarmanie VII|Dżajawarman VII|Dżajawarmana VII|Dżajawarmanowi VII|Dżajawarmana VII|Dżajawarmanem VII|Dżajawarmanie VII</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_LEADER_GITARJA" Language="pl_PL">
+      <Text>Dzielna Gitardżo, królowo dziesięciu tysięcy wysp Madżapahitu, indonezyjskie morza są źródłem twej potęgi. Jako Najwyższa Bogini Trzech Światów winnaś objąć swą boską władzą wszystkie wody pod słońcem. Zaufaj swej lojalnej flocie, śmiała królowo! Ześlij przerażający sztorm na tych, którzy ośmielą się sprowadzić wojnę na brzegi Indonezji.</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_KAMPUNG_DESCRIPTION" Language="pl_PL">
+      <Text>Odblokowuje zdolność budowniczych pozwalającą tworzyć kampung dostępny wyłącznie dla Indonezji.[NEWLINE][NEWLINE]+1 do [ICON_PRODUCTION] produkcji i +1 do [ICON_Housing] obszarów mieszkalnych. +1 do [ICON_FOOD] żywności za każdą sąsiadującą łódź rybacką. Dodatkowa [ICON_PRODUCTION] produkcja, [ICON_Housing] obszary mieszkalne i [ICON_TOURISM] turystyka wraz z postępami na drzewie technologii i idei. Można zbudować go wyłącznie na polu wybrzeża lub jeziora w sąsiedztwie morskiego zasobu.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_KAMPUNG_NAME" Language="pl_PL">
+      <Text>Unikalne ulepszenie Indonezji: Kampung</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_INDONESIA_NUSANTARA_NAME" Language="pl_PL">
+      <Text>Wielka Nusantara</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_INDONESIA_NUSANTARA_DESCRIPTION" Language="pl_PL">
+      <Text>Pola wybrzeża i jeziora zapewniają niewielką premię za sąsiedztwo dzielnicom świątynnym, kampusom, dzielnicom przemysłowym i kulturalnym. +1 [ICON_Amenities] udogodnienie z rozrywki dla każdej dzielnicy rozrywkowej sąsiadującej z polem wybrzeża lub jeziora.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_UNIT_INDONESIAN_JONG_NAME" Language="pl_PL">
+      <Text>Unikalna jednostka Indonezji: malezyjska dżonka</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_EXALTED_GODDESS_NAME" Language="pl_PL">
+      <Text>Najwyższa bogini trzech światów</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_EXALTED_GODDESS_DESCRIPTION" Language="pl_PL">
+      <Text>Pozwala kupować jednostki morskie za [ICON_FAITH] wiarę. Jednostki religijne nie tracą punktów ruchu przy okrętowaniu i wyokrętowaniu. +2 do [ICON_FAITH] wiary dzięki centrom miast sąsiadujących z polami wybrzeża lub jezior.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_INDONESIAN_JONG_DESCRIPTION" Language="pl_PL">
+      <Text>Średniowieczna jednostka morska dostępna wyłącznie dla Indonezji i zastępująca fregatę. Wszystkie jednostki w szyku mają taką samą prędkość [ICON_Movement] ruchu, co eskorta. +5 do [ICON_Strength] siły bojowej w formacji.</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_LEADER_JAYAVARMAN" Language="pl_PL">
+      <Text>Mądry Dżajawarmanie, siódmy tego imienia, Khmerowie podziwiają oddanie, z jakim dbasz o ich dobrobyt. Władza nad źródłami słodkiej wody pozwala ci nakarmić głodny lud i jeszcze bardziej zbliża cię do nieba. Śmiało, boski architekcie! Zbuduj imperium zmierzające ku doskonałości. Niech twoi wrogowie znajdą śmierć stratowani przez potężne słonie bojowe.</Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_PRASAT_DESCRIPTION" Language="pl_PL">
+      <Text>Budowla dostępna wyłącznie dla Khmeru. Zastępuje świątynię. Niezbędna do kupna apostołów i inkwizytorów za [ICON_Faith] wiarę. Misjonarze zakupieni w tym mieście otrzymują umiejętność męczennika, która sprawia, że po ich śmierci w walce teologicznej generowane są [ICON_GreatWork_Relic] relikwie.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_BUILDING_PRASAT_NAME" Language="pl_PL">
+      <Text>Unikalna budowla Khmeru: Prasat</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_KHMER_BARAYS_NAME" Language="pl_PL">
+      <Text>Wielkie baraje</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_KHMER_BARAYS_DESCRIPTION" Language="pl_PL">
+      <Text>+3 do [ICON_FAITH] wiary i +1 [ICON_Amenities] udogodnienie z rozrywki dla każdego miasta z akweduktem. Farmy dają +2 do [ICON_FOOD] żywności, jeśli sąsiadują z akweduktem.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_UNIT_KHMER_DOMREY_NAME" Language="pl_PL">
+      <Text>Unikalna jednostka Khmeru: Domrey</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_MONASTERIES_KING_NAME" Language="pl_PL">
+      <Text>Klasztory króla</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_MONASTERIES_KING_DESCRIPTION" Language="pl_PL">
+      <Text>Dzielnice świątynne zapewniają +2 do [ICON_FOOD] żywności i +1 do [ICON_HOUSING] obszarów mieszkalnych, jeśli zostaną umieszczone na polu z rzeką. Dzielnice świątynne uruchamiają bombę kulturową.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_KHMER_DOMREY_DESCRIPTION" Language="pl_PL">
+      <Text>Średniowieczna jednostka oblężnicza dostępna wyłącznie dla Khmeru. Jest w stanie poruszać się i strzelać w tej samej turze oraz generuje strefę kontroli. </Text>
+    </Replace>
+    <Replace Tag="LOC_MAP_TSLEAST_ASIA_STANDARD_NAME" Language="pl_PL">
+      <Text>Azja Wsch.: historyczne początki</Text>
+    </Replace>
+    <Replace Tag="LOC_MAP_TSLEAST_ASIA_STANDARD_DESCRIPTION" Language="pl_PL">
+      <Text>Cywilizacje rozpoczynają grę na mapie Azji, w miejscach, w których znajdowały się ich historyczne stolice.</Text>
+    </Replace>
+    <Replace Tag="LOC_MAP_EAST_ASIA_STANDARD_NAME" Language="pl_PL">
+      <Text>Azja Wschodnia</Text>
+    </Replace>
+    <Replace Tag="LOC_MAP_EAST_ASIA_STANDARD_DESCRIPTION" Language="pl_PL">
+      <Text>Mapa Azji Wschodniej z zasobami, terenem i jego cechami odzwierciedlającymi ich historyczne położenie.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_INDONESIAN_JONG_NAME" Language="pl_PL">
+      <Text>Malajska dżonka|Malajskiej dżonki|Malajskiej dżonce|Malajską dżonkę|Malajską dżonką|Malajskiej dżonce|malajska dżonka|malajskiej dżonki|malajskiej dżonce|malajską dżonkę|malajską dżonką|malajskiej dżonce</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_UNIT_KHMER_DOMREY_NAME" Language="pl_PL">
+      <Text>Domrey|Domreya|Domreyowi|Domreya|Domreyem|Domreyu|domrey|domreya|domreyowi|domreya|domreyem|domreyu</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_KAMPUNG_NAME" Language="ru_RU">
+      <Text>Кампонг|кампонга|кампонгу|кампонг|кампонгом|кампонге</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_PRASAT_NAME" Language="ru_RU">
+      <Text>Прасат|Прасата|Прасату|Прасат|Прасатом|Прасате</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_INDONESIA_NAME" Language="ru_RU">
+      <Text>Индонезия|Индонезии|Индонезии|Индонезию|Индонезией|Индонезии</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_INDONESIA_DESCRIPTION" Language="ru_RU">
+      <Text>Индонезийская империя|Индонезийской империи|Индонезийской империи|Индонезийскую империю|Индонезийской империей|Индонезийской империи</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_KHMER_NAME" Language="ru_RU">
+      <Text>Кхмеры|кхмеров|кхмерам|кхмеров|кхмерами|кхмерах</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_KHMER_DESCRIPTION" Language="ru_RU">
+      <Text>Кхмерская империя|Кхмерской империи|Кхмерской империи|Кхмерскую империю|Кхмерской империей|Кхмерской империи</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_GITARJA_NAME" Language="ru_RU">
+      <Text>Трибхувана|Трибхуваны|Трибхуване|Трибхувану|Трибхуваной|Трибхуване</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_JAYAVARMAN_NAME" Language="ru_RU">
+      <Text>Джайаварман VII|Джайавармана VII|Джайаварману VII|Джайавармана VII|Джайаварманом VII|Джайавармане VII</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_LEADER_GITARJA" Language="ru_RU">
+      <Text>Храбрая махарани Трибхувана, повелительница десяти тысяч островов, в морях Индонезии – твоя сила. Великая богиня трех миров, властвуй над всеми водами, что есть под солнцем. Положись на верный флот, о бесстрашная махарани, и разметай, как буря, всех тех, кто придет на брега Индонезии с мечом.</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_KAMPUNG_DESCRIPTION" Language="ru_RU">
+      <Text>Позволяет строителям строить кампонг (уникально для Индонезии).[NEWLINE][NEWLINE]+1 [ICON_PRODUCTION] производства и +1 [ICON_Housing] жилья. +1 [ICON_FOOD] пищи за каждое соседнее рыбацкое судно. Дополнительное [ICON_PRODUCTION] производство, [ICON_Housing] жилье и [ICON_TOURISM] туризм по мере продвижения по дереву технологий и социальных институтов. Можно строить только на побережье или озере рядом с морскими ресурсами.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_KAMPUNG_NAME" Language="ru_RU">
+      <Text>Уникальное улучшение Индонезии: кампонг</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_INDONESIA_NUSANTARA_NAME" Language="ru_RU">
+      <Text>Великая Нусантара</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_INDONESIA_NUSANTARA_DESCRIPTION" Language="ru_RU">
+      <Text>Клетки побережья и озер дают небольшой бонус за соседство священному месту, кампусу, промышленной зоне и театральной площади. +1 [ICON_AMENITIES] к довольству от развлечений для каждого развлекательного комплекса рядом с клеткой побережья или озера.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_UNIT_INDONESIAN_JONG_NAME" Language="ru_RU">
+      <Text>Уникальный индонезийский юнит: джонка</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_EXALTED_GODDESS_NAME" Language="ru_RU">
+      <Text>Великая богиня Трех миров</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_EXALTED_GODDESS_DESCRIPTION" Language="ru_RU">
+      <Text>Морские юниты можно покупать за [ICON_FAITH] веру. Религиозные юниты не тратят очки перемещения при погрузке на корабль и выгрузку с корабля. +2 [ICON_FAITH] веры для центра города за соседство с клетками побережья или озер.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_INDONESIAN_JONG_DESCRIPTION" Language="ru_RU">
+      <Text>Уникальный индонезийский военно-морской юнит Средневековья, заменяющий фрегат. Все юниты в строю получают [ICON_Movement] скорость движения сопровождающего корабля и +5 [ICON_Strength] к боевой мощи в строю.</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_LEADER_JAYAVARMAN" Language="ru_RU">
+      <Text>Мудрый Джайаварман, седьмой, кто носит это имя! Заботой о своем народе ты завоевал уважение кхмеров. Распоряжайся источниками пресной воды, чтобы дать пищу голодным, – и ты приблизишься к небесам. Смелей же, божественный архитектор! Построй империю на грани совершенства, а твоих недругов пусть втопчут в пыль боевые слоны!</Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_PRASAT_DESCRIPTION" Language="ru_RU">
+      <Text>Уникальное здание кхмеров. Замещает храм. Необходимо для найма апостолов и инквизиторов за [ICON_Faith] веру. Миссионеры, нанятые в этом городе, сразу получают способность «Мученик», которая дает [ICON_GreatWork_Relic] реликвию, если юнит погибает в теологической баталии.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_BUILDING_PRASAT_NAME" Language="ru_RU">
+      <Text>Уникальное здание кхмеров: прасат</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_KHMER_BARAYS_NAME" Language="ru_RU">
+      <Text>Великий барай</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_KHMER_BARAYS_DESCRIPTION" Language="ru_RU">
+      <Text>+3 [ICON_FAITH] веры и +1 [ICON_AMENITIES] довольства от развлечений в каждом городе с акведуком. Фермы рядом с акведуком дают +2 [ICON_FOOD] еды.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_UNIT_KHMER_DOMREY_NAME" Language="ru_RU">
+      <Text>Уникальный кхмерский юнит: домрей</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_MONASTERIES_KING_NAME" Language="ru_RU">
+      <Text>Монастыри короля</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_MONASTERIES_KING_DESCRIPTION" Language="ru_RU">
+      <Text>Священные места дают +2 [ICON_FOOD] пищи и +1 [ICON_HOUSING] жилья, если находятся на реке. Священные места активируют культурный захват.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_KHMER_DOMREY_DESCRIPTION" Language="ru_RU">
+      <Text>Уникальный кхмерский осадный юнит Средневековья. Может перемещаться и стрелять в тот же ход, имеет зону контроля.</Text>
+    </Replace>
+    <Replace Tag="LOC_MAP_TSLEAST_ASIA_STANDARD_NAME" Language="ru_RU">
+      <Text>Полит. карта Восточной Азии</Text>
+    </Replace>
+    <Replace Tag="LOC_MAP_TSLEAST_ASIA_STANDARD_DESCRIPTION" Language="ru_RU">
+      <Text>Цивилизации начинают игру на месте исторических столиц на карте восточной Азии.</Text>
+    </Replace>
+    <Replace Tag="LOC_MAP_EAST_ASIA_STANDARD_NAME" Language="ru_RU">
+      <Text>Восточная Азия</Text>
+    </Replace>
+    <Replace Tag="LOC_MAP_EAST_ASIA_STANDARD_DESCRIPTION" Language="ru_RU">
+      <Text>Карта, похожая на Восточную Азию расположением ресурсов, массивов суши и исторических мест.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_INDONESIAN_JONG_NAME" Language="ru_RU">
+      <Text>Джонка|джонки|джонке|джонку|джонкой|джонке</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_UNIT_KHMER_DOMREY_NAME" Language="ru_RU">
+      <Text>Домрей|домрея|домрею|домрея|домреем|домрее</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_KAMPUNG_NAME" Language="zh_Hans_CN">
+      <Text>甘榜屋</Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_PRASAT_NAME" Language="zh_Hans_CN">
+      <Text>高棉庙堂</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_INDONESIA_NAME" Language="zh_Hans_CN">
+      <Text>印度尼西亚</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_INDONESIA_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>印度尼西亚帝国</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_KHMER_NAME" Language="zh_Hans_CN">
+      <Text>高棉</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_KHMER_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>高棉帝国</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_GITARJA_NAME" Language="zh_Hans_CN">
+      <Text>特丽布瓦娜</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_JAYAVARMAN_NAME" Language="zh_Hans_CN">
+      <Text>阇耶跋摩七世</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_LEADER_GITARJA" Language="zh_Hans_CN">
+      <Text>勇敢的特丽布瓦娜，统治万千岛屿的满者伯夷女王，印度尼西亚的海洋便是您最强大的力量。身为三界的崇高女神，您将把自己的神圣之力散播到日光照拂过的所有海域。英勇的女王，率领您忠实的舰队，让那些胆敢在印度尼西亚海岸边兴风作浪的家伙尝尝凶猛的风暴吧！</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_KAMPUNG_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>解锁建造者建造印度尼西亚特色改良设施“甘榜屋”的能力。[NEWLINE][NEWLINE]+1 [ICON_PRODUCTION] 生产力、+1 [ICON_Housing] 住房。每个相邻渔船+1 [ICON_FOOD] 食物。解锁更多科技和市政后可获得更多 [ICON_PRODUCTION] 生产力、[ICON_Housing] 住房和 [ICON_TOURISM] 旅游业绩。必须建造在靠近海洋资源的海岸或湖泊单元格上。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_KAMPUNG_NAME" Language="zh_Hans_CN">
+      <Text>印度尼西亚特色改良设施：甘榜屋</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_INDONESIA_NUSANTARA_NAME" Language="zh_Hans_CN">
+      <Text>伟大千岛之国</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_INDONESIA_NUSANTARA_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>海岸和湖泊单元格可为圣地、学院、工业区和剧院广场提供少量相邻加成。如与海岸或湖泊单元格相邻，娱乐设施+1 [ICON_AMENITIES] 宜居度。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_UNIT_INDONESIAN_JONG_NAME" Language="zh_Hans_CN">
+      <Text>印度尼西亚特色单位：戎克船</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_EXALTED_GODDESS_NAME" Language="zh_Hans_CN">
+      <Text>三界的崇高女神</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_EXALTED_GODDESS_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>可用 [ICON_FAITH] 信仰值购买海军单位。宗教单位上船下船时无移动力消耗。与海岸或湖泊单元格相邻的市中心+2 [ICON_FAITH] 信仰值。</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_INDONESIAN_JONG_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>印度尼西亚特色中世纪海军单位，替代护卫舰。编队时，所有编队单位将继承护卫队的 [ICON_Movement] 移动力并+5 [ICON_Strength] 战斗力。</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_LEADER_JAYAVARMAN" Language="zh_Hans_CN">
+      <Text>睿智的阇耶跋摩七世，高棉人尊崇勤政爱民的您。您掌管着这块土地上的清水，哺育着饥饿的人民，这也使您的地位几近于神。前进吧，神圣的建筑师！创造一个完美的帝国，用无坚不摧的战象踏平敌人。</Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_PRASAT_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>高棉特色建筑，取代寺庙。建造此建筑后方能用 [ICON_Faith] 信仰值购买使徒和审判官。在此城中购买的传教士拥有能力“殉道者”：此单位在神学战争中死去后将获得一个 [ICON_GreatWork_Relic] 遗物。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_BUILDING_PRASAT_NAME" Language="zh_Hans_CN">
+      <Text>高棉特色建筑：高棉庙堂</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_KHMER_BARAYS_NAME" Language="zh_Hans_CN">
+      <Text>大人工湖</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_KHMER_BARAYS_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>在拥有水渠的城市中，娱乐设施提供的 [ICON_FAITH] 信仰值+3、[ICON_AMENITIES] 宜居度+1。如与水渠相邻，农场提供的 [ICON_FOOD] 食物+2。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_UNIT_KHMER_DOMREY_NAME" Language="zh_Hans_CN">
+      <Text>高棉特色单位：高棉战象</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_MONASTERIES_KING_NAME" Language="zh_Hans_CN">
+      <Text>国王的修道院</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_MONASTERIES_KING_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>圣地可触发文化炸弹。如圣地位于河流之上，则提供+2 [ICON_FOOD] 食物、+1 [ICON_HOUSING] 住房。</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_KHMER_DOMREY_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>高棉特色中世纪攻城单位。可在一回合中移动并攻击，还可形成控制区。</Text>
+    </Replace>
+    <Replace Tag="LOC_MAP_TSLEAST_ASIA_STANDARD_NAME" Language="zh_Hans_CN">
+      <Text>东亚（真实开局位置）</Text>
+    </Replace>
+    <Replace Tag="LOC_MAP_TSLEAST_ASIA_STANDARD_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>文明在亚洲地图上以历史真实的首都位置开局。</Text>
+    </Replace>
+    <Replace Tag="LOC_MAP_EAST_ASIA_STANDARD_NAME" Language="zh_Hans_CN">
+      <Text>东亚</Text>
+    </Replace>
+    <Replace Tag="LOC_MAP_EAST_ASIA_STANDARD_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>根据历史地理位置呈现东亚的资源、地形和地貌 。</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_INDONESIAN_JONG_NAME" Language="zh_Hans_CN">
+      <Text>戎克船</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_KHMER_DOMREY_NAME" Language="zh_Hans_CN">
+      <Text>高棉战象</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_KAMPUNG_NAME" Language="es_ES">
+      <Text>Kampong|Kampong</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_PRASAT_NAME" Language="es_ES">
+      <Text>Prasat|Prasats</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_INDONESIA_NAME" Language="es_ES">
+      <Text>Indonesia</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_INDONESIA_DESCRIPTION" Language="es_ES">
+      <Text>Imperio indonesio</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_KHMER_NAME" Language="es_ES">
+      <Text>Jémer</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_KHMER_DESCRIPTION" Language="es_ES">
+      <Text>Imperio jémer</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_GITARJA_NAME" Language="es_ES">
+      <Text>Gitarja</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_JAYAVARMAN_NAME" Language="es_ES">
+      <Text>Jayavarman</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_LEADER_GITARJA" Language="es_ES">
+      <Text>Intrépida Gitarja, reina mayapajit de las diez mil islas, los mares de Indonesia son tu mayor fuerza. Como glorificada diosa de los tres mundos, extenderás tu divina influencia sobre todas las aguas que ven el sol. ¡Confía en tu leal flota, valerosa reina! Desata una aterradora tormenta sobre aquellos que amenazan las costas indonesias.</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_KAMPUNG_DESCRIPTION" Language="es_ES">
+      <Text>Desbloquea la habilidad Constructor para crear un Kampong, exclusivo de Indonesia.[NEWLINE][NEWLINE]+1 a la Producción [ICON_Production] y +1 a Alojamiento [ICON_Housing]. +1 a Alimentos [ICON_Food] por cada Barco pesquero adyacente. Producción [ICON_PRODUCTION], Alojamiento [ICON_Housing] y Turismo [ICON_TOURISM] adicionales al avanzar en los árboles tecnológico y de principios. Debe estar en una casilla de Costa o Lago adyacente a un recurso de marítimo.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_KAMPUNG_NAME" Language="es_ES">
+      <Text>Mejora exclusiva indonesia: Kampong</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_INDONESIA_NUSANTARA_NAME" Language="es_ES">
+      <Text>Gran Nusantara</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_INDONESIA_NUSANTARA_DESCRIPTION" Language="es_ES">
+      <Text>Las casillas de Costa y Lago proporcionan una pequeña bonificación de adyacencia a distritos de Teatros, Lugares sagrados, Campus y Zonas industriales. +1 a Servicios [ICON_Amenities] por entretenimiento para todos los Complejos de ocio adyacentes a una casilla de Costa o Lago.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_UNIT_INDONESIAN_JONG_NAME" Language="es_ES">
+      <Text>Unidad exclusiva indonesia: Jong</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_EXALTED_GODDESS_NAME" Language="es_ES">
+      <Text>Diosa exaltada de los tres mundos</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_EXALTED_GODDESS_DESCRIPTION" Language="es_ES">
+      <Text>Las unidades navales se pueden comprar con Fe [ICON_FAITH]. Las unidades religiosas no consumen puntos de movimiento por embarcar o desembarcar. +2 a Fe [ICON_FAITH] de Centros urbanos adyacentes a casillas de Costa o Lago.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_INDONESIAN_JONG_DESCRIPTION" Language="es_ES">
+      <Text>Unidad naval exclusiva indonesia de la Edad Media que sustituye a la Fragata. Las unidades en formación mantienen la velocidad de Movimiento [ICON_Movement] de la escolta y +5 a la Fuerza de combate [ICON_Strength] al estar en formación.</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_LEADER_JAYAVARMAN" Language="es_ES">
+      <Text>Sabio Jayavarman, séptimo rey en llevar ese nombre, los jemeres admiran tu entrega por conseguir su bienestar. Con tu control sobre las aguas, alimentas al pueblo hambriento y te acercas cada vez más a los cielos. ¡Adelante, divino arquitecto! Levanta un imperio que roce la perfección, y que tus elefantes de guerra aplasten al enemigo.</Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_PRASAT_DESCRIPTION" Language="es_ES">
+      <Text>Un edificio exclusivo de los jemeres. Sustituye al Templo. Necesario para comprar Apóstoles e Inquisidores con Fe [ICON_Faith]. Los Misioneros comprados en esta ciudad reciben la habilidad Mártir, que confiere una reliquia [ICON_GreatWork_Relic] si este misionario muere en combate teológico.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_BUILDING_PRASAT_NAME" Language="es_ES">
+      <Text>Edificio exclusivo jémer: Prasat</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_KHMER_BARAYS_NAME" Language="es_ES">
+      <Text>Grandes Barays</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_KHMER_BARAYS_DESCRIPTION" Language="es_ES">
+      <Text>+3 a Fe [ICON_FAITH] y +1 a Servicios [ICON_AMENITIES] por entretenimiento para todas las ciudades con un Acueducto. Las Granjas adyacentes a un Acueducto proporcionan +2 a Alimentos [ICON_FOOD].</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_UNIT_KHMER_DOMREY_NAME" Language="es_ES">
+      <Text>Unidad exclusiva jémer: Domrey</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_MONASTERIES_KING_NAME" Language="es_ES">
+      <Text>Monasterios del rey</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_MONASTERIES_KING_DESCRIPTION" Language="es_ES">
+      <Text>Los Lugares sagrados proporcionan +2 a Alimentos [ICON_FOOD] y +1 al Alojamiento [ICON_HOUSING]. Los Lugares sagrados activan un Bombardeo cultural.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_KHMER_DOMREY_DESCRIPTION" Language="es_ES">
+      <Text>Unidad de asedio exclusiva jémer de la Edad Media. Puede moverse y disparar en el mismo turno y ejerce una zona de control.</Text>
+    </Replace>
+    <Replace Tag="LOC_MAP_TSLEAST_ASIA_STANDARD_NAME" Language="es_ES">
+      <Text>Pos. inicial real en Asia oriental</Text>
+    </Replace>
+    <Replace Tag="LOC_MAP_TSLEAST_ASIA_STANDARD_DESCRIPTION" Language="es_ES">
+      <Text>Las civilizaciones comienzan en su capital histórica en el mapa de Asia.</Text>
+    </Replace>
+    <Replace Tag="LOC_MAP_EAST_ASIA_STANDARD_NAME" Language="es_ES">
+      <Text>Asia oriental</Text>
+    </Replace>
+    <Replace Tag="LOC_MAP_EAST_ASIA_STANDARD_DESCRIPTION" Language="es_ES">
+      <Text>Una representación de Asia oriental con recursos, terreno y accidentes geográficos que reflejan sus ubicaciones históricas.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_INDONESIAN_JONG_NAME" Language="es_ES">
+      <Text>Jong|Jong</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_UNIT_KHMER_DOMREY_NAME" Language="es_ES">
+      <Text>Domrey|Domreys</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_KAMPUNG_NAME" Language="zh_Hant_HK">
+      <Text>甘邦村落</Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_PRASAT_NAME" Language="zh_Hant_HK">
+      <Text>高棉佛堂</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_INDONESIA_NAME" Language="zh_Hant_HK">
+      <Text>印尼</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_INDONESIA_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>印尼帝國</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_KHMER_NAME" Language="zh_Hant_HK">
+      <Text>高棉</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_KHMER_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>高棉帝國</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_GITARJA_NAME" Language="zh_Hant_HK">
+      <Text>崔布瓦娜</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_JAYAVARMAN_NAME" Language="zh_Hant_HK">
+      <Text>闍耶跋摩七世</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_LEADER_GITARJA" Language="zh_Hant_HK">
+      <Text>勇敢的崔布瓦娜，統治千萬島嶼的滿者伯夷女王，印度尼西亞的海洋便是您最強大的力量。身為三界的崇高女神，您將把自己的神聖之力散播到日光照拂過的所有海域。英勇的女王，率領您忠實的艦隊，讓那些膽敢在印尼海岸邊作亂的傢伙嘗嘗兇猛的風暴吧！</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_KAMPUNG_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>解鎖建造者建造印尼特色改良設施甘邦村落的能力。[NEWLINE][NEWLINE]+1 [ICON_PRODUCTION] 生產力和+1 [ICON_Housing] 住房。每個相鄰漁船+1 [ICON_FOOD] 食物。隨著你在科技和市政樹上不斷取得進展，也可額外獲得 [ICON_PRODUCTION] 生產力、[ICON_Housing] 住房和 [ICON_TOURISM] 旅遊業績。必須建在鄰近海洋資源的海岸或湖泊單元格上。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_KAMPUNG_NAME" Language="zh_Hant_HK">
+      <Text>印尼特色改良設施：甘邦村落</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_INDONESIA_NUSANTARA_NAME" Language="zh_Hant_HK">
+      <Text>偉大的馬來世界</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_INDONESIA_NUSANTARA_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>海岸和湖泊單元格能為聖地、學院、工業區和劇場廣場等區域提供少量相鄰加成。與海岸或湖泊單元格相鄰的娛樂中心可獲得 [ICON_AMENITIES] 滿意度+1。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_UNIT_INDONESIAN_JONG_NAME" Language="zh_Hant_HK">
+      <Text>印尼特色單位：戎克船</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_EXALTED_GODDESS_NAME" Language="zh_Hant_HK">
+      <Text>三界的崇高女神</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_EXALTED_GODDESS_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>可使用 [ICON_FAITH] 信仰值購買海軍單位。宗教單位上下船時不消耗移動力。鄰近海岸和湖泊單元格的城市中心+2 [ICON_FAITH] 信仰值。</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_INDONESIAN_JONG_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>取代護衛艦的印尼中世紀海軍單位。編隊單位全部獲得護衛隊的 [ICON_Movement] 移動速度，編隊時+5 [ICON_Strength] 戰鬥力。</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_LEADER_JAYAVARMAN" Language="zh_Hant_HK">
+      <Text>睿智的闍耶跋摩七世，高棉人尊崇勤政愛民的您。您掌管著這塊土地上的清水，哺育著飢餓的人民，這也使您的地位幾近於神。前進吧，神聖的建築師！創造一個完美的帝國，用強悍無比的戰象踏平敵人。</Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_PRASAT_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>取代寺廟的高棉特色建築。必須先建造此建築才能使用 [ICON_Faith] 信仰值購買使徒和審判官。在此城市購買的傳教士能自動獲得「殉道者」能力：若在神學戰爭中死亡，會產生一個 [ICON_GreatWork_Relic] 遺物。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_BUILDING_PRASAT_NAME" Language="zh_Hant_HK">
+      <Text>高棉特色建築：高棉佛堂</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_KHMER_BARAYS_NAME" Language="zh_Hant_HK">
+      <Text>大人工湖</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_KHMER_BARAYS_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>每座擁有水渠的城市皆能從娛樂設施獲得+3 [ICON_FAITH] 信仰值和+1 [ICON_AMENITIES] 滿意度。相鄰水渠的農場可提供+2 [ICON_FOOD] 食物。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_UNIT_KHMER_DOMREY_NAME" Language="zh_Hant_HK">
+      <Text>高棉特色單位：高棉戰象</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_MONASTERIES_KING_NAME" Language="zh_Hant_HK">
+      <Text>王室寺院</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_MONASTERIES_KING_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>若設置於河川邊，聖地可提供+2 [ICON_FOOD] 食物和+1 [ICON_HOUSING] 住房。聖地會觸發文化炸彈。</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_KHMER_DOMREY_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>高棉特色中世紀攻城單位。能在同一回合移動和攻擊，並能夠運用控制區影響。</Text>
+    </Replace>
+    <Replace Tag="LOC_MAP_TSLEAST_ASIA_STANDARD_NAME" Language="zh_Hant_HK">
+      <Text>東亞（真實開場位置）</Text>
+    </Replace>
+    <Replace Tag="LOC_MAP_TSLEAST_ASIA_STANDARD_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>各文明在亞洲地圖上皆會從其歷史首都的位置開場。</Text>
+    </Replace>
+    <Replace Tag="LOC_MAP_EAST_ASIA_STANDARD_NAME" Language="zh_Hant_HK">
+      <Text>東亞</Text>
+    </Replace>
+    <Replace Tag="LOC_MAP_EAST_ASIA_STANDARD_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>反映東亞地區當時歷史與地理位置的代表性資源、地形與地貌。</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_INDONESIAN_JONG_NAME" Language="zh_Hant_HK">
+      <Text>戎克船</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_KHMER_DOMREY_NAME" Language="zh_Hant_HK">
+      <Text>高棉戰象</Text>
+    </Replace>
+  </LocalizedText>
+</GameData>

@@ -1,0 +1,1365 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <LocalizedText>
+    <Replace Tag="LOC_CIVILIZATION_AUSTRALIA_SCENARIO_QUEENSLAND_NAME" Language="pt_BR">
+      <Text>Queensland</Text>
+      <Gender>neutral</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_AUSTRALIA_SCENARIO_WESTERN_AUSTRALIA_NAME" Language="pt_BR">
+      <Text>Austrália Ocidental</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_AUSTRALIA_SCENARIO_VICTORIA_NAME" Language="pt_BR">
+      <Text>Victoria</Text>
+      <Gender>neutral</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_AUSTRALIA_SCENARIO_SOUTH_AUSTRALIA_NAME" Language="pt_BR">
+      <Text>Austrália do Sul</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_AUSTRALIA_SCENARIO_QUEENSLAND_DESCRIPTION" Language="pt_BR">
+      <Text>Estado de Queensland</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_AUSTRALIA_SCENARIO_WESTERN_AUSTRALIA_DESCRIPTION" Language="pt_BR">
+      <Text>Estado da Austrália Ocidental</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_AUSTRALIA_SCENARIO_VICTORIA_DESCRIPTION" Language="pt_BR">
+      <Text>Estado de Victoria</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_AUSTRALIA_SCENARIO_SOUTH_AUSTRALIA_DESCRIPTION" Language="pt_BR">
+      <Text>Estado da Austrália do Sul</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_QUEENSLAND_ABILITY_NAME" Language="pt_BR">
+      <Text>Terra Lá Embaixo</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_WESTERN_AUSTRALIA_ABILITY_NAME" Language="pt_BR">
+      <Text>Terra Lá Embaixo</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_VICTORIA_ABILITY_NAME" Language="pt_BR">
+      <Text>Terra Lá Embaixo</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_SOUTH_AUSTRALIA_ABILITY_NAME" Language="pt_BR">
+      <Text>Terra Lá Embaixo</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_QUEENSLAND_ABILITY_DESCRIPTION" Language="pt_BR">
+      <Text>+3 de [ICON_Housing] habitação para qualquer cidade na costa. Pastos ativam uma explosão cultural. Campi, Centros Comerciais e Teatros têm ganhos de +2 em painéis de apelo de encantador, +4 em de tirar o fôlego. </Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_WESTERN_AUSTRALIA_ABILITY_DESCRIPTION" Language="pt_BR">
+      <Text>+3 de [ICON_Housing] habitação para qualquer cidade na costa. Pastos ativam uma explosão cultural. Campi, Centros Comerciais e Teatros têm ganhos de +2 em painéis de apelo de encantador, +4 em de tirar o fôlego. </Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_VICTORIA_ABILITY_DESCRIPTION" Language="pt_BR">
+      <Text>+3 de [ICON_Housing] habitação para qualquer cidade na costa. Pastos ativam uma explosão cultural. Campi, Centros Comerciais e Teatros têm ganhos de +2 em painéis de apelo de encantador, +4 em de tirar o fôlego. </Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_SOUTH_AUSTRALIA_ABILITY_DESCRIPTION" Language="pt_BR">
+      <Text>+3 de [ICON_Housing] habitação para qualquer cidade na costa. Pastos ativam uma explosão cultural. Campi, Centros Comerciais e Teatros têm ganhos de +2 em painéis de apelo de encantador, +4 em de tirar o fôlego. </Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_AUSTRALIA_SCENARIO_QUEENSLAND_NAME" Language="pt_BR">
+      <Text>Premiê de Queensland</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_AUSTRALIA_SCENARIO_WESTERN_AUSTRALIA_NAME" Language="pt_BR">
+      <Text>Premiê da Austrália Ocidental</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_AUSTRALIA_SCENARIO_VICTORIA_NAME" Language="pt_BR">
+      <Text>Premiê de Victoria</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_AUSTRALIA_SCENARIO_SOUTH_AUSTRALIA_NAME" Language="pt_BR">
+      <Text>Premiê da Austrália do Sul</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_QUEENSLAND_ABILITY_NAME" Language="pt_BR">
+      <Text>Estado da Luz do Sol</Text>
+      <Gender>neutral</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_WESTERN_AUSTRALIA_ABILITY_NAME" Language="pt_BR">
+      <Text>Outback Dourado</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_VICTORIA_ABILITY_NAME" Language="pt_BR">
+      <Text>Corrida do Ouro de Victoria</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_SOUTH_AUSTRALIA_ABILITY_NAME" Language="pt_BR">
+      <Text>Colônia Livre</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_AUSTRALIA_SCENARIO_NAME" Language="pt_BR">
+      <Text>Magnata do Outback</Text>
+    </Replace>
+    <Replace Tag="LOC_AUSTRALIA_SCENARIO_TOOLTIP" Language="pt_BR">
+      <Text>Qual colônia melhor aproveitará as riquezas naturais da Austrália? Dura 60 turnos.</Text>
+    </Replace>
+    <Replace Tag="LOC_AUSTRALIA_SCENARIO_DESCRIPTION" Language="pt_BR">
+      <Text>Neste cenário de 60 turnos, você compete para explorar a Austrália, descobrir seus recursos naturais e usá-los para enriquecer a sua colônia. Este competitivo cenário econômico não possui combate. Ele enfatiza exploração e expansão territorial para aumentar a sua receita líquida de [ICON_Gold] ouro por turno, que é a sua pontuação.[NEWLINE][NEWLINE]Solo: cada dificuldade possui uma meta de [ICON_Gold] ouro por turno. Atinja-a antes de o jogo acabar para vencer.[NEWLINE][NEWLINE]Multijogador: o jogador com o maior valor de [ICON_Gold] ouro por turno ao final do jogo será o vencedor.</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_AUSTRALIA_SCENARIO" Language="pt_BR">
+      <Text>A sua nova colônia australiana não busca repetir o sucesso alcançado em Nova Gales do Sul, e sim excedê-lo. Será você capaz de conquistar fama nestas terras desoladas em que tantos outros falharam? Será a sua fortuna determinada por encontrar os campos de ouro de tantos rumores, por preparar grandes campos para a criação de animais ou por preservar a beleza natural destas terras para as gerações futuras?</Text>
+    </Replace>
+    <Replace Tag="LOC_AUSTRALIA_SCENARIO_MAP_NAME" Language="pt_BR">
+      <Text>Mapa australiano</Text>
+    </Replace>
+    <Replace Tag="LOC_AUSTRALIA_SCENARIO_MAP_DESCRIPTION" Language="pt_BR">
+      <Text>Um continente australiano gerado aleatoriamente com o contorno do mundo real.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_QUEENSLAND_ABILITY_DESCRIPTION" Language="pt_BR">
+      <Text>Todos os painéis ganham +1 de apelo.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_WESTERN_AUSTRALIA_ABILITY_DESCRIPTION" Language="pt_BR">
+      <Text>Ganhe painéis adicionais ao fundar cidades.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_VICTORIA_ABILITY_DESCRIPTION" Language="pt_BR">
+      <Text>Inicie o jogo com um Garimpeiro. Todos os Garimpeiros treinados em uma de suas cidades ganham 1 ação de construção extra.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_SOUTH_AUSTRALIA_ABILITY_DESCRIPTION" Language="pt_BR">
+      <Text>Inicie o jogo com um Criador. Todos os Criadores treinados em uma de suas cidades ganham 1 ação de construção extra.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_AUSTRALIA_SCENARIO_QUEENSLAND_NAME" Language="fr_FR">
+      <Text>Queensland</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_AUSTRALIA_SCENARIO_WESTERN_AUSTRALIA_NAME" Language="fr_FR">
+      <Text>Australie-Occidentale</Text>
+      <Gender>feminine:vowel</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_AUSTRALIA_SCENARIO_VICTORIA_NAME" Language="fr_FR">
+      <Text>Victoria</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_AUSTRALIA_SCENARIO_SOUTH_AUSTRALIA_NAME" Language="fr_FR">
+      <Text>Australie-Méridionale</Text>
+      <Gender>feminine:vowel</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_AUSTRALIA_SCENARIO_QUEENSLAND_DESCRIPTION" Language="fr_FR">
+      <Text>État du Queensland</Text>
+      <Gender>masculine:vowel</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_AUSTRALIA_SCENARIO_WESTERN_AUSTRALIA_DESCRIPTION" Language="fr_FR">
+      <Text>État de l'Australie-Occidentale</Text>
+      <Gender>masculine:vowel</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_AUSTRALIA_SCENARIO_VICTORIA_DESCRIPTION" Language="fr_FR">
+      <Text>État du Victoria</Text>
+      <Gender>masculine:vowel</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_AUSTRALIA_SCENARIO_SOUTH_AUSTRALIA_DESCRIPTION" Language="fr_FR">
+      <Text>État de l'Australie-Méridionale</Text>
+      <Gender>masculine:vowel</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_QUEENSLAND_ABILITY_NAME" Language="fr_FR">
+      <Text>Terres australes</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_WESTERN_AUSTRALIA_ABILITY_NAME" Language="fr_FR">
+      <Text>Terres australes</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_VICTORIA_ABILITY_NAME" Language="fr_FR">
+      <Text>Terres australes</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_SOUTH_AUSTRALIA_ABILITY_NAME" Language="fr_FR">
+      <Text>Terres australes</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_QUEENSLAND_ABILITY_DESCRIPTION" Language="fr_FR">
+      <Text>[ICON_Housing] Habitations +3 pour les villes côtières. Les pâturages déclenchent une bombe culturelle. Rendements +2 pour les campus, plateformes commerciales et places du théâtre situés sur des cases à l'attrait charmant, +4 si attrait époustouflant.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_WESTERN_AUSTRALIA_ABILITY_DESCRIPTION" Language="fr_FR">
+      <Text>[ICON_Housing] Habitations +3 pour les villes côtières. Les pâturages déclenchent une bombe culturelle. Rendements +2 pour les campus, plateformes commerciales et places du théâtre situés sur des cases à l'attrait charmant, +4 si attrait époustouflant.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_VICTORIA_ABILITY_DESCRIPTION" Language="fr_FR">
+      <Text>[ICON_Housing] Habitations +3 pour les villes côtières. Les pâturages déclenchent une bombe culturelle. Rendements +2 pour les campus, plateformes commerciales et places du théâtre situés sur des cases à l'attrait charmant, +4 si attrait époustouflant.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_SOUTH_AUSTRALIA_ABILITY_DESCRIPTION" Language="fr_FR">
+      <Text>[ICON_Housing] Habitations +3 pour les villes côtières. Les pâturages déclenchent une bombe culturelle. Rendements +2 pour les campus, plateformes commerciales et places du théâtre situés sur des cases à l'attrait charmant, +4 si attrait époustouflant.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_AUSTRALIA_SCENARIO_QUEENSLAND_NAME" Language="fr_FR">
+      <Text>Queensland</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_AUSTRALIA_SCENARIO_WESTERN_AUSTRALIA_NAME" Language="fr_FR">
+      <Text>Australie-Occidentale</Text>
+      <Gender>feminine:vowel</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_AUSTRALIA_SCENARIO_VICTORIA_NAME" Language="fr_FR">
+      <Text>Victoria</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_AUSTRALIA_SCENARIO_SOUTH_AUSTRALIA_NAME" Language="fr_FR">
+      <Text>Australie-Méridionale</Text>
+      <Gender>feminine:vowel</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_QUEENSLAND_ABILITY_NAME" Language="fr_FR">
+      <Text>Royaume du soleil</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_WESTERN_AUSTRALIA_ABILITY_NAME" Language="fr_FR">
+      <Text>Outback doré</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_VICTORIA_ABILITY_NAME" Language="fr_FR">
+      <Text>Ruée vers l'or en Victoria</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_SOUTH_AUSTRALIA_ABILITY_NAME" Language="fr_FR">
+      <Text>Colonie libre</Text>
+    </Replace>
+    <Replace Tag="LOC_AUSTRALIA_SCENARIO_NAME" Language="fr_FR">
+      <Text>Magnat de l'Outback</Text>
+    </Replace>
+    <Replace Tag="LOC_AUSTRALIA_SCENARIO_TOOLTIP" Language="fr_FR">
+      <Text>Quelle colonie saura exploiter au mieux les richesses naturelles de l'Australie ? Dure 60 tours.</Text>
+    </Replace>
+    <Replace Tag="LOC_AUSTRALIA_SCENARIO_DESCRIPTION" Language="fr_FR">
+      <Text>Dans ce scénario en 60 tours, partez à la découverte des terres australes, trouvez des ressources naturelles, et utilisez-les pour enrichir votre colonie. Ce scénario économique compétitif ne propose pas de combat ; il met l'accent sur l'exploration et l'expansion territoriale, de façon à augmenter votre génération d'[ICON_Gold] or par tour, qui représente votre score. [NEWLINE][NEWLINE]Solo : chaque niveau de difficulté a son propre palier d'[ICON_Gold] or par tour. Dépassez ce chiffre avant la fin de la partie pour l'emporter. [NEWLINE][NEWLINE]Multijoueur : le joueur générant le plus d'[ICON_Gold] or par tour à la fin de la partie est déclaré vainqueur.</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_AUSTRALIA_SCENARIO" Language="fr_FR">
+      <Text>Votre colonie australienne balbutiante ne cherche pas à égaler le succès de la Nouvelle-Galles du Sud, mais à le dépasser. Parviendrez-vous à trouver la gloire dans ces terres désolées, où tant d'autres avant vous ont échoué ? Ferez-vous fortune en trouvant des terres aurifères, en élevant d'immenses troupeaux de bétail, ou en préservant la beauté naturelle de la région pour les générations à venir ?</Text>
+    </Replace>
+    <Replace Tag="LOC_AUSTRALIA_SCENARIO_MAP_NAME" Language="fr_FR">
+      <Text>Carte de l'Australie</Text>
+    </Replace>
+    <Replace Tag="LOC_AUSTRALIA_SCENARIO_MAP_DESCRIPTION" Language="fr_FR">
+      <Text>Un continent australien généré aléatoirement avec sa forme réelle.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_QUEENSLAND_ABILITY_DESCRIPTION" Language="fr_FR">
+      <Text>Attrait +1 pour toutes les cases.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_WESTERN_AUSTRALIA_ABILITY_DESCRIPTION" Language="fr_FR">
+      <Text>Vous gagnez des cases supplémentaires lorsque vous fondez des villes.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_VICTORIA_ABILITY_DESCRIPTION" Language="fr_FR">
+      <Text>Vous commencez la partie avec un chercheur d'or. Tous les chercheurs d'or formés dans l'une de leurs villes peuvent construire un aménagement supplémentaire.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_SOUTH_AUSTRALIA_ABILITY_DESCRIPTION" Language="fr_FR">
+      <Text>Vous commencez la partie avec un herbager. Tous les herbagers formés dans l'une de leurs villes peuvent construire un aménagement supplémentaire.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_AUSTRALIA_SCENARIO_QUEENSLAND_NAME" Language="de_DE">
+      <Text>Queensland|Queensland|Queensland|Queenslands|Queensland</Text>
+      <Gender>neuter:no_article</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_AUSTRALIA_SCENARIO_WESTERN_AUSTRALIA_NAME" Language="de_DE">
+      <Text>Western Australia|Western Australia|Western Australia|Western Australias|Western Australia</Text>
+      <Gender>neuter:no_article</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_AUSTRALIA_SCENARIO_VICTORIA_NAME" Language="de_DE">
+      <Text>Victoria|Victoria|Victoria|Victorias|Victoria</Text>
+      <Gender>neuter:no_article</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_AUSTRALIA_SCENARIO_SOUTH_AUSTRALIA_NAME" Language="de_DE">
+      <Text>South Australia|South Australia|South Australia|South Australias|South Australia</Text>
+      <Gender>neuter:no_article</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_AUSTRALIA_SCENARIO_QUEENSLAND_DESCRIPTION" Language="de_DE">
+      <Text>Staat Queensland|Staat Queensland|Staat Queensland|Staates Queensland|Staat Queensland</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_AUSTRALIA_SCENARIO_WESTERN_AUSTRALIA_DESCRIPTION" Language="de_DE">
+      <Text>Staat Western Australia|Staat Western Australia|Staat Western Australia|Staates Western Australia|Staat Western Australia</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_AUSTRALIA_SCENARIO_VICTORIA_DESCRIPTION" Language="de_DE">
+      <Text>Staat Victoria|Staat Victoria|Staat Victoria|Staates Victoria|Staat Victoria</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_AUSTRALIA_SCENARIO_SOUTH_AUSTRALIA_DESCRIPTION" Language="de_DE">
+      <Text>Staat South Australia|Staat South Australia|Staat South Australia|Staates South Australia|Staat South Australia</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_QUEENSLAND_ABILITY_NAME" Language="de_DE">
+      <Text>Land Down Under</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_WESTERN_AUSTRALIA_ABILITY_NAME" Language="de_DE">
+      <Text>Land Down Under</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_VICTORIA_ABILITY_NAME" Language="de_DE">
+      <Text>Land Down Under</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_SOUTH_AUSTRALIA_ABILITY_NAME" Language="de_DE">
+      <Text>Land Down Under</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_QUEENSLAND_ABILITY_DESCRIPTION" Language="de_DE">
+      <Text>+3 [ICON_Housing] Wohnraum für jede Küstenstadt. Weiden lösen einen Kulturschock aus. Erträge von Campussen, Handelszentren und Theaterplätzen erhöhen sich um +2 auf Geländefeldern mit der Anziehungskraft 'Bezaubernd', um +4 auf Feldern mit der Anziehungskraft 'Atemberaubend'. </Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_WESTERN_AUSTRALIA_ABILITY_DESCRIPTION" Language="de_DE">
+      <Text>+3 [ICON_Housing] Wohnraum für jede Küstenstadt. Weiden lösen einen Kulturschock aus. Erträge von Campussen, Handelszentren und Theaterplätzen erhöhen sich um +2 auf Geländefeldern mit der Anziehungskraft 'Bezaubernd', um +4 auf Feldern mit der Anziehungskraft 'Atemberaubend'. </Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_VICTORIA_ABILITY_DESCRIPTION" Language="de_DE">
+      <Text>+3 [ICON_Housing] Wohnraum für jede Küstenstadt. Weiden lösen einen Kulturschock aus. Erträge von Campussen, Handelszentren und Theaterplätzen erhöhen sich um +2 auf Geländefeldern mit der Anziehungskraft 'Bezaubernd', um +4 auf Feldern mit der Anziehungskraft 'Atemberaubend'. </Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_SOUTH_AUSTRALIA_ABILITY_DESCRIPTION" Language="de_DE">
+      <Text>+3 [ICON_Housing] Wohnraum für jede Küstenstadt. Weiden lösen einen Kulturschock aus. Erträge von Campussen, Handelszentren und Theaterplätzen erhöhen sich um +2 auf Geländefeldern mit der Anziehungskraft 'Bezaubernd', um +4 auf Feldern mit der Anziehungskraft 'Atemberaubend'. </Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_AUSTRALIA_SCENARIO_QUEENSLAND_NAME" Language="de_DE">
+      <Text>Premier von Queensland</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_AUSTRALIA_SCENARIO_WESTERN_AUSTRALIA_NAME" Language="de_DE">
+      <Text>Premier Western Australia</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_AUSTRALIA_SCENARIO_VICTORIA_NAME" Language="de_DE">
+      <Text>Premier von Victoria</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_AUSTRALIA_SCENARIO_SOUTH_AUSTRALIA_NAME" Language="de_DE">
+      <Text>Premier South Australia</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_QUEENSLAND_ABILITY_NAME" Language="de_DE">
+      <Text>Land des Sonnenscheins</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_WESTERN_AUSTRALIA_ABILITY_NAME" Language="de_DE">
+      <Text>Goldenes Outback</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_VICTORIA_ABILITY_NAME" Language="de_DE">
+      <Text>Viktorianischer Goldrausch</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_SOUTH_AUSTRALIA_ABILITY_NAME" Language="de_DE">
+      <Text>Freie Kolonie</Text>
+    </Replace>
+    <Replace Tag="LOC_AUSTRALIA_SCENARIO_NAME" Language="de_DE">
+      <Text>Outback-Tycoon</Text>
+    </Replace>
+    <Replace Tag="LOC_AUSTRALIA_SCENARIO_TOOLTIP" Language="de_DE">
+      <Text>Welche Kolonie wird das Meiste aus den natürlichen Reichtümern Australiens herausholen? Läuft 60 Runden.</Text>
+    </Replace>
+    <Replace Tag="LOC_AUSTRALIA_SCENARIO_DESCRIPTION" Language="de_DE">
+      <Text>In diesem Szenario mit 60 Runden geht es darum, Australien als Erster zu erkunden, seine natürlichen Ressourcen zu finden und diese zu benutzen, um Eure Kolonie zu bereichern. Dieses konkurrenzbetonte Wirtschaftsszenario enthält keine Kämpfe. Seine Schwerpunkte liegen auf Erkundung und territorialer Expansion, um Euren [ICON_Gold] Gold-pro-Runde-Nettogewinn zu erhöhen, was als Eure Punktzahl gewertet wird.[NEWLINE][NEWLINE]Einzelspieler: Jeder Schwierigkeitsgrad hat eine [ICON_Gold] Gold-pro-Runde-Grenze. Erreicht diese Zahl vor dem Ende des Spiels, um zu gewinnen.[NEWLINE][NEWLINE]Multiplayer: Der Spieler mit dem höchsten [ICON_Gold] Gold pro Runde am Ende des Spiels, ist der Gewinner.</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_AUSTRALIA_SCENARIO" Language="de_DE">
+      <Text>Eure junge australische Kolonie will den Erfolg von New South Wales nicht nur wiederholen, sondern ihn übertreffen. Könnt Ihr in diesen abgelegenen Gebieten Ruhm erlangen, wo bereits viele vor Euch scheiterten? Gelangt Ihr zu Wohlstand, indem Ihr Gold findet, riesige Viehherden unterhaltet oder die Naturschönheiten des Landes für zukünftige Generationen bewahrt?</Text>
+    </Replace>
+    <Replace Tag="LOC_AUSTRALIA_SCENARIO_MAP_NAME" Language="de_DE">
+      <Text>Australien-Karte</Text>
+    </Replace>
+    <Replace Tag="LOC_AUSTRALIA_SCENARIO_MAP_DESCRIPTION" Language="de_DE">
+      <Text>Ein zufällig generierter australischer Kontinent mit realistischem Umriss.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_QUEENSLAND_ABILITY_DESCRIPTION" Language="de_DE">
+      <Text>Alle Geländefelder erhalten +1 Anziehungskraft.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_WESTERN_AUSTRALIA_ABILITY_DESCRIPTION" Language="de_DE">
+      <Text>Erhaltet bei der Ansiedlung von Städten zusätzliche Geländefelder.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_VICTORIA_ABILITY_DESCRIPTION" Language="de_DE">
+      <Text>Startet das Spiel mit einem Goldgräber. Alle Goldgräber, die in einer Eurer Städte ausgebildet werden, erhalten 1 zusätzliche Bau-Aktion.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_SOUTH_AUSTRALIA_ABILITY_DESCRIPTION" Language="de_DE">
+      <Text>Startet das Spiel mit einem Schafzüchter. Alle Schafzüchter, die in einer Eurer Städte ausgebildet werden, erhalten 1 zusätzliche Bau-Aktion.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_AUSTRALIA_SCENARIO_QUEENSLAND_NAME" Language="it_IT">
+      <Text>Queensland|del Queensland|al Queensland|il Queensland|dal Queensland</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_AUSTRALIA_SCENARIO_WESTERN_AUSTRALIA_NAME" Language="it_IT">
+      <Text>Australia Occidentale|dell'Australia Occidentale|all'Australia Occidentale|l'Australia Occidentale|dall'Australia Occidentale</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_AUSTRALIA_SCENARIO_VICTORIA_NAME" Language="it_IT">
+      <Text>Victoria|di Victoria|a Victoria|Victoria|da Victoria</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_AUSTRALIA_SCENARIO_SOUTH_AUSTRALIA_NAME" Language="it_IT">
+      <Text>Australia Meridionale|dell'Australia Meridionale|all'Australia Meridionale|l'Australia Meridionale|dall'Australia Meridionale</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_AUSTRALIA_SCENARIO_QUEENSLAND_DESCRIPTION" Language="it_IT">
+      <Text>Stato del Queensland|dello Stato del Queensland|allo Stato del Queensland|lo Stato del Queensland|dallo Stato del Queensland</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_AUSTRALIA_SCENARIO_WESTERN_AUSTRALIA_DESCRIPTION" Language="it_IT">
+      <Text>Stato dell'Australia Occidentale|dello Stato dell'Australia Occidentale|allo Stato dell'Australia Occidentale|lo Stato dell'Australia Occidentale|dallo Stato dell'Australia Occidentale</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_AUSTRALIA_SCENARIO_VICTORIA_DESCRIPTION" Language="it_IT">
+      <Text>Stato di Victoria|dello Stato di Victoria|allo Stato di Victoria|lo Stato di Victoria|dallo Stato di Victoria</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_AUSTRALIA_SCENARIO_SOUTH_AUSTRALIA_DESCRIPTION" Language="it_IT">
+      <Text>Stato dell'Australia Meridionale|dello Stato dell'Australia Meridionale|allo Stato dell'Australia Meridionale|lo Stato dell'Australia Meridionale|dallo Stato dell'Australia Meridionale</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_QUEENSLAND_ABILITY_NAME" Language="it_IT">
+      <Text>Il paese agli antipodi</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_WESTERN_AUSTRALIA_ABILITY_NAME" Language="it_IT">
+      <Text>Il paese agli antipodi</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_VICTORIA_ABILITY_NAME" Language="it_IT">
+      <Text>Il paese agli antipodi</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_SOUTH_AUSTRALIA_ABILITY_NAME" Language="it_IT">
+      <Text>Il paese agli antipodi</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_QUEENSLAND_ABILITY_DESCRIPTION" Language="it_IT">
+      <Text>+3 [ICON_Housing] Abitazioni in ogni città sulla costa. I Pascoli fanno scattare una Bomba culturale. Le rese da Campus, Snodi commerciali e Piazze del Teatro ricevono +2 nelle caselle con Appeal Delizioso, +4 nelle caselle con Appeal Mozzafiato.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_WESTERN_AUSTRALIA_ABILITY_DESCRIPTION" Language="it_IT">
+      <Text>+3 [ICON_Housing] Abitazioni in ogni città sulla costa. I Pascoli fanno scattare una Bomba culturale. Le rese da Campus, Snodi commerciali e Piazze del Teatro ricevono +2 nelle caselle con Appeal Delizioso, +4 nelle caselle con Appeal Mozzafiato.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_VICTORIA_ABILITY_DESCRIPTION" Language="it_IT">
+      <Text>+3 [ICON_Housing] Abitazioni in ogni città sulla costa. I Pascoli fanno scattare una Bomba culturale. Le rese da Campus, Snodi commerciali e Piazze del Teatro ricevono +2 nelle caselle con Appeal Delizioso, +4 nelle caselle con Appeal Mozzafiato.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_SOUTH_AUSTRALIA_ABILITY_DESCRIPTION" Language="it_IT">
+      <Text>+3 [ICON_Housing] Abitazioni in ogni città sulla costa. I Pascoli fanno scattare una Bomba culturale. Le rese da Campus, Snodi commerciali e Piazze del Teatro ricevono +2 nelle caselle con Appeal Delizioso, +4 nelle caselle con Appeal Mozzafiato.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_AUSTRALIA_SCENARIO_QUEENSLAND_NAME" Language="it_IT">
+      <Text>Premier del Queensland|del Premier del Queensland|al Premier del Queensland|il Premier del Queensland|dal Premier del Queensland</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_AUSTRALIA_SCENARIO_WESTERN_AUSTRALIA_NAME" Language="it_IT">
+      <Text>Premier Australia Occidentale|del Premier Australia Occidentale|al Premier Australia Occidentale|il Premier Australia Occidentale|dal Premier Australia Occidentale</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_AUSTRALIA_SCENARIO_VICTORIA_NAME" Language="it_IT">
+      <Text>Premier di Victoria|del Premier di Victoria|al Premier di Victoria|il Premier di Victoria|dal Premier di Victoria</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_AUSTRALIA_SCENARIO_SOUTH_AUSTRALIA_NAME" Language="it_IT">
+      <Text>Premier Australia Meridionale|del Premier Australia Meridionale|al Premier Australia Meridionale|il Premier Australia Meridionale|dal Premier Australia Meridionale</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_QUEENSLAND_ABILITY_NAME" Language="it_IT">
+      <Text>Sunshine State</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_WESTERN_AUSTRALIA_ABILITY_NAME" Language="it_IT">
+      <Text>Outback dorato</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_VICTORIA_ABILITY_NAME" Language="it_IT">
+      <Text>Corsa all'oro vittoriana</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_SOUTH_AUSTRALIA_ABILITY_NAME" Language="it_IT">
+      <Text>Colonia libera</Text>
+    </Replace>
+    <Replace Tag="LOC_AUSTRALIA_SCENARIO_NAME" Language="it_IT">
+      <Text>Tycoon dell'Outback</Text>
+    </Replace>
+    <Replace Tag="LOC_AUSTRALIA_SCENARIO_TOOLTIP" Language="it_IT">
+      <Text>Quale colonia saprà sfruttare al meglio le ricchezze naturali dell'Australia? Durata: 60 turni.</Text>
+    </Replace>
+    <Replace Tag="LOC_AUSTRALIA_SCENARIO_DESCRIPTION" Language="it_IT">
+      <Text>In questo scenario della durata di 60 turni devi gareggiare per esplorare l'Australia, scoprire le sue risorse naturali e usarle per rendere più ricca la tua colonia. Questo scenario basato sulla competizione economica non prevede combattimento: l'enfasi è tutta sull'esplorazione e l'espansione territoriale ai fini di aumentare le entrate in [ICON_Gold] Oro per turno, che rappresentano poi il punteggio.[NEWLINE][NEWLINE]Giocatore singolo: ogni difficoltà ha una soglia di [ICON_Gold] Oro per turno; superala prima della fine della partita per vincere.[NEWLINE][NEWLINE]Multigiocatore: la vittoria va al giocatore che alla fine della partita guadagna più [ICON_Gold] Oro per turno.</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_AUSTRALIA_SCENARIO" Language="it_IT">
+      <Text>La tua neonata colonia australiana non vuole solo ripetere il successo del Nuovo Galles del Sud, ma superarlo. Riuscirai ad avere successo in queste lande desolate, dove tanti hanno fallito? Costruirai la tua ricchezza trovando l'oro, creando enormi mandrie di bestiame o preservando le bellezze naturali del paese per le generazioni future?</Text>
+    </Replace>
+    <Replace Tag="LOC_AUSTRALIA_SCENARIO_MAP_NAME" Language="it_IT">
+      <Text>Mappa Australia</Text>
+    </Replace>
+    <Replace Tag="LOC_AUSTRALIA_SCENARIO_MAP_DESCRIPTION" Language="it_IT">
+      <Text>Un continente australiano generato casualmente con i confini del mondo reale.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_QUEENSLAND_ABILITY_DESCRIPTION" Language="it_IT">
+      <Text>+1 Appeal in tutte le caselle.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_WESTERN_AUSTRALIA_ABILITY_DESCRIPTION" Language="it_IT">
+      <Text>Alla fondazione di una città ottieni caselle aggiuntive.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_VICTORIA_ABILITY_DESCRIPTION" Language="it_IT">
+      <Text>Comincia la partita con un Cercatore. Tutti i Cercatori addestrati in una delle loro città guadagnano 1 azione di costruzione extra.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_SOUTH_AUSTRALIA_ABILITY_DESCRIPTION" Language="it_IT">
+      <Text>Comincia la partita con un Allevatore. Tutti gli Allevatori addestrati in una delle loro città guadagnano 1 azione di costruzione extra.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_AUSTRALIA_SCENARIO_QUEENSLAND_NAME" Language="ja_JP">
+      <Text>クイーンズランド</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_AUSTRALIA_SCENARIO_WESTERN_AUSTRALIA_NAME" Language="ja_JP">
+      <Text>西オーストラリア</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_AUSTRALIA_SCENARIO_VICTORIA_NAME" Language="ja_JP">
+      <Text>ヴィクトリア</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_AUSTRALIA_SCENARIO_SOUTH_AUSTRALIA_NAME" Language="ja_JP">
+      <Text>南オーストラリア</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_AUSTRALIA_SCENARIO_QUEENSLAND_DESCRIPTION" Language="ja_JP">
+      <Text>クイーンズランド州</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_AUSTRALIA_SCENARIO_WESTERN_AUSTRALIA_DESCRIPTION" Language="ja_JP">
+      <Text>西オーストラリア州</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_AUSTRALIA_SCENARIO_VICTORIA_DESCRIPTION" Language="ja_JP">
+      <Text>ヴィクトリア州</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_AUSTRALIA_SCENARIO_SOUTH_AUSTRALIA_DESCRIPTION" Language="ja_JP">
+      <Text>南オーストラリア州</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_QUEENSLAND_ABILITY_NAME" Language="ja_JP">
+      <Text>地球の裏側</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_WESTERN_AUSTRALIA_ABILITY_NAME" Language="ja_JP">
+      <Text>地球の裏側</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_VICTORIA_ABILITY_NAME" Language="ja_JP">
+      <Text>地球の裏側</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_SOUTH_AUSTRALIA_ABILITY_NAME" Language="ja_JP">
+      <Text>地球の裏側</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_QUEENSLAND_ABILITY_DESCRIPTION" Language="ja_JP">
+      <Text>沿岸にある都市の [ICON_Housing] 住宅+3。牧草地が文化爆弾を発動させる。キャンパス、商業ハブ、劇場広場からの産出量は、アピールが「素敵」以上のタイルにある場合+2、「最高」のタイルにある場合+4。</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_WESTERN_AUSTRALIA_ABILITY_DESCRIPTION" Language="ja_JP">
+      <Text>沿岸にある都市の [ICON_Housing] 住宅+3。牧草地が文化爆弾を発動させる。キャンパス、商業ハブ、劇場広場からの産出量は、アピールが「素敵」以上のタイルにある場合+2、「最高」のタイルにある場合+4。</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_VICTORIA_ABILITY_DESCRIPTION" Language="ja_JP">
+      <Text>沿岸にある都市の [ICON_Housing] 住宅+3。牧草地が文化爆弾を発動させる。キャンパス、商業ハブ、劇場広場からの産出量は、アピールが「素敵」以上のタイルにある場合+2、「最高」のタイルにある場合+4。</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_SOUTH_AUSTRALIA_ABILITY_DESCRIPTION" Language="ja_JP">
+      <Text>沿岸にある都市の [ICON_Housing] 住宅+3。牧草地が文化爆弾を発動させる。キャンパス、商業ハブ、劇場広場からの産出量は、アピールが「素敵」以上のタイルにある場合+2、「最高」のタイルにある場合+4。</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_AUSTRALIA_SCENARIO_QUEENSLAND_NAME" Language="ja_JP">
+      <Text>クイーンズランド州総督</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_AUSTRALIA_SCENARIO_WESTERN_AUSTRALIA_NAME" Language="ja_JP">
+      <Text>西オーストラリア州総督</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_AUSTRALIA_SCENARIO_VICTORIA_NAME" Language="ja_JP">
+      <Text>ヴィクトリア州総督</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_AUSTRALIA_SCENARIO_SOUTH_AUSTRALIA_NAME" Language="ja_JP">
+      <Text>南オーストラリア州総督</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_QUEENSLAND_ABILITY_NAME" Language="ja_JP">
+      <Text>サンシャインステート</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_WESTERN_AUSTRALIA_ABILITY_NAME" Language="ja_JP">
+      <Text>ゴールデンアウトバック</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_VICTORIA_ABILITY_NAME" Language="ja_JP">
+      <Text>ヴィクトリア州のゴールドラッシュ</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_SOUTH_AUSTRALIA_ABILITY_NAME" Language="ja_JP">
+      <Text>自由植民地</Text>
+    </Replace>
+    <Replace Tag="LOC_AUSTRALIA_SCENARIO_NAME" Language="ja_JP">
+      <Text>アウトバックの覇者</Text>
+    </Replace>
+    <Replace Tag="LOC_AUSTRALIA_SCENARIO_TOOLTIP" Language="ja_JP">
+      <Text>オーストラリアの自然資源を最大限に活かせるのは、どの植民地でしょうか？ 60ターンで終了します。</Text>
+    </Replace>
+    <Replace Tag="LOC_AUSTRALIA_SCENARIO_DESCRIPTION" Language="ja_JP">
+      <Text>オーストラリアの大地を探索し、天然資源を探し当て、それを最大限に活かすことで植民地を豊かにする、60ターンのシナリオです。このシナリオには戦闘がなく、経済的な競争に勝つことが目的となります。毎ターン得られるゴールドを増やすため、探索や領土の拡大に集中しましょう。ターン毎の [ICON_Gold] ゴールドがそのままスコアになります。[NEWLINE][NEWLINE]シングルプレイヤー: ターン毎の [ICON_Gold] ゴールドの目標値は難易度によって異なり、ゲーム終了までにその値を超えれば勝利となります。[NEWLINE][NEWLINE]マルチプレイヤー: ゲーム終了時にターン毎の [ICON_Gold] ゴールドが最も多いプレイヤーが勝利します。</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_AUSTRALIA_SCENARIO" Language="ja_JP">
+      <Text>生まれたばかりのオーストラリア植民地で、ニューサウスウェールズの成功を再現するだけでなく、それをさらに上回ることを目指します。多くの者が挫折を味わった未開の荒野で、確固たる名声を築いてください。かねてから噂されている金鉱を掘り当てるも良し、見渡す限り広がる土地を活かしてたくさんの家畜を育てるも良し、子孫のために美しい自然を保護するも良しです。さあ、どのようにして富を築きますか？</Text>
+    </Replace>
+    <Replace Tag="LOC_AUSTRALIA_SCENARIO_MAP_NAME" Language="ja_JP">
+      <Text>オーストラリアマップ</Text>
+    </Replace>
+    <Replace Tag="LOC_AUSTRALIA_SCENARIO_MAP_DESCRIPTION" Language="ja_JP">
+      <Text>基本的な形は現実と同じですが、細部はランダムに生成されるオーストラリア大陸のマップです。</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_QUEENSLAND_ABILITY_DESCRIPTION" Language="ja_JP">
+      <Text>すべてのタイルのアピール+1。</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_WESTERN_AUSTRALIA_ABILITY_DESCRIPTION" Language="ja_JP">
+      <Text>都市を開拓すると追加タイルを得る。</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_VICTORIA_ABILITY_DESCRIPTION" Language="ja_JP">
+      <Text>探鉱者1ユニットを保有した状態でゲームが始まる。都市で訓練されたすべての探鉱者が建設アクション1を追加で得る。</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_SOUTH_AUSTRALIA_ABILITY_DESCRIPTION" Language="ja_JP">
+      <Text>牧畜家1ユニットを保有した状態でゲームが始まる。都市で訓練されたすべての牧畜家が建設アクション1を追加で得る。</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_AUSTRALIA_SCENARIO_QUEENSLAND_NAME" Language="ko_KR">
+      <Text>퀸즐랜드</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_AUSTRALIA_SCENARIO_WESTERN_AUSTRALIA_NAME" Language="ko_KR">
+      <Text>웨스턴오스트레일리아</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_AUSTRALIA_SCENARIO_VICTORIA_NAME" Language="ko_KR">
+      <Text>빅토리아</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_AUSTRALIA_SCENARIO_SOUTH_AUSTRALIA_NAME" Language="ko_KR">
+      <Text>사우스오스트레일리아</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_AUSTRALIA_SCENARIO_QUEENSLAND_DESCRIPTION" Language="ko_KR">
+      <Text>퀸즐랜드 주</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_AUSTRALIA_SCENARIO_WESTERN_AUSTRALIA_DESCRIPTION" Language="ko_KR">
+      <Text>웨스턴오스트레일리아 주</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_AUSTRALIA_SCENARIO_VICTORIA_DESCRIPTION" Language="ko_KR">
+      <Text>빅토리아 주</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_AUSTRALIA_SCENARIO_SOUTH_AUSTRALIA_DESCRIPTION" Language="ko_KR">
+      <Text>사우스오스트레일리아 주</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_QUEENSLAND_ABILITY_NAME" Language="ko_KR">
+      <Text>남쪽의 땅</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_WESTERN_AUSTRALIA_ABILITY_NAME" Language="ko_KR">
+      <Text>남쪽의 땅</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_VICTORIA_ABILITY_NAME" Language="ko_KR">
+      <Text>남쪽의 땅</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_SOUTH_AUSTRALIA_ABILITY_NAME" Language="ko_KR">
+      <Text>남쪽의 땅</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_QUEENSLAND_ABILITY_DESCRIPTION" Language="ko_KR">
+      <Text>해안에 위치한 모든 도시에 [ICON_Housing] 주거공간 +3을 제공합니다. 목장은 문화 폭탄을 촉발합니다. 캠퍼스, 상업 중심지 및 극장가가 멋진 매력도 타일에 위치한 경우 관련 생산량 +2, 놀라운 매력도에 위치한 경우 관련 생산량 +4를 제공합니다. </Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_WESTERN_AUSTRALIA_ABILITY_DESCRIPTION" Language="ko_KR">
+      <Text>해안에 위치한 모든 도시에 [ICON_Housing] 주거공간 +3을 제공합니다. 목장은 문화 폭탄을 촉발합니다. 캠퍼스, 상업 중심지 및 극장가가 멋진 매력도 타일에 위치한 경우 관련 생산량 +2, 놀라운 매력도에 위치한 경우 관련 생산량 +4를 제공합니다. </Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_VICTORIA_ABILITY_DESCRIPTION" Language="ko_KR">
+      <Text>해안에 위치한 모든 도시에 [ICON_Housing] 주거공간 +3을 제공합니다. 목장은 문화 폭탄을 촉발합니다. 캠퍼스, 상업 중심지 및 극장가가 멋진 매력도 타일에 위치한 경우 관련 생산량 +2, 놀라운 매력도에 위치한 경우 관련 생산량 +4를 제공합니다. </Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_SOUTH_AUSTRALIA_ABILITY_DESCRIPTION" Language="ko_KR">
+      <Text>해안에 위치한 모든 도시에 [ICON_Housing] 주거공간 +3을 제공합니다. 목장은 문화 폭탄을 촉발합니다. 캠퍼스, 상업 중심지 및 극장가가 멋진 매력도 타일에 위치한 경우 관련 생산량 +2, 놀라운 매력도에 위치한 경우 관련 생산량 +4를 제공합니다. </Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_AUSTRALIA_SCENARIO_QUEENSLAND_NAME" Language="ko_KR">
+      <Text>퀸즐랜드의 주총리</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_AUSTRALIA_SCENARIO_WESTERN_AUSTRALIA_NAME" Language="ko_KR">
+      <Text>웨스턴오스트레일리아의 주총리</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_AUSTRALIA_SCENARIO_VICTORIA_NAME" Language="ko_KR">
+      <Text>빅토리아의 주총리</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_AUSTRALIA_SCENARIO_SOUTH_AUSTRALIA_NAME" Language="ko_KR">
+      <Text>사우스오스트레일리아의 주총리</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_QUEENSLAND_ABILITY_NAME" Language="ko_KR">
+      <Text>햇살 가득한 주</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_WESTERN_AUSTRALIA_ABILITY_NAME" Language="ko_KR">
+      <Text>황금빛 아웃백</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_VICTORIA_ABILITY_NAME" Language="ko_KR">
+      <Text>빅토리아의 골드러시</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_SOUTH_AUSTRALIA_ABILITY_NAME" Language="ko_KR">
+      <Text>자유로운 거주지</Text>
+    </Replace>
+    <Replace Tag="LOC_AUSTRALIA_SCENARIO_NAME" Language="ko_KR">
+      <Text>아웃백 재벌</Text>
+    </Replace>
+    <Replace Tag="LOC_AUSTRALIA_SCENARIO_TOOLTIP" Language="ko_KR">
+      <Text>호주의 풍부한 천연자원을 가장 잘 활용하는 식민지는 어디일까요? 60턴 제한.</Text>
+    </Replace>
+    <Replace Tag="LOC_AUSTRALIA_SCENARIO_DESCRIPTION" Language="ko_KR">
+      <Text>이 60턴 제한 시나리오에서 플레이어는 경쟁적으로 호주를 탐험하여 천연자원을 찾고 이를 사용하여 식민지의 부를 증강시켜야 합니다. 이 경제 경쟁 위주 시나리오에는 전투가 없는 대신, 탐험과 영토 확장에 중점을 두고 점수에 해당하는 턴당 [ICON_Gold] 금 순수입을 늘리는 데 주력합니다.[NEWLINE][NEWLINE]싱글 플레이: 난이도마다 턴당 [ICON_Gold] 금 요구량이 있습니다. 승리하려면 게임 종료 전에 이 요구량을 초과해야 합니다.[NEWLINE][NEWLINE]멀티 플레이: 게임 종료 시점에 턴당 가장 많은 [ICON_Gold] 금을 가진 플레이어가 승리합니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_AUSTRALIA_SCENARIO" Language="ko_KR">
+      <Text>신생 호주 식민지의 목표는 뉴사우스웨일스의 성공을 따르는 것이 아니라 능가하는 것입니다. 수많은 선구자들이 실패한 이 황량한 땅에서 명성을 떨칠 수 있으십니까? 과연 당신에게 부를 가져다줄 것은 오래전부터 소문으로만 전해져 온 채금지일까요, 어마어마한 수의 가축을 키우는 것일까요, 아니면 후손들을 위해 자연의 아름다움을 보존하는 것일까요?</Text>
+    </Replace>
+    <Replace Tag="LOC_AUSTRALIA_SCENARIO_MAP_NAME" Language="ko_KR">
+      <Text>호주 지도</Text>
+    </Replace>
+    <Replace Tag="LOC_AUSTRALIA_SCENARIO_MAP_DESCRIPTION" Language="ko_KR">
+      <Text>현실 세계와 같은 윤곽을 가진 무작위로 생성된 호주 대륙입니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_QUEENSLAND_ABILITY_DESCRIPTION" Language="ko_KR">
+      <Text>모든 타일은 매력도 +1을 획득합니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_WESTERN_AUSTRALIA_ABILITY_DESCRIPTION" Language="ko_KR">
+      <Text>도시 정착 시 추가 타일을 획득합니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_VICTORIA_ABILITY_DESCRIPTION" Language="ko_KR">
+      <Text>탐광자를 보유한 채 게임을 시작합니다. 그들의 도시에서 훈련된 모든 탐광자는 1회의 추가 건설 행동을 얻습니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_SOUTH_AUSTRALIA_ABILITY_DESCRIPTION" Language="ko_KR">
+      <Text>목축업자를 보유한 채 게임을 시작합니다. 그들의 도시에서 훈련된 모든 목축업자는 1회의 추가 건설 행동을 얻습니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_AUSTRALIA_SCENARIO_QUEENSLAND_NAME" Language="pl_PL">
+      <Text>Queensland</Text>
+      <Gender>neuter</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_AUSTRALIA_SCENARIO_WESTERN_AUSTRALIA_NAME" Language="pl_PL">
+      <Text>Australia Zachodnia|Australii Zachodniej|Australii Zachodniej|Australię Zachodnią|Australią Zachodnią|Australii Zachodniej|Australia Zachodnia|Australii Zachodniej|Australii Zachodniej|Australię Zachodnią|Australią Zachodnią|Australii Zachodniej</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_AUSTRALIA_SCENARIO_VICTORIA_NAME" Language="pl_PL">
+      <Text>Wiktoria|Wiktorii|Wiktorii|Wiktorię|Wiktorią|Wiktorii|Wiktoria|Wiktorii|Wiktorii|Wiktorię|Wiktorią|Wiktorii</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_AUSTRALIA_SCENARIO_SOUTH_AUSTRALIA_NAME" Language="pl_PL">
+      <Text>Australia Południowa|Australii Południowej|Australii Południowej|Australię Południową|Australią Południową|Australii Południowej|Australia Południowa|Australii Południowej|Australii Południowej|Australię Południową|Australią Południową|Australii Południowej</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_AUSTRALIA_SCENARIO_QUEENSLAND_DESCRIPTION" Language="pl_PL">
+      <Text>Stan Queensland|Stanu Queensland|Stanowi Queensland|Stan Queensland|Stanem Queensland|Stanie Queensland|stan Queensland|stanu Queensland|stanowi Queensland|stan Queensland|stanem Queensland|stanie Queensland</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_AUSTRALIA_SCENARIO_WESTERN_AUSTRALIA_DESCRIPTION" Language="pl_PL">
+      <Text>Stan Australia Zachodnia|Stanu Australia Zachodnia|Stanowi Australia Zachodnia|Stan Australia Zachodnia|Stanem Australia Zachodnia|Stanie Australia Zachodnia|stan Australia Zachodnia|stanu Australia Zachodnia|stanowi Australia Zachodnia|stan Australia Zachodnia|stanem Australia Zachodnia|stanie Australia Zachodnia</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_AUSTRALIA_SCENARIO_VICTORIA_DESCRIPTION" Language="pl_PL">
+      <Text>Stan Wiktoria|Stanu Wiktoria|Stanowi Wiktoria|Stan Wiktoria|Stanem Wiktoria|Stanie Wiktoria|stan Wiktoria|stanu Wiktoria|stanowi Wiktoria|stan Wiktoria|stanem Wiktoria|stanie Wiktoria</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_AUSTRALIA_SCENARIO_SOUTH_AUSTRALIA_DESCRIPTION" Language="pl_PL">
+      <Text>Stan Australia Południowa|Stanu Australia Południowa|Stanowi Australia Południowa|Stan Australia Południowa|Stanem Australia Południowa|Stanie Australia Południowa|stan Australia Południowa|stanu Australia Południowa|stanowi Australia Południowa|stan Australia Południowa|stanem Australia Południowa|stanie Australia Południowa</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_QUEENSLAND_ABILITY_NAME" Language="pl_PL">
+      <Text>Antypody|Antypodów|Antypodom|Antypody|Antypodami|Antypodach|antypody|antypodów|antypodom|antypody|antypodami|antypodach</Text>
+      <Gender>feminine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_WESTERN_AUSTRALIA_ABILITY_NAME" Language="pl_PL">
+      <Text>Antypody|Antypodów|Antypodom|Antypody|Antypodami|Antypodach|antypody|antypodów|antypodom|antypody|antypodami|antypodach</Text>
+      <Gender>feminine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_VICTORIA_ABILITY_NAME" Language="pl_PL">
+      <Text>Antypody|Antypodów|Antypodom|Antypody|Antypodami|Antypodach|antypody|antypodów|antypodom|antypody|antypodami|antypodach</Text>
+      <Gender>feminine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_SOUTH_AUSTRALIA_ABILITY_NAME" Language="pl_PL">
+      <Text>Antypody|Antypodów|Antypodom|Antypody|Antypodami|Antypodach|antypody|antypodów|antypodom|antypody|antypodami|antypodach</Text>
+      <Gender>feminine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_QUEENSLAND_ABILITY_DESCRIPTION" Language="pl_PL">
+      <Text>+3 do [ICON_Housing] obszarów mieszkalnych miast na wybrzeżu. Pastwiska uruchamiają bombę kulturową. +2 do przychodów z kampusów, dzielnic biznesowych i dzielnic kulturalnych na polach o czarującym poziomie atrakcyjności i +4 na polach o poziomie niesamowitym. </Text>
+      <Gender>neuter</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_WESTERN_AUSTRALIA_ABILITY_DESCRIPTION" Language="pl_PL">
+      <Text>+3 do [ICON_Housing] obszarów mieszkalnych miast na wybrzeżu. Pastwiska uruchamiają bombę kulturową. +2 do przychodów z kampusów, dzielnic biznesowych i dzielnic kulturalnych na polach o czarującym poziomie atrakcyjności i +4 na polach o poziomie niesamowitym. </Text>
+      <Gender>neuter</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_VICTORIA_ABILITY_DESCRIPTION" Language="pl_PL">
+      <Text>+3 do [ICON_Housing] obszarów mieszkalnych miast na wybrzeżu. Pastwiska uruchamiają bombę kulturową. +2 do przychodów z kampusów, dzielnic biznesowych i dzielnic kulturalnych na polach o czarującym poziomie atrakcyjności i +4 na polach o poziomie niesamowitym. </Text>
+      <Gender>neuter</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_SOUTH_AUSTRALIA_ABILITY_DESCRIPTION" Language="pl_PL">
+      <Text>+3 do [ICON_Housing] obszarów mieszkalnych miast na wybrzeżu. Pastwiska uruchamiają bombę kulturową. +2 do przychodów z kampusów, dzielnic biznesowych i dzielnic kulturalnych na polach o czarującym poziomie atrakcyjności i +4 na polach o poziomie niesamowitym. </Text>
+      <Gender>neuter</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_AUSTRALIA_SCENARIO_QUEENSLAND_NAME" Language="pl_PL">
+      <Text>Premier Queensland|Premiera Queensland|Premierowi Queensland|Premiera Queensland|Premierem Queensland|Premierze Queensland|premier Queensland|premiera Queensland|premierowi Queensland|premiera Queensland|premierem Queensland|premierze Queensland</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_AUSTRALIA_SCENARIO_WESTERN_AUSTRALIA_NAME" Language="pl_PL">
+      <Text>Premier Australii Zachodniej|Premiera Australii Zachodniej|Premierowi Australii Zachodniej|Premiera Australii Zachodniej|Premierem Australii Zachodniej|Premierze Australii Zachodniej|premier Australii Zachodniej|premiera Australii Zachodniej|premierowi Australii Zachodniej|premiera Australii Zachodniej|premierem Australii Zachodniej|premierze Australii Zachodniej</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_AUSTRALIA_SCENARIO_VICTORIA_NAME" Language="pl_PL">
+      <Text>Premier Wiktorii|Premiera Wiktorii|Premierowi Wiktorii|Premiera Wiktorii|Premierem Wiktorii|Premierze Wiktorii|premier Wiktorii|premiera Wiktorii|premierowi Wiktorii|premiera Wiktorii|premierem Wiktorii|premierze Wiktorii</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_AUSTRALIA_SCENARIO_SOUTH_AUSTRALIA_NAME" Language="pl_PL">
+      <Text>Premier Australii Południowej|Premiera Australii Południowej|Premierowi Australii Południowej|Premiera Australii Południowej|Premierem Australii Południowej|Premierze Australii Południowej|premier Australii Południowej|premiera Australii Południowej|premierowi Australii Południowej|premiera Australii Południowej|premierem Australii Południowej|premierze Australii Południowej</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_QUEENSLAND_ABILITY_NAME" Language="pl_PL">
+      <Text>Słoneczny stan|Słonecznego stanu|Słonecznemu stanowi|Słoneczny stan|Słonecznym stanem|Słonecznym stanie|słoneczny stan|słonecznego stanu|słonecznemu stanowi|słoneczny stan|słonecznym stanem|słonecznym stanie</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_WESTERN_AUSTRALIA_ABILITY_NAME" Language="pl_PL">
+      <Text>Złote pustkowie|Złotego pustkowia|Złotemu pustkowiu|Złote pustkowie|Złotym pustkowiem|Złotym pustkowiu|złote pustkowie|złotego pustkowia|złotemu pustkowiu|złote pustkowie|złotym pustkowiem|złotym pustkowiu</Text>
+      <Gender>neuter</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_VICTORIA_ABILITY_NAME" Language="pl_PL">
+      <Text>Wiktoriańska gorączka złota|Wiktoriańskiej gorączki złota|Wiktoriańskiej gorączce złota|Wiktoriańską gorączkę złota|Wiktoriańską gorączką złota|Wiktoriańskiej gorączce złota|wiktoriańska gorączka złota|wiktoriańskiej gorączki złota|wiktoriańskiej gorączce złota|wiktoriańską gorączkę złota|wiktoriańską gorączką złota|wiktoriańskiej gorączce złota</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_SOUTH_AUSTRALIA_ABILITY_NAME" Language="pl_PL">
+      <Text>Wolna kolonia|Wolnej kolonii|Wolnej kolonii|Wolną kolonię|Wolną kolonią|Wolnej kolonii|wolna kolonia|wolnej kolonii|wolnej kolonii|wolną kolonię|wolną kolonią|wolnej kolonii</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_AUSTRALIA_SCENARIO_NAME" Language="pl_PL">
+      <Text>Potentat australijskiego pustkowia</Text>
+    </Replace>
+    <Replace Tag="LOC_AUSTRALIA_SCENARIO_TOOLTIP" Language="pl_PL">
+      <Text>Która z kolonii najlepiej wykorzysta bogactwa naturalne Australii? Trwa 60 tur.</Text>
+    </Replace>
+    <Replace Tag="LOC_AUSTRALIA_SCENARIO_DESCRIPTION" Language="pl_PL">
+      <Text>Podczas tego trwającego 60 tur scenariusza staniesz do wyścigu, podczas którego zbadasz Australię, znajdziesz jej bogactwa naturalne i wykorzystasz je do rozbudowy swojej kolonii. Rozgrywka nastawiona jest na współzawodnictwo ekonomiczne i scenariusz został pozbawiony warstwy militarnej. Położono w nim nacisk na eksplorację i ekspansję terytorialną zwiększające wynik będący dochodem netto w [ICON_Gold] złocie z każdej tury.[NEWLINE][NEWLINE]Gra jednoosobowa: Z każdym poziomem trudności związany jest odpowiedni próg ilości zyskiwanego [ICON_Gold] złota na turę. Przekrocz ten próg przed końcem rozgrywki, aby wygrać.[NEWLINE][NEWLINE]Gra wieloosobowa: Wygrywa gracz z największą ilością [ICON_Gold] złota zyskiwanego na turę w chwili zakończenia rozgrywki.</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_AUSTRALIA_SCENARIO" Language="pl_PL">
+      <Text>Celem twojej nowo powstałej kolonii jest nie tyle powtórzenie sukcesu Nowej Południowej Walii, co jego przyćmienie. Czy powiedzie ci się na tym odległym lądzie, gdzie tak wielu przed tobą zawiodło? Czy źródłem twojego bogactwa będą złotonośne pola, o których pogłoski od dawna krążą wśród kolonistów, ogromne stada owiec i bydła, a może ochrona naturalnego piękna Australii i zachowanie go dla przyszłych pokoleń?</Text>
+    </Replace>
+    <Replace Tag="LOC_AUSTRALIA_SCENARIO_MAP_NAME" Language="pl_PL">
+      <Text>Mapa Australii</Text>
+    </Replace>
+    <Replace Tag="LOC_AUSTRALIA_SCENARIO_MAP_DESCRIPTION" Language="pl_PL">
+      <Text>Losowo generowany kontynent australijski o linii brzegowej zgodnej z rzeczywistością.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_QUEENSLAND_ABILITY_DESCRIPTION" Language="pl_PL">
+      <Text>Wszystkie pola zyskują +1 do atrakcyjności.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_WESTERN_AUSTRALIA_ABILITY_DESCRIPTION" Language="pl_PL">
+      <Text>Otrzymujesz dodatkowe pola przy zakładaniu miast.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_VICTORIA_ABILITY_DESCRIPTION" Language="pl_PL">
+      <Text>Rozpoczynasz grę z poszukiwaczem. Wszyscy poszukiwacze szkoleni w jednym z twoich miast zyskują dodatkową akcję budowy.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_SOUTH_AUSTRALIA_ABILITY_DESCRIPTION" Language="pl_PL">
+      <Text>Rozpoczynasz grę z hodowcą. Wszyscy hodowcy szkoleni w jednym z twoich miast zyskują dodatkową akcję budowy.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_AUSTRALIA_SCENARIO_QUEENSLAND_NAME" Language="ru_RU">
+      <Text>Квинсленд|Квинсленда|Квинсленду|Квинсленд|Квинслендом|Квинсленде</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_AUSTRALIA_SCENARIO_WESTERN_AUSTRALIA_NAME" Language="ru_RU">
+      <Text>Западная Австралия|Западной Австралии|Западной Австралии|Западную Австралию|Западной Австралией|Западной Австралии</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_AUSTRALIA_SCENARIO_VICTORIA_NAME" Language="ru_RU">
+      <Text>Виктория|Виктории|Виктории|Викторию|Викторией|Виктории</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_AUSTRALIA_SCENARIO_SOUTH_AUSTRALIA_NAME" Language="ru_RU">
+      <Text>Южная Австралия|Южной Австралии|Южной Австралии|Южную Австралию|Южной Австралией|Южной Австралии</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_AUSTRALIA_SCENARIO_QUEENSLAND_DESCRIPTION" Language="ru_RU">
+      <Text>Штат Квинсленд|штата Квинсленд|штату Квинсленд|штат Квинсленд|штатом Квинсленд|штате Квинсленд</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_AUSTRALIA_SCENARIO_WESTERN_AUSTRALIA_DESCRIPTION" Language="ru_RU">
+      <Text>Штат Западная Австралия|штата Западная Австралия|штату Западная Австралия|штат Западная Австралию|штатом Западная Австралия|штате Западная Австралия</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_AUSTRALIA_SCENARIO_VICTORIA_DESCRIPTION" Language="ru_RU">
+      <Text>Штат Виктория|штата Виктория|штату Виктория|штат Виктория|штатом Виктория|штате Виктория</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_AUSTRALIA_SCENARIO_SOUTH_AUSTRALIA_DESCRIPTION" Language="ru_RU">
+      <Text>Штат Южная Австралия|штата Южная Австралия|штату Южная Австралия|штат Южная Австралию|штатом Южная Австралия|штате Южная Австралия</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_QUEENSLAND_ABILITY_NAME" Language="ru_RU">
+      <Text>Земля антиподов|земли антиподов|земле антиподов|землю антиподов|землей антиподов|земле антиподов</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_WESTERN_AUSTRALIA_ABILITY_NAME" Language="ru_RU">
+      <Text>Земля антиподов|земли антиподов|земле антиподов|землю антиподов|землей антиподов|земле антиподов</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_VICTORIA_ABILITY_NAME" Language="ru_RU">
+      <Text>Земля антиподов|земли антиподов|земле антиподов|землю антиподов|землей антиподов|земле антиподов</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_SOUTH_AUSTRALIA_ABILITY_NAME" Language="ru_RU">
+      <Text>Земля антиподов|земли антиподов|земле антиподов|землю антиподов|землей антиподов|земле антиподов</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_QUEENSLAND_ABILITY_DESCRIPTION" Language="ru_RU">
+      <Text>+3 [ICON_Housing] жилья в прибрежных городах. Пастбища активируют культурный захват. +2 дохода от кампусов, коммерческих центров и театральных площадей на клетках с притягивающим престижем, +4 – на клетках с потрясающим престижем.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_WESTERN_AUSTRALIA_ABILITY_DESCRIPTION" Language="ru_RU">
+      <Text>+3 [ICON_Housing] жилья в прибрежных городах. Пастбища активируют культурный захват. +2 дохода от кампусов, коммерческих центров и театральных площадей на клетках с притягивающим престижем, +4 – на клетках с потрясающим престижем.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_VICTORIA_ABILITY_DESCRIPTION" Language="ru_RU">
+      <Text>+3 [ICON_Housing] жилья в прибрежных городах. Пастбища активируют культурный захват. +2 дохода от кампусов, коммерческих центров и театральных площадей на клетках с притягивающим престижем, +4 – на клетках с потрясающим престижем.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_SOUTH_AUSTRALIA_ABILITY_DESCRIPTION" Language="ru_RU">
+      <Text>+3 [ICON_Housing] жилья в прибрежных городах. Пастбища активируют культурный захват. +2 дохода от кампусов, коммерческих центров и театральных площадей на клетках с притягивающим престижем, +4 – на клетках с потрясающим престижем.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_AUSTRALIA_SCENARIO_QUEENSLAND_NAME" Language="ru_RU">
+      <Text>Губернатор Квинсленда|губернатора Квинсленда|губернатору Квинсленда|губернатора Квинсленда|губернатором Квинсленда|губернаторе Квинсленда</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_AUSTRALIA_SCENARIO_WESTERN_AUSTRALIA_NAME" Language="ru_RU">
+      <Text>Губернатор Зап. Австралии|губернатора Зап. Австралии|губернатору Зап. Австралии|губернатора Зап. Австралии|губернатором Зап. Австралии|губернаторе Зап. Австралии</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_AUSTRALIA_SCENARIO_VICTORIA_NAME" Language="ru_RU">
+      <Text>Губернатор Виктории|губернатора Виктории|губернатору Виктории|губернатора Виктории|губернатором Виктории|губернаторе Виктории</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_AUSTRALIA_SCENARIO_SOUTH_AUSTRALIA_NAME" Language="ru_RU">
+      <Text>Губернатор Юж. Австралии|губернатора Юж. Австралии|губернатору Юж. Австралии|губернатора Юж. Австралии|губернатором Юж. Австралии|губернаторе Юж. Австралии</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_QUEENSLAND_ABILITY_NAME" Language="ru_RU">
+      <Text>Штат солнечного сияния|штата солнечного сияния|штату солнечного сияния|штат солнечного сияния|штатом солнечного сияния|штате солнечного сияния</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_WESTERN_AUSTRALIA_ABILITY_NAME" Language="ru_RU">
+      <Text>Золотые копи|золотых копей|золотым копям|золотые копи|золотыми копями|золотых копях</Text>
+      <Gender>feminine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_VICTORIA_ABILITY_NAME" Language="ru_RU">
+      <Text>"Золотая лихорадка" Виктории</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_SOUTH_AUSTRALIA_ABILITY_NAME" Language="ru_RU">
+      <Text>Бесплатная колония|бесплатной колонии|бесплатной колонии|бесплатную колонию|бесплатной колонией|бесплатной колонии</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_AUSTRALIA_SCENARIO_NAME" Language="ru_RU">
+      <Text>Провинциальный магнат</Text>
+    </Replace>
+    <Replace Tag="LOC_AUSTRALIA_SCENARIO_TOOLTIP" Language="ru_RU">
+      <Text>Какая из колоний извлечет максимум выгоды из природных богатств Австралии? Длительность: 60 ходов.</Text>
+    </Replace>
+    <Replace Tag="LOC_AUSTRALIA_SCENARIO_DESCRIPTION" Language="ru_RU">
+      <Text>В этом 60-ходовом сценарии вы исследуете Австралию, разведываете ее природные ресурсы и используете их на благо своей колонии. Военной составляющей в нем нет. Здесь все сосредоточено на исследовании и территориальной экспансии, цель которой – повышение регулярного дохода в [ICON_Gold] золоте, на основании чего и оценивается ваш результат.[NEWLINE][NEWLINE]Одиночная игра: для каждого уровня сложности необходимо достичь определенного прихода [ICON_Gold] золота за ход.[NEWLINE][NEWLINE]Сетевая игра: в конце игры побеждает игрок с самым большим приходом [ICON_Gold] золота за ход.</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_AUSTRALIA_SCENARIO" Language="ru_RU">
+      <Text>Ваша молодая австралийская колония желает не просто повторить успех Нового Южного Уэльса, а превзойти его. Удастся ли вам преуспеть в этих бесплодных землях, где многие нашли свою погибель? Каков ваш путь к процветанию? Будете ли вы добывать золото на приисках и разводить огромные стада или сохраните красоты местной природы для будущих поколений?</Text>
+    </Replace>
+    <Replace Tag="LOC_AUSTRALIA_SCENARIO_MAP_NAME" Language="ru_RU">
+      <Text>Карта Австралии</Text>
+    </Replace>
+    <Replace Tag="LOC_AUSTRALIA_SCENARIO_MAP_DESCRIPTION" Language="ru_RU">
+      <Text>Случайно сгенерированный континент с очертаниями настоящей Австралии.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_QUEENSLAND_ABILITY_DESCRIPTION" Language="ru_RU">
+      <Text>Все клетки получают +1 престижа.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_WESTERN_AUSTRALIA_ABILITY_DESCRIPTION" Language="ru_RU">
+      <Text>Дает дополнительные клетки при основании городов.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_VICTORIA_ABILITY_DESCRIPTION" Language="ru_RU">
+      <Text>Начать игру с одним старателем. Все старатели, обученные в одном из их городов, получают на 1 действие больше.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_SOUTH_AUSTRALIA_ABILITY_DESCRIPTION" Language="ru_RU">
+      <Text>Начать игру с одним пастухом. Все пастухи, обученные в одном из их городов, получают на 1 действие больше.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_AUSTRALIA_SCENARIO_QUEENSLAND_NAME" Language="zh_Hans_CN">
+      <Text>昆士兰</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_AUSTRALIA_SCENARIO_WESTERN_AUSTRALIA_NAME" Language="zh_Hans_CN">
+      <Text>西澳大利亚</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_AUSTRALIA_SCENARIO_VICTORIA_NAME" Language="zh_Hans_CN">
+      <Text>维多利亚</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_AUSTRALIA_SCENARIO_SOUTH_AUSTRALIA_NAME" Language="zh_Hans_CN">
+      <Text>南澳大利亚</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_AUSTRALIA_SCENARIO_QUEENSLAND_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>昆士兰州</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_AUSTRALIA_SCENARIO_WESTERN_AUSTRALIA_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>西澳大利亚州</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_AUSTRALIA_SCENARIO_VICTORIA_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>维多利亚州</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_AUSTRALIA_SCENARIO_SOUTH_AUSTRALIA_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>南澳大利亚州</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_QUEENSLAND_ABILITY_NAME" Language="zh_Hans_CN">
+      <Text>南方大陆</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_WESTERN_AUSTRALIA_ABILITY_NAME" Language="zh_Hans_CN">
+      <Text>南方大陆</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_VICTORIA_ABILITY_NAME" Language="zh_Hans_CN">
+      <Text>南方大陆</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_SOUTH_AUSTRALIA_ABILITY_NAME" Language="zh_Hans_CN">
+      <Text>南方大陆</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_QUEENSLAND_ABILITY_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>为所有海岸城市+3 [ICON_Housing] 住房。牧场可触发文化炸弹。拥有迷人魅力的单元格中的学院、商业中心和剧院的产出+2；惊艳的单元格则产出+4。</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_WESTERN_AUSTRALIA_ABILITY_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>为所有海岸城市+3 [ICON_Housing] 住房。牧场可触发文化炸弹。拥有迷人魅力的单元格中的学院、商业中心和剧院的产出+2；惊艳的单元格则产出+4。</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_VICTORIA_ABILITY_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>为所有海岸城市+3 [ICON_Housing] 住房。牧场可触发文化炸弹。拥有迷人魅力的单元格中的学院、商业中心和剧院的产出+2；惊艳的单元格则产出+4。</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_SOUTH_AUSTRALIA_ABILITY_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>为所有海岸城市+3 [ICON_Housing] 住房。牧场可触发文化炸弹。拥有迷人魅力的单元格中的学院、商业中心和剧院的产出+2；惊艳的单元格则产出+4。</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_AUSTRALIA_SCENARIO_QUEENSLAND_NAME" Language="zh_Hans_CN">
+      <Text>昆士兰州长</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_AUSTRALIA_SCENARIO_WESTERN_AUSTRALIA_NAME" Language="zh_Hans_CN">
+      <Text>西澳大利亚州长</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_AUSTRALIA_SCENARIO_VICTORIA_NAME" Language="zh_Hans_CN">
+      <Text>维多利亚州长</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_AUSTRALIA_SCENARIO_SOUTH_AUSTRALIA_NAME" Language="zh_Hans_CN">
+      <Text>南澳大利亚州长</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_QUEENSLAND_ABILITY_NAME" Language="zh_Hans_CN">
+      <Text>阳光之州</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_WESTERN_AUSTRALIA_ABILITY_NAME" Language="zh_Hans_CN">
+      <Text>黄金内陆</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_VICTORIA_ABILITY_NAME" Language="zh_Hans_CN">
+      <Text>维多利亚淘金热</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_SOUTH_AUSTRALIA_ABILITY_NAME" Language="zh_Hans_CN">
+      <Text>自由殖民地</Text>
+    </Replace>
+    <Replace Tag="LOC_AUSTRALIA_SCENARIO_NAME" Language="zh_Hans_CN">
+      <Text>内陆大亨</Text>
+    </Replace>
+    <Replace Tag="LOC_AUSTRALIA_SCENARIO_TOOLTIP" Language="zh_Hans_CN">
+      <Text>哪个殖民者能最大程度地利用澳大利亚的自然宝藏？持续60回合。</Text>
+    </Replace>
+    <Replace Tag="LOC_AUSTRALIA_SCENARIO_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>在这个60回合的情景中，您需要探索澳大利亚，寻找自然资源，并将资源用于殖民地的发展。这个情景重在经济竞争，不会发生战斗。这个情景强调探索和领土扩张，增加每回合的 [ICON_Gold] 金币净收入（视为得分）。[NEWLINE][NEWLINE]单人游戏：每个难度皆有一个每回合 [ICON_Gold] 金币收入的阈值。在游戏结束前超过该阈值即可获胜。[NEWLINE][NEWLINE]多人游戏：游戏结束时每回合拥有最高[ICON_Gold] 金币收入的玩家即为胜者。</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_AUSTRALIA_SCENARIO" Language="zh_Hans_CN">
+      <Text>您襁褓之中的澳大利亚殖民地不但希望复制新南威尔士的成功，还希望能在此基础上有所突破。您能否破除前人失败的魔咒，在这片荒凉的大地上一举获得成功？您能否寻找到传闻已久的金矿、畜养庞大无比的牲畜群、为未来子孙保护自然美景，从而富甲一方？</Text>
+    </Replace>
+    <Replace Tag="LOC_AUSTRALIA_SCENARIO_MAP_NAME" Language="zh_Hans_CN">
+      <Text>澳大利亚地图</Text>
+    </Replace>
+    <Replace Tag="LOC_AUSTRALIA_SCENARIO_MAP_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>随机生成的澳大利亚大陆，拥有真实世界的轮廓。</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_QUEENSLAND_ABILITY_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>所有单元格+1魅力。</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_WESTERN_AUSTRALIA_ABILITY_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>创建城市时可获得额外的单元格。</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_VICTORIA_ABILITY_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>游戏开始时便拥有1个采矿者。城市中训练的采矿者获得1点额外劳动力。</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_SOUTH_AUSTRALIA_ABILITY_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>游戏开始时便拥有1个放牧人。城市中训练的放牧人获得1点额外劳动力。</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_AUSTRALIA_SCENARIO_QUEENSLAND_NAME" Language="es_ES">
+      <Text>Queensland</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_AUSTRALIA_SCENARIO_WESTERN_AUSTRALIA_NAME" Language="es_ES">
+      <Text>Australia Occidental</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_AUSTRALIA_SCENARIO_VICTORIA_NAME" Language="es_ES">
+      <Text>Victoria</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_AUSTRALIA_SCENARIO_SOUTH_AUSTRALIA_NAME" Language="es_ES">
+      <Text>Australia del Sur</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_AUSTRALIA_SCENARIO_QUEENSLAND_DESCRIPTION" Language="es_ES">
+      <Text>Estado de Queensland</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_AUSTRALIA_SCENARIO_WESTERN_AUSTRALIA_DESCRIPTION" Language="es_ES">
+      <Text>Estado de Australia Occidental</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_AUSTRALIA_SCENARIO_VICTORIA_DESCRIPTION" Language="es_ES">
+      <Text>Estado de Victoria</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_AUSTRALIA_SCENARIO_SOUTH_AUSTRALIA_DESCRIPTION" Language="es_ES">
+      <Text>Estado de Australia del Sur</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_QUEENSLAND_ABILITY_NAME" Language="es_ES">
+      <Text>Antípodas</Text>
+      <Gender>feminine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_WESTERN_AUSTRALIA_ABILITY_NAME" Language="es_ES">
+      <Text>Antípodas</Text>
+      <Gender>feminine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_VICTORIA_ABILITY_NAME" Language="es_ES">
+      <Text>Antípodas</Text>
+      <Gender>feminine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_SOUTH_AUSTRALIA_ABILITY_NAME" Language="es_ES">
+      <Text>Antípodas</Text>
+      <Gender>feminine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_QUEENSLAND_ABILITY_DESCRIPTION" Language="es_ES">
+      <Text>+3 al Alojamiento [ICON_Housing] en cualquier ciudad costera. Los Pastizales activan un Bombardeo cultural. +2 a los rendimientos por Campus, Centros comerciales y Teatros en las casillas con un Atractivo Encantador, +4 con uno Impresionante. </Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_WESTERN_AUSTRALIA_ABILITY_DESCRIPTION" Language="es_ES">
+      <Text>+3 al Alojamiento [ICON_Housing] en cualquier ciudad costera. Los Pastizales activan un Bombardeo cultural. +2 a los rendimientos por Campus, Centros comerciales y Teatros en las casillas con un Atractivo Encantador, +4 con uno Impresionante. </Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_VICTORIA_ABILITY_DESCRIPTION" Language="es_ES">
+      <Text>+3 al Alojamiento [ICON_Housing] en cualquier ciudad costera. Los Pastizales activan un Bombardeo cultural. +2 a los rendimientos por Campus, Centros comerciales y Teatros en las casillas con un Atractivo Encantador, +4 con uno Impresionante. </Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_SOUTH_AUSTRALIA_ABILITY_DESCRIPTION" Language="es_ES">
+      <Text>+3 al Alojamiento [ICON_Housing] en cualquier ciudad costera. Los Pastizales activan un Bombardeo cultural. +2 a los rendimientos por Campus, Centros comerciales y Teatros en las casillas con un Atractivo Encantador, +4 con uno Impresionante. </Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_AUSTRALIA_SCENARIO_QUEENSLAND_NAME" Language="es_ES">
+      <Text>Premier de Queensland</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_AUSTRALIA_SCENARIO_WESTERN_AUSTRALIA_NAME" Language="es_ES">
+      <Text>Premier de Australia Occidental</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_AUSTRALIA_SCENARIO_VICTORIA_NAME" Language="es_ES">
+      <Text>Premier de Victoria</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_AUSTRALIA_SCENARIO_SOUTH_AUSTRALIA_NAME" Language="es_ES">
+      <Text>Premier de Australia del Sur</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_QUEENSLAND_ABILITY_NAME" Language="es_ES">
+      <Text>El estado del sol</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_WESTERN_AUSTRALIA_ABILITY_NAME" Language="es_ES">
+      <Text>Outback de oro</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_VICTORIA_ABILITY_NAME" Language="es_ES">
+      <Text>Fiebre del oro victoriana</Text>
+      <Gender>femine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_SOUTH_AUSTRALIA_ABILITY_NAME" Language="es_ES">
+      <Text>Colonia libre</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_AUSTRALIA_SCENARIO_NAME" Language="es_ES">
+      <Text>Magnate del Outback</Text>
+    </Replace>
+    <Replace Tag="LOC_AUSTRALIA_SCENARIO_TOOLTIP" Language="es_ES">
+      <Text>¿Qué colonia sacará más partido a las riquezas naturales de Australia? Dura 60 turnos.</Text>
+    </Replace>
+    <Replace Tag="LOC_AUSTRALIA_SCENARIO_DESCRIPTION" Language="es_ES">
+      <Text>En este escenario de 60 turnos podrás explorar Australia, descubrir sus recursos naturales y usarlos para enriquecer a tu colonia. En este escenario de competición económica no hay combates. Enfatiza la exploración y la expansión territorial para aumentar tus ingresos netos de Oro [ICON_Gold] por turno, que son tu puntuación.[NEWLINE][NEWLINE]Un jugador: cada dificultad tiene un umbral de Oro [ICON_Gold] por turno. Supera esa cifra antes de que finalice la partida para ganar.[NEWLINE][NEWLINE]Multijugador: el jugador con más Oro [ICON_Gold] por turno al final de la partida es el ganador.</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_AUSTRALIA_SCENARIO" Language="es_ES">
+      <Text>Tu incipiente colonia australiana no quiere repetir el éxito de Nueva Gales del Sur, sino superarlo. ¿Podrás obtener fama en estas desoladas tierras en las que tantos otros han fracasado? ¿Harás fortuna encontrando esos yacimientos de oro de los que tanto se habla, criando enormes manadas de ganado o conservando la belleza natural de estas tierras para las generaciones futuras?</Text>
+    </Replace>
+    <Replace Tag="LOC_AUSTRALIA_SCENARIO_MAP_NAME" Language="es_ES">
+      <Text>Mapa de Australia</Text>
+    </Replace>
+    <Replace Tag="LOC_AUSTRALIA_SCENARIO_MAP_DESCRIPTION" Language="es_ES">
+      <Text>Un continente australiano generado al azar, pero con su contorno real.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_QUEENSLAND_ABILITY_DESCRIPTION" Language="es_ES">
+      <Text>Todas las casillas obtienen +1 de Atractivo.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_WESTERN_AUSTRALIA_ABILITY_DESCRIPTION" Language="es_ES">
+      <Text>Ganas más casillas al fundar ciudades.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_VICTORIA_ABILITY_DESCRIPTION" Language="es_ES">
+      <Text>Empiezas la partida con un Buscador de oro. Todos los Buscadores de oro entrenados en una de sus ciudades obtienen 1 acción de construcción adicional.</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_SOUTH_AUSTRALIA_ABILITY_DESCRIPTION" Language="es_ES">
+      <Text>Empiezas la partida con un Ganadero. Todos los Ganaderos entrenados en una de sus ciudades obtienen 1 acción de construcción adicional.</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_AUSTRALIA_SCENARIO_QUEENSLAND_NAME" Language="zh_Hant_HK">
+      <Text>昆士蘭</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_AUSTRALIA_SCENARIO_WESTERN_AUSTRALIA_NAME" Language="zh_Hant_HK">
+      <Text>西澳洲</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_AUSTRALIA_SCENARIO_VICTORIA_NAME" Language="zh_Hant_HK">
+      <Text>維多利亞</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_AUSTRALIA_SCENARIO_SOUTH_AUSTRALIA_NAME" Language="zh_Hant_HK">
+      <Text>南澳洲</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_AUSTRALIA_SCENARIO_QUEENSLAND_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>昆士蘭州</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_AUSTRALIA_SCENARIO_WESTERN_AUSTRALIA_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>西澳洲</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_AUSTRALIA_SCENARIO_VICTORIA_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>維多利亞州</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_AUSTRALIA_SCENARIO_SOUTH_AUSTRALIA_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>南澳洲</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_QUEENSLAND_ABILITY_NAME" Language="zh_Hant_HK">
+      <Text>遙遠的南方大陸</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_WESTERN_AUSTRALIA_ABILITY_NAME" Language="zh_Hant_HK">
+      <Text>遙遠的南方大陸</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_VICTORIA_ABILITY_NAME" Language="zh_Hant_HK">
+      <Text>遙遠的南方大陸</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_SOUTH_AUSTRALIA_ABILITY_NAME" Language="zh_Hant_HK">
+      <Text>遙遠的南方大陸</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_QUEENSLAND_ABILITY_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>為任一沿岸都市+3 [ICON_Housing] 住房。牧場會引爆文化炸彈。在擁有迷人魅力的單位格中，學院、商業中心和劇院廣場的收益都+2，極大魅力則+4。</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_WESTERN_AUSTRALIA_ABILITY_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>為任一沿岸都市+3 [ICON_Housing] 住房。牧場會引爆文化炸彈。在擁有迷人魅力的單位格中，學院、商業中心和劇院廣場的收益都+2，極大魅力則+4。</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_VICTORIA_ABILITY_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>為任一沿岸都市+3 [ICON_Housing] 住房。牧場會引爆文化炸彈。在擁有迷人魅力的單位格中，學院、商業中心和劇院廣場的收益都+2，極大魅力則+4。</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_SCENARIO_SOUTH_AUSTRALIA_ABILITY_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>為任一沿岸都市+3 [ICON_Housing] 住房。牧場會引爆文化炸彈。在擁有迷人魅力的單位格中，學院、商業中心和劇院廣場的收益都+2，極大魅力則+4。</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_AUSTRALIA_SCENARIO_QUEENSLAND_NAME" Language="zh_Hant_HK">
+      <Text>昆士蘭州總理</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_AUSTRALIA_SCENARIO_WESTERN_AUSTRALIA_NAME" Language="zh_Hant_HK">
+      <Text>西澳洲州總理</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_AUSTRALIA_SCENARIO_VICTORIA_NAME" Language="zh_Hant_HK">
+      <Text>維多利亞州總理</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_AUSTRALIA_SCENARIO_SOUTH_AUSTRALIA_NAME" Language="zh_Hant_HK">
+      <Text>南澳洲州總理</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_QUEENSLAND_ABILITY_NAME" Language="zh_Hant_HK">
+      <Text>陽光之州</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_WESTERN_AUSTRALIA_ABILITY_NAME" Language="zh_Hant_HK">
+      <Text>金色內陸</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_VICTORIA_ABILITY_NAME" Language="zh_Hant_HK">
+      <Text>維多利亞淘金熱</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_SOUTH_AUSTRALIA_ABILITY_NAME" Language="zh_Hant_HK">
+      <Text>自由殖民地</Text>
+    </Replace>
+    <Replace Tag="LOC_AUSTRALIA_SCENARIO_NAME" Language="zh_Hant_HK">
+      <Text>內陸大亨</Text>
+    </Replace>
+    <Replace Tag="LOC_AUSTRALIA_SCENARIO_TOOLTIP" Language="zh_Hant_HK">
+      <Text>哪一個殖民者會獲得澳洲最多的天然財富呢？持續60回合。</Text>
+    </Replace>
+    <Replace Tag="LOC_AUSTRALIA_SCENARIO_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>在這60回合的場景中，你將和時間賽跑，努力探索全澳洲，試圖找出這塊土地中的天然資源，並用其來豐富你的殖民地。這個競爭型的經濟面情景中將不會有任何戰鬥。此情景著重強調探索和領土擴張，用以提升你每回合的 [ICON_Gold] 金幣淨收入，而這也將成為你的最終分數。[NEWLINE][NEWLINE]單人遊戲：每個難度都有一個每回合 [ICON_Gold] 金幣上限值。在遊戲結束前超出該數量便可獲得勝利。[NEWLINE][NEWLINE]多人遊戲：在遊戲結束時每回合擁有最高 [ICON_Gold] 金幣收入的玩家便是勝利者。</Text>
+    </Replace>
+    <Replace Tag="LOC_LOADING_INFO_AUSTRALIA_SCENARIO" Language="zh_Hant_HK">
+      <Text>你那尚嗷嗷待哺的澳洲殖民地並不打算踏上新威爾斯州的成功老路，而是打算超越之。你是否能在這塊荒蕪大地上能人所不能，成功的聲名遠播呢？你的財富究竟會來自何處，究竟你能找出傳說中的金礦、還是豢養成片家畜，抑或是你會為了未來的世代們保育好這塊土地的天然美景呢？</Text>
+    </Replace>
+    <Replace Tag="LOC_AUSTRALIA_SCENARIO_MAP_NAME" Language="zh_Hant_HK">
+      <Text>澳洲地圖</Text>
+    </Replace>
+    <Replace Tag="LOC_AUSTRALIA_SCENARIO_MAP_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>擁有真實世界輪廓，隨機產生出的澳洲大陸。</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_QUEENSLAND_ABILITY_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>所有單元格魅力+1。</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_WESTERN_AUSTRALIA_ABILITY_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>開拓城市時獲得額外單元格。</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_VICTORIA_ABILITY_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>遊戲開場時擁有1名探勘者。在城市中訓練的探勘者獲得1點額外的勞動力。</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_SCENARIO_SOUTH_AUSTRALIA_ABILITY_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>遊戲開場時擁有1名放牧者。在城市中訓練的放牧者獲得1點額外的勞動力。</Text>
+    </Replace>
+  </LocalizedText>
+</GameData>

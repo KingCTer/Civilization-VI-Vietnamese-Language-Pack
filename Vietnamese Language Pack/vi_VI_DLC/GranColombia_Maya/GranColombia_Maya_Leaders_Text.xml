@@ -1,0 +1,111 @@
+<GameData>
+	<EnglishText>
+    <!--Historic Agendas-->
+    <Row Tag="LOC_AGENDA_LADY_SIX_SKY_NAME">
+      <Text>Solitary</Text>
+    </Row>
+    <Row Tag="LOC_AGENDA_LADY_SIX_SKY_DESCRIPTION">
+      <Text>Settles near her capital. Likes civilizations who settle at a distance. Dislikes any civilizations encroaching on Mayan territory.</Text>
+    </Row>
+    <Row Tag="LOC_AGENDA_SIMON_BOLIVAR_NAME">
+      <Text>Carabobo</Text>
+    </Row>
+    <Row Tag="LOC_AGENDA_SIMON_BOLIVAR_DESCRIPTION">
+      <Text>Likes civilizations with highly-promoted units. Dislikes civilizations who have few highly-promoted units.</Text>
+    </Row>
+		<!--City-States-->
+		<Row Tag="LOC_CIVILIZATION_CAGUANA_NAME">
+			<Text>Caguana</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CAGUANA_DESCRIPTION">
+			<Text>Caguana city-state</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CAGUANA_ADJECTIVE">
+			<Text>Caguana</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_CAGUANA_NAME">
+			<Text>Caguana Suzerain Bonus</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_CAGUANA_DESCRIPTION">
+			<Text>Your Builders can now make Batey improvements.[NEWLINE][NEWLINE]+1 [ICON_Culture] Culture. +1 [ICON_Culture] Culture for every adjacent Bonus resource and Entertainment Complex (increased to +2 [Icon_Culture] Culture when Exploration is discovered). Provides [Icon_Tourism] Tourism after researching Flight. Cannot be built adjacent to another Batey.</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_HUNZA_NAME">
+			<Text>Hunza</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_HUNZA_DESCRIPTION">
+			<Text>Hunza city-state</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_HUNZA_ADJECTIVE">
+			<Text>Hunza</Text>
+		</Row>
+    <Row Tag="LOC_LEADER_TRAIT_HUNZA_NAME">
+      <Text>Hunza Suzerain Bonus</Text>
+    </Row>
+    <Row Tag="LOC_LEADER_TRAIT_HUNZA_DESCRIPTION">
+      <Text>Your [ICON_TradeRoute] Trade Routes generate +1 [ICON_Gold] Gold for every 5 tiles they travel.</Text>
+    </Row>
+		<Row Tag="LOC_CIVILIZATION_LAHORE_NAME">
+			<Text>Lahore</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_LAHORE_DESCRIPTION">
+			<Text>Lahore city-state</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_LAHORE_ADJECTIVE">
+			<Text>Lahori</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_LAHORE_NAME">
+			<Text>Lahore Suzerain Bonus</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_LAHORE_DESCRIPTION">
+			<Text>Your cities can now train Nihang units.[NEWLINE][NEWLINE]A unit with a unique Promotion tree that can be purchased with [ICON_Faith] Faith. [ICON_Strength] Combat Strength is increased when Barracks, Armory, and Military Academy buildings are first constructed.</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SINGAPORE_NAME">
+			<Text>Singapore</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SINGAPORE_DESCRIPTION">
+			<Text>Singapore city-state</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_SINGAPORE_ADJECTIVE">
+			<Text>Singaporean</Text>
+		</Row>
+    <Row Tag="LOC_LEADER_TRAIT_SINGAPORE_NAME">
+      <Text>Singapore Suzerain Bonus</Text>
+    </Row>
+    <Row Tag="LOC_LEADER_TRAIT_SINGAPORE_DESCRIPTION">
+      <Text>Your cities receive +2 [ICON_Production] Production for each foreign civilization they have a [ICON_TradeRoute] Trade Route to.</Text>
+    </Row>
+		<Row Tag="LOC_CIVILIZATION_TARUGA_NAME">
+			<Text>Taruga</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_TARUGA_DESCRIPTION">
+			<Text>Taruga city-state</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_TARUGA_ADJECTIVE">
+			<Text>Taruga</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_TARUGA_NAME">
+			<Text>Taruga Suzerain Bonus</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_TARUGA_DESCRIPTION">
+			<Text>+5% [ICON_SCIENCE] Science in all cities for each different improved Strategic resource they have.</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_VATICAN_CITY_NAME">
+			<Text>Vatican City</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_VATICAN_CITY_DESCRIPTION">
+			<Text>Vatican City city-state</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_VATICAN_CITY_ADJECTIVE">
+			<Text>Vatican</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_VATICAN_CITY_NAME">
+			<Text>Vatican City Suzerain Bonus</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_VATICAN_CITY_DESCRIPTION">
+			<Text>When you activate a [ICON_GreatPerson] Great Person they spread 400 Religious pressure of your founded (or majority) religion to cities within 10 tiles.</Text>
+		</Row>
+    <Row Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_SIMON_BOLIVAR">
+      <Text>Likes civilizations with more promoted units than him</Text>
+    </Row>
+	</EnglishText>
+</GameData>

@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<Row Tag="LOC_GAMESUMMARY_TITLE">
+			<Text>Hall of Fame</Text>
+		</Row>
+		<Row Tag="LOC_GAMESUMMARY_OVERVIEW">
+			<Text>Overview</Text>
+		</Row>
+		<Row Tag="LOC_GAMESUMMARY_HISTORY">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="LOC_GAMESUMMARY_MAP">
+			<Text>Map</Text>
+		</Row>
+		<Row Tag="LOC_GAMESUMMARY_GRAPHS">
+			<Text>Graphs</Text>
+		</Row>
+		<Row Tag="LOC_GAMESUMMARY_REPORTS">
+			<Text>Reports</Text>
+		</Row>
+		<Row Tag="LOC_GAMESUMMARY_VICTORY">
+			<Text>VICTORY!</Text>
+		</Row>
+		<Row Tag="LOC_GAMESUMMARY_DEFEAT">
+			<Text>[COLOR_RED]DEFEAT[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_GAMESUMMARY_YOU">
+			<Text>You</Text>
+		</Row>
+		<Row Tag="LOC_GAMESUMMARY_NOBODY_WON">
+			<Text>Nobody Won</Text>
+		</Row>
+		<Row Tag="LOC_GAMESUMMARY_TURNS">
+			<Text>[ICON_TURN] {1_Turns} turns</Text>
+		</Row>
+		<Row Tag="LOC_GAMESUMMARY_ERA_STARTED">
+			<Text>Started in {1_EraName}</Text>
+		</Row>
+		<Row Tag="LOC_GAMESUMMARY_LAST_PLAYED">
+			<Text>Last Played {1_Time: datetime short}</Text>
+		</Row>
+		<Row Tag="LOC_GAMESUMMARY_CONTEXT">
+			<Text>{1_PlayerName}</Text>
+		</Row>
+		<Row Tag="LOC_GAMESUMMARY_CONTEXT_GLOBAL">
+			<Text>Overall</Text>
+		</Row>
+		<Row Tag="LOC_GAMESUMMARY_CONTEXT_LOCAL">
+			<Text>{1_PlayerName} (You)</Text>
+		</Row>
+		<Row Tag="LOC_GAMESUMMARY_CONTEXT_LOCAL_WINNER">
+			<Text>{1_PlayerName} (You - Winner)</Text>
+		</Row>
+		<Row Tag="LOC_GAMESUMMARY_CONTEXT_WINNER">
+			<Text>{1_PlayerName} (Winner)</Text>
+		</Row>
+		<Row Tag="LOC_GAMESUMMARY_VICTORYPROGRESS_COUNT">
+			<Text>Achieved {1_Count} times.</Text>
+		</Row>
+		<Row Tag="LOC_GAMESUMMARY_VICTORYPROGRESS_LEADER">
+			<Text>Most recently achieved as {1_LeaderName}.</Text>
+		</Row>
+		<Row Tag="LOC_GAMESUMMARY_LEADERPROGRESS_PLAYCOUNT">
+			<Text>Played {1_Num} games.</Text>
+		</Row>
+		<Row Tag="LOC_GAMESUMMARY_LEADERPROGRESS_WINCOUNT">
+			<Text>Won {1_NumVictories} out of {2_NumPlayed} games.</Text>
+		</Row>
+		<Row Tag="LOC_GAMESUMMARY_LEADERPROGRESS_VICTORY">
+			<Text>Most recently won a {1_Victory}.</Text>
+		</Row>
+		<Row Tag="LOC_GAMESUMMARY_UNKNOWN">
+			<Text>Unknown</Text>
+		</Row>	
+		<Row Tag="LOC_GAMESUMMARY_HIGHLIGHTS">
+			<Text>Highlights</Text>
+		</Row>
+		<Row Tag="LOC_GAMESUMMARY_PLAYERS">
+			<Text>Players</Text>
+		</Row>
+		<Row Tag="LOC_GAMESUMMARY_VICTORYPROGRESS">
+			<Text>Victory Progress</Text>
+		</Row>
+		<Row Tag="LOC_GAMESUMMARY_LEADERPROGRESS">
+			<Text>Leader Progress</Text>
+		</Row>	
+		<Row Tag="LOC_GAMESUMMARY_HISTORY_SCORE">
+			<Text>Score</Text>
+		</Row>
+		<Row Tag="LOC_GAMESUMMARY_HISTORY_YOU">
+			<Text>You</Text>
+		</Row>
+		<Row Tag="LOC_GAMESUMMARY_HISTORY_RESULTS">
+			<Text>Results</Text>
+		</Row>
+		<Row Tag="LOC_GAMESUMMARY_HISTORY_VICTORY">
+			<Text>Victory</Text>
+		</Row>
+		<Row Tag="LOC_GAMESUMMARY_HISTORY_SETTINGS">
+			<Text>Settings</Text>
+		</Row>
+	
+		<Row Tag="LOC_GAMESUMMARY_VIEWDETAILS">
+			<Text>Game Details</Text>
+		</Row>
+		<Row Tag="LOC_GAMESUMMARY_DELETE_GAME">
+			<Text>Delete Game</Text>
+		</Row>
+		<Row Tag="LOC_GAMESUMMARY_DELETE_GAME_PROMPT">
+			<Text>Are you sure you wish to delete this game?</Text>
+		</Row>
+		<Row Tag="LOC_GAMESUMMARY_DELETE_GAME_TOOLTIP">
+			<Text>This will remove the game from the Hall of Fame and will adjust any relevent statistics and leader/victory progress.</Text>
+		</Row>
+		<Row Tag="LOC_GAMESUMMARY_LOADCONFIGURATION">
+			<Text>Load Configuration</Text>
+		</Row>	
+		
+		<Row Tag="LOC_GAMESUMMARY_NOREPORTDATA">
+			<Text>No Report Data</Text>
+		</Row>
+		<Row Tag="LOC_GAMESUMMARY_NOGRAPHDATA">
+			<Text>No Graph Data</Text>
+		</Row>
+		
+		<Row Tag="LOC_GAMESUMMARY_CATEGORY_GENERAL">
+			<Text>General</Text>
+		</Row>
+		<Row Tag="LOC_GAMESUMMARY_CATEGORY_COMBAT">
+			<Text>Combat</Text>
+		</Row>
+		<Row Tag="LOC_GAMESUMMARY_CATEGORY_PROSPERITY">
+			<Text>Prosperity</Text>
+		</Row>
+		<Row Tag="LOC_GAMESUMMARY_CATEGORY_DIPLOMACY">
+			<Text>Diplomacy</Text>
+		</Row>
+		<Row Tag="LOC_GAMESUMMARY_CATEGORY_DISCOVERY">
+			<Text>Discovery</Text>
+		</Row>
+		<Row Tag="LOC_GAMESUMMARY_CATEGORY_RELIGION">
+			<Text>Religion</Text>
+		</Row>
+		<Row Tag="LOC_GAMESUMMARY_CATEGORY_EXTRA">
+			<Text>Extra</Text>
+		</Row>
+
+	</EnglishText>
+</GameData>

@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<BaseGameText>
+		<Row Tag="LOC_DIPLO_PERSON_CLEO">
+			<Text>Cleopatra of Egypt</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_CLEO">
+			<Text>Greetings traveler. You should know that you stand in the presence of greatness.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ADVISOR_READY">
+			<Text>What would you like to do, my liege?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_CHOICE_DECLARE_FRIENDSHIP">
+			<Text>Declare Friendship</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_CHOICE_MAKE_PEACE">
+			<Text>Make Peace</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_CHOICE_OPEN_BORDERS">
+			<Text>[SIZE_16]Request Open Borders[NEWLINE][SIZE_12]</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_CHOICE_DIPLOMATIC_DELEGATION">
+			<Text>[SIZE_16]Send Delegation[NEWLINE][SIZE_12]</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_CHOICE_RESIDENT_EMBASSY">
+			<Text>[SIZE_16]Establish Resident Embassy[NEWLINE][SIZE_12]</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_CHOICE_DENOUNCE">
+			<Text>Denounce</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_CHOICE_DECLARE_SURPRISE_WAR">
+			<Text>[SIZE_16]Declare Surprise War[NEWLINE][SIZE_12]</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_CHOICE_DECLARE_FORMAL_WAR">
+			<Text>[SIZE_16]Declare Formal War[NEWLINE][SIZE_12]</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_CHOICE_DECLARE_HOLY_WAR">
+			<Text>[SIZE_16]Declare Holy War[NEWLINE][SIZE_12]</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_CHOICE_DECLARE_LIBERATION_WAR">
+			<Text>[SIZE_16]Declare War of Liberation[NEWLINE][SIZE_12]</Text>
+		</Row>
+    <Row Tag="LOC_DIPLO_CHOICE_DECLARE_LIBERATION_WAR_TOOLTIP">
+      <Text>[NEWLINE][NEWLINE](No warmongering penalty when capturing friendly cities)</Text>
+    </Row>
+		<Row Tag="LOC_DIPLO_CHOICE_DECLARE_RECONQUEST_WAR">
+			<Text>[SIZE_16]Declare War of Reconquest[NEWLINE][SIZE_12]</Text>
+		</Row>
+    <Row Tag="LOC_DIPLO_CHOICE_DECLARE_RECONQUEST_WAR_TOOLTIP">
+      <Text>[NEWLINE][NEWLINE](No warmongering penalty when recapturing your cities)</Text>
+    </Row>
+		<Row Tag="LOC_DIPLO_CHOICE_DECLARE_PROTECTORATE_WAR">
+			<Text>[SIZE_16]Declare Protectorate War[NEWLINE][SIZE_12]</Text>
+		</Row>
+    <Row Tag="LOC_DIPLO_CHOICE_DECLARE_PROTECTORATE_WAR_TOOLTIP">
+      <Text>[NEWLINE][NEWLINE](No warmongering penalty when defending allied city-states)</Text>
+    </Row>
+		<Row Tag="LOC_DIPLO_CHOICE_DECLARE_COLONIAL_WAR">
+			<Text>[SIZE_16]Declare Colonial War[NEWLINE][SIZE_12]</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_CHOICE_DECLARE_TERRITORIAL_WAR">
+			<Text>[SIZE_16]Declare War of Territorial Expansion[NEWLINE][SIZE_12]</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_CHOICE_WARMONGER_INFO">
+			<Text>Warmonger penalty: {1_WarmongerLevel}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_CHOICE_GOLD_INFO">
+			<Text>Costs {1_Cost} [ICON_Gold] Gold</Text>
+		</Row>
+    <Row Tag="LOC_CASUS_BELLI_HOLY_WAR_DESCRIPTION">
+      <Text>Target power has religiously converted one of your cities.</Text>
+    </Row>		
+    <Row Tag="LOC_CASUS_BELLI_RECONQUEST_WAR_DESCRIPTION">
+      <Text>Target power has captured one of your cities.</Text>
+    </Row>		
+    <Row Tag="LOC_CASUS_BELLI_LIBERATION_WAR_DESCRIPTION">
+      <Text>Target power has captured a city from one of your current friends or allies.</Text>
+    </Row>		
+    <Row Tag="LOC_CASUS_BELLI_PROTECTORATE_WAR_DESCRIPTION">
+      <Text>Target power has declared war of one of your current allied city-states.</Text>
+    </Row>		
+    <Row Tag="LOC_CASUS_BELLI_COLONIAL_WAR_DESCRIPTION">
+      <Text>Target power is two technology eras behind you.</Text>
+    </Row>		
+    <Row Tag="LOC_CASUS_BELLI_TERRITORIAL_WAR_DESCRIPTION">
+      <Text>Two of the target power's cities are within 10 tiles of 2 opponents' cities.</Text>
+    </Row>
+   <Row Tag="LOC_DIPLO_ARE_YOU_SURE_WAR">
+			<Text>Are you sure you want to go to war?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ARE_YOU_SURE_YES">
+			<Text>Yes</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ARE_YOU_SURE_NO">
+			<Text>No</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_CHOICE_MAKE_DEAL">
+			<Text>Make Deal</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_CHOICE_MAKE_DEMAND">
+			<Text>Make Demand</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_CHOICE_IGNORE">
+			<Text>Ignore this Request.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_CHOICE_EXIT">
+			<Text>Goodbye</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_CHOICE_PROPOSE_AUCTION">
+			<Text>Propose Auction</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEAL_INTRO">
+			<Text>What can I do for you?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEAL_INTRO_AI">
+			<Text>What do you think of this?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEMAND_INTRO">
+			<Text>My demands must be met.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_CHOICE_VIEW_DEAL">
+			<Text>View Deal</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_CHOICE_VIEW_DEMAND">
+			<Text>View Demand</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEMAND_NO_AVAILABLE_ITEMS">
+			<Text>No available items to demand.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEAL_NO_AVAILABLE_ITEMS">
+			<Text>No available items to use in a deal.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_CHOICE_DEMAND_PROMISE_DONT_SPY">
+			<Text>Promise Not to Spy on Me</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_CHOICE_DEMAND_PROMISE_DONT_SETTLE_TOO_NEAR">
+			<Text>Promise Not to Settle Too Near My Cities</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_CHOICE_DEMAND_PROMISE_DONT_CONVERT_CITY">
+			<Text>Promise Not to Convert My Cities</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_CHOICE_DEMAND_PROMISE_DONT_DIG_ARTIFACTS">
+			<Text>Promise Not to Dig Up My Artifacts</Text>
+		</Row>
+		<!-- Action Failure Reasons -->
+		<Row Tag="LOC_DIPLOMACY_ACTION_FAILURE_REASON_FRIENDLY_TEAM_MEMBERS">
+			<Text>Unable to {1_WarActionType}[NEWLINE]Some member of your team is a friend or ally of a member of this player's team.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_ACTION_FAILURE_REASON_NO_DENOUNCEMENT">
+			<Text>Unable to {1_WarActionType}[NEWLINE]You have not denounced this player.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_ACTION_FAILURE_REASON_DENOUNCEMENT_TOO_RECENT">
+			<Text>Unable to {1_WarActionType}[NEWLINE]You must wait {2_Turns} turns after denouncing (available in {3_Remaining} turns).</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_ACTION_FAILURE_REASON_DEFENSIVE_PACT">
+			<Text>Unable to {1_WarActionType}[NEWLINE]You have a defensive pact with this leader.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_ACTION_FAILURE_REASON_CASUS_BELLI_NOT_MET">
+			<Text>Unable to {1_WarActionType}[NEWLINE][COLOR_RED]You do not satisfy the conditions for this Casus Belli.[ENDCOLOR][NEWLINE][{2_CasusBelliDescription}]</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_ACTION_FAILURE_REASON_PEACE_TOO_RECENT">
+			<Text>Unable to {1_WarActionType}[NEWLINE]You must wait {2_Turns} turns after making peace (available in {3_Remaining} turns).</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_ACTION_FAILURE_REASON_WAR_TOO_EARLY">
+			<Text>Unable to {1_WarActionType}[NEWLINE]You must wait until Turn {2_TurnNumber} to declare war on a major civilization in this game.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_ACTION_FAILURE_REASON_INSUFFICIENT_GOLD">
+			<Text>Unable to {1_ActionType}[NEWLINE][COLOR_RED]You need {2_GoldRequirement} [ICON_Gold] Gold.[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_ACTION_FAILURE_REASON_WAR_TOO_RECENT">
+			<Text>Unable to {1_WarActionType}[NEWLINE]You must wait {2_Turns} turns after declaring war (available in {3_Remaining} turns).</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_ACTION_FAILURE_REASON_WAR_WITHOUT_END">
+			<Text>Unable to {1_WarActionType}[NEWLINE]Wars last forever in this game.</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

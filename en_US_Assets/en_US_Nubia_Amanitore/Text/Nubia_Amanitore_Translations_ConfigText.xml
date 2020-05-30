@@ -1,0 +1,424 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <LocalizedText>
+    <Replace Tag="LOC_IMPROVEMENT_PYRAMID_NAME" Language="pt_BR">
+      <Text>Pirâmide núbia|Pirâmides núbias</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_NUBIA_NAME" Language="pt_BR">
+      <Text>Núbia</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_AMANITORE_NAME" Language="pt_BR">
+      <Text>Amanitore</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_TA_SETI_NAME" Language="pt_BR">
+      <Text>Ta-Seti</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_TA_SETI_DESCRIPTION" Language="pt_BR">
+      <Text>+50% de [ICON_Production] produção para unidades a distância. Todas as unidades a distância ganham +50% de experiência de combate. Minas em recursos estratégicos concedem +1 de [ICON_Production] produção. Minas em recursos de luxo e bônus concedem +2 de [ICON_Gold] ouro.</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_PYRAMID_DESCRIPTION" Language="pt_BR">
+      <Text>Melhoria desbloqueada com alvenaria, deve ser construída em deserto, desertos com colinas e várzeas. +1 de [ICON_Faith] fé. Recebe ganhos adicionais de distritos adjacentes. +1 de [ICON_Food] alimento se estiver adjacente a um Centro da Cidade. Para todos os demais distritos que concedem bônus adjacentes: +1 do ganho devido se o distrito estiver adjacente.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_KANDAKE_OF_MEROE_NAME" Language="pt_BR">
+      <Text>Candace de Meroé</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_KANDAKE_OF_MEROE_DESCRIPTION" Language="pt_BR">
+      <Text>+20% de [ICON_Production] produção para todos os distritos, subindo para +40% se houver uma Pirâmide Núbia adjacente ao Centro da Cidade.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_NUBIAN_PITATI_DESCRIPTION" Language="pt_BR">
+      <Text>Unidade exclusiva núbia que substitui o Arqueiro, sendo mais forte que ele com [ICON_Movement] movimento extra. Melhorado para Besteiro.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_NUBIA_RANGED_EXPERIENCE_MODIFIER_DESCRIPTION" Language="pt_BR">
+      <Text>+50% de experiência recebida de combate. (Ta-Seti)</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_NUBIAN_PITATI_NAME" Language="pt_BR">
+      <Text>Arqueiro Pítati|Arqueiros Pítatis</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_PYRAMID_NAME" Language="fr_FR">
+      <Text>Pyramide nubienne|Pyramides nubiennes</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_NUBIA_NAME" Language="fr_FR">
+      <Text>Nubie</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_AMANITORE_NAME" Language="fr_FR">
+      <Text>Amanitoré</Text>
+      <Gender>feminine:no_article</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_TA_SETI_NAME" Language="fr_FR">
+      <Text>Ta-Seti</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_TA_SETI_DESCRIPTION" Language="fr_FR">
+      <Text>[ICON_Production] Production +50 % pour les unités d'attaque à distance, qui voient leur expérience en combat augmenter de 50 %. Les mines construites sur des ressources stratégiques fournissent +1 unité de [ICON_Production] production, et celles sur des ressources bonus et de luxe +2 unités d'[ICON_Gold] or.</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_PYRAMID_DESCRIPTION" Language="fr_FR">
+      <Text>Aménagement débloqué avec la découverte de la maçonnerie et devant être construit sur un désert, une colline désertique ou une plaine inondable. [ICON_Faith] Foi +1. Les quartiers adjacents octroient des rendements bonus. [ICON_Food] Nourriture +1 si la pyramide est adjacente à un centre-ville. Pour tous les autres quartiers octroyant des bonus de proximité : rendement approprié +1 si ce quartier est adjacent.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_KANDAKE_OF_MEROE_NAME" Language="fr_FR">
+      <Text>Candace de Méroé</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_KANDAKE_OF_MEROE_DESCRIPTION" Language="fr_FR">
+      <Text>[ICON_Production] Production +20 % pour tous les quartiers, +40 % si une pyramide nubienne est adjacente au centre-ville.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_NUBIAN_PITATI_DESCRIPTION" Language="fr_FR">
+      <Text>Exclusive à la Nubie et plus puissante que l'archer, qu'elle remplace, cette unité de l'Antiquité profite d'un [ICON_Movement] déplacement supplémentaire. Amélioration : arbalétrier.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_NUBIA_RANGED_EXPERIENCE_MODIFIER_DESCRIPTION" Language="fr_FR">
+      <Text>Expérience au combat +50 % (Ta-Seti).</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_NUBIAN_PITATI_NAME" Language="fr_FR">
+      <Text>Archer Pítati|Archers Pítati</Text>
+      <Gender>masculine:vowel</Gender>
+      <Plurality>1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_PYRAMID_NAME" Language="de_DE">
+      <Text>Nubische Pyramide|Nubische Pyramide|Nubischen Pyramide|Nubischen Pyramide|Nubische Pyramide</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_NUBIA_NAME" Language="de_DE">
+      <Text>Nubien|Nubien|Nubien|Nubiens|Nubien</Text>
+      <Gender>neuter:no_article</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_AMANITORE_NAME" Language="de_DE">
+      <Text>Amanitore</Text>
+      <Gender>feminine:no_article</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_TA_SETI_NAME" Language="de_DE">
+      <Text>Ta-Seti</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_TA_SETI_DESCRIPTION" Language="de_DE">
+      <Text>+50% [ICON_Production] Produktion für Fernkampfeinheiten. Alle Fernkampfeinheiten erhalten +50% Kampferfahrung. Minen auf strategischen Ressourcen liefern +1 [ICON_Production] Produktion. Minen auf Bonus-Ressourcen und Luxusgütern liefern +2 [ICON_Gold] Gold.</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_PYRAMID_DESCRIPTION" Language="de_DE">
+      <Text>Modernisierung, die durch Steinmetzkunst freigeschaltet wird und auf Wüste, Wüstenhügeln oder Schwemmland gebaut werden muss. +1 [ICON_Faith] Glauben. Erhält zusätzliche Erträge durch angrenzende Bezirke. +1 [ICON_Food] Nahrung, wenn angrenzend an ein Stadtzentrum. Für alle anderen Bezirke, die Nachbarschaftsbonusse gewähren: +1 für den entsprechenden Ertrag, wenn der Bezirk angrenzt.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_KANDAKE_OF_MEROE_NAME" Language="de_DE">
+      <Text>Kandake von Meroë</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_KANDAKE_OF_MEROE_DESCRIPTION" Language="de_DE">
+      <Text>+20% [ICON_Production] Produktion für alle Bezirke oder +40%, wenn eine Nubische Pyramide an das Stadtzentrum angrenzt.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_NUBIAN_PITATI_DESCRIPTION" Language="de_DE">
+      <Text>Nubische Spezialeinheit der Antike, die den Bogenschützen ersetzt. Stärker als der Bogenschütze mit zusätzlicher [ICON_Movement] Fortbewegung. Wird zum Armbrustschützen verbessert.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_NUBIA_RANGED_EXPERIENCE_MODIFIER_DESCRIPTION" Language="de_DE">
+      <Text>+50 % verdiente Erfahrung im Kampf. (Ta-Seti)</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_NUBIAN_PITATI_NAME" Language="de_DE">
+      <Text>Pítati - Bogenschütze|Pítati - Bogenschützen|Pítati - Bogenschützen|Pítati - Bogenschützen|Pítati - Bogenschütze</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_PYRAMID_NAME" Language="it_IT">
+      <Text>Piramide nubiana|la Piramide nubiana|una Piramide nubiana</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_NUBIA_NAME" Language="it_IT">
+      <Text>Nubia|della Nubia|alla Nubia|la Nubia|dalla Nubia</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_AMANITORE_NAME" Language="it_IT">
+      <Text>Amanitore|di Amanitore|ad Amanitore|Amanitore|da Amanitore</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_TA_SETI_NAME" Language="it_IT">
+      <Text>Ta-Seti</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_TA_SETI_DESCRIPTION" Language="it_IT">
+      <Text>+50% alla [ICON_Production] Produzione per la costruzione di unità che attaccano a distanza. Tutte le unità che attaccano a distanza guadagnano il 50% di esperienza in più. Le miniere costruite su risorse strategiche forniscono +1 [ICON_Production] Produzione. Le miniere costruite su risorse bonus e di lusso forniscono +2 [ICON_Gold] Oro.</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_PYRAMID_DESCRIPTION" Language="it_IT">
+      <Text>Miglioramento sbloccato dalla scoperta della Muratura. Può essere costruito in una casella di deserto, di deserto con colline o in un terreno allagato. +1 [ICON_Faith] Fede. Riceve rese addizionali per la vicinanza con i distretti. +1 [ICON_Food] Cibo se adiacente a un Centro cittadino. Per tutti gli altri distretti che forniscono bonus per la posizione: +1 alla resa appropriata se adiacente al relativo distretto.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_KANDAKE_OF_MEROE_NAME" Language="it_IT">
+      <Text>Kandake di Meroe</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_KANDAKE_OF_MEROE_DESCRIPTION" Language="it_IT">
+      <Text>+20% alla [ICON_Production] Produzione per la costruzione di qualsiasi distretto, che sale a +40% se c'è una Piramide nubiana adiacente al Centro cittadino.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_NUBIAN_PITATI_DESCRIPTION" Language="it_IT">
+      <Text>Unità esclusiva nubiana di epoca antica che sostituisce l'Arciere. Più forte della controparte, gode di [ICON_Movement] movimento extra. Si può aggiornare in Balestriere.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_NUBIA_RANGED_EXPERIENCE_MODIFIER_DESCRIPTION" Language="it_IT">
+      <Text>+50% all'esperienza guadagnata dal combattimento. (Ta-Seti)</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_NUBIAN_PITATI_NAME" Language="it_IT">
+      <Text>Arciere Pìtati|un Arciere Pìtati|dal tuo Arciere Pìtati|al tuo Arciere Pìtati|il tuo Arciere Pìtati|da un Arciere Pìtati</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_PYRAMID_NAME" Language="ja_JP">
+      <Text>ヌビアのピラミッド</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_NUBIA_NAME" Language="ja_JP">
+      <Text>ヌビア</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_AMANITORE_NAME" Language="ja_JP">
+      <Text>アマニトレ</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_TA_SETI_NAME" Language="ja_JP">
+      <Text>タスティ</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_TA_SETI_DESCRIPTION" Language="ja_JP">
+      <Text>長距離戦闘ユニットの [ICON_Production] 生産力+50%。すべての長距離戦闘ユニットは戦闘経験値+50%。戦略資源の鉱山の [ICON_Production] 生産力+1。ボーナス資源と高級資源の鉱山の [ICON_Gold] ゴールド+2。</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_PYRAMID_DESCRIPTION" Language="ja_JP">
+      <Text>石工術によって解除される施設。砂漠、砂漠 (丘陵)、氾濫原にのみ建設可能。 [ICON_Faith] 信仰力+1。隣接する区域からの産出量が増加する。都心に隣接している場合、 [ICON_Food] 食料+1。その他隣接ボーナスが発生する区域が隣接している場合、該当するボーナスが+1。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_KANDAKE_OF_MEROE_NAME" Language="ja_JP">
+      <Text>メロエのカンダケ</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_KANDAKE_OF_MEROE_DESCRIPTION" Language="ja_JP">
+      <Text>すべての区域の [ICON_Production] 生産力+20%。ヌビアのピラミッドが都心に隣接している場合は+40%。</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_NUBIAN_PITATI_DESCRIPTION" Language="ja_JP">
+      <Text>弓兵に取ってかわるヌビア固有の太古の長距離戦闘ユニット。弓兵より強く、 [ICON_Movement] 移動力も優れている。アップグレードすると弩兵になる。</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_NUBIA_RANGED_EXPERIENCE_MODIFIER_DESCRIPTION" Language="ja_JP">
+      <Text>戦闘経験値+50%。(タスティ)</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_NUBIAN_PITATI_NAME" Language="ja_JP">
+      <Text>ピタティ弓兵</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_PYRAMID_NAME" Language="ko_KR">
+      <Text>누비아 피라미드</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_NUBIA_NAME" Language="ko_KR">
+      <Text>누비아</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_AMANITORE_NAME" Language="ko_KR">
+      <Text>아마니토레</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_TA_SETI_NAME" Language="ko_KR">
+      <Text>타-세티</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_TA_SETI_DESCRIPTION" Language="ko_KR">
+      <Text>원거리 유닛 생성 시 +50%의 [ICON_Production] 생산력을 받습니다. 모든 원거리 유닛이 +50%의 전투 경험치를 획득합니다. 전략 자원 위에 있는 광산에서 [ICON_Production] 생산력 +1을 제공합니다. 보너스 자원과 사치 자원 위에 있는 광산에서 [ICON_Gold] 금 +2를 제공합니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_PYRAMID_DESCRIPTION" Language="ko_KR">
+      <Text>석조기술과 함께 잠금 해제되며 사막, 사막 언덕 또는 범람원에 지어야 하는 시설입니다. [ICON_Faith] 신앙 +1을 제공합니다. 인근 특수지구에서 추가 생산량을 획득합니다. 도심부에 인접하는 경우 [ICON_Food] 식량 +1을 제공합니다. 인접 보너스를 제공하는 다른 모든 특수지구의 경우 해당 특수지구가 인접했다면 해당 산출물 +1을 제공합니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_KANDAKE_OF_MEROE_NAME" Language="ko_KR">
+      <Text>메로에의 칸다케</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_KANDAKE_OF_MEROE_DESCRIPTION" Language="ko_KR">
+      <Text>모든 특수지구에 [ICON_Production] 생산력 +20%를 제공합니다. 단, 누비아 피라미드가 도심부에 인접한 경우 +40%로 증가합니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_NUBIAN_PITATI_DESCRIPTION" Language="ko_KR">
+      <Text>궁수를 대체하는 누비아 특유의 고대 시대 유닛입니다. 궁수보다 강하며 추가 [ICON_Movement] 이동력이 제공됩니다. 석궁병으로 업그레이드됩니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_NUBIA_RANGED_EXPERIENCE_MODIFIER_DESCRIPTION" Language="ko_KR">
+      <Text>전투에서 경험치 +50% 획득. (타-세티)</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_NUBIAN_PITATI_NAME" Language="ko_KR">
+      <Text>피타티 궁수</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_PYRAMID_NAME" Language="pl_PL">
+      <Text>Nubijska piramida|Nubijskiej piramidy|Nubijskiej piramidzie|Nubijską piramidę|Nubijską piramidą|Nubijskiej piramidzie|nubijska piramida|nubijskiej piramidy|nubijskiej piramidzie|nubijską piramidę|nubijską piramidą|nubijskiej piramidzie</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_NUBIA_NAME" Language="pl_PL">
+      <Text>Nubia|Nubii|Nubii|Nubię|Nubią|Nubii|Nubia|Nubii|Nubii|Nubię|Nubią|Nubii</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_AMANITORE_NAME" Language="pl_PL">
+      <Text>Amanitore</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_TA_SETI_NAME" Language="pl_PL">
+      <Text>Ta-Seti</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_TA_SETI_DESCRIPTION" Language="pl_PL">
+      <Text>+50% do [ICON_Production] produkcji jednostek dystansowych. Wszystkie jednostki dystansowe otrzymują o +50% więcej doświadczenia bojowego. Kopalnie na zasobach strategicznych dają +1 do [ICON_Production] produkcji. Kopalnie na zasobach luksusowych dają +2 [ICON_Gold] złota.</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_PYRAMID_DESCRIPTION" Language="pl_PL">
+      <Text>Ulepszenie odblokowywane po wynalezieniu technologii murarstwa, mogące znajdować się jedynie na polu z pustynią, pustynią ze wzgórzami lub równiną zalewową. +1 do [ICON_Faith] wiary. Otrzymuje dodatkowe dochody z sąsiadujących dzielnic. +1 do [ICON_Food] żywności, jeśli sąsiaduje z centrum miasta. Jeśli sąsiadująca dzielnica zapewnia premię za sąsiedztwo, +1 do dochodów związanych z tą premią.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_KANDAKE_OF_MEROE_NAME" Language="pl_PL">
+      <Text>Kandake Meroe</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_KANDAKE_OF_MEROE_DESCRIPTION" Language="pl_PL">
+      <Text>+20% do [ICON_Production] produkcji do budowy wszystkich dzielnic. Premia wzrasta do +40%, gdy w sąsiedztwie centrum miasta znajduje się nubijska piramida.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_NUBIAN_PITATI_DESCRIPTION" Language="pl_PL">
+      <Text>Starożytna jednostka dostępna wyłącznie dla Nubii zastępująca łuczników. Silniejsza od łuczników i dysponująca dodatkowym punktem [ICON_Movement] ruchu. Ulepszana do kuszników.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_NUBIA_RANGED_EXPERIENCE_MODIFIER_DESCRIPTION" Language="pl_PL">
+      <Text>+50% więcej doświadczenia zdobywanego w walce. (Ta-Seti)</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_NUBIAN_PITATI_NAME" Language="pl_PL">
+      <Text>Łucznicy pitati|Łuczników pitati|Łucznikom pitati|Łuczników pitati|Łucznikami pitati|Łucznikach pitati|łucznicy pitati|łuczników pitati|łucznikom pitati|łuczników pitati|łucznikami pitati|łucznikach pitati</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_PYRAMID_NAME" Language="ru_RU">
+      <Text>Нубийская пирамида|нубийской пирамиды|нубийской пирамиде|нубийскую пирамиду|нубийской пирамидой|нубийской пирамиде</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_NUBIA_NAME" Language="ru_RU">
+      <Text>Нубия|Нубии|Нубии|Нубию|Нубией|Нубии</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_AMANITORE_NAME" Language="ru_RU">
+      <Text>Аманиторе|Аманиторе|Аманиторе|Аманиторе|Аманиторе|Аманиторе</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_TA_SETI_NAME" Language="ru_RU">
+      <Text>Та-сети</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_TA_SETI_DESCRIPTION" Language="ru_RU">
+      <Text>+50% [ICON_Production] производства при создании юнитов дальнего боя. Все дальнобойные юниты получают + 50% к боевому опыту. Рудники на стратегических ресурсах дают +1 [ICON_Production] продукции. Рудники на бонусных и редких ресурсах дают +2 [ICON_Gold] золота.</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_PYRAMID_DESCRIPTION" Language="ru_RU">
+      <Text>Улучшение, доступное после изучения каменной кладки. Можно построить только в пустыне, на холмах в пустыне или в пойме реки. +1 [ICON_Faith] веры. Дополнительные бонусы от соседних районов. +1 [ICON_Food] пищи, если граничит с центром города. Для остальных районов с бонусами за соседство: +1 ед. соответствующего ресурса при соседстве с районом.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_KANDAKE_OF_MEROE_NAME" Language="ru_RU">
+      <Text>Кандакия из Мероэ</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_KANDAKE_OF_MEROE_DESCRIPTION" Language="ru_RU">
+      <Text>+20% [ICON_Production] производства при строительстве всех районов; +40% – если по соседству с центром города находится нубийская пирамида.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_NUBIAN_PITATI_DESCRIPTION" Language="ru_RU">
+      <Text>Уникальный нубийский юнит Древнего мира, заменяющий лучников. Сильнее лучников, имеет больше очков [ICON_Movement] перемещения. Улучшается до арбалетчиков.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_NUBIA_RANGED_EXPERIENCE_MODIFIER_DESCRIPTION" Language="ru_RU">
+      <Text>+50% опыта в боях (Та-сети).</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_NUBIAN_PITATI_NAME" Language="ru_RU">
+      <Text>Лучники-питати|лучников-питати|лучникам-питати|лучников-питати|лучниками-питати|лучниках-питати</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_PYRAMID_NAME" Language="zh_Hans_CN">
+      <Text>努比亚金字塔</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_NUBIA_NAME" Language="zh_Hans_CN">
+      <Text>努比亚</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_AMANITORE_NAME" Language="zh_Hans_CN">
+      <Text>阿曼妮托尔</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_TA_SETI_NAME" Language="zh_Hans_CN">
+      <Text>塔赛提</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_TA_SETI_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>远程单位+50% [ICON_Production] 生产力。所有远程单位战斗经验值+50%。战略资源矿产+1 [ICON_Production] 生产力。加成和奢侈品资源矿产+2 [ICON_Gold] 金币。</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_PYRAMID_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>“砌砖”科技解锁的改良设施。必须建在沙漠、沙丘或泛滥平原上。+1 [ICON_Faith] 信仰值。可从相邻区域获得额外产出。如与市中心相邻，+1 [ICON_Food] 食物。如与其他任意提供相邻加成的区域相邻，对应产出+1。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_KANDAKE_OF_MEROE_NAME" Language="zh_Hans_CN">
+      <Text>麦罗埃的甘达刻</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_KANDAKE_OF_MEROE_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>如果努比亚金字塔临近市中心，所有区域+20% [ICON_Production] 生产力的加成提升至+40%。</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_NUBIAN_PITATI_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>努比亚特色远古时代单位，取代弓箭手。[ICON_Movement] 移动力大于弓箭手。升级为弩手。</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_NUBIA_RANGED_EXPERIENCE_MODIFIER_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>获得的战斗经验值+50%。（塔赛提）</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_NUBIAN_PITATI_NAME" Language="zh_Hans_CN">
+      <Text>皮塔提弓箭手</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_PYRAMID_NAME" Language="es_ES">
+      <Text>Pirámide nubia|Pirámides nubias</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_NUBIA_NAME" Language="es_ES">
+      <Text>Nubia</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_AMANITORE_NAME" Language="es_ES">
+      <Text>Amanitore</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_TA_SETI_NAME" Language="es_ES">
+      <Text>Ta-Seti</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_TA_SETI_DESCRIPTION" Language="es_ES">
+      <Text>+50% a la Producción [ICON_Production] para las unidades a distancia. Todas las unidades a distancia ganan un 50% a la experiencia de combate. Las Minas sobre recursos estratégicos otorgan +1 a la Producción [ICON_Production]. Las Minas sobre recursos de lujo y adicionales otorgan +2 [ICON_Gold] de Oro.</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_PYRAMID_DESCRIPTION" Language="es_ES">
+      <Text>Mejora que se desbloquea con la Mampostería y que debe construirse en un Desierto, Colinas del desierto o Terrenos de aluvión. +1 a la Fe [ICON_Faith]. Recibe rendimientos adicionales de los distritos adyacentes. +1 a Alimentos [ICON_Food] si está adyacente a un Centro urbano. Para el resto de distritos que ofrecen bonificaciones por adyacencia: +1 del rendimiento correspondiente si ese distrito está adyacente.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_KANDAKE_OF_MEROE_NAME" Language="es_ES">
+      <Text>Candace de Meroë</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_KANDAKE_OF_MEROE_DESCRIPTION" Language="es_ES">
+      <Text>+20% a la Producción [ICON_Production] para todos los distritos, que ascenderá a un +40% si hay una Pirámide nubia adyacente al Centro urbano.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_NUBIAN_PITATI_DESCRIPTION" Language="es_ES">
+      <Text>Unidad nubia exclusiva de la Antigüedad que reemplaza al Arquero. Con su Movimiento [ICON_Movement] extra, es más fuerte que el Arquero. Se mejora a Ballestero.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_NUBIA_RANGED_EXPERIENCE_MODIFIER_DESCRIPTION" Language="es_ES">
+      <Text>+50% a la experiencia ganada en combate (Ta-Seti).</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_NUBIAN_PITATI_NAME" Language="es_ES">
+      <Text>Arquero pítati|Arqueros pítatis</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_PYRAMID_NAME" Language="zh_Hant_HK">
+      <Text>努比亞金字塔</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_NUBIA_NAME" Language="zh_Hant_HK">
+      <Text>努比亞</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_AMANITORE_NAME" Language="zh_Hant_HK">
+      <Text>阿曼妮托爾</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_TA_SETI_NAME" Language="zh_Hant_HK">
+      <Text>塔賽提</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_TA_SETI_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>遠程單位+50% [ICON_Production] 生產力。所有遠程單位戰鬥經驗值+50%。戰略資源上的礦井改良設施+1 [ICON_Production] 生產力。加成和奢侈品資源上的礦井改良設施+2 [ICON_Gold] 金幣。</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_PYRAMID_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>隨著砌磚科技一同解鎖的改良設施，必須建在沙漠、沙漠丘陵或氾濫平原上。+1 [ICON_Faith] 信仰值。從相鄰區域獲得額外收益。如果鄰近市中心則+1 [ICON_Food] 食物。對於所有其他授予相鄰加成的區域：如果相鄰該區域，相應收益+1。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_KANDAKE_OF_MEROE_NAME" Language="zh_Hant_HK">
+      <Text>麥羅埃的甘達刻</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_KANDAKE_OF_MEROE_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>如果市中心附近建有努比亞金字塔，所有區域+20% [ICON_Production] 的生產力會提升至+40%。</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_NUBIAN_PITATI_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>努比亞遠古時代特色單位，取代弓箭手。[ICON_Movement] 移動力多於弓箭手。能升級為弩手。</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_NUBIA_RANGED_EXPERIENCE_MODIFIER_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>從戰鬥獲得的經驗值+50%。（塔賽提）</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_NUBIAN_PITATI_NAME" Language="zh_Hant_HK">
+      <Text>皮塔提弓箭手</Text>
+    </Replace>
+  </LocalizedText>
+</GameData>

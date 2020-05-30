@@ -1,0 +1,1306 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Anton Strenger (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+		<!--Moments-->
+		<Replace Language='en_US' Tag="LOC_MOMENT_ARTIFACT_EXTRACTED">
+			<Text>Cổ vật được Khai quật</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_ARTIFACT_EXTRACTED_DESCRIPTION">
+			<Text>Một cổ vật đã được phát hiện, cho chúng ta cái nhìn sâu sắc về quá khứ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_ARTIFACT_EXTRACTED_INSTANCE_DESCRIPTION">
+			<Text>Khi bụi bẩn được làm sạch, {GreatWorkName} nhìn thấy ánh sáng mặt trời sau hàng thế kỷ. Nó sẽ làm duyên dáng cho các nhà bảo tàng của {ActingPlayerCivName} trong nhiều năm tới nữa.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_BARBARIAN_CAMP_DESTROYED">
+			<Text>Trại Man di bị Phá hủy</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_BARBARIAN_CAMP_DESTROYED_DESCRIPTION">
+			<Text>Một trại man di thù địch đã được san phẳng bằng một đơn vị, hòa bình được lan rộng khắp khu vực.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_BARBARIAN_CAMP_DESTROYED_INSTANCE_DESCRIPTION">
+			<Text>Lực lượng của chúng ta dọn sạch một trại man di, và một mối đe dọa đang phát triển đối với nền văn minh của chúng ta đã bị đánh bại.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_BARBARIAN_CAMP_DESTROYED_NEAR_YOUR_CITY">
+			<Text>Phá hủy Mối Đe dọa từ Trại</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_BARBARIAN_CAMP_DESTROYED_NEAR_YOUR_CITY_DESCRIPTION">
+			<Text>Một trại man di thù địch trong vòng 6 ô của một trong các thành phố của bạn đã bị phá hủy bởi một đơn vị.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_BARBARIAN_CAMP_DESTROYED_NEAR_YOUR_CITY_INSTANCE_DESCRIPTION">
+			<Text>Sự nguy hiểm đang trên ngưỡng cửa của {CityName} đã bị đánh bại! Những người man di đã tháo chạy.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_BATTLE_FOUGHT">
+			<Text>Chiến đấu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_BATTLE_FOUGHT_DESCRIPTION">
+			<Text>Một cuộc chiến đang diễn ra giữa kẻ thù. Bởi hệ thống Khảo cổ học để tạo ra nguồn tài nguyên từ [ICON_RESOURCE_ANTIQUITY_SITE] Di chỉ Khảo cổ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_BELIEF_ADDED_MAX_BELIEFS_REACHED">
+			<Text>Tôn giáo Chấp nhận Tất cả các Tín ngưỡng</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_BELIEF_ADDED_MAX_BELIEFS_REACHED_DESCRIPTION">
+			<Text>Tôn giáo của bạn cuối cùng đã thêm Tín ngưỡng và bây giờ đã hoàn tất.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_BELIEF_ADDED_MAX_BELIEFS_REACHED_INSTANCE_DESCRIPTION">
+			<Text>Các Nhà Thần học làm sáng tỏ giáo lý của {ReligionName} và Tín ngưỡng của nó.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_BELIEF_ADDED_MAX_BELIEFS_REACHED_FIRST_IN_WORLD">
+			<Text>Tôn giáo Đầu tiên của Thế giới Chấp nhận Tất cả các Tín ngưỡng</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_BELIEF_ADDED_MAX_BELIEFS_REACHED_FIRST_IN_WORLD_DESCRIPTION">
+			<Text>Tôn giáo của bạn là tôn giáo đầu tiên trên thế giới thêm Tín ngưỡng và bây giờ đã hoàn tất.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_BELIEF_ADDED_MAX_BELIEFS_REACHED_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>Các lập luận của các Nhà Thần học của {ReligionName} ghi vào các cuốn sách lớn, và nó trở thành Tôn giáo đầu tiên để làm sáng tỏ những Tín ngưỡng đó.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_BUILDING_CONSTRUCTED_FIRST_UNIQUE">
+			<Text>Công trình Đặc trưng được Xây dựng</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_BUILDING_CONSTRUCTED_FIRST_UNIQUE_DESCRIPTION">
+			<Text>Lần đầu tiên bạn hoàn thành công trình đặc trưng này.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_BUILDING_CONSTRUCTED_FIRST_UNIQUE_INSTANCE_DESCRIPTION">
+			<Text>Người dân của chúng tôi tự hào về {BuildingType}, phản ánh các giá trị và ưu thế của chúng tôi.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_BUILDING_CONSTRUCTED_GAME_ERA_WONDER">
+			<Text>Kỳ Quan Thế giới đã Hoàn thành</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_BUILDING_CONSTRUCTED_GAME_ERA_WONDER_DESCRIPTION">
+			<Text>Một kỳ quan thế giới đã hoàn thành, cho thấy sự vĩ đại của chúng ta đối với các nền văn minh khác.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_BUILDING_CONSTRUCTED_GAME_ERA_WONDER_INSTANCE_DESCRIPTION">
+			<Text>Đứng trong {BuildingType}, các công dân của {CityName} đầy tôn kính.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_BUILDING_CONSTRUCTED_PAST_ERA_WONDER">
+			<Text>Kỳ Quan Thế giới Cổ đã Hoàn thành</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_BUILDING_CONSTRUCTED_PAST_ERA_WONDER_DESCRIPTION">
+			<Text>Một kỳ quan thế giới đã hoàn thành. Mặc dù nó thuộc về một thời đại đã qua, nó vẫn cho thấy sự vĩ đại của chúng ta đối với các nền văn minh khác.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_BUILDING_CONSTRUCTED_PAST_ERA_WONDER_INSTANCE_DESCRIPTION">
+			<Text>Đứng trong {BuildingType}, các công dân của {CityName} nhớ lại quá khứ vinh quang của họ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_BUILT_BECAME_LARGEST_CIV_BY_MARGIN">
+			<Text>Nền Văn minh Lớn nhất Thế giới</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_BUILT_BECAME_LARGEST_CIV_BY_MARGIN_DESCRIPTION">
+			<Text>Nền Văn minh của bạn đã trở thành lớn nhất trên thế giới, với ít nhất 3 thành phố hơn so với người chơi khác.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_BUILT_BECAME_LARGEST_CIV_BY_MARGIN_INSTANCE_DESCRIPTION">
+			<Text>{CityName} là thành phố mới nhất trong đế chế rải rác của chúng tôi, và các nền văn minh khác kinh ngạc khi nhìn vào.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_BUILT_NEAR_NATURAL_WONDER">
+			<Text>Thành phố của lòng Tôn kính</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_BUILT_NEAR_NATURAL_WONDER_DESCRIPTION">
+			<Text>Một thành phố được đặt trong 2 ô của kỳ quan thiên nhiên.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_BUILT_NEAR_NATURAL_WONDER_INSTANCE_DESCRIPTION">
+			<Text>Cảnh tượng đầy cảm hứng của {FeatureType} làm cho các công dân của chúng tôi trong thành phố mới {CityName} rất vui mừng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_BUILT_NEAR_OTHER_CIV_CITY">
+			<Text>Vị trí Thành phố Hiếu chiến</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_BUILT_NEAR_OTHER_CIV_CITY_DESCRIPTION">
+			<Text>Một thành phố được đặt trong 5 ô của thành phố của nền văn minh khác.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_BUILT_NEAR_OTHER_CIV_CITY_INSTANCE_DESCRIPTION">
+			<Text>Các quan chức của {TargetPlayerCivName} khơi mào sự dũng cảm của chúng tôi khi đặt {CityName} nằm gần thành phố {OtherCityName} của họ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_BUILT_NEW_CONTINENT">
+			<Text>Thành phố trên Lục địa Mới</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_BUILT_NEW_CONTINENT_DESCRIPTION">
+			<Text>Một thành phố được đặt trên lục địa mà bạn chưa thuộc địa nó.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_BUILT_NEW_CONTINENT_INSTANCE_DESCRIPTION">
+			<Text>{CityName} trở thành thuộc địa đầu tiên trên {ContinentName}!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_BUILT_ON_DESERT">
+			<Text>Thành phố Sa mạc</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_BUILT_ON_DESERT_DESCRIPTION">
+			<Text>Một thành phố được thiết lập trên địa hình Sa mạc đầy khó khăn, mở rộng phạm vi của bạn vào nơi hoang dã.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_BUILT_ON_DESERT_INSTANCE_DESCRIPTION">
+			<Text>Du khách phàn nàn về nhiệt độ của {CityName}, nhưng ít nhất đó chỉ là nhiệt độ hanh khô.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_BUILT_ON_SNOW">
+			<Text>Thành phố Tuyết</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_BUILT_ON_SNOW_DESCRIPTION">
+			<Text>Một thành phố được thiết lập trên địa hình Tuyết đầy khó khăn, mở rộng phạm vi của bạn vào nơi hoang dã.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_BUILT_ON_SNOW_INSTANCE_DESCRIPTION">
+			<Text>Các công dân của {CityName} đồng thanh hô lên "tuyết".</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_BUILT_ON_TUNDRA">
+			<Text>Thành phố Lãnh nguyên</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_BUILT_ON_TUNDRA_DESCRIPTION">
+			<Text>Một thành phố được thiết lập trên địa hình Lãnh nguyên đầy khó khăn, mở rộng phạm vi của bạn vào nơi hoang dã.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_BUILT_ON_TUNDRA_INSTANCE_DESCRIPTION">
+			<Text>Các công dân của {CityName} tự hào về vẻ đẹp khắc nghiệt của đất nước và sự cứng rắn của chính họ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_CHANGED_RELIGION_ENEMY_CITY_DURING_WAR">
+			<Text>Thành phố Kẻ địch Chấp nhận Tôn giáo của Chúng ta</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_CHANGED_RELIGION_ENEMY_CITY_DURING_WAR_DESCRIPTION">
+			<Text>Thành phố của kẻ thù, bất chấp đang chiến tranh, đã nhìn thấy ánh sáng và chấp nhận Tôn giáo của chúng ta.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_CHANGED_RELIGION_ENEMY_CITY_DURING_WAR_INSTANCE_DESCRIPTION">
+			<Text>Thiên đàng đã mở mang con mắt của người dân {CityName}, và họ gia nhập các tín đồ trung thành của {ReligionName}, ngay cả khi đang chiến đấu với {ActingPlayerCivName}.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_CHANGED_RELIGION_OTHER_HOLY_CITY">
+			<Text>Khu Tôn giáo Kẻ địch được Chuyển đổi</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_CHANGED_RELIGION_OTHER_HOLY_CITY_DESCRIPTION">
+			<Text>Khu Tôn giáo của một tôn giáo khác đã chuyển đổi sang Tôn giáo của chúng ta.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_CHANGED_RELIGION_OTHER_HOLY_CITY_INSTANCE_DESCRIPTION">
+			<Text>{CityName} đã từng là cái nôi của {OldReligionName}, nhưng bây giờ là tín hữu trung thành trong các đền thờ của {ReligionName}.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_SIZE_LARGE_FIRST">
+			<Text>Thành phố Vĩ đại Đầu tiên</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_SIZE_LARGE_FIRST_DESCRIPTION">
+			<Text>Thành phố đã đạt đến 20 [ICON_Citizen] Dân số đầu tiên trong nền văn minh của bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_SIZE_LARGE_FIRST_INSTANCE_DESCRIPTION">
+			<Text>Nghịch lý, các công dân của {CityName} cả hai đều vô cùng tự hào về quy mô thành phố của họ, và chưa bao giờ ngừng phàn nàn về mức độ đông đúc mà nó có được.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_SIZE_LARGE_FIRST_IN_WORLD">
+			<Text>Thành phố Vĩ đại Đầu tiên của Thế giới</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_SIZE_LARGE_FIRST_IN_WORLD_DESCRIPTION">
+			<Text>Thành phố đã đạt đến 20 [ICON_Citizen] Dân số đầu tiên trên thế giới.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_SIZE_LARGE_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>Họ nói rằng bạn đã không sống cho đến khi bạn nhìn thấy các đám đông ở {CityName} đang đi bộ các đại lộ của mình, và là quang cảnh thành phố lớn nhất của nhân loại.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_SIZE_MEDIUM_FIRST">
+			<Text>Thành phố Khổng lồ Đầu tiên</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_SIZE_MEDIUM_FIRST_DESCRIPTION">
+			<Text>Thành phố đã đạt đến 15 [ICON_Citizen] Dân số đầu tiên trong nền văn minh của bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_SIZE_MEDIUM_FIRST_INSTANCE_DESCRIPTION">
+			<Text>{CityName} mở rộng hơn nữa, và trở thành thành phố lớn nhất của người dân của chúng tôi.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_SIZE_MEDIUM_FIRST_IN_WORLD">
+			<Text>Thành phố Khổng lồ Đầu tiên của Thế giới</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_SIZE_MEDIUM_FIRST_IN_WORLD_DESCRIPTION">
+			<Text>Thành phố đã đạt đến 15 [ICON_Citizen] Dân số đầu tiên trên thế giới.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_SIZE_MEDIUM_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>Các cư dân của {CityName} khoe khoang về cuộc sống ở thành phố lớn nhất và sành điệu nhất thế giới.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_SIZE_SMALL_FIRST">
+			<Text>Thành phố Rộng lớn Đầu tiên</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_SIZE_SMALL_FIRST_DESCRIPTION">
+			<Text>Thành phố đã đạt đến 10 [ICON_Citizen] Dân số đầu tiên trong nền văn minh của bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_SIZE_SMALL_FIRST_INSTANCE_DESCRIPTION">
+			<Text>{CityName} phát triển và người dân tự hào về cuộc sống đô thị thịnh vượng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_SIZE_SMALL_FIRST_IN_WORLD">
+			<Text>Thành phố Rộng lớn Đầu tiên của Thế giới</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_SIZE_SMALL_FIRST_IN_WORLD_DESCRIPTION">
+			<Text>Thành phố đã đạt đến 10 [ICON_Citizen] Dân số đầu tiên trên thế giới.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_SIZE_SMALL_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>Du khách kính sợ khi nói về {CityName}, thành phố rộng lớn nhất trên thế giới. Làm thế nào để người dân sống cùng nhau trong hòa bình?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_TRANSFERRED_DISLOYAL_FOREIGN_CITY">
+			<Text>Thành phố Nước ngoài Gia nhập</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_TRANSFERRED_DISLOYAL_FOREIGN_CITY_DESCRIPTION">
+			<Text>Một Thành phố Nước ngoài đã quyết định cam kết lòng trung thành với chúng tôi, gia nhập vào đế chế của chúng tôi.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_TRANSFERRED_DISLOYAL_FOREIGN_CITY_INSTANCE_DESCRIPTION">
+			<Text>Người dân của {CityName} không còn cảm thấy mình là một phần của {TargetPlayerCivName} nữa, và đồng ý gia nhập vào nền văn minh của chúng tôi.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_TRANSFERRED_DISLOYAL_FREE_CITY">
+			<Text>Thành phố Tự do Gia nhập</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_TRANSFERRED_DISLOYAL_FREE_CITY_DESCRIPTION">
+			<Text>Một Thành phố Tự do đã quyết định cam kết lòng trung thành với chúng tôi, gia nhập vào đế chế của chúng tôi.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_TRANSFERRED_DISLOYAL_FREE_CITY_INSTANCE_DESCRIPTION">
+			<Text>Các Công dân của {CityName} cảm thấy mối quan hệ với chúng tôi, và sẵn sàng bước vào nền văn minh của chúng tôi.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_TRANSFERRED_FOREIGN_CAPITAL">
+			<Text>Thủ đô Nước ngoài Chiếm được</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_TRANSFERRED_FOREIGN_CAPITAL_DESCRIPTION">
+			<Text>Bạn đã nắm quyền kiểm soát thành phố thủ đô của nước ngoài.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_TRANSFERRED_FOREIGN_CAPITAL_INSTANCE_DESCRIPTION">
+			<Text>{CityName}, thủ đô cũ của {TargetPlayerCivName}, hiện là một phần trong nền văn minh của chúng tôi!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_TRANSFERRED_PLAYER_DEFEATED">
+			<Text>Thành phố Nước ngoài Cuối cùng Chiếm được </Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_TRANSFERRED_PLAYER_DEFEATED_DESCRIPTION">
+			<Text>Bạn đã kiểm soát được thành phố cuối cùng của một nền văn minh.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_TRANSFERRED_PLAYER_DEFEATED_INSTANCE_DESCRIPTION">
+			<Text>{TargetPlayerCivName} sẽ không còn là thử thách của bạn nữa.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_TRANSFERRED_TO_ORIGINAL_OWNER">
+			<Text>Thành phố Trở về Người sở hữu Ban đầu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_TRANSFERRED_TO_ORIGINAL_OWNER_DESCRIPTION">
+			<Text>Một thành phố đã trở lại với người sở hữu ban đầu.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_TRANSFERRED_TO_ORIGINAL_OWNER_INSTANCE_DESCRIPTION">
+			<Text>{CityName} trở về {ActingPlayerCivName} một lần nữa!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CIVIC_CULTURVATED_IN_ERA_FIRST">
+			<Text>Công dân Đầu tiên của Thời đại Mới</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CIVIC_CULTURVATED_IN_ERA_FIRST_DESCRIPTION">
+			<Text>Bạn đã hoàn thành đầu tiên công dân của nền văn minh khi tìm ra một thời đại mới.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CIVIC_CULTURVATED_IN_ERA_FIRST_INSTANCE_DESCRIPTION">
+			<Text>Hãy để người khác nói những gì họ sẽ làm, nhưng sự phát triển thực sự của {PlayerEraType} văn hóa bắt đầu với sự gia tăng của {CivicType} trong {ActingPlayerCivName}.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CIVIC_CULTURVATED_IN_ERA_FIRST_IN_WORLD">
+			<Text>Công dân Đầu tiên của Thế giới của Thời đại Mới</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CIVIC_CULTURVATED_IN_ERA_FIRST_IN_WORLD_DESCRIPTION">
+			<Text>Bạn đã hoàn thành công dân đầu tiên của thế giới khi tìm ra một thời đại mới.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CIVIC_CULTURVATED_IN_ERA_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>Biểu hiện của {CivicType} của chúng tôi sẽ xác định tương lai của nhân loại trong {PlayerEraType}!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_DISTRICT_CONSTRUCTED_FIRST_UNIQUE">
+			<Text>Quận Đặc trưng đã Hoàn thành</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_DISTRICT_CONSTRUCTED_FIRST_UNIQUE_DESCRIPTION">
+			<Text>Bạn đã hoàn thành quận đặc trưng này lần đầu tiên.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_DISTRICT_CONSTRUCTED_FIRST_UNIQUE_INSTANCE_DESCRIPTION">
+			<Text>{DistrictType} không phải là tai nạn, mà là kết quả của thiên tài độc nhất của nngười dân ta.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_DISTRICT_CONSTRUCTED_HIGH_ADJACENCY_CAMPUS">
+			<Text>Khu Tri thức Tráng lệ đã Hoàn Thành</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_DISTRICT_CONSTRUCTED_HIGH_ADJACENCY_CAMPUS_DESCRIPTION">
+			<Text>Bạn đã hoàn thành Khu Tri thức đầu tiên của nền văn minh và bắt đầu thưởng 3 [ICON_Science] Khoa học hoặc cao hơn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_DISTRICT_CONSTRUCTED_HIGH_ADJACENCY_CAMPUS_INSTANCE_DESCRIPTION">
+			<Text>Bốn người rảo bước và lững thững ngoài lớp học của Khu Tri thức nằm gần {CityName}, bạn có thể nghe các học giả tranh luận về những ý tưởng sẽ thay đổi thế giới.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_DISTRICT_CONSTRUCTED_HIGH_ADJACENCY_COMMERCIAL_HUB">
+			<Text>Khu Thương mại Tráng lệ đã Hoàn thành</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_DISTRICT_CONSTRUCTED_HIGH_ADJACENCY_COMMERCIAL_HUB_DESCRIPTION">
+			<Text>Bạn đã hoàn thành Khu Thương mại Đầu tiên của nền văn minh và bắt đầu thưởng 4 [ICON_Gold] Vàng hoặc cao hơn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_DISTRICT_CONSTRUCTED_HIGH_ADJACENCY_COMMERCIAL_HUB_INSTANCE_DESCRIPTION">
+			<Text>Họ nói rằng mọi người bị thu hút vào Khu Thương mại của {CityName} vì sự hào hứng mua và bán trên thị trường. Nhưng tiền rất là tốt.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_DISTRICT_CONSTRUCTED_HIGH_ADJACENCY_HARBOR">
+			<Text>Khu Cảng Tráng lệ đã Hoàn thành</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_DISTRICT_CONSTRUCTED_HIGH_ADJACENCY_HARBOR_DESCRIPTION">
+			<Text>Bạn đã hoàn thành Khu cảng đầu tiên của nền văn minh và bắt đầu thưởng 4 [ICON_Gold] Vàng hoặc cao hơn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_DISTRICT_CONSTRUCTED_HIGH_ADJACENCY_HARBOR_INSTANCE_DESCRIPTION">
+			<Text>Những thủy thủ và thợ lặn thường la hét và hát trên những chiếc xe buýt dọc theo những bến tàu nhộn nhịp trong Khu cảng của {CityName}.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_DISTRICT_CONSTRUCTED_HIGH_ADJACENCY_HOLY_SITE">
+			<Text>Khu Tôn giáo Tráng lệ đã Hoàn thành</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_DISTRICT_CONSTRUCTED_HIGH_ADJACENCY_HOLY_SITE_DESCRIPTION">
+			<Text>Bạn đã hoàn thành Khu Tôn giáo đầu tiên của nền văn minh và bắt đầu thưởng 3 [ICON_Faith] Tôn giáo hoặc cao hơn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_DISTRICT_CONSTRUCTED_HIGH_ADJACENCY_HOLY_SITE_INSTANCE_DESCRIPTION">
+			<Text>Hợp âm và cầu kinh, lời tán dương và biểu tượng, Khu Tôn giáo của {CityName} mang người thờ phượng và người hành hương vào chiêm bái những vấn đề cao siêu.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_DISTRICT_CONSTRUCTED_HIGH_ADJACENCY_INDUSTRIAL_ZONE">
+			<Text>Khu Công nghiệp Huy hoàng đã Hoàn thành</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_DISTRICT_CONSTRUCTED_HIGH_ADJACENCY_INDUSTRIAL_ZONE_DESCRIPTION">
+			<Text>Bạn đã hoàn thành Khu Công nghiệp đầu tiên của nền văn minh và bắt đầu thưởng 4 [ICON_Production] Sản xuất hoặc cao hơn. </Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_DISTRICT_CONSTRUCTED_HIGH_ADJACENCY_INDUSTRIAL_ZONE_INSTANCE_DESCRIPTION">
+			<Text>Tiếng còi báo hiệu khởi đầu của một sự thay đổi mới, và các công nhân từ {CityName} đổ vào Khu Công nghiệp, sẵn sàng một ngày làm việc thuận lợi.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_DISTRICT_CONSTRUCTED_HIGH_ADJACENCY_THEATER_SQUARE">
+			<Text>Khu Nghệ thuật Tráng lệ đã Hoàn thành</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_DISTRICT_CONSTRUCTED_HIGH_ADJACENCY_THEATER_SQUARE_DESCRIPTION">
+			<Text>Bạn đã hoàn thành Khu Nghệ thuật đầu tiên của nền văn minh và bắt đầu thưởng 3 [ICON_Culture] Văn hóa hoặc cao hơn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_DISTRICT_CONSTRUCTED_HIGH_ADJACENCY_THEATER_SQUARE_INSTANCE_DESCRIPTION">
+			<Text>Những bài hát tuyệt vời, những lời đầy cảm hứng. Các nghệ sỹ, nhà thơ, và nhà viết kịch của {CityName} đều tản bộ trên đường phố ở Khu Nghệ thuật của chúng tôi.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_DISTRICT_CONSTRUCTED_NEIGHBORHOOD_FIRST">
+			<Text>Lân cận Đầu tiên đã Hoàn thành</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_DISTRICT_CONSTRUCTED_NEIGHBORHOOD_FIRST_DESCRIPTION">
+			<Text>Bạn đã hoàn thành quận Lân cận đầu tiên của nền văn minh.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_DISTRICT_CONSTRUCTED_NEIGHBORHOOD_FIRST_INSTANCE_DESCRIPTION">
+			<Text>Các Công dân của {CityName} là người đầu tiên khám phá rằng điều tốt nhất là sống trong {CityName} đang sống ở một nơi sạch sẽ hơn ở bên ngoài kia.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_DISTRICT_CONSTRUCTED_NEIGHBORHOOD_FIRST_IN_WORLD">
+			<Text>Lân cận Đầu tiên của Thế giới</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_DISTRICT_CONSTRUCTED_NEIGHBORHOOD_FIRST_IN_WORLD_DESCRIPTION">
+			<Text>Bạn đã hoàn thành quận Lân cận đầu tiên của thế giới.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_DISTRICT_CONSTRUCTED_NEIGHBORHOOD_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>Các Công dân của {CityName} là những người đầu tiên trên thế giới khám phá ra rằng điều tốt nhất là sống trong {CityName} đang sống ở một nơi sạch sẽ hơn ở bên ngoài kia.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_EMERGENCY_WON_AS_MEMBER">
+			<Text>Khẩn cấp Hoàn thành Thành công</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_EMERGENCY_WON_AS_MEMBER_DESCRIPTION">
+			<Text>Là thành viên, bạn đã thành công trong trường hợp Khẩn cấp này.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_EMERGENCY_WON_AS_MEMBER_INSTANCE_DESCRIPTION">
+			<Text>{EmergencyType} với {TargetPlayerCivName} đã kết thúc, và chúng ta trỗi dậy vì thắng lợi. Nhưng tương lai sẽ ra sao?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_EMERGENCY_WON_AS_TARGET">
+			<Text>Phòng vệ Khẩn cấp Thành công</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_EMERGENCY_WON_AS_TARGET_DESCRIPTION">
+			<Text>Là mục tiêu, bạn đã thành công trong việc chống lại một Khẩn cấp đối đầu với bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_EMERGENCY_WON_AS_TARGET_INSTANCE_DESCRIPTION">
+			<Text>Quân đội của các nền văn minh đố kỵ không ngăn chặn được người dân ta! {EmergencyType} tan rã trong sự khiển trách và đổ lỗi cho nhau.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_FIND_NATURAL_WONDER_FIRST_IN_WORLD">
+			<Text>Phát hiện Kỳ quan Tự nhiên Đầu tiên</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_FIND_NATURAL_WONDER_FIRST_IN_WORLD_DESCRIPTION">
+			<Text>Các nhà thám hiểm trong nền văn minh của chúng tôi là những người đầu tiên trên thế giới nhìn thấy kỳ quan tự nhiên này.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_FIND_NATURAL_WONDER_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>Các nhà thám hiểm của {ActingPlayerCivName} là người đầu tiên từ một nền văn minh lớn để mắt vào {FeatureType}!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_FIND_NEW_CONTINENT_FIRST_IN_WORLD">
+			<Text>Phát hiện Lục địa Mới Đầu tiên</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_FIND_NEW_CONTINENT_FIRST_IN_WORLD_DESCRIPTION">
+			<Text>Các nhà thám hiểm trong nên văn minh của chúng tôi là những người đầu tiên trên thế giới tìm thấy lục địa này.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_FIND_NEW_CONTINENT_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>Các nhà thám hiểm của {ActingPlayerCivName} là người đầu tiên từ một nền văn minh lớn đặt chân vào lục địa của {ContinentName}!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_FORMATION_ARMADA_FIRST">
+			<Text>Hạm đội Đầu tiên</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_FORMATION_ARMADA_FIRST_DESCRIPTION">
+			<Text>Hạm đội đầu tiên trong nền văn minh của bạn được hình thành.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_FORMATION_ARMADA_FIRST_INSTANCE_DESCRIPTION">
+			<Text>Từ bàn giấy của {UnitType}, người ta có thể nhìn thấy Hạm đội đầu tiên của chúng tôi trải dài ra xa, mỗi chiếc mang lá cờ của nền văn minh của chúng tôi.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_FORMATION_ARMADA_FIRST_IN_WORLD">
+			<Text>Hạm đội Đầu tiên của Thế giới</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_FORMATION_ARMADA_FIRST_IN_WORLD_DESCRIPTION">
+			<Text>Hạm đội đầu tiên của thế giới được hình thành, dưới sự chỉ huy của bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_FORMATION_ARMADA_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>Sức mạnh to lớn của Hạm đội đầu tiên trên thế giới đã sẵn sàng để đi đến mọi nơi trên biển cả theo lệnh của chúng tôi!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_FORMATION_ARMY_FIRST">
+			<Text>Quân đội Đầu tiên</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_FORMATION_ARMY_FIRST_DESCRIPTION">
+			<Text>Quân đội đầu tiên trong nền văn minh của bạn được hình thành.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_FORMATION_ARMY_FIRST_INSTANCE_DESCRIPTION">
+			<Text>Các lực lượng trong cuộc diễu hành Quân đội đầu tiên của chúng tôi như một cuộc rảo bước không tưởng!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_FORMATION_ARMY_FIRST_IN_WORLD">
+			<Text>Quân đội Đầu tiên của Thế giới</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_FORMATION_ARMY_FIRST_IN_WORLD_DESCRIPTION">
+			<Text>Quân đội đầu tiên của thế giới được hình thành, dưới sự chỉ huy của bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_FORMATION_ARMY_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>Thế giới chưa bao giờ nhìn thấy Quân đội của chúng tôi như {UnitType}! Sức mạnh của chúng tôi không thể sánh kịp.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_FORMATION_CORPS_FIRST">
+			<Text>Quân Đoàn Đầu tiên</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_FORMATION_CORPS_FIRST_DESCRIPTION">
+			<Text>Quân đoàn đầu tiên trong nền văn minh của bạn được hình thành.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_FORMATION_CORPS_FIRST_INSTANCE_DESCRIPTION">
+			<Text>Hùng mạnh hơn một đơn vị riêng lẻ, Quân đoàn đầu tiên của chúng tôi sẵn sàng bảo vệ nền văn minh.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_FORMATION_CORPS_FIRST_IN_WORLD">
+			<Text>Quân Đoàn Đầu tiên của Thế giới</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_FORMATION_CORPS_FIRST_IN_WORLD_DESCRIPTION">
+			<Text>Quân đoàn đầu tiên của thế giới được hình thành, dưới sự chỉ huy của bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_FORMATION_CORPS_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>Các nhân viên của chúng tôi báo cáo rằng Quân Đoàn đầu tiên trên thế giới đã sẵn sàng hành động!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_FORMATION_FLEET_FIRST">
+			<Text>Hạm đội Đầu tiên</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_FORMATION_FLEET_FIRST_DESCRIPTION">
+			<Text>Hạm đội đầu tiên trong nền văn minh của bạn được hình thành.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_FORMATION_FLEET_FIRST_INSTANCE_DESCRIPTION">
+			<Text>Tất cả chào cờ ăn mừng khi Hạm đội đầu tiên của chúng tôi được lắp ráp!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_FORMATION_FLEET_FIRST_IN_WORLD">
+			<Text>Hạm đội Đầu tiên của thế giới</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_FORMATION_FLEET_FIRST_IN_WORLD_DESCRIPTION">
+			<Text>Hạm đội đầu tiên của thế giới được hình thành, dưới sự chỉ huy của bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_FORMATION_FLEET_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>Các thuyền trưởng đều báo cáo các tàu của họ đã sẵn sàng nhổ neo, vì Hạm đội đầu tiên trên thế giới đã sẵn sàng hành động!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_GAME_ERA_STARTED_WITH_DARK_AGE">
+			<Text>Thời Đen tối Bắt đầu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_GAME_ERA_STARTED_WITH_DARK_AGE_DESCRIPTION">
+			<Text>Trò chơi đi vào một thời đại mới, và nền văn minh của bạn có những thách thức cần vượt qua trong Thời Đen tối.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_GAME_ERA_STARTED_WITH_DARK_AGE_INSTANCE_DESCRIPTION">
+			<Text>Trò chơi đi vào {PlayerEraType}, và nền văn minh của bạn có những thách thức cần vượt qua trong Thời Đen tối.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_GAME_ERA_STARTED_WITH_GOLDEN_AGE">
+			<Text>Golden Age Bắt đầu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_GAME_ERA_STARTED_WITH_GOLDEN_AGE_DESCRIPTION">
+			<Text>Trò chơi đi vào một thời đại mới, và nền văn minh của bạn đã giành được Thời Vàng son.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_GAME_ERA_STARTED_WITH_GOLDEN_AGE_INSTANCE_DESCRIPTION">
+			<Text>Trò chơi đi vào {PlayerEraType}, và nền văn minh của bạn đã giành được Thời Vàng son.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_GAME_ERA_STARTED_WITH_HEROIC_AGE">
+			<Text>Thời Anh hùng Bắt đầu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_GAME_ERA_STARTED_WITH_HEROIC_AGE_DESCRIPTION">
+			<Text>Trò chơi đi vào một thời đại mới, và nền văn minh của bạn đã giành được Thời Anh hùng sau khi vượt qua những thách thức trong quá khứ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_GAME_ERA_STARTED_WITH_HEROIC_AGE_INSTANCE_DESCRIPTION">
+			<Text>Trò chơi đi vào {PlayerEraType}, và nền văn minh của bạn đã giành được Thời Anh hùng sau khi vượt qua những thách thức trong quá khứ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_GAME_ERA_STARTED_WITH_NORMAL_AGE">
+			<Text>Thời Thông thường Bắt đầu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_GAME_ERA_STARTED_WITH_NORMAL_AGE_DESCRIPTION">
+			<Text>Trò chơi đi vào một thời đại mới, và bạn đã tránh được Thời Đen tối.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_GAME_ERA_STARTED_WITH_NORMAL_AGE_INSTANCE_DESCRIPTION">
+			<Text>Trò chơi đi vào {PlayerEraType}, và bạn đã tránh được Thời Đen tối.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_GOODY_HUT_TRIGGERED">
+			<Text>Tiếp xúc Dân làng Bộ lạc</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_GOODY_HUT_TRIGGERED_DESCRIPTION">
+			<Text>Đã tiếp xúc với Dân làng Bộ lạc, tạo sức mạnh cho các thành phố đang nảy nở của chúng tôi.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_GOODY_HUT_TRIGGERED_INSTANCE_DESCRIPTION">
+			<Text>Dân làng mang theo quà tặng khi họ gia nhập vào nền văn minh của chúng tôi.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_GOVERNMENT_ENACTED_TIER_1_FIRST">
+			<Text>Chính phủ Cấp 1 Đầu tiên</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_GOVERNMENT_ENACTED_TIER_1_FIRST_DESCRIPTION">
+			<Text>Nền văn minh của bạn thông qua Chính phủ Cấp 1 đầu tiên.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_GOVERNMENT_ENACTED_TIER_1_FIRST_INSTANCE_DESCRIPTION">
+			<Text>{ActingPlayerCivName} thông qua chính phủ {GovernmentType}, dẫn dắt một thời kỳ chính trị mới cho các công dân.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_GOVERNMENT_ENACTED_TIER_1_FIRST_IN_WORLD">
+			<Text>Chính phủ Cấp 1 Đầu tiên trên Thế giới</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_GOVERNMENT_ENACTED_TIER_1_FIRST_IN_WORLD_DESCRIPTION">
+			<Text>Nền văn minh của bạn thông qua Chính phủ Cấp 1 đầu tiên trên thế giới.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_GOVERNMENT_ENACTED_TIER_1_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>Người dân của {ActingPlayerCivName} thông qua chính phủ {GovernmentType}, sự tổng hợp tuyệt vời của triết lý chính trị của họ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_GOVERNMENT_ENACTED_TIER_2_FIRST">
+			<Text>Chính phủ Cấp 2 Đầu tiên</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_GOVERNMENT_ENACTED_TIER_2_FIRST_DESCRIPTION">
+			<Text>Nền văn minh của bạn thông qua Chính phủ Cấp 2 đầu tiên.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_GOVERNMENT_ENACTED_TIER_2_FIRST_INSTANCE_DESCRIPTION">
+			<Text>Truyền thống cai trị đang phát triển, và {ActingPlayerLeaderName} chọn {Government Type} làm phương thức mới để cai trị.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_GOVERNMENT_ENACTED_TIER_2_FIRST_IN_WORLD">
+			<Text>Chính phủ Cấp 2 Đầu tiên trên Thế giới</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_GOVERNMENT_ENACTED_TIER_2_FIRST_IN_WORLD_DESCRIPTION">
+			<Text>Nền văn minh của bạn thông qua Chính phủ Cấp 2 đầu tiên trên thế giới.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_GOVERNMENT_ENACTED_TIER_2_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>Cách cũ là tốt, nhưng thời gian đã cho thấy điểm yếu của nó. Người dân của {ActingPlayerCivName} tìm ra sức mạnh mới với sự chấp nhận của họ cho {Government Type}.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_GOVERNMENT_ENACTED_TIER_3_FIRST">
+			<Text>Chính phủ Cấp 3 Đầu tiên</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_GOVERNMENT_ENACTED_TIER_3_FIRST_DESCRIPTION">
+			<Text>Nền văn minh của bạn thông qua Chính phủ Cấp 3 đầu tiên.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_GOVERNMENT_ENACTED_TIER_3_FIRST_INSTANCE_DESCRIPTION">
+			<Text>Các truyền thống danh dự của quá khứ vẫn sẽ là một phần của chính phủ mới của {GovernmentType} mà {ActingPlayerCivName} đã chọn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_GOVERNMENT_ENACTED_TIER_3_FIRST_IN_WORLD">
+			<Text>Chính phủ Cấp 3 Đầu tiên trên Thế giới</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_GOVERNMENT_ENACTED_TIER_3_FIRST_IN_WORLD_DESCRIPTION">
+			<Text>Nền văn minh của bạn thông qua Chính phủ Cấp 3 đầu tiên trên thế giới.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_GOVERNMENT_ENACTED_TIER_3_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>Triết học chính trị đạt đến biểu hiện cuối cùng của nó, như {ActingPlayerCivName} đã chọn {GovernmentType} làm chính phủ mới cho tương lai.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_GOVERNOR_ALL_APPOINTED_FIRST">
+			<Text>Tất cả Thống đốc đã Bổ nhiệm</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_GOVERNOR_ALL_APPOINTED_FIRST_DESCRIPTION">
+			<Text>Bạn đã bổ nhiệm tất cả các [ICON_Governor] Thống đốc hiện có, đảm bảo sự thịnh vượng cho nhiều thành phố.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_GOVERNOR_ALL_APPOINTED_FIRST_INSTANCE_DESCRIPTION">
+			<Text>{GovernorName}, {GovernorShortTitle}, đi vào phục vụ và hoàn toàn là cánh tay đắc lặc của bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_GOVERNOR_FULLY_PROMOTED_FIRST">
+			<Text>Thống đốc Hoàn toàn được Thăng cấp</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_GOVERNOR_FULLY_PROMOTED_FIRST_DESCRIPTION">
+			<Text>Bạn đã hoàn toàn thăng cấp một [ICON_Governor] Thống đốc lần đầu tiên, mở khóa những khả năng mạnh mẽ để giúp đỡ một thành phố.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_GOVERNOR_FULLY_PROMOTED_FIRST_INSTANCE_DESCRIPTION">
+			<Text>Nghệ thuật quản trị được thể hiện trong sự lãnh đạo của {GovernorName}, {GovernorShortTitle}.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_GREAT_PERSON_CREATED_GAME_ERA">
+			<Text>Tuyển dụng Vĩ nhân</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_GREAT_PERSON_CREATED_GAME_ERA_DESCRIPTION">
+			<Text>Một [ICON_GreatPerson] Vĩ nhân đã đi đến vùng đất của chúng tôi để chia sẻ các tài năng đặc biệt.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_GREAT_PERSON_CREATED_GAME_ERA_INSTANCE_DESCRIPTION">
+			<Text>Sau khi cân nhắc, {GreatPersonIndividualName} chọn mang tài năng của họ tới {ActingPlayerCivName}.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_GREAT_PERSON_CREATED_PAST_ERA">
+			<Text>Tuyển dụng Vĩ nhân Cũ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_GREAT_PERSON_CREATED_PAST_ERA_DESCRIPTION">
+			<Text>Một [ICON_GreatPerson] Vĩ nhân đã đi đến vùng đất của chúng tôi. Mặc dù phù hợp với thời đại quá khứ, họ vẫn có thể đóng góp những điều tuyệt vời cho nền văn minh của chúng ta.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_GREAT_PERSON_CREATED_PAST_ERA_INSTANCE_DESCRIPTION">
+			<Text>Sau khi cân nhắc, {GreatPersonIndividualName} chọn mang tài năng của họ tới {ActingPlayerCivName}.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_GREAT_PERSON_CREATED_PATRONAGE_FAITH_OVER_HALF">
+			<Text>Dụ dỗ Vĩ nhân bằng Đức tin</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_GREAT_PERSON_CREATED_PATRONAGE_FAITH_OVER_HALF_DESCRIPTION">
+			<Text>Một [ICON_GreatPerson] Vĩ nhân đã đi đến vùng đất của chúng tôi để chia sẻ các tài năng đặc biệt, nhờ sử dụng [ICON_Faith] Đức tin để giảm một nửa chi phí tuyển dụng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_GREAT_PERSON_CREATED_PATRONAGE_FAITH_OVER_HALF_INSTANCE_DESCRIPTION">
+			<Text>Những lời cầu nguyện của các tín hữu được trả lời! {GreatPersonIndividualName} dường như thay đổi số phận của {ActingPlayerCivName}.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_GREAT_PERSON_CREATED_PATRONAGE_GOLD_OVER_HALF">
+			<Text>Dụ dỗ Vĩ nhân bằng Vàng</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_GREAT_PERSON_CREATED_PATRONAGE_GOLD_OVER_HALF_DESCRIPTION">
+			<Text>Một [ICON_GreatPerson] Vĩ nhân đã đi đến vùng đất của chúng tôi để chia sẻ các tài năng đặc biệt, nhờ các khoản hào phóng của chúng tôi [ICON_Gold] Vàng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_GREAT_PERSON_CREATED_PATRONAGE_GOLD_OVER_HALF_INSTANCE_DESCRIPTION">
+			<Text>Không có chi phí nào được bỏ ra để mang {GreatPersonIndividualName} đến {ActingPlayerCivName}, nơi họ bắt đầu công việc của họ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_IMPROVEMENT_CONSTRUCTED_FIRST_UNIQUE">
+			<Text>Cải thiện Ô Đặc biệt để Xây dựng</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_IMPROVEMENT_CONSTRUCTED_FIRST_UNIQUE_DESCRIPTION">
+			<Text>Bạn đã hoàn thành việc cải thiện ô đặc biệt này lần đầu tiên.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_IMPROVEMENT_CONSTRUCTED_FIRST_UNIQUE_INSTANCE_DESCRIPTION">
+			<Text>Thật sự, {ImprovementType} này thể hiện tinh thần nền văn minh của chúng ta và định nghĩa cảnh quan đế chế của chúng ta.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_INQUISITION_LAUNCHED">
+			<Text>Bắt đầu Quan án Tôn giáo</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_INQUISITION_LAUNCHED_DESCRIPTION">
+			<Text>Tôn giáo của bạn bắt đầu cuộc điều tra.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_INQUISITION_LAUNCHED_INSTANCE_DESCRIPTION">
+			<Text>Các tầng trời vui mừng khi các vụ bắt bớ công bình mà Quan án Tôn giáo bắt đầu để sửa những kẻ không tin tưởng vào {ReligionName}.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_INQUISITION_LAUNCHED_FIRST_IN_WORLD">
+			<Text>Quan án Tôn giáo Đầu tiên trên Thế giới</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_INQUISITION_LAUNCHED_FIRST_IN_WORLD_DESCRIPTION">
+			<Text>Tôn giáo của bạn bắt đầu cuộc điều tra đầu tiên trên thế giới.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_INQUISITION_LAUNCHED_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>{ReligionName} là Tôn giáo đầu tiên bắt đầu Quan án Tôn giáo để trốc rễ các chuyện lạc giáo.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_PANTHEON_FOUNDED">
+			<Text>Đền Pantheon được Xây dựng</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_PANTHEON_FOUNDED_DESCRIPTION">
+			<Text>Người dân của bạn chấp nhận Tiềm tin vào một Đền Pantheon.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_PANTHEON_FOUNDED_INSTANCE_DESCRIPTION">
+			<Text>Liệu giây phút thiêng liêng này là những gì các nhà tiên tri khác đang nói đến?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_PANTHEON_FOUNDED_FIRST_IN_WORLD">
+			<Text>Đền Pantheon Đầu tiên trên Thế giới</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_PANTHEON_FOUNDED_FIRST_IN_WORLD_DESCRIPTION">
+			<Text>Người dân của bạn là những người đầu tiên trên thế giới chấp nhận Niềm tin vào một Đền Pantheon.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_PANTHEON_FOUNDED_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>Vị tiên tri đầu tiên là ánh sáng sâu thẳm dưới bầu trời đầy sao, và cúi chào tạ ơn đến những thần linh không nhìn thấy.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_PLAYER_GAVE_ENVOY_BECAME_SUZERAIN_FIRST_IN_WORLD">
+			<Text>Bá chủ Thành phố-Tự trị Đầu tiên</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_PLAYER_GAVE_ENVOY_BECAME_SUZERAIN_FIRST_IN_WORLD_DESCRIPTION">
+			<Text>Bạn đã trở thành ná chủ đầu tiên của thành phố-tự trị này</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_PLAYER_GAVE_ENVOY_BECAME_SUZERAIN_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>Những người cai trị của {CityStatePlayerCivName} cúi chào {ActingPlayerCivName}, người đã trở thành Bá chủ đầu tiên của họ trên thế giới.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_PLAYER_GAVE_ENVOY_CANCELED_LEVY">
+			<Text>Quân Đội Lục quân Giải giáp</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_PLAYER_GAVE_ENVOY_CANCELED_LEVY_DESCRIPTION">
+			<Text>Bạn sử dụng các [ICON_Envoy] Phái đoàn đã thuyết phục quân đội  lục quân của thành phố-tự trị này giải giáp.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_PLAYER_GAVE_ENVOY_CANCELED_LEVY_INSTANCE_DESCRIPTION">
+			<Text>{TargetPlayerCivName} biết rằng chính trị cũng là một chiến trường, như {ActingPlayerCivName} lật đổ địa vị Bá chủ của họ của {CityStatePlayerCivName}.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_PLAYER_GAVE_ENVOY_CANCELED_SUZERAIN_DURING_WAR">
+			<Text>Bình định Thành phố-Tự trị của Kẻ địch</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_PLAYER_GAVE_ENVOY_CANCELED_SUZERAIN_DURING_WAR_DESCRIPTION">
+			<Text>Bạn sử dụng các [ICON_Envoy] Phái đoàn đã làm lật đổ Bá chủ của thành phố-tự trị của kẻ địch, thuyết phục nó chấm dứt các chống đối với bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_PLAYER_GAVE_ENVOY_CANCELED_SUZERAIN_DURING_WAR_INSTANCE_DESCRIPTION">
+			<Text>Các hợp đồng đánh thuê trước đây phải được thương lượng lại, khi {ActingPlayerCivName} lật đổ Bá chủ cũ của {CityStatePlayerCivName}.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_PLAYER_LEVIED_MILITARY">
+			<Text>Tuyển mộ Quân Đội Thành Phố-Tự trị</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_PLAYER_LEVIED_MILITARY_DESCRIPTION">
+			<Text>Bạn đã tuyển mộ các lực lượng quân sự của một thành phố-tự trị.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_PLAYER_LEVIED_MILITARY_INSTANCE_DESCRIPTION">
+			<Text>Sự kiểm soát quân đội của {CityStatePlayerCivName} đi đến {ActingPlayerCivName} trong một buổi nghi lễ quân sự ấn tượng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_PLAYER_LEVIED_MILITARY_NEAR_ENEMY_CITY">
+			<Text>Tuyển mộ Quân Đội Thành Phố-Tự trị nằm Gần Kẻ địch</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_PLAYER_LEVIED_MILITARY_NEAR_ENEMY_CITY_DESCRIPTION">
+			<Text>Bạn đã tuyển mộ các lực lượng quân sự của một thành phố-tự trị trong khoảng cách thu hút của nền văn minh của kẻ địch.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_PLAYER_LEVIED_MILITARY_NEAR_ENEMY_CITY_INSTANCE_DESCRIPTION">
+			<Text>Mặt trận mới mở ra trong cuộc chiến giữa {TargetPlayerCivName} và {ActingPlayerCivName}, khi sự kiểm soát của {CityStatePlayerCivName} sẽ thay đổi đường biên giới.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_PLAYER_MET_ALL_MAJORS">
+			<Text>Gặp Tất cả Nền văn minh</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_PLAYER_MET_ALL_MAJORS_DESCRIPTION">
+			<Text>Bạn đã gặp tất cả các nền văn minh trên thế giới.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_PLAYER_MET_ALL_MAJORS_INSTANCE_DESCRIPTION">
+			<Text>Cuối cùng đã gặp người dân của {TargetPlayerCivName}, chúng tôi có cảm giác rằng không còn nền văn minh nào khác ngoài kia.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_PLAYER_MET_ALL_MAJORS_FIRST_IN_WORLD">
+			<Text>Gặp Tất cả Nền văn minh Đầu tiên trên Thế giới</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_PLAYER_MET_ALL_MAJORS_FIRST_IN_WORLD_DESCRIPTION">
+			<Text>Bạn là người đầu tiên gặp được tất cả các nền văn minh trên thế giới.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_PLAYER_MET_ALL_MAJORS_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>Chúng tôi đã gặp người dân của {TargetPlayerCivName} và trở thành người đầu tiên gặp được tất cả các nền văn minh trên thế giới.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_PLAYER_MET_MAJOR">
+			<Text>Gặp Nền văn minh Mới</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_PLAYER_MET_MAJOR_DESCRIPTION">
+			<Text>Bạn đã liên lạc với một nền văn minh mới.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_PLAYER_MET_MAJOR_INSTANCE_DESCRIPTION">
+			<Text>Chào đón chào và tò mò đánh dấu thời điểm chúng tôi gặp gỡ với người dân của {TargetPlayerCivName}.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_PLAYER_OVERCAME_DARK_AGE">
+			<Text>Vượt qua Thời Đen tối</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_PLAYER_OVERCAME_DARK_AGE_DESCRIPTION">
+			<Text>Nền văn minh của bạn đã kiếm được đủ Điểm Thời đại để vượt qua Thời Đen tối sớm, và trỗi dậy trong Thời Thông thường! Thời Vàng son tiếp theo sẽ vượt trội hơn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_PLAYER_OVERCAME_DARK_AGE_INSTANCE_DESCRIPTION">
+			<Text>Như lửa thử vàng, vì vậy nền văn minh của chúng ta đã được thanh lọc bởi những thử thách trong Thời Đen tối của chúng ta. Bây giờ tất cả sẽ nhìn thấy vinh quang mới của chúng ta!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_PROJECT_FOUNDED_MANHATTEN">
+			<Text>Dự án Manhattan Hoàn thành</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_PROJECT_FOUNDED_MANHATTEN_DESCRIPTION">
+			<Text>Các nhà khoa học của bạn đã hoàn thành dự án Manhattan.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_PROJECT_FOUNDED_MANHATTEN_INSTANCE_DESCRIPTION">
+			<Text>Sức mạnh khủng khiếp của nguyên tử nằm dưới kiểm soát của chúng ta khi chúng ta hoàn thành dự án Manhattan.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_PROJECT_FOUNDED_MARS">
+			<Text>Thành phần Sao Hỏa được Khởi động</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_PROJECT_FOUNDED_MARS_DESCRIPTION">
+			<Text>Bạn đã khởi động các thành phần cho tàu vũ trụ lên sao Hỏa của nền văn minh của bạn đầu tiên.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_PROJECT_FOUNDED_MARS_INSTANCE_DESCRIPTION">
+			<Text>Chắc chắn, bất cứ ai cũng có thể xây dựng {LOC_GRAMMAR_A_AN &lt;&lt; {ProjectShortName}}. Nhưng không ai có thể đặt nó vào quỹ đạo.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_PROJECT_FOUNDED_MARS_FIRST_IN_WORLD">
+			<Text>Thành phần Sao Hỏa được Khởi động Đầu tiên trên Thế giới</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_PROJECT_FOUNDED_MARS_FIRST_IN_WORLD_DESCRIPTION">
+			<Text>Bạn là người đầu tiên trên thế giới khởi động một thành phần cho tàu vũ trụ lên sao Hỏa.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_PROJECT_FOUNDED_MARS_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>Một kỹ sư quan sát tên lửa rời bệ phóng, mang theo {ProjectShortName}. "Điều này thực sự xảy ra," cô nói. "Chúng ta đang tiến đến sao Hỏa."</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_PROJECT_FOUNDED_MOON_LANDING">
+			<Text>Định cư trên Mặt Trăng</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_PROJECT_FOUNDED_MOON_LANDING_DESCRIPTION">
+			<Text>Nhiệm vụ định cư trên mặt trăng của bạn đã thành công.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_PROJECT_FOUNDED_MOON_LANDING_INSTANCE_DESCRIPTION">
+			<Text>Các nhà khoa học của bạn xác nhận những gì người của bạn đã báo cáo: Mặt trăng rất nhiều bụi.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_PROJECT_FOUNDED_MOON_LANDING_FIRST_IN_WORLD">
+			<Text>Định cư trên Mặt Trăng Đầu tiên trên Thế giới</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_PROJECT_FOUNDED_MOON_LANDING_FIRST_IN_WORLD_DESCRIPTION">
+			<Text>Bạn là người đầu tiên trên thế giới định cư trên mặt trăng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_PROJECT_FOUNDED_MOON_LANDING_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>Đó là một bước đi nhỏ của một người, nhưng là một bước nhảy vọt khổng lồ cho nhân loại, tất cả nhờ nền văn minh của chúng ta.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_PROJECT_FOUNDED_OPERATION_IVY">
+			<Text>Hoạt động Thường xuân.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_PROJECT_FOUNDED_OPERATION_IVY_DESCRIPTION">
+			<Text>Các nhà khoa học của bạn đã hoàn thành Hoạt động Thường xuân.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_PROJECT_FOUNDED_OPERATION_IVY_INSTANCE_DESCRIPTION">
+			<Text>Không có mô tả nào báo cáo về sự thành công của Hoạt động Thường xuân. Nhưng điều gì sẽ hứng chịu sức mạnh từ vũ khí mới của chúng ta?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_PROJECT_FOUNDED_SATELLITE_LAUNCH">
+			<Text>Phóng Vệ tinh Vào Quỹ đạo</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_PROJECT_FOUNDED_SATELLITE_LAUNCH_DESCRIPTION">
+			<Text>Bạn đã phóng vệ tinh đầu tiên của nền văn minh của bạn vào quỹ đạo.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_PROJECT_FOUNDED_SATELLITE_LAUNCH_INSTANCE_DESCRIPTION">
+			<Text>Đêm nay các công dân của chúng tôi chỉ vào một ngôi sao mới đang dõi theo trên bầu trời - vệ tinh đầu tiên của chúng tôi!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_PROJECT_FOUNDED_SATELLITE_LAUNCH_FIRST_IN_WORLD">
+			<Text>Vệ tinh Vào Quỹ đạo Đầu tiên trên Thế giới</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_PROJECT_FOUNDED_SATELLITE_LAUNCH_FIRST_IN_WORLD_DESCRIPTION">
+			<Text>Bạn phóng vệ tinh đầu tiên trên thế giới vào quỹ đạo.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_PROJECT_FOUNDED_SATELLITE_LAUNCH_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>Bíp...bíp...bíp...bíp...</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_RELIGION_FOUNDED">
+			<Text>Sáng Lập Tôn giáo</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_RELIGION_FOUNDED_DESCRIPTION">
+			<Text>Một vị Tiên tri Vĩ đại đã sáng lập một Tôn giáo, mang lại ánh sáng cho người dân của bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_RELIGION_FOUNDED_INSTANCE_DESCRIPTION">
+			<Text>{ReligionName} là con đường đích thực của sự cứu rỗi! Xin vui lòng bỏ qua tất cả những cái khác!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_RELIGION_FOUNDED_FIRST_IN_WORLD">
+			<Text>Tôn giáo Đầu tiên trên Thế giới</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_RELIGION_FOUNDED_FIRST_IN_WORLD_DESCRIPTION">
+			<Text>Người dân của bạn là những người đầu tiên hình thành Tôn giáo, đưa ánh sáng ra toàn thế giới!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_RELIGION_FOUNDED_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>Người ta nói rằng khi {GreatPersonIndividualName} thành lập {ReligionName}, Tôn giáo đầu tiên trên thế giới, mặt trời đã xé tan màn mây, và mùi hương ngọt ngào tràn ngập không khí.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_SHIP_SUNK">
+			<Text>Tàu Đắm</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_SHIP_SUNK_DESCRIPTION">
+			<Text>Một đơn vị hải quân đã bị đánh chìm trong chiến đấu. Được sử dụng bởi hệ thống Khảo cổ học để có thể tạo ra tài nguyên [ICON_RESOURCE_SHIPWRECK] Tàu đắm.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_SPY_MAX_LEVEL">
+			<Text>Gián điệp Ưu tú Kiếm được</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_SPY_MAX_LEVEL_DESCRIPTION">
+			<Text>Một trong số Gián điệp của bạn đã đạt đến cấp độ tối đa.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_SPY_MAX_LEVEL_INSTANCE_DESCRIPTION">
+			<Text>Họ nói rằng {UnitCitizenName} có các địa chỉ liên lạc trong mọi thành phố trên thế giới, quần áo biến hình, và một chiếc xe biến thành một chiếc xuồng máy.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_SPY_MAX_LEVEL_FIRST">
+			<Text>Gián điệp Ưu tú Kiếm được Đầu tiên</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_SPY_MAX_LEVEL_FIRST_DESCRIPTION">
+			<Text>Lần đầu tiên, Một trong số Gián điệp của bạn đã đạt đến cấp độ tối đa.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_SPY_MAX_LEVEL_FIRST_INSTANCE_DESCRIPTION">
+			<Text>Trong một căn phòng bí mật dưới lòng đất, bạn nên cảm ơn {UnitCitizenName} vì sự nghiệp phục vụ thành công trước khi bắt đầu nhiệm vụ tiếp theo.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_TECH_RESEARCHED_IN_ERA_FIRST">
+			<Text>Công nghệ Đầu tiên của Thời đại Mới</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_TECH_RESEARCHED_IN_ERA_FIRST_DESCRIPTION">
+			<Text>Bạn đã hoàn thành công nghệ đầu tiên của nền văn minh của bạn khi tìm ra một thời đại mới.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_TECH_RESEARCHED_IN_ERA_FIRST_INSTANCE_DESCRIPTION">
+			<Text>Nhiều người phản đối sự bắt đầu thực sự của {PlayerEraType}, nhưng bạn biết đó là khi {ActingPlayerCivName} phát hiện ra {TechnologyType}.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_TECH_RESEARCHED_IN_ERA_FIRST_IN_WORLD">
+			<Text>Công nghệ Đầu tiên của Thời đại mới trên Thế giới</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_TECH_RESEARCHED_IN_ERA_FIRST_IN_WORLD_DESCRIPTION">
+			<Text>Bạn đã hoàn thành công nghệ đầu tiên của thế giới khi tìm ra một thời đại mới.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_TECH_RESEARCHED_IN_ERA_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>Việc khám phá  ra {TechnologyType} trong {ActingPlayerCivName} đặt thế giới vào giai đoạn cho những khám phá trong tương lai trong {PlayerEraType}!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_TRADING_POST_CONSTRUCTED_IN_OTHER_CIV">
+			<Text>Thiết lập Trạm thông Thương trong Nền văn minh Mới</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_TRADING_POST_CONSTRUCTED_IN_OTHER_CIV_DESCRIPTION">
+			<Text>Bạn đã thiết lập [ICON_TradingPost] Trạm thông Thương đầu tiên trong nền văn minh này, mở ra hướng tiếp cận thị trường mới.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_TRADING_POST_CONSTRUCTED_IN_OTHER_CIV_INSTANCE_DESCRIPTION">
+			<Text>Bụi đất và mệt mỏi nhưng nhiệt tình để thương lượng, các thương nhân mở ra Trạm thông THương đầu tiên của chúng tôi trong vùng đất của {TargetPlayerCivName}.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_TRADING_POST_CONSTRUCTED_IN_EVERY_CIV">
+			<Text>Trạm thông Thương trong Tất cả Nền văn minh</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_TRADING_POST_CONSTRUCTED_IN_EVERY_CIV_DESCRIPTION">
+			<Text>Bạn đã thiết lập [ICON_TradingPost] Trạm thông Thương trong tất cả nền văn minh.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_TRADING_POST_CONSTRUCTED_IN_EVERY_CIV_INSTANCE_DESCRIPTION">
+			<Text>Mạng lưới thương mại của chúng tôi rộng khắp thế giới sau khi mở Trạm thông Thương trong {CityName}.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_TRADING_POST_CONSTRUCTED_IN_EVERY_CIV_FIRST_IN_WORLD">
+			<Text>Trạm thông Thương Đầu tiên trong Tất cả Nền văn minh</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_TRADING_POST_CONSTRUCTED_IN_EVERY_CIV_FIRST_IN_WORLD_DESCRIPTION">
+			<Text>Bạn là người đầu tiên trên thế giới thiết lập [ICON_TradingPost] Trạm thông Thương trong tất cả nền văn minh.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_TRADING_POST_CONSTRUCTED_IN_EVERY_CIV_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>Thương nhân và ngân hàng vui vẻ khi chúng tôi mở Trạm thông Thương của chúng tôi trong {CityName}. Chúng tôi là người đầu tiên buôn bán trong mọi nền văn minh trên thế giới!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_UNIT_CREATED_FIRST_DOMAIN_AIR">
+			<Text>Hàng không Hoàn thành</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_UNIT_CREATED_FIRST_DOMAIN_AIR_DESCRIPTION">
+			<Text>Bạn đã hoàn thành đơn vị trên không đầu tiên của bạn. Người dân vui mừng vì những triển vọng mới này đã được kế thừa.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_UNIT_CREATED_FIRST_DOMAIN_AIR_INSTANCE_DESCRIPTION">
+			<Text>{UnitType} của {ActingPlayerCivName} đã bay lên, và ngay lập tức không bị đâm xuống, hãy vui mừng lên.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_UNIT_CREATED_FIRST_DOMAIN_AIR_IN_WORLD">
+			<Text>Hàng không Đầu tiên trên Thế giới</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_UNIT_CREATED_FIRST_DOMAIN_AIR_IN_WORLD_DESCRIPTION">
+			<Text>Bạn đã hoàn thành đơn vị trên không đầu tiên trên thế giới! Mọi người vui mừng vìnhững triển vọng mới này đã được kế thừa.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_UNIT_CREATED_FIRST_DOMAIN_AIR_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>Lần đầu tiên nhân loại đã nhận ra ước mơ bay lượn của mình, vì {UnitType} của {ActingPlayerCivName} đã bay lên bầu trời.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_UNIT_CREATED_FIRST_DOMAIN_SEA">
+			<Text>Trên từng Con sóng</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_UNIT_CREATED_FIRST_DOMAIN_SEA_DESCRIPTION">
+			<Text>Bạn hoàn thành đơn vị hàng hải đầu tiên của bạn. Một thế giới đầy triển vọng đang chờ đợi ở chân trời.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_UNIT_CREATED_FIRST_DOMAIN_SEA_INSTANCE_DESCRIPTION">
+			<Text>Thủy thủ {UnitType} từ {ActingPlayerCivName} phát minh ra sợi thủy tinh sau chuyến đi biển đầu tiên của họ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_UNIT_CREATED_FIRST_DOMAIN_SEA_IN_WORLD">
+			<Text>Hải trình Đầu tiên trên Thế giới</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_UNIT_CREATED_FIRST_DOMAIN_SEA_IN_WORLD_DESCRIPTION">
+			<Text>Bạn đã hoàn thành đơn vị hàng hải đầu tiên trên thế giới! Một thế giới đầy triển vọng đang chờ đợi ở chân trời.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_UNIT_CREATED_FIRST_DOMAIN_SEA_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>Khao khát những cuộc phiêu lưu mới, {UnitType} từ {ActingPlayerCivName} lần đầu tiên trên thế giới rong chơi khắp các vùng biển.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_UNIT_CREATED_FIRST_REQUIRING_STRATEGIC">
+			<Text>Khai thác Tiềm năng Tài nguyên Chiến lược </Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_UNIT_CREATED_FIRST_REQUIRING_STRATEGIC_DESCRIPTION">
+			<Text>Bạn sở hữu đơn vị đầu tiên của bạn sử dụng tài nguyên chiến lược này.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_UNIT_CREATED_FIRST_REQUIRING_STRATEGIC_INSTANCE_DESCRIPTION">
+			<Text>Người hoài nghi có thể hỏi: "Cái gì tốt {ResourceType : plural 1?is; other?are;} {ResourceType}?" Nhưng bây giờ chúng ta biết rằng  {ResourceType : plural 1?it is; other?they are;} là vũ khí đáng sợ cho {UnitType} của chúng ta.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_UNIT_CREATED_FIRST_REQUIRING_STRATEGIC_IN_WORLD">
+			<Text>Khai thác Tiềm năng Tài nguyên Chiến lược Đầu tiên trên Thế giới</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_UNIT_CREATED_FIRST_REQUIRING_STRATEGIC_IN_WORLD_DESCRIPTION">
+			<Text>Nền văn minh của bạn đầu tiên thế giới sở hữu đơn vị sử dụng tài nguyên chiến lược này.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_UNIT_CREATED_FIRST_REQUIRING_STRATEGIC_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>Trước đây, {ResourceType} {ResourceType : plural 1?was; other?were;} chỉ đơn thuần là sự tò mò của các học giả. Bây giờ chúng ta {UnitType} sử dụng {ResourceType : plural 1?it; other?them;} như một vũ khí đầu tiên trên thế giới.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_UNIT_CREATED_FIRST_UNIQUE">
+			<Text>Đơn vị Đặc biệt Hành quân</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_UNIT_CREATED_FIRST_UNIQUE_DESCRIPTION">
+			<Text>Bạn đã huấn luyện đơn vị đặc biệt này lần đầu tiên, tạo cho bạn một lợi thế trên chiến trường.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_UNIT_CREATED_FIRST_UNIQUE_INSTANCE_DESCRIPTION">
+			<Text>Ai nhưng {ActingPlayerCivName} có thể tạo ra {UnitType}? Và ai có thể chống lại nó?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_UNIT_HIGH_LEVEL">
+			<Text>Đơn vị Thăng cấp với Đặc trưng</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_UNIT_HIGH_LEVEL_DESCRIPTION">
+			<Text>Một trong những đơn vị của bạn đạt đến cấp độ thứ tư.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_UNIT_HIGH_LEVEL_INSTANCE_DESCRIPTION">
+			<Text>Các công dân ùa ra thành đám đông để chào mừng chiến thắng mới nhất của {UnitType} của chúng tôi!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_UNIT_HIGH_LEVEL_FIRST">
+			<Text>Đơn vị Đầu tiên Thăng cấp với Đặc trưng</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_UNIT_HIGH_LEVEL_FIRST_DESCRIPTION">
+			<Text>Lần đầu tiên, một trong những đơn vị của bạn đạt đến cấp độ thứ tư.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_UNIT_HIGH_LEVEL_FIRST_INSTANCE_DESCRIPTION">
+			<Text>Trong tất cả lực lượng quân đội của chúng tôi, {UnitType} này là tuyệt nhất. Không có gì đạt được rất nhiều chiến thắng trong chiến tranh như vậy.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_UNIT_KILLED_ASSISTED_BY_ADMIRAL">
+			<Text>Đô đốc Đánh bại Kẻ địch</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_UNIT_KILLED_ASSISTED_BY_ADMIRAL_DESCRIPTION">
+			<Text>Một trong số các [ICON_GreatAdalal] Đại Đô đốc của bạn đã kiểm soát cuộc tấn công và giành chiến thắng đầu tiên khi chống lại đơn vị kẻ địch.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_UNIT_KILLED_ASSISTED_BY_ADMIRAL_INSTANCE_DESCRIPTION">
+			<Text>{GreatPersonIndividualName} đứng trên boong, mắt nhìn qua kính nhòm, khi tàu của kẻ địch chìm xuống đáy biển.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_UNIT_KILLED_ASSISTED_BY_GENERAL">
+			<Text>Đại tướng Đánh bại Kẻ địch</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_UNIT_KILLED_ASSISTED_BY_GENERAL_DESCRIPTION">
+			<Text>Một trong những [ICON_GreatGeneral] Đại Tướng quân của bạn đã kiểm soát cuộc tấn công và giành chiến thắng đầu tiên khi chống lại đơn vị kẻ địch.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_UNIT_KILLED_ASSISTED_BY_GENERAL_INSTANCE_DESCRIPTION">
+			<Text>{GreatPersonIndividualName} dẫn dắt quân đội trong cuộc diễu hành sau một chiến thắng tuyệt vời.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_UNIT_KILLED_UNDERDOG_MILITARY_FORMATION">
+			<Text>Đánh bại Đội hình Kẻ địch</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_UNIT_KILLED_UNDERDOG_MILITARY_FORMATION_DESCRIPTION">
+			<Text>Một trong những đơn vị của bạn đã đánh bại đơn vị  kẻ địch với một sự đội hình quân đội cao cấp.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_UNIT_KILLED_UNDERDOG_MILITARY_FORMATION_INSTANCE_DESCRIPTION">
+			<Text>Mặc dù bị số lượng áp đảo, {UnitType} của chúng tôi đã chiến thắng trong một ngày!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_UNIT_KILLED_UNDERDOG_PROMOTIONS">
+			<Text>Đánh bại Cựu Quân đội Kẻ địch</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_UNIT_KILLED_UNDERDOG_PROMOTIONS_DESCRIPTION">
+			<Text>Một trong số các đơn vị của bạn đánh bại đơn vị kẻ địch với ít nhất 2 cấp độ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_UNIT_KILLED_UNDERDOG_PROMOTIONS_INSTANCE_DESCRIPTION">
+			<Text>{UnitType} của chúng tôi đã đọc được các đội hình chiến đấu từ cựu quân đội kẻ địch!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_WAR_DECLARED_USING_CASUS_BELLI">
+			<Text>Nguyên nhân của Chiến tranh</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_WAR_DECLARED_USING_CASUS_BELLI_DESCRIPTION">
+			<Text>Bạn đã sử dụng lý do Khơi mào Chiến tranh với một nền văn minh khác.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_WAR_DECLARED_USING_CASUS_BELLI_INSTANCE_DESCRIPTION">
+			<Text>Thế giới đồng ý rằng {WarType} của chúng tôi chống lại {TargetPlayerCivName} là hợp lý.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_WORLD_CIRCUMNAVIGATED">
+			<Text>Vòng quanh Thế giới</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_WORLD_CIRCUMNAVIGATED_DESCRIPTION">
+			<Text>Nền văn minh của bạn đã cho thấy mỗi đường kinh tuyến thẳng đứng của bản đồ. Điều này tạo thành một con đường khắp thế giới, ngay cả khi con đường không kết thúc ở nơi nó bắt đầu.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_WORLD_CIRCUMNAVIGATED_INSTANCE_DESCRIPTION">
+			<Text>Tiếp nối vài người đã đi trước, {ActingPlayerCivName} đang đi vòng quanh thế giới.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_WORLD_CIRCUMNAVIGATED_FIRST_IN_WORLD">
+			<Text>Vòng quanh Thế giới Đầu tiên</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_WORLD_CIRCUMNAVIGATED_FIRST_IN_WORLD_DESCRIPTION">
+			<Text>Nền văn minh của bạn đã cho thấy mỗi đường kinh tuyến thẳng đứng của bản đồ. Điều này tạo thành một con đường khắp thế giới, ngay cả khi con đường không kết thúc ở nơi nó bắt đầu.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_WORLD_CIRCUMNAVIGATED_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>{ActingPlayerCivName} hoàn thành việc đi vòng quanh thế giới đầu tiên!</Text>
+		</Replace>
+		<!--Moment Data-->
+		<Replace Language='en_US' Tag="LOC_MOMENT_DATA_BELIEF">
+			<Text>Tín ngưỡng</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_DATA_BUILDING">
+			<Text>Tòa nhà</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_DATA_CITY_STATE_PLAYER">
+			<Text>Thành phố-Tự trị Người chơi</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_DATA_CIVIC">
+			<Text>Công dân</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_DATA_CONTINENT">
+			<Text>Lục địa</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_DATA_DISTRICT">
+			<Text>Quận</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_DATA_EMERGENCY">
+			<Text>Khẩn cấp</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_DATA_FEATURE">
+			<Text>Đặc trưng</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_DATA_GOVERNMENT">
+			<Text>Chính phủ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_DATA_GOVERNOR">
+			<Text>Thống đốc</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_DATA_GREAT_PERSON_INDIVIDUAL">
+			<Text>Vĩ nhân Đặc biệt</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_DATA_GREAT_WORK">
+			<Text>Công trình Vĩ đại</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_DATA_IMPROVEMENT">
+			<Text>Cải tiến</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_DATA_OLD_RELIGION">
+			<Text>Tôn giáo Cũ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_DATA_PLAYER_ERA">
+			<Text>Thời đại Người chơi</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_DATA_PROJECT">
+			<Text>Dự án</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_DATA_RELIGION">
+			<Text>Tôn giáo</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_DATA_RESOURCE">
+			<Text>Tài nguyên</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_DATA_TARGET_PLAYER">
+			<Text>Người chơi Mục tiêu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_DATA_TARGET_PLAYER_ERA">
+			<Text>Thời đại Người chơi Mục tiêu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_DATA_TECHNOLOGY">
+			<Text>Công nghệ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_DATA_UNIT">
+			<Text>Đơn vị</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_DATA_WAR">
+			<Text>Chiến tranh</Text>
+		</Replace>
+		<!-- Types of war (so we can specify in moment text) -->
+		<Replace Language='en_US' Tag="LOC_MOMENT_DATA_WAR_SURPRISE_WAR">
+			<Text>Chiến tranh Bất ngờ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_DATA_WAR_FORMAL_WAR">
+			<Text>Chiến tranh Chính thức</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_DATA_WAR_HOLY_WAR">
+			<Text>Thánh Chiến</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_DATA_WAR_RECONQUEST_WAR">
+			<Text>Chiến tranh Tái chiếm</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_DATA_WAR_LIBERATION_WAR">
+			<Text>Chiến tranh Giải phóng</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_DATA_WAR_DEFENSIVE_PACT">
+			<Text>Hiệp ước Phòng vệ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_DATA_WAR_JOINT_WAR">
+			<Text>Chiến tranh Chung</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_DATA_WAR_SUZERAIN_WAR">
+			<Text>Chiến tranh Bá chủ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_DATA_WAR_PROTECTORATE_WAR">
+			<Text>Chiến tranh Bảo hộ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_DATA_WAR_COLONIAL_WAR">
+			<Text>Chiến tranh Thuộc địa</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_DATA_WAR_TERRITORIAL_WAR">
+			<Text>Chiến tranh Mở rộng Lãnh thổ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_DATA_WAR_GOLDEN_AGE_WAR">
+			<Text>Chiến tranh Thời Vàng son</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_DATA_WAR_EMERGENCY_WAR">
+			<Text>Chiến tranh Khẩn cấp</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_DATA_WAR_WAR_OF_RETRIBUTION">
+			<Text>Chiến tranh Báo thù</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_DATA_WAR_IDEOLOGICAL_WAR">
+			<Text>Chiến tranh Tư tưởng</Text>
+		</Replace>
+		<!--Moment Categories and Bonuses-->
+		<Replace Language='en_US' Tag="LOC_MOMENT_CATEGORY_AERONAUTICAL">
+			<Text>Bầu trời và các Ngôi sao</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CATEGORY_AERONAUTICAL_BONUS_GOLDEN_AGE">
+			<Text>Bầu trời và các Ngôi sao Thời Vàng son:[NEWLINE]Mở khóa [ICON_TechBoosted] Eureka cho Chuyến bay Tiên tiến, Phân rã Hạt nhân, và Tên lửa học nếu ở Thời đại Nguyên tử. Nếu trong Thời đại Thông tin một Eureka cho Vệ tinh, Người máy, Phân rã Hạt nhân và Công nghệ Nano được mở khóa. + 100% Kinh nghiệm cho tất cả các Đơn vị trên Không.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CATEGORY_AERONAUTICAL_BONUS_NORMAL_AGE">
+			<Text>Thưởng cống hiến Bầu trời và các Ngôi sao:[NEWLINE]Tăng +1 Điểm Thời đại cho mỗi Sân bay nhỏ được xây dựng. Tăng +1 Điểm Thời đại cho mỗi [ICON_GreatPerson] Vĩ nhân có được.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CATEGORY_AERONAUTICAL_BONUS_DARK_AGE">
+			<Text>Thưởng cống hiến Bầu trời và các Ngôi sao:[NEWLINE]Tăng +1 Điểm Thời đại cho mỗi Sân bay nhỏ được xây dựng. Tăng +1 Điểm Thời đại cho mỗi [ICON_GreatPerson] Vĩ nhân có được.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CATEGORY_CULTURAL">
+			<Text>Bút, Cọ, và Âm thanh</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CATEGORY_CULTURAL_BONUS_GOLDEN_AGE">
+			<Text>Bút, Cọ, và Âm thanh Thời Vàng son:[NEWLINE][ICON_CivicBoosted] Cảm hứng thêm 10% chi phí cho công dân. Mỗi thành phố nhận được +1 [ICON_Culture] Văn hóa cho mỗi quận đặc trưng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CATEGORY_CULTURAL_BONUS_NORMAL_AGE">
+			<Text>Thưởng cống hiến Bút, Cọ, và Âm thanh:[NEWLINE]Tăng +1 Điểm Thời đại mỗi khi bạn kích hoạt một [ICON_CivicBoosted] Cảm hứng. +1 Điểm Thời đại khi xây dựng tòa nhà với một khe Công trình Vĩ đại.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CATEGORY_CULTURAL_BONUS_DARK_AGE">
+			<Text>Thưởng cống hiến Bút, Cọ, và Âm thanh:[NEWLINE]Tăng +1 Điểm Thời đại mỗi khi bạn kích hoạt một [ICON_CivicBoosted] Cảm hứng. +1 Điểm Thời đại khi xây dựng tòa nhà với một khe Công trình Vĩ đại.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CATEGORY_ECONOMIC">
+			<Text>Cải cách Tiền xu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CATEGORY_ECONOMIC_BONUS_GOLDEN_AGE">
+			<Text>Cải cách Tiền xu Thời Vàng son:[NEWLINE]Thương nhân của bạn không thể bị cướp bóc. Các ICON_TradeRoute] Tuyến đường Thương mại quốc tế cung cấp +3 [ICON_Gold] Vàng cho mỗi quận đặc trưng ở thành phố nước ngoài.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CATEGORY_ECONOMIC_BONUS_NORMAL_AGE">
+			<Text>Thưởng cống hiến Cải cách Tiền xu:[NEWLINE]Tăng +1 Điểm Thời đại mỗi khi bạn hoàn thành một [ICON_TradeRoute] Tuyến đường Thương mại.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CATEGORY_ECONOMIC_BONUS_DARK_AGE">
+			<Text>Thưởng cống hiến Cải cách Tiền xu:[NEWLINE]Tăng +1 Điểm Thời đại mỗi khi bạn hoàn thành một [ICON_TradeRoute] Tuyến đường Thương mại.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CATEGORY_ESPIONAGE">
+			<Text>Vệ sĩ của Dối trá</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CATEGORY_ESPIONAGE_BONUS_GOLDEN_AGE">
+			<Text>Bảo vệ Dối trá Thời Vàng son:[NEWLINE]Không mất thời gian để thiết lập sự hiện diện trong thành phố kẻ địch. Thời gian hoàn thành tất cả các nhiệm vụ tấn công giảm 25%.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CATEGORY_ESPIONAGE_BONUS_NORMAL_AGE">
+			<Text>Thưởng cống hiến Bảo vệ Dối trá:[NEWLINE]Tăng +1 Điểm Thời đại cho mỗi hoạt động tấn công Gián điệp thành công.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CATEGORY_ESPIONAGE_BONUS_DARK_AGE">
+			<Text>Thưởng cống hiến Bảo vệ Dối trá:[NEWLINE]Tăng +1 Điểm Thời đại cho mỗi hoạt động tấn công Gián điệp thành công.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CATEGORY_EXPLORATION">
+			<Text>Những con Rồng ở Đây</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CATEGORY_EXPLORATION_BONUS_GOLDEN_AGE">
+			<Text>Những con Rồng ở Đây Thời Vàng son:[NEWLINE]+3 [ICON_Citizen] Dân số mở đầu cho các thành phố định cư trên lục địa khác với thành phố đầu tiên của bạn. +2 [ICON_Movement] Di chuyển cho các đơn vị hải quân và khi lên tàu. +2 Lòng Trung thành cho mỗi lượt cho các thành phố không nằm trên lục địa của [ICON_Capital] Thủ đô ban đầu.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CATEGORY_EXPLORATION_BONUS_NORMAL_AGE">
+			<Text>Thưởng cống hiến Những con Rồng ở Đây:[NEWLINE]Tăng +3 Điểm Thời đại mỗi khi bạn khám phá một Lục địa mới hoặc kỳ quan tự nhiên. Tăng +1 Điểm Thời đại mỗi khi bạn tiêu diệt một đơn vị hải quân không phải của Man di.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CATEGORY_EXPLORATION_BONUS_DARK_AGE">
+			<Text>Thưởng cống hiến Những con Rồng ở Đây:[NEWLINE]Tăng +3 Điểm Thời đại mỗi khi bạn khám phá một Lục địa mới hoặc kỳ quan tự nhiên. Tăng +1 Điểm Thời đại mỗi khi bạn tiêu diệt một đơn vị hải quân không phải của Man di.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CATEGORY_INDUSTRIAL">
+			<Text>Động lực của Hơi nước</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CATEGORY_INDUSTRIAL_BONUS_GOLDEN_AGE">
+			<Text>Động lực của Hơi nước Thời Vàng son:[NEWLINE]+10% [ICON_Production] Sản xuất cho Thời đại Công nghiệp và các kỳ quan sau này. Các quận có Khu Tri thức [ICON_SCIENCE] Khoa học nằm liền kề cung cấp thưởng [ICON_PRODUCTION] Sản xuất.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CATEGORY_INDUSTRIAL_BONUS_NORMAL_AGE">
+			<Text>Thưởng cống hiến Động lực của Hơi nước:[NEWLINE]Tăng +1 Điểm Thời đại cho mỗi Khu Công nghiệp được xây dựng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CATEGORY_INDUSTRIAL_BONUS_DARK_AGE">
+			<Text>Thưởng cống hiến Động lực của Hơi nước:[NEWLINE]Tăng +1 Điểm Thời đại cho mỗi Khu Công nghiệp được xây dựng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CATEGORY_INFRASTRUCTURE">
+			<Text>Đài tưởng niệm</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CATEGORY_INFRASTRUCTURE_BONUS_GOLDEN_AGE">
+			<Text>Đài tưởng niệm Thời Vàng son:[NEWLINE]+2 [ICON_Movement] Di chuyển cho tất cả Thợ xây. Có thể mua các đơn vị dân cư bằng [ICON_Faith] Đức tin. Thợ xây và Dân cư rẻ hơn 30% khi mua bằng [ICON_FAITH] Đức tin và [ICON_GOLD] Vàng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CATEGORY_INFRASTRUCTURE_BONUS_NORMAL_AGE">
+			<Text>Thưởng cống hiến Đài tưởng niệm:[NEWLINE]Tăng +1 Điểm Thời đại mỗi khi bạn xây dựng một Quận đặc trưng mới.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CATEGORY_INFRASTRUCTURE_BONUS_DARK_AGE">
+			<Text>Thưởng cống hiến Đài tưởng niệm:[NEWLINE]Tăng +1 Điểm Thời đại mỗi khi bạn xây dựng một Quận đặc trưng mới.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CATEGORY_MILITARY">
+			<Text>Những cánh tay!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CATEGORY_MILITARY_BONUS_GOLDEN_AGE">
+			<Text>Những cánh tay!Thời Vàng son:[NEWLINE]Mở khóa một Khơi mào Chiến tranh cho phép giảm 75% phạt kẻ hiếu chiến so với chiến tranh chính thức và có thể sử dụng ngay lập tức sau khi Tố cáo mục tiêu. +15% [ICON_Production] Sản xuất cho các đơn vị quân đội.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CATEGORY_MILITARY_BONUS_NORMAL_AGE">
+			<Text>Thưởng cống hiến Những cánh tay!:[NEWLINE]Tăng +1 Điểm Thời đại mỗi khi bạn tiêu diệt một Quân đoàn không phải của Man di và +2 Điểm Thời đại mỗi khi bạn tiêu diệt một Quân đội không phải của Man di.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CATEGORY_MILITARY_BONUS_DARK_AGE">
+			<Text>Thưởng cống hiến Những cánh tay!:[NEWLINE]Tăng +1 Điểm Thời đại mỗi khi bạn tiêu diệt một Quân đoàn không phải của Man di và +2 Điểm Thời đại mỗi khi bạn tiêu diệt một Quân đội không phải của Man di.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CATEGORY_RELIGIOUS">
+			<Text>Di tản của Người truyền giáo</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CATEGORY_RELIGIOUS_BONUS_GOLDEN_AGE">
+			<Text>Di tản của Người truyền giáo Thời Vàng son:[NEWLINE]+2 [ICON_Movement] Di chuyển cho tất cả các Sứ giả, Tông Đồ, và Quan án Tôn giáo. Ngoài ra, những người mới được đào tạo sẽ được +2 Chi phí. +4 [ICON_GreatProphet] Tiên Tri vĩ đại điểm mỗi lượt.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CATEGORY_RELIGIOUS_BONUS_NORMAL_AGE">
+			<Text>Thưởng cống hiến Di tản của Người truyền giáo:[NEWLINE]Tăng +2 Điểm Thời đại mỗi khi bạn chuyển đổi thành phố theo Tôn giáo của bạn lần đầu tiên.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CATEGORY_RELIGIOUS_BONUS_DARK_AGE">
+			<Text>Thưởng cống hiến Di tản của Người truyền giáo:[NEWLINE]Tăng +2 Điểm Thời đại mỗi khi bạn chuyển đổi thành phố theo Tôn giáo của bạn lần đầu tiên.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CATEGORY_SCIENTIFIC">
+			<Text>Yêu cầu Miễn phí</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CATEGORY_SCIENTIFIC_BONUS_GOLDEN_AGE">
+			<Text>Yêu cầu Miễn phí Thời Vàng son:[NEWLINE] [ICON_TechBoosted] Eureka cung cấp thêm 10% chi phí công nghệ. Các quận có Khu Thương mại và Hải cảng [ICON_GOLD] Vàng nằm liền kề cung cấp thưởng [ICON_Science] Khoa học.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CATEGORY_SCIENTIFIC_BONUS_NORMAL_AGE">
+			<Text>Thưởng cống hiến Yêu cầu Miễn phí:[NEWLINE]Tăng +1 Điểm Thời đại mỗi khi bạn kích hoạt một [ICON_TechBoosted] Eureka. +1 Điểm Thời đại để xây dựng tòa nhà cung cấp Khoa học như là một sản lượng cơ bản.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CATEGORY_SCIENTIFIC_BONUS_DARK_AGE">
+			<Text>Thưởng cống hiến Yêu cầu Miễn phí:[NEWLINE]Tăng +1 Điểm Thời đại mỗi khi bạn kích hoạt một [ICON_TechBoosted] Eureka. +1 Điểm Thời đại để xây dựng tòa nhà cung cấp Khoa học như là một sản lượng cơ bản.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CATEGORY_TOURISM">
+			<Text>Ước gì Bạn ở Đây</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CATEGORY_TOURISM_BONUS_GOLDEN_AGE">
+			<Text>Ước gì Bạn ở Đây Thời Vàng son:[NEWLINE]Các thành phố với [ICON_Governor] Thống đốc nhận được +50% [ICON_Tourism] Du lịch từ Kỳ quan Thế giới. + 00% [ICON_Tourism] Du lịch cho tất cả các Công viên Quốc gia.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CATEGORY_TOURISM_BONUS_NORMAL_AGE">
+			<Text>Thưởng cống hiến Ước gì Bạn ở Đây:[NEWLINE]Tăng +1 Điểm Thời đại mỗi Cổ vật được khai quật.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CATEGORY_TOURISM_BONUS_DARK_AGE">
+			<Text>Thưởng cống hiến Ước gì Bạn ở Đây:[NEWLINE]Tăng +1 Điểm Thời đại mỗi Cổ vật được khai quật.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_NO_MOMENTS_TO_SHOW">
+			<Text>Nền văn minh của bạn chưa trải qua bất kỳ Khoảnh khắc Lịch sử nào.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<FrontEndText>
+		<!-- CivRoyale Main Menu Multiplayer Buttons -->
+		<Row Tag="LOC_MULTIPLAYER_MATCHMAKE_CIVROYALE">
+			<Text>Play Red Death (Battle Royale)</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_MATCHMAKE_CIVROYALE_OFFLINE">
+			<Text>[ICON_CheckFail]Join Red Death</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_MATCHMAKE_CIVROYALE_NEW_MODE">
+			<Text>[ICON_Exclamation]Join Red Death</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_MATCHMAKE_CIVROYALE_TT">
+			<Text>Automatically find and join a Red Death game.[NEWLINE][NEWLINE]Red Death is Civilization VI's spin on a Battle Royale mode. Play as survivors vying for the only ticket off a dying planet.</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_MATCHMAKE_CIVROYALE_OFFLINE_TT">
+			<Text>Red Death games are not available while Steam is offline.</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_HOWTOPLAY_CIVROYALE">
+			<Text>How to Play Red Death</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_HOWTOPLAY_CIVROYALE_TT">
+			<Text>View a quick tutorial on Red Death.</Text>
+		</Row>
+		<Row Tag="LOC_MAINMENU_MULTIPLAYER_CIVROYALE_NEW_MODE_TT">
+			<Text>New Red Death (Battle Royale) mode available!</Text>
+		</Row>
+		
+		<!-- CivRoyale How to Play -->
+		<Row Tag="LOC_CIVROYALE_INTRO_NEXT">
+			<Text>Next</Text>
+		</Row>
+		<Row Tag="LOC_CIVROYALE_INTRO_PREVIOUS">
+			<Text>Previous</Text>
+		</Row>
+		<Row Tag="LOC_CIVROYALE_INTRO_PLAY">
+			<Text>Play Red Death (Battle Royale)</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_CIVROYALE_INTRO_BODY">
+			<Text>Welcome to the end of the world! Red Death is a free-for-all battle to the last faction in the twilight of civilization on a dying planet. The goal is to be the last surviving faction and board the last drop-ship off the ruined planet.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_CIVROYALE_INTRO_DETAILS">
+			<Text>There are no cities. There is no diplomacy. You lose when your last Civilian unit is captured or killed.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_CIVROYALE_RED_DEATH_BODY">
+			<Text>The Red Death is a growing storm of radioactivity. Over time, the safe area shrinks as the Red Death engulfs the world. The safe areas and areas affected by the Red Death are indicated on the map. Be careful that the Red Death does not overtake you!</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_CIVROYALE_RED_DEATH_DETAILS">
+			<Text>Units in the Red Death take damage each turn. Units in water also take damage each turn. There’s a reason you’re trying to get off the planet.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_CIVROYALE_UNITS_BODY">
+			<Text>Find new units and gain experience by investigating the ruined cities, clearing Raider Outposts, and acquiring Supply Drops. These are the only ways you can get new units, so consider your attacks carefully!</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_CIVROYALE_UNITS_DETAILS">
+			<Text>Don’t forget that you can assign units to escort your Civilians, which makes them harder to capture or kill. Units in this scenario can earn new promotions to help you survive this lawless planet.</Text>
+		</Row>
+	</FrontEndText>
+</GameData>

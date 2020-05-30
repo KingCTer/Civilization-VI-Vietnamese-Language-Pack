@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<Row Tag="LOC_HOF_GRAPH_CITY_BUILDINGS">
+			<Text>City Buildings</Text>
+		</Row>
+		<Row Tag="LOC_HOF_GRAPH_CITY_CULTURE">
+			<Text>City Culture</Text>
+		</Row>
+		<Row Tag="LOC_HOF_GRAPH_CITY_DISTRICTS">
+			<Text>City Districts</Text>
+		</Row>
+		<Row Tag="LOC_HOF_GRAPH_CITY_FAITH">
+			<Text>City Faith</Text>
+		</Row>
+		<Row Tag="LOC_HOF_GRAPH_CITY_FOOD">
+			<Text>City Food</Text>
+		</Row>
+		<Row Tag="LOC_HOF_GRAPH_CITY_GOLD">
+			<Text>City Gold</Text>
+		</Row>
+		<Row Tag="LOC_HOF_GRAPH_CITY_POPULATION">
+			<Text>City Population</Text>
+		</Row>
+		<Row Tag="LOC_HOF_GRAPH_CITY_PRODUCTION">
+			<Text>City Production</Text>
+		</Row>
+		<Row Tag="LOC_HOF_GRAPH_CITY_SCIENCE">
+			<Text>City Science</Text>
+		</Row>
+		<Row Tag="LOC_HOF_GRAPH_CITY_TOURISM">
+			<Text>City Tourism</Text>
+		</Row>
+		<Row Tag="LOC_HOF_GRAPH_CITY_WONDERS">
+			<Text>City Wonders</Text>
+		</Row>
+		<Row Tag="LOC_HOF_GRAPH_PLAYER_BARBARIAN_CAMPS">
+			<Text>Barbarian Camps Cleared</Text>
+		</Row>
+		<Row Tag="LOC_HOF_GRAPH_PLAYER_BARBARIAN_KILLS">
+			<Text>Barbarians Killed</Text>
+		</Row>
+		<Row Tag="LOC_HOF_GRAPH_PLAYER_BUILDINGS">
+			<Text>Buildings Constructed</Text>
+		</Row>
+		<Row Tag="LOC_HOF_GRAPH_PLAYER_CITIES_CAPTURED">
+			<Text>Cities Captured</Text>
+		</Row>
+		<Row Tag="LOC_HOF_GRAPH_PLAYER_CITIES_FOUNDED">
+			<Text>Cities Founded</Text>
+		</Row>
+		<Row Tag="LOC_HOF_GRAPH_PLAYER_CITIES_LOST">
+			<Text>Cities Lost</Text>
+		</Row>
+		<Row Tag="LOC_HOF_GRAPH_PLAYER_CIVICS">
+			<Text>Civics Acquired</Text>
+		</Row>
+		<Row Tag="LOC_HOF_GRAPH_PLAYER_COMBATS">
+			<Text>Number of Combats</Text>
+		</Row>
+		<Row Tag="LOC_HOF_GRAPH_PLAYER_CULTURE">
+			<Text>Player Culture</Text>
+		</Row>
+		<Row Tag="LOC_HOF_GRAPH_PLAYER_DISTRICTS">
+			<Text>Districts Constructed</Text>
+		</Row>
+		<Row Tag="LOC_HOF_GRAPH_PLAYER_FAITH">
+			<Text>Player Faith</Text>
+		</Row>
+		<Row Tag="LOC_HOF_GRAPH_PLAYER_GOLD">
+			<Text>Player Gold</Text>
+		</Row>
+		<Row Tag="LOC_HOF_GRAPH_PLAYER_GOODY_HUTS">
+			<Text>Tribal Villages Discovered</Text>
+		</Row>
+		<Row Tag="LOC_HOF_GRAPH_PLAYER_GREAT_PEOPLE">
+			<Text>Great People Earned</Text>
+		</Row>
+		<Row Tag="LOC_HOF_GRAPH_PLAYER_NATURAL_WONDERS">
+			<Text>Natural Wonders Discovered</Text>
+		</Row>
+		<Row Tag="LOC_HOF_GRAPH_PLAYER_NUKES">
+			<Text>Nukes Launched</Text>
+		</Row>
+		<Row Tag="LOC_HOF_GRAPH_PLAYER_SCIENCE">
+			<Text>Player Science</Text>
+		</Row>
+		<Row Tag="LOC_HOF_GRAPH_PLAYER_SCORE">
+			<Text>Player Score</Text>
+		</Row>
+		<Row Tag="LOC_HOF_GRAPH_PLAYER_TECHS">
+			<Text>Technologies Acquired</Text>
+		</Row>
+		<Row Tag="LOC_HOF_GRAPH_PLAYER_UNITS_KILLED">
+			<Text>Units Killed</Text>
+		</Row>
+		<Row Tag="LOC_HOF_GRAPH_PLAYER_UNITS_LOST">
+			<Text>Units Lost</Text>
+		</Row>
+		<Row Tag="LOC_HOF_GRAPH_PLAYER_WARS_DECLARED">
+			<Text>Wars Declared</Text>
+		</Row>
+		<Row Tag="LOC_HOF_GRAPH_PLAYER_WARS_RECEIVED">
+			<Text>War Declarations Received</Text>
+		</Row>
+		<Row Tag="LOC_HOF_GRAPH_PLAYER_WONDERS">
+			<Text>Wonders Constructed</Text>
+		</Row>
+		<Row Tag="LOC_HOF_GRAPH_RELIGION_BELIEFS">
+			<Text>Religious Beliefs</Text>
+		</Row>
+		<Row Tag="LOC_HOF_GRAPH_RELIGION_CITIES">
+			<Text>Religious Cities</Text>
+		</Row>
+		<Row Tag="LOC_HOF_GRAPH_RELIGION_FOLLOWERS">
+			<Text>Religious Followers</Text>
+		</Row>
+		<Row Tag="LOC_HOF_REPORTS_CITY_STATUS">
+			<Text>City Status</Text>
+		</Row>
+		<Row Tag="LOC_HOF_REPORTS_CITY_STATUS_BUILDINGS">
+			<Text>Buildings</Text>
+		</Row>
+		<Row Tag="LOC_HOF_REPORTS_CITY_STATUS_DISTRICTS">
+			<Text>Districts</Text>
+		</Row>
+		<Row Tag="LOC_HOF_REPORTS_CITY_STATUS_INITIAL_COLUMN">
+			<Text>City</Text>
+		</Row>
+		<Row Tag="LOC_HOF_REPORTS_CITY_STATUS_POPULATION">
+			<Text>Population</Text>
+		</Row>
+		<Row Tag="LOC_HOF_REPORTS_CITY_STATUS_TURN_FOUNDED">
+			<Text>Turn Founded</Text>
+		</Row>
+		<Row Tag="LOC_HOF_REPORTS_CITY_STATUS_WONDERS">
+			<Text>Wonders</Text>
+		</Row>
+		<Row Tag="LOC_HOF_REPORTS_CITY_YIELDS">
+			<Text>City Yields</Text>
+		</Row>
+		<Row Tag="LOC_HOF_REPORTS_CITY_YIELDS_CULTURE">
+			<Text>Culture</Text>
+		</Row>
+		<Row Tag="LOC_HOF_REPORTS_CITY_YIELDS_FAITH">
+			<Text>Faith</Text>
+		</Row>
+		<Row Tag="LOC_HOF_REPORTS_CITY_YIELDS_FOOD">
+			<Text>Food</Text>
+		</Row>
+		<Row Tag="LOC_HOF_REPORTS_CITY_YIELDS_GOLD">
+			<Text>Gold</Text>
+		</Row>
+		<Row Tag="LOC_HOF_REPORTS_CITY_YIELDS_INITIAL_COLUMN">
+			<Text>City</Text>
+		</Row>
+		<Row Tag="LOC_HOF_REPORTS_CITY_YIELDS_PRODUCTION">
+			<Text>Production</Text>
+		</Row>
+		<Row Tag="LOC_HOF_REPORTS_CITY_YIELDS_SCIENCE">
+			<Text>Science</Text>
+		</Row>
+		<Row Tag="LOC_HOF_REPORTS_CITY_YIELDS_TOURISM">
+			<Text>Tourism</Text>
+		</Row>
+		<Row Tag="LOC_HOF_REPORTS_GOVERNMENTS">
+			<Text>Governments</Text>
+		</Row>
+		<Row Tag="LOC_HOF_REPORTS_GOVERNMENTS_INITIAL_COLUMN">
+			<Text>Government</Text>
+		</Row>
+		<Row Tag="LOC_HOF_REPORTS_GOVERNMENTS_TURNS_ACTIVE">
+			<Text>Turns Active</Text>
+		</Row>
+		<Row Tag="LOC_HOF_REPORTS_RELIGIONS">
+			<Text>Religions</Text>
+		</Row>
+		<Row Tag="LOC_HOF_REPORTS_RELIGIONS_BELIEFS">
+			<Text>Beliefs</Text>
+		</Row>
+		<Row Tag="LOC_HOF_REPORTS_RELIGIONS_CITIES">
+			<Text>Cities</Text>
+		</Row>
+		<Row Tag="LOC_HOF_REPORTS_RELIGIONS_FOLLOWERS">
+			<Text>Followers</Text>
+		</Row>
+		<Row Tag="LOC_HOF_REPORTS_RELIGIONS_FOUNDER">
+			<Text>Founder</Text>
+		</Row>
+		<Row Tag="LOC_HOF_REPORTS_RELIGIONS_HOLY_CITY">
+			<Text>Holy City</Text>
+		</Row>
+		<Row Tag="LOC_HOF_REPORTS_RELIGIONS_INITIAL_COLUMN">
+			<Text>Religion</Text>
+		</Row>
+		<Row Tag="LOC_HOF_REPORTS_RELIGIONS_TURN_FOUNDED">
+			<Text>Turn Founded</Text>
+		</Row>
+		<Row Tag="LOC_HOF_REPORTS_UNITS">
+			<Text>Units</Text>
+		</Row>
+		<Row Tag="LOC_HOF_REPORTS_UNITS_INITIAL_COLUMN">
+			<Text>Unit</Text>
+		</Row>
+		<Row Tag="LOC_HOF_REPORTS_UNITS_KILLS">
+			<Text>Kills</Text>
+		</Row>
+		<Row Tag="LOC_HOF_REPORTS_UNITS_LOST">
+			<Text>Lost</Text>
+		</Row>
+		<Row Tag="LOC_HOF_REPORTS_UNITS_TRAINED">
+			<Text>Trained</Text>
+		</Row>
+		<Row Tag="LOC_HOF_STAT_BARBARIANS_KILLED">
+			<Text>Barbarians Killed</Text>
+		</Row>
+		<Row Tag="LOC_HOF_STAT_BARBARIAN_CAMPS">
+			<Text>Barbarian Camps Cleared</Text>
+		</Row>
+		<Row Tag="LOC_HOF_STAT_CITIES_CAPTURED">
+			<Text>Cities Conquered</Text>
+		</Row>
+		<Row Tag="LOC_HOF_STAT_CITIES_FOUNDED">
+			<Text>Cities Founded</Text>
+		</Row>
+		<Row Tag="LOC_HOF_STAT_CITIES_LOST">
+			<Text>Cities Lost</Text>
+		</Row>
+		<Row Tag="LOC_HOF_STAT_CIVICS">
+			<Text>Civics Acquired</Text>
+		</Row>
+		<Row Tag="LOC_HOF_STAT_CIVIC_BOOSTS">
+			<Text>Civics Boosted</Text>
+		</Row>
+		<Row Tag="LOC_HOF_STAT_COMBATS">
+			<Text>Battles Fought</Text>
+		</Row>
+		<Row Tag="LOC_HOF_STAT_FAVORITE_GOVERNMENT">
+			<Text>Favorite Government</Text>
+		</Row>
+		<Row Tag="LOC_HOF_STAT_FAVORITE_GOVERNMENT_ANNOTATION">
+			<Text>Active for a combined {Amount: plural 1?{Amount} turn;other?{Amount} turns;}.</Text>
+		</Row>
+		<Row Tag="LOC_HOF_STAT_FAVORITE_UNIT">
+			<Text>Favorite Unit</Text>
+		</Row>
+		<Row Tag="LOC_HOF_STAT_FAVORITE_UNIT_ANNOTATION">
+			<Text>{Amount: plural 1?{Amount} unit;other?{Amount} units;} trained</Text>
+		</Row>
+		<Row Tag="LOC_HOF_STAT_GOODY_HUTS">
+			<Text>Tribal Villages Discovered</Text>
+		</Row>
+		<Row Tag="LOC_HOF_STAT_GOVERNMENT">
+			<Text>Government</Text>
+		</Row>
+		<Row Tag="LOC_HOF_STAT_GREAT_PEOPLE">
+			<Text>Great People Earned</Text>
+		</Row>
+		<Row Tag="LOC_HOF_STAT_LARGEST_CITY">
+			<Text>Largest City</Text>
+		</Row>
+		<Row Tag="LOC_HOF_STAT_LARGEST_CITY_ANNOTATION">
+			<Text>{Amount: plural 1?{Amount} citizen;other?{Amount} citizens;}</Text>
+		</Row>
+		<Row Tag="LOC_HOF_STAT_NATURAL_WONDERS">
+			<Text>Natural Wonders Discovered</Text>
+		</Row>
+		<Row Tag="LOC_HOF_STAT_NUKES">
+			<Text>Nuclear Missile Launches</Text>
+		</Row>
+		<Row Tag="LOC_HOF_STAT_POPULAR_RELIGION">
+			<Text>Most Followed Religion</Text>
+		</Row>
+		<Row Tag="LOC_HOF_STAT_POPULAR_RELIGION_ANNOTATION">
+			<Text>{Amount: plural 1?{Amount} follower;other?{Amount} followers;}.</Text>
+		</Row>
+		<Row Tag="LOC_HOF_STAT_RELGIONS_FOUNDED">
+			<Text>Religions Founded</Text>
+		</Row>
+		<Row Tag="LOC_HOF_STAT_STRONGEST_UNIT">
+			<Text>Strongest Unit</Text>
+		</Row>
+		<Row Tag="LOC_HOF_STAT_STRONGEST_UNIT_ANNOTATION">
+			<Text>Killed {Amount: plural 1?{Amount} unit;other?{Amount} units;}.</Text>
+		</Row>
+		<Row Tag="LOC_HOF_STAT_TECHS">
+			<Text>Techs Acquired</Text>
+		</Row>
+		<Row Tag="LOC_HOF_STAT_TECH_BOOSTS">
+			<Text>Techs Boosted</Text>
+		</Row>
+		<Row Tag="LOC_HOF_STAT_UNITS_KILLED">
+			<Text>Units Killed</Text>
+		</Row>
+		<Row Tag="LOC_HOF_STAT_UNITS_LOST">
+			<Text>Units Lost</Text>
+		</Row>
+		<Row Tag="LOC_HOF_STAT_UNITS_TRAINED">
+			<Text>Units Trained</Text>
+		</Row>
+		<Row Tag="LOC_HOF_STAT_WARS_DECLARED">
+			<Text>Wars Declared</Text>
+		</Row>
+		<Row Tag="LOC_HOF_STAT_WARS_RECEIVED">
+			<Text>Wars Received</Text>
+		</Row>
+		<Row Tag="LOC_HOF_STAT_WEAKEST_UNIT">
+			<Text>Weakest Unit</Text>
+		</Row>
+		<Row Tag="LOC_HOF_STAT_WEAKEST_UNIT_ANNOTATION">
+			<Text>{Amount: plural 1?{Amount} unit;other?{Amount} units;} lost.</Text>
+		</Row>
+		<Row Tag="LOC_HOF_STAT_WONDERS">
+			<Text>Wonders Built</Text>
+		</Row>
+	</EnglishText>
+</GameData>

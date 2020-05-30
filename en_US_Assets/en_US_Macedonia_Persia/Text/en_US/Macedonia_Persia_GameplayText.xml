@@ -1,0 +1,727 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<EnglishText>
+		<!-- Civ Info-->
+		<Row Tag="LOC_CIVILIZATION_MACEDON_DESCRIPTION">
+			<Text>Macedonian Empire</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_MACEDON_ADJECTIVE">
+			<Text>Macedonian</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_MACEDON_LOCATION">
+			<Text>Europe (and briefly parts of Asia and Africa)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_MACEDON_SIZE">
+			<Text>As a kingdom, roughly 25,800 square miles (67,000 square kilometers)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_MACEDON_POPULATION">
+			<Text>Pre-Alexander, perhaps 700,000</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_MACEDON_CAPITAL">
+			<Text>Aigai and Pella</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_PERSIA_DESCRIPTION">
+			<Text>Persian Empire</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_PERSIA_ADJECTIVE">
+			<Text>Persian</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_PERSIA_LOCATION">
+			<Text>Asia and Africa</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_PERSIA_SIZE">
+			<Text>At peak, 2.1 million square miles (5.5 million square km)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_PERSIA_POPULATION">
+			<Text>35 million at peak (estimated)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_PERSIA_CAPITAL">
+			<Text>Pasargadae, Babylon, Persepolis</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_ALEXANDER">
+			<Text>Great warlord, Alexander, beneath your sword shall Macedon spread throughout the world. Every kingdom shall be a unique challenge to overcome, but the rewards will be great if you remain true and brave. Turn away from peace, for there is no way to establish your legacy but from conquering vast lands. Charge, Alexander, and lead your people to glory!</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_CYRUS">
+			<Text>Claim the crown, Cyrus, King of Persia, for you are the anointed one. With immortal soldiers, and an unwavering faith, you will conquer and rule the peoples of the world. You may see many alliances forming around you, but do not be fooled - such is an antiquated and weak way of navigating the world. Make no promise unless it aids you in achieving your goals.</Text>
+		</Row>
+		<!-- Leader Agenda-->
+		<Row Tag="LOC_AGENDA_SHORT_LIFE_GLORY_NAME">
+			<Text>Short Life of Glory</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_SHORT_LIFE_GLORY_DESCRIPTION">
+			<Text>Likes civilizations at war with major powers other than Macedon. Has disdain for civilizations at peace.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_SHORT_LIFE_GLORY_XP2_DESCRIPTION">
+			<Text>Likes civilizations at war with major powers other than Macedon. Has disdain for civilizations at peace.  Grievances against this leader decay at twice the usual rate.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_BACKSTABBER_NAME">
+			<Text>Opportunist</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_BACKSTABBER_DESCRIPTION">
+			<Text>Likes leaders who have declared a Surprise War. Dismisses leaders who do not use Surprise War declarations.</Text>
+		</Row>
+		<!-- Trait Info-->
+		<Row Tag="LOC_TRAIT_CIVILIZATION_BUILDING_BASILIKOI_PAIDES_NAME">
+			<Text>Macedonian unique building: Basilikoi Paides</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_UNIT_HYPASPIST_NAME">
+			<Text>Macedonian unique unit: Hypaspist</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_UNIT_HETAIROI_NAME">
+			<Text>Alexander unique unit: Hetairoi</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_PAIRIDAEZA_NAME">
+			<Text>Persian unique building: Pairidaeza</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_UNIT_PAIRIDAEZA_NAME">
+			<Text>Persian unique unit: Immortal</Text>
+		</Row>
+		<!-- Macedon Cities-->
+		<Row Tag="LOC_CITY_NAME_PELLA">
+			<Text>Pella</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_AIGAI">
+			<Text>Aigai</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ALEXANDRIA">
+			<Text>Alexandria</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_METHONE">
+			<Text>Methone</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CHALKIDIKI">
+			<Text>Chalkidiki</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DION">
+			<Text>Dion</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ALEXANDROUPOLI">
+			<Text>Alexandroupoli</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_AMPHIPOLIS">
+			<Text>Amphipolis</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ALEXANDRIA_TROAS">
+			<Text>Alexandria Troas</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_PYDNA">
+			<Text>Pydna</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ALEXANDRIA_LATMUS">
+			<Text>Alexandria by the Latmus</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ALEXANDRETTA">
+			<Text>Alexandretta</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ALEXANDRIA_ARIA">
+			<Text>Alexandria in Aria</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ALEXANDRIA_PROPHTHASIA">
+			<Text>Alexandria Prophthasia</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ALEXANDRIA_ARACHOSIA">
+			<Text>Alexandria in Arachosia</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_AIANI">
+			<Text>Aiani</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ALEXANDRIA_CAUCASUS">
+			<Text>Alexandria in the Caucasus</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ALEXANDRIA_ESCHATE">
+			<Text>Alexandria Eschate</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_AKANTHOS">
+			<Text>Akanthos</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ALEXANDRIA_OXIANA">
+			<Text>Alexandria Oxiana</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HERACLEA_LYNCESTIS">
+			<Text>Heraclea Lyncestis</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ALEXANDRIA_BUCEPHALA">
+			<Text>Alexandria Bucephala</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ALEXANDRIA_NICAEA">
+			<Text>Alexandria Nicaea</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_PHILIPPOLIS">
+			<Text>Philippolis</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ALEXANDRIA_INDUS">
+			<Text>Alexandria on the Indus</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ALEXANDRIA_RHAMBACIA">
+			<Text>Alexandria Rhambacia</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_STAGIRA">
+			<Text>Stagira</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ALEXANDRIA_SUSIANA">
+			<Text>Alexandria in Susiana</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_APOLLONIA">
+			<Text>Apollonia</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BATMAN">
+			<Text>Batman</Text>
+		</Row>
+		<!-- Persia Cities-->
+		<Row Tag="LOC_CITY_NAME_PASARGADAE">
+			<Text>Pasargadae</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SUSA">
+			<Text>Susa</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HAGMATANA">
+			<Text>Hagmatana</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TARSUS">
+			<Text>Tarsus</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BAKHTRI">
+			<Text>Bakhtri</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SPARDA">
+			<Text>Sparda</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GORDIAN">
+			<Text>Gordian</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TUSHPA">
+			<Text>Tushpa</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_RAY">
+			<Text>Ray</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ZRANKA">
+			<Text>Zranka</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SHAHR_I_QUMIS">
+			<Text>Shahr-i Qumis</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_PARSA">
+			<Text>Parsa</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HALICARNASSUS">
+			<Text>Halicarnassus</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ISPAHAN">
+			<Text>Ispahan</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TYAIY_DRAYAHYA">
+			<Text>Tyaiy Drayahya </Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MAZAKA">
+			<Text>Mazaka</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HARAIVA">
+			<Text>Haraiva</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ANASHAN">
+			<Text>Anashan</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_PUSHKALAVATI">
+			<Text>Pushkalavati</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_PURA">
+			<Text>Pura</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TAXILA">
+			<Text>Taxila</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BUKHARA">
+			<Text>Bukhara</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GANZAK">
+			<Text>Ganzak</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MARAKANDA">
+			<Text>Marakanda</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_THAPSACUS">
+			<Text>Thapsacus</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ISTAKHR">
+			<Text>Istakhr</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ARTASHAT">
+			<Text>Artashat</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_IZKI">
+			<Text>Izki</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BORAZJAN">
+			<Text>Borazjan</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CYRA">
+			<Text>Cyra</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TOPRAK_QALA">
+			<Text>Toprak Qala</Text>
+		</Row>
+		<!-- Citizen Names -->
+		<Row Tag="LOC_CITIZEN_MACEDON_MALE_1">
+			<Text>Aeropus</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MACEDON_MALE_2">
+			<Text>Agathocles</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MACEDON_MALE_3">
+			<Text>Alcetas</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MACEDON_MALE_4">
+			<Text>Balacrus</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MACEDON_MALE_5">
+			<Text>Caranus</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MACEDON_MALE_6">
+			<Text>Crateuas</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MACEDON_MALE_7">
+			<Text>Koinos</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MACEDON_MALE_8">
+			<Text>Lysimachus</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MACEDON_MALE_9">
+			<Text>Orested</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MACEDON_MALE_10">
+			<Text>Tryimmas</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MACEDON_FEMALE_1">
+			<Text>Adea</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MACEDON_FEMALE_2">
+			<Text>Arsinoe</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MACEDON_FEMALE_3">
+			<Text>Berenice</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MACEDON_FEMALE_4">
+			<Text>Cynane</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MACEDON_FEMALE_5">
+			<Text>Europa</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MACEDON_FEMALE_6">
+			<Text>Gygaea</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MACEDON_FEMALE_7">
+			<Text>Nicaea</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MACEDON_FEMALE_8">
+			<Text>Philinna</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MACEDON_FEMALE_9">
+			<Text>Phthia</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MACEDON_FEMALE_10">
+			<Text>Stratonice</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MACEDON_MODERN_MALE_1">
+			<Text>Argyris</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MACEDON_MODERN_MALE_2">
+			<Text>Eleftherios</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MACEDON_MODERN_MALE_3">
+			<Text>Haris</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MACEDON_MODERN_MALE_4">
+			<Text>Ioannis</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MACEDON_MODERN_MALE_5">
+			<Text>Omiros</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MACEDON_MODERN_MALE_6">
+			<Text>Prokopis</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MACEDON_MODERN_MALE_7">
+			<Text>Stephanos</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MACEDON_MODERN_MALE_8">
+			<Text>Thanasis</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MACEDON_MODERN_MALE_9">
+			<Text>Tryfon</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MACEDON_MODERN_MALE_10">
+			<Text>Zinon</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MACEDON_MODERN_FEMALE_1">
+			<Text>Chrysanthi</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MACEDON_MODERN_FEMALE_2">
+			<Text>Dimitra</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MACEDON_MODERN_FEMALE_3">
+			<Text>Evdokia</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MACEDON_MODERN_FEMALE_4">
+			<Text>Kyveli</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MACEDON_MODERN_FEMALE_5">
+			<Text>Melpomeni</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MACEDON_MODERN_FEMALE_6">
+			<Text>Nefeli</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MACEDON_MODERN_FEMALE_7">
+			<Text>Paraskevi</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MACEDON_MODERN_FEMALE_8">
+			<Text>Polyxeni</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MACEDON_MODERN_FEMALE_9">
+			<Text>Theofania</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MACEDON_MODERN_FEMALE_10">
+			<Text>Zinovia</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_PERSIA_MALE_1">
+			<Text>Ariomardus</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_PERSIA_MALE_2">
+			<Text>Arsames</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_PERSIA_MALE_3">
+			<Text>Arsites</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_PERSIA_MALE_4">
+			<Text>Bardiya</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_PERSIA_MALE_5">
+			<Text>Cambyses</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_PERSIA_MALE_6">
+			<Text>Gaumata</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_PERSIA_MALE_7">
+			<Text>Hydarnes</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_PERSIA_MALE_8">
+			<Text>Otanes</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_PERSIA_MALE_9">
+			<Text>Oxyathres</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_PERSIA_MALE_10">
+			<Text>Sogdianus</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_PERSIA_FEMALE_1">
+			<Text>Artistun</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_PERSIA_FEMALE_2">
+			<Text>Cassandane</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_PERSIA_FEMALE_3">
+			<Text>Drypetis</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_PERSIA_FEMALE_4">
+			<Text>Parmida</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_PERSIA_FEMALE_5">
+			<Text>Parysatis</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_PERSIA_FEMALE_6">
+			<Text>Phaedymia</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_PERSIA_FEMALE_7">
+			<Text>Roxana</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_PERSIA_FEMALE_8">
+			<Text>Sisygambis</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_PERSIA_FEMALE_9">
+			<Text>Stateira</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_PERSIA_FEMALE_10">
+			<Text>Amytis</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_PERSIA_MODERN_MALE_1">
+			<Text>Arash</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_PERSIA_MODERN_MALE_2">
+			<Text>Dariush</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_PERSIA_MODERN_MALE_3">
+			<Text>Firdaus</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_PERSIA_MODERN_MALE_4">
+			<Text>Jalal</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_PERSIA_MODERN_MALE_5">
+			<Text>Kianoush</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_PERSIA_MODERN_MALE_6">
+			<Text>Rostam</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_PERSIA_MODERN_MALE_7">
+			<Text>Saam</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_PERSIA_MODERN_MALE_8">
+			<Text>Soheil</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_PERSIA_MODERN_MALE_9">
+			<Text>Vahid</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_PERSIA_MODERN_MALE_10">
+			<Text>Zubin</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_PERSIA_MODERN_FEMALE_1">
+			<Text>Banu</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_PERSIA_MODERN_FEMALE_2">
+			<Text>Darya</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_PERSIA_MODERN_FEMALE_3">
+			<Text>Firuzeh</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_PERSIA_MODERN_FEMALE_4">
+			<Text>Golnar</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_PERSIA_MODERN_FEMALE_5">
+			<Text>Laleh</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_PERSIA_MODERN_FEMALE_6">
+			<Text>Niusha</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_PERSIA_MODERN_FEMALE_7">
+			<Text>Roghayeh</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_PERSIA_MODERN_FEMALE_8">
+			<Text>Simin</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_PERSIA_MODERN_FEMALE_9">
+			<Text>Yasamin</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_PERSIA_MODERN_FEMALE_10">
+			<Text>Zareen</Text>
+		</Row>
+		<!-- Wonders-->
+		<Row Tag="LOC_BUILDING_APADANA_NAME">
+			<Text>Apadana</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_APADANA_DESCRIPTION">
+			<Text>+2 [ICON_ENVOY] Envoys when you build a wonder, including Apadana, in this city.[NEWLINE][NEWLINE]Must be built adjacent to your [ICON_CAPITAL] Capital.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_HALICARNASSUS_MAUSOLEUM_NAME">
+			<Text>Mausoleum at Halicarnassus </Text>
+		</Row>
+    <Row Tag="LOC_BUILDING_HALICARNASSUS_MAUSOLEUM_DESCRIPTION">
+      <Text>+1 [ICON_Science] Science, +1 [ICON_Faith] Faith, and +1 [ICON_Culture] Culture on all Coast tiles for this city. [ICON_GREATENGINEER] Great Engineers have an additional charge. Must be built adjacent to a Harbor district.</Text>
+    </Row>
+		<!-- Diplo Text-->
+		<Row Tag="LOC_DIPLO_MODIFIER_SHORT_LIFE_GLORY_AT_WAR">
+			<Text>Alexander is happy to see your civilization is at war with others.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_SHORT_LIFE_GLORY_NOT_AT_WAR">
+			<Text>Alexander is not happy to see your civilization is currently at peace.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_BACKSTABBER_USED_SURPRISE_WAR">
+			<Text>Cyrus is pleased to see your Surprise War declaration.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_BACKSTABBER_NOT_AT_WAR">
+			<Text>Cyrus is displeased by your failiure to declare a Surprise War.</Text>
+		</Row>
+		<!-- Dialog Text Alexander -->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_ALEXANDER_ANY">
+			<Text>The people of Macedon welcome this lasting friendship.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_ALEXANDER_ANY">
+			<Text>It's too early to tell if our friendship is meant to be. Only the Gods themselves know for sure.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_ALEXANDER_ANY">
+			<Text>I consider you a true friend, I hope that I have earned that same trust in you.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_ALEXANDER_ANY">
+			<Text>The people of Macedon welcome this lasting friendship.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_ALEXANDER_ANY">
+			<Text>It's too early to tell if our friendship is meant to be. Only the Gods themselves know for sure.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_ALEXANDER_ANY">
+			<Text>Peace was never of all that much interest to me anyway.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ALEXANDER_ANY">
+			<Text>The armies of Greece await you with open arms!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_ALEXANDER_ANY">
+			<Text>I appreciate the offerings. Rest assured, your delegation will enjoy all that Macedon has to offer while in my kingdom.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_ALEXANDER_ANY">
+			<Text>I would never accept that!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_ALEXANDER_ANY">
+			<Text>I've dispatched a trade delegation bearing gifts of the finest wine and olive oil Macedon has to offer. I trust you'll greet my envoys warmly?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_ALEXANDER_ANY">
+			<Text>Your slanderous tongue will make it all the more satisfying when I stand before the ruins of your capital!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_ALEXANDER_ANY">
+			<Text>I've dealt with traitors and deserters alike that were still more honorable than you! (Denounces You).</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_ALEXANDER_ANY">
+			<Text>Greetings! I am Alexander of Macedon, the King and the Pharaoh, the undefeated General of Greece! Surely you've heard of me?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_ALEXANDER_ANY">
+			<Text>Come and visit the nearest of my cities, walk amongst the bustling Agorai of Macedon and see how trade flourishes among my people.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_ALEXANDER_ANY">
+			<Text>Let it be done.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_ALEXANDER_ANY">
+			<Text>Have you heard of the exceptionally defensible Pella? Perhaps we could share tales of our great capitals!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_ALEXANDER_ANY">
+			<Text>Welcome!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_ALEXANDER_ANY">
+			<Text>I hope we never meet in battle, it would be a shame to lose such a worthy foe.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_ALEXANDER_ANY">
+			<Text>How do you intend on growing your empire if you refuse to fight for your people?!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_ALEXANDER_ANY">
+			<Text>As allies, we could support each other’s conquests. I won’t even charge you tribute!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_ALEXANDER_ANY">
+			<Text>I suppose I can occupy my armies elsewhere, for now.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_ALEXANDER_ANY">
+			<Text>Don't waste my time.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_ALEXANDER_ANY">
+			<Text>I believe the time has come for peace. What say you?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_ALEXANDER_ANY">
+			<Text>I trust you'll respect the privilege of crossing our lands.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_ALEXANDER_ANY">
+			<Text>It could be dangerous for your armies to traverse these lands in such proximity to my own forces.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_ALEXANDER_ANY">
+			<Text>Would you allow us to march beyond your territories? We seek the Great Outer Sea!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_ALEXANDER_ANY">
+			<Text>My scouts tell me you mass forces near our borders. Beware, my armies are easily tempted to war.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_NEGATIVE_LEADER_ALEXANDER_ANY">
+			<Text>My armies will move freely and without any interference from you!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_POSITIVE_LEADER_ALEXANDER_ANY">
+			<Text>There must be some mistake, you aren't meant to incur the wrath of my armies just yet.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_ALEXANDER_ANY">
+			<Text>Just as quickly as it began, my long march finally comes to end.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_ALEXANDER_ANY">
+			<Text>Not likely.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_ALEXANDER_ANY">
+			<Text>Agreed!</Text>
+		</Row>
+		<!-- Dialog Text Cyrus -->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_CYRUS_ANY">
+			<Text>We are always pleased to form strong friendships. Where would we be without our friends?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_CYRUS_ANY">
+			<Text>Persia is always looking for trusted friends. When we can be sure you are one, we will be in touch.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_CYRUS_ANY">
+			<Text>You are among our most trusted friends. We can only hope you see us in the same light.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_CYRUS_ANY">
+			<Text>Then it is decided.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_CYRUS_ANY">
+			<Text>How unfortunate.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_CYRUS_ANY">
+			<Text>Have you not heard the tales? The storied might of my armies? See for yourself.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_CYRUS_ANY">
+			<Text>It is time I show your people how they might fare under a competent ruler.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_CYRUS_ANY">
+			<Text>I have personally welcomed your envoy to the kingdom of Persia. I can only hope for fruitful negotiations that best serve both our interests.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_CYRUS_ANY">
+			<Text>We decline.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_CYRUS_ANY">
+			<Text>I've sent a trade emissary to your kingdom with gifts of mirrored glass and pottery from our finest craftsmen. I'm sure you will treat my envoy with the same respect you've shown me?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_CYRUS_ANY">
+			<Text>It can only be with fear and ignorance that a declaration such as this could be made against the benevolent governance of Persia.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_CYRUS_ANY">
+			<Text>We denounce everything you stand for! Persia seeks only to distance itself from you and your ways. (Denounces You).</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_CYRUS_ANY">
+			<Text>You stand before the great Cyrus of Persia. I'm sure we'll become fast friends, at least for the time being.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_CYRUS_ANY">
+			<Text>You should visit our nearby city my friend, bask in the splendor of Persia's artistry and grand architecture.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_CYRUS_ANY">
+			<Text>A reasonable offer.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_CYRUS_ANY">
+			<Text>I've heard intriguing things about your capital. Perhaps a cultural exchange of some sort could be mutually beneficial? </Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_CYRUS_ANY">
+			<Text>What brings you before me?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_CYRUS_ANY">
+			<Text>I understand all too well, there are some opportunities one simply can't pass up.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_CYRUS_ANY">
+			<Text>If there's deception afoot, I prefer it when I am the one providing the intrigue.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_CYRUS_ANY">
+			<Text>It is an alliance of convenience, nothing more. But an alliance nonetheless.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_CYRUS_ANY">
+			<Text>Yes. Excellent.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_CYRUS_ANY">
+			<Text>Do you take us for fools?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_CYRUS_ANY">
+			<Text>Let us come to peace.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_CYRUS_ANY">
+			<Text>Let us hope this heralds the beginning of a deeper understanding between our empires.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_CYRUS_ANY">
+			<Text>Now is not the time for my kingdom to open its doors to outsiders. Perhaps we can revisit this issue in the future.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_CYRUS_ANY">
+			<Text>The opening of our borders will no doubt strengthen both our nations. What do you say?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_CYRUS_ANY">
+			<Text>I can only assume this show of force was undertaken by mistake. Should I expect a careful withdrawal from our borders momentarily?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_NEGATIVE_LEADER_CYRUS_ANY">
+			<Text>If you are so intent on war, then the armies of Persia embrace you!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_POSITIVE_LEADER_CYRUS_ANY">
+			<Text>We meant no disrespect. Our forces will relinquish their position immediately.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_CYRUS_ANY">
+			<Text>So rarely have I seen this side of war.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_CYRUS_ANY">
+			<Text>You presume to take advantage of me?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_CYRUS_ANY">
+			<Text>A reasonable offer.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

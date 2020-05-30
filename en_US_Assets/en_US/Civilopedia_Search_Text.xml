@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<GameData >
+	<EnglishText>
+		<Row Tag="LOC_PEDIA_SEARCH_TERM_ARMIES">
+			<Text>Armies</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_SEARCH_TERM_ARMADA">
+			<Text>Armada</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_SEARCH_TERM_CORPS">
+			<Text>Corps</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_SEARCH_TERM_FLEET">
+			<Text>Fleet</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_SEARCH_TERM_THERMONUCLEAR">
+			<Text>Thermonuclear</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_SEARCH_TERM_NUCLEAR">
+			<Text>Nuclear</Text>
+		</Row>
+	</EnglishText>
+</GameData>

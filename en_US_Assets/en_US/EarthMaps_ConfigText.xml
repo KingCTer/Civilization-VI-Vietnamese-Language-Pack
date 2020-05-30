@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<!-- Name and Description-->
+		<Row Tag="LOC_TSLEARTH_NAME">
+			<Text>True Start Location Earth</Text>
+		</Row>
+		<Row Tag="LOC_TSLEARTH_DESCRIPTION">
+			<Text>Civilizations start at the location of their historic capital on the Earth map.</Text>
+		</Row>
+		<Row Tag="LOC_EARTH_MAP_STANDARD_NAME">
+			<Text>Earth</Text>
+		</Row>
+		<Row Tag="LOC_EARTH_MAP_STANDARD_DESCRIPTION">
+			<Text>A representation of Earth with resources, terrain, and features reflecting their historic locations.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<EnglishText>
+		<Row Tag="LOC_EPIC_MULTIPLAYER_MATCHMAKE_CIVROYALE_OFFLINE_TT">
+			<Text>Red Death games are not available while Epic is offline.</Text>
+		</Row>
+		<Row Tag="LOC_EPIC_PBC_OVERVIEW_DESC">
+			<Text>
+				Play By Cloud is an asynchronous multiplayer format where all players take their turns on a common savegame, which is stored on a hosted server. This is a more modern version of “passing the savegame,” which was the ancient practice of sharing a floppy disk with a common save file between friends (if you are unfamiliar with the concept of a “floppy disk,” please ask a respected adult of venerable age).[NEWLINE][NEWLINE]A Play By Cloud game may last a long time (on the order of days or weeks) as each player takes his or her turn at a time that is convenient to them. You will receive notifications when it is your turn to play. You may see an Epic notification if Epic is active, or you may use the webhooks. Webhooks are a generic message format that the technically-inclined can integrate into other messaging services, email, or Internet of Things devices.[NEWLINE][NEWLINE]In asynchronous multiplayer, it is considered courteous to take your turn at your earliest possible convenience to keep the game moving. In ancient times, players were morally obligated to protect the floppy disk from corruption, with unscrupulous players resorting to “losing” the savegame when in an untenable situation. Play By Cloud eliminates such rascally behavior.
+			</Text>
+		</Row>		
+		<Row Tag="LOC_EPIC_MULTIPLAYER_INTERNET_GAME_OFFLINE_TT">
+			<Text>Internet games are not available while Epic is offline.</Text>
+		</Row>
+		<Row Tag="LOC_EPIC_INVITE_BUTTON_TT">
+			<Text>Invite friends from your Epic friends list to this game.</Text>
+		</Row>
+		<Row Tag="LOC_EPIC_FRIEND_ACTION_PROFILE">
+			<Text>Epic Profile</Text>
+		</Row>
+		<Row Tag="LOC_EPIC_PRIVATE_GAME_DESC">
+			<Text>Private games are not shown in the multiplayer lobby.  A private game is only accessable thru a game invite or the Epic friends list.  This setting does not apply to Local Network games.</Text>
+		</Row>
+		<Row Tag="EPIC_PLAYERACTION_FRIENDREQUEST_TOOLTIP">
+			<Text>Add this player as a friend on Epic.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EPIC_MY2K_MODE_UNLINKED_TOOLTIP">
+		  <Text>Sign up for a 2K Account to unlock the Scout Cat reward (requires game restart) and enable cross-platform cloud saves so you can start your game on Epic and continue it on other platforms. Additionally, you’ll receive the latest Sid Meier’s Civilization news!</Text>
+		</Row>
+	</EnglishText>
+</GameData>

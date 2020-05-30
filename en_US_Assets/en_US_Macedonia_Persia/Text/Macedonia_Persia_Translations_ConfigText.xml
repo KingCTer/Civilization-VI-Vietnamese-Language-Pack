@@ -1,0 +1,1154 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <LocalizedText>
+    <Replace Tag="LOC_BUILDING_BASILIKOI_PAIDES_NAME" Language="pt_BR">
+      <Text>Academia dos Basilikoi Paides|Academias dos Basilikoi Paides</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_PAIRIDAEZA_NAME" Language="pt_BR">
+      <Text>Pairi-daeza|Pairi-daeza</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_MACEDON_NAME" Language="pt_BR">
+      <Text>Macedônia</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PERSIA_NAME" Language="pt_BR">
+      <Text>Pérsia</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_ALEXANDER_NAME" Language="pt_BR">
+      <Text>Alexandre</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CYRUS_NAME" Language="pt_BR">
+      <Text>Ciro</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_HELLENISTIC_FUSION_NAME" Language="pt_BR">
+      <Text>Fusão helenística</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_HELLENISTIC_FUSION_DESCRIPTION" Language="pt_BR">
+      <Text>Recebe aperfeiçoamentos na conquista da cidade: um [ICON_TechBoosted] Eureka para cada Acampamento ou Campus na cidade conquistada e uma [ICON_CivicBoosted] Inspiração para cada Local Sagrado ou Teatro.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SATRAPIES_NAME" Language="pt_BR">
+      <Text>Sátrapas</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SATRAPIES_DESCRIPTION" Language="pt_BR">
+      <Text>+1 de capacidade de [ICON_TradeRoute] rota comercial com o cívico de Filosofia Política. Recebe +2 de [ICON_Gold] ouro e +1 de [ICON_Culture] cultura de rotas entre as suas próprias cidades. Estradas construídas no seu território são um nível mais avançadas que o de costume.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_TO_WORLDS_END_NAME" Language="pt_BR">
+      <Text>Até o fim do mundo</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_TO_WORLDS_END_DESCRIPTION" Language="pt_BR">
+      <Text>Cidades não recebem fadiga de guerra. Todas as unidades militares se curam completamente quando o jogador captura uma cidade com uma maravilha do mundo.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_FALL_BABYLON_NAME" Language="pt_BR">
+      <Text>Queda da Babilônia</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_FALL_BABYLON_DESCRIPTION" Language="pt_BR">
+      <Text>+2 de [ICON_Movement] movimento nos 10 primeiros turnos após declarar guerra surpresa a uma grande civilização. Nenhuma penalidade à produção em cidades ocupadas. Declarar uma guerra surpresa apenas conta como guerra formal para contabilizar as penalidades de belicosidade e fadiga.</Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_BASILIKOI_PAIDES_DESCRIPTION" Language="pt_BR">
+      <Text>Uma construção exclusiva da Macedônia. +25% de experiência de combate para todas as unidades terrestres corpo a corpo e a distância e heteros treinados nesta cidade. Ganha [ICON_SCIENCE] ciência igual a 25% do preço da unidade quando uma unidade não civil é criada nesta cidade.[NEWLINE][NEWLINE]Não pode ser construída em um distrito de Acampamento que já tenha um Estábulo.</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_PAIRIDAEZA_DESCRIPTION" Language="pt_BR">
+      <Text>Desbloqueia a habilidade de Construtores para construir uma Pairi-daeza.[NEWLINE][NEWLINE]+1 de [ICON_CULTURE] cultura e +2 de [ICON_GOLD] ouro. +2 de apelo. +1 de [ICON_CULTURE] cultura para cada Local Sagrado e Teatro adjacente. +1 de [ICON_GOLD] ouro para cada Centro Comercial e Centro da Cidade adjacente. [ICON_Culture]Cultura e [ICON_Tourism] Turismo adicionais conforme você avança pelas árvores de tecnologias e cívica. Não pode ser construída em neve, tundra, colina com neve ou colina com tundra ou adjacente a outra Pairi-daeza.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_MACEDONIAN_HYPASPIST_DESCRIPTION" Language="pt_BR">
+      <Text>Unidade corpo a corpo exclusiva da Macedônia que substitui o Espadachim. +5 de [ICON_Strength] força de combate ao sitiar distritos. 50% de bônus de suporte adicional.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_MACEDONIAN_HETAIROI_DESCRIPTION" Language="pt_BR">
+      <Text>Unidade de cavalaria pesada exclusiva da Macedônia que substitui os Cavaleiros. Adicional de +5 de [ICON_Strength] força de combate quando adjacente a um Grande General. +5 pontos de Grande General ao matar uma unidade inimiga. Começa com uma promoção gratuita.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_PERSIAN_IMMORTAL_DESCRIPTION" Language="pt_BR">
+      <Text>Unidade corpo a corpo exclusiva da Pérsia que substitui o Espadachim. Unidade de classe corpo a corpo com ataque de longo alcance com 2 de [ICON_Range] alcance. Grande força de defesa.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_HYPASPIST_SIEGE_BONUS_DESCRIPTION" Language="pt_BR">
+      <Text>+5 quando sitiando um distrito</Text>
+    </Replace>
+    <Replace Tag="LOC_HETAIROI_GREAT_GENERAL_COMBAT_BONUS_DESCRIPTION" Language="pt_BR">
+      <Text>+5 de bônus de combate de Grande General adjacente</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_FALL_BABYLON_EXPANSION1_DESCRIPTION" Language="pt_BR">
+      <Text>+2 de [ICON_Movement] movimento nos 10 primeiros turnos após declarar guerra surpresa a uma grande civilização. +5 de lealdade por turno em cidades ocupadas com uma unidade guarnecida. Declarar uma guerra surpresa apenas conta como guerra formal para contabilizar as penalidades de belicosidade e fadiga.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_HELLENISTIC_FUSION_EXPANSION1_DESCRIPTION" Language="pt_BR">
+      <Text>Ao conquistar uma cidade que não é uma cidade livre, receba um [ICON_TechBoosted] Eureka para cada Acampamento ou Campus na cidade conquistada e uma [ICON_CivicBoosted] Inspiração para cada Local Sagrado ou Teatro.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_HYPASPIST_DESCRIPTION" Language="pt_BR">
+      <Text>+5 de [ICON_Strength] força de combate ao sitiar distritos.[NEWLINE][ICON_Bullet]+50% de bônus de suporte.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_HETAIROI_DESCRIPTION" Language="pt_BR">
+      <Text>+5 de [ICON_Strength] força de combate quando adjacente a um Grande General.[NEWLINE][ICON_Bullet]+5 pontos de Grande General ao matar uma unidade inimiga.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_BASILIKOI_TRAINED_UNIT_XP_DESCRIPTION" Language="pt_BR">
+      <Text>+25% de experiência de combate da Academia dos Basilikoi Paides.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_FALL_BABYLON_EXPANSION2_DESCRIPTION" Language="pt_BR">
+      <Text>+2 de [ICON_Movement] movimento nos 10 primeiros turnos após declarar guerra surpresa a uma grande civilização. +5 de lealdade por turno em cidades ocupadas com uma unidade guarnecida. Declarar uma guerra surpresa apenas conta como guerra formal para contabilizar as [ICON_STAT_GRIEVANCE] Queixas e a belicosidade.</Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_BASILIKOI_PAIDES_EXPANSION2_DESCRIPTION" Language="pt_BR">
+      <Text>Uma construção exclusiva da Macedônia. +25% de experiência de combate para todas as unidades terrestres corpo a corpo e a distância e heteros treinados nesta cidade. Ganha [ICON_SCIENCE] ciência igual a 25% do preço da unidade quando uma unidade não civil é criada nesta cidade.[NEWLINE][NEWLINE]Estoques de recurso estratégico aumentados em +10 (na velocidade padrão).[NEWLINE][NEWLINE]Não pode ser construída em um distrito de Acampamento que já tenha um Estábulo.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_MACEDONIAN_HYPASPIST_NAME" Language="pt_BR">
+      <Text>Hipaspista</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_UNIT_MACEDONIAN_HETAIROI_NAME" Language="pt_BR">
+      <Text>Heteros</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_UNIT_PERSIAN_IMMORTAL_NAME" Language="pt_BR">
+      <Text>Imortais</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_BASILIKOI_PAIDES_NAME" Language="fr_FR">
+      <Text>Basilikoi Paides</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_PAIRIDAEZA_NAME" Language="fr_FR">
+      <Text>Pairidaēza</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_MACEDON_NAME" Language="fr_FR">
+      <Text>Macédoine</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PERSIA_NAME" Language="fr_FR">
+      <Text>Perse</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_ALEXANDER_NAME" Language="fr_FR">
+      <Text>Alexandre</Text>
+      <Gender>masculine:no_article</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CYRUS_NAME" Language="fr_FR">
+      <Text>Cyrus</Text>
+      <Gender>masculine:no_article</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_HELLENISTIC_FUSION_NAME" Language="fr_FR">
+      <Text>Fusion hellénistique</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_HELLENISTIC_FUSION_DESCRIPTION" Language="fr_FR">
+      <Text>Vous recevez une amélioration pour chaque ville capturée : un [ICON_TechBoosted] Eurêka ! pour chaque campement ou campus de la ville conquise, et une [ICON_CivicBoosted] inspiration pour chaque lieu saint ou place du théâtre.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SATRAPIES_NAME" Language="fr_FR">
+      <Text>Satrapies</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SATRAPIES_DESCRIPTION" Language="fr_FR">
+      <Text>[ICON_TradeRoute] Routes commerciales +1 avec la philosophie politique. [ICON_Gold] Or +2 et [ICON_Culture] culture +1 pour les routes reliant vos villes entre elles. Les routes construites sur votre territoire sont d'un niveau supérieur.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_TO_WORLDS_END_NAME" Language="fr_FR">
+      <Text>Jusqu'au bout du monde</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_TO_WORLDS_END_DESCRIPTION" Language="fr_FR">
+      <Text>Les villes ne génèrent pas d'usure de guerre. Toutes les unités militaires sont entièrement soignées si le joueur capture une ville dotée d'une merveille mondiale.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_FALL_BABYLON_NAME" Language="fr_FR">
+      <Text>Chute de Babylone</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_FALL_BABYLON_DESCRIPTION" Language="fr_FR">
+      <Text>[ICON_Movement] PM +2 les dix premiers tours après avoir déclaré une guerre surprise à une civilisation majeure. Aucune pénalité pour les rendements des villes occupées. Une guerre surprise ne compte comme une guerre formelle que pour le bellicisme et l'usure.</Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_BASILIKOI_PAIDES_DESCRIPTION" Language="fr_FR">
+      <Text>Bâtiment exclusif à la Macédoine. Expérience au combat +25 % pour toutes les unités de combat rapproché, d'attaque à distance terrestres et Hétairoi formés dans cette ville. Bonus de [ICON_SCIENCE] science égal à 25 % du coût de l'unité lorsqu'une unité civile est formée dans cette ville. [NEWLINE][NEWLINE]Construction impossible dans un campement possédant déjà une écurie.</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_PAIRIDAEZA_DESCRIPTION" Language="fr_FR">
+      <Text>Débloque la compétence de bâtisseur permettant de construire un pairidaēza, exclusif à la Perse. [NEWLINE][NEWLINE][ICON_CULTURE] Culture +1 et [ICON_GOLD] or +2. Attrait +2. [ICON_CULTURE] Culture +1 pour chaque lieu saint et place du théâtre adjacent. [ICON_GOLD] Or +1 pour chaque plateforme commerciale et centre-ville adjacent. [ICON_Culture] Culture et [ICON_Tourism] tourisme additionnels à mesure que vous progressez dans l'arbre des technologies et celui des dogmes. Construction impossible sur une case de neige, de toundra, de colline enneigée ou de colline de toundra, ou adjacent à un autre pairidaēza.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_MACEDONIAN_HYPASPIST_DESCRIPTION" Language="fr_FR">
+      <Text>Exclusive à la Macédoine, cette unité de combat rapproché remplace le spadassin. [ICON_Strength] Puissance de combat +5 en cas de siège d'un quartier. Bonus de soutien +50 %.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_MACEDONIAN_HETAIROI_DESCRIPTION" Language="fr_FR">
+      <Text>Exclusive à la Macédoine, cette unité de cavalerie lourde remplace le cavalier. [ICON_Strength] Puissance de combat +5 si adjacent à un général illustre. Points de [ICON_GreatGeneral] général illustre +5 pour chaque ennemi tué, et commence avec une promotion gratuite.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_PERSIAN_IMMORTAL_DESCRIPTION" Language="fr_FR">
+      <Text>Exclusive à la Perse, cette unité de combat rapproché remplace le spadassin. Pouvant également attaquer à distance, sa [ICON_Range] portée est de deux cases et elle possède une défense puissante.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_HYPASPIST_SIEGE_BONUS_DESCRIPTION" Language="fr_FR">
+      <Text>+5 en cas de siège d'un quartier.</Text>
+    </Replace>
+    <Replace Tag="LOC_HETAIROI_GREAT_GENERAL_COMBAT_BONUS_DESCRIPTION" Language="fr_FR">
+      <Text>Bonus de combat +5 pour le général illustre adjacent.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_FALL_BABYLON_EXPANSION1_DESCRIPTION" Language="fr_FR">
+      <Text>[ICON_Movement] PM +2 pendant les 10 tours suivant la déclaration d'une guerre surprise contre une civilisation majeure. Loyauté +5 par tour dans les villes occupées si une unité s'y trouve en garnison. Une guerre surprise ne compte comme une guerre formelle que pour le bellicisme et l'usure.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_HELLENISTIC_FUSION_EXPANSION1_DESCRIPTION" Language="fr_FR">
+      <Text>Si vous prenez une ville qui n'est pas lire, vous recevez un [ICON_TechBoosted] Eurêka ! pour chaque campement ou campus s'y trouvant, et une [ICON_CivicBoosted] inspiration pour chaque lieu saint ou place du théâtre.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_HYPASPIST_DESCRIPTION" Language="fr_FR">
+      <Text>[ICON_Strength] Puissance de combat +5 en cas de siège d'un quartier.[NEWLINE][ICON_Bullet] Bonus de soutien +50 %.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_HETAIROI_DESCRIPTION" Language="fr_FR">
+      <Text>[ICON_Strength] Puissance de combat +5 si adjacent à un général illustre.[NEWLINE][ICON_Bullet] Points de général illustre +5 pour chaque unité ennemie tuée.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_BASILIKOI_TRAINED_UNIT_XP_DESCRIPTION" Language="fr_FR">
+      <Text>Expérience au combat +25 % pour les Basilikoi Paides.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_FALL_BABYLON_EXPANSION2_DESCRIPTION" Language="fr_FR">
+      <Text>[ICON_Movement] PM +2 pendant les 10 tours suivant la déclaration d'une guerre surprise contre une civilisation majeure. Loyauté +5 par tour dans les villes occupées si une unité s'y trouve en garnison. Une guerre surprise ne compte comme une guerre formelle que pour le bellicisme et les [ICON_STAT_GRIEVANCE] griefs.</Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_BASILIKOI_PAIDES_EXPANSION2_DESCRIPTION" Language="fr_FR">
+      <Text>Bâtiment exclusif à la Macédoine. Expérience au combat +25 % pour toutes les unités de combat rapproché, d'attaque à distance terrestres et Hétairoi formés dans cette ville. Bonus de [ICON_SCIENCE] science égal à 25 % du coût de l'unité lorsqu'une unité non civile est formée dans cette ville. [NEWLINE][NEWLINE]Réserve de ressources stratégiques +10 (en vitesse normale). [NEWLINE][NEWLINE]Construction impossible dans un campement possédant déjà une écurie.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_MACEDONIAN_HYPASPIST_NAME" Language="fr_FR">
+      <Text>Hypaspiste|Hypaspistes</Text>
+      <Gender>masculine:vowel</Gender>
+      <Plurality>1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_UNIT_MACEDONIAN_HETAIROI_NAME" Language="fr_FR">
+      <Text>Hétairoi|Hétairoi</Text>
+      <Gender>masculine:vowel</Gender>
+      <Plurality>1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_UNIT_PERSIAN_IMMORTAL_NAME" Language="fr_FR">
+      <Text>Immortel|Immortels</Text>
+      <Gender>masculine:vowel</Gender>
+      <Plurality>1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_BASILIKOI_PAIDES_NAME" Language="de_DE">
+      <Text>Basilikoi Paides</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_PAIRIDAEZA_NAME" Language="de_DE">
+      <Text>Pairidaeza</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_MACEDON_NAME" Language="de_DE">
+      <Text>Makedonien|Makedonien|Makedonien|Makedoniens|Makedonien</Text>
+      <Gender>neuter:no_article</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PERSIA_NAME" Language="de_DE">
+      <Text>Persien|Persien|Persien|Persiens|Persien</Text>
+      <Gender>neuter:no_article</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_ALEXANDER_NAME" Language="de_DE">
+      <Text>Alexander</Text>
+      <Gender>masculine:no_article</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CYRUS_NAME" Language="de_DE">
+      <Text>Kyros</Text>
+      <Gender>masculine:no_article</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_HELLENISTIC_FUSION_NAME" Language="de_DE">
+      <Text>Hellenistische Fusion</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_HELLENISTIC_FUSION_DESCRIPTION" Language="de_DE">
+      <Text>Erhaltet Bonusse bei Stadt-Eroberungen: ein [ICON_TechBoosted] Heureka für jedes Lager oder jeden Campus in der eroberten Stadt und eine [ICON_CivicBoosted] Eingebung für jede Heilige Stätte oder jeden Theaterplatz.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SATRAPIES_NAME" Language="de_DE">
+      <Text>Satrapien</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SATRAPIES_DESCRIPTION" Language="de_DE">
+      <Text>+1 [ICON_TradeRoute] Handelswegkapazität durch die Ausrichtung der Politischen Philosophie. Erhaltet +2 [ICON_Gold] Gold und +1 [ICON_Culture] Kultur durch Handelswege zwischen Euren eigenen Städten. Straßen auf Eurem Gebiet sind eine Stufe fortschrittlicher als üblich.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_TO_WORLDS_END_NAME" Language="de_DE">
+      <Text>Bis zum Ende der Welt</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_TO_WORLDS_END_DESCRIPTION" Language="de_DE">
+      <Text>Städte werden nicht kriegsmüde. Alle Militäreinheiten heilen vollständig, wenn dieser Spieler eine Stadt mit einem Weltwunder einnimmt.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_FALL_BABYLON_NAME" Language="de_DE">
+      <Text>Der Fall Babylons</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_FALL_BABYLON_DESCRIPTION" Language="de_DE">
+      <Text>+2 [ICON_Movement] Fortbewegung für die ersten 10 Runden nach der Erklärung eines Überraschungskriegs gegen eine große Zivilisation. Keine Malusse für Erträge in besetzten Städten. Das Erklären eines Überraschungskriegs zählt nur bezüglich Kriegstreiberei und Kriegsmüdigkeit als formeller Krieg.</Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_BASILIKOI_PAIDES_DESCRIPTION" Language="de_DE">
+      <Text>Einzigartiges Gebäude von Makedonien. +25 % Kampferfahrung für alle Landnahkampf- und -Fernkampfeinheiten, und Hetairoi, die in dieser Stadt ausgebildet werden. Erhalt von +25 % [ICON_SCIENCE] Wissenschaft gemessen an den Kosten der Einheit, wenn in dieser Stadt eine militärische Einheit erschaffen wird.[NEWLINE][NEWLINE]Kann nicht in einem Lagerbezirk gebaut werden, in dem bereits Stallungen sind.</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_PAIRIDAEZA_DESCRIPTION" Language="de_DE">
+      <Text>Schaltet die Handwerker-Fähigkeit frei, eine Pairidaeza, die einzigartige Modernisierung Persiens, zu bauen.[NEWLINE][NEWLINE]+1 [ICON_Culture] Kultur und +2 [ICON_GOLD] Gold. +2 Anziehungskraft. +1 [ICON_Culture] Kultur, wenn neben einer Heiligen Stätte oder einem Theaterplatz-Bezirk. +1 [ICON_Gold] Gold, wenn neben einem Handels- oder Stadtzentrum. Zusätzlich [ICON_Culture] Kultur und [ICON_Tourism] Tourismus beim Fortschritt durch den Technologie- und Ausrichtungsbaum. Kann nicht auf Schnee, Tundra, Schneehügeln, Tundra-Hügeln oder neben einer weiteren Pairidaeza gebaut werden.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_MACEDONIAN_HYPASPIST_DESCRIPTION" Language="de_DE">
+      <Text>Einzigartige Nahkampf-Spezialeinheit der Makedonier, die den Schwertkämpfer ersetzt. +5 [ICON_Strength] Kampfstärke bei der Belagerung von Bezirken. 50 % zusätzlicher Unterstützungsbonus.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_MACEDONIAN_HETAIROI_DESCRIPTION" Language="de_DE">
+      <Text>Spezielle Schwere Kavallerie der Makedonier, die den Reiter ersetzt. Zusätzlich +5 [ICON_Strength] Kampfstärke angrenzend an einen Großen General. +5 Großer General-Punkte für Ausschaltung einer feindlichen Einheit. Startet mit einer kostenlosen Beförderung.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_PERSIAN_IMMORTAL_DESCRIPTION" Language="de_DE">
+      <Text>Spezialeinheit der Perser, die den Schwertkämpfer ersetzt. Einheit der Nahkampfklasse mit Fernangriff. [ICON_Range] Reichweite von 2. Starke Verteidigungskraft.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_HYPASPIST_SIEGE_BONUS_DESCRIPTION" Language="de_DE">
+      <Text>+5 bei Belagerung eines Bezirks</Text>
+    </Replace>
+    <Replace Tag="LOC_HETAIROI_GREAT_GENERAL_COMBAT_BONUS_DESCRIPTION" Language="de_DE">
+      <Text>+5 Kampfbonus durch angrenzenden Großen General</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_FALL_BABYLON_EXPANSION1_DESCRIPTION" Language="de_DE">
+      <Text>+2 [ICON_Movement] Fortbewegung für die ersten 10 Runden nach der Erklärung eines Überraschungskriegs gegen eine große Zivilisation. +5 Loyalität in besetzten Städten mit einer stationierten Einheit. Das Erklären eines Überraschungskriegs zählt nur bezüglich Kriegstreiberei und Kriegsmüdigkeit als formeller Krieg.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_HELLENISTIC_FUSION_EXPANSION1_DESCRIPTION" Language="de_DE">
+      <Text>Erhaltet bei der Eroberung einer Stadt, die keine freie Stadt ist, ein [ICON_TechBoosted] Heureka für jedes Lager oder jeden Campus in der eroberten Stadt und eine [ICON_CivicBoosted] Eingebung für jede Heilige Stätte oder jeden Theaterplatz.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_HYPASPIST_DESCRIPTION" Language="de_DE">
+      <Text>+5 [ICON_Strength] Kampfstärke bei der Belagerung von Bezirken.[NEWLINE][ICON_Bullet] +50 % Unterstützungsbonus.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_HETAIROI_DESCRIPTION" Language="de_DE">
+      <Text>+5 [ICON_Strength] Kampfstärke angrenzend an einen Großen General.[NEWLINE][ICON_Bullet] +5 Großer General-Punkte für Ausschaltung einer feindlichen Einheit.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_BASILIKOI_TRAINED_UNIT_XP_DESCRIPTION" Language="de_DE">
+      <Text>+25 % Erfahrung im Kampf durch Basilikoi Paides.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_FALL_BABYLON_EXPANSION2_DESCRIPTION" Language="de_DE">
+      <Text>+2 [ICON_Movement] Fortbewegung für die ersten 10 Runden nach der Erklärung eines Überraschungskriegs gegen eine große Zivilisation. +5 Loyalität in besetzten Städten mit einer stationierten Einheit. Das Erklären eines Überraschungskriegs zählt nur bezüglich [ICON_STAT_GRIEVANCE] Groll und Kriegstreiberei als formeller Krieg.</Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_BASILIKOI_PAIDES_EXPANSION2_DESCRIPTION" Language="de_DE">
+      <Text>Einzigartiges Gebäude von Makedonien. +25 % Kampferfahrung für alle Landnahkampf- und -Fernkampfeinheiten, und Hetairoi, die in dieser Stadt ausgebildet werden. Erhalt von +25 % [ICON_SCIENCE] Wissenschaft gemessen an den Kosten der Einheit, wenn in dieser Stadt eine militärische Einheit erschaffen wird.[NEWLINE][NEWLINE]Strategisches Ressourcen-Vorratslager +10 (bei Standardgeschwindigkeit).[NEWLINE][NEWLINE]Kann nicht in einem Lagerbezirk gebaut werden, in dem bereits Stallungen sind.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_MACEDONIAN_HYPASPIST_NAME" Language="de_DE">
+      <Text>Hypaspist|Hypaspist|Hypaspist|Hypaspists|Hypaspist</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_UNIT_MACEDONIAN_HETAIROI_NAME" Language="de_DE">
+      <Text>Hetairos|Hetairos|Hetairos|Hetairos|Hetairos</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_UNIT_PERSIAN_IMMORTAL_NAME" Language="de_DE">
+      <Text>Krummsäbel - Kämpfer|Krummsäbel - Kämpfer|Krummsäbel - Kämpfer|Krummsäbel - Kämpfers|Krummsäbel - Kämpfer</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_BASILIKOI_PAIDES_NAME" Language="it_IT">
+      <Text>Basilikoi Paides|Basilikoi Paides|Basilikoi Paides</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_PAIRIDAEZA_NAME" Language="it_IT">
+      <Text>Pairidaeza|la Pairidaeza|una Pairidaeza</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_MACEDON_NAME" Language="it_IT">
+      <Text>Macedonia|della Macedonia|alla Macedonia|la Macedonia|dalla Macedonia</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PERSIA_NAME" Language="it_IT">
+      <Text>Persia|della Persia|alla Persia|la Persia|dalla Persia</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_ALEXANDER_NAME" Language="it_IT">
+      <Text>Alessandro|di Alessandro|ad Alessandro|Alessandro|da Alessandro</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CYRUS_NAME" Language="it_IT">
+      <Text>Ciro|di Ciro|a Ciro|Ciro|da Ciro</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_HELLENISTIC_FUSION_NAME" Language="it_IT">
+      <Text>Fusione ellenistica</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_HELLENISTIC_FUSION_DESCRIPTION" Language="it_IT">
+      <Text>Ricevi bonus dalla conquista delle città: un [ICON_TechBoosted] momento Eureka per ogni Accampamento o Campus nella città catturata e una [ICON_CivicBoosted] Ispirazione per ogni Luogo Santo o Piazza del Teatro.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SATRAPIES_NAME" Language="it_IT">
+      <Text>Satrapie</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SATRAPIES_DESCRIPTION" Language="it_IT">
+      <Text>+1 capacità [ICON_TradeRoute] Rotte commerciali con il Progresso civico Filosofia politica. Ricevi +2 [ICON_Gold] Oro e +1 [ICON_Culture] Cultura dalle Rotte che collegano due città che ti appartengono. Nel tuo territorio le strade facilitano il movimento come se fossero di un livello più avanzate.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_TO_WORLDS_END_NAME" Language="it_IT">
+      <Text>Fino ai confini del mondo</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_TO_WORLDS_END_DESCRIPTION" Language="it_IT">
+      <Text>Le città non patiscono la stanchezza di guerra. Tutte le unità militari guariscono completamente quando questo giocatore cattura una città che contiene una Meraviglia.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_FALL_BABYLON_NAME" Language="it_IT">
+      <Text>La caduta di Babilonia</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_FALL_BABYLON_DESCRIPTION" Language="it_IT">
+      <Text>+2 al [ICON_Movement] movimento per i primi 10 turni dopo aver dichiarato una guerra a sorpresa contro una civiltà principale. Nessuna penalità alle rese nelle città occupate. Una guerra a sorpresa conta solo quanto una guerra formale nel calcolo delle penalità per la bellicosità e della stanchezza di guerra.</Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_BASILIKOI_PAIDES_DESCRIPTION" Language="it_IT">
+      <Text>Edificio esclusivo macedone. +25% all'esperienza ottenuta in combattimento da tutte le unità terrestri da mischia e a distanza e dagli Etèri addestrati in questa città. Quando un'unità (non civile) viene creata in questa città guadagni [ICON_SCIENCE] Scienza pari al 25% del costo dell'unità.[NEWLINE][NEWLINE]L'edificio non può essere costruito in un distretto Accampamento che comprende già una Scuderia.</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_PAIRIDAEZA_DESCRIPTION" Language="it_IT">
+      <Text>Sblocca l'abilità dei Costruttori di realizzare una Pairidaeza, esclusiva della Persia.[NEWLINE][NEWLINE]+1 [ICON_CULTURE] Cultura e +2 [ICON_GOLD] Oro. +2 Appeal. +1 [ICON_CULTURE] Cultura per ogni Luogo Santo e Piazza del Teatro adiacenti. +1 [ICON_GOLD] Oro per ogni Snodo commerciale e Centro cittadino adiacenti. Bonus aggiuntivi a [ICON_Culture] Cultura e [ICON_Tourism] Turismo con il progressivo avanzamento nell'Albero delle tecnologie e in quello dei Progressi civici. Non può essere costruita su Neve, Tundra, colline su Neve o colline su Tundra, e neppure adiacente a un'altra Pairidaeza.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_MACEDONIAN_HYPASPIST_DESCRIPTION" Language="it_IT">
+      <Text>Unità da mischia, esclusiva della Macedonia, che sostituisce lo Spadaccino. +5 alla [ICON_Strength] Forza di combattimento quando assedia un distretto. 50% aggiuntivo al bonus per il supporto.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_MACEDONIAN_HETAIROI_DESCRIPTION" Language="it_IT">
+      <Text>Unità di cavalleria pesante, esclusiva della Macedonia, che sostituisce il Guerriero a cavallo. Bonus +5 aggiuntivo alla [ICON_Strength] Forza di combattimento quando è adiacente a un Grande Generale. +5 punti Grande Generale quando uccide un'unità nemica. Entra in gioco con una promozione gratuita.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_PERSIAN_IMMORTAL_DESCRIPTION" Language="it_IT">
+      <Text>Unità da mischia, esclusiva della Persia, che sostituisce lo Spadaccino. Unità da mischia dotata di un attacco a distanza con [ICON_Range] raggio di tiro 2. Forte in difesa.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_HYPASPIST_SIEGE_BONUS_DESCRIPTION" Language="it_IT">
+      <Text>+5 quando assedia un distretto</Text>
+    </Replace>
+    <Replace Tag="LOC_HETAIROI_GREAT_GENERAL_COMBAT_BONUS_DESCRIPTION" Language="it_IT">
+      <Text>+5 al combattimento dal Grande Generale adiacente</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_FALL_BABYLON_EXPANSION1_DESCRIPTION" Language="it_IT">
+      <Text>+2 al [ICON_Movement] movimento per i primi 10 turni dopo aver dichiarato una guerra a sorpresa contro una civiltà principale. +5 Lealtà per turno nelle città occupate che hanno un'unità di guarnigione. Una guerra a sorpresa conta solo quanto una guerra formale nel calcolo delle penalità per la bellicosità e della stanchezza di guerra.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_HELLENISTIC_FUSION_EXPANSION1_DESCRIPTION" Language="it_IT">
+      <Text>Quando conquisti un città (che non è una città libera) ricevi un [ICON_TechBoosted] momento Eureka per ogni Accampamento o Campus nella città catturata e una [ICON_CivicBoosted] Ispirazione per ogni Luogo Santo o Piazza del Teatro.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_HYPASPIST_DESCRIPTION" Language="it_IT">
+      <Text>+5 alla [ICON_Strength] Forza di combattimento quando assedia un distretto.[NEWLINE][ICON_Bullet]+50% al bonus per il supporto.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_HETAIROI_DESCRIPTION" Language="it_IT">
+      <Text>+5 alla [ICON_Strength] Forza di combattimento quando è adiacente a un Grande Generale.[NEWLINE][ICON_Bullet]+5 punti Grande Generale quando si uccide un'unità nemica.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_BASILIKOI_TRAINED_UNIT_XP_DESCRIPTION" Language="it_IT">
+      <Text>+25% all'esperienza ottenuta in combattimento dai Basilikoi Paides.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_FALL_BABYLON_EXPANSION2_DESCRIPTION" Language="it_IT">
+      <Text>+2 al [ICON_Movement] movimento per i primi 10 turni dopo aver dichiarato una guerra a sorpresa contro una civiltà principale. +5 Lealtà per turno nelle città occupate che hanno un'unità di guarnigione. Una guerra a sorpresa conta solo quanto una guerra formale nel calcolo delle penalità in [ICON_STAT_GRIEVANCE] Rimostranze e della stanchezza di guerra.</Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_BASILIKOI_PAIDES_EXPANSION2_DESCRIPTION" Language="it_IT">
+      <Text>Edificio esclusivo macedone. +25% all'esperienza ottenuta in combattimento da tutte le unità terrestri da mischia e a distanza e dagli Etèri addestrati in questa città. Quando un'unità (non civile) viene creata in questa città guadagni [ICON_SCIENCE] Scienza pari al 25% del costo dell'unità.[NEWLINE][NEWLINE]+10 alle scorte delle risorse strategiche (a velocità standard).[NEWLINE][NEWLINE]L'edificio non può essere costruito in un distretto Accampamento che comprende già una Scuderia.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_MACEDONIAN_HYPASPIST_NAME" Language="it_IT">
+      <Text>Ipaspista|un Ipaspista|dal tuo Ipaspista|al tuo Ipaspista|il tuo Ipaspista|da un Ipaspista</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_UNIT_MACEDONIAN_HETAIROI_NAME" Language="it_IT">
+      <Text>Etèro|un Etèro|dal tuo Etèro|al tuo Etèro|il tuo Etèro|da un Etèro</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_UNIT_PERSIAN_IMMORTAL_NAME" Language="it_IT">
+      <Text>Immortale|un Immortale|dal tuo Immortale|al tuo Immortale|il tuo Immortale|da un Immortale</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_BASILIKOI_PAIDES_NAME" Language="ja_JP">
+      <Text>バシリコイ・パイデス</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_PAIRIDAEZA_NAME" Language="ja_JP">
+      <Text>パイリダエーザ</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_MACEDON_NAME" Language="ja_JP">
+      <Text>マケドニア</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PERSIA_NAME" Language="ja_JP">
+      <Text>ペルシア</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_ALEXANDER_NAME" Language="ja_JP">
+      <Text>アレキサンドロス</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CYRUS_NAME" Language="ja_JP">
+      <Text>キュロス</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_HELLENISTIC_FUSION_NAME" Language="ja_JP">
+      <Text>ヘレニズム</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_HELLENISTIC_FUSION_DESCRIPTION" Language="ja_JP">
+      <Text>兵営かキャンパスを有する都市を占領すると [ICON_TechBoosted] ひらめきが発生する。また、聖地か劇場広場を有する都市を占領すると [ICON_CivicBoosted] 天啓が発生する。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SATRAPIES_NAME" Language="ja_JP">
+      <Text>サトラピー</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SATRAPIES_DESCRIPTION" Language="ja_JP">
+      <Text>社会制度「政治哲学」の獲得時に [ICON_TradeRoute] 交易路の数+1。自文明の都市同士を結ぶ交易路に [ICON_Gold] ゴールド+2と [ICON_Culture] 文化力+1のボーナス。自文明の領土内における道路の移動速度上昇効果が、本来よりも1段階上の扱いとなる。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_TO_WORLDS_END_NAME" Language="ja_JP">
+      <Text>世界の果てを目指して</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_TO_WORLDS_END_DESCRIPTION" Language="ja_JP">
+      <Text>都市が戦争による疲労の影響を受けない。世界遺産を有する都市を占領すると、すべての軍事ユニットが完全に回復する。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_FALL_BABYLON_NAME" Language="ja_JP">
+      <Text>バビロン陥落</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_FALL_BABYLON_DESCRIPTION" Language="ja_JP">
+      <Text>有力な文明に奇襲戦争を宣言してから10ターンの間、 [ICON_Movement] 移動力+2。占領している都市で産出量ペナルティが発生しない。奇襲戦争を宣言しても戦争による疲労と好戦性ペナルティが増加しない (正式に宣戦布告した場合と同じ)。</Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_BASILIKOI_PAIDES_DESCRIPTION" Language="ja_JP">
+      <Text>マケドニア固有の建造物。この都市で訓練を受けたすべての陸上近接戦闘ユニット、陸上長距離戦闘ユニットとヘタイロイの戦闘経験値+25%。この都市で非民間人ユニットが作られた場合、そのユニットのコストの25%に相当する [ICON_SCIENCE] 科学力が加算される。[NEWLINE][NEWLINE]すでに厩舎がある兵営区域には建設できない。</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_PAIRIDAEZA_DESCRIPTION" Language="ja_JP">
+      <Text>労働者がペルシア固有の施設であるパイリダエーザを建設できるようになる。[NEWLINE][NEWLINE][ICON_Culture] 文化力+1、 [ICON_Gold] ゴールド+2。アピール+2。隣接する聖地、劇場広場1つにつき [ICON_Culture] 文化力+1。隣接する商業ハブ、都心1つにつき [ICON_Gold] ゴールド+1。技術ツリーと社会制度ツリーの発展にともない [ICON_Culture] 文化力、[ICON_Tourism] 観光力にボーナスがもたらされる。雪原、ツンドラ、雪原丘陵、ツンドラ丘陵、別のパイリダエーザに隣接するタイルには建設できない。</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_MACEDONIAN_HYPASPIST_DESCRIPTION" Language="ja_JP">
+      <Text>剣士に取ってかわるマケドニア固有の近接戦闘ユニット。区域攻囲時は [ICON_Strength] 戦闘力+5。支援ボーナス+50%。</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_MACEDONIAN_HETAIROI_DESCRIPTION" Language="ja_JP">
+      <Text>騎乗兵に取ってかわるマケドニア固有の重騎兵ユニット。大将軍に隣接していると [ICON_Strength] 戦闘力+5。敵ユニットを倒すと大将軍ポイント+5。最初から無料でレベルアップを1つ有する。</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_PERSIAN_IMMORTAL_DESCRIPTION" Language="ja_JP">
+      <Text>剣士に取ってかわるペルシア固有の近接戦闘ユニット。近接戦闘ユニットでありながら [ICON_Range] 射程2の長距離攻撃が可能。高い防御力を誇る。</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_HYPASPIST_SIEGE_BONUS_DESCRIPTION" Language="ja_JP">
+      <Text>区域攻囲時は戦闘力+5</Text>
+    </Replace>
+    <Replace Tag="LOC_HETAIROI_GREAT_GENERAL_COMBAT_BONUS_DESCRIPTION" Language="ja_JP">
+      <Text>隣接する大将軍により戦闘力+5</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_FALL_BABYLON_EXPANSION1_DESCRIPTION" Language="ja_JP">
+      <Text>有力な文明に奇襲戦争を宣言してから10ターンの間、 [ICON_Movement] 移動力+2。占領中の都市に守備隊ユニットがいると忠誠心+5。奇襲戦争を宣言しても戦争による疲労と好戦性ペナルティが増加しない (正式に宣戦布告した場合と同じ)。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_HELLENISTIC_FUSION_EXPANSION1_DESCRIPTION" Language="ja_JP">
+      <Text>自由都市ではない都市を占領すると [ICON_TechBoosted] ひらめきが発生する。また、聖地か劇場広場を有する都市を占領すると [ICON_CivicBoosted] 天啓が発生する。</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_HYPASPIST_DESCRIPTION" Language="ja_JP">
+      <Text>区域攻囲時は [ICON_Strength] 戦闘力+5。[NEWLINE][ICON_Bullet] 支援ボーナス+50%。</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_HETAIROI_DESCRIPTION" Language="ja_JP">
+      <Text>大将軍に隣接していると [ICON_Strength] 戦闘力+5。[NEWLINE][ICON_Bullet] 敵ユニットを倒すと大将軍ポイント+5。</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_BASILIKOI_TRAINED_UNIT_XP_DESCRIPTION" Language="ja_JP">
+      <Text>バシリコイ・パイデスにより戦闘経験値+25%。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_FALL_BABYLON_EXPANSION2_DESCRIPTION" Language="ja_JP">
+      <Text>主要文明に奇襲戦争を宣言してから10ターンの間、 [ICON_Movement] 移動力+2。占領中の都市に守備隊ユニットがいると忠誠心+5。奇襲戦争を宣言しても戦争による [ICON_STAT_GRIEVANCE] 不平と好戦性ペナルティが増加しない (正規戦争の場合と同じ)。</Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_BASILIKOI_PAIDES_EXPANSION2_DESCRIPTION" Language="ja_JP">
+      <Text>マケドニア固有の建造物。この都市で訓練を受けたすべての近接・長距離の陸上戦闘ユニットとヘタイロイの戦闘経験値+25%。この都市で非民間人ユニットが作られた場合、そのユニットのコストの25%に相当する [ICON_SCIENCE] 科学力が加算される。[NEWLINE][NEWLINE]戦略資源の備蓄+10 (標準のスピードで)。[NEWLINE][NEWLINE]すでに厩舎がある兵営区域には建設できない。</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_MACEDONIAN_HYPASPIST_NAME" Language="ja_JP">
+      <Text>ヒュパスピスタイ</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_MACEDONIAN_HETAIROI_NAME" Language="ja_JP">
+      <Text>ヘタイロイ</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_PERSIAN_IMMORTAL_NAME" Language="ja_JP">
+      <Text>不死隊</Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_BASILIKOI_PAIDES_NAME" Language="ko_KR">
+      <Text>바실리코이 파이데스</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_PAIRIDAEZA_NAME" Language="ko_KR">
+      <Text>파이리다에자</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_MACEDON_NAME" Language="ko_KR">
+      <Text>마케도니아</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PERSIA_NAME" Language="ko_KR">
+      <Text>페르시아</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_ALEXANDER_NAME" Language="ko_KR">
+      <Text>알렉산더</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CYRUS_NAME" Language="ko_KR">
+      <Text>키루스</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_HELLENISTIC_FUSION_NAME" Language="ko_KR">
+      <Text>헬레니즘 융합</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_HELLENISTIC_FUSION_DESCRIPTION" Language="ko_KR">
+      <Text>도시 점령 시 다음의 상승을 획득합니다: 점령한 도시의 주둔지 또는 캠퍼스마다 [ICON_TechBoosted] 유레카 1개, 성지 또는 극장가마다 [ICON_CivicBoosted] 영감 1개.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SATRAPIES_NAME" Language="ko_KR">
+      <Text>관할구</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SATRAPIES_DESCRIPTION" Language="ko_KR">
+      <Text>정치 철학 완성 시 [ICON_TradeRoute] 교역로 최대치 +1을 제공합니다. 자국 도시 간의 도로에서 [ICON_Gold] 금 +2 및 [ICON_Culture] 문화 +1을 제공합니다. 자국 영토 내의 도로는 일반적인 경우보다 한 단계 업그레이드된 도로입니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_TO_WORLDS_END_NAME" Language="ko_KR">
+      <Text>세상의 끝까지</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_TO_WORLDS_END_DESCRIPTION" Language="ko_KR">
+      <Text>도시가 전쟁 피로도를 입지 않습니다. 세계 불가사의가 있는 도시를 점령하면 모든 군사 유닛의 체력이 완전히 회복됩니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_FALL_BABYLON_NAME" Language="ko_KR">
+      <Text>바빌론의 함락</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_FALL_BABYLON_DESCRIPTION" Language="ko_KR">
+      <Text>주요 문명에 대한 기습 전쟁 선포 이후 첫 10턴 동안 [ICON_Movement] 이동력 +2를 제공합니다. 점령 도시에 생산량 페널티가 없습니다. 기습 전쟁의 선포는 전쟁 도발과 전쟁 피로도 유발의 목적으로써만 공식 전쟁으로 인정됩니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_BASILIKOI_PAIDES_DESCRIPTION" Language="ko_KR">
+      <Text>마케도니아 특유의 건물입니다. 이 도시에서 훈련된 모든 근접 및 원거리 지상 유닛과 헤타이로이는 전투 경험치 +25%를 획득합니다. 이 도시에서 비시민 유닛이 생성되면 해당 유닛 비용의 25%에 준하는 [ICON_SCIENCE] 과학이 제공됩니다.[NEWLINE][NEWLINE]이미 마구간을 보유한 주둔지 특수지구에 지을 수 없습니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_PAIRIDAEZA_DESCRIPTION" Language="ko_KR">
+      <Text>페르시아 특유의 파이리다에자를 지을 수 있는 건설자 능력을 잠금 해제합니다.[NEWLINE][NEWLINE][ICON_CULTURE] 문화 +1 및 [ICON_GOLD] 금 +2를 제공합니다. 매력도 +2를 제공합니다. 인접한 성지 및 극장가마다 [ICON_CULTURE] 문화 +1을 제공합니다. 인접한 상업 중심지와 도심부마다 [ICON_GOLD] 금 +1을 제공합니다. 기술 발전표 및 사회 제도표의 진전에 따라 추가 [ICON_Culture] 문화 및 [ICON_Tourism] 관광을 제공합니다. 설원, 툰드라, 설원 언덕, 툰드라 언덕 위에 또는 다른 파이리다에자 옆에 지을 수 없습니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_MACEDONIAN_HYPASPIST_DESCRIPTION" Language="ko_KR">
+      <Text>검사를 대체하는 마케도니아 특유의 근접 유닛입니다. 특수지구 점령 시 [ICON_Strength] 전투력 +5를 획득합니다. 지원 보너스가 50% 추가로 부여됩니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_MACEDONIAN_HETAIROI_DESCRIPTION" Language="ko_KR">
+      <Text>기마병을 대체하는 마케도니아 특유의 중기병 유닛입니다. 위대한 장군 옆에 있는 경우  [ICON_Strength] 전투력 +5를 추가로 획득합니다. 적 유닛 처치 시 위대한 장군 점수 +5를 획득합니다. 1개의 무료 진급을 갖추고 시작합니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_PERSIAN_IMMORTAL_DESCRIPTION" Language="ko_KR">
+      <Text>검사를 대체하는 페르시아 특유의 근접 유닛입니다. 사정거리 2의 [ICON_Range] 원거리 공격이 가능한 근접 유형 유닛입니다. 방어력이 강합니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_HYPASPIST_SIEGE_BONUS_DESCRIPTION" Language="ko_KR">
+      <Text>특수지구 포위 시 +5</Text>
+    </Replace>
+    <Replace Tag="LOC_HETAIROI_GREAT_GENERAL_COMBAT_BONUS_DESCRIPTION" Language="ko_KR">
+      <Text>인근 위대한 장군으로부터 전투력 보너스 +5</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_FALL_BABYLON_EXPANSION1_DESCRIPTION" Language="ko_KR">
+      <Text>주요 문명에 대한 기습 전쟁 선포 이후 첫 10턴 동안 [ICON_Movement] 이동력 +2를 제공합니다. 주둔 유닛이 있는 점령 도시에 턴당 충성심 +5가 부여됩니다. 기습 전쟁의 선포는 전쟁 도발과 전쟁 피로도 유발의 목적으로만 공식 전쟁으로 인정됩니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_HELLENISTIC_FUSION_EXPANSION1_DESCRIPTION" Language="ko_KR">
+      <Text>자유 도시가 아닌 도시 점령 시 점령한 도시의 주둔지 또는 캠퍼스마다 [ICON_TechBoosted] 유레카 1개, 성지 또는 극장가마다 [ICON_CivicBoosted] 영감 1개를 획득합니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_HYPASPIST_DESCRIPTION" Language="ko_KR">
+      <Text>특수지구 포위 시 [ICON_Strength] 전투력 +5,[NEWLINE][ICON_Bullet] 지원 보너스 +50%</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_HETAIROI_DESCRIPTION" Language="ko_KR">
+      <Text>위대한 장군 근처에 있을 때 [ICON_Strength] 전투력 +5.[NEWLINE][ICON_Bullet] 적 유닛 처치 시 위대한 장군 점수 +5</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_BASILIKOI_TRAINED_UNIT_XP_DESCRIPTION" Language="ko_KR">
+      <Text>바실리코이 파이데스에서 전투 경험치 +25%</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_FALL_BABYLON_EXPANSION2_DESCRIPTION" Language="ko_KR">
+      <Text>주요 문명에 대한 기습 전쟁 선포 이후 첫 10턴 동안 [ICON_Movement] 이동력 +2를 제공합니다. 주둔 유닛이 있는 점령 도시에 턴당 충성심 +5가 부여됩니다. 기습 전쟁의 선포는 [ICON_STAT_GRIEVANCE] 적대감과 전쟁 피로도 유발의 목적으로만 공식 전쟁으로 인정됩니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_BASILIKOI_PAIDES_EXPANSION2_DESCRIPTION" Language="ko_KR">
+      <Text>마케도니아 특유의 건물입니다. 이 도시에서 훈련된 모든 근접 및 원거리 지상 유닛과 헤타이로이는 전투 경험치 +25%를 획득합니다. 이 도시에서 비민간 유닛이 생성되면 해당 유닛 비용의 25%에 준하는 [ICON_SCIENCE] 과학이 제공됩니다.[NEWLINE][NEWLINE]전략 자원 비축력이 +10 증가합니다(일반 속도 기준).[NEWLINE][NEWLINE]이미 마구간을 보유한 주둔지 특수지구에 지을 수 없습니다.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_MACEDONIAN_HYPASPIST_NAME" Language="ko_KR">
+      <Text>히파스피스트</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_MACEDONIAN_HETAIROI_NAME" Language="ko_KR">
+      <Text>헤타이로이</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_PERSIAN_IMMORTAL_NAME" Language="ko_KR">
+      <Text>불멸자</Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_BASILIKOI_PAIDES_NAME" Language="pl_PL">
+      <Text>Basilikoi Paides</Text>
+      <Gender>neuter</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_PAIRIDAEZA_NAME" Language="pl_PL">
+      <Text>Pairidaeza|Pairidaezy|Pairidaezie|Pairidaezę|Pairidaezą|Pairidaezie|pairidaeza|pairidaezy|pairidaezie|pairidaezę|pairidaezą|pairidaezie</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_MACEDON_NAME" Language="pl_PL">
+      <Text>Macedonia|Macedonii|Macedonii|Macedonię|Macedonią|Macedonii|Macedonia|Macedonii|Macedonii|Macedonię|Macedonią|Macedonii</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PERSIA_NAME" Language="pl_PL">
+      <Text>Persja|Persji|Persji|Persję|Persją|Persji|Persja|Persji|Persji|Persję|Persją|Persji</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_ALEXANDER_NAME" Language="pl_PL">
+      <Text>Aleksander|Aleksandra|Aleksandrowi|Aleksandra|Aleksandrem|Aleksandrze|Aleksander|Aleksandra|Aleksandrowi|Aleksandra|Aleksandrem|Aleksandrze</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CYRUS_NAME" Language="pl_PL">
+      <Text>Cyrus|Cyrusa|Cyrusowi|Cyrusa|Cyrusem|Cyrusie|Cyrus|Cyrusa|Cyrusowi|Cyrusa|Cyrusem|Cyrusie</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_HELLENISTIC_FUSION_NAME" Language="pl_PL">
+      <Text>Hellenistyczna fuzja</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_HELLENISTIC_FUSION_DESCRIPTION" Language="pl_PL">
+      <Text>Podbój miasta daje przyśpieszenia: [ICON_TechBoosted] eurekę za każdą dzielnicę wojskową i kampus w zdobytym mieście oraz [ICON_CivicBoosted] inspirację za każdą dzielnicę świątynną i kulturalną.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SATRAPIES_NAME" Language="pl_PL">
+      <Text>Satrapie</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SATRAPIES_DESCRIPTION" Language="pl_PL">
+      <Text>+1 [ICON_TradeRoute] do maksymalnej liczby szlaków handlowych w połączeniu z ideą filozofii politycznej. +2 [ICON_Gold] złota i +1 [ICON_Culture] kultury dzięki szlakom łączącym własne miasta. Drogi wybudowane na obszarze własnego terytorium są o jeden poziom bardziej zaawansowane niż domyślnie.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_TO_WORLDS_END_NAME" Language="pl_PL">
+      <Text>Na koniec świata</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_TO_WORLDS_END_DESCRIPTION" Language="pl_PL">
+      <Text>Zmęczenie wojną nie wpływa na miasta. Wszystkie jednostki bojowe odzyskują pełnię zdrowia, gdy gracz przejmie miasto z cudem świata.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_FALL_BABYLON_NAME" Language="pl_PL">
+      <Text>Upadek Babilonu</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_FALL_BABYLON_DESCRIPTION" Language="pl_PL">
+      <Text>+2 do [ICON_Movement] ruchu przez 10 pierwszych tur po wypowiedzeniu znaczącej cywilizacji wojny z zaskoczenia. Brak obniżenia dochodów z okupowanych miast. W kwestii kary za wojowniczość i zmęczenia wojną wojna z zaskoczenia traktowana jest jak wojna formalna.</Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_BASILIKOI_PAIDES_DESCRIPTION" Language="pl_PL">
+      <Text>Unikalna budowla Macedonii. +25% doświadczenia bojowego dla wszystkich szkolonych w tym mieście jednostek walczących w zwarciu i dystansowych oraz hetajrów. Daje premię do [ICON_SCIENCE] nauki równą 25% kosztu jednostki, gdy w tym mieście tworzona jest jednostka niecywilna.[NEWLINE][NEWLINE]Nie można zbudować, jeśli dzielnica wojskowa zawiera już stajnię.</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_PAIRIDAEZA_DESCRIPTION" Language="pl_PL">
+      <Text>Odblokowuje zdolność budowniczych pozwalającą wznieść pairidaezę dostępną tylko dla Persji.[NEWLINE][NEWLINE]+1 do [ICON_CULTURE] kultury i +2 do [ICON_GOLD] złota. +2 do atrakcyjności. +1 do [ICON_CULTURE] kultury za każdą sąsiadującą dzielnicę świątynną i kulturalną. +1 do [ICON_GOLD] złota za każdą sąsiadującą dzielnicę biznesową i centrum miasta. Dodatkowa [ICON_Culture] kultura i [ICON_Tourism] turystyka wraz z postępami na drzewach technologii i idei. Nie można budować na śniegu, w tundrze, na zaśnieżonych wzgórzach, wzgórzach pokrytych tundrą i w sąsiedztwie innej pairidaezy.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_MACEDONIAN_HYPASPIST_DESCRIPTION" Language="pl_PL">
+      <Text>Dostępna wyłącznie dla Macedonii jednostka walcząca w zwarciu zastępująca zbrojnych. +5 do [ICON_Strength] siły bojowej podczas oblegania dzielnic. 50% dodatkowej premii wsparcia.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_MACEDONIAN_HETAIROI_DESCRIPTION" Language="pl_PL">
+      <Text>Dostępna wyłącznie dla Macedonii jednostka ciężkiej kawalerii zastępująca konnicę. +5 do [ICON_Strength] siły bojowej, gdy na sąsiednim polu znajduje się wielki generał. +5 punktów wielkiego generała po zabiciu jednostki wroga. Rozpoczyna rozgrywkę z 1 darmowym awansem.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_PERSIAN_IMMORTAL_DESCRIPTION" Language="pl_PL">
+      <Text>Dostępna wyłącznie dla Persji jednostka walcząca w zwarciu zastępująca zbrojnych. Jednostka walcząca w zwarciu dysponująca atakiem dystansowym o [ICON_Range] zasięgu 2 pól. Duża siła obronna.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_HYPASPIST_SIEGE_BONUS_DESCRIPTION" Language="pl_PL">
+      <Text>+5 do [ICON_Strength] siły bojowej podczas oblegania dzielnic</Text>
+    </Replace>
+    <Replace Tag="LOC_HETAIROI_GREAT_GENERAL_COMBAT_BONUS_DESCRIPTION" Language="pl_PL">
+      <Text>+5 do [ICON_Strength] premii bojowej dzięki sąsiadującemu wielkiemu generałowi.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_FALL_BABYLON_EXPANSION1_DESCRIPTION" Language="pl_PL">
+      <Text>+2 do [ICON_Movement] ruchu przez 10 pierwszych tur po wypowiedzeniu znaczącej cywilizacji wojny z zaskoczenia. +5 do lojalności na turę w okupowanych miastach ze stacjonującą w nich jednostką. W kwestii kary za wojowniczość i zmęczenia wojną wojna z zaskoczenia traktowana jest jak wojna formalna.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_HELLENISTIC_FUSION_EXPANSION1_DESCRIPTION" Language="pl_PL">
+      <Text>Podbój miasta, które nie jest wolnym miastem, daje przyśpieszenia: [ICON_TechBoosted] eurekę za każdą dzielnicę wojskową i kampus w zdobytym mieście oraz [ICON_CivicBoosted] inspirację za każdą dzielnicę świątynną i kulturalną.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_HYPASPIST_DESCRIPTION" Language="pl_PL">
+      <Text>+5 do [ICON_Strength] siły bojowej podczas oblegania dzielnic.[NEWLINE][ICON_Bullet] +50% dodatkowej premii wsparcia.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_HETAIROI_DESCRIPTION" Language="pl_PL">
+      <Text>+5 do [ICON_Strength] siły bojowej, gdy na sąsiednim polu znajduje się wielki generał.[NEWLINE][ICON_Bullet] +5 punktów wielkiego generała po zabiciu jednostki wroga.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_BASILIKOI_TRAINED_UNIT_XP_DESCRIPTION" Language="pl_PL">
+      <Text>+25% doświadczenia w walce dzięki Basilikoi Paides.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_FALL_BABYLON_EXPANSION2_DESCRIPTION" Language="pl_PL">
+      <Text>+2 do [ICON_Movement] ruchu przez 10 pierwszych tur po wypowiedzeniu znaczącej cywilizacji wojny z zaskoczenia. +5 do lojalności na turę w okupowanych miastach ze stacjonującą w nich jednostką. W kwestii kary za wojowniczość i [ICON_STAT_GRIEVANCE] uraz wojna z zaskoczenia traktowana jest jak wojna formalna.</Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_BASILIKOI_PAIDES_EXPANSION2_DESCRIPTION" Language="pl_PL">
+      <Text>Unikalna budowla Macedonii. +25% doświadczenia bojowego dla wszystkich szkolonych w tym mieście lądowych jednostek walczących w zwarciu i dystansowych oraz hetajrów. Daje premię do [ICON_SCIENCE] nauki równą 25% kosztu jednostki, gdy w tym mieście tworzona jest jednostka niecywilna.[NEWLINE][NEWLINE]Zapasy zasobów strategicznych zwiększone o +10 (przy standardowej prędkości).[NEWLINE][NEWLINE]Nie można zbudować, jeśli dzielnica wojskowa zawiera już stajnię.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_MACEDONIAN_HYPASPIST_NAME" Language="pl_PL">
+      <Text>Hypaspiści|Hypaspistów|Hypaspistom|Hypaspistów|Hypaspistami|Hypaspistach|hypaspiści|hypaspistów|hypaspistom|hypaspistów|hypaspistami|hypaspistach</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_UNIT_MACEDONIAN_HETAIROI_NAME" Language="pl_PL">
+      <Text>Hetajrowie|Hetajrów|Hetajrom|Hetajrów|Hetajrami|Hetajrach|hetajrowie|hetajrów|hetajrom|hetajrów|hetajrami|hetajrach</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_UNIT_PERSIAN_IMMORTAL_NAME" Language="pl_PL">
+      <Text>Nieśmiertelni|Nieśmiertelnych|Nieśmiertelnym|Nieśmiertelnych|Nieśmiertelnymi|Nieśmiertelnych|nieśmiertelni|nieśmiertelnych|nieśmiertelnym|nieśmiertelnych|nieśmiertelnymi|nieśmiertelnych</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_BASILIKOI_PAIDES_NAME" Language="ru_RU">
+      <Text>Школа царских пажей|школы царских пажей|школе царских пажей|школу царских пажей|школой царских пажей|школе царских пажей</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_PAIRIDAEZA_NAME" Language="ru_RU">
+      <Text>Пайридаэза|пайридаэзы|пайридаэзе|пайридаэзу|пайридаэзой|пайридаэзе</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_MACEDON_NAME" Language="ru_RU">
+      <Text>Македония|Македонии|Македонии|Македонию|Македонией|Македонии</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PERSIA_NAME" Language="ru_RU">
+      <Text>Персия|Персии|Персии|Персию|Персией|Персии</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_ALEXANDER_NAME" Language="ru_RU">
+      <Text>Александр|Александра|Александру|Александра|Александром|Александре</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CYRUS_NAME" Language="ru_RU">
+      <Text>Кир|Кира|Киру|Кира|Киром|Кире</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_HELLENISTIC_FUSION_NAME" Language="ru_RU">
+      <Text>Эллинистическое взаимодействие</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_HELLENISTIC_FUSION_DESCRIPTION" Language="ru_RU">
+      <Text>Ускорения за захват городов: [ICON_TechBoosted] озарение за каждый военный лагерь или кампус в завоеванном городе, [ICON_CivicBoosted] вдохновение за каждое священное место или театральную площадь.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SATRAPIES_NAME" Language="ru_RU">
+      <Text>Сатрапии</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SATRAPIES_DESCRIPTION" Language="ru_RU">
+      <Text>+1 [ICON_TradeRoute] торговый путь при социальном институте «Политическая философия». +2 [ICON_Gold] золота и +1 [ICON_Culture] культуры за торговые пути между своими городами. Дороги, построенные на вашей территории, на один уровень выше, чем обычно.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_TO_WORLDS_END_NAME" Language="ru_RU">
+      <Text>На край земли</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_TO_WORLDS_END_DESCRIPTION" Language="ru_RU">
+      <Text>Города не испытывают усталости от войны. Все боевые юниты полностью восстанавливают здоровье после захвата игроком города с чудом света.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_FALL_BABYLON_NAME" Language="ru_RU">
+      <Text>Падение Вавилона</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_FALL_BABYLON_DESCRIPTION" Language="ru_RU">
+      <Text>+2 [ICON_Movement] ОП на первые 10 ходов после объявления внезапной войны цивилизации. Нет штрафов к продукции в захваченных городах. Объявленная внезапная война считается официальной войной при расчете штрафов за милитаризм и усталости от войны.</Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_BASILIKOI_PAIDES_DESCRIPTION" Language="ru_RU">
+      <Text>Уникальное македонское здание. +25% опыта за бой сухопутным войскам ближнего и дальнего боя, а также гетайрам, созданным в этом городе. Дает [ICON_SCIENCE] науку, равную 25% стоимости созданных в этом городе негражданских юнитов.[NEWLINE][NEWLINE]Нельзя построить в военном лагере, где уже есть конюшня.</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_PAIRIDAEZA_DESCRIPTION" Language="ru_RU">
+      <Text>Позволяет строителям строить паридаэзу (Уникально для Персии).[NEWLINE][NEWLINE]+1 [ICON_CULTURE] культуры и +2 [ICON_GOLD] золота. +2 престижа. +1 [ICON_CULTURE] культуры за каждое соседнее священное место и театральную площадь. +1 [ICON_GOLD] золота за каждый соседний центр коммерции и центр города. Дополнительная [ICON_Culture] культура и [ICON_Tourism] туризм по мере продвижения по дереву технологий и социальных институтов. Нельзя построить на снегу, тундре, заснеженных холмах, холмах в тундре и рядом с другой паридаэзой.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_MACEDONIAN_HYPASPIST_DESCRIPTION" Language="ru_RU">
+      <Text>Уникальный македонский юнит ближнего боя, заменяющий мечников. +5 [ICON_Strength] к боевой мощи при штурме районов. 50% дополнительный бонус поддержки.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_MACEDONIAN_HETAIROI_DESCRIPTION" Language="ru_RU">
+      <Text>Уникальный македонский тяжелый кавалерийский юнит, заменяющий всадников. +5 [ICON_Strength] к боевой мощи рядом с великим полководцем. +5 очков великого полководца при уничтожении вражеского юнита. Получает сразу 1 бесплатное повышение.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_PERSIAN_IMMORTAL_DESCRIPTION" Language="ru_RU">
+      <Text>Уникальный персидский юнит ближнего боя, заменяющий мечников. Юнит ближнего боя с дальнобойной атакой, [ICON_Range] дистанция 2. Мощная оборона.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_HYPASPIST_SIEGE_BONUS_DESCRIPTION" Language="ru_RU">
+      <Text>+5 при осаде района</Text>
+    </Replace>
+    <Replace Tag="LOC_HETAIROI_GREAT_GENERAL_COMBAT_BONUS_DESCRIPTION" Language="ru_RU">
+      <Text>Боевой бонус +5 от соседства с великим полководцем.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_FALL_BABYLON_EXPANSION1_DESCRIPTION" Language="ru_RU">
+      <Text>+2 [ICON_Movement] ОП на первые 10 ходов после объявления внезапной войны цивилизации. +5 лояльности за ход в захваченных городах с гарнизоном. Объявленная внезапная война считается официальной войной при расчете штрафов за милитаризм и усталости от войны.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_HELLENISTIC_FUSION_EXPANSION1_DESCRIPTION" Language="ru_RU">
+      <Text>При завоевании любого города (кроме вольного) вы получаете [ICON_TechBoosted] озарение за каждый военный лагерь или кампус в завоеванном городе и [ICON_CivicBoosted] вдохновение за каждое священное место или театральную площадь.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_HYPASPIST_DESCRIPTION" Language="ru_RU">
+      <Text>+5 [ICON_Strength] к боевой мощи при осаде районов.[NEWLINE][ICON_Bullet] +50% бонус поддержки.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_HETAIROI_DESCRIPTION" Language="ru_RU">
+      <Text>+5 [ICON_Strength] к боевой мощи рядом с великим полководцем.[NEWLINE][ICON_Bullet]+5 очков великого полководца при уничтожении вражеского юнита.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_BASILIKOI_TRAINED_UNIT_XP_DESCRIPTION" Language="ru_RU">
+      <Text>Школа царских пажей увеличивает боевой опыт на 25%.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_FALL_BABYLON_EXPANSION2_DESCRIPTION" Language="ru_RU">
+      <Text>+2 [ICON_Movement] ОП на первые 10 ходов после объявления внезапной войны великой державе. +5 лояльности за ход в захваченных городах с гарнизоном. Объявленная внезапная война считается официальной войной при расчете [ICON_STAT_GRIEVANCE] претензий и штрафов за милитаризм.</Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_BASILIKOI_PAIDES_EXPANSION2_DESCRIPTION" Language="ru_RU">
+      <Text>Уникальное македонское здание. +25% боевого опыта сухопутным войскам ближнего и дальнего боя, а также гетайрам, созданным в этом городе. Дает [ICON_SCIENCE] науку, равную 25% стоимости созданных в этом городе негражданских юнитов.[NEWLINE][NEWLINE]Запасы стратегических ресурсов увеличены на 10 (при стандартной скорости игры).[NEWLINE][NEWLINE]Нельзя построить в военном лагере, где уже есть конюшня.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_MACEDONIAN_HYPASPIST_NAME" Language="ru_RU">
+      <Text>Гипасписты|гипаспистов|гипаспистам|гипаспистов|гипаспистами|гипаспистах</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_UNIT_MACEDONIAN_HETAIROI_NAME" Language="ru_RU">
+      <Text>Гетайры|гетайр|гетайрам|гетайров|гетайрами|гетайрах</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_UNIT_PERSIAN_IMMORTAL_NAME" Language="ru_RU">
+      <Text>Бессмертные|бессмертных|бессмертным|бессмертных|бессмертными|бессмертных</Text>
+      <Gender>masculine</Gender>
+      <Plurality>2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_BASILIKOI_PAIDES_NAME" Language="zh_Hans_CN">
+      <Text>皇家学堂</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_PAIRIDAEZA_NAME" Language="zh_Hans_CN">
+      <Text>波斯庭院</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_MACEDON_NAME" Language="zh_Hans_CN">
+      <Text>马其顿</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PERSIA_NAME" Language="zh_Hans_CN">
+      <Text>波斯</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_ALEXANDER_NAME" Language="zh_Hans_CN">
+      <Text>亚历山大</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CYRUS_NAME" Language="zh_Hans_CN">
+      <Text>居鲁士</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_HELLENISTIC_FUSION_NAME" Language="zh_Hans_CN">
+      <Text>希腊文化融合</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_HELLENISTIC_FUSION_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>征服城市后将获得提升：征服城市中每个军营或学院都会启动 [ICON_TechBoosted] 尤里卡、每个圣地和剧院广场都带来 [ICON_CivicBoosted] 鼓舞。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SATRAPIES_NAME" Language="zh_Hans_CN">
+      <Text>行省总督</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SATRAPIES_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>拥有“政治哲学”市政后，[ICON_TradeRoute] 贸易路线容量+1。本国城市之间的路线+2 [ICON_Gold] 金币，+1 [ICON_Culture] 文化值。本国领土中的道路提升一个等级。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_TO_WORLDS_END_NAME" Language="zh_Hans_CN">
+      <Text>直到世界尽头</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_TO_WORLDS_END_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>城市不会产生厌战情绪。此玩家占领拥有世界奇观的城市时，所有军事单位的体力值将完全恢复。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_FALL_BABYLON_NAME" Language="zh_Hans_CN">
+      <Text>巴比伦的陨落</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_FALL_BABYLON_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>宣布突袭战争后的10回合内+2 [ICON_Movement] 移动力。占领的城市不遭受产量减益。宣布突袭战争的好战性和厌战情绪与正式战争相同。</Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_BASILIKOI_PAIDES_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>马其顿特色建筑。该城中训练的陆地近战、远程单位和伙友骑兵+25%战斗经验值。非平民单位在此城中创建时，获得等同于单位花费25%的 [ICON_SCIENCE] 科技值。[NEWLINE][NEWLINE]无法建造在已拥有马厩的军营区域中。</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_PAIRIDAEZA_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>解锁建造者建造波斯庭院（波斯特色改良设施）的能力。[NEWLINE][NEWLINE]+1 [ICON_CULTURE] 文化值并+2 [ICON_GOLD] 金币。+2魅力。每个相邻圣地和剧院广场+1 [ICON_CULTURE] 文化值。每个相邻商业中心和市中心+1 [ICON_GOLD] 金币。解锁更多科技和市政树后可提供更多 [ICON_Culture] 文化值和 [ICON_Tourism] 旅游业绩。无法建在雪地、冻土、雪地丘陵或冻土丘陵上，也无法建在另一座波斯庭院旁。</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_MACEDONIAN_HYPASPIST_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>马其顿特色近战单位，替代剑客。围攻区域时+5 [ICON_Strength] 战斗力。拥有50%的额外支援加成。</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_MACEDONIAN_HETAIROI_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>马其顿特色重骑兵单位，替代骑手。与大将军相邻时额外+5 [ICON_Strength] 战斗力。击杀敌方单位时+5大将军点数。初始便拥有1次免费升级。</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_PERSIAN_IMMORTAL_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>波斯特色近战单位，替代剑客。此近战单位可进行远程攻击，[ICON_Range] 范围为2。防御力强。</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_HYPASPIST_SIEGE_BONUS_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>围攻区域时+5</Text>
+    </Replace>
+    <Replace Tag="LOC_HETAIROI_GREAT_GENERAL_COMBAT_BONUS_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>相邻大将军+5战斗加成。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_FALL_BABYLON_EXPANSION1_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>对主要文明宣布突袭战争后的10回合内+2 [ICON_Movement] 移动力。拥有驻扎单位的占领城市每回合的忠诚度+5。宣布突袭战争的好战性和厌战情绪与正式战争相同。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_HELLENISTIC_FUSION_EXPANSION1_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>征服非自由城市的城市后，其中每个军营或学院将启动1个 [ICON_TechBoosted] 尤里卡、每个圣地或剧院广场则将带来1次 [ICON_CivicBoosted] 鼓舞。</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_HYPASPIST_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>围攻区域时+5 [ICON_Strength] 战斗力。[NEWLINE][ICON_Bullet]+50%支援加成。</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_HETAIROI_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>与大将军相邻时+5 [ICON_Strength] 战斗力。[NEWLINE][ICON_Bullet]击杀1名敌方单位+5大将军点数。</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_BASILIKOI_TRAINED_UNIT_XP_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>“皇家学堂”提供+25%战斗经验值。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_FALL_BABYLON_EXPANSION2_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>对主要文明宣布突袭战争后的10回合内+2 [ICON_Movement] 移动力。拥有驻扎单位的占领城市每回合的忠诚度+5。宣布突袭战争的 [ICON_STAT_GRIEVANCE] 不满和好战性与正式战争相同。</Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_BASILIKOI_PAIDES_EXPANSION2_DESCRIPTION" Language="zh_Hans_CN">
+      <Text>马其顿特色建筑。该城中训练的陆地近战、远程单位和伙友骑兵+25%战斗经验值。非平民单位在此城中创建时，获得等同于单位花费25%的 [ICON_SCIENCE] 科技值。[NEWLINE][NEWLINE]战略资源储备+10（标准速度下）。[NEWLINE][NEWLINE]无法建造在已拥有马厩的军营区域中。</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_MACEDONIAN_HYPASPIST_NAME" Language="zh_Hans_CN">
+      <Text>持盾护卫</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_MACEDONIAN_HETAIROI_NAME" Language="zh_Hans_CN">
+      <Text>伙友骑兵</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_PERSIAN_IMMORTAL_NAME" Language="zh_Hans_CN">
+      <Text>长生军</Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_BASILIKOI_PAIDES_NAME" Language="es_ES">
+      <Text>Basilikoi Paides|Basilikoi Paides</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_PAIRIDAEZA_NAME" Language="es_ES">
+      <Text>Pairi-Daeza|Pairi-Daeza</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_MACEDON_NAME" Language="es_ES">
+      <Text>Macedonia</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PERSIA_NAME" Language="es_ES">
+      <Text>Persia</Text>
+      <Gender>feminine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_ALEXANDER_NAME" Language="es_ES">
+      <Text>Alejandro</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CYRUS_NAME" Language="es_ES">
+      <Text>Ciro</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1</Plurality>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_HELLENISTIC_FUSION_NAME" Language="es_ES">
+      <Text>Fusión helenística</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_HELLENISTIC_FUSION_DESCRIPTION" Language="es_ES">
+      <Text>Recibe mejoras con la conquista de cada ciudad: un Eureka [ICON_TechBoosted] por cada Campamento o Campus en la ciudad conquistada, y una Inspiración [ICON_CivicBoosted] por cada Lugar sagrado o Teatro.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SATRAPIES_NAME" Language="es_ES">
+      <Text>Satrapías</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SATRAPIES_DESCRIPTION" Language="es_ES">
+      <Text>+1 a la capacidad de Ruta comercial [ICON_TradeRoute] con el principio de la Filosofía política. Recibe +2 de Oro [ICON_Gold] y +1 a Cultura [ICON_Culture] por las rutas entre tus propias ciudades. Las Carreteras construidas en tu territorio están un nivel por encima de lo habitual.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_TO_WORLDS_END_NAME" Language="es_ES">
+      <Text>Hasta el fin del mundo</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_TO_WORLDS_END_DESCRIPTION" Language="es_ES">
+      <Text>Las ciudades no sufren hastío bélico. Todas las unidades militares se curan por completo cuando este jugador captura una ciudad con una maravilla del mundo.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_FALL_BABYLON_NAME" Language="es_ES">
+      <Text>Caída de Babilonia</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_FALL_BABYLON_DESCRIPTION" Language="es_ES">
+      <Text>+2 al Movimiento [ICON_Movement] durante los primeros 10 turnos tras declarar una guerra por sorpresa a una civilización importante. No hay penalización al rendimiento en las ciudades ocupadas. La declaración de guerra por sorpresa solo cuenta como guerra formal a efectos de belicosidad y hastío bélico.</Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_BASILIKOI_PAIDES_DESCRIPTION" Language="es_ES">
+      <Text>Un edificio exclusivo de Macedonia. +25% de experiencia de combate para todas las unidades terrestres cuerpo a cuerpo, a distancia y Hetairoi entrenadas en esta ciudad. Otorga Ciencia [ICON_SCIENCE] igual al 25% del coste de la unidad al crear una unidad que no sea civil en esta ciudad.[NEWLINE][NEWLINE]No se puede construir en un distrito de Campamento que ya tenga un Establo.</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_PAIRIDAEZA_DESCRIPTION" Language="es_ES">
+      <Text>Desbloquea la habilidad Constructor para crear un Pairi-Daeza, exclusivo de Persia.[NEWLINE][NEWLINE]+1 a Cultura [ICON_CULTURE] y +2 de Oro [ICON_GOLD]. +2 de Atractivo. +1 a Cultura [ICON_CULTURE] por cada Lugar sagrado y Teatro adyacentes. +1 de Oro [ICON_GOLD] por cada Centro comercial y Centro urbano adyacentes. Más Cultura [ICON_Culture] y Turismo [ICON_Tourism] a medida que avances por el árbol tecnológico y por el de principios. No puede construirse sobre Nieve, Tundra, Colinas nevadas o Colinas con tundra, ni puede estar adyacente a otro Pairi-Daeza.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_MACEDONIAN_HYPASPIST_DESCRIPTION" Language="es_ES">
+      <Text>Unidad cuerpo a cuerpo exclusiva de Macedonia que sustituye al Soldado con espada. +5 a la Fuerza de combate [ICON_Strength] al asediar distritos. 50% de bonificación de apoyo adicional.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_MACEDONIAN_HETAIROI_DESCRIPTION" Language="es_ES">
+      <Text>Caballería pesada exclusiva de Macedonia que sustituye al Jinete. +5 a la Fuerza de combate [ICON_Strength] adicional cuando está adyacente a un Gran general. +5 puntos de Gran general al acabar con una unidad enemiga. Comienza con un ascenso gratis.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_PERSIAN_IMMORTAL_DESCRIPTION" Language="es_ES">
+      <Text>Unidad cuerpo a cuerpo exclusiva de Persia que sustituye al Soldado con espada. Unidad cuerpo a cuerpo con Ataque a distancia, 2 de Alcance [ICON_Range]. Gran fuerza de defensa.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_HYPASPIST_SIEGE_BONUS_DESCRIPTION" Language="es_ES">
+      <Text>+5 al asediar un distrito.</Text>
+    </Replace>
+    <Replace Tag="LOC_HETAIROI_GREAT_GENERAL_COMBAT_BONUS_DESCRIPTION" Language="es_ES">
+      <Text>+5 de bonificación al Combate por Gran general adyacente.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_FALL_BABYLON_EXPANSION1_DESCRIPTION" Language="es_ES">
+      <Text>+2 al Movimiento [ICON_Movement] durante los primeros 10 turnos tras declarar una guerra por sorpresa a una civilización importante. +5 de Lealtad por turno en las ciudades ocupadas con una unidad de guarnición. La declaración de guerra por sorpresa solo cuenta como guerra formal a efectos de belicosidad y hastío bélico.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_HELLENISTIC_FUSION_EXPANSION1_DESCRIPTION" Language="es_ES">
+      <Text>Al conquistar una ciudad que no sea una ciudad libre recibe una Eureka [ICON_TechBoosted] por cada Campamento o Campus en la ciudad conquistada, y una Inspiración [ICON_CivicBoosted] por cada Lugar sagrado o Teatro.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_HYPASPIST_DESCRIPTION" Language="es_ES">
+      <Text>+5 a la Fuerza de combate [ICON_Strength] al asediar distritos.[NEWLINE][ICON_Bullet]+50% de bonificación de apoyo.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_HETAIROI_DESCRIPTION" Language="es_ES">
+      <Text>+5 a la Fuerza de combate [ICON_Strength] cuando está adyacente a un Gran general.[NEWLINE][ICON_Bullet]+5 puntos de Gran general al acabar con una unidad enemiga.</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_BASILIKOI_TRAINED_UNIT_XP_DESCRIPTION" Language="es_ES">
+      <Text>+25% a la experiencia en combate por Basilikoi Paides.</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_FALL_BABYLON_EXPANSION2_DESCRIPTION" Language="es_ES">
+      <Text>+2 al Movimiento [ICON_Movement] durante los primeros 10 turnos tras declarar una guerra por sorpresa a una civilización importante. +5 de Lealtad por turno en las ciudades ocupadas con una unidad de guarnición. La declaración de una guerra por sorpresa solo cuenta como guerra formal a efectos de Quejas [ICON_STAT_GRIEVANCE] y belicosidad.</Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_BASILIKOI_PAIDES_EXPANSION2_DESCRIPTION" Language="es_ES">
+      <Text>Un edificio exclusivo de Macedonia. +25% de experiencia de combate para todas las unidades terrestres cuerpo a cuerpo, a distancia y Hetairoi entrenadas en esta ciudad. Otorga Ciencia [ICON_SCIENCE] igual al 25% del coste de la unidad al crear una unidad que no sea civil en esta ciudad.[NEWLINE][NEWLINE]Las reservas de recursos estratégicos aumentan en +10 (a velocidad normal).[NEWLINE][NEWLINE]No se puede construir en un distrito de Campamento que ya tenga un Establo.</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_MACEDONIAN_HYPASPIST_NAME" Language="es_ES">
+      <Text>Hipaspista|Hipaspistas</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_UNIT_MACEDONIAN_HETAIROI_NAME" Language="es_ES">
+      <Text>Hetairoi|Hetairoi</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_UNIT_PERSIAN_IMMORTAL_NAME" Language="es_ES">
+      <Text>Inmortal|Inmortales</Text>
+      <Gender>masculine</Gender>
+      <Plurality>1|2</Plurality>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_BASILIKOI_PAIDES_NAME" Language="zh_Hant_HK">
+      <Text>王室宮殿</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_PAIRIDAEZA_NAME" Language="zh_Hant_HK">
+      <Text>波斯花園</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_MACEDON_NAME" Language="zh_Hant_HK">
+      <Text>馬其頓</Text>
+    </Replace>
+    <Replace Tag="LOC_CIVILIZATION_PERSIA_NAME" Language="zh_Hant_HK">
+      <Text>波斯</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_ALEXANDER_NAME" Language="zh_Hant_HK">
+      <Text>亞歷山大</Text>
+    </Replace>
+    <Replace Tag="LOC_LEADER_CYRUS_NAME" Language="zh_Hant_HK">
+      <Text>居魯士</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_HELLENISTIC_FUSION_NAME" Language="zh_Hant_HK">
+      <Text>希臘文化融合</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_HELLENISTIC_FUSION_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>征服城市時獲得提升：被征服的都市中每座營地或學院將開啟 [ICON_TechBoosted] 尤里卡，而每座聖地或劇院廣場則會帶來 [ICON_CivicBoosted] 天啟。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SATRAPIES_NAME" Language="zh_Hant_HK">
+      <Text>行省總督</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_CIVILIZATION_SATRAPIES_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>獲得「政治哲學」市政後 [ICON_TradeRoute] 貿易路線容量+1。本國城市間的貿易路線能獲得+2 [ICON_Gold] 金幣及+1 [ICON_Culture] 文化值。國土境內的道路提升一個等級。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_TO_WORLDS_END_NAME" Language="zh_Hant_HK">
+      <Text>直到世界盡頭</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_TO_WORLDS_END_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>各城市不會產生厭戰情緒。玩家佔領擁有世界奇觀的城市後，所有軍事單位皆會完全治癒。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_FALL_BABYLON_NAME" Language="zh_Hant_HK">
+      <Text>巴比倫的陷落</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_FALL_BABYLON_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>宣布突襲戰爭後10回合內+2 [ICON_Movement] 移動力。佔領的城市無產量減益。宣布突襲戰爭的好戰性和厭戰情緒與正式戰爭相同。</Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_BASILIKOI_PAIDES_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>馬其頓特色建築。在該城市訓練的所有近戰、遠程陸地單位和禁衛騎兵的戰鬥經驗值+25%。在此城市中創建非平民單位時能獲得等同於該單位花費25%的 [ICON_SCIENCE] 科技值。[NEWLINE][NEWLINE]不能建造在已有馬廄的營地區域中。</Text>
+    </Replace>
+    <Replace Tag="LOC_IMPROVEMENT_PAIRIDAEZA_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>解鎖建造者建造波斯特色波斯花園的能力。[NEWLINE][NEWLINE]+1 [ICON_CULTURE] 文化值和+2 [ICON_GOLD] 金幣。+2魅力。如果緊挨聖地和劇院區域建造則+1 [ICON_CULTURE] 文化值。緊挨商業中心和城市中心則+1 [ICON_GOLD] 金幣。隨著你在科技和市政樹上不斷取得進展，也可獲得額外的 [ICON_Culture] 文化值和 [ICON_Tourism] 旅遊業績。無法建造於雪地、凍土、雪山、凍土丘陵或其他波斯花園旁。</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_MACEDONIAN_HYPASPIST_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>馬其頓特色近戰單位，取代劍士。圍攻區域時+5 [ICON_Strength] 戰鬥力。50%的額外支援加成。</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_MACEDONIAN_HETAIROI_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>馬其頓特色重騎兵單位，取代騎手。與大將軍相鄰時額外+5 [ICON_Strength] 戰鬥力。擊殺敵方單位時+5大將軍點數。出生便有1次免費強化機會。</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_PERSIAN_IMMORTAL_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>波斯特色近戰單位，取代劍士。具有遠程攻擊能力的近戰單位，[ICON_Range] 射程2，防禦力極強。</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_HYPASPIST_SIEGE_BONUS_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>圍攻一個區域時+5</Text>
+    </Replace>
+    <Replace Tag="LOC_HETAIROI_GREAT_GENERAL_COMBAT_BONUS_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>相鄰大將軍+5戰鬥加成</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_FALL_BABYLON_EXPANSION1_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>宣布突襲戰爭後10回合內+2 [ICON_Movement] 移動力。擁有駐軍單位的佔領城市每回合的忠誠度+5。宣布突襲戰爭的好戰性和厭戰情緒與正式戰爭相同。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_HELLENISTIC_FUSION_EXPANSION1_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>征服非自由城市的城市時，其中每座營地或學院都將帶來 [ICON_TechBoosted] 尤里卡，而每座聖地或劇院廣場則會帶來 [ICON_CivicBoosted] 天啟。</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_HYPASPIST_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>圍攻區域時+5 [ICON_Strength] 戰鬥力。[NEWLINE][ICON_Bullet]+50%支援加成。</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_HETAIROI_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>與大將軍相鄰時額外+5 [ICON_Strength] 戰鬥力。[NEWLINE][ICON_Bullet]擊殺敵方單位時+5大將軍點數。</Text>
+    </Replace>
+    <Replace Tag="LOC_ABILITY_BASILIKOI_TRAINED_UNIT_XP_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>從王室扈從學院獲得+25%戰鬥經驗值。</Text>
+    </Replace>
+    <Replace Tag="LOC_TRAIT_LEADER_FALL_BABYLON_EXPANSION2_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>宣布突襲戰爭後10回合內+2 [ICON_Movement] 移動力。擁有駐軍單位的佔領城市每回合的忠誠度+5。宣布突襲戰爭的 [ICON_STAT_GRIEVANCE] 怨氣和好戰性與正式戰爭相同。</Text>
+    </Replace>
+    <Replace Tag="LOC_BUILDING_BASILIKOI_PAIDES_EXPANSION2_DESCRIPTION" Language="zh_Hant_HK">
+      <Text>馬其頓特色建築。該城市訓練的所有近戰、遠程陸地單位和「禁衛騎兵」的戰鬥經驗值+25%。在此城中創建非平民單位時能獲得等同於該單位花費25%的 [ICON_SCIENCE] 科技值。[NEWLINE][NEWLINE]戰略資源囤積+10（標準速度下）。[NEWLINE][NEWLINE]不能建造在已有馬廄的營地區域中。</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_MACEDONIAN_HYPASPIST_NAME" Language="zh_Hant_HK">
+      <Text>持盾衛隊</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_MACEDONIAN_HETAIROI_NAME" Language="zh_Hant_HK">
+      <Text>禁衛騎兵</Text>
+    </Replace>
+    <Replace Tag="LOC_UNIT_PERSIAN_IMMORTAL_NAME" Language="zh_Hant_HK">
+      <Text>長生軍</Text>
+    </Replace>
+  </LocalizedText>
+</GameData>

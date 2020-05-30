@@ -1,0 +1,970 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<GameData>
+	<LocalizedText>
+		<Replace Language='en_US' Tag="LOC_BANDNAME_BASE_TEMPLATE">
+			<Text>{1_Prefix} {2_Suffix}</Text>
+		</Replace>
+		<!-- Prefix -->
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_AIR">
+			<Text>Air</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_ALIEN">
+			<Text>Alien</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_ANCIENT">
+			<Text>Ancient</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_ANGRY">
+			<Text>Angry</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_ANIMAL">
+			<Text>Animal</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_APPEALING">
+			<Text>Appealing</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_ARCTIC">
+			<Text>Arctic</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_ASYLUM">
+			<Text>Asylum</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_ATOMIC">
+			<Text>Atomic</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_AUDIO">
+			<Text>Audio</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_BAD">
+			<Text>Bad</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_BIG">
+			<Text>Big</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_BLACK">
+			<Text>Black</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_BLIND">
+			<Text>Blind</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_BLONDE">
+			<Text>Blonde</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_BLUE">
+			<Text>Blue</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_BROKEN">
+			<Text>Broken</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_BROWN">
+			<Text>Brown</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_BUFFALO">
+			<Text>Buffalo</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_CHEAP">
+			<Text>Cheap</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_CLASSICAL">
+			<Text>Classical</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_COLD">
+			<Text>Cold</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_COLLECTIVE">
+			<Text>Collective</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_COOL">
+			<Text>Cool</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_DARK">
+			<Text>Dark</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_DAY">
+			<Text>Day</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_DEEP">
+			<Text>Deep</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_DIRE">
+			<Text>Dire</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_ELECTRIC">
+			<Text>Electric </Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_ENLIGHTENED">
+			<Text>Enlightened</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_EPIC">
+			<Text>Epic</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_EXTREME">
+			<Text>Extreme</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_FAKE">
+			<Text>Fake</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_FLAMING">
+			<Text>Flaming</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_FLYING">
+			<Text>Flying</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_FOREST">
+			<Text>Forest</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_FREE">
+			<Text>Free</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_FRIENDLY">
+			<Text>Friendly</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_FRIGHTENED">
+			<Text>Frightened</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_FURRY">
+			<Text>Furry </Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_FURY">
+			<Text>Fury</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_GIANT">
+			<Text>Giant</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_GOLD">
+			<Text>Gold</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_GRATEFUL">
+			<Text>Grateful</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_GREEN">
+			<Text>Green</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_HILARIOUS">
+			<Text>Hilarious</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_HOLY">
+			<Text>Holy</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_HOT">
+			<Text>Hot </Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_HUMAN">
+			<Text>Human</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_HUNGRY">
+			<Text>Hungry</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_INDIGO">
+			<Text>Indigo</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_INDUSTRIAL">
+			<Text>Industrial</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_IRON">
+			<Text>Iron</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_JOYOUS">
+			<Text>Joyous</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_KIND">
+			<Text>Kind</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_LIGHT">
+			<Text>Light</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_LITTLE">
+			<Text>Little</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_LONELY">
+			<Text>Lonely</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_LOST">
+			<Text>Lost </Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_LOUD">
+			<Text>Loud</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_LOW">
+			<Text>Low</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_LOYAL">
+			<Text>Loyal</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_MAGIC">
+			<Text>Magic</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_MAJOR">
+			<Text>Major</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_MAXIMUM">
+			<Text>Maximum</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_MEDIEVAL">
+			<Text>Medieval</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_MEGA">
+			<Text>Mega</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_MENACING">
+			<Text>Menacing</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_MIDDLE">
+			<Text>Middle</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_MIDNIGHT">
+			<Text>Midnight</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_MIND">
+			<Text>Mind</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_MINI">
+			<Text>Mini</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_MINOR">
+			<Text>Minor</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_MODERN">
+			<Text>Modern</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_MODEST">
+			<Text>Modest</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_MOUNTAIN">
+			<Text>Mountain</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_MUTE">
+			<Text>Mute</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_MYSTERY">
+			<Text>Mystery</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_NATURAL">
+			<Text>Natural</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_NEW">
+			<Text>New</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_NIGHT">
+			<Text>Night</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_NUCLEAR">
+			<Text>Nuclear</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_OLD">
+			<Text>Old</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_ORANGE">
+			<Text>Orange</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_OVERPOWERED">
+			<Text>Overpowered</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_PALE">
+			<Text>Pale</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_PEOPLE">
+			<Text>People</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_PERFECT">
+			<Text>Perfect</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_PERFUME">
+			<Text>Perfume</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_PETIT">
+			<Text>Petit</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_PINK">
+			<Text>Pink</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_POLITICAL">
+			<Text>Political</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_PSYCHEDELIC">
+			<Text>Psychedelic</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_PURPLE">
+			<Text>Purple</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_QUIET">
+			<Text>Quiet</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_RADICAL">
+			<Text>Radical</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_RAINBOW">
+			<Text>Rainbow</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_RANDOM">
+			<Text>Random</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_REAL">
+			<Text>Real</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_RED">
+			<Text>Red</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_RELIGIOUS">
+			<Text>Religious</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_RENAISSANCE">
+			<Text>Renaissance</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_RIVAL">
+			<Text>Rival</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_SICK">
+			<Text>Sick</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_SILENT">
+			<Text>Silent </Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_SILVER">
+			<Text>Silver</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_SMASHING">
+			<Text>Smashing</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_SOCIAL">
+			<Text>Social</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_SPACE">
+			<Text>Space</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_SPEEDY">
+			<Text>Speedy</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_STOLEN">
+			<Text>Stolen</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_SUPER">
+			<Text>Super </Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_TALKING">
+			<Text>Talking</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_TAME">
+			<Text>Tame</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_TOXIC">
+			<Text>Toxic</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_TRADITIONAL">
+			<Text>Traditional</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_UNIQUE">
+			<Text>Unique</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_UNDERGROUND">
+			<Text>Underground</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_UNKNOWN">
+			<Text>Unknown</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_VEGAN">
+			<Text>Vegan</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_WAR">
+			<Text>War</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_WATER">
+			<Text>Water</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_WHITE">
+			<Text>White</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_WILD">
+			<Text>Wild</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_XERIC">
+			<Text>Xeric</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_YELLOW">
+			<Text>Yellow</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_YOUNG">
+			<Text>Young</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_ZEALOUS">
+			<Text>Zealous</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_GDR_PREFIX_TITANIUM">
+			<Text>Titanium</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_GDR_PREFIX_DEATH">
+			<Text>Death</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_GDR_PREFIX_HELL">
+			<Text>Hell</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_GDR_PREFIX_DIABOLICAL">
+			<Text>Diabolical</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_GDR_PREFIX_LAND">
+			<Text>Land</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_GDR_PREFIX_GARGANTUAN">
+			<Text>Gargantuan</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_GDR_PREFIX_MAMMOTH">
+			<Text>Mammoth</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_GDR_PREFIX_MONSTROUS">
+			<Text>Monstrous</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_GDR_PREFIX_ARMORED">
+			<Text>Armored</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_GDR_PREFIX_CYBERNETIC">
+			<Text>Cybernetic</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_GDR_PREFIX_TERRIBLE">
+			<Text>Terrible</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_GDR_PREFIX_ABOMINABLE">
+			<Text>Abominable</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_GDR_PREFIX_INFERNAL">
+			<Text>Infernal</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_GDR_PREFIX_DREAD">
+			<Text>Dread</Text>
+		</Replace>
+		<!-- Suffix-->
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_ANIMALS">
+			<Text>Animals</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_ANT">
+			<Text>Ant</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_ATLAS">
+			<Text>Atlas</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_AUTHORS">
+			<Text>Authors</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_BAND">
+			<Text>Band</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_BARBARIANS">
+			<Text>Barbarians</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_BEACH">
+			<Text>Beach</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_BEARS">
+			<Text>Bears</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_BEATS">
+			<Text>Beats</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_BELLS">
+			<Text>Bells</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_BOOKS">
+			<Text>Books</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_BREAKFAST">
+			<Text>Breakfast</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_BUCKET">
+			<Text>Bucket</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_BUFFALO">
+			<Text>Buffalo</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_BUGS">
+			<Text>Bugs</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_BUILDERS">
+			<Text>Builders</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_CANAL">
+			<Text>Canal</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_CARD">
+			<Text>Card</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_CARROTS">
+			<Text>Carrots</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_CARS">
+			<Text>Cars</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_CASTLES">
+			<Text>Castles</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_CATS">
+			<Text>Cats</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_CAVE">
+			<Text>Cave</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_CELL">
+			<Text>Cell</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_CHAIR">
+			<Text>Chair</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_CHINCHILLA">
+			<Text>Chinchilla</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_CITIES">
+			<Text>Cities</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_CIVICS">
+			<Text>Civics</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_CIVILIZATION">
+			<Text>Civilization</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_CLUB">
+			<Text>Club</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_COAST">
+			<Text>Coast</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_COFFEE">
+			<Text>Coffee</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_CONTINENTS">
+			<Text>Continents</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_COOKIES">
+			<Text>Cookies</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_COUNTRY">
+			<Text>Country</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_CREW">
+			<Text>Crew</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_CROWS">
+			<Text>Crows</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_CULTURE">
+			<Text>Culture</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_DATES">
+			<Text>Dates</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_DEATH">
+			<Text>Death</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_DEITY">
+			<Text>Deity</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_DIAMONDS">
+			<Text>Diamonds</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_DISTRICTS">
+			<Text>Districts</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_DOGS">
+			<Text>Dogs</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_DRAGONS">
+			<Text>Dragons</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_EAGLE">
+			<Text>Eagle</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_ECHIDNA">
+			<Text>Echidna</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_EEL">
+			<Text>Eel</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_ELEPHANT">
+			<Text>Elephant</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_EMERGENCIES">
+			<Text>Emergencies</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_EMPEROR">
+			<Text>Emperor</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_EMPIRE">
+			<Text>Empire</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_EMPRESS">
+			<Text>Empress</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_EMU">
+			<Text>Emu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_ENEMY">
+			<Text>Enemy</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_ENVOYS">
+			<Text>Envoys</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_EVENT">
+			<Text>Event</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_EXPLOSIONS">
+			<Text>Explosions</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_EYES">
+			<Text>Eyes</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_FAITH">
+			<Text>Faith</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_FARMS">
+			<Text>Farms</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_FIGHTERS">
+			<Text>Fighters</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_FIRE">
+			<Text>Fire</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_FOOD">
+			<Text>Food</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_GENIUS">
+			<Text>Genius</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_GHOST">
+			<Text>Ghost</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_GIANTS">
+			<Text>Giants</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_GOATS">
+			<Text>Goats</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_GOLD">
+			<Text>Gold</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_GOSSIP">
+			<Text>Gossip</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_GOVERNORS">
+			<Text>Governors</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_GUITARS">
+			<Text>Guitars</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_HATS">
+			<Text>Hats</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_HEART">
+			<Text>Heart</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_HIGH">
+			<Text>High</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_HIPPOS">
+			<Text>Hippos</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_HISTORY">
+			<Text>History</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_HORSES">
+			<Text>Horses</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_HOUSE">
+			<Text>House</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_HUNTED">
+			<Text>Hunted</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_IMPROVEMENT">
+			<Text>Improvement</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_ISLANDS">
+			<Text>Islands</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_JACKET">
+			<Text>Jacket</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_JETS">
+			<Text>Jets</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_KALE">
+			<Text>Kale</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_KING">
+			<Text>King</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_KITTEN">
+			<Text>Kitten</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_LASER">
+			<Text>Laser</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_LEAGUE">
+			<Text>League</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_LETTERS">
+			<Text>Letters</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_LIZARD">
+			<Text>Lizard</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_LOW">
+			<Text>Low</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_LOYALISTS">
+			<Text>Loyalists</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_MACHINE">
+			<Text>Machine</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_MANIACS">
+			<Text>Maniacs</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_MAP">
+			<Text>Map</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_METAL">
+			<Text>Metal</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_MINDS">
+			<Text>Minds</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_MINES">
+			<Text>Mines</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_NATION">
+			<Text>Nation</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_NOISE">
+			<Text>Noise</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_OBSERVATIONS">
+			<Text>Observations</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_ORCHESTRA">
+			<Text>Orchestra</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_ORDER">
+			<Text>Order</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_PANTHEON">
+			<Text>Pantheon</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_PARTY">
+			<Text>Party</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_PEACOCK">
+			<Text>Peacock</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_PENGUIN">
+			<Text>Penguin</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_PEOPLE">
+			<Text>People</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_PEPPERS">
+			<Text>Peppers</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_POETS">
+			<Text>Poets</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_POND">
+			<Text>Pond</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_POWER">
+			<Text>Power</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_PRINCE">
+			<Text>Prince</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_PRINCESS">
+			<Text>Princess</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_PRODUCTION">
+			<Text>Production</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_PROPHETS">
+			<Text>Prophets</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_PUNK">
+			<Text>Punk</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_PUPPIES">
+			<Text>Puppies</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_QUEEN">
+			<Text>Queen</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_QUESTIONS">
+			<Text>Questions</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_RABBIT">
+			<Text>Rabbit</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_RANGER">
+			<Text>Ranger</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_REJECTS">
+			<Text>Rejects</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_REVOLUTION">
+			<Text>Revolution</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_RHINO">
+			<Text>Rhino</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_RIOT">
+			<Text>Riot</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_RIVERS">
+			<Text>Rivers</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_ROBOTS">
+			<Text>Robots</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_SABOTAGE">
+			<Text>Sabotage</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_SCIENCE">
+			<Text>Science</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_SETTLERS">
+			<Text>Settlers</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_SLANG">
+			<Text>Slang</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_SLOTH">
+			<Text>Sloth</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_SNAKE">
+			<Text>Snake</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_SOUL">
+			<Text>Soul</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_SPADES">
+			<Text>Spades</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_SPIDERS">
+			<Text>Spiders</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_SPIES">
+			<Text>Spies</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_SQUIRRELS">
+			<Text>Squirrels</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_STAR">
+			<Text>Star</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_STONES">
+			<Text>Stones</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_STOPLIGHT">
+			<Text>Stoplight</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_SURPRISE">
+			<Text>Surprise</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_SUSHI">
+			<Text>Sushi</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_SUZERAINS">
+			<Text>Suzerains</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_TECHNOLOGIES">
+			<Text>Technologies</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_TILES">
+			<Text>Tigers</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_TIGERS">
+			<Text>Tiles</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_TOMATOES">
+			<Text>Tomatoes</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_TRADERS">
+			<Text>Traders</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_TRICK">
+			<Text>Trick</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_TURNS">
+			<Text>Turns</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_TURTLE">
+			<Text>Turtle</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_VULTURES">
+			<Text>Vultures</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_WALLS">
+			<Text>Walls</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_WOLF">
+			<Text>Wolf</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_WOMBATS">
+			<Text>Wombats</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_WONDERS">
+			<Text>Wonders</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_XYLOPHONES">
+			<Text>Xylophones</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_YAKS">
+			<Text>Yaks</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_ZOMBIES">
+			<Text>Zombies</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_GDR_SUFFIX_MACHINE">
+			<Text>Machine</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_GDR_SUFFIX_MECH">
+			<Text>Mech</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_GDR_SUFFIX_GOLEM">
+			<Text>Golem</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_GDR_SUFFIX_BEHEMOTH">
+			<Text>Behemoth</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_GDR_SUFFIX_COLOSSUS">
+			<Text>Colossus</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_GDR_SUFFIX_HULK">
+			<Text>Hulk</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_GDR_SUFFIX_BEAST">
+			<Text>Beast</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_GDR_SUFFIX_OGRE">
+			<Text>Ogre</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_GDR_SUFFIX_MONSTROSITY">
+			<Text>Monstrosity</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_GDR_SUFFIX_ROBOT">
+			<Text>Robot</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_GDR_SUFFIX_AUTOMATON">
+			<Text>Automaton</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_GDR_SUFFIX_CYCLOPS">
+			<Text>Cyclops</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_GDR_SUFFIX_GIANT">
+			<Text>Giant</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_GDR_SUFFIX_TITAN">
+			<Text>Titan</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_GDR_SUFFIX_WALKER">
+			<Text>Walker</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITNAME_GDR_SUFFIX_DEVASTATOR">
+			<Text>Devastator</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

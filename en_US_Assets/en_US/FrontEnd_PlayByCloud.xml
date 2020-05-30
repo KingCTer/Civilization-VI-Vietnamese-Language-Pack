@@ -1,0 +1,275 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<FrontEndText>
+		<Row Tag="LOC_PLAY_MULTIPLAYER_HAVE_CLOUD_NOTIFY">
+			<Text>[ICON_Exclamation] Multiplayer</Text>
+		</Row>
+		<Row Tag="LOC_PLAY_MULTIPLAYER_UNSEEN_COMPLETE_GAME">
+			<Text>[ICON_Exclamation] Multiplayer</Text>
+		</Row>
+		<Row Tag="LOC_PLAY_MULTIPLAYER_NEW_MP_MODE">
+			<Text>[ICON_Exclamation] Multiplayer</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_CLOUD_GAME">
+			<Text>Play By Cloud</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_CLOUD_GAME_HAVE_CLOUD_NOTIFY">
+			<Text>[ICON_Exclamation] Play By Cloud</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_CLOUD_UNSEEN_COMPLETE_GAME">
+			<Text>[ICON_Exclamation] Play By Cloud</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_CLOUD_NEW_MODE">
+			<Text>[ICON_Exclamation] Play By Cloud</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_CLOUD_GAME_TT">
+			<Text>Play an asynchronous multiplayer game, which will be stored on the cloud and shared with all players. Requires an active connection to Civilization servers.</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_CLOUD_GAME_NO_LOGIN_TT">
+			<Text>Not Logged into Civilization servers.</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_CLOUD_GAME_HAVE_TURN_TT">
+			<Text>It is your turn in a Play By Cloud game.</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_CLOUD_GAME_GAME_READY_TT">
+			<Text>One of your Play By Cloud games is ready to start.</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_CLOUD_UNSEEN_COMPLETE_GAME_TT">
+			<Text>One of your Play By Cloud games has recently completed.</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_CLOUD_GAME_NEW_MODE_TT">
+			<Text>New multiplayer mode available!</Text>
+		</Row>
+		<Row Tag="LOC_PLAYBYCLOUD_REMOTE_READY_POPUP_TITLE">
+			<Text>Ready to Play</Text>
+		</Row>
+		<Row Tag="LOC_PLAYBYCLOUD_REMOTE_READY_POPUP_TEXT">
+			<Text>You are ready in this game. You will be notified on the main menu and Play By Cloud lobby when it is your turn. You can safely exit this game and play additional singleplayer or multiplayer games.</Text>
+		</Row>
+		<Row Tag="LOC_PLAYBYCLOUD_REMOTE_READY_POPUP_OK">
+			<Text>DO NOTHING</Text>
+		</Row>
+		<Row Tag="LOC_PLAYBYCLOUD_REMOTE_READY_POPUP_LOBBY_EXIT">
+			<Text>EXIT TO LOBBY</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_CLOUD_LOBBY">
+			<Text>Play By Cloud</Text>
+		</Row>
+		<!-- Cloud Game Screen -->
+		<Row Tag="LOC_MULTIPLAYER_CLOUD_LIST">
+			<Text>List</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_CLOUD_TEMPLATE">
+			<Text>Template</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_CLOUD_HOST">
+			<Text>Host</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_CLOUD_JOIN">
+			<Text>Join</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_CLOUD_START">
+			<Text>Start</Text>
+		</Row>
+		<Row Tag="LOC_LOBBY_MY_GAMES">
+			<Text>My Games</Text>
+		</Row>
+		<Row Tag="LOC_LOBBY_MY_GAMES_TT">
+			<Text>Display active games you are in.</Text>
+		</Row>
+		<Row Tag="LOC_LOBBY_OPEN_GAMES">
+			<Text>Open Games</Text>
+		</Row>
+		<Row Tag="LOC_LOBBY_OPEN_GAMES_TT">
+			<Text>Display public games that are available to join.</Text>
+		</Row>
+		<Row Tag="LOC_LOBBY_COMPLETED_GAMES">
+			<Text>Completed Games</Text>
+		</Row>
+		<Row Tag="LOC_LOBBY_COMPLETED_GAMES_TT">
+			<Text>Display history of games you completed.</Text>
+		</Row>
+		<Row Tag="LOC_LOBBY_COMPLETED_GAMES_UNSEEN">
+			<Text>[ICON_Exclamation] Completed Games</Text>
+		</Row>
+		<Row Tag="LOC_LOBBY_COMPLETED_GAMES_UNSEEN_TT">
+			<Text>One of your Play By Cloud games has recently completed.[NEWLINE][NEWLINE]Display history of games you completed.</Text>
+		</Row>
+		<Row Tag="LOC_LOBBY_GAME_YOUR_TURN_TOOLTIP">
+			<Text>It is your turn in this game.</Text>
+		</Row>
+		<Row Tag="LOC_LOBBY_GAME_GAME_READY_TOOLTIP">
+			<Text>This game is ready to start.</Text>
+		</Row>
+		<Row Tag="LOC_LOBBY_GAME_UNSEEN_COMPLETE_TOOLTIP">
+			<Text>This game was recently completed.</Text>
+		</Row>
+		<Row Tag="LOC_LOBBY_GAME_CLOUD_PLAYER_TURN_TOOLTIP">
+			<Text>It is {1_playerName}'s turn in this game.</Text>
+		</Row>
+		<Row Tag="LOC_LOBBY_GAME_NAME_YOUR_TURN">
+			<Text>[ICON_Exclamation] {1_gameName}</Text>
+		</Row>
+		<Row Tag="LOC_LOBBY_GAME_NAME_UNSEEN_COMPLETE">
+			<Text>[ICON_Exclamation] {1_gameName}</Text>
+		</Row>
+		<Row Tag="LOC_SETUP_ERROR_PLAYBYCLOUD_REMOTE_READY">
+			<Text>Waiting for Game Start</Text>
+		</Row>
+		<Row Tag="LOC_SETUP_ERROR_PLAYBYCLOUD_REMOTE_READY_TT">
+			<Text>Waiting for the host to start the game.</Text>
+		</Row>
+		<Row Tag="LOC_READY_BLOCKED_NOT_ENOUGH_HUMANS">
+			<Text>Not Enough Human Players</Text>
+		</Row>
+		<Row Tag="LOC_READY_BLOCKED_NOT_ENOUGH_HUMANS_TT">
+			<Text>Can not start game.  Two human players are required to start.</Text>
+		</Row>
+		<Row Tag="LOC_MAINMENU_MULTIPLAYER_HAVE_CLOUD_TURN_TT">
+			<Text>It is your turn in a Play By Cloud game.</Text>
+		</Row>
+		<Row Tag="LOC_MAINMENU_MULTIPLAYER_GAME_READY_TT">
+			<Text>One of your Play By Cloud games is ready to start.</Text>
+		</Row>
+		<Row Tag="LOC_MAINMENU_MULTIPLAYER_UNSEEN_COMPLETE_GAME_TT">
+			<Text>One of your Play By Cloud games has recently completed.</Text>
+		</Row>
+		<Row Tag="LOC_MAINMENU_MULTIPLAYER_NEW_MP_MODE_TT">
+			<Text>New multiplayer mode available!</Text>
+		</Row>
+		<Row Tag="LOC_MAINMENU_MULTIPLAYER_BASE_TT">
+			<Text>Play By Cloud, Internet, network, and hot seat matches can be setup or joined here.</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_PITBOSS_LOBBY">
+			<Text>PITBOSS GAMES</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_PITBOSS_GAME">
+			<Text>Pitboss</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_PITBOSS_GAME_TT">
+			<Text>Play a multiplayer game where a dedicated server controls the game over a long period of time.</Text>
+		</Row>
+		<!-- Multiplayer Joining Room Screen -->
+		<Row Tag="LOC_MP_ROOM_TOO_MANY_MATCHES">
+			<Text>Unable to join game. You are already in the maximum allowed number of active Play By Cloud games.</Text>
+		</Row>
+		<Row Tag="LOC_MP_ROOM_TOO_MANY_MATCHES_TITLE">
+			<Text>Too Many Matches</Text>
+		</Row>
+		<!-- Lobby Screen -->
+		<Row Tag="LOC_MULTIPLAYER_PLAY_GAME">
+			<Text>Play Game</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_PLAY_GAME_TT">
+			<Text>Continue playing a multiplayer game you are already participating in.</Text>
+		</Row>
+		<!-- Join Code Popup  -->
+		<Row Tag="LOC_JOIN_CODE_POPUP_TITLE">
+			<Text>Join by Join Code</Text>
+		</Row>
+		<Row Tag="LOC_JOIN_CODE_POPUP_TEXT">
+			<Text>Join a game by using a Join Code. The Join Code can be found in the Game Summary tab of the game's Staging Room. Join Codes are case sensitive.</Text>
+		</Row>
+		<Row Tag="LOC_JOIN_CODE_POPUP_EDITBOX">
+			<Text>Join Code:</Text>
+		</Row>
+		<Row Tag="LOC_JOIN_CODE_POPUP_CANCEL">
+			<Text>Cancel</Text>
+		</Row>
+		<!-- Staging Room -->
+		<Row Tag="LOC_START_WAITING_FOR_TURN">
+			<Text>Waiting For Turn</Text>
+		</Row>
+		<Row Tag="LOC_START_WAITING_FOR_TURN_TT">
+			<Text>Click to observe the current game world state.</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_QUIT_GAME">
+			<Text>QUIT</Text>
+		</Row>
+		<Row Tag="LOC_GAME_MENU_QUIT_GAME_TITLE">
+			<Text>Quit Game</Text>
+		</Row>		
+		<Row Tag="LOC_GAME_MENU_QUIT_GAME_WARNING">
+			<Text>Are you sure you wish to quit this multiplayer game? You will lose your progress and be removed from this game.</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_QUITING_GAME_TITLE">
+			<Text>Quit Game</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_QUITING_GAME_PROMPT">
+			<Text>Quitting Game...</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_QUITING_GAME_FAIL_TITLE">
+			<Text>Quit Error</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_QUITING_GAME_FAIL">
+			<Text>Error while quitting game.</Text>
+		</Row>
+		<Row Tag="LOC_MULTIPLAYER_QUITING_GAME_FAIL_ACCEPT">
+			<Text>Ok</Text>
+		</Row>
+		<Row Tag="LOC_STAGING_ROOM_JOIN_CODE">
+			<Text>Join Code:</Text>
+		</Row>
+		<Row Tag="LOC_STAGING_ROOM_COPY_JOIN_CODE">
+			<Text>Click Join Code to copy</Text>
+		</Row>
+		<Row Tag="LOC_GAME_MENU_END_GAME_TITLE">
+			<Text>Delete Game</Text>
+		</Row>
+		<Row Tag="LOC_GAME_MENU_END_GAME_WARNING">
+			<Text>Are you sure you wish to delete this multiplayer game? This will end this game for all players.</Text>
+		</Row>
+		<!-- Options Screen -->
+		<Row Tag="LOC_OPTIONS_WEBHOOK_URL">
+			<Text>Play By Cloud Webhook URL:</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_WEBHOOK_FREQ">
+			<Text>Play By Cloud Webhook Frequency:</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_WEBHOOK_MODE">
+			<Text>Play By Cloud Mode:</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_WEBHOOK_MODE_TOOLTIP">
+			<Text>Mode A - Compatible with IFTTT[NEWLINE]JSON Payload Variables[NEWLINE][ICON_Bullet]"value1" = Game Name[NEWLINE][ICON_Bullet]"value2" = Player Name[NEWLINE][ICON_Bullet]"value3" = Game Turn[NEWLINE]Mode B - Compatible with Discord[NEWLINE]JSON Payload Variables[NEWLINE][ICON_Bullet]"content" = Notification Message</Text>
+		</Row>
+		<Row Tag="LOC_WEBHOOK_FREQ_MY_TURN">
+			<Text>My Turn</Text>
+		</Row>
+		<Row Tag="LOC_WEBHOOK_FREQ_EVERY_TURN">
+			<Text>Every Turn</Text>
+		</Row>
+		<Row Tag="LOC_WEBHOOK_PAYLOAD_MODE_A">
+			<Text>Mode A</Text>
+		</Row>
+		<Row Tag="LOC_WEBHOOK_PAYLOAD_MODE_B">
+			<Text>Mode B</Text>
+		</Row>
+		
+		<!-- PlayByCloud Notification Reminder Popup -->
+		<Row Tag="LOC_PBC_NOTIFY_REMINDER_TITLE">
+			<Text>Setup your notifications!</Text>
+		</Row>
+		<Row Tag="LOC_PBC_OVERVIEW_DESC">
+			<Text>
+				Play By Cloud is an asynchronous multiplayer format where all players take their turns on a common savegame, which is stored on a hosted server. This is a more modern version of “passing the savegame,” which was the ancient practice of sharing a floppy disk with a common save file between friends (if you are unfamiliar with the concept of a “floppy disk,” please ask a respected adult of venerable age).[NEWLINE][NEWLINE]A Play By Cloud game may last a long time (on the order of days or weeks) as each player takes his or her turn at a time that is convenient to them. You will receive notifications when it is your turn to play. You may see a Steam notification if Steam is active, or you may use the webhooks. Webhooks are a generic message format that the technically-inclined can integrate into other messaging services, email, or Internet of Things devices.[NEWLINE][NEWLINE]In asynchronous multiplayer, it is considered courteous to take your turn at your earliest possible convenience to keep the game moving. In ancient times, players were morally obligated to protect the floppy disk from corruption, with unscrupulous players resorting to “losing” the savegame when in an untenable situation. Play By Cloud eliminates such rascally behavior.
+			</Text>
+		</Row>
+		<Row Tag="LOC_PBC_NOTIFY_REMINDER_DESC">
+			<Text>
+				We recommend you enable notifications prior to starting a Play By Cloud match.[NEWLINE][NEWLINE]You must have notifications configured to receive notifications outside of Sid Meier’s Civilization VI.
+			</Text>
+		</Row>
+		<Row Tag="LOC_DO_NOT_REMIND_ALT">
+			<Text>Do Not Remind</Text>
+		</Row>
+		<Row Tag="LOC_DO_NOT_REMIND_ALT_TT">
+			<Text>Never show this reminder again.</Text>
+		</Row>
+		<Row Tag="LOC_DO_NOT_REMIND">
+			<Text>Do not show this again</Text>
+		</Row>
+		<Row Tag="LOC_DO_NOT_REMIND_TT">
+			<Text>Never show this reminder again.</Text>
+		</Row>
+	</FrontEndText>
+</GameData>

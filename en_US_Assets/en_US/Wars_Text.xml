@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<BaseGameText>
+		<Row Tag="LOC_SURPRISE_WAR_NAME">
+			<Text>Surprise War</Text>
+		</Row>
+		<Row Tag="LOC_FORMAL_WAR_NAME">
+			<Text>Formal War</Text>
+		</Row>
+		<Row Tag="LOC_HOLY_WAR_NAME">
+			<Text>Holy War</Text>
+		</Row>
+		<Row Tag="LOC_RECONQUEST_WAR_NAME">
+			<Text>Reconquest War</Text>
+		</Row>
+		<Row Tag="LOC_LIBERATION_WAR_NAME">
+			<Text>Liberation War</Text>
+		</Row>
+		<Row Tag="LOC_DEFENSIVE_PACT_NAME">
+			<Text>Defensive Pact</Text>
+		</Row>
+		<Row Tag="LOC_JOINT_WAR_NAME">
+			<Text>Joint War</Text>
+		</Row>
+		<Row Tag="LOC_SUZERAIN_WAR_NAME">
+			<Text>Suzerain War</Text>
+		</Row>
+		<Row Tag="LOC_PROTECTORATE_WAR_NAME">
+			<Text>Protectorate War</Text>
+		</Row>
+		<Row Tag="LOC_COLONIAL_WAR_NAME">
+			<Text>Colonial War</Text>
+		</Row>
+		<Row Tag="LOC_TERRITORIAL_WAR_NAME">
+			<Text>Territorial War</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

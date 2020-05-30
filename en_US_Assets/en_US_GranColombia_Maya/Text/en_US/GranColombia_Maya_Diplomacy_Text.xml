@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<!-- Lady Six Sky-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_LADY_SIX_SKY_ANY">
+			<Text>We are aligned.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_LADY_SIX_SKY_ANY">
+			<Text>The stars are not right.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_LADY_SIX_SKY_ANY">
+			<Text>The War Serpent wanes in the sky, and good feelings rise. Shall we be friends?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_LADY_SIX_SKY_ANY">
+			<Text>We shine together in the sky, you and I.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_LADY_SIX_SKY_ANY">
+			<Text>I must have misjudged you.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_LADY_SIX_SKY_ANY">
+			<Text>I will not allow you to remain in power any longer. You have offended me for too long!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_LADY_SIX_SKY_ANY">
+			<Text>You are unworthy of rulership. I will take your cities and your people, and rule them for you.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_LADY_SIX_SKY_ANY">
+			<Text>Your delegation has been allowed to visit our capital. I promise none will be forced to the great altar of the War Serpent.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_LADY_SIX_SKY_ANY">
+			<Text>Your delegation is unwelcome. Except, maybe, as a sacrifice?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_LADY_SIX_SKY_ANY">
+			<Text>My envoys bring to you drinking chocolate, ground with chili peppers and honey. Will you let them in?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_LADY_SIX_SKY_ANY">
+			<Text>Jaguars will come for you in the night, and no one will mourn your passing!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_LADY_SIX_SKY_ANY">
+			<Text>I spoke my counsel with patience, and you did not heed it. I speak it now in anger and frustration. (Denounces You).</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_LADY_SIX_SKY_ANY">
+			<Text>You are in the presence of Lady Six Sky, priestess and warrior, queen of the Maya. Greetings.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_LADY_SIX_SKY_ANY">
+			<Text>We have a match between our two best teams in the ball court. For the winners, we have a festival arranged at the temple square. We have made arrangements for the losers atop the altar. Will you come and celebrate with us?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_LADY_SIX_SKY_ANY">
+			<Text>Yes.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_LADY_SIX_SKY_ANY">
+			<Text>Let us exchange information about our homes.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_LADY_SIX_SKY_ANY">
+			<Text>What brings you to me?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_LADY_SIX_SKY_ANY">
+			<Text>See that you continue to stay away from the Mayan homeland. For now the stars shine in your favor.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_LADY_SIX_SKY_ANY">
+			<Text>The stars themselves look away from your deeds. Do not approach my lands.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_LADY_SIX_SKY_ANY">
+			<Text>Venus sets at the appointed mark, and the moon rises over the pyramid. The signs are right for an alliance.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_LADY_SIX_SKY_ANY">
+			<Text>The stars turn again towards peace. I will also put down my arms. </Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_LADY_SIX_SKY_ANY">
+			<Text>No. Cizin, the lord of the underworld, still thirsts for blood. </Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_LADY_SIX_SKY_ANY">
+			<Text>Blood, blood. So much blood. Let it end.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_LADY_SIX_SKY_ANY">
+			<Text>Your people are welcome to walk our paths</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_LADY_SIX_SKY_ANY">
+			<Text>Maya roads will not bear your people's feet. </Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_LADY_SIX_SKY_ANY">
+			<Text>May Maya feet walk your roads?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_LADY_SIX_SKY_ANY">
+			<Text>Your warriors mass near Mayan lands. Remove them at once!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_NEGATIVE_LEADER_LADY_SIX_SKY_ANY">
+			<Text>The War Serpent has guided us here. Who are you to deny us?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_POSITIVE_LEADER_LADY_SIX_SKY_ANY">
+			<Text>The War Serpent does not come for you. We will withdraw. </Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_LADY_SIX_SKY_ANY">
+			<Text>The cycle of the Maya ends. But the end of your time will come, too. I pray it will be soon. </Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_LADY_SIX_SKY_ANY">
+			<Text>This is not the time.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_LADY_SIX_SKY_ANY">
+			<Text>The stars are right.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_LADY_SIX_SKY_NEIGHBOR">
+			<Text>Lady Six Sky is disturbed by you settling near one of her cities.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_LADY_SIX_SKY_NOT_NEIGHBOR">
+			<Text>Lady Six Sky is pleased that you settled far away from her empire.</Text>
+		</Row>
+		<!-- Simon Bolivar-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_SIMON_BOLIVAR_ANY">
+			<Text>Yes! Let us break the chains of servitude together!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_SIMON_BOLIVAR_ANY">
+			<Text>I am not yet convinced that you fight for liberty.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_SIMON_BOLIVAR_ANY">
+			<Text>We both serve the Revolution. Shall we plow the sea together? </Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_SIMON_BOLIVAR_ANY">
+			<Text>Excellent! </Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_SIMON_BOLIVAR_ANY">
+			<Text>I extend my hand to you, and you slap it away. Sad.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_SIMON_BOLIVAR_ANY">
+			<Text>Recourse to war is regrettable, but necessary, when dealing with vipers like you.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_SIMON_BOLIVAR_ANY">
+			<Text>Your tyranny, if unchecked, dooms the world to darkness, and for this reason I must declare war on you.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_SIMON_BOLIVAR_ANY">
+			<Text>We held a parade and a festival in the town square in your delegation's honor. They had a long night. Let them sleep in.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_SIMON_BOLIVAR_ANY">
+			<Text>Gran Colombia walks its own path today.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_SIMON_BOLIVAR_ANY">
+			<Text>I send to you a delegation of my finest horsemen carrying coffee and sugar. Will you let them in?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_SIMON_BOLIVAR_ANY">
+			<Text>Tyrant! Oppressor of the people! Foe of liberty! Your day of reckoning approaches!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_SIMON_BOLIVAR_ANY">
+			<Text>Perhaps you can deceive others, but I have no illusions about your wicked designs. (Denounces You).</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_SIMON_BOLIVAR_ANY">
+			<Text>I, President Simon Bolivar, welcome you to Gran Colombia.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_SIMON_BOLIVAR_ANY">
+			<Text>We are holding an open debate in my city about the nature of freedom. Would you like to come and listen to me talk? </Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_SIMON_BOLIVAR_ANY">
+			<Text>Yes.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_SIMON_BOLIVAR_ANY">
+			<Text>In the spirit of friendship, let us visit each other's capital. </Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_SIMON_BOLIVAR_ANY">
+			<Text>Welcome back.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_SIMON_BOLIVAR_ANY">
+			<Text>It seems that you understand both history and statecraft with a well promoted army. Your people benefit from your leadership.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_SIMON_BOLIVAR_ANY">
+			<Text>May I offer a friendly word of warning? Change your ways, friend, or those who lead promoted armies will change them for you.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_SIMON_BOLIVAR_ANY">
+			<Text>Will you join me in my struggle for liberty?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_SIMON_BOLIVAR_ANY">
+			<Text>Yes, the time for peace has come. Let us lay down our arms.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_SIMON_BOLIVAR_ANY">
+			<Text>We will not turn back! We ride forward, to our liberation and to your ruin!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_SIMON_BOLIVAR_ANY">
+			<Text>Here. I offer my saber in the interests of peace. Let us talk terms.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_SIMON_BOLIVAR_ANY">
+			<Text>Yes, let us march together!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_SIMON_BOLIVAR_ANY">
+			<Text>Leave the roads of Colombia to the free.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_SIMON_BOLIVAR_ANY">
+			<Text>May the armies of liberation march through your lands?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_SIMON_BOLIVAR_ANY">
+			<Text>Your forces threaten our lands. Remove them at once!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_NEGATIVE_LEADER_SIMON_BOLIVAR_ANY">
+			<Text>The glorious armies of liberty cannot be moved.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_AI_RESPONSE_POSITIVE_LEADER_SIMON_BOLIVAR_ANY">
+			<Text>The glorious armies of liberty will take themselves elsewhere.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_SIMON_BOLIVAR_ANY">
+			<Text>Everything I have done, I did for the nation of Gran Colombia. I remain a patriot to the very end.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_SIMON_BOLIVAR_ANY">
+			<Text>I know a rotten deal when I see one.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_SIMON_BOLIVAR_ANY">
+			<Text>Yes! Let us both profit from this!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_AGENDA_SIMON_BOLIVAR">
+			<Text>Simón Bolívar is happy with the advancement of your troops.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

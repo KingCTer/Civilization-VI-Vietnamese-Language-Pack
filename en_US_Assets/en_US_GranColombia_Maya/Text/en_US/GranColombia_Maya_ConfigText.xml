@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<!-- Apocalypse Mode -->
+		<Row Tag="LOC_GAMEMODE_APOCALYPSE_NAME">
+			<Text>Apocalypse Mode</Text>
+		</Row>
+		<Row Tag="LOC_GAMEMODE_APOCALYPSE_DESCRIPTION">
+			<Text>This game mode adds new natural disasters, larger and more impactful versions of existing disasters, and increases the chances of all natural disasters. Apocalypse Mode also adds the Soothsayer unit to the game, and should the climate reach its final level of change, comets pummel the earth and destroy humanity.</Text>
+		</Row>
+		<!-- Gran Colombia: Civ Info -->
+		<Row Tag="LOC_CIVILIZATION_GRAN_COLOMBIA_NAME">
+			<Text>Gran Colombia</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_GRAN_COLOMBIA_DESCRIPTION">
+			<Text>Gran Colombian Empire</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_GRAN_COLOMBIA_ADJECTIVE">
+			<Text>Gran Colombian</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_EJERCITO_PATRIOTA_NAME">
+			<Text>Ejército Patriota</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_EJERCITO_PATRIOTA_DESCRIPTION">
+			<Text>+1 [ICON_Movement] Movement to all units. Promoting a unit does not end that unit’s turn.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_EJERCITO_PATRIOTA_EXTRA_MOVEMENT_NAME">
+			<Text>Ejército Patriota</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_EJERCITO_PATRIOTA_EXTRA_MOVEMENT_DESCRIPTION">
+			<Text>+1 [ICON_Movement] Movement to all units (Ejército Patriota)</Text>
+		</Row>
+		<!-- Gran Colombia: Improvement Info -->
+		<Row Tag="LOC_IMPROVEMENT_HACIENDA_NAME">
+			<Text>Hacienda</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_HACIENDA_DESCRIPTION">
+			<Text>Unlocks the Builder ability to construct a Hacienda, unique to Gran Colombia.[NEWLINE][NEWLINE]+2 [ICON_GOLD] Gold, +1 [ICON_PRODUCTION] Production, and +1 [Icon_Housing] Housing. +1 [ICON_Food] Food for every two adjacent Plantations (increased to every Plantation with Replaceable Parts). Plantations and Haciendas receive +1 [ICON_Production] Production for every two adjacent Haciendas (increased to every Hacienda with Rapid Deployment). Can only be built on Plains, Plains Hills, Grassland, and Grassland Hills.</Text>
+		</Row>
+		<!-- Gran Colombia: Leader Info -->
+		<Row Tag="LOC_LEADER_SIMON_BOLIVAR_NAME">
+			<Text>Simón Bolívar</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_SIMON_BOLIVAR">
+			<Text>You could have followed the whims of your colleagues, Simón Bolívar, but instead you chose to become the Liberator. Hardships never dissuaded you, so hold fast to your ideals and lead your republic into a new age of prosperity.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_CAMPANA_ADMIRABLE_NAME">
+			<Text>Campaña Admirable</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_CAMPANA_ADMIRABLE_DESCRIPTION">
+			<Text>Earn a Comandante General when entering a new era.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_CAMPANA_ADMIRABLE_DESCRIPTION_XP1">
+			<Text>Earn a Comandante General when the game enters a new era.</Text>
+		</Row>
+		<!-- Gran Colombia: Unit Info -->
+		<Row Tag="LOC_UNIT_COMANDANTE_GENERAL_NAME">
+			<Text>Comandante General</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_COMANDANTE_GENERAL_DESCRIPTION">
+			<Text>A special type of Great Person only available to Simón Bolívar. Each has unique abilities, including a passive effect, and a Retire effect.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_COLOMBIAN_LLANERO_NAME">
+			<Text>Llanero</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_COLOMBIAN_LLANERO_DESCRIPTION">
+			<Text>Gran Colombian Industrial era unique unit that replaces the Cavalry. Low maintenance cost. +4 [ICON_Strength] Combat Strength for every adjacent Llanero. Fully heals when in range of a Comandante General that activates its retire ability.</Text>
+		</Row>
+		<!-- Maya: Civ Info -->
+		<Row Tag="LOC_CIVILIZATION_MAYA_NAME">
+			<Text>Maya</Text>
+      <Gender>Masculine:the</Gender>
+      <Plurality>2</Plurality>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_MAYA_DESCRIPTION">
+			<Text>Mayan Empire</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_MAYA_ADJECTIVE">
+			<Text>Mayan</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_MAYAB_NAME">
+			<Text>Mayab</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_MAYAB_DESCRIPTION">
+			<Text>Settling adjacent to Fresh Water and Coast do not provide extra [ICON_HOUSING] Housing, instead each Farm provides an additional +1 [ICON_HOUSING] Housing and +1 [ICON_GOLD] Gold. +1 [ICON_AMENITIES] Amenity for every Luxury adjacent to the City Center.</Text>
+		</Row>
+		<!-- Maya: District Info -->
+		<Row Tag="LOC_DISTRICT_OBSERVATORY_NAME">
+			<Text>Observatory</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_OBSERVATORY_DESCRIPTION">
+			<Text>A district unique to the Maya for scientific endeavors. Replaces the Campus district and cheaper to build.[NEWLINE][NEWLINE]+2 [ICON_Science] Science bonus for adjacent Plantations. +1 [ICON_Science] Science bonus for every two adjacent Farm or district tiles.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_OBSERVATORY_DESCRIPTION_ADJACENCY">
+			<Text>Adjacency: Major [ICON_Science] Science bonus for each adjacent Plantation. Minor [ICON_Science] Science bonus for adjacent Farm or district tiles</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_PLANTATION_SCIENCE">
+			<Text>+{1_num} [ICON_Science] Science from the adjacent Plantation {1_Num : plural 1?tile; other?tiles;}.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_FARM_SCIENCE">
+			<Text>+{1_num} [ICON_Science] Science from the adjacent Farm {1_Num : plural 1?tile; other?tiles;}.</Text>
+		</Row>
+		<!-- Maya: Leader Info -->
+		<Row Tag="LOC_LEADER_LADY_SIX_SKY_NAME">
+			<Text>Lady Six Sky</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_LADY_SIX_SKY">
+			<Text>Lady Six Sky, great warrior mother of Dos Pilas and Wak Kab’nal, lead your people into a new dynasty. Let your reach grow long so you may conquer your enemies near and far. The Gods will guide you, and you will in turn guide your loyal citizens to victory.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_MUTAL_NAME">
+			<Text>Ix Mutal Ajaw</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_MUTAL_DESCRIPTION">
+			<Text>Non capital cities within 6 tiles of the [ICON_Capital] Capital gain +10% to all yields. Other non capital cities receive -15% to all yields. +5 [ICON_Strength] Combat Strength to units within 6 tiles of the [ICON_Capital] Capital.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_MUTAL_COMBAT_STRENGTH_NEAR_CAPITAL_NAME">
+			<Text>Mutal</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_MUTAL_COMBAT_STRENGTH_NEAR_CAPITAL_DESCRIPTION">
+			<Text>+5 [ICON_Strength] Combat Strength to units within 6 tiles of the [ICON_Capital] Capital (Ix Mutal Ajaw)</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_MUTAL_NEAR_CAPITAL_COMBAT_DESCRIPTION">
+			<Text>+{1_Amount} Combat Strength from the Mutal trait</Text>
+		</Row>
+		<!-- Maya: Unit Info -->
+		<Row Tag="LOC_UNIT_MAYAN_HULCHE_NAME">
+			<Text>Hul'che</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MAYAN_HULCHE_DESCRIPTION">
+			<Text>Mayan unique Ancient Era ranged unit that replaces the Archer. Strong ranged attack. +5 [ICON_Strength] Combat Strength when fighting a wounded opponent.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_HULCHE_DESCRIPTION">
+			<Text>+5 [ICON_Strength] Combat Strength when fighting a wounded opponent.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_LAHORE_NIHANG_NAME">
+			<Text>Nihang</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_LAHORE_NIHANG_DESCRIPTION">
+			<Text>Lahore City-State unique unit with a unique Promotion tree. Purchasable with [ICON_Faith] Faith. [ICON_Strength] Combat Strength is increased when Barracks, Armory, and Military Academy buildings are first constructed.</Text>
+		</Row>
+    <!--Apocalypse: Unit Info-->
+    <Row Tag="LOC_UNIT_SOOTHSAYER_NAME">
+      <Text>Soothsayer</Text>
+    </Row>
+    <Row Tag="LOC_UNIT_SOOTHSAYER_DESCRIPTION">
+      <Text>An Apocalypse-mode-specific support unit.  Can use the Cause Disaster action to begin a random disaster in the hexes near the unit.  Doing so destroys the Soothsayer if it has no more charges.</Text>
+    </Row>
+    <Row Tag="LOC_CLIMATE_FOREST_FIRE">
+      <Text>Forest Fires</Text>
+    </Row>
+	</EnglishText>
+</GameData>
