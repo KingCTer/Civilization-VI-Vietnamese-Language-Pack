@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Replace Language='en_US' Tag="LOC_LOADING_INFO_LEADER_CHANDRAGUPTA">
+			<Text>Trust your ambition, Chandragupta, for it led you to unify all of India. Unleash war elephants upon any rival who curses your name, proud Mauryan king. Once you reclaim the land for your people, your stepwells shall see it flourish. May the borders of your empire expand forever.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_LOADING_INFO_LEADER_GENGHIS_KHAN">
+			<Text>Genghis Khan, your cunning built Mongolia an empire from the back of your horse. Always charge to meet enemy cavalry, for a victory can draw them to your ranks. Send your swift and powerful Keshig archers to hasten your citizens across the land. Soon, the steady drumbeat of Mongolian cavalry is a sound you will teach the world.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_LOADING_INFO_LEADER_LAUTARO">
+			<Text>You did not liberate the Mapuche, young Lautaro—you inspired them to free themselves. Build totems to honor your ancestors and embolden their descendants. Such pride will fill the hearts of your cavalry as they redouble their raids into enemy lands. Stand with the Mapuche, axe-bearer, and cast a singular shadow.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_LOADING_INFO_LEADER_POUNDMAKER">
+			<Text>Poundmaker, you bear the fate of the Cree without complaint. None doubt the skill of your warriors, but they rely upon your wisdom—striking your enemies does no good if you cannot protect your homes. As the world changes in unexpected ways, your alliances will bind you to a lasting future. Those who stand alone die alone.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_LOADING_INFO_LEADER_ROBERT_THE_BRUCE">
+			<Text>Robert the Bruce, as the stalwart defender of Scotland you are no stranger to war, yet rarely do you seek to inflict it. If you keep your people happy, you'll inspire them to greatness. Let anyone who takes advantage of your weaker neighbors meet your fearless highlanders. They can teach the true meaning of freedom.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_LOADING_INFO_LEADER_SEONDEOK">
+			<Text>Queen Seondeok, the stars reveal you lead Korea to greatness. Build Seowons to educate your people, for the secrets of the world are theirs to uncover. For those who would steal your knowledge, treat them to a rain of rocket propelled fire from your Hwacha. Reach for the heavens, shrewd queen, and your people will reach with you.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_LOADING_INFO_LEADER_SHAKA">
+			<Text>Clever Shaka, king of the Zulu, your soldiers shall win you an empire. The Impi warriors at your command outflank and outfight all who oppose them. The unyielding Zulu armies will prove your strength lies in numbers. You need not war with every neighbor—but let them think you might.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_LOADING_INFO_LEADER_TAMAR">
+			<Text>Fierce Tamar, only a fool could misjudge Georgia's true measure. Hound your enemies with loyal clansmen who strike from the hills. Encourage your foes to dash their best against your cities' enduring walls. The armies of your protectorates will run them down as they flee. If you suffer no fools, great queen, Georgia will not suffer.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_LOADING_INFO_LEADER_WILHELMINA">
+			<Text>Queen Wilhelmina, you will defend the Netherlands to the last. Turn coastland to farmland with Dutch ingenuity. Your citizens will farm with great efficiency, knowing that they are under the protection of your mighty warships. Above all, trade with everyone you meet. A good deal can turn a foe into a friend—and if not, the money will fund your opposition.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

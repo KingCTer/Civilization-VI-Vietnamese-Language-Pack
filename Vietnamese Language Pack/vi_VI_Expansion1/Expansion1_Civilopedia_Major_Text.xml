@@ -1,0 +1,1037 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- Natural Wonders -->
+		<Replace Language='en_US' Tag="LOC_PEDIA_FEATURES_PAGE_FEATURE_DELICATE_ARCH_CHAPTER_HISTORY_PARA_1">
+			<Text>A remarkable rock formation long ago caught the attention of people in the American southwest. The towering formation resembles the waist and legs of a bow legged person. Newspaper editors nicknamed it the “Gigantic Window,” “Chaps,” and “Schoolmarm’s Bloomers,” though Frank Beckwith’s “Delicate Arch” stuck in 1934.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_FEATURES_PAGE_FEATURE_DELICATE_ARCH_CHAPTER_HISTORY_PARA_2">
+			<Text>The precarious sandstone arch is as tall as a six-story building, which unfortunately sealed its fate. Both gravity and Utah’s winds will eventually lead to the arch’s collapse. Nature alone hasn’t taken its toll—despite its name, some ill-advised attempts to climb the Delicate Arch have damaged the majestic structure.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_FEATURES_PAGE_FEATURE_EYE_OF_THE_SAHARA_CHAPTER_HISTORY_PARA_1">
+			<Text>A great blue eye gazes out from the sands deep within the Sahara Desert, and few alive have seen it for themselves. This unblinking Eye of the Sahara, formally known as the Richat Structure, is nearly twenty-five miles across. Its vibrant colors make an easily recognizable landmark for astronauts, some of the few who have seen it in its entirety.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_FEATURES_PAGE_FEATURE_EYE_OF_THE_SAHARA_CHAPTER_HISTORY_PARA_2">
+			<Text>While the origins of the Richat Structure remain widely debated, the initial speculation of a meteorite impact bore no fruit. The prevailing geological theory is that the Eye of the Sahara is an “eroded symmetrical uplift” (more plainly, a type of dome made from layered rocks).</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_FEATURES_PAGE_FEATURE_LAKE_RETBA_CHAPTER_HISTORY_PARA_1">
+			<Text>The “Pink Lake” gets its name from its intense, strawberry pink water. This color changes from pale pink to an alarming rusty red depending on the time of day, season, and composition of the lake. Algae living within the lake, not pollution, cause its shifting palette. For the Senegalese locals, the lake’s changing waters are simply part of everyday life. </Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_FEATURES_PAGE_FEATURE_LAKE_RETBA_CHAPTER_HISTORY_PARA_2">
+			<Text>Retba’s color is not its only unusual quality. The lake’s hypersalinic water—similar to the Dead Sea—lets a swimmer float on the lake without effort. This means that diving into the lake is not recommended. (Nor is drinking the water.)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_FEATURES_PAGE_FEATURE_MATTERHORN_CHAPTER_HISTORY_PARA_1">
+			<Text>The jagged precipice of the Matterhorn stands alone amongst the Alps. Its giant spire reaches nearly 15,000 feet, dominating the landscape of valleys surrounding it. As with most tall mountains, people saw the Matterhorn and decided to climb it.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_FEATURES_PAGE_FEATURE_MATTERHORN_CHAPTER_HISTORY_PARA_2">
+			<Text>Mountaineers long considered the Matterhorn a worthy opponent. One 19th Century mountaineer famously declared it unclimbable, but this claim was proven false when Edward Whymper and a party of ten other climbers began their ascent on July 14th, 1865. Though the Matterhorn claimed the lives of four companions, Whymper’s party was the first to conquer the mountain. (The mountaineer who declared it “unclimbable” was Whymper himself, who had tried and failed multiple times before.)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_FEATURES_PAGE_FEATURE_RORAIMA_CHAPTER_HISTORY_PARA_1">
+			<Text>Mount Roraima juts 9000 ft. above the rainforests of South America. This sandstone tabletop mountain—called “the mother of all waters” by locals—inspired the setting for a number of stories and myths. Sir Arthur Conan Doyle’s The Lost World took inspiration from the landscape, as well as the account of Sir Everard im Thurn’s expedition. Thurn, an explorer and botanist, was the first to climb Roraima successfully.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_FEATURES_PAGE_FEATURE_RORAIMA_CHAPTER_HISTORY_PARA_2">
+			<Text>The mountain hosts a substantial amount of unique flora and fauna. Unlike Doyle’s novel, the real Mount Roraima has no dinosaurs. (If it does, they haven’t made their presence known.)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_FEATURES_PAGE_FEATURE_UBSUNUR_HOLLOW_CHAPTER_HISTORY_PARA_1">
+			<Text>The land of Ubsunur Hollow (or “Uvs Nuur Basin”) is a pocket in time. Few signs of human life mark this Eastern Siberian region, but for the barrows dug for the ancient dead, massive stones erected as ceremonial monuments, and the haunting sounds of Tuvan throat singing.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_FEATURES_PAGE_FEATURE_UBSUNUR_HOLLOW_CHAPTER_HISTORY_PARA_2">
+			<Text>The basin, just smaller than Puerto Rico, spans multiple biomes. All manner of unique species find a home in the Hollow’s deserts, marshes, tundra, and saltwater lakes. One such animal is the endangered snow leopard, once hunted to near-extinction. Now that the area is a protected reserve, the leopards can repopulate without fear of natural predators (beyond the occasional farmer concerned about their livestock).</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_FEATURES_PAGE_FEATURE_ZHANGYE_DANXIA_CHAPTER_HISTORY_PARA_1">
+			<Text>The ragged sandstone mountains of Zhangye Danxia span over 120 square miles near the heart of modern China, in the foothills of the Qilian Mountains. Seemingly painted across its rugged landscape are bands of red, blue, green, and gold—a result of naturally occurring chemical reactions, erosion, and tectonic shifts between the Indian and Eurasian plates.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_FEATURES_PAGE_FEATURE_ZHANGYE_DANXIA_CHAPTER_HISTORY_PARA_2">
+			<Text>The colors of the “Rainbow Mountains” are so vibrant that photographs of the region can appear digitally filtered. The available light can further alter the coloration, making Zhangye Danxia a true wonder to behold at any time of day.</Text>
+		</Replace>
+		
+		<!-- Districts -->
+		<Replace Language='en_US' Tag="LOC_PEDIA_DISTRICTS_PAGE_DISTRICT_SEOWON_CHAPTER_HISTORY_PARA_1">
+			<Text>An educational crisis in 16th Century Korea brought about the seowon, a private institution designed to fill the scholarly void. The heavy emphasis on Confucian teachings and rituals were often expressed in the modest appearance of its structures. The preponderance of aristocratic children attending made the seowon ideal for discussing politics. This blend of Neo-Confucianism and topical matters created an ideal setting to explore new ideas about Korea’s contemporary culture and government.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_DISTRICTS_PAGE_DISTRICT_IKANDA_CHAPTER_HISTORY_PARA_1">
+			<Text>The ikanda (also known as a “kraal” or “umuzi”) were self-sufficient, fortified Zulu homesteads. A double palisade protected its residents—the inner wall kept livestock in and the outer wall kept interlopers out. Ikanda were ideally placed uphill for reasons both practical and strategic: rainwater flowed downhill to clean the ikanda, while opponents were forced to attack an elevated position.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_DISTRICTS_PAGE_DISTRICT_IKANDA_CHAPTER_HISTORY_PARA_2">
+			<Text>Shaka’s revolutionary changes to the military capitalized on the traditional Zulu age-grade system. Young men of the same age lived, trained, and fought together in regiments, relying on the ikanda’s bounty to provide their food, arms, and armor.</Text>
+		</Replace>
+
+		<!-- Units -->
+		<Replace Language='en_US' Tag="LOC_PEDIA_UNITS_PAGE_UNIT_SCOTTISH_HIGHLANDER_CHAPTER_HISTORY_PARA_1">
+			<Text>In the wake of Scotland’s 1719 Jacobite rising, the British Army  recruited loyal Scottish clans (the Campbells, Grants, Frasers, and Munros) to promote unity and keep the peace in the Scottish Highlands. The first of the Highland Regiments was known as the Black Watch thanks to their classic dark tartans—with prominent red waistcoats to show their loyalty to Great Britain.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_UNITS_PAGE_UNIT_SCOTTISH_HIGHLANDER_CHAPTER_HISTORY_PARA_2">
+			<Text>The British Army regulars carried a musket and bayonet into battle. The Highlanders took it a step further by charging into the fray with broadswords, an arguably uncommon weapon for the 18th Century. They first saw combat outside of their homeland at the Battle of Fontenoy (1745), where a French writer described them as “Highland furies” who fought with “more violence than ever did a sea driven by a tempest.” Highlanders continue to serve in modern times, though their broadswords are (presumably) ceremonial.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_UNITS_PAGE_UNIT_KOREAN_HWACHA_CHAPTER_HISTORY_PARA_1">
+			<Text>The Korean hwacha (or “fire chariot”) launched the most terrifying fireworks display of the 15th Century. At first glance, this simple, two-wheeled wooden cart bears little more than a slotted horizontal board as its cargo. When fully loaded and fired, dozens of rocket-propelled projectiles would streak out from those slots, raining a steel-tipped volley upon distant enemy formations.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_UNITS_PAGE_UNIT_KOREAN_HWACHA_CHAPTER_HISTORY_PARA_2">
+			<Text>This efficient death machine came to prominence when it helped repel a late 16th Century Japanese invasion of Korea. The hwacha presence at the Battle of Haengju significantly aided the 3,400 Korean defenders against an invading samurai infantry nine times their size.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ZULU_IMPI_CHAPTER_HISTORY_PARA_1">
+			<Text>The powerful warrior regiments of the Zulu were already a formidable force when the ambitious Shaka taught them new techniques: combining the iklwa (a short, stabbing spear with a broader blade than a throwing spear) and the ishlangu (a large, oval shield with cowhide layered on top). They trained to form shield walls, both to blunt projectiles and to hide their true numbers, and attack with a “buffalo horns” formation—greener troops would sweep out and around to pin the enemy’s flanks (the horns), while a more experienced center would slam into the pinned enemy (the rest of the buffalo).</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_UNITS_PAGE_UNIT_ZULU_IMPI_CHAPTER_HISTORY_PARA_2">
+			<Text>The impi training regimes under Shaka were nothing less than brutal, but harsh conditioning led to tightly bonded, well-disciplined soldiers able to carry out complex formations with ease. The impi became a highly mobile force, nigh-unstoppable against anything short of repeating rifles and high explosives.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DE_ZEVEN_PROVINCIEN_CHAPTER_HISTORY_PARA_1">
+			<Text>For a fledgling nation bordering a small patch of the North Sea, the Dutch fleet of the late 17th Century was rather exceptional. Its powerful ships of the line were nearly half the length of a football field (either variety), armed with a minimum of 80 guns spread across two gun decks.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_UNITS_PAGE_UNIT_DE_ZEVEN_PROVINCIEN_CHAPTER_HISTORY_PARA_2">
+			<Text>A typical Dutch ship of this class was the flagship De Zeven Provinciën (“The Seven Provinces”), the naval backbone of multiple battles in the Anglo-Dutch wars—battles nobody expected a mercantile nation to win. Nevertheless, these ships proved the Dutch could hold their own against other (presumably) mightier naval powers.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MONGOLIAN_KESHIG_CHAPTER_HISTORY_PARA_1">
+			<Text>The Mongolian keshig were the elite imperial guard of the Great Kahn. These mounted warriors, originally comprised of Genghis Khan’s most loyal fighters, grew to 10,000 strong among later khans. The keshig were well equipped, using their composite bows and mobility to harry opponents from a distance. As horse archers, they were second to none. Their peculiar rank as the Khan’s guard put them above even the commanding officers of an army—unsurprising, for they were predominantly composed of young warriors from prominent households.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GEORGIAN_KHEVSURETI_CHAPTER_HISTORY_PARA_1">
+			<Text>The warriors from Georgia’s Khevsureti territory maintained their traditions for countless generations. (Until the early 20th Century, they continued to fight with weapons and armor more suited to medieval times.) These fierce Georgians dressed in chainmail and carried swords, axes, and small, black bucklers adorned with crosses for nighttime raids—due to the shield’s color, the warriors were practically invisible in the moonlight. Though tradition was their watchword, they did adapt with the times, incorporating firearms as their importance on the battlefield became unmistakable.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_UNITS_PAGE_UNIT_MAPUCHE_MALON_RAIDER_CHAPTER_HISTORY_PARA_1">
+			<Text>The 16th Century brought a Spanish invasion to what is now southern Chile. It also brought horses, which the Mapuche had never seen before encountering the conquistadors. Their presence on the battlefield forced the Mapuche to adjust their tactics. They quickly learned how to use horses, turning one of the greatest Spanish advantages against them. The mounted malón raiders—so named for their retributive attacks on invaders—would launch quick raids to harass an enemy, before leading a responding enemy into an ambush.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_UNITS_PAGE_UNIT_CREE_OKIHTCITAW_CHAPTER_HISTORY_PARA_1">
+			<Text>Roughly translating to “warrior,” the okihtcitaw had a much more important role within Cree society than merely serving as combatants. The sons of chiefs, they protected the tribe when it traveled and kept order when it settled. They also policed buffalo hunts to ensure that no one hunter began before any other. The Cree considered these seasoned warriors incredibly brave and skilled in combat, a step above their peers—often charismatic and clever, allowing them to serve as effective leaders in times of war and peace.</Text>
+		</Replace>
+
+		<!-- Buildings -->
+		<Replace Language='en_US' Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_ORDU_CHAPTER_HISTORY_PARA_1">
+			<Text>Simply translated, “ordu” means “palace tent.” However, an ordu was something much more than just a simple tent—it was the center of the tribe for the nomadic Mongolians.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_ORDU_CHAPTER_HISTORY_PARA_2">
+			<Text>An ordu served as the headquarters and main encampment for the Khan and his warriors. Though built for travel, it had style, from simple decorations to carefully sewn patterns. The ordu moved with the Khan and his warriors as they went on campaign, ensuring they always felt at home no matter where they traveled.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_TSIKHE_CHAPTER_HISTORY_PARA_1">
+			<Text>High over the landscape, situated in the hills and rocky cliffs, the Georgian fortresses guard the countryside. The tsikhe feature high curtain walls with either rounded or triangular merlons (the solid part of the “cut outs” on the wall). A tower stands at each intersection of joined wall.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_TSIKHE_CHAPTER_HISTORY_PARA_2">
+			<Text>The Georgian fortresses were particularly difficult to assault due to their position on the high ground. Although this type of fortress existed during the time of Alexander the Great, the Georgians used them effectively through the 17th Century.</Text>
+		</Replace>
+		<!-- Improvements -->
+		<Replace Language='en_US' Tag="LOC_PEDIA_IMPROVEMENTS_PAGE_IMPROVEMENT_CHEMAMULL_CHAPTER_HISTORY_PARA_1">
+			<Text>The Mapuche erected great wooden tombstones to remember their dead. These chemamull are carved from a single log and placed beside a person’s tomb. These “people of wood” stand as tall as a person, crafted as recognizably male or female figures with arms crossed over their bodies.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_IMPROVEMENTS_PAGE_IMPROVEMENT_CHEMAMULL_CHAPTER_HISTORY_PARA_2">
+			<Text>The Mapuche built these wooden statues to protect the spirits of their loved ones. They believed each statue guarded its tomb and helped to reunite a spirit with its ancestors.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_IMPROVEMENTS_PAGE_IMPROVEMENT_GOLF_COURSE_CHAPTER_HISTORY_PARA_1">
+			<Text>There is one singular, undeniable historical constant: people have always enjoyed hitting balls with sticks. Scotland’s turf happened to be a perfect place to hit balls with sticks across large stretches of land. Thus “golf,” which means, “hitting a ball with a stick across a large stretch of land.” Golf courses became the stretches of land in question, frustrating generations of golfers with sand traps, lakes, the rough, and drops from highlands.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_IMPROVEMENTS_PAGE_IMPROVEMENT_GOLF_COURSE_CHAPTER_HISTORY_PARA_2">
+			<Text>Golf (as played today) managed to survive and thrive despite various attempts at banning the sport, by people such as King James II (who the Scots rightly ignored) and even the Scottish Church, who did not want it played during holy days. The Church’s larger complaint was with golfers playing in churchyards, which were a very particular sort of hazard.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_IMPROVEMENTS_PAGE_IMPROVEMENT_MEKEWAP_CHAPTER_HISTORY_PARA_1">
+			<Text>Made from birch bark, the mekewap was a long-term shelter for the Cree intended to lodge many people. The Cree carefully laid out the wood into a dome shape, then wrapped wooden strips around the shelter. They then wove the strips together for warmth, further securing it from the elements. This careful construction prevented rain from permeating the shelter.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_IMPROVEMENTS_PAGE_IMPROVEMENT_MEKEWAP_CHAPTER_HISTORY_PARA_2">
+			<Text>The mekewap were not portable, but thankfully, they were relatively easy and quick to build.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_IMPROVEMENTS_PAGE_IMPROVEMENT_POLDER_CHAPTER_HISTORY_PARA_1">
+			<Text>Most see the shoreline as an end. For the Dutch, the coastline was a challenge and an opportunity. The Netherlands spent 800 years reclaiming a country from the sea, using dikes, canals, levees, and pumps. Polders are the low-lying bits of land revealed when the water recedes.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_IMPROVEMENTS_PAGE_IMPROVEMENT_POLDER_CHAPTER_HISTORY_PARA_2">
+			<Text>The Dutch constantly maintained their polders to prevent the sea from reclaiming the land. Over the centuries, they mastered the art of keeping water out and reversing the effects of erosion. Today, more than a quarter of the Netherlands remains below sea level, leaving the country in a continuous game of tug-of-war with the North Sea.</Text>
+		</Replace>
+
+		<!-- Wonders -->
+		<Replace Language='en_US' Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_AMUNDSEN_SCOTT_RESEARCH_STATION_CHAPTER_HISTORY_PARA_1">
+			<Text>Scientists studying the South Pole brave its extreme conditions at the Amundsen-Scott Research Station. The station bears the names of Antarctic explorers Captain Robert Scott (the explorer who discovered the plateau where the South Pole is located) and Roald Amundsen (the first man to reach the South Pole—beating Scott’s expedition by 34 days). The original station, completed by the United States in 1957, became party to the Antarctic Treaty in 1959. All scientists working at the research station swore to freely explore and share scientific endeavors.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_AMUNDSEN_SCOTT_RESEARCH_STATION_CHAPTER_HISTORY_PARA_2">
+			<Text>Good intentions aside, the South Pole is no easy place to settle. The United States abandoned the station by 1975, whereupon it was buried under 30 feet of snow, excavated in 2010, and subsequently demolished with explosives. The new and improved Amundsen-Scott South Pole Station (established in 1999) features an Atmospheric Research Observatory, a section for studying astrophysics, and most importantly, internet access.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_AMUNDSEN_SCOTT_RESEARCH_STATION_QUOTE">
+			<Text>“For scientific leadership, give me Scott; for swift and efficient travel, Amundsen.”[NEWLINE]– Sir Raymond Priestley</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_CASA_DE_CONTRATACION_CHAPTER_HISTORY_PARA_1">
+			<Text>When Spain joined the late 15th Century’s exploration race, Queen Isabella I of Castile and Ferdinand II of Aragón realized they needed a firmer grasp on colonial trade and expansion. Through their Casa de Contratación, a “House of Trade” created to regulate trade and procurement, the Spanish crown controlled everything related to trade and sea travel down to the smallest details. Even their navigation and cartography school kept literal trade secrets in house.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_CASA_DE_CONTRATACION_CHAPTER_HISTORY_PARA_2">
+			<Text>Seville was home to the first incarnation of the Casa de Contración, but the agency moved to Cádiz in 1717. Moving to a city near the southern tip of Spain streamlined the influx of ships, which had previously traveled up the highly trafficked Guadalquivir River. The Casa remained in Cádiz until its termination in 1790 due to the empire’s growing debts.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_CASA_DE_CONTRATACION_QUOTE">
+			<Text>“All other lands found on the western side of the boundary shall belong to the King and Queen of Castille—and their successors.”[NEWLINE]– Treaty of Tordesillas</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_KILWA_KISIWANI_CHAPTER_HISTORY_PARA_1">
+			<Text>The East African city-state Kilwa Kisiwani was once a major destination for trade in the Indian Ocean. Ivory, gold, and perfumes flowed through its markets. At its height, Kilwa Kisiwani contained some of the finest architecture in East Africa: the Great Mosque (which remained the world’s largest mosque until the 16th Century) and Husuni Kubwa (a classy palace), both of which survived to the modern day.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_KILWA_KISIWANI_CHAPTER_HISTORY_PARA_2">
+			<Text>Kilwa Kisiwani flourished as a major trade city until the Portuguese arrived in 1498 to “make improvements” to the city’s infrastructure (if extorting tribute can be considered an improvement). Over the centuries, a series of foreign conquerors wrestled control of the city from one another, until it was abandoned in 1840.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_KILWA_KISIWANI_QUOTE">
+			<Text>“Kilwa is one of the most beautifully built cities in the world; the houses there are entirely made of wood, their rooftops out of rope grass, and it rains with great vigour.”[NEWLINE]– Ibn Battuta</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_KOTOKU_IN_CHAPTER_HISTORY_PARA_1">
+			<Text>Serene, enduring, and somewhat mysterious, the Buddha statue known as the Daibutsu sits outside of Kamakura’s Kōtoku-in. Towering over the Buddhist temple’s visitors, the Daibutsu patiently greets both faithful and tourist alike. An unknown artist cast the Great Buddha of Kamakura out of bronze, which has since oxidized into a muted green color through natural weathering.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_KOTOKU_IN_CHAPTER_HISTORY_PARA_2">
+			<Text>However, the Kōtoku-in’s artist clearly built it to last. It survived an earthquake and two typhoons, one of which destroyed the building that used to surround it. The statue remains unfazed by nature’s attempts to unseat its 750-year meditation.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_KOTOKU_IN_QUOTE">
+			<Text>“O ye who tread the Narrow Way, by Tophet-flare to Judgment Day, be gentle when ‘the heathen’ pray, to Buddha at Kamakura!”[NEWLINE]– Rudyard Kipling</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_ST_BASILS_CATHEDRAL_CHAPTER_HISTORY_PARA_1">
+			<Text>The large, dramatically colored cathedral near Moscow’s Moskva River officially bore the name “Cathedral of the Intercession of the Virgin by the Moat,” but most people referred to it as “St. Basil’s.” Also, the shorter name fits better on maps. Ivan the Terrible commissioned its construction in 1555 to commemorate victories achieved during his reign.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_ST_BASILS_CATHEDRAL_CHAPTER_HISTORY_PARA_2">
+			<Text>Despite Ivan’s namesake, the cathedral turned out to be anything but terrible. The cathedral is reminiscent of a Russian nesting doll, consisting of eight separate clustered churches rather than a single one. Though St. Basil’s was originally a drab white, it received a fresh coat of bold, patterned paint in 1860 that has defined it since.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_ST_BASILS_CATHEDRAL_QUOTE">
+			<Text>“One had a twisted design, red, on a green ground; another, all prickly angles, yellow and black; a third was ornamented with scales of blue and crimson; a forth was in quarters like a melon.”[NEWLINE]– Katharine Blanche Guthrie</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_STATUE_LIBERTY_CHAPTER_HISTORY_PARA_1">
+			<Text>Perhaps nothing is more iconic to America than the giant green woman standing in New York Harbor. Professor Edouard de Laboulaye and sculptor Frederic-Auguste Bartholdi didn’t hold back when creating the towering copper statue. It took twenty-one years for Laboulaye’s vision of Lady Liberty to come to life. Though ten years too late for America’s centennial, the people didn’t mind the delay—any present that arrives in 214 boxes must be a fantastic gift.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_STATUE_LIBERTY_CHAPTER_HISTORY_PARA_2">
+			<Text>Even before its final assembly in 1886, it earned the nickname “the New Colossus” thanks to poet Emma Lazarus. The statue quickly became a symbol of freedom and hope; her beacon acting as a lighthouse for the tired and poor, beckoning people to the shores of the United States with the promise of shelter and a new beginning.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_STATUE_LIBERTY_QUOTE">
+			<Text>“Here at our sea-washed, sunset gates shall stand a mighty woman with a torch, whose flame is the imprisoned lightning.”[NEWLINE]– Emma Lazarus</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_TAJ_MAHAL_CHAPTER_HISTORY_PARA_1">
+			<Text>Mughal Emperor Shah Jahān had many wives, but Mumtāz Mahal (his third wife) was by far his favorite. After Mahal died in childbirth in 1631, Jahān immortalized his beloved with the grandest mausoleum he could imagine. The Taj Mahal’s construction required 20,000 laborers working for two decades. No mere tomb, the structure also housed a mosque and even a guesthouse—presumably for guests who preferred not to rest in a tomb.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_TAJ_MAHAL_CHAPTER_HISTORY_PARA_2">
+			<Text>Jahān would not have long to appreciate the labors of 20,000 laborers. A violent succession struggle amongst his sons saw him placed under house arrest shortly after the Taj Mahal’s completion. Until his death in 1666, Jahān need only look out the window to observe his creation: the four tall minarets, the giant domed building seeming to fill the sky—all built with brick-in-lime mortar, red sandstone, and marble. The temple to Jahān’s love for Mahal still stands in India.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_TAJ_MAHAL_QUOTE">
+			<Text>“Did you ever build a castle in the air? Here is one, brought down to earth and fixed for the wonder of ages.”[NEWLINE]– Bayard Taylor</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_TEMPLE_ARTEMIS_CHAPTER_HISTORY_PARA_1">
+			<Text>Little remains of this once esteemed holy site. Dedicated to Artemis, the Greek Goddess of the Hunt, the temple suffered multiple devastations and underwent numerous rebuilding. It suffered damage from floods, raids, and arson caused by a man named Herostratus (who just wanted everyone to remember his name).</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_TEMPLE_ARTEMIS_CHAPTER_HISTORY_PARA_2">
+			<Text>In its best days, the temple was made of marble, gilded with gold and silver, and is said to have been longer than a football field. Philo of Byzantium, a Greek engineer and writer, declared that the splendor of temple put other contemporary wonders “in the shade.”</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_WONDERS_PAGE_BUILDING_TEMPLE_ARTEMIS_CHAPTER_HISTORY_PARA_3">
+			<Text>A final destruction at the dawn of the 5th Century, led by a Christian mob inspired by “gold-tongued” Saint John Chrysostom, ultimately spelled the end for the Temple of Artemis. In a way, the temple still lives on in present-day Turkey—its stone pillaged and incorporated into other buildings.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_TEMPLE_OF_ARTEMIS_QUOTE">
+			<Text>“When I saw the house of Artemis that mounted to the clouds, those other marvels lost their brilliancy, and I said, 'Lo, apart from Olympus, the Sun never looked on aught so grand.'”[NEWLINE]– Antipater of Sidon</Text>
+		</Replace>
+		
+		<!-- Cree -->
+		<Replace Language='en_US' Tag="LOC_CIVINFO_CREE_LOCATION">
+			<Text>North America</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVINFO_CREE_SIZE">
+			<Text>Roughly 520,000 square miles (1,350,000 square km)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVINFO_CREE_POPULATION">
+			<Text>As few as 8,000 in latter half of 19th century, to over 300,000 in early 21st Century</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVINFO_CREE_CAPITAL">
+			<Text>None (hunter-gatherer settlements of familial bands were common, with regional seasonal meetings) </Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_CREE_CHAPTER_HISTORY_PARA_1">
+			<Text>They call themselves Nehiyawak. The Cree (as they are called in English) are Canada’s largest First Nation today. Their traditional territory is primarily in the Subarctic and Plains regions of the modern provinces of Alberta, Saskatchewan, Manitoba, and Ontario, following along the Southwestern shore of Hudson Bay, and extending into portions of Quebec. Divided into regional and dialectal subgroups, and composed of dozens of individual bands and joined by a common Algonquian language, the Cree are closely related to a number of other First Nations, blending with those people and with outsiders over the course of their history through a policy of welcoming outsiders. </Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_CREE_CHAPTER_HISTORY_PARA_2">
+			<Text>Interconnected relationships between individuals and groups is a defining characteristic of Cree culture. This flexibility and welcoming of outsiders proved to be one of the Cree’s greatest strengths as a people. For most of their history, the Cree were organized into small, family-centered groups. Men were expected to hunt and defend the band, and women had the critical role of establishing the camp and its logistics. Members of the band could come and join and contribute, then leave and join another band if they wished. Outsiders could marry or be adopted into the group, cementing relationships between different Cree bands, bands of other indigenous people, or Metis and European individuals.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_CREE_CHAPTER_HISTORY_PARA_3">
+			<Text>Leadership of these groups hinged largely on the qualities of individuals, rather than strict heredity (a chief’s son, for example, was not guaranteed to assume leadership after his father). Chiefs were expected to demonstrate physical bravery, political savvy, wisdom, flexible thinking, and oratorical skills. Chiefs needed to demonstrate generosity both within and between groups, through gift-giving and mediation. They were expected to listen to counsel from all quarters in evaluating their decisions. Warrior and dancer societies provided opportunities for the next generation of prospective leaders to gain experience in war and politics to prove their worth.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_CREE_CHAPTER_HISTORY_PARA_4">
+			<Text>With this decentralized leadership style, talking about “the Cree” as a unified group is tricky, especially as the Cree come into contact with the governments of western civilizations. Different leaders could choose to negotiate or fight, and still ostensibly speak as members of the Cree, as we shall see.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_CREE_CHAPTER_HISTORY_PARA_5">
+			<Text>Like many Native American groups, the Cree rely on oral tradition as a record of their history, including a rich store of creation myths often varying from band to band. In one, the ancestors of modern people were walking along in the clouds, and seeing the green and verdant world below, interlaced with creeks and rivers, and wished to live there. They ask a greater spirit to descend to this world below, and he fashions a giant bowl made from clouds, asks them to climb in, and lowers them to the world below. But the bowl comes to rest in a tree. Animals pass by, but most refuse to help, except for Fisher, who climbs the tree and carries the people down.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_CREE_CHAPTER_HISTORY_PARA_6">
+			<Text>The first record of the Cree in the west comes from reports in the early 17th century, shortly after Henry Hudson surveyed the James and Hudson Bays. Shortly afterwards, the fur trade with Europe began in earnest, and this exchange fundamentally transformed the Cree, just as it transformed the cultures and economies of North America.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_CREE_CHAPTER_HISTORY_PARA_7">
+			<Text>The Cree at this time lived primarily in the area around the Hudson Bay, south into modern Ontario and Quebec. They became integrally involved with the fur trade, both as trappers and traders, bringing in furs, and exchanging them for European-manufactured goods. Bands could establish a strong relationship with a Metis or European, and parlay that into ongoing trade. Often the Cree would trade Western goods along to their allies.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_CREE_CHAPTER_HISTORY_PARA_8">
+			<Text>Eventually the Cree, the Saulteaux, and the Assiniboine nations formed a military and political alliance known as the Iron Confederacy, which would last for over 150 years as a power in central Canada. The foundation of the Confederacy was trade with the European fur market. During this time, many Cree bands continued to move west out from the woodland and into the prairie, and their society underwent a rapid evolution from forest trappers and hunters to horse-mounted warriors and bison hunters. The Cree’s westward expansion brought them into conflict with other First Nations, and led to a series of intermittent conflicts between tribes such as the Blackfoot and the Snake.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_CREE_CHAPTER_HISTORY_PARA_9">
+			<Text>These intertribal conflicts emerged as fights over the resources of the plains: Horses, bison, and territory. Raiding, counter-raiding, and retributive violence between groups did eventually slow through negotiation, inter-adoption (see Poundmaker’s entry), and a rising need to confront a looming crisis on the plains.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_CREE_CHAPTER_HISTORY_PARA_10">
+			<Text>But by the mid-19th century, overhunting of the great bison herds for fur and meat had led to precipitous collapse of their numbers. The Cree’s home territory in the aspen parkland suffered declining herds faster than the prairies to the south, but to the same effect. A Tragedy of the Commons situation developed, with depletion accelerating until Cree bands, their livelihood gone, began to turn to the Canadian government for help.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_CREE_CHAPTER_HISTORY_PARA_11">
+			<Text>Bands of Cree were signatories of the Numbered Treaties with the government of Canada, under the belief that this would secure aid and developmental opportunities to create a new way of life, as well as restrict the influx of white settlers into the region. Frequently the First Nations bands would sign on behalf of themselves, while the government would assume they were speaking on behalf of the entire nation, leading to later accusations that the First Nations were reneging on their treaty obligations. These accusations served as government justification to not meet their terms, compounding the misery of the treaty signatories.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_CREE_CHAPTER_HISTORY_PARA_12">
+			<Text>Some Cree leaders refused to sign (or signed only reluctantly), notably Mistahimaskwa (or Big Bear) and Pihtokahanapiwiyin (or Poundmaker), resisting what they saw as an effort to end their traditional way of life.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_CREE_CHAPTER_HISTORY_PARA_13">
+			<Text>Some Assiniboine and Cree bands participated in an uprising that occurred at the same time as the North-West Rebellion by the Metis people. This rebellion was precipitated by the Canadian government’s failure to live up to the terms of existing treaties, as well as the desperate poverty of life both on reservations and for free First Nations with the vanishing bison. The superior numbers, equipment, and logistics of the Canadian government, and the disjointed nature of the uprisings led to the First Nations’ defeat. The Iron Confederacy came to an end as a power in Canada. </Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_CREE_CHAPTER_HISTORY_PARA_14">
+			<Text>In the aftermath the Cree were relocated to reservations, stripped of their rights to the resources of their lands, and forced to subordinate their traditional culture to governmental oversight. Their children were forced into the residential school system, which was explicitly set up to prevent the transmission of both native language and traditional culture through forced assimilation. This had permanent, tragic consequences for the continuation of Cree culture. There is a total loss of some traditional knowledge, and the effects will continue to be felt for generations.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_CREE_CHAPTER_HISTORY_PARA_15">
+			<Text>But the Cree have never stopped advocating for their own rights and the right to participate in the direction of their country. In the latter half of the 20th century, the number of Cree speakers has grown, and as the largest of Canada’s First Nations, they are instrumental in advocating for the rights of indigenous minorities around the world, environmental protection of their lands, and preserving traditional indigenous culture. </Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_POUNDMAKER_TITLE">
+			<Text>Poundmaker (Pitikwahanapiwiyin)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_POUNDMAKER_SUBTITLE">
+			<Text>Chief of the Cree</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_POUNDMAKER_QUOTE">
+			<Text>If I had wronged you, I would never have come to meet you.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_POUNDMAKER_CHAPTER_HISTORY_PARA_1">
+			<Text>Poundmaker was chief during a time of crisis for the Cree. Deeply, personally committed to both peace with the Canadian government and the preservation of his people, he negotiated impossible choices, only to be wrongly accused and tried for treason.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_POUNDMAKER_CHAPTER_HISTORY_PARA_2">
+			<Text>He was born to a Stony shaman and a Metis woman in about 1842, near Battleford in modern Saskatchewan. By many accounts, his father was a famous bison caller – a man who drew bison into pounds. Poundmaker, like his father, is said to have possessed this skill to a high degree, and was acknowledged as an outstanding orator as well.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_POUNDMAKER_CHAPTER_HISTORY_PARA_3">
+			<Text>A bison pound is a circular, paddock-like enclosure whose opening is designed to funnel a herd of bison within. A bison caller would sing and chant, trying to attract the lead female of the herd into the enclosure, whereupon the hunters could easily slaughter the herd. It was an evolution of previous bison drive tactics (such as driving the herd over a cliff) and had the advantage of being less traumatic for the bison and easier for the hunters. Bison callers were greatly respected, with bison calling having great practical and spiritual importance to the nation.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_POUNDMAKER_CHAPTER_HISTORY_PARA_4">
+			<Text>In 1873, Poundmaker was adopted by the Blackfoot leader Crowfoot. Crowfoot had initiated a peace between the Cree and Blackfoot, bringing to an end an era of bitter wars and feuds. Crowfoot’s wife saw Poundmaker, and was struck by his resemblance to their son who had been killed recently by a Cree war party. Poundmaker was adopted by Crowfoot, and given the name Wolf Thin Legs (Makoyikohin), and for the next few years lived with the Blackfoot. This greatly elevated his status with both the Cree and the Blackfoot, and Poundmaker became an advisor and subordinate chief of the Cree.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_POUNDMAKER_CHAPTER_HISTORY_PARA_5">
+			<Text>In August of 1876, the Cree were deeply involved with the negotiation of Treaty Number 6 with the government of Canada, with the negotiations being held in Fort Carlton. Poundmaker emerged as a leading skeptic of the treaty. He objected to the terms being dictated, and pushed for the inclusion of a famine clause, as well as assistance for the Cree in learning farming and trades. He was a signatory to Treaty 6, although he continued to hunt the bison herds until 1879, crossing the border into the United States.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_POUNDMAKER_CHAPTER_HISTORY_PARA_6">
+			<Text>There in Montana, Poundmaker’s band skirmished with US cavalry forces, and the band retreated back into Canada. The band resigned themselves to a reservation at the confluence of Battle River and Cut Knife Creek. By all accounts, despite his earlier misgivings about the reservations and his reluctance to enter one, Poundmaker made every effort to learn to plough and farm to become self-sufficient, rather than rely on government rations.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_POUNDMAKER_CHAPTER_HISTORY_PARA_7">
+			<Text>In 1881, Poundmaker served as an interpreter and guide for the Governor-General from Battleford to Calgary. The viceregal party was impressed with their guide’s nonviolent philosophy and cultural knowledge. Poundmaker, for his part, seems to have recognized the potential power of the government as a force. Shortly afterwards he publically encouraged his band to remain peaceful, citing the potential power of the tide of whites moving to settle in, and the dangers of a conflict with them.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_POUNDMAKER_CHAPTER_HISTORY_PARA_8">
+			<Text>This commitment to peace was shortly tested. In 1883, short supplies to the reservations and a reduction of the staff of the Indian Department, as well as the terrible winter of 1883-1884 led to starvation and desperation. By June 1884, war bands under young warrior leaders had begun to gather, and many groups, including ones led by the Cree leader Big Bear, assembled on Poundmaker’s reservation for a Thirst Dance ceremony to discuss the situation.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_POUNDMAKER_CHAPTER_HISTORY_PARA_9">
+			<Text>The North-West Mounted Police attempted to disband the dance, but were unable to do so. Additional troopers were called in to the Battleford area. One of the First Nations men was accused of assaulting a reservation official, and the NWMP moved in to arrest him, leading to a standoff with Poundmaker and Big Bear, who refused to turn over the man while the dance was ongoing. Incidents such as these undermined trust between the Cree and the government.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_POUNDMAKER_CHAPTER_HISTORY_PARA_10">
+			<Text>And trust was in short supply, and incidents were about to become worse. In 1885, Metis leader Louis Riel returned from Montana, where he had been living in exile, and uprisings of Cree, Assinibone, and Metis bands broke out over the region. When word came of the Metis’ victory at Duck Lake, Poundmaker and the Cree were faced with a critical choice.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_POUNDMAKER_CHAPTER_HISTORY_PARA_11">
+			<Text>The warriors within the Cree wanted to join Riel in his rebellion. Poundmaker wanted to avoid being drawn into the conflict. Joining with bands of the Stonies, Poundmaker brought his band to the town of Battleford in an effort to negotiate a continued peace and new promises of rations and supplies. But Battleford had been abandoned by the settlers.  Despite Poundmaker’s efforts, the town was looted, and the combined bands returned to the reservation.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_POUNDMAKER_CHAPTER_HISTORY_PARA_12">
+			<Text>On the morning of May 2nd, 1885, government forces under the command of Lieutenant-Colonel Otter attacked Poundmaker’s camp, believing Poundmaker to be in rebellion. After a sharp skirmish, Otter and his men were forced to retreat. Poundmaker intervened to prevent the Cree and Stony warriors from pursuing the retreating troops, thus preventing further bloodshed. Poundmaker again intervened when his band captured a column of supplies intended for government forces, preventing the warriors from murdering the wagon drivers.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_POUNDMAKER_CHAPTER_HISTORY_PARA_13">
+			<Text>Shortly afterwards, word came of Louis Riel’s defeat at the Battle of Batoche. The North-West Rebellion was effectively over. Poundmaker sent a letter to a priest, Father Louis Cochin, and a message to the government forces indicating he wanted to negotiate for peace. On May 26th, Poundmaker and his band came again to Battleford with the intention of negotiating their surrender.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_POUNDMAKER_CHAPTER_HISTORY_PARA_14">
+			<Text>The government was not in the mood for negotiations. Upon entering the fort, Poundmaker and his followers were arrested and charged with treason against the government. He was transported to Regina, and given a cursory trial after which the jury deliberated for half an hour before returning a guilty verdict. Sentenced to three years in prison, he was paroled after a year at Stony Mountain Penitentiary. The year in prison had ruined him, physically and mentally, and he died shortly afterwards of a pulmonary hemorrhage, while visiting his adoptive father Crowfoot, on the Blackfoot reservation.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_POUNDMAKER_CHAPTER_HISTORY_PARA_15">
+			<Text>Poundmaker’s historical reputation was quickly restored after his death. His commitment to a lasting, just peace between the Cree and the government was born of foresight and dignity. During his life he had served as a personal agent of peace to end war between First Nations. He had negotiated in good faith and attempted to strike a conciliatory approach with the Canadian government. He had done his utmost to prevent desperate grievances and imminent violence with the government from spiraling into a vicious cycle of retribution. This legacy is now honored among both the Cree and Canadians today.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_POUNDMAKER_CHAPTER_CAPSULE_BODY">
+			<Text>The Cree are incredibly powerful in the early game, while their talents in trade propel their early advantages into the future.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_POUNDMAKER_CHAPTER_DETAILED_BODY">
+			<Text>Choosing which military unit to train first isn't a difficult choice for the Cree. The Okihtcitaw starts the game with a free promotion, giving them an exploration advantage over all other civilizations. Combined with a stronger combat strength, it's almost unnecessary to build Warriors to protect your first cities. Quickly researching the Pottery technology is also an obvious choice for the Cree, gaining an early trade route to send to a foreign city you've inevitably found with your unique reconnaissance units, and grabbing territory along the way. Poundmaker is a superior trader and negotiator, making favorable trades to cities with Camps and Pastures only increases his proceeds. Using friendly alliances to gain visibility in the world is extremely valuable in the mid and late game, when you need to see what your opponents are up to.</Text>
+		</Replace>
+		
+		<!-- Mapuche -->
+		<Replace Language='en_US' Tag="LOC_CIVINFO_MAPUCHE_LOCATION">
+			<Text>Western South America, in the modern states of Chile, as well as portions of Argentina and the Patagonia region.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVINFO_MAPUCHE_SIZE">
+			<Text>Dispersed throughout an area of at least 300,000 sq. miles (775,000 sq. kilometers) </Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVINFO_MAPUCHE_POPULATION">
+			<Text>Est. 700-800k in the 16th Century, ~1.7 million descendants presently.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVINFO_MAPUCHE_CAPITAL">
+			<Text>No centralized capital city.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_MAPUCHE_CHAPTER_HISTORY_PARA_1">
+			<Text>Referred to as the "Araucanos" by the Spanish, a moniker thought to be rooted in their name for the region (and widely considered derogatory today), in the native language "Mapuche" means "People of the Earth," and as the indigenous inhabitants of central Chile and parts of Argentina, these resilient natives survived countless incursions and hardships over the course of their nearly 2500 year history.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_MAPUCHE_CHAPTER_HISTORY_PARA_2">
+			<Text>As a loose collaboration of several geographically diverse groups (including the Northern Picunche, Southern Huilliche, and the Moluche of central Chile) the Mapuche were bound by their shared traditions and societal practices, only coming together when needed for the purposes of trade or to unite against outside threats. </Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_MAPUCHE_CHAPTER_HISTORY_PARA_3">
+			<Text>Before the arrival of the Spanish Conquistadors in the early 16th Century, these threats chiefly came from the Inca Empire in the northern reaches of Chile. Powerful and well-organized, the Inca spent years establishing settlements throughout newly captured territory in Chile.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_MAPUCHE_CHAPTER_HISTORY_PARA_4">
+			<Text>The expansion efforts of the Inca eventually culminated in the "Battle of the Maule," meeting an army of some 20,000 Mapuche warriors at the Maule River. After a multi-day battle left neither side with a clear advantage, the Inca ultimately abandoned their push south with the Mapuche claiming victory over the invaders. As history tell us, their stalemate here marked a turning point, as the Inca made no further gains into the Mapuche territory following this pivotal battle.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_MAPUCHE_CHAPTER_HISTORY_PARA_5">
+			<Text>When not bound by warfare, the Mapuche lived for hundreds of years in disparate farming communities throughout Chile. Despite their shared traditions and culture, at this point in time the Mapuche encompassed a great many independent villages, each ruled by their own local chief.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_MAPUCHE_CHAPTER_HISTORY_PARA_6">
+			<Text>These early settlements were heavily reliant on basic agricultural practices, largely using slash and burn techniques to clear woodland areas for their crops (with potatoes being the staple). As time went on and the Mapuche slowly expanded their domain from Chile into Argentina, they adapted to a more nomadic lifestyle.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_MAPUCHE_CHAPTER_HISTORY_PARA_7">
+			<Text>With the arrival of the Spanish in 1536, the Mapuche were forced not only to advance their understanding of military tactics and strategy, but their society as a whole shifted as a result of the early Spanish conquests. Faced with the atrocities of war and displacement from their homes, the Mapuche shifted from an agricultural-based subsistence and economic structure to incorporate a much greater reliance on hunting and gathering as they suffered under the Conquistadors. The Spanish were responsible for introducing a variety of non-native livestock during this period, including the first horses ever seen on the continent. The Mapuche were left with no choice but to adapt, and so they did.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_MAPUCHE_CHAPTER_HISTORY_PARA_8">
+			<Text>Over the course of countless skirmishes fought throughout the next decade, the Spanish led by governor Pedro De Valdivia slowly made inroads against the Mapuche, seizing large portions of their territory. It was during this period that the most famous war chief of the Mapuche, Lautaro, first rose to prominence.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_MAPUCHE_CHAPTER_HISTORY_PARA_9">
+			<Text>Captured by the Spanish and forced into servitude by Valdivia, Lautaro learned firsthand the methods and tactics of the Conquistadors, most notably becoming a skilled horseman himself. When he finally managed to escape, Lautaro returned to the Mapuche with this newfound knowledge of the Spanish, and was elevated to the position of vice-war chief soon after his return. With the Spanish continuing their growth into the Mapuche territories, they saw no alternative but assemble their forces for all-out war.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_MAPUCHE_CHAPTER_HISTORY_PARA_10">
+			<Text>In 1553, Lautaro and another Toqui known as Caupolican attacked the Spanish fort in the town of Tucapel with some 6,000 Mapuche warriors, overrunning the settlement and razing it before the Spanish could reinforce their position. This marked the start of a conflict with the Spanish that would stretch across nearly 300 years of history, before the Chilean War of Independence eventually freed the nation of Chile from Spanish rule once and for all. </Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_MAPUCHE_CHAPTER_HISTORY_PARA_11">
+			<Text>By the mid-19th century, the Mapuche were no longer faced with threats from abroad but now had an equally problematic concern with encroaching Chilean settlements. As the Chilean government sought to rebuild and expand local industries, particularly agriculture, once again the Mapuche found their territory under siege.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_MAPUCHE_CHAPTER_HISTORY_PARA_12">
+			<Text>Unlike the Spanish conquests, the nation of Chile initially sought to incorporate the Mapuche communities "peacefully" by simply annexing their territories and forcing out the local inhabitants whenever necessary. This of course drove the displaced locals into poverty and left them with little choice but to rebel against their forced resettlement. An ongoing campaign of skirmishes greatly reduced the population of the Mapuche as the Chilean armies looted and pillaged their lands, destroying crops and seizing livestock as they progressed. Outright war continued for more than a decade as Chile slowly consolidated the nation.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_MAPUCHE_CHAPTER_HISTORY_PARA_13">
+			<Text>By some accounts, the overall population of the Mapuche people was reduced by more than 50%, leaving less than 100,000 remaining by the dawn of the 20th century. It can be said with certainty that the Mapuche suffered greatly as a result of the government's efforts, displacing thousands from their ancestral homelands.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_MAPUCHE_CHAPTER_HISTORY_PARA_14">
+			<Text>In the present, many among the Mapuche continue to fight for greater equality and recognition of their culture and traditions. Despite having more than 1,000,000 citizens claiming Mapuche ancestry, underrepresentation within the Chilean government has made it difficult for the Mapuche to voice their concerns. Sporadic protests since the 1990s have often resulted in violence, with the government declaring many native activists to be terrorists. Like many indigenous groups who were forced from their lands during periods of foreign and domestic development, the Mapuche mainly seek to have their territory returned to them along historical boundaries. Although public awareness of their concerns has grown in recent years, their struggle continues to this day.</Text>
+		</Replace>
+		
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LAUTARO_TITLE">
+			<Text>Lautaro</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LAUTARO_SUBTITLE">
+			<Text>Toqui of the Mapuche</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LAUTARO_QUOTE">
+			<Text>Band together or die apart.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LAUTARO_CHAPTER_HISTORY_PARA_1">
+			<Text>Revered among the people of Chile as the Toqui (war chief or axe-bearer) who defied infamous Spanish Conquistador Pedro de Valdivia, Lautaro was still a teenager when he first led the united Mapuche tribes into battle against their colonial tormentors. Having been held captive by the Spanish and forced to serve Valdivia as his stable boy for nearly three years prior, Lautaro's jailers had unknowingly given him a prime opportunity to learn the weaknesses of the Conquistadors—weaknesses Lautaro would exploit soon after escaping their grasp.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LAUTARO_CHAPTER_HISTORY_PARA_2">
+			<Text>Long before his first encounters with the Spanish (who had trouble pronouncing the native language) Lautaro was actually known as Leftraru, or "Swift Hawk" in the Mapuche language. And as the son of a peacetime Mapuche chief, by all accounts he lived a relatively quiet early life. It wasn't until his capture (sometime between the ages of 15 and 17) that Lautaro's story truly unfolds, intertwined with that of the local governor, Pedro de Valdivia.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LAUTARO_CHAPTER_HISTORY_PARA_3">
+			<Text>While leading Spain's colonization efforts in Chile, Valdivia spent years establishing a foothold for his nation at the expense of the indigenous tribes. For Lautaro and the Mapuche, this meant the arrival of Spanish settlements and forts throughout their territory in southern Chile. It was during his defense of these settlements from the local populace that Valdivia first captured Lautaro, an event retold through limited historical records and local legends in Chile. </Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LAUTARO_CHAPTER_HISTORY_PARA_4">
+			<Text>By some accounts, Lautaro knowingly allowed himself to be captured in an effort to infiltrate the Spanish and learn their ways. Whether or not that was the case, what can be said with certainty is that Lautaro was forced into servitude, and it was during his time with Valdivia that "Leftraru" first became "Felipe Lautaro" due to the aforementioned pronunciation issues of the Spanish.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LAUTARO_CHAPTER_HISTORY_PARA_5">
+			<Text>We also know that at some point Lautaro became a groom, tasked with tending to the Conquistadors' horses. By observing how the Conquistadors handled their mounts and how they maneuvered in battle, Lautaro came to understand the limitations of the imposing Spanish cavalry.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LAUTARO_CHAPTER_HISTORY_PARA_6">
+			<Text>If the more colorful tales are to be believed, Lautaro bided his time among the Spanish until he had learned all there was to know about the Conquistadors, planning his escape only when he was sure he could truly lead his people in a successful rebellion.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LAUTARO_CHAPTER_HISTORY_PARA_7">
+			<Text>When he finally did return to the Mapuche, a council of war declared that Lautaro would serve as vice-Toqui to a powerful warrior known as Caupolican. Together, they led an assault on the Spanish forts now scattered across their territory.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LAUTARO_CHAPTER_HISTORY_PARA_8">
+			<Text>Catching the Spanish forces off-guard, Lautaro and the Mapuche were initially met with great success. On what may have been his first outing as a war chief, Lautaro led 6,000 Mapuche warriors to victory at the Battle of Tucapel in 1553 by seizing the Spanish fort. When Pedro de Valdivia attempted to retake the settlement a short time later, his entire army was slaughtered, and he was unceremoniously captured and killed by the Mapuche under the leadership of his former slave.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LAUTARO_CHAPTER_HISTORY_PARA_9">
+			<Text>Unfortunately for Lautaro's campaign, Mapuche tradition dictated that following each victory in battle, a lengthy period of celebration was required. These celebrations were enough to delay Lautaro's progress and allowed the Spanish to abandon some of their settlements before the Mapuche arrived.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LAUTARO_CHAPTER_HISTORY_PARA_10">
+			<Text>After several decisive victories, Lautaro eventually set his sights on the Spanish capital of Santiago. Although his forces were dwindling due to illness, supply constraints, and lack of reinforcements, Lautaro pressed on. After a number of initial skirmishes, Lautaro's forces established an encampment outside the city in preparation for a larger attack.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LAUTARO_CHAPTER_HISTORY_PARA_11">
+			<Text>As the story goes, Lautaro and his army were betrayed by the locals who spotted his camp and betrayed its position to Francisco de Villagra, the governor who replaced Pedro de Valdivia. With this information in hand, Villagra ambushed Lautaro on the morning on April 29th 1557, killing him and leaving the native army in shambles.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LAUTARO_CHAPTER_HISTORY_PARA_12">
+			<Text>Today, Lautaro is among the most famous military leaders in Chilean history, considered by many to be the nation's first true General in light of his tactics on the battlefield. The overwhelming forces of the Spanish did little to slow Lautaro's determination, and his efforts to stop the Spanish atrocities against his people spurred a period of resistance that lasted for nearly three centuries after his passing.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LAUTARO_CHAPTER_CAPSULE_BODY">
+			<Text>The Mapuche maintain a strong Loyalty within their people, and can be a formidable foe on the battlefield, both offensively and defensively. </Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LAUTARO_CHAPTER_DETAILED_BODY">
+			<Text>The Mapuche will want to acquire a Governor early, using them both to strengthen Loyalty in their cities as well as granting their combat units the ability to gain experience faster on the battlefield. When at war, the Mapuche need not fear an opponent benefitting from a Golden Age. When going on the offense, fight within your opponent's borders to weaken the Loyalty in their cities. Use this to your advantage to create unrest to slow their production or cause them to lose cities that are already disloyal. The Mapuche Malon Raider is a powerful assault unit, but don't neglect training them even with a defensive strategy, as they are excellent at defending their borders from attack. A late game Culture victory is also a possibility for the Mapuche with strategic placement of their Chemamull improvement.</Text>
+		</Replace>
+		
+		<!-- Netherlands -->
+		<Replace Language='en_US' Tag="LOC_CIVINFO_NETHERLANDS_LOCATION">
+			<Text>Western Europe</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVINFO_NETHERLANDS_SIZE">
+			<Text>16,040 square miles</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVINFO_NETHERLANDS_POPULATION">
+			<Text>17,116,281 estimated in 2017</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVINFO_NETHERLANDS_CAPITAL">
+			<Text>Amsterdam</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_NETHERLANDS_CHAPTER_HISTORY_PARA_1">
+			<Text>The Netherlands never let their small size get in the way of progress. Dutch persistence and ingenuity led to a distinct culture that is more than just wooden shoes, tulips, windmills, and the color orange. When they needed more land, the Netherlands pushed back the tides of the North Sea and reclaimed the ocean floor. Their formidable ships would reach far beyond Dutch shores as they built an empire based entirely around trade.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_NETHERLANDS_CHAPTER_HISTORY_PARA_2">
+			<Text>By the 1st Century, Germanic tribes had migrated to the lands beyond the Rhine. Those who settled in the region that would become the Netherlands weren’t entirely impressed, for the wetlands were difficult to farm (and tended to be a bit smelly). Yet the many rivers and lakes made the land quite defensible. The Romans thought so as well, founding two military posts (Nijmegen and Utrecht) at the edge of their frontier.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_NETHERLANDS_CHAPTER_HISTORY_PARA_3">
+			<Text>For a time, the tribes remained content with this border. Those near what would become Amsterdam often traded with the Romans. The Batavi fought alongside the Romans, but eventually rebelled during Emperor Nero’s final years. Although the rebellion was ultimately defeated, the act of defiance was the first of many.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_NETHERLANDS_CHAPTER_HISTORY_PARA_4">
+			<Text>Following the decline of the Roman Empire, a variety of would-be conquerors (the Franks, the Frisians, and the Vikings, to name a few) would invade the Low Countries. The Franks ultimately decided to stay and spruce up the place with both Christianity and a palace in Nijmegen. This lasted until 814, when (following the death of Charlemagne) the Frankish Empire divided their territory into a collection of smaller states. Left to their own devices, the Netherlands would establish trade routes that reached as far away as Asia. Bad soil composition and rising sea levels led the Dutch to begin the long process of draining of the wetlands.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_NETHERLANDS_CHAPTER_HISTORY_PARA_5">
+			<Text>By 1433 the Dukes of Burgundy laid claim to the Netherlands, increasing the flow of trade (at that point necessary and vital to an increasing populace), but the taxes imposed by the Burgundians went over poorly. The native Dutch were especially unhappy in the mid-1500s when Phillip II of the Spanish Empire inherited the Netherlands. Following his succession, the Dutch would find themselves thrust into 80 bloody, brutal years of war. The Dutch noble William of Orange led the rebellion against Spain until his assassination in 1584. However, the fight for independence would not die with him—the Dutch would resist until 1648, when they signed the Treaty of Munster, establishing the Netherlands as an independent nation.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_NETHERLANDS_CHAPTER_HISTORY_PARA_6">
+			<Text>Free from one European power, and hoping to avoid becoming beholden to another, the Dutch relentlessly expanded their trade empire. The Dutch East India Company’s reach extended to the eastern coast of the Americas and the far-flung island of Japan (with whom they established exclusive trading rights). Amsterdam became major hub for trade and shipbuilding and a city of opportunity in uncertain times.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_NETHERLANDS_CHAPTER_HISTORY_PARA_7">
+			<Text>Swollen coffers allowed the Dutch to invest in arts and sciences. The master artist Rembrandt created incredible paintings during this age. Christiaan Huygens, a mathematician and scientist, discovered Saturn’s moon Titan and founded wave theory. Joan Blaeu, a Dutch cartographer, authored the largest and most complete atlas of the 17th Century. (His ‘Atlas Maior’ contained 594 different maps written in Latin, French, German, Spanish, and of course, Dutch.) </Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_NETHERLANDS_CHAPTER_HISTORY_PARA_8">
+			<Text>The rise in Dutch fortune—and especially their increasingly imposing fleet—unsettled more than a few European neighbors. England in particular attempted to impose trade regulations preventing the Dutch from acting as “middle men” in any trade involving the English. That, and the English insistence of “unification” (which meant the effective dissolution of the Netherlands after their hard-won independence), led to multiple Anglo-Dutch wars through the late 17th Century. Ultimately, the English succeeded at blunting the exponential growth of Dutch wealth, influence and naval power, but when the dust settled, the Netherlands remained independent.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_NETHERLANDS_CHAPTER_HISTORY_PARA_9">
+			<Text>Unfortunately for the Dutch, Napoleon Bonaparte and his French Empire had little appreciation for independent nations bordering his own. At the end of the 18th Century, Napoleon seized the Low Countries and appointed his brother Louis King of the Netherlands. King Louis garnered a surprising amount of respect from his Dutch subjects, but a frustrated Napoleon removed him a short four years later in what was ultimately a sibling dispute. The Dutch continued to serve the French Empire, fighting in their wars and following French policies, until a (surprisingly) bloodless restoration of their independence in 1813. The newly minted “Kingdom of the Netherlands” included Belgium and Luxemburg—briefly. Belgium revolted and gained independence in 1830. Luxemburg departed near the end of 19th Century due to a quirk of inheritance laws (the details of which are even less interesting than they sound).</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_NETHERLANDS_CHAPTER_HISTORY_PARA_10">
+			<Text>The Netherlands established and maintained a stance of neutrality, formally focusing on their security, economic growth, and internal politics. Though this brought them through the Great War relatively unscathed, the Netherlands would not find itself on the sidelines of World War II. The royal family and Dutch government fled to London to escape German invasion. Dutch Queen Wilhelmina actively defied German control of her country, bolstering the morale of her people remaining in the Low Countries (as well as a very active Dutch resistance). The Netherlands endured four long years of occupation, eventually aiding the Allied liberation of their country. After, the Dutch began the arduous process of rebuilding.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_NETHERLANDS_CHAPTER_HISTORY_PARA_11">
+			<Text>Today the Netherlands is an anchor of Postwar Europe. Not only is it a home of international legal tribunals and an important commercial hub, the nation is famous for granting considerable individual liberties to its citizens, reflecting its long history of social tolerance. In addition to providing a net export of food, the Netherlands are on the cutting edge of land reclamation and development, with some of the most impressive engineering projects of this age underway. As the poles melt and ocean levels rise, the Netherlands faces an uncertain future with determination, ingenuity, and wry humor. After all, who better to hold back the sea than the people who have been doing so for millennia?</Text>
+		</Replace>
+		
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_WILHELMINA_TITLE">
+			<Text>Wilhelmina</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_WILHELMINA_SUBTITLE">
+			<Text>Queen of the Netherlands</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_WILHELMINA_QUOTE">
+			<Text>No matter how dark and difficult times may be, trust in the final triumph of our cause.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_WILHELMINA_CHAPTER_HISTORY_PARA_1">
+			<Text>For as long as she could speak, Wilhelmina only ever knew a life where she was (or would become) Queen of the Netherlands. The longest reigning Dutch monarch led her people through tumultuous times—the dawn of the 20th Century, the economic collapse of the 1930s, and both World Wars. She did so with dignity and aplomb, unquestionably committed to the principles of Dutch sovereignty.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_WILHELMINA_CHAPTER_HISTORY_PARA_2">
+			<Text>Born in 1880 to King Willem III and his second wife, Emma of Waldeck and Pyrmont, a four-year-old Wilhelmina became heir presumptive to the Netherlands after the death of her half-brother and great uncle. Willem died shortly after Wilhelmina’s tenth birthday. Emma served as regent for the young queen until Wilhelmina’s enthronement at the age of 18.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_WILHELMINA_CHAPTER_HISTORY_PARA_3">
+			<Text>Queen Wilhelmina handled the early challenges of her life with a stubborn grace. The young queen certainly left an impression. Queen Victoria of the United Kingdom described the young Wilhelmina as pretty, polite, and intelligent, but Kaiser Wilhelm II of Germany could attest to her keen wit. During a meeting prior to World War I, the Kaiser commented that his guards were “seven feet tall,” while Queen Wilhelmina’s were “only shoulder high.” She elegantly responded, “Quite true, Your Majesty, your guards are seven feet tall, but when we open our dikes, the water is ten feet deep!” The Netherlands maintained neutrality for the duration of World War I thanks to negotiations with the German Emperor—perhaps he remembered her threat. </Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_WILHELMINA_CHAPTER_HISTORY_PARA_4">
+			<Text>Despite Dutch neutrality, Wilhelmina supported a strong defense policy throughout the Great War. She took an active interest in her nation’s military and insisted upon a protocol of vigilance at her country’s borders, even when it came to her husband, Prince Henry, crossing to visit his German family. She often traveled the country to visit troops and donate to relief funds. Much to Wilhelmina’s discontent, a sprawling World War I entangled the Netherlands in unexpected ways. The Allied blockade hindered Dutch trade, a sore point for a great merchant power. At the war’s end, Allied forces protested Wilhelmina’s decision to grant the Kaiser political asylum.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_WILHELMINA_CHAPTER_HISTORY_PARA_5">
+			<Text>Queen Wilhelmina’s experiences in the War to End All Wars tempered her reign before the next world war began. She laid her husband to rest, then her mother, and secured the future of her royal line by helping her daughter Princess Juliana locate a suitable husband. Amidst all this, and around the wreckage of the world economy, her prudent investments would see her become one of the wealthiest people in the world.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_WILHELMINA_CHAPTER_HISTORY_PARA_6">
+			<Text>World War II came to the Netherlands on May 10th, 1940 in the form of German invasion. Queen Wilhelmina declared a “flaming protest” at the attacks on her territory. She fled the Netherlands, taking refuge in England and sending her family to Canada for the war’s duration. Her departure was a calculated rather than cowardly move— if she remained, her people would assume collaboration. Wilhelmina’s departure declared her resistance. Her government-in-exile remained in London until the war’s end, and she encouraged occupied territories to remain strong on Radio Oranje. Spurred on by her words, the Dutch resistance fought on until her return in 1945.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_WILHELMINA_CHAPTER_HISTORY_PARA_7">
+			<Text>After two World Wars and fifty-eight years of rule, Wilhelmina abdicated her throne to her daughter Juliana in 1948. During her reign, her decisions saw her nation through one of the most difficult times in modern history. Today, she remains fondly remembered by the Dutch.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_WILHELMINA_CHAPTER_CAPSULE_BODY">
+			<Text>Wilhelmina's Dutch empire is at home on the flatlands where rivers run into the sea, building polders to fuel their growth and trade routes to span the globe.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_WILHELMINA_CHAPTER_DETAILED_BODY">
+			<Text>The Dutch will want to scout out the coastline near their start position to find rivers and natural bays within which to build their empire. Build a Harbor in each coastal city to grab extra tiles for your use and carefully plan which water tiles can be reclaimed by your Polders. Then build along the shores of your great rivers to maximize your [ICON_Science] Science, [ICON_Culture] Culture and [ICON_Production] Production. Your plentiful [ICON_TradeRoute] Trade Routes will then finish the job by maintaining Loyalty in your cities, by providing [ICON_Culture] Culture from foreign lands, and by amassing enough [ICON_Gold] Gold for you to win by any victory.</Text>
+		</Replace>
+		
+		<!-- Georgia -->
+		<Replace Language='en_US' Tag="LOC_CIVINFO_GEORGIA_LOCATION">
+			<Text>Central Asia</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVINFO_GEORGIA_SIZE">
+			<Text>At its peak, approx. 60,000 square miles (160,000 km²)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVINFO_GEORGIA_POPULATION">
+			<Text>Est. 7 million (at peak)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVINFO_GEORGIA_CAPITAL">
+			<Text>Kutaisi, Tbilisi</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_GEORGIA_CHAPTER_HISTORY_PARA_1">
+			<Text>The Kingdom of Georgia, long considered the Golden Age of the Georgian people, existed for nearly 500 years at the crossroads of Central Asia. A bastion of Christianity, Georgia developed a distinctive, brilliant literary culture and art, and their unique alphabet is still used today. It was a diplomatic player in the affairs of the Holy Lands and Rus, an important ally of the Byzantine Empire, and the protector of a coterie of vassal states. </Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_GEORGIA_CHAPTER_HISTORY_PARA_2">
+			<Text>The rise of the Kingdom of Georgia is inextricable from the rise of the Bagrationi dynasty, one of the oldest and longest-lasting royal families of Christendom. The Bagrationi claim descent from King David of Israel (their coat of arms features both the sling and harp), through a descendant named Bagrat. Their family name has been associated with rulers of Caucasian Iberia since at least the 6th Century. As the Sassanid Persian and Abbasid empires waned in power, the Bagrationi gained territory until they formed the kingdom of Tao-Klarjeti, and Bagrat III was able to incorporate the Kingdom of Abkhazia into his holdings near the end of the 9th Century.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_GEORGIA_CHAPTER_HISTORY_PARA_3">
+			<Text>What followed was a series of political unifications and military campaigns against the Seljuks, conducted by Bagrationi kings, including David IV, the Builder. Wisely, the successor to the king would often serve as co-regent prior to ascending to the throne, giving both Demetrius I and Tamar practical experience in serving as monarch before having to take on the job full-time.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_GEORGIA_CHAPTER_HISTORY_PARA_4">
+			<Text>But the monarch did not always sit easily on the throne. A strong noble class would occasionally break out into revolt, or plot to unseat the ruler, and though these were often unsuccessful, the nobles could curtail the power of the monarch, or force the monarch to accede to their demands. A prime example is Tamar’s acceptance of Rus Prince Yuri as her first husband, at the insistence of the nobility (that story is detailed elsewhere.)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_GEORGIA_CHAPTER_HISTORY_PARA_5">
+			<Text>The Kingdom reached its zenith during the reign of Tamar, becoming a true Transcaucasian empire, with a ring of allies and vassals surrounding it. Georgia achieved a flourishing of architecture, painting, and poetry akin to the achievements of Europe during the High Middle Ages. During her reign, the epic poem “The Knight in the Panther’s Skin” was written, a poem so central to Georgian culture that copies were traditionally part of dowries until the 20th century.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_GEORGIA_CHAPTER_HISTORY_PARA_6">
+			<Text>Georgian armies were often afield against their Seljuk neighbors, with Georgian generals (including the King Consort) adding territory through conquest. The Empire of Trebizond on the Black Sea was established from territory formerly under Byzantine control. Placed under the rulership of Byzantine princes—who also happened to be Tamar’s relatives—Trebizond represented Georgia asserting itself into the Middle East, especially as the Crusaders lost to Saladin and the Byzantine Empire continued to crumble. Georgia also asserted claims to monasteries in the Holy Land (some of which are still held today), including ones in Jerusalem.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_GEORGIA_CHAPTER_HISTORY_PARA_7">
+			<Text>But after the death of Tamar in 1213, Georgia began a period of decline more meteoric than its ascent. The Fourth Crusade resulted in the sack of Constantinople, and with that, Georgia lost the power of its greatest ally. At the same time, the Mongols invaded Georgia, overwhelming the nation and monarch George IV, Tamar’s son. Tamar’s daughter Rusudan assumed the throne, but was unable to drive back the Mongols and was forced to flee to Western Georgia, leaving the Eastern portion under Mongol control. Anti-Mongol uprisings defined the next few generations, resulting in widespread destruction of the countryside.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_GEORGIA_CHAPTER_HISTORY_PARA_8">
+			<Text>Eventually the power of the Khans weakened, and Georgian monarchs were able to regain some of their old glory under the George V, the Brilliant. George V was able to reconquer Georgian territory, stopped the payment of tribute to the Mongols, and established diplomatic ties with Byzantium, Genoa, and Venice. But this flourishing was short-lived. Georgian soldiers returning from campaign brought the Black Death with them, killing millions in Georgia just as it had throughout the rest of Europe and the Middle East.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_GEORGIA_CHAPTER_HISTORY_PARA_9">
+			<Text>Weakened by conquest and plague, Georgia was essentially prostrate when Timur began his campaigns of conquest in 1386. Less than a century later, Georgia would dissolve on the death of George VIII into three smaller kingdoms, each led by a branch of Bagrationi dynasty. And each branch of that great house was now a rival of the other.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_GEORGIA_CHAPTER_HISTORY_PARA_10">
+			<Text>But the legacy of that kingdom would always remain central to Georgian cultural identity. Georgia had been a Christian kingdom, indeed the far Eastern edge of Christendom, and it had been surrounded by religious enemies and opposing cultures. Politically, it had influence in the key theaters of the age. Its armies had conquered in the name of their ruler. Georgia was as much a part of the great cultural flourishing of the High Middle Ages as any kingdom in continental Europe, but with its own unique perspective on issues of chivalry, love, beauty, art, and religion. The surviving monasteries, poems, and artwork bear witness to that glory today.</Text>
+		</Replace>
+		
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TAMAR_TITLE">
+			<Text>Tamar the Great</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TAMAR_SUBTITLE">
+			<Text>Monarch of the Kingdom of Georgia</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TAMAR_QUOTE">
+			<Text>Allow neither the wealth of the nobles nor the poverty of the masses to hinder your work.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TAMAR_CHAPTER_HISTORY_PARA_1">
+			<Text>The ideal monarch is wise, diplomatic, forward-thinking, a patron to the arts and cultures, and strong in defense of the realm. Few live up to this standard. Tamar, ruler of Georgia at the height of its golden age, matched this standard, even by the judgment of her enemies.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TAMAR_CHAPTER_HISTORY_PARA_2">
+			<Text>Tamar was born around 1160 (dates of her birth vary), to King George III of Georgia’s ancient and venerable Bagrationi dynasty (who claimed descent from the line of David, the biblical King of Israel) and Burdukhan, daughter of the King of Alania. Little is recorded of her early life.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TAMAR_CHAPTER_HISTORY_PARA_3">
+			<Text>Dynastic succession is touchy under the best of circumstances. As a woman, Tamar faced strong opposition from the nobles of the court, who preferred her cousin, Prince Demna. A rebellion of nobles favoring Demna broke out in 1177 and was crushed, and in 1178 Tamar was proclaimed heir and co-ruler by her father. When George III died in 1184, Tamar assumed the throne of a far-from-unified Georgia.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TAMAR_CHAPTER_HISTORY_PARA_4">
+			<Text>A complicated series of political intrigues resulted in Tamar being pressured into accepting the nobles’ choice for her husband: The Rus prince Yuri. The two were wed in 1185. Yuri was a decent enough soldier, and led Georgian forces to victory in battle, but he was a coarse and unpleasant person, and his entanglement in court politics did little to endear him to Tamar. So she filed divorce from him on grounds of drunkenness and immorality, and received her divorce from the ecclesiastical authority. It’s hard to overstate how big a deal this was, that the dynastic monarch of a fervently Christian nation would be able to divorce her husband and receive the go-ahead to re-marry from the church and bishops.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TAMAR_CHAPTER_HISTORY_PARA_5">
+			<Text>Now began the period marking the greatest expansion of Georgia’s domain. The Georgians fought against the neighboring Muslim sultinates, aided by exceptional generals (including the new king consort, David Soslan) and conquered them. Nearby kingdoms became vassals and protectorates. Georgian nobles stopped scheming to overthrow or curtail Tamar’s power and rallied to her banners and took the field. Georgians even founded the Empire of Trebizond, injecting themselves into the powers of the Middle East.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TAMAR_CHAPTER_HISTORY_PARA_6">
+			<Text>Tamar's status as an eligible queen with a solidly-run kingdom made her the frequent target of marriage proposals, and one can easily imagine that after dealing with Yuri, most of these would have gone unwanted. One of the most famous stories of Tamar tells of how the Sultan of Rum declared war on Georgia, stating he would have Tamar "as a Muslim bride or a Christian concubine." The diplomat sent to deliver this message was summarily punched in the face by a Georgian courtier (one assumes with regal assent). The clear message had been sent to the Sultan of Rum.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TAMAR_CHAPTER_HISTORY_PARA_7">
+			<Text>Tamar, always pious, is said to have prayed at the cave city and monastery of Vardzia, then addressed her troops from the steps of the church. Inspired by her piety, the Georgians crushed the invaders and sent the Sultan of Rum from whence he came, perhaps to meditate on the basics of diplomacy.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TAMAR_CHAPTER_HISTORY_PARA_8">
+			<Text>Tamar was a strong patron of the arts and cultures. She bolstered trade and commerce, and minted coins bearing her monogram and titles. Laws were codified; churches and cathedrals were built. Georgian culture developed as a strong and lively syncretic blend of Byzantine Christianity and Persian-inspired ideas.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TAMAR_CHAPTER_HISTORY_PARA_9">
+			<Text>Tamar is said to have died in 1213, but her grave remains unknown. Some say she was secretly buried in a monastery, to prevent grave desecration. Others claim her remains were peregrinated to the Holy Land, for burial near the Holy Sepulchre.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TAMAR_CHAPTER_HISTORY_PARA_10">
+			<Text>She came to power in a divided kingdom, and left it larger, more powerful, and sure of its cultural identity. She is canonized as a saint in the Eastern Orthodox faith, and a national symbol for Georgians even today. None of her descendants could match the deeds of the greatest Monarch of Georgia.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TAMAR_CHAPTER_CAPSULE_BODY">
+			<Text>Through faith and influence, Tamar is a fierce defender of both her homeland and the lesser states under her protection.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_TAMAR_CHAPTER_DETAILED_BODY">
+			<Text>Securing a strong religion quickly is a must for Georgia. Gaining allies in neighboring city states and spreading her religion there is a key advantage for Tamar in the war for religious dominance.  Defending her city-state allies using the Protectorate War casus belli vastly strengthens her religious power, and in turn assures a strong influence there. Pride and achievements will bless her Georgia with a Golden Age that shines brighter than any other civilization. Use these important moments in time to slingshot Georgia ahead of the competition to an ultimate victory.</Text>
+		</Replace>
+		
+		<!-- Zulu -->
+		<Replace Language='en_US' Tag="LOC_CIVINFO_ZULU_LOCATION">
+			<Text>Southern Africa</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVINFO_ZULU_SIZE">
+			<Text>11,500 square miles (30,000 km²)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVINFO_ZULU_POPULATION">
+			<Text>250,000 in 1828</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVINFO_ZULU_CAPITAL">
+			<Text>Various, including kwaBulawayo, umGungundlovu, and Ulundi</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ZULU_CHAPTER_HISTORY_PARA_1">
+			<Text>The Zulu arose to prominence from the peoples of southern Africa, achieved dominance through force of arms, and enforced a hegemony which fundamentally changed the history of Africa. In the end, although defeated by a technologically advanced colonial power, they landed telling blows on one of the world’s most formidable military forces.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ZULU_CHAPTER_HISTORY_PARA_2">
+			<Text>In the late 18th century, the Zulu were semi-nomadic Nguni clans in the south-west of Africa, grazing cattle and raising crops. Zulu women farmed and managed the families. Men fought, hunted, and cared for the cattle. Cattle are an integral part of Zulu culture, a denomination of wealth and status, a key part of ritual, and more practically their primary source of food.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ZULU_CHAPTER_HISTORY_PARA_3">
+			<Text>Each family group bound itself to others through a network of social obligations, family ties, and allegiances. This web accelerated the aggregation of the Zulu into a more organized state, led by chiefs whose power was growing by the start of the 19th century.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ZULU_CHAPTER_HISTORY_PARA_4">
+			<Text>Enter Shaka, and the transformation of the ibutho system of recruitment and the impi into a formidable, standardized army (see both Shaka's entry and the Impi entry for additional details). Shaka came to power with fewer than 2,000 Zulu under his command, controlling an area smaller than Monaco. Eleven years later, the impi had over 50,000 warriors, and the Zulu had conquered and subsumed all their regional rivals. Warfare, too, changed from small-scale raiding and conquest to scorched-earth tactics. But the Zulu were the unrivaled masters of southern Africa, and at the time of his assassination, Shaka had conquered on the scale of Alexander the Great.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ZULU_CHAPTER_HISTORY_PARA_5">
+			<Text>This conquest had profound ripple effects throughout sub-Saharan Africa. Shaka’s conquests touched off a wave of refugee migrations and ancillary wars that transformed central and eastern Africa. This event, known as the Mfecane, is still studied and debated today, as it was a catalyzing moment in African history, and would eventually result in the creation of new African nations that would later resist colonialism. </Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ZULU_CHAPTER_HISTORY_PARA_6">
+			<Text>Dingane became king after assassinating Shaka, in response to Shaka’s increasing brutality as ruler, and it was during his reign that the Zulu began to come into conflict with European colonists in South Africa, namely the Boers who were beginning to move into territory vacated in the Mfecane.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ZULU_CHAPTER_HISTORY_PARA_7">
+			<Text>Mpande, the longest-reigning Zulu king, began his reign by overthrowing Dingane. Mpande stayed on better terms with the Boers (some of whom had helped his rebellion), but rising tensions due to colonial expansion and the cutthroat politics of reigning over the subjected nations (and his own succession) left his reign with a somewhat mixed historical assessment. Mpande was succeeded by his eldest son Cetshwayo in 1872, his exact date of death concealed to cement Cetshwayo’s ascent to the throne. Cetshwayo, an admirer of his great-uncle Shaka, set about rebuilding the impi and expanding its ranks.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ZULU_CHAPTER_HISTORY_PARA_8">
+			<Text>Now, matters with the European colonial powers came to a head. Claims to land ownership by the British and Boers (made more pressing with the discovery of diamonds in the region) were hotly contested by the Zulu, who remained the most powerful African nation in the region. The British pressed ahead with a plan to confederate South Africa, and in doing so made a series of provoking demands against Cetshwayo. The proverbial final straw was that Cetshwayo disband his army. Cetshwayo refused; the British declared war in 1879.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ZULU_CHAPTER_HISTORY_PARA_9">
+			<Text>The British Army was a modern, sophisticated, industrial-era military force, with professional officers and NCOs, Gatling guns, repeating rifles, a highly-developed sense of cultural superiority, and the latest (extremely racist) cultural theories of the age, so it was a considerable shock when it lost the Battle of Islandlwana to Cetshwayo’s impis, suffering greater than 70% casualties in the process. The Zulu out-maneuvered, out-fought, and thrashed one of the best armies in the world in a straight-up fight in the field, and then repeated the process twice more at Intombe and Hlobane.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ZULU_CHAPTER_HISTORY_PARA_10">
+			<Text>This unforgivable blow to British pride resulted in much public pearl-clutching at home, many self-justifying memoirs, and a full-throated jingoistic response. Victories had proved costly to the Zulu armies, and the British continued to supply reinforcements and refine tactics until finally, the British invaded Zululand, besieged the capital at Ulundi, and captured Cetshwayo. He was taken to London and paraded about as a captive until the public sentiment judged the whole affair unseemly gloating (Cetshwayo’s manner during this time was judged to be stoic, and his personal dignity befitting a monarch). Cetshwayo was returned to Zululand where he ruled as one of thirteen vassal chiefs of the British.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ZULU_CHAPTER_HISTORY_PARA_11">
+			<Text>Their heartland divided, the Zulu would be subject to almost a century of harsh colonial rule and apartheid in South Africa. A diaspora due to cattle disease and lack of economic opportunities led to Zulu working in the mines and cities of South Africa, sometimes organizing their own labor unions. KwaZulu was set up as an "Bantustan" or territory set aside for ethnic groups within South Africa. In the 1970s, a Territorial Authority for KwaZulu was established, giving it some additional autonomy. In 1994, the province of KwaZulu-Natal was established with additional regional autonomy, and encompassing some of the lands of the old Zulu Kingdom. Two areas in KwaZulu-Natal are UNESCO World Heritage Sites today: uKhahlamba-Draksenberg Park, and iSimangaliso Wetland Park. Both sites have considerable natural beauty, ecological value, and cultural importance.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ZULU_CHAPTER_HISTORY_PARA_12">
+			<Text>The Zulu retain pride in their military and cultural heritage, practicing both traditional dances and newer forms, like the gumboot dance. The Zulu king serves as a ceremonial head of state, a guardian of traditional culture, and as a living link to the diaspora and the world.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SHAKA_TITLE">
+			<Text>Shaka</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SHAKA_SUBTITLE">
+			<Text>Zulu Chief and King</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SHAKA_QUOTE">
+			<Text>Strike an enemy once and for all.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SHAKA_CHAPTER_HISTORY_PARA_1">
+			<Text>Lionized for his conquests, excoriated for his tyranny, Shaka is one of the most complex and controversial rulers in African history. Unquestionably one of military history’s greatest commanders, his reforms to the Zulu armies gave them an efficiency, organization, and lethality that made the impi one of the most feared forces in the world. </Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SHAKA_CHAPTER_HISTORY_PARA_2">
+			<Text>He was born the illegitimate son of Zulu chief Senzangakhona, and Nandi, the daughter of a Langeni chief. His mother brought the young Shaka back among her own people to spend a difficult childhood, subject to scorn and stigma. Nandi and Shaka were driven out and into a vassal tribe of the Mthethwa Empire.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SHAKA_CHAPTER_HISTORY_PARA_3">
+			<Text>During this time, Shaka enrolled in the ibutho, a traditional regional military cadre program. Young men of the same age group would be grouped together into a unit within the ibutho, and the unit would eventually disband when the men aged out of the warrior class. Shaka’s unit served under the command of the chief Dingiswayo. Dingiswayo laid the groundwork for the system of command that would eventually be brought to ultimate refinement under Shaka.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SHAKA_CHAPTER_HISTORY_PARA_4">
+			<Text>When his father died in 1816, Shaka, by now a renowned commander in his own right, left Dingiswayo’s armies and returned to lead the Zulu, who were at this time the smallest of the region’s Bantu clans. Southern Africa would quickly learn to fear the Zulu.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SHAKA_CHAPTER_HISTORY_PARA_5">
+			<Text>Shaka immediately reorganized the army and its training. The age-grade system of the ibutho was refined and strengthened into an age-based regimental organization, with each regiment having a distinct fortified village (or ikanda), uniform heraldry on their ox-hide shields, specific ornamentation in jewelry and headdresses, and sworn loyalty to Shaka. Organization of the impi and its tactics were standardized. Shaka introduced a corps of officers, promoted on the basis of merit and ability, from all the subordinate tribes. Comparisons to the Marian reformations of the Roman Legions are apt; both commanders took control of fundamentally competent basic forces, and transformed them into unstoppable military machines.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SHAKA_CHAPTER_HISTORY_PARA_6">
+			<Text>Shaka then took his impi on a march of conquest. A tribe, once conquered, was subordinated into the Zulu kingdom, its young men were incorporated into the ibutho, and then the Zulu marched on. His first conquest was said to be the Langeni, who humiliated him as a boy. Shaka also offered diplomatic carrots, with the stick of the impi ever-present.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SHAKA_CHAPTER_HISTORY_PARA_7">
+			<Text>When his former commander Dingiswayo was assassinated by the rival Zulu chief Zwide, Shaka swore vengeance, and a full-scale civil war of the Zulu broke out. Zwide was decisively routed at the Battle of Gqokli Hill by a force half his size under Shaka’s command. Zwide died a fugitive and prisoner.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SHAKA_CHAPTER_HISTORY_PARA_8">
+			<Text>But Shaka’s reign was not uncontested. There was substantial opposition to his policies within his own kingdom. Escalation of warfare between tribes into near-extermination were a marked change from previous patterns of war. Tensions were exacerbated when Shaka granted European traders concessions. But it was the death of his mother in 1827 that seems to have marked the beginning of the end of Shaka – and the bloodiest part of his reign.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SHAKA_CHAPTER_HISTORY_PARA_9">
+			<Text>Grief-stricken, and possibly insane, Shaka ordered that no crops be planted, nor milk used for a year (and milk was the staple of the Zulu diet). Women found pregnant were to be killed with their husbands, as was anyone found to be insufficiently mournful. Cows were to be slaughtered “so that calves would know what it was like to lose a mother.” Accounts number 7,000 of Shaka's subjects were killed in his grief.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SHAKA_CHAPTER_HISTORY_PARA_10">
+			<Text>His two half-brothers had been actively conspiring against him for some time. In 1828, while the impi were on campaign to the north, he was assassinated by his half-brothers Dingane and Mhlangana, along with a third co-conspirator name Mbopa. Tradition states that Shaka’s dying words were a warning both about the growing power of the Europeans in South Africa and about the peril of Zulu disunity.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SHAKA_CHAPTER_HISTORY_PARA_11">
+			<Text>The meteoric rise of the Zulu under Shaka, coming at a time of increasing European colonization in the region, had a profound and complex impact on the history and culture of Southern Africa, whose implications are still debated and considered. Shaka’s legacy as a ruler is not a simple one, even within Zulu culture today. But his impact on the history of the world is beyond question, and his name still stands as one of power.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SHAKA_CHAPTER_CAPSULE_BODY">
+			<Text>The Zulu are conquerors, crushing their opponents under the weight of their sheer numbers.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SHAKA_CHAPTER_DETAILED_BODY">
+			<Text>Shaka's Corps and Armies are his true strength in warfare. In addition to building a strong military base, early Culture development in his cities will be important in unlocking the Mercenaries and Nationalism civics, allowing him to start creating superior Corps and Armies of units far earlier and faster than any other civilization. Training the formidable Impi unit will also help in this endeavor, through their low production and maintenance costs. Gaining and maintaining Loyalty in conquered cities is less of a problem for the Zulu, a much needed skill for controlling their expansive empire.</Text>
+		</Replace>
+		<!-- Korea -->
+		<Replace Language='en_US' Tag="LOC_CIVINFO_KOREA_LOCATION">
+			<Text>East Asia</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVINFO_KOREA_SIZE">
+			<Text>85,270 square miles (approx. 219,000 km²)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVINFO_KOREA_POPULATION">
+			<Text>Approximately 2,000,000 in 8th Century; 76,497,881 in 2015</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVINFO_KOREA_CAPITAL">
+			<Text>Seoul</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_KOREA_CHAPTER_HISTORY_PARA_1">
+			<Text>The Korean peninsula’s fate has long been one of struggle. Myriad dynasties rise, fall, and rise again on a landmass roughly the size of Great Britain. The influence of foreign empires, both supportive and belligerent, provide a constant uncertainty looming over the horizon.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_KOREA_CHAPTER_HISTORY_PARA_2">
+			<Text>The earliest known Korean state was Gojoseon, a prosperous kingdom rich with natural resources and bountiful agriculture. Gojoseon was founded by the (likely apocryphal) Dangun Wangeom in 2333 BCE. According to legend, Dangun was the child of the god Hwangung and a very tenacious she-bear who had persisted against all odds in a trial of hardship and survival. Gojoseon would eventually collapse into a collection of warring states in 108 BCE.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_KOREA_CHAPTER_HISTORY_PARA_3">
+			<Text>The rise of a truly Korean identity began with the Three Kingdoms in 1st Century BCE. The largest was Goguryeo, to the mountainous north. Silla held the southeast lands bordering the east coast, while Baekje claimed the southwest lands bordering the Yellow Sea. There were other smaller states, such as Buyeo or Gaya, but the three kingdoms were the ones able to consolidate their power. By the 6th Century Silla had conquered many of the smaller states, Goguryeo developed a martial reputation (pressing its famed cavalry against its neighbors’ borders), while Baekje prioritized farming and good trade relationships with both China and Japan.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_KOREA_CHAPTER_HISTORY_PARA_4">
+			<Text>Silla’s appetite for conquest eventually spread to its neighbors. Though the smallest kingdom, Silla’s shifting alliances helped them avoid the fate of a kingdom such as Gaya, playing Goguryeo and Baekje against one another. Ultimately, Queen Seondeok’s alliance with the Tang Dynasty of China (detailed elsewhere) sealed the fate of the Three Kingdoms. By the late 7th Century, Silla alone ruled the Korean peninsula, ceding northernmost lands to the Tang Dynasty. Although Confucianism spread under Silla’s rule, Buddhism truly flourished, with many temples and monasteries built during their reign.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_KOREA_CHAPTER_HISTORY_PARA_5">
+			<Text>Unfortunately for Silla, their traditional “bone-rank system” was their downfall. Somewhat analogous to the concept of “royal blood,” bone-rank was a caste system determining a person’s societal rank based upon the status of their parents. Though a  person could not climb above their birth rank, they could find themselves demoted—a frustration that ultimately led to civil war and the kingdom’s decline.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_KOREA_CHAPTER_HISTORY_PARA_6">
+			<Text>The emerging kingdom of Goryeo (the source of the name “Korea”) took advantage of Silla’s descent, ruling Korea from 818 CE until 1392 CE. Technology saw an exponential rise in Goryeo’s time. Metal movable-type printing existed in Korea almost 200 years before Guttenberg’s printing press, making printed texts accessible to the Korean populace. Despite Goryeo’s rapid advancements, there was constant political turmoil—and worse, the Mongolian Yuan Dynasty’s invasions in the 13th Century. Over the course of three decades, the Koreans endured six Mongolian invasions. The Goryeo dynasty eventually made peace, but in doing so became a client state to Mongol Yuan China.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_KOREA_CHAPTER_HISTORY_PARA_7">
+			<Text>By the mid-14th Century, the Mongol Empire was in a state of disarray. Goryeo regained its independence, mostly, with the exception of northern territory held by remnants of the Yuan Dynasty. When word arrived in 1388 that the Chinese Ming Dynasty planned to take this land for itself, Goryeo General Choi Young ordered General Yi Seong-gye to conquer it preemptively, despite Yi’s objections. General Yi famously marched his army to Wihwa Island, then promptly turned back to overthrow General Choi and the king.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_KOREA_CHAPTER_HISTORY_PARA_8">
+			<Text>Yi Seong-gye renamed himself Taejo, declared himself king, and created the Joseon Dynasty in 1392. Korea’s political fortunes waxed and waned over the centuries, but its scholarly advances continued unabated (such as “Hangul,” a Korean phonetic alphabet, and improvements upon movable type). Confucianism succeeded Buddhism, the Manchu threat succeeded the Jurchen threat, and Silhak (“Practical Learning”) educational reforms succeeded the increasingly esoteric pedagogy of Neo-Confucians.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_KOREA_CHAPTER_HISTORY_PARA_9">
+			<Text>Despite periods of unrest, internal power struggles, and foreign invasion, Korea maintained a state of relative stability until the late 19th Century, when Japan invaded Korean territory to fight wars with China and Russia. Japan’s temporary occupation became an extended occupation, and finally an annexation of the peninsula. Much to Korea’s dismay, they remained a Japanese colony from 1910 until the end of World War II. In the war’s aftermath, the country split into (Communist) North and (capitalist) South Korea in 1948. The two newly formed countries fought a war in 1950 that saw China and Russia allied with the North, and a United Nations Coalition allied with the South. After a terrible three years, North and South Korea agreed to an armistice (but not peace) in 1953. As of 2017, the two countries have remained in state of deferred war for over half a century.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SEONDEOK_TITLE">
+			<Text>Seondeok</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SEONDEOK_SUBTITLE">
+			<Text>Queen of Silla</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SEONDEOK_QUOTE">
+			<Text>A flower without fragrance draws notice, but not interest.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SEONDEOK_CHAPTER_HISTORY_PARA_1">
+			<Text>It is no easy feat to claim the throne, even during times of peace. In the ancient Korean kingdom of Silla, it wasn’t unheard of for women to hold positions of power, but Seondeok became the first woman to rule over the kingdom as queen. Her fifteen-year reign saw a prolific, highly accomplished sovereign who paved the way for other women to rule the kingdom—including her cousin, Chindok.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SEONDEOK_CHAPTER_HISTORY_PARA_2">
+			<Text>Seondeok’s father, King Jinpyeong, had no male heirs. Of his daughters, Jinpyeong chose Seondeok as his successor due to her intuitive nature—one she demonstrated at an early age. As the apocryphal story goes,  Jinpyeong received a gift of peony seeds from China. The box containing the seeds bore a painting of the flowers in bloom. A very young Seondeok noticed and commented that the flowers were pretty, but it was too bad they had no smell. When Jinpyeong asked why she thought that, Seondeok explained that if the flowers did smell sweet, the painting would have butterflies and bees, too. As it happened, the flowers in bloom lacked smell.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SEONDEOK_CHAPTER_HISTORY_PARA_3">
+			<Text>Jinpyeong's death led to Seondeok's coronation in 632. Although some of Silla’s nobility were dissatisfied following a queen rather than a king, her proven cleverness and clear choice as heir helped quell their grumbling. Beyond this, the bone rank system (analogous to the concept of “royal blood”) dictated that were they to deny her coronation, they would have to upend the entirety of Sillan aristocracy.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SEONDEOK_CHAPTER_HISTORY_PARA_4">
+			<Text>Seondeok’s immediate priority as queen was bettering the lives of the Sillan people by  establishing effective welfare policies for her most impoverished citizens. Heavy investment in schools saw the kingdom’s knowledge of arts and sciences flourish. She established the Cheomseongdae, an astronomical observatory, in Silla’s capital. Buddhism was already Silla’s state religion, but Seondeok’s rule saw Buddhism further integrated into the government and society as a whole. Numerous Buddhist temples underwent restoration, and Silla broke ground on many new temples.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SEONDEOK_CHAPTER_HISTORY_PARA_5">
+			<Text>Despite the numerous internal advances, Queen Seondeok’s rule was not a peaceful one. Constant internal rebellions and contentious struggles with the neighboring kingdoms of Goguryeo and Baekje threatened her reign. By carefully playing politics, she was able to navigate the ever changing, aggressive, and often violent political landscape of the Korean kingdoms. Queen Seondeok made alliances where needed, altering them when the situation called for it. When Baekje became a problem in 641 CE, she sought the help of Goguryeo. When negotiations failed, Seondeok sent an army of 10,000 to recover her imprisoned diplomat.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SEONDEOK_CHAPTER_HISTORY_PARA_6">
+			<Text>Seondeok’s ability to balance negotiations with a threat of force helped her gain an alliance with the Chinese Tang Dynasty when Goguryeo and Baekje united to attack Silla. Her alliance with the Tang Dynasty was one of her greatest political feats. Seondeok not only managed to convince the Tang Dynasty to give Silla military assistance, but she rejected their demand that she stand down as queen and allow a Tang prince to rule in her stead.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SEONDEOK_CHAPTER_HISTORY_PARA_7">
+			<Text>Until her death in 647, Queen Seondeok served the Silla kingdom as an adaptable queen whose intellect protected her people during a difficult time of conquest. By playing her enemies against one another, she ensured her kingdom would survive and thrive. Though she would not live to see a united Korean peninsula, Seondeok’s skillful parley sowed the seeds for the defeat of the Baekje and Goguryeo forces by 668.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SEONDEOK_CHAPTER_CAPSULE_BODY">
+			<Text>For Korea, the pursuit of [ICON_Science]Science has many benefits, in addition to being the most technologically advanced civilization in the world.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_SEONDEOK_CHAPTER_DETAILED_BODY">
+			<Text>Korea's unique science district, the Seowon, is going to be your most powerful asset, so completing the Writing technology early is essential in getting ahead of the competition. Plan its location carefully to take advantage of its benefits. Isolate the Seowon away from other districts to maximize the [ICON_Science] Science boost and gain additional [ICON_Food] Food and [ICON_Science] Science yields by placing Farms and Mines adjacent to this district. Combining these two benefits strategically will greatly improve your city output. Don't ignore Culture advancement, as gaining Governors to place in your cities provides an additional yield boost to your empire. You are very likely to want to appoint a Governors for each of your primary cities.</Text>
+		</Replace>
+		<!-- India Alternate Leader -->
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CHANDRAGUPTA_TITLE">
+			<Text>Chandragupta</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CHANDRAGUPTA_SUBTITLE">
+			<Text>Mauryan Emperor</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CHANDRAGUPTA_QUOTE">
+			<Text>It is not enough to lead your people. Rather, you must lead as though you are your people.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CHANDRAGUPTA_CHAPTER_HISTORY_PARA_1">
+			<Text>Rare is the conqueror whose name spans millennia. Rarer still is the strategist who is equally capable on the battlefield and the political arena. Rarest is the ruler who would willingly give away an empire. Of all three, there is only Chandragupta Maurya.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CHANDRAGUPTA_CHAPTER_HISTORY_PARA_2">
+			<Text>Born sometime in the 3rd Century BCE in what was the Magadha region of India, Chandragupta’s early life remains somewhat of a mystery. Though some accounts speak of his connection to a family with a noble warrior tradition, conflicting Greek accounts claimed he was born a commoner. Despite this confusion, Chandragupta quickly earned a reputation as a clever and charismatic man, so much so that the great Chanakya decided to mentor him. With support and advice of the legendary politician and philosopher, Chandragupta received a crash course in politics, the arts, and military tactics.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CHANDRAGUPTA_CHAPTER_HISTORY_PARA_3">
+			<Text>Chanakya’s education was all for a singular purpose: he hoped his pupil could challenge the Nanda dynasty, a government widely perceived as corrupt. Chandragupta proved worthy of his tutor’s confidence, for he soon raised an army. By 322 BCE he overthrew the Nanda, installed himself as ruler of the kingdom of Magadha, and established the Mauryan dynasty.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CHANDRAGUPTA_CHAPTER_HISTORY_PARA_4">
+			<Text>Chandragupta was never one to settle. His eye soon turned to the lands ostensibly held by the mighty successor states of Macedon. Although Alexander the Great had perished before Chandragupta’s ascent to the throne, his conquest of the Indus valley ostensibly left the local satrapies under Macedon’s control. It seems Chandragupta took issue with this, for he restored the conquered lands under his banner, annexed the Punjab, and kept going until he pressed against the borders of Persia—and into the eastern flank of Seleucus I Nicator, basileus of the newly formed Seleucid Empire, and Companion to Alexander himself.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CHANDRAGUPTA_CHAPTER_HISTORY_PARA_5">
+			<Text>The Seleucid-Mauryan War, lasting from 305 to 303 BCE, would end with Seleucus ceding Macedon’s Indian satrapies to the Mauryan king. To show there were no hard feelings, and knowing Seleucus cared more about his successor state rivals to his west and south, Chandragupta gifted 500 war elephants to the basileus—a perfect present for nearly any occasion.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CHANDRAGUPTA_CHAPTER_HISTORY_PARA_6">
+			<Text>All told, Chandragupta’s empire extended all the way from modern day Afghanistan to southern India. Yet conquest was not Chandragupta’s only strength. Throughout his reign, Chandragupta proved himself a canny ruler who cared deeply for his people—or at the very least, canny enough to imply such care through actions. He built roads, irrigation systems, and expanded trade routes to improve the lives of his people. He was also clever enough to ensure the loyalty of his soldiers by providing them finery and servants in their garrisons. </Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CHANDRAGUPTA_CHAPTER_HISTORY_PARA_7">
+			<Text>Chandragupta met the sage Bhadrabahu near the end of his life, who taught him the precepts of Jainism, a religion promoting spiritual enlightenment and nonviolence through ascetic living. Following this new code, Chandragupta abdicated his throne to his son, Bindusara. He sought enlightenment, going on a pilgrimage to a cave in southern India. There he meditated until his death, fulfilling his ultimate goal of spiritual purity by giving up literally everything—his throne, kingdom, riches, and even food.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CHANDRAGUPTA_CHAPTER_HISTORY_PARA_8">
+			<Text>However, Chandragupta’s death was not the end of his dynasty. The Mauryan Empire would last another century. Inspired by his actions, Chandragupta’s successors—especially his grandson, Ashoka—followed his combined examples of expansion and spiritual enlightenment.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CHANDRAGUPTA_CHAPTER_CAPSULE_BODY">
+			<Text>Chandragupta represents a less peaceful side of India, not afraid to be on the offense, expanding its borders into foreign lands.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CHANDRAGUPTA_CHAPTER_DETAILED_BODY">
+			<Text>Early access to the Territorial Expansion casus belli is Chandragupta's main advantage, so completing the Military Training civic is essential before mounting your attacks against your foreign neighbors.  Preparedness is key in order to truly take advantage of his Arthashastra ability, crushing your foes swiftly with superior strength and faster movement. India's religious strengths should not be ignored, as conquering cities with other dominant religions makes it easier to spread those religions throughout his empire and taking advantage of the follower beliefs they provide.</Text>
+		</Replace>
+		<!-- MONGOLIA -->
+		<Replace Language='en_US' Tag="LOC_CIVINFO_MONGOLIA_LOCATION">
+			<Text>Central Asia</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVINFO_MONGOLIA_SIZE">
+			<Text>9.27 million square miles (24 million km²)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVINFO_MONGOLIA_POPULATION">
+			<Text>Approximately 100 million</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVINFO_MONGOLIA_CAPITAL">
+			<Text>Khanbaliq, Karakorum, Avarga</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_MONGOLIA_CHAPTER_HISTORY_PARA_1">
+			<Text>At the height of their empire, the Mongols' wrath would be felt from East Asia to Western Europe, a dynasty which would live on well into the Twentieth Century. A true chronicle of their history must reconcile the horrors of the conquest with their skill in uniting the disparate parts of the empire from technology to culture.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_MONGOLIA_CHAPTER_HISTORY_PARA_2">
+			<Text>What we now consider the Mongols were a collection of tribes emerging from disparate tribes of the steppes of Central Asia such as the Xiongu (beginning in 209 BCE) and the Khitai (making their presence known in the Fourth Century CE).</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_MONGOLIA_CHAPTER_HISTORY_PARA_3">
+			<Text>These nomadic, warlike tribes would develop a technique for shooting a target while riding on horseback which would make them formidable foes to settlements and kingdoms throughout the region.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_MONGOLIA_CHAPTER_HISTORY_PARA_4">
+			<Text>These so-called barbarian hordes would occasionally consolidate into a more fearsome fighting force, only to be repelled (and in the case of the Xiongu against the Han Dynasty) nearly face extinction. And by the Second Century BCE, along with the Tartars, the Mongols would prove to be such an irritant to the Chinese, the Han emperor would both order their extermination as well as the construction of the Great Wall.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_MONGOLIA_CHAPTER_HISTORY_PARA_5">
+			<Text>What we know as the 'true' Mongol Empire would begin with Temujin, born on the steppes in 1162. He was the son of a Borjigin chieftain, who would go to war with his regional rivals and quickly defeat them through spy craft and building an army based on merit and skill rather than blood ties. By 1206, his fighting force would subdue and absorb the western Naiman tribe, the Merkits in the north, and the Tanguts in the south, and that year, Temujin would declare himself 'Genghis Khan,' as one does.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_MONGOLIA_CHAPTER_HISTORY_PARA_6">
+			<Text>The first thing that the universal leader of the Mongols would do is establish a unified code of laws, or the Yassa. The Yassa provided civil structure to the newly-built Empire, holding king and commoner to account and focusing on the dispensation of property, brides, and require civil or military services.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_MONGOLIA_CHAPTER_HISTORY_PARA_7">
+			<Text>Under Genghis's Yassa, all citizens were granted religious freedom, as long as they maintained strict loyalty to Genghis above all. Religious leaders were free from both taxation and both civil and military service to the Empire.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_MONGOLIA_CHAPTER_HISTORY_PARA_8">
+			<Text>Under Genghis' third son, Ogedei, the Khans would become patrons of houses of temples and houses of worship for the Taoists, Christians, Buddhists, and Muslims of Karakorum. Later, the Empire would fund Christian churches in China, Buddhist temples in Persia, and Muslim schools in Russia. It was a handy method of respecting local tradition while making it subordinate to the law of the Empire.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_MONGOLIA_CHAPTER_HISTORY_PARA_9">
+			<Text>By the time of Genghis' grandson Batu's expansion into the Balkans in the 1240s, the Empire would become known as the Khanate of the Golden Horde. Batu would establish its capital in the city of Sarai on the Akhtuba River near modern-day Slitrennoye in Russia. By the 14th Century, theirs would be the largest contiguous land empire in history, covering between 11 and 12 million square miles.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_MONGOLIA_CHAPTER_HISTORY_PARA_10">
+			<Text>In conquest mode, Mongol fighters rode light, moving rapidly and collecting what they needed on the way in order to build ladders, bridges, and siege engines. Each man would be responsible for securing or making his own bow for combat. Instead of settling in villages or cities, they would camp under hastily assembled stretched felt, wicker-reinforced shelters.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_MONGOLIA_CHAPTER_HISTORY_PARA_11">
+			<Text>Then, they would lay siege to even the most fortified of cities using weapons collected from cultures across the empire, using both technology and the sheer force of their reputation.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_MONGOLIA_CHAPTER_HISTORY_PARA_12">
+			<Text>And while not responsible for much in the way of art in culture, the way their empire was constructed allowed art, culture, and technology from disparate corners to spread from one end to another. For instance, when Hulegu Khan began his campaign against Baghdad in the 1250s, he would bring 1,000 Chinese catapult engineers (and their entire households), utilizing these men's know-how against Baghdad's walls. Later, Syrians familiar with counterweight catapults from the Iranian Khanate would go to China to assist the Yuan against the Sung in the south.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_MONGOLIA_CHAPTER_HISTORY_PARA_13">
+			<Text>The Mongols were formidable, they were feared, and the only enemy which could disrupt the Empire would be the Empire itself. The main body of the Empire would fracture with the death of Mongke Khan in 1259. Mongke had no chosen successor, so his sons and relatives each decided to fill the position—all at once.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_MONGOLIA_CHAPTER_HISTORY_PARA_14">
+			<Text>By 1271, civil war would fracture the Empire, splitting into four Khanates: the Golden Horde, descended from Batu, would dominate Russia and the Western Steppes. In Western Turkestan, the Muslim Chagatai Khanate (descended from Genghis' third son, Ogedei) would flex its strength for five centuries across Central Asia, along with parts of what are now modern Russia, China, and Afghanistan. The Ilkhanate would stretch from Iran to large swaths of Central Asia while Genghis' grandson, Kublai Khan, would destroy the Song Dynasty in China and install the Yuan Dynasty.     </Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_MONGOLIA_CHAPTER_HISTORY_PARA_15">
+			<Text>The Empire would get a second wind under Tamerlane who, between 1380 and 1400, would conquer the area between Iran, Khorasan, Harat, Baghdad, India, Azerbaijan, and Anatolia, effectively reunifying the disparate Khanates (for a time).</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_MONGOLIA_CHAPTER_HISTORY_PARA_16">
+			<Text>Today, the Empire may be gone, but the Mongols still endure, with Genghis' last ruling descendant, Alim Khan, living well into the 20th Century and governing Uzbekistan, and the remaining people surviving Soviet purges, living on with their own (disputed) independent country.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GENGHIS_KHAN_TITLE">
+			<Text>Genghis Khan</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GENGHIS_KHAN_SUBTITLE">
+			<Text>Universal Leader of the Mongols</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GENGHIS_KHAN_QUOTE">
+			<Text>It is easy to conquer the world on horseback. But to dismount and govern? That is the hardest task.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GENGHIS_KHAN_CHAPTER_HISTORY_PARA_1">
+			<Text>Genghis Khan once demanded two banners: one white horse hide for times of peace, and of black horse hide for all the other times. Upon his death, his was soul was alleged to live on in the black Spirit Banner. Some would call this a fitting legacy for the man whose armies terrorized the steppe and whose name has become synonymous with the word 'barbarian.'</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GENGHIS_KHAN_CHAPTER_HISTORY_PARA_2">
+			<Text>At his birth in 1162 CE near the Burkhan Khaldun of Central Asia, he was given the name 'Temujin' by his father Yesugei, a Mongol chieftain, an act of revenge against a captured Tartar foe. His mother, Hoelun, was stolen by Yesugei and would raise Temujin and his siblings in exile after their father was poisoned by the Tartars.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GENGHIS_KHAN_CHAPTER_HISTORY_PARA_3">
+			<Text>Of course, Temujin would have his revenge.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GENGHIS_KHAN_CHAPTER_HISTORY_PARA_4">
+			<Text>By 10, the boy would be ostracized by his father's tribe, and by 16 he would kill his half-brother and marry Borte of the Konkirat tribe. All the while, Hoelun would coach her son in statecraft, in influencing allies and controlling enemies.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GENGHIS_KHAN_CHAPTER_HISTORY_PARA_5">
+			<Text>This would come in handy in his 20s after he was enslaved by former allies, the Taichi'uts. He'd quickly escape and, with his brothers, form a fighting unit, beginning raids of his own, gradually amassing an army of his own. He'd break with Mongol tradition and group fighters according to skill and not blood ties—and Temujin knew how to find skilled fighters.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GENGHIS_KHAN_CHAPTER_HISTORY_PARA_6">
+			<Text>With a 20,000-strong army, he'd defeat the Tartars and exhibit the brutality he would become known for in avenging his father, ordering the death of every Tartar male above three feet tall. Then he would defeat the Taichi'ut who enslaved him, having them all boiled alive. He would enlist his sons in war as well, sending the eldest, Jochi to conquer Siberia in 1207.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GENGHIS_KHAN_CHAPTER_HISTORY_PARA_7">
+			<Text>By 1206, his utter ability to destroy his enemies would allow him to unite the tribes of the steppes. That year, he would be given the title 'Genghis (or Chinggis) Khan' or 'universal leader' and issue the Yassa, a collection of divine laws governing everything from property to marriage to civil service designating its execution to his second son, Chagatai. </Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GENGHIS_KHAN_CHAPTER_HISTORY_PARA_8">
+			<Text>The Yassa would do away with the common causes of tribal warfare, banning the kidnapping of wives and doing away with inherited titles. He had an empire to control and was loathe to allow internal rivalries. </Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GENGHIS_KHAN_CHAPTER_HISTORY_PARA_9">
+			<Text>He would also grant religious tolerance to his followers (as long as they recognized Genghis Khan as the final authority). In this way he would affirm his power, claiming to have been granted it directly from God, and crossing Genghis would be as bad as crossing God. Ask the people of Persian city of Bukhara.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GENGHIS_KHAN_CHAPTER_HISTORY_PARA_10">
+			<Text>In 1220, the Mongols would begin a 15-day siege to the city after the Shah Ala ad-Din Muhammed killed a delegation of Genghis' ambassadors and traders. Those he did not slaughter Genghis would enslave, telling them he was the flail of God, sent to punish them before their execution.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GENGHIS_KHAN_CHAPTER_HISTORY_PARA_11">
+			<Text>His warlike ways would get the best of him…well into his 60s. He fell from a horse during the successful campaign against the Xi Xia, and never fully recovering from his injuries. Before he died, he would pass on leadership to his third son, Ogedei, and the Khans would rule an empire extending from East Asia to the Balkans.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GENGHIS_KHAN_CHAPTER_CAPSULE_BODY">
+			<Text>The wide-open steppe is a huge expanse, one that is almost large enough to hold Genghis' mighty cavalry army.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GENGHIS_KHAN_CHAPTER_DETAILED_BODY">
+			<Text>Genghis wants to start two endeavors early: trading with their neighboring and settling on [ICON_RESOURCE_HORSES] Horse resources. Your trading posts will quickly reveal secrets about those neighbors, finding out which ones you should befriend and who should be targeted for elimination. Build your army of mounted units from Encampments with your Ordu stables to maximize the speed at which you can strike. Then work to gather cavalry units from all possible opponents, turning your horde into an unstoppable force that can sweep across the continents.</Text>
+		</Replace>
+		<!-- SCOTLAND -->
+		<Replace Language='en_US' Tag="LOC_CIVINFO_SCOTLAND_LOCATION">
+			<Text>Northwest Europe</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVINFO_SCOTLAND_SIZE">
+			<Text>30,090 square miles (77,933 square kilometers)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVINFO_SCOTLAND_POPULATION">
+			<Text> Est. 5.4 Million in the present day. (300,000 in 12th Century)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVINFO_SCOTLAND_CAPITAL">
+			<Text>Edinburgh</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SCOTLAND_CHAPTER_HISTORY_PARA_1">
+			<Text>Occupying the northernmost reaches of the island of Great Britain, Scotland’s history has long been intertwined with that of its formidable neighbor to the south. Having fought repeatedly for independence throughout its history, the nation of Scotland often found itself the object of desire for invading forces from across the world. </Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SCOTLAND_CHAPTER_HISTORY_PARA_2">
+			<Text>Some of Scotland’s earliest recorded history comes from the conquests and travels of the Roman Empire, who seized large portions of England and Scotland at the turn of the 1st Century. At the time, Scotland was inhabited by various indigenous tribes known to the Romans as the “Caledonians.” Frequent skirmishes between the Romans and these local tribes are said to have inspired the construction of Hadrian’s famous wall to isolate the natives from the burgeoning empire (with debatable effectiveness).</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SCOTLAND_CHAPTER_HISTORY_PARA_3">
+			<Text>By the mid-4th Century, the Romans had all but abandoned their attempts to control the British Isles, and over the next millennia the local kingdoms grew in strength and coordination. Among them were the Gaels and their kingdom of Dal Riata in the west, and the Picts and their kingdom to the east.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SCOTLAND_CHAPTER_HISTORY_PARA_4">
+			<Text>Although the Gaelic language (and much of their culture) prevailed over that of the Picts, by most accounts it was the Gaels who were slowly absorbed as the Pictish kingdom itself evolved into what became the Kingdom of Alba. In the Gaelic language the Kingdom of Alba translates as the Kingdom of Scotland, and over time all who inhabited their lands came to be known as Scots.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SCOTLAND_CHAPTER_HISTORY_PARA_5">
+			<Text>The arrival of the first Vikings from Denmark and Norway to the shores of Scotland around the turn of the 9th Century brought a new threat to the fledgling kingdom. However, while coastal settlements across western Scotland suffered from a number of raids by these Norsemen, it was England that suffered the majority of their wrath. </Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SCOTLAND_CHAPTER_HISTORY_PARA_6">
+			<Text>In 1124, King David I was crowned King of Scots, ushering in an era of sweeping changes so vast that historians came to refer to the period as the "Davidian Revolution." The rise of feudalism changed the Scottish approach to land ownership, local governance, and military structure.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SCOTLAND_CHAPTER_HISTORY_PARA_7">
+			<Text>It was under King David that Scotland constructed the first towns by royal charter. Known as burghs, these officially-sanctioned settlements provided a crucial source of income for Scottish monarchs for centuries to come. The commerce (and subsequent tax revenue) created in the burghs proved to be a critical factor in Scotland's ongoing development throughout the middle ages.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SCOTLAND_CHAPTER_HISTORY_PARA_8">
+			<Text>Some 200 years after David's reign, Scotland faced the growing specter of English rule over its lands and people. What came to be known as the First War of Scottish Independence began during the reign of notorious English King Edward "Longshanks", whose brutal tactics and disdain for the Scots incited a conflict that would last more than 20 years. </Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SCOTLAND_CHAPTER_HISTORY_PARA_9">
+			<Text>It was during this revolution that two of Scotland's most famous heroes, Sir William Wallace and Robert the Bruce, first rose to prominence. Both would lead Scotland's armies into battle against the English Kings, first Longshanks, and later his son Edward II.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SCOTLAND_CHAPTER_HISTORY_PARA_10">
+			<Text>Under the rule of Robert, the Declaration of Arbroath was signed in 1320 and delivered to the pope. Considered by many to be the world's first declaration of independence, and the later inspiration for the United States Declaration of Independence, this document claimed Scotland's status as a sovereign state. And for a time, it held true.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SCOTLAND_CHAPTER_HISTORY_PARA_11">
+			<Text>Robert the Bruce was succeeded by his son, David II, who in turn died childless in 1371. This led to the throne passing to Robert II, the grandson of Robert the Bruce (through his daughter Marjorie) and the high steward of Scotland, Walter Stewart.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SCOTLAND_CHAPTER_HISTORY_PARA_12">
+			<Text>As the first king of the royal house of Stewart, Robert's reign marked the beginning of the Stewart Dynasty (later changed to Stuart), a continuous line of rulers who lead Scotland until the early 17th century. Among the Stuart monarchs was the famous Mary, Queen of Scots, who was notably imprisoned and later beheaded after being convicted of planning the assassination of Queen Elizabeth of England in an attempt to usurp her throne.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SCOTLAND_CHAPTER_HISTORY_PARA_13">
+			<Text>In 1706, Scotland and England entered into negotiations to unite the two kingdoms in an effort to avoid the possibility of another protracted conflict, and to improve the financial security and trade arrangements of both sides. The agreed upon Treaty of Union led to the Acts of Union that officially brought both nations together as the United Kingdom of Great Britain on May 1st, 1707.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SCOTLAND_CHAPTER_HISTORY_PARA_14">
+			<Text>Coinciding with the Industrial Revolution, the 18th Century marked the dawn of a period known as the "Scottish Enlightenment" when Scottish culture flourished. Advances in architecture and engineering, literature, music, and medicine all brought Scotland esteem and influence across the world. It was during this time that Scotland became famous for its shipwrights, who contributed greatly to the transition from wooden sailing ships to steamships made of iron.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SCOTLAND_CHAPTER_HISTORY_PARA_16">
+			<Text>In the modern day, Scotland has moved away from its industrial past with a greater reliance on financial services and the banking industry to lead economic growth. Scotland still relies on a variety of manufactured goods, with Scotch whisky (not to be confused with Irish whiskey) being among the most famous of the nation's exports. Still, it could be the said that Scotland's ongoing contributions to the world's scientific and cultural pursuits are its greatest gift to the world.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ROBERT_THE_BRUCE_TITLE">
+			<Text>Robert the Bruce</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ROBERT_THE_BRUCE_SUBTITLE">
+			<Text>King of Scots, Guardian of Scotland</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ROBERT_THE_BRUCE_QUOTE">
+			<Text>No man holds his own flesh and blood in hatred, and I am no exception.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ROBERT_THE_BRUCE_CHAPTER_HISTORY_PARA_1">
+			<Text>Born among the Scottish aristocracy, Robert the Bruce is best remembered for his stalwart leadership of Scotland during the nation’s war for independence with England in the late 13th century. Despite a great many obstacles standing in the way of his ascension, Robert successfully claimed the throne of Scotland and led his people to victory over the oppressive rule of the English.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ROBERT_THE_BRUCE_CHAPTER_HISTORY_PARA_2">
+			<Text>Although the details of his early life are uncertain, as the son of Robert VI de Brus, a Scottish Lord, Robert was born into a line of Scottish nobility that no doubt afforded him an education and upbringing well beyond that of his typical countrymen. By the time he was 18 years old, Robert was already entangled in the elaborate web of politics surrounding the rule of Scotland.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ROBERT_THE_BRUCE_CHAPTER_HISTORY_PARA_3">
+			<Text>Following the death of its queen in 1290, Scotland entered an interregnum or gap in governance. Edward I, King of England (known famously as Longshanks), was asked to choose between the various claimants competing for the vacant throne. When Edward selected John Balliol as the rightful heir in 1292 (over Robert the Bruce’s grandfather), both Robert and his father refused to accept the new king.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ROBERT_THE_BRUCE_CHAPTER_HISTORY_PARA_4">
+			<Text>As England now moved to exert further influence over Scotland, the Bruces sided with Longshanks rather than support the tenuous grip of newly crowned King John. This choice would find the Bruce family at odds with many of their countryman, leaving them allied with England in a growing conflict against their own nation (which had allied itself with France in the meantime).</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ROBERT_THE_BRUCE_CHAPTER_HISTORY_PARA_5">
+			<Text>Hearing of this new alliance, in 1296 England launched an outright invasion of Scotland and King John was quickly dethroned by Longshanks. Although Scotland was once again left without a true monarch, Robert finally broke from his father's wishes and sought to align himself with those seeking to revolt. However, it wasn't until 1298 after once again siding with Longshanks at the Battle of Falkirk that Robert truly broke from the English king. After seeing his fellow countrymen defeated, including the equally noteworthy Sir William Wallace, the time had come for change. When Wallace ceded the title of Guardian of Scotland, Robert was named his successor.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ROBERT_THE_BRUCE_CHAPTER_HISTORY_PARA_6">
+			<Text>Following a series of purported agreements and broken promises over the future of the Scottish throne, in 1306 Robert met with John Comyn, nephew to prior King John. Comyn was another strong claimant to the throne and potential rival to Robert. The details of their meeting are still debated to this day, but what is known for certain is that at some point the two came to blows and Comyn was killed by Robert. Less than two months later, Robert was named King of Scots by his fellow noblemen.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ROBERT_THE_BRUCE_CHAPTER_HISTORY_PARA_7">
+			<Text>As King, Robert led Scotland in a prolonged conflict against England that persisted not only through the reign of Edward Longshanks but also that of his son, Edward II. For nearly eight years, Scotland and England volleyed for control of the nation, culminating in the Battle of Bannockburn in 1314. By some accounts Robert's forces were outnumbered three to one, yet through clever tactics the Scottish emerged victorious. Suffering thousands of casualties, the battle was an utter humiliation for England and King Edward. With momentum on his side, Robert now pushed the back the English in their own lands as well as their territories in Ireland. </Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ROBERT_THE_BRUCE_CHAPTER_HISTORY_PARA_8">
+			<Text>When the Pope finally recognized Robert as the true king and sole ruler of Scotland in 1324, England's claims to the country were all but over. By 1327, the Treaty of Edinburgh-Northampton officially marked the end of what eventually came to be known as the First War of Scottish Independence. </Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ROBERT_THE_BRUCE_CHAPTER_HISTORY_PARA_9">
+			<Text>Although he lived to see his homeland free of English rule, on June 7th, 1329, Robert died at the age of 54 of unknown causes. Despite the political conflicts that plagued the Bruce family during his formative years, Robert rose to the call of his people, finally shaking off the threat of England after more than a decade of turmoil. </Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ROBERT_THE_BRUCE_CHAPTER_CAPSULE_BODY">
+			<Text>The inventions should flow non-stop from Robert the Bruce's Scotland, especially when their neighbors let them hang onto their freedom.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ROBERT_THE_BRUCE_CHAPTER_DETAILED_BODY">
+			<Text>Scotland is a strong civ in the fields of science and engineering and want to keep their people as happy as possible to fuel their advances. Plan out your cities carefully so you can try to get a Golf Course next to every city center (and adjacent to an Entertainment Complex if possible too). You are a great neighbor because you will often go to war to restore territory lost by your neighboring civs -- it is worth it to get into those fights for the boosts in [ICON_Movement] Movement and [ICON_Production] Production. The Highlander should allow you  to secure your gains just as you push into the 20th Century and start moving Scotland toward victory, probably in the space race.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

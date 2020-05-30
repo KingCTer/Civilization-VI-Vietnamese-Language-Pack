@@ -1,257 +1,257 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameData>
-	<EnglishText>
+	<LocalizedText>
 		<!--Gran Colombia-->
-		<Row Tag="LOC_CITY_NAME_BOGOTA">
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_BOGOTA">
 			<Text>Bogotá</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_CARACAS">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_CARACAS">
 			<Text>Caracas</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_QUITO">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_QUITO">
 			<Text>Quito</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_GUAYAQUIL">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_GUAYAQUIL">
 			<Text>Guayaquil</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_MARACAIBO">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_MARACAIBO">
 			<Text>Maracaibo</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_CARTAGENA_DE_INDIAS">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_CARTAGENA_DE_INDIAS">
 			<Text>Cartagena de Indias</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_PANAMA">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_PANAMA">
 			<Text>Panamá</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_POPAYAN">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_POPAYAN">
 			<Text>Popayán</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_CUENCA">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_CUENCA">
 			<Text>Cuenca</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_CUMANA">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_CUMANA">
 			<Text>Cumaná</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_BARINAS">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_BARINAS">
 			<Text>Barinas</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_CALI">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_CALI">
 			<Text>Cali</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_VALENCIA_DE_CARABOBO">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_VALENCIA_DE_CARABOBO">
 			<Text>Valencia de Carabobo</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_SANTA_MARTA">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SANTA_MARTA">
 			<Text>Santa Marta</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_LOJA">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_LOJA">
 			<Text>Loja</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_ANGOSTURA">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_ANGOSTURA">
 			<Text>Angostura</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_PASTO">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_PASTO">
 			<Text>Pasto</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_NUEVA_BARCELONA">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_NUEVA_BARCELONA">
 			<Text>Nueva Barcelona</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_NEIVA">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_NEIVA">
 			<Text>Neiva</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_MERIDA">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_MERIDA">
 			<Text>Mérida</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_PORTOVIEJO">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_PORTOVIEJO">
 			<Text>Portoviejo</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_RIOBAMBA">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_RIOBAMBA">
 			<Text>Riobamba</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_IBARRA">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_IBARRA">
 			<Text>Ibarra</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_RIOHACHA">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_RIOHACHA">
 			<Text>Riohacha</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_QUIBDO">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_QUIBDO">
 			<Text>Quibdó</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_NUEVA_PAMPLONA">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_NUEVA_PAMPLONA">
 			<Text>Nueva Pamplona</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_SANTIAGO_DE_VERAGUAS">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SANTIAGO_DE_VERAGUAS">
 			<Text>Santiago de Veraguas</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_LA_ASUNCION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_LA_ASUNCION">
 			<Text>La Asunción</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_ACHAGUAS">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_ACHAGUAS">
 			<Text>Achaguas</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_HONDA">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_HONDA">
 			<Text>Honda</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_SOCORRO">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SOCORRO">
 			<Text>Socorro</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_MOMPOS">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_MOMPOS">
 			<Text>Mompós</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_TRUJILLO">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_TRUJILLO">
 			<Text>Trujillo</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_SANTA_FE_DE_ANTIOQUIA">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SANTA_FE_DE_ANTIOQUIA">
 			<Text>Santa Fe de Antioquia</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_PORE">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_PORE">
 			<Text>Pore</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_CUCUTA">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_CUCUTA">
 			<Text>Cúcuta</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_MARIQUITA">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_MARIQUITA">
 			<Text>Mariquita</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_SAN_FERNANDO_DE_APURE">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SAN_FERNANDO_DE_APURE">
 			<Text>San Fernando de Apure</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_MEDELLIN">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_MEDELLIN">
 			<Text>Medellín</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_BARQUISIMETO">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_BARQUISIMETO">
 			<Text>Barquisimeto</Text>
-		</Row>
+		</Replace>
 		<!--Maya-->
-		<Row Tag="LOC_CITY_NAME_NARANJO">
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_NARANJO">
 			<Text>Wak Kab’nal</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_PALENQUE_MAYA">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_PALENQUE_MAYA">
 			<Text>Palenque</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_TIKAL">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_TIKAL">
 			<Text>Tikal</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_CHICHEN_ITZA">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_CHICHEN_ITZA">
 			<Text>Chichen Itza</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_UXMAL">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_UXMAL">
 			<Text>Uxmal</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_COPAN">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_COPAN">
 			<Text>Copan</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_COBA">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_COBA">
 			<Text>Coba</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_EL_MIRADOR">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_EL_MIRADOR">
 			<Text>El Mirador</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_CALAKMUL">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_CALAKMUL">
 			<Text>Calakmul</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_XUNANTUNICH">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_XUNANTUNICH">
 			<Text>Xunantunich</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_YAXCHILAN">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_YAXCHILAN">
 			<Text>Yaxchilan</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_YOKIB">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_YOKIB">
 			<Text>Yokib</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_QUIRIGUA">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_QUIRIGUA">
 			<Text>Quirigua</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_UAXACTUN">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_UAXACTUN">
 			<Text>Uaxactun</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_TONINA">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_TONINA">
 			<Text>Tonina</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_KAMINALJUYU">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_KAMINALJUYU">
 			<Text>Kaminaljuyu</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_UCANAL">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_UCANAL">
 			<Text>Ucanal</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_IZAPA">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_IZAPA">
 			<Text>Izapa</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_COMALCALCO">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_COMALCALCO">
 			<Text>Comalcalco</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_LAMANAI">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_LAMANAI">
 			<Text>Lamanai</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_DZIBILCHALTUN">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_DZIBILCHALTUN">
 			<Text>Dzibilchaltun</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_EDZNA">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_EDZNA">
 			<Text>Edzna</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_SACUL">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SACUL">
 			<Text>Sacul</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_BECAN">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_BECAN">
 			<Text>Becan</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_SAYIL">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SAYIL">
 			<Text>Sayil</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_MAYAPAN">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_MAYAPAN">
 			<Text>Mayapan</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_DOS_PILAS">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_DOS_PILAS">
 			<Text>Dos Pilas</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_BONAMPAK">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_BONAMPAK">
 			<Text>Bonampak</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_KABAH">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_KABAH">
 			<Text>Kabah</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_SEIBA">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SEIBA">
 			<Text>Seibal</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_IZAMAL">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_IZAMAL">
 			<Text>Izamal</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_ALTAR_DE_SACRIFICIOS">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_ALTAR_DE_SACRIFICIOS">
 			<Text>Altar de Sacrificios</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_RIO_BEC">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_RIO_BEC">
 			<Text>Rio Bec</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_MACHAQUILA">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_MACHAQUILA">
 			<Text>Machaquila</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_XTAMPAK">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_XTAMPAK">
 			<Text>Xtampak</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_CHINKULTIC">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_CHINKULTIC">
 			<Text>Chinkultic</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_XPUHIL">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_XPUHIL">
 			<Text>Xpuhil</Text>
-		</Row>
+		</Replace>
 		<!--City-States-->
-		<Row Tag="LOC_CITY_NAME_CAGUANA">
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_CAGUANA">
 			<Text>Caguana</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_HUNZA">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_HUNZA">
 			<Text>Hunza</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_LAHORE">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_LAHORE">
 			<Text>Lahore</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_SINGAPORE">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SINGAPORE">
 			<Text>Singapore</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_TARUGA">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_TARUGA">
 			<Text>Taruga</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_VATICAN_CITY">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_VATICAN_CITY">
 			<Text>Vatican City</Text>
-		</Row>
-	</EnglishText>
+		</Replace>
+	</LocalizedText>
 </GameData>

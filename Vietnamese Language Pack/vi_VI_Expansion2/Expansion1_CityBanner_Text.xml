@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Replace Language='en_US' Tag="LOC_HUD_CITY_RELIGION_TT">
+			<Text>Dominant Religion: {1_ReligionName}</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_BELONGS_TT">
+			<Text>Belongs to {1_CivName}</Text>
+		</Replace>
+    <Replace Language='en_US' Tag="LOC_CITY_BELONGS_FREECITY_TT">
+      <Text>Belongs to a Free City</Text>
+    </Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_BANNER_TT">
+			<Text>{1_CityName} ({2_CivName})</Text>
+		</Replace>
+
+		<Replace Language='en_US' Tag="LOC_HUD_CITY_GOVERNOR_NO_ID">
+			<Text>Our intelligence indicates a [ICON_Governor] Governor is in this city, but could not determine who or whether they are established</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_HUD_CITY_GOVERNOR_NO_TURNS">
+			<Text>Our intelligence indicates [ICON_Governor] {1_GovernorName} is in this city, but could not determine if they are established</Text>
+		</Replace>
+
+		<Replace Language='en_US' Tag="LOC_CITY_BANNER_ACTIVE_TRADING">
+			<Text>You own a Trading Post here</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_BANNER_INACTIVE_TRADING">
+			<Text>You own a Trading Post here, but it is inactive due to war</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_BANNER_CAN_STRIKE">
+			<Text>City can perform a ranged attack</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_BANNER_FORTIFICATION_TT">
+			<Text>City is lightly defended</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_BANNER_WALLED_FORTIFICATION_TT">
+			<Text>City is defended by a wall</Text>
+		</Replace>
+
+		<Replace Language='en_US' Tag="LOC_CITY_BANNER_ORIGINAL_CAPITAL_TT">
+			<Text>Original capital of {1_Owner}</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_BANNER_NEW_CAPITAL_TT">
+			<Text>New capital of {1_Owner}</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_BANNER_CAPTURED_CAPITAL_TT">
+			<Text>Original capital of {1_OriginalOwner} (Captured)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_BANNER_OTHER_CITY_TT">
+			<Text>City of {1_Owner}</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_BANNER_CITY_STATE_TT">
+			<Text>City State</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_BANNER_FREE_CITY_TT">
+			<Text>Free City</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

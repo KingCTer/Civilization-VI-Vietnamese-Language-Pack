@@ -1,0 +1,974 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+		<!--CANADA-->
+		<Replace Language='en_US' Tag="LOC_CITIZEN_CANADA_MALE_1">
+			<Text>Christophe</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_CANADA_MALE_2">
+			<Text>Emile</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_CANADA_MALE_3">
+			<Text>Etienne</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_CANADA_MALE_4">
+			<Text>Guillaume</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_CANADA_MALE_5">
+			<Text>Jean-Sebastien</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_CANADA_MALE_6">
+			<Text>Mathieu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_CANADA_MALE_7">
+			<Text>Riley</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_CANADA_MALE_8">
+			<Text>Pascal</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_CANADA_MALE_9">
+			<Text>Samuel</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_CANADA_MALE_10">
+			<Text>Xavier</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_CANADA_FEMALE_1">
+			<Text>Audrey</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_CANADA_FEMALE_2">
+			<Text>Camille</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_CANADA_FEMALE_3">
+			<Text>Gabrielle</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_CANADA_FEMALE_4">
+			<Text>Genevieve</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_CANADA_FEMALE_5">
+			<Text>Marianne</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_CANADA_FEMALE_6">
+			<Text>Maude</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_CANADA_FEMALE_7">
+			<Text>Jade</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_CANADA_FEMALE_8">
+			<Text>Karine</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_CANADA_FEMALE_9">
+			<Text>Valerie</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_CANADA_FEMALE_10">
+			<Text>Victoria</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_CANADA_MODERN_MALE_1">
+			<Text>Adam</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_CANADA_MODERN_MALE_2">
+			<Text>Adrian</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_CANADA_MODERN_MALE_3">
+			<Text>Antoine</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_CANADA_MODERN_MALE_4">
+			<Text>Benoit</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_CANADA_MODERN_MALE_5">
+			<Text>Cedric</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_CANADA_MODERN_MALE_6">
+			<Text>Nathan</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_CANADA_MODERN_MALE_7">
+			<Text>Noah</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_CANADA_MODERN_MALE_8">
+			<Text>Kenneth</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_CANADA_MODERN_MALE_9">
+			<Text>Liam</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_CANADA_MODERN_MALE_10">
+			<Text>Logan</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_CANADA_MODERN_FEMALE_1">
+			<Text>Aurelie</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_CANADA_MODERN_FEMALE_2">
+			<Text>Ariana</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_CANADA_MODERN_FEMALE_3">
+			<Text>Beatrice</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_CANADA_MODERN_FEMALE_4">
+			<Text>Chloe</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_CANADA_MODERN_FEMALE_5">
+			<Text>Charlotte</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_CANADA_MODERN_FEMALE_6">
+			<Text>Emma</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_CANADA_MODERN_FEMALE_7">
+			<Text>Elaine</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_CANADA_MODERN_FEMALE_8">
+			<Text>Lea</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_CANADA_MODERN_FEMALE_9">
+			<Text>Sadie</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_CANADA_MODERN_FEMALE_10">
+			<Text>Rosalie</Text>
+		</Replace>
+		<!--HUNGARY-->
+		<Replace Language='en_US' Tag="LOC_CITIZEN_HUNGARY_MALE_1">
+			<Text>Árpi</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_HUNGARY_MALE_2">
+			<Text>Botond</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_HUNGARY_MALE_3">
+			<Text>Gergő</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_HUNGARY_MALE_4">
+			<Text>Ervin</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_HUNGARY_MALE_5">
+			<Text>István</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_HUNGARY_MALE_6">
+			<Text>Tamás</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_HUNGARY_MALE_7">
+			<Text>János</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_HUNGARY_MALE_8">
+			<Text>Marton</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_HUNGARY_MALE_9">
+			<Text>Paszkál</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_HUNGARY_MALE_10">
+			<Text>Zsolt</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_HUNGARY_FEMALE_1">
+			<Text>Eszter</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_HUNGARY_FEMALE_2">
+			<Text>Enikõ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_HUNGARY_FEMALE_3">
+			<Text>Fruzsi</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_HUNGARY_FEMALE_4">
+			<Text>Renata</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_HUNGARY_FEMALE_5">
+			<Text>Petra</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_HUNGARY_FEMALE_6">
+			<Text>Lívia</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_HUNGARY_FEMALE_7">
+			<Text>Maja</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_HUNGARY_FEMALE_8">
+			<Text>Dorka</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_HUNGARY_FEMALE_9">
+			<Text>Bianka</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_HUNGARY_FEMALE_10">
+			<Text>Evelin</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_HUNGARY_MODERN_MALE_1">
+			<Text>Ákos</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_HUNGARY_MODERN_MALE_2">
+			<Text>Daniel</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_HUNGARY_MODERN_MALE_3">
+			<Text>Erik</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_HUNGARY_MODERN_MALE_4">
+			<Text>Hugo</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_HUNGARY_MODERN_MALE_5">
+			<Text>Kristóf</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_HUNGARY_MODERN_MALE_6">
+			<Text>Krisztián</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_HUNGARY_MODERN_MALE_7">
+			<Text>Patrik</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_HUNGARY_MODERN_MALE_8">
+			<Text>Márkó</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_HUNGARY_MODERN_MALE_9">
+			<Text>Roland</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_HUNGARY_MODERN_MALE_10">
+			<Text>Zalan</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_HUNGARY_MODERN_FEMALE_1">
+			<Text>Ancsi</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_HUNGARY_MODERN_FEMALE_2">
+			<Text>Bea</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_HUNGARY_MODERN_FEMALE_3">
+			<Text>Bernadett</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_HUNGARY_MODERN_FEMALE_4">
+			<Text>Szabina</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_HUNGARY_MODERN_FEMALE_5">
+			<Text>Lili</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_HUNGARY_MODERN_FEMALE_6">
+			<Text>Nóri</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_HUNGARY_MODERN_FEMALE_7">
+			<Text>Melinda</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_HUNGARY_MODERN_FEMALE_8">
+			<Text>Rebeka</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_HUNGARY_MODERN_FEMALE_9">
+			<Text>Klaudia</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_HUNGARY_MODERN_FEMALE_10">
+			<Text>Vivien</Text>
+		</Replace>
+		<!--INCA-->
+		<Replace Language='en_US' Tag="LOC_CITIZEN_INCA_MALE_1">
+			<Text>Anco</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_INCA_MALE_2">
+			<Text>Anta</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_INCA_MALE_3">
+			<Text>Chuki</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_INCA_MALE_4">
+			<Text>Kuntur</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_INCA_MALE_5">
+			<Text>Kyunya</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_INCA_MALE_6">
+			<Text>Inti</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_INCA_MALE_7">
+			<Text>Puma</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_INCA_MALE_8">
+			<Text>Rimaq</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_INCA_MALE_9">
+			<Text>Ruqa</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_INCA_MALE_10">
+			<Text>Uchu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_INCA_FEMALE_1">
+			<Text>Asiri</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_INCA_FEMALE_2">
+			<Text>Chimpu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_INCA_FEMALE_3">
+			<Text>Mamap</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_INCA_FEMALE_4">
+			<Text>Pacha</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_INCA_FEMALE_5">
+			<Text>Raymi</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_INCA_FEMALE_6">
+			<Text>Qayara</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_INCA_FEMALE_7">
+			<Text>Quya</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_INCA_FEMALE_8">
+			<Text>Palla</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_INCA_FEMALE_9">
+			<Text>Qispi</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_INCA_FEMALE_10">
+			<Text>Uqlllu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_INCA_MODERN_MALE_1">
+			<Text>Amaru</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_INCA_MODERN_MALE_2">
+			<Text>Mallku</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_INCA_MODERN_MALE_3">
+			<Text>Manqu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_INCA_MODERN_MALE_4">
+			<Text>Pacar</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_INCA_MODERN_MALE_5">
+			<Text>Ruqa</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_INCA_MODERN_MALE_6">
+			<Text>Sumaq</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_INCA_MODERN_MALE_7">
+			<Text>Tupac</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_INCA_MODERN_MALE_8">
+			<Text>Ullanta</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_INCA_MODERN_MALE_9">
+			<Text>Uturunku</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_INCA_MODERN_MALE_10">
+			<Text>Waman</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_INCA_MODERN_FEMALE_1">
+			<Text>Huayta</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_INCA_MODERN_FEMALE_2">
+			<Text>Inkasisa</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_INCA_MODERN_FEMALE_3">
+			<Text>Palla</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_INCA_MODERN_FEMALE_4">
+			<Text>Qispi</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_INCA_MODERN_FEMALE_5">
+			<Text>Quyullur</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_INCA_MODERN_FEMALE_6">
+			<Text>Quri</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_INCA_MODERN_FEMALE_7">
+			<Text>Sami</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_INCA_MODERN_FEMALE_8">
+			<Text>Sisa</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_INCA_MODERN_FEMALE_9">
+			<Text>Taki</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_INCA_MODERN_FEMALE_10">
+			<Text>Urpi</Text>
+		</Replace>
+		<!--MALI-->
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MALI_MALE_1">
+			<Text>Alou</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MALI_MALE_2">
+			<Text>Boubacar</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MALI_MALE_3">
+			<Text>Esaie</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MALI_MALE_4">
+			<Text>Moctar</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MALI_MALE_5">
+			<Text>Kader</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MALI_MALE_6">
+			<Text>Kassim</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MALI_MALE_7">
+			<Text>Salif</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MALI_MALE_8">
+			<Text>Seydou</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MALI_MALE_9">
+			<Text>Tahirou</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MALI_MALE_10">
+			<Text>Wahabe</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MALI_FEMALE_1">
+			<Text>Adiaratou</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MALI_FEMALE_2">
+			<Text>Bibatou</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MALI_FEMALE_3">
+			<Text>Déni</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MALI_FEMALE_4">
+			<Text>Djen'hai</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MALI_FEMALE_5">
+			<Text>Mounaissa</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MALI_FEMALE_6">
+			<Text>D'jhello</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MALI_FEMALE_7">
+			<Text>Hamsetou</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MALI_FEMALE_8">
+			<Text>Tatiska</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MALI_FEMALE_9">
+			<Text>Kadidiatou</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MALI_FEMALE_10">
+			<Text>Zahra</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MALI_MODERN_MALE_1">
+			<Text>Amos</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MALI_MODERN_MALE_2">
+			<Text>Ali</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MALI_MODERN_MALE_3">
+			<Text>Dango</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MALI_MODERN_MALE_4">
+			<Text>Ibrahima</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MALI_MODERN_MALE_5">
+			<Text>Makane</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MALI_MODERN_MALE_6">
+			<Text>Salif</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MALI_MODERN_MALE_7">
+			<Text>Konaté</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MALI_MODERN_MALE_8">
+			<Text>Laurent</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MALI_MODERN_MALE_9">
+			<Text>Vaughn</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MALI_MODERN_MALE_10">
+			<Text>Zakaria</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MALI_MODERN_FEMALE_1">
+			<Text>Aurelie</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MALI_MODERN_FEMALE_2">
+			<Text>Binette</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MALI_MODERN_FEMALE_3">
+			<Text>Dissa</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MALI_MODERN_FEMALE_4">
+			<Text>Estou</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MALI_MODERN_FEMALE_5">
+			<Text>Fatima</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MALI_MODERN_FEMALE_6">
+			<Text>Germaine</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MALI_MODERN_FEMALE_7">
+			<Text>Hawa</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MALI_MODERN_FEMALE_8">
+			<Text>Micheline</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MALI_MODERN_FEMALE_9">
+			<Text>Kadidia</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MALI_MODERN_FEMALE_10">
+			<Text>Rama</Text>
+		</Replace>
+		<!--MAORI-->
+				<Replace Language='en_US' Tag="LOC_CITIZEN_MAORI_MALE_1">
+			<Text>Anaru</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MAORI_MALE_2">
+			<Text>Hemi</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MAORI_MALE_3">
+			<Text>Hoani</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MAORI_MALE_4">
+			<Text>Tane</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MAORI_MALE_5">
+			<Text>Te Koha</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MAORI_MALE_6">
+			<Text>Tamiti</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MAORI_MALE_7">
+			<Text>Ihaia</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MAORI_MALE_8">
+			<Text>Wiremu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MAORI_MALE_9">
+			<Text>Kahurangi</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MAORI_MALE_10">
+			<Text>Ruru</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MAORI_FEMALE_1">
+			<Text>Anahera</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MAORI_FEMALE_2">
+			<Text>Ataahua</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MAORI_FEMALE_3">
+			<Text>Tui</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MAORI_FEMALE_4">
+			<Text>Huia</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MAORI_FEMALE_5">
+			<Text>Kora</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MAORI_FEMALE_6">
+			<Text>Kaihautu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MAORI_FEMALE_7">
+			<Text>Manaia</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MAORI_FEMALE_8">
+			<Text>Iwa</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MAORI_FEMALE_9">
+			<Text>Ikaroa</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MAORI_FEMALE_10">
+			<Text>Wikitoria</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MAORI_MODERN_MALE_1">
+			<Text>Ari</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MAORI_MODERN_MALE_2">
+			<Text>Aata</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MAORI_MODERN_MALE_3">
+			<Text>Etera</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MAORI_MODERN_MALE_4">
+			<Text>Nikau</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MAORI_MODERN_MALE_5">
+			<Text>Mikaere</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MAORI_MODERN_MALE_6">
+			<Text>Maaka</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MAORI_MODERN_MALE_7">
+			<Text>Rawiri</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MAORI_MODERN_MALE_8">
+			<Text>Kauri</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MAORI_MODERN_MALE_9">
+			<Text>Kamaka</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MAORI_MODERN_MALE_10">
+			<Text>Tangaroa</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MAORI_MODERN_FEMALE_1">
+			<Text>Aria</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MAORI_MODERN_FEMALE_2">
+			<Text>Anika</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MAORI_MODERN_FEMALE_3">
+			<Text>Kaia</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MAORI_MODERN_FEMALE_4">
+			<Text>Ria</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MAORI_MODERN_FEMALE_5">
+			<Text>Miriama</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MAORI_MODERN_FEMALE_6">
+			<Text>Terina</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MAORI_MODERN_FEMALE_7">
+			<Text>Aroha</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MAORI_MODERN_FEMALE_8">
+			<Text>Waimarie</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MAORI_MODERN_FEMALE_9">
+			<Text>Awhina</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MAORI_MODERN_FEMALE_10">
+			<Text>Nia</Text>
+		</Replace>
+		<!--Ottoman-->
+		<Replace Language='en_US' Tag="LOC_CITIZEN_OTTOMAN_MALE_1">
+			<Text>Argun</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_OTTOMAN_MALE_2">
+			<Text>Artaç</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_OTTOMAN_MALE_3">
+			<Text>Daan</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_OTTOMAN_MALE_4">
+			<Text>Batuhan</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_OTTOMAN_MALE_5">
+			<Text>Kaden</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_OTTOMAN_MALE_6">
+			<Text>Gavino</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_OTTOMAN_MALE_7">
+			<Text>Ibrahim</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_OTTOMAN_MALE_8">
+			<Text>Esad</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_OTTOMAN_MALE_9">
+			<Text>Ertuğrul</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_OTTOMAN_MALE_10">
+			<Text>Ozan</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_OTTOMAN_FEMALE_1">
+			<Text>Acelya</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_OTTOMAN_FEMALE_2">
+			<Text>Adalet</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_OTTOMAN_FEMALE_3">
+			<Text>Behice</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_OTTOMAN_FEMALE_4">
+			<Text>Ceylan</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_OTTOMAN_FEMALE_5">
+			<Text>Destan</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_OTTOMAN_FEMALE_6">
+			<Text>Elçin</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_OTTOMAN_FEMALE_7">
+			<Text>Fusun</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_OTTOMAN_FEMALE_8">
+			<Text>Emine</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_OTTOMAN_FEMALE_9">
+			<Text>Kevser</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_OTTOMAN_FEMALE_10">
+			<Text>Leyla</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_OTTOMAN_MODERN_MALE_1">
+			<Text>Abbott</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_OTTOMAN_MODERN_MALE_2">
+			<Text>Eadric</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_OTTOMAN_MODERN_MALE_3">
+			<Text>Nuri</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_OTTOMAN_MODERN_MALE_4">
+			<Text>Nihat</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_OTTOMAN_MODERN_MALE_5">
+			<Text>Gael</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_OTTOMAN_MODERN_MALE_6">
+			<Text>Samson</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_OTTOMAN_MODERN_MALE_7">
+			<Text>Ichiro</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_OTTOMAN_MODERN_MALE_8">
+			<Text>Ichiro</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_OTTOMAN_MODERN_MALE_9">
+			<Text>Kaarle</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_OTTOMAN_MODERN_MALE_10">
+			<Text>Zane</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_OTTOMAN_MODERN_FEMALE_1">
+			<Text>Galia</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_OTTOMAN_MODERN_FEMALE_2">
+			<Text>Pembe</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_OTTOMAN_MODERN_FEMALE_3">
+			<Text>Selin</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_OTTOMAN_MODERN_FEMALE_4">
+			<Text>Sila</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_OTTOMAN_MODERN_FEMALE_5">
+			<Text>Jacinta</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_OTTOMAN_MODERN_FEMALE_6">
+			<Text>Tanyeli</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_OTTOMAN_MODERN_FEMALE_7">
+			<Text>Rüya</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_OTTOMAN_MODERN_FEMALE_8">
+			<Text>Ülkü</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_OTTOMAN_MODERN_FEMALE_9">
+			<Text>Sachi</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_OTTOMAN_MODERN_FEMALE_10">
+			<Text>Verda</Text>
+		</Replace>
+		<!--Phoenecia-->
+		<Replace Language='en_US' Tag="LOC_CITIZEN_PHOENICIA_MALE_1">
+			<Text>Abichemou</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_PHOENICIA_MALE_2">
+			<Text>Baal-Eser</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_PHOENICIA_MALE_3">
+			<Text>Bodastart</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_PHOENICIA_MALE_4">
+			<Text>Eshmunazar</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_PHOENICIA_MALE_5">
+			<Text>Itho-Baal</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_PHOENICIA_MALE_6">
+			<Text>Sakun-yaton</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_PHOENICIA_MALE_7">
+			<Text>Shipit-Baal</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_PHOENICIA_MALE_8">
+			<Text>Yapachemou Abi</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_PHOENICIA_MALE_9">
+			<Text>Zakar-Baal</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_PHOENICIA_MALE_10">
+			<Text>Zimrida</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_PHOENICIA_FEMALE_1">
+			<Text>Amoashtart</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_PHOENICIA_FEMALE_2">
+			<Text>Anot</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_PHOENICIA_FEMALE_3">
+			<Text>Arishat</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_PHOENICIA_FEMALE_4">
+			<Text>Asherah</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_PHOENICIA_FEMALE_5">
+			<Text>Batnoam</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_PHOENICIA_FEMALE_6">
+			<Text>Kathirat</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_PHOENICIA_FEMALE_7">
+			<Text>Nikkal</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_PHOENICIA_FEMALE_8">
+			<Text>Qetesh</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_PHOENICIA_FEMALE_9">
+			<Text>Shapash</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_PHOENICIA_FEMALE_10">
+			<Text>Yzebel</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_PHOENICIA_MODERN_MALE_1">
+			<Text>Adherbal</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_PHOENICIA_MODERN_MALE_2">
+			<Text>Bomilcar</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_PHOENICIA_MODERN_MALE_3">
+			<Text>Bosta</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_PHOENICIA_MODERN_MALE_4">
+			<Text>Gisgo</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_PHOENICIA_MODERN_MALE_5">
+			<Text>Hamilcar</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_PHOENICIA_MODERN_MALE_6">
+			<Text>Hanno</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_PHOENICIA_MODERN_MALE_7">
+			<Text>Hasdrubal</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_PHOENICIA_MODERN_MALE_8">
+			<Text>Himilco</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_PHOENICIA_MODERN_MALE_9">
+			<Text>Mago</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_PHOENICIA_MODERN_MALE_10">
+			<Text>Maharbal</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_PHOENICIA_MODERN_FEMALE_1">
+			<Text>Allatu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_PHOENICIA_MODERN_FEMALE_2">
+			<Text>Hat</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_PHOENICIA_MODERN_FEMALE_3">
+			<Text>Hawot</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_PHOENICIA_MODERN_FEMALE_4">
+			<Text>Kusarit</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_PHOENICIA_MODERN_FEMALE_5">
+			<Text>Muttunbaal</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_PHOENICIA_MODERN_FEMALE_6">
+			<Text>Semes</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_PHOENICIA_MODERN_FEMALE_7">
+			<Text>Similce</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_PHOENICIA_MODERN_FEMALE_8">
+			<Text>Sophoniba</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_PHOENICIA_MODERN_FEMALE_9">
+			<Text>Tnt</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_PHOENICIA_MODERN_FEMALE_10">
+			<Text>Zyabqot</Text>
+		</Replace>
+		<!--Sweden-->
+		<Replace Language='en_US' Tag="LOC_CITIZEN_SWEDEN_MALE_1">
+			<Text>Axel</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_SWEDEN_MALE_2">
+			<Text>Erik</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_SWEDEN_MALE_3">
+			<Text>Gunnar</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_SWEDEN_MALE_4">
+			<Text>Gustav</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_SWEDEN_MALE_5">
+			<Text>Håkan </Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_SWEDEN_MALE_6">
+			<Text>Henric</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_SWEDEN_MALE_7">
+			<Text>Ingvar </Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_SWEDEN_MALE_8">
+			<Text>Karl</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_SWEDEN_MALE_9">
+			<Text>Magnus</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_SWEDEN_MALE_10">
+			<Text>Sven</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_SWEDEN_FEMALE_1">
+			<Text>Astridh</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_SWEDEN_FEMALE_2">
+			<Text>Barbro</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_SWEDEN_FEMALE_3">
+			<Text>Ebba</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_SWEDEN_FEMALE_4">
+			<Text>Filippa</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_SWEDEN_FEMALE_5">
+			<Text>Greta</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_SWEDEN_FEMALE_6">
+			<Text>Ida</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_SWEDEN_FEMALE_7">
+			<Text>Öllegård</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_SWEDEN_FEMALE_8">
+			<Text>Ragna</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_SWEDEN_FEMALE_9">
+			<Text>Sigrid</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_SWEDEN_FEMALE_10">
+			<Text>Thora</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_SWEDEN_MODERN_MALE_1">
+			<Text>Anders</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_SWEDEN_MODERN_MALE_2">
+			<Text>Anton</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_SWEDEN_MODERN_MALE_3">
+			<Text>Björn</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_SWEDEN_MODERN_MALE_4">
+			<Text>Filip</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_SWEDEN_MODERN_MALE_5">
+			<Text>Johan</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_SWEDEN_MODERN_MALE_6">
+			<Text>Marcus</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_SWEDEN_MODERN_MALE_7">
+			<Text>Olof</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_SWEDEN_MODERN_MALE_8">
+			<Text>Oskar</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_SWEDEN_MODERN_MALE_9">
+			<Text>Simon</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_SWEDEN_MODERN_MALE_10">
+			<Text>Viktor</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_SWEDEN_MODERN_FEMALE_1">
+			<Text>Amanda</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_SWEDEN_MODERN_FEMALE_2">
+			<Text>Anna</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_SWEDEN_MODERN_FEMALE_3">
+			<Text>Elin</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_SWEDEN_MODERN_FEMALE_4">
+			<Text>Elsa</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_SWEDEN_MODERN_FEMALE_5">
+			<Text>Emelie</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_SWEDEN_MODERN_FEMALE_6">
+			<Text>Emma</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_SWEDEN_MODERN_FEMALE_7">
+			<Text>Hanna</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_SWEDEN_MODERN_FEMALE_8">
+			<Text>Josefin</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_SWEDEN_MODERN_FEMALE_9">
+			<Text>Julia</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_SWEDEN_MODERN_FEMALE_10">
+			<Text>Sara</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

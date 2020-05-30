@@ -1,0 +1,3318 @@
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+		<!--Rivers-->
+		<Replace Language='en_US' Tag="LOC_RIVER_CONCATENATION_STRING">
+			<Text>{1_BaseString}, {2_RiverName}</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_RIVER_TOOLTIP_STRING">
+			<Text>River(s): {1_BaseString}</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_ABUKUMA_RIVER_NAME">
+			<Text>Abukuma River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_ACHELOUS_RIVER_NAME">
+			<Text>Achelous River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_AGNO_NAME">
+			<Text>Agno River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_ALAZANI_RIVER_NAME">
+			<Text>Alazani River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_AMAZON_NAME">
+			<Text>Amazon River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_AMISKWASIPI_NAME">
+			<Text>Amiskwasîpi</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_AMNOK_RIVER_NAME">
+			<Text>Amnok River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_AMU_DARYA_NAME">
+			<Text>Amu Darya River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_AMUR_NAME">
+			<Text>Amur River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_APURIMAQ_MAYU_NAME">
+			<Text>Apurimaq Mayu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_ARAS_RIVER_NAME">
+			<Text>Aras River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_ARKANSAS_NAME">
+			<Text>Arkansas River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_ARNO_RIVER_NAME">
+			<Text>Arno River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_ATBARAH_RIVER_NAME">
+			<Text>Atbarah River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_ATHABASCA_RIVER_NAME">
+			<Text>Athabasca River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_ATOYAC_RIVER_NAME">
+			<Text>Atoyac River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_AWRIQ_MAYU_NAME">
+			<Text>Awriq Mayu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_AYUNG_RIVER_NAME">
+			<Text>Ayung River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_BAHR_YUSSEF_NAME">
+			<Text>Bahr Yussef</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_BALSAS_NAME">
+			<Text>Balsas River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_BANI_RIVER_NAME">
+			<Text>Bani River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_BARADA_RIVER_NAME">
+			<Text>Barada River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_BARITO_RIVER_NAME">
+			<Text>Barito River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_BASSAC_RIVER_NAME">
+			<Text>Bassac River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_BATANGHARI_RIVER_NAME">
+			<Text>Batanghari River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_BEIRUT_RIVER_NAME">
+			<Text>Beirut River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_BENGAWAN_SOLO_RIVER_NAME">
+			<Text>Bengawan Solo River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_BIO_BIO_NAME">
+			<Text>Bio-Bio River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_BRAHMAPUTRA_NAME">
+			<Text>Brahmaputra River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_BRISBANE_RIVER_NAME">
+			<Text>Brisbane River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_BUG_NAME">
+			<Text>Bug River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_BUKHAN_RIVER_NAME">
+			<Text>Bukhan River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_CHINCHIPE_RIVER_NAME">
+			<Text>Chinchipe River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_COATZACOALCOS_RIVER_NAME">
+			<Text>Coatzacoalcos River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_COLORADO_NAME">
+			<Text>Colorado River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_COLUMBIA_NAME">
+			<Text>Columbia River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_CONGO_NAME">
+			<Text>Congo River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_COOPER_CREEK_NAME">
+			<Text>Cooper Creek</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_DAL_NAME">
+			<Text>Dal River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_DAMIETTA_RIVER_NAME">
+			<Text>Damietta River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_DANUBE_NAME">
+			<Text>Danube River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_DARLING_NAME">
+			<Text>Darling River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_DAUGAVA_NAME">
+			<Text>Daugava River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_DELAWARE_NAME">
+			<Text>Delaware River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_DIYALA_RIVER_NAME">
+			<Text>Diyala River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_DNIEPER_NAME">
+			<Text>Dnieper River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_DNIESTER_NAME">
+			<Text>Dniester River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_DON_NAME">
+			<Text>Don River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_DOURO_RIVER_NAME">
+			<Text>Douro River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_DUNAJEC_RIVER_NAME">
+			<Text>Dunajec River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_EBRO_NAME">
+			<Text>Ebro River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_ELBE_NAME">
+			<Text>Elbe River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_ENGURI_RIVER_NAME">
+			<Text>Enguri River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_EUPHRATES_NAME">
+			<Text>Euphrates River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_EUROTAS_NAME">
+			<Text>Eurotas River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_FORTH_NAME">
+			<Text>River Forth</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_FRASER_RIVER_NAME">
+			<Text>Fraser River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_GAMBIA_RIVER_NAME">
+			<Text>Gambia River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_GANGES_NAME">
+			<Text>Ganges River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_GEUM_RIVER_NAME">
+			<Text>Geum River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_GLOMMA_NAME">
+			<Text>Glomma River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_GODAVARI_NAME">
+			<Text>Godavari River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_GREAT_ZAB_RIVER_NAME">
+			<Text>Great Zab River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_GUADALQUIVIR_RIVER_NAME">
+			<Text>Guadalquivir River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_GUADIANA_RIVER_NAME">
+			<Text>Guadiana River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_GUDBRANDSDALSLAGEN_NAME">
+			<Text>Gudbrandsdalslågen</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_HAI_NAME">
+			<Text>Hai River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_HALIACMON_RIVER_NAME">
+			<Text>Haliacmon River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_HAN_RIVER_NAME">
+			<Text>Han River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_HUTT_RIVER_NAME">
+			<Text>Hutt River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_IJSSEL_RIVER_NAME">
+			<Text>IJssel River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_IMJIN_RIVER_NAME">
+			<Text>Imjin River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_INDAL_RIVER_NAME">
+			<Text>Indal River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_INDUS_NAME">
+			<Text>Indus River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_INKISI_RIVER_NAME">
+			<Text>Inkisi River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_IRRAWADDY_NAME">
+			<Text>Irrawaddy River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_ISHIKARI_RIVER_NAME">
+			<Text>Ishikari River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_ITATA_RIVER_NAME">
+			<Text>Itata River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_JAJRUD_RIVER_NAME">
+			<Text>Jājrūd River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_JORDAN_NAME">
+			<Text>Jordan River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_JUCAR_RIVER_NAME">
+			<Text>Júcar River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_KAPUAS_NAME">
+			<Text>Kapuas River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_KARKHEH_RIVER_NAME">
+			<Text>Karkheh River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_KARUN_NAME">
+			<Text>Karun River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_KASAI_NAME">
+			<Text>Kasai River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_KATEPWEWI_SIPI_NAME">
+			<Text>Kātēpwēwi-sīpī</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_KAVERI_RIVER_NAME">
+			<Text>Kaveri River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_KAWARAU_RIVER_NAME">
+			<Text>Kawarau River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_KAWATIRI_RIVER_NAME">
+			<Text>Kawatiri River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_KERULEN_RIVER_NAME">
+			<Text>Kerülen River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_KHABUR_RIVER_NAME">
+			<Text>Khabur River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_KISISKACIWANI_SIPIY_NAME">
+			<Text>Kisiskāciwani-sīpiy</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_KITAKAMI_RIVER_NAME">
+			<Text>Kitakami River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_KIZILIRMAK_NAME">
+			<Text>Kızılırmak River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_KLARA_RIVER_NAME">
+			<Text>Klara River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_KOROS_RIVER_NAME">
+			<Text>Körös River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_KSHIPRA_RIVER_NAME">
+			<Text>Kshipra River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_KURA_NAME">
+			<Text>Kura River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_LEK_RIVER_NAME">
+			<Text>Lek River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_LENA_NAME">
+			<Text>Lena River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_LIMPOPO_NAME">
+			<Text>Limpopo River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_LITANI_NAME">
+			<Text>Litani River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_LOIRE_NAME">
+			<Text>Loire River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_LULE_RIVER_NAME">
+			<Text>Lule River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_MACKENZIE_NAME">
+			<Text>Mackenzie River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_MADEIRA_NAME">
+			<Text>Madeira River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_MAHAKAM_RIVER_NAME">
+			<Text>Mahakam River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_MAIPO_RIVER_NAME">
+			<Text>Maipo River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_MAMBERAMO_RIVER_NAME">
+			<Text>Mamberamo River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_MANTO_SIPIY_NAME">
+			<Text>Mantō-sīpiy</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_MAPOCHO_RIVER_NAME">
+			<Text>Mapocho River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_MAREB_RIVER_NAME">
+			<Text>Mareb River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_MARITSA_RIVER_NAME">
+			<Text>Maritsa River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_MATA_AU_RIVER_NAME">
+			<Text>Mata-Au River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_MAULE_RIVER_NAME">
+			<Text>Maule River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_MEDJERDA_RIVER_NAME">
+			<Text>Medjerda River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_MEKONG_NAME">
+			<Text>Mekong River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_MEUSE_NAME">
+			<Text>Meuse River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_MISSISSIPPI_NAME">
+			<Text>Mississippi River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_MISSOURI_NAME">
+			<Text>Missouri River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_MIXTECO_RIVER_NAME">
+			<Text>Mixteco River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_MOGAMI_RIVER_NAME">
+			<Text>Mogami River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_MTKVARI_RIVER_NAME">
+			<Text>Mtkvari River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_MURAT_RIVER_NAME">
+			<Text>Murat River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_MURRAY_NAME">
+			<Text>Murray River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_MURRUMBIDGEE_NAME">
+			<Text>Murrumbidgee River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_MUSI_RIVER_NAME">
+			<Text>Musi River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_NAKDONG_NAME">
+			<Text>Nakdong River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_NAREW_RIVER_NAME">
+			<Text>Narew River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_NARMADA_RIVER_NAME">
+			<Text>Narmada River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_NESTOS_RIVER_NAME">
+			<Text>Nestos River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_NIGER_NAME">
+			<Text>Niger River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_NILE_NAME">
+			<Text>Nile River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_NORTHERN_DVINA_NAME">
+			<Text>Northern Dvina</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_NOTEC_RIVER_NAME">
+			<Text>Noteć River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_NUMEDAL_RIVER_NAME">
+			<Text>Numedal River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_OB_NAME">
+			<Text>Ob River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_OCHEKWI_SIPI_NAME">
+			<Text>Ochekwi-Sipi</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_ODER_NAME">
+			<Text>Oder River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_OFANTO_RIVER_NAME">
+			<Text>Ofanto River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_OHIO_NAME">
+			<Text>Ohio River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_OKAVANGO_NAME">
+			<Text>Okavango River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_ORANGE_NAME">
+			<Text>Orange River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_ORINOCO_NAME">
+			<Text>Orinoco River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_ORKHON_NAME">
+			<Text>Orkhon River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_ORONTES_RIVER_NAME">
+			<Text>Orontes River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_OTRA_RIVER_NAME">
+			<Text>Otra River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_PAPALOAPAN_RIVER_NAME">
+			<Text>Papaloapan River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_PARAGUAY_NAME">
+			<Text>Paraguay River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_PARANA_NAME">
+			<Text>Paraná River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_PAROO_RIVER_NAME">
+			<Text>Paroo River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_PEARL_NAME">
+			<Text>Pearl River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_PO_NAME">
+			<Text>Po River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_POTOMAC_NAME">
+			<Text>Potomac River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_POWINIGOW_NAME">
+			<Text>Powinigow Sipi</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_PUTUMAYU_NAME">
+			<Text>Putumayu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_RABA_RIVER_NAME">
+			<Text>Rába River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_RAKAIA_RIVER_NAME">
+			<Text>Rakaia River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_RANGATIKEI_RIVER_NAME">
+			<Text>Rangatikei River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_RAUMA_RIVER_NAME">
+			<Text>Rauma River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_RED_NAME">
+			<Text>Red River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_RHINE_NAME">
+			<Text>Rhine River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_RHONE_NAME">
+			<Text>Rhone River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_RIO_GRANDE_NAME">
+			<Text>Rio Grande</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_RIO_NEGRO_NAME">
+			<Text>Río Negro</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_RIONI_RIVER_NAME">
+			<Text>Rioni River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_RIVER_AVON_NAME">
+			<Text>River Avon</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_RIVER_CLYDE_NAME">
+			<Text>River Clyde</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_RIVER_DEE_NAME">
+			<Text>River Dee</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_RIVER_EDEN_NAME">
+			<Text>River Eden</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_RIVER_GREAT_OUSE_NAME">
+			<Text>River Great Ouse</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_RIVER_SEVERN_NAME">
+			<Text>River Severn</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_RIVER_SPEY_NAME">
+			<Text>River Spey</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_RIVER_TAY_NAME">
+			<Text>River Tay</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_RIVER_TEES_NAME">
+			<Text>River Tees</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_RIVER_TRENT_NAME">
+			<Text>River Trent</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_RIVER_WELLAND_NAME">
+			<Text>River Welland</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_ROSETTA_RIVER_NAME">
+			<Text>Rosetta River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_RUBICON_NAME">
+			<Text>Rubicon River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_SAINT_LAWRENCE_NAME">
+			<Text>Saint Lawrence River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_SAKARYA_RIVER_NAME">
+			<Text>Sakarya River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_SALWEEN_NAME">
+			<Text>Salween River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_SAN_RIVER_NAME">
+			<Text>San River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_SANKARANI_RIVER_NAME">
+			<Text>Sankarani River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_SANKURU_RIVER_NAME">
+			<Text>Sankuru River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_SAO_FRANCISCO_NAME">
+			<Text>São Francisco River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_SARASWATI_NAME">
+			<Text>Saraswati River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_SCHELDT_RIVER_NAME">
+			<Text>Scheldt River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_SE_KONG_RIVER_NAME">
+			<Text>Se Kong River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_SEFID_RIVER_NAME">
+			<Text>Sefīd River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_SEINE_NAME">
+			<Text>Seine River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_SENEGAL_RIVER_NAME">
+			<Text>Senegal River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_SEOMJIN_RIVER_NAME">
+			<Text>Seomjin River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_SHINANO_NAME">
+			<Text>Shinano River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_SONGHUA_RIVER_NAME">
+			<Text>Songhua River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_SREPOK_RIVER_NAME">
+			<Text>Srepok River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_STRUMA_RIVER_NAME">
+			<Text>Struma River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_SUSQUEHANNA_NAME">
+			<Text>Susquehanna River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_SYR_DARYA_NAME">
+			<Text>Syr Darya River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_TAGUS_NAME">
+			<Text>Tagus River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_TAPISKWAN_SIPI_NAME">
+			<Text>Tapiskwan Sipi</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_TARIM_NAME">
+			<Text>Tarim River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_TE_AWAKAIRANGI_NAME">
+			<Text>Te Awakairangi</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_TEHUANTEPEC_RIVER_NAME">
+			<Text>Tehuantepec River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_TENRYU_RIVER_NAME">
+			<Text>Tenryu River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_TESHIO_RIVER_NAME">
+			<Text>Teshio River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_THAMES_NAME">
+			<Text>River Thames</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_TIBER_NAME">
+			<Text>Tiber River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_TIGRIS_NAME">
+			<Text>Tigris River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_TISZA_RIVER_NAME">
+			<Text>Tisza River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_TOCANTINS_NAME">
+			<Text>Tocantins River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_TOLTEN_RIVER_NAME">
+			<Text>Toltén River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_TONALA_RIVER_NAME">
+			<Text>Tonalá River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_TONE_RIVER_NAME">
+			<Text>Tone River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_TONGARIRO_RIVER_NAME">
+			<Text>Tongariro River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_TONLE_SAN_RIVER_NAME">
+			<Text>Tonlé San River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_TONLE_SAP_RIVER_NAME">
+			<Text>Tonlé Sap River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_TORNE_RIVER_NAME">
+			<Text>Torne River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_TRUFUL_TRUFUL_RIVER_NAME">
+			<Text>Truful-Truful River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_TSHUAPA_RIVER_NAME">
+			<Text>Tshuapa River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_TUGELA_RIVER_NAME">
+			<Text>Tugela River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_TUUL_RIVER_NAME">
+			<Text>Tuul River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_UCAYALI_NAME">
+			<Text>Ucayali River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_UMFOLOZI_RIVER_NAME">
+			<Text>Umfolozi River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_UMZIMKULU_RIVER_NAME">
+			<Text>Umzimkulu River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_UMZINYATHI_RIVER_NAME">
+			<Text>uMzinyathi River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_URAL_NAME">
+			<Text>Ural River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_VARDAR_NAME">
+			<Text>Vardar River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_VISTULA_NAME">
+			<Text>Vistula River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_VOLGA_NAME">
+			<Text>Volga River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_WAAL_RIVER_NAME">
+			<Text>Waal River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_WADI_AL_BATIN_NAME">
+			<Text>Wadi Al-Batin</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_WADI_AL_RUMMAH_NAME">
+			<Text>Wadi al-Rummah</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_WADI_HANIFA_NAME">
+			<Text>Wadi Hanifa</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_WAIAPU_RIVER_NAME">
+			<Text>Waiapu River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_WAIAU_RIVER_NAME">
+			<Text>Waiau River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_WAIKATO_NAME">
+			<Text>Waikato River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_WAIMAKARIRI_RIVER_NAME">
+			<Text>Waimakariri River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_WAITAKI_RIVER_NAME">
+			<Text>Waitaki River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_WALLAQA_MAYU_NAME">
+			<Text>Wallaqa Mayu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_WARREGO_RIVER_NAME">
+			<Text>Warrego River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_WARTA_RIVER_NAME">
+			<Text>Warta River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_WAZALAFKEN_RIVER_NAME">
+			<Text>Wazalafken River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_WEI_NAME">
+			<Text>Wei River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_WESER_RIVER_NAME">
+			<Text>Weser River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_WHANGANUI_RIVER_NAME">
+			<Text>Whanganui River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_WILLKAMAYU_NAME">
+			<Text>Willkamayu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_WISLOKA_RIVER_NAME">
+			<Text>Wisłoka River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_WUSKWI_SIPI_NAME">
+			<Text>Wuskwi Sipi</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_YAMUNA_RIVER_NAME">
+			<Text>Yamuna River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_YANGTZE_NAME">
+			<Text>Yangtze River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_YELLOW_NAME">
+			<Text>Yellow River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_YENISEI_NAME">
+			<Text>Yenisei River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_YESILIRMAK_RIVER_NAME">
+			<Text>Yeşilırmak River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_YUKON_NAME">
+			<Text>Yukon River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_ZAGYVA_RIVER_NAME">
+			<Text>Zagyva River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_ZAMBEZI_NAME">
+			<Text>Zambezi River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_ZAVKHAN_RIVER_NAME">
+			<Text>Zavkhan River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_RIVER_ZAYANDE_RIVER_NAME">
+			<Text>Zāyandé River</Text>
+		</Replace>
+		<!--Volcanoes-->
+		<Replace Language='en_US' Tag="LOC_VOLCANO_TOOLTIP_STRING">
+			<Text>{1_VolcanoName}</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_VOLCANO_ACTIVE_STRING">
+			<Text>(active)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_VOLCANO_ERUPTING_STRING">
+			<Text>(erupting)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_VOLCANO_AGRI_DAGI_NAME">
+			<Text>Ağrı Dağı</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_VOLCANO_AGUNG_NAME">
+			<Text>Mount Agung</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_VOLCANO_ALLARPS_BJAR_VOLCANO_NAME">
+			<Text>Allarps Bjär Volcano</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_VOLCANO_AMBRYM_NAME">
+			<Text>Ambrym Volcano</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_VOLCANO_ARARAT_NAME">
+			<Text>Mount Ararat</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_VOLCANO_ARTHURS_SEAT_NAME">
+			<Text>Arthur's Seat</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_VOLCANO_ASAMA_NAME">
+			<Text>Mount Asama</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_VOLCANO_ASKJA_NAME">
+			<Text>Askja</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_VOLCANO_AVACHINSKY_NAME">
+			<Text>Avachinsky</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_VOLCANO_BALLS_PYRAMID_NAME">
+			<Text>Ball's Pyramid</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_VOLCANO_BARREN_NAME">
+			<Text>Mount Barren</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_VOLCANO_BAYUDA_NAME">
+			<Text>Bayuda Volcanic Field</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_VOLCANO_BEERENBERG_NAME">
+			<Text>Beerenberg</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_VOLCANO_BEZYMIANNY_NAME">
+			<Text>Bezymianny</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_VOLCANO_BUDJ_BIM_NAME">
+			<Text>Budj Bim</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_VOLCANO_CATOCA_VOLCANO_NAME">
+			<Text>Catoca Volcano</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_VOLCANO_CHHACHANI_NAME">
+			<Text>Chhachani</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_VOLCANO_CITLALTEPETL_NAME">
+			<Text>Citlaltépetl</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_VOLCANO_CHI_GAG_NAME">
+			<Text>Chi'gag</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_VOLCANO_COLIMA_NAME">
+			<Text>Volcán de Colima</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_VOLCANO_COSIGUINA_NAME">
+			<Text>Cosigüina</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_VOLCANO_DAMAVAND_NAME">
+			<Text>Damavand</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_VOLCANO_ELBRUS_NAME">
+			<Text>Mount Elbrus</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_VOLCANO_EREBUS_NAME">
+			<Text>Mount Erebus</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_VOLCANO_ERTA_ALE_NAME">
+			<Text>Erta Ale</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_VOLCANO_ETNA_NAME">
+			<Text>Mount Etna</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_VOLCANO_FRUALID_VOLCANO_NAME">
+			<Text>Frualid Volcano</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_VOLCANO_FUJI_NAME">
+			<Text>Mount Fuji</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_VOLCANO_GALERAS_NAME">
+			<Text>Galeras</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_VOLCANO_GALLABJER_VOLCANO_NAME">
+			<Text>Gällabjer Volcano</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_VOLCANO_GALUNGGUNG_NAME">
+			<Text>Galunggung</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_VOLCANO_GRIMSVOTN_NAME">
+			<Text>Grímsvötn</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_VOLCANO_HAKON_MOSBY_VOLCANO_NAME">
+			<Text>Håkon Mosby Volcano</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_VOLCANO_HALEAKALA_NAME">
+			<Text>Haleakalā</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_VOLCANO_HALLASAN_NAME">
+			<Text>Hallasan</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_VOLCANO_HAMPATU_NAME">
+			<Text>Hamp'atu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_VOLCANO_HARRAT_KHAYBAR_NAME">
+			<Text>Harrat Khaybar</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_VOLCANO_HUAYNAPUTINA_NAME">
+			<Text>Waynaputina</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_VOLCANO_HUDSON_NAME">
+			<Text>Mount Hudson</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_VOLCANO_ILOPANGO_NAME">
+			<Text>Ilopango Volcano</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_VOLCANO_KAZBEK_NAME">
+			<Text>Mount Kazbek</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_VOLCANO_KELUD_NAME">
+			<Text>Kelud</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_VOLCANO_KHORGO_NAME">
+			<Text>Khorgo</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_VOLCANO_KILAUEA_NAME">
+			<Text>Kīlauea</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_VOLCANO_KORYAKSKY_NAME">
+			<Text>Koryaksky</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_VOLCANO_KRAKATOA_NAME">
+			<Text>Krakatoa</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_VOLCANO_LAACHER_SEE_NAME">
+			<Text>Laacher See</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_VOLCANO_LARDERELLO_VOLCANO_NAME">
+			<Text>Larderello Volcano</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_VOLCANO_LAUTARO_VOLCANO_NAME">
+			<Text>Lautaro Volcano</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_VOLCANO_LILLO_VOLCANO_NAME">
+			<Text>Lillö Volcano</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_VOLCANO_LLAIMA_VOLCANO_NAME">
+			<Text>Llaima Volcano</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_VOLCANO_LONQUIMAY_VOLCANO_NAME">
+			<Text>Lonquimay Volcano</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_VOLCANO_MAUNA_LOA_NAME">
+			<Text>Mauna Loa</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_VOLCANO_MAWSON_PEAK_NAME">
+			<Text>Mawson Peak</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_VOLCANO_MAYON_NAME">
+			<Text>Mayon</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_VOLCANO_MERAPI_NAME">
+			<Text>Mount Merapi</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_VOLCANO_METHANA_VOLCANO_NAME">
+			<Text>Methana Volcano</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_VOLCANO_MOUNT_ERCIYES_NAME">
+			<Text>Mount Erciyes</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_VOLCANO_MOUNT_HASAN_NAME">
+			<Text>Mount Hasan</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_VOLCANO_MOUNT_HYPIPAMEE_NAME">
+			<Text>Mount Hypipamee</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_VOLCANO_MOUNT_NAPIER_NAME">
+			<Text>Mount Napier</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_VOLCANO_MOUNT_SABALAN_NAME">
+			<Text>Mount Sabalan</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_VOLCANO_MOUNT_TARANAKI_NAME">
+			<Text>Taranaki Maunga</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_VOLCANO_MOUNT_TIBROGARGAN_NAME">
+			<Text>Mount Tibrogargan</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_VOLCANO_MOUNT_TONGARIRO_NAME">
+			<Text>Mount Tongariro</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_VOLCANO_NABRO_NAME">
+			<Text>Nabro Volcano</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_VOLCANO_NEMRUT_NAME">
+			<Text>Nemrut</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_VOLCANO_NEVADO_DEL_RUIZ_NAME">
+			<Text>Nevado del Ruiz</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_VOLCANO_NGAURUHOE_NAME">
+			<Text>Mount Ngauruhoe</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_VOLCANO_NISYROS_NAME">
+			<Text>Nisyros</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_VOLCANO_NOVARUPTA_NAME">
+			<Text>Novarupta</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_VOLCANO_NYIRAGONGO_NAME">
+			<Text>Mount Nyiragongo</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_VOLCANO_OJOS_DEL_SALADO_NAME">
+			<Text>Ojos del Salado</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_VOLCANO_OSTRZYCA_NAME">
+			<Text>Ostrzyca Volcano</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_VOLCANO_PAEKTU_NAME">
+			<Text>Mount Paektu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_VOLCANO_PELEE_NAME">
+			<Text>Mount Pelée</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_VOLCANO_PHANOM_RUNG_VOLCANO_NAME">
+			<Text>Phanom Rung Volcano</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_VOLCANO_PHLEGRAEAN_FIELDS_NAME">
+			<Text>Phlegraean Fields</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_VOLCANO_PICO_DO_CABUGI_NAME">
+			<Text>Pico do Cabugi</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_VOLCANO_PIHANGA_NAME">
+			<Text>Pihanga</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_VOLCANO_PILLANZEGUN_NAME">
+			<Text>Pillañzegüñ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_VOLCANO_PINATUBO_NAME">
+			<Text>Mount Pinatubo</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_VOLCANO_POPOCATEPETL_NAME">
+			<Text>Popōcatepētl</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_VOLCANO_PUY_DE_DOME_NAME">
+			<Text>Puy de Dôme</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_VOLCANO_QUIZAPU_NAME">
+			<Text>Quizapú</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_VOLCANO_QURUPUNA_NAME">
+			<Text>Qurupuna</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_VOLCANO_RAINIER_NAME">
+			<Text>Mount Rainier</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_VOLCANO_RALLATE_VOLCANO_NAME">
+			<Text>Rallate Volcano</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_VOLCANO_RANGITOTO_NAME">
+			<Text>Rangitoto</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_VOLCANO_RUAPEHU_NAME">
+			<Text>Mount Ruapehu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_VOLCANO_RUCAPILLAN_NAME">
+			<Text>Rucapillan</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_VOLCANO_SAHAND_NAME">
+			<Text>Sahand</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_VOLCANO_SAINT_HELENS_NAME">
+			<Text>Mount Saint Helens</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_VOLCANO_SAKURAJIMA_NAME">
+			<Text>Sakurajima</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_VOLCANO_SANTA_MARIA_NAME">
+			<Text>Gagxanul</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_VOLCANO_SAWANQAYA_NAME">
+			<Text>Sawanqaya</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_VOLCANO_SCENERY_NAME">
+			<Text>Mount Scenery</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_VOLCANO_SEMERU_NAME">
+			<Text>Mount Semeru</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_VOLCANO_SHIVELUCH_NAME">
+			<Text>Shiveluch</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_VOLCANO_SOLLIPULLI_NAME">
+			<Text>Sollipulli</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_VOLCANO_SOUFRIERE_NAME">
+			<Text>Soufrière Hills Volcano</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_VOLCANO_STROMBOLI_NAME">
+			<Text>Stromboli</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_VOLCANO_TAAL_NAME">
+			<Text>Taal Volcano</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_VOLCANO_TAMBORA_NAME">
+			<Text>Mount Tambora</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_VOLCANO_TARAWERA_NAME">
+			<Text>Mount Tarawera</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_VOLCANO_TAUPO_NAME">
+			<Text>Taupo Volcano</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_VOLCANO_TEIDE_NAME">
+			<Text>Teide</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_VOLCANO_THERA_NAME">
+			<Text>Thera</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_VOLCANO_TSEAX_CONE_NAME">
+			<Text>Tseax Cone</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_VOLCANO_ULAWUN_NAME">
+			<Text>Ulawun</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_VOLCANO_UNDARA_VOLCANO_NAME">
+			<Text>Undara Volcano</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_VOLCANO_UNZEN_NAME">
+			<Text>Mount Unzen</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_VOLCANO_UWINAS_NAME">
+			<Text>Uwinas</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_VOLCANO_VULSINI_NAME">
+			<Text>Vulsini</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_VOLCANO_WHAKAARI_NAME">
+			<Text>Whakaari</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_VOLCANO_YAK_LOUM_NAME">
+			<Text>Yeak Laom Volcano</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_VOLCANO_YELLOWSTONE_NAME">
+			<Text>Yellowstone Caldera</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_VOLCANO_ZUIDWAL_VOLCANO_NAME">
+			<Text>Zuidwal Volcano</Text>
+		</Replace>
+		<!--Mountains-->
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_AKAISHI_NAME">
+			<Text>Akaishi Mountains</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_ALADAGH_MOUNTAINS_NAME">
+			<Text>Aladagh Mountains</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_ALADAGLAR_MOUNTAINS_NAME">
+			<Text>Aladağlar Mountains</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_ALASKAN_NAME">
+			<Text>Alaskan Range</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_ALAY_MOUNTAINS_NAME">
+			<Text>Alay Mountains</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_ALBORZ_NAME">
+			<Text>Alborz Mountains</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_ALEUTIANS_NAME">
+			<Text>Aleutian Range</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_ALPS_NAME">
+			<Text>Alps</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_ALTAI_NAME">
+			<Text>Altai Mountains</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_ANDES_NAME">
+			<Text>Andes</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_ANNAMITES_NAME">
+			<Text>Annamite Mountains</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_ANTILIBANUS_MOUNTAINS_NAME">
+			<Text>Antilibanus Mountains</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_APENNINES_NAME">
+			<Text>Apennine Mountains</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_APPALACHIANS_NAME">
+			<Text>Appalachian Mountains</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_ARAKAN_NAME">
+			<Text>Arakan Mountains</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_ARAVALLI_RANGE_NAME">
+			<Text>Aravalli Range</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_ARROCHAR_ALPS_NAME">
+			<Text>Arrochar Alps</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_ASIR_NAME">
+			<Text>Asir Mountains</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_ATLAS_NAME">
+			<Text>Atlas Mountains</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_BAEKDUDAEGAN_NAME">
+			<Text>Baekdudaegan</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_BAIKAL_MOUNTAINS_NAME">
+			<Text>Baikal Mountains</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_BALKANS_NAME">
+			<Text>Balkan Mountains</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_BALELES_MOUNTAINS_NAME">
+			<Text>Baleles Mountains</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_BAMBOUK_MOUNTAINS_NAME">
+			<Text>Bambouk Mountains</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_BANDIAGARA_ESCARPMENT_NAME">
+			<Text>Bandiagara Escarpment</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_BARGYLUS_MOUNTAINS_NAME">
+			<Text>Bargylus Mountains</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_BARISAN_NAME">
+			<Text>Barisan Mountains</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_BESKIDY_MOUNTAINS_NAME">
+			<Text>Beskidy Mountains</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_BIESZCZADY_MOUNTAINS_NAME">
+			<Text>Bieszczady Mountains</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_BLACK_FOREST_MOUNTAINS_NAME">
+			<Text>Black Forest Mountains</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_BLUE_MOUNTAINS_NAME">
+			<Text>Blue Mountains</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_BUKK_MOUNTAINS_NAME">
+			<Text>Bükk Mountains</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_CAIRNGORMS_NAME">
+			<Text>Cairngorms</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_CANTABRICA_NAME">
+			<Text>Cantabrian Mountains</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_CARPATHIANS_NAME">
+			<Text>Carpathian Mountains</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_CASCADES_NAME">
+			<Text>Cascade Range</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_CAUCASUS_NAME">
+			<Text>Caucasus Mountains</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_CHERSKY_NAME">
+			<Text>Chersky Range</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_CHEVIOT_HILLS_NAME">
+			<Text>Cheviot Hills</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_CHIANTI_MOUNTAINS_NAME">
+			<Text>Chianti Mountains</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_COAST_NAME">
+			<Text>Coast Mountains</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_CORDILLERA_DE_QUEULE_NAME">
+			<Text>Cordillera de Queule</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_CORDILLERA_DEL_CONDOR_NAME">
+			<Text>Cordillera del Cóndor</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_CORDILLERA_DEL_MAHUIDANCHE_NAME">
+			<Text>Cordillera del Mahuidanche</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_CORDILLERAS_BETICAS_NAME">
+			<Text>Cordilleras Béticas</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_CRYSTAL_MOUNTAINS_NAME">
+			<Text>Crystal Mountains</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_CUILLIN_NAME">
+			<Text>Cuillin</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_CUMBRIAN_FELLS_NAME">
+			<Text>Cumbrian Fells</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_DAMREI_MOUNTAINS_NAME">
+			<Text>Dâmrei Mountains</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_DANGREK_MOUNTAINS_NAME">
+			<Text>Dângrêk Mountains</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_DINARIDES_NAME">
+			<Text>Dinaric Alps</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_DOLOMITES_NAME">
+			<Text>Dolomites</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_DONGDAE_MOUNTAINS_NAME">
+			<Text>Dongdae Mountains</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_DOVREFJELL_NAME">
+			<Text>Dovrefjell</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_DRAKENSBERG_NAME">
+			<Text>Drakensberg</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_ESPINHACO_MOUNTAINS_NAME">
+			<Text>Espinhaço Mountains</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_GAGRA_RANGE_NAME">
+			<Text>Gagra Range</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_GALICIAN_MASSIF_NAME">
+			<Text>Galician Massif</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_GEBEL_AL_AIN_NAME">
+			<Text>Gebel al-Ain</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_GHATS_NAME">
+			<Text>Ghats</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_GISSAR_RANGE_NAME">
+			<Text>Gissar Range</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_GRAMPIANS_NAME">
+			<Text>Grampian Mountains</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_GREAT_DIVIDING_NAME">
+			<Text>Great Dividing Range</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_GWAZHAL_NAME">
+			<Text>Gwazhał</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_HAMERSLEY_RANGE_NAME">
+			<Text>Hamersley Range</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_HAMRIN_MOUNTAINS_NAME">
+			<Text>Hamrin Mountains</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_HARDANGERVIDDA_NAME">
+			<Text>Hardangervidda</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_HARZ_NAME">
+			<Text>Harz</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_HENGDUAN_NAME">
+			<Text>Hengduan Mountains</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_HIDA_MOUNTAINS_NAME">
+			<Text>Hida Mountains</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_HIJAZ_MOUNTAINS_NAME">
+			<Text>Hijaz Mountains</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_HIMALAYAS_NAME">
+			<Text>Himalayas</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_HINDU_KUSH_NAME">
+			<Text>Hindu Kush</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_HOGGAR_NAME">
+			<Text>Hoggar Mountains</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_HOMBORI_MOUNTAINS_NAME">
+			<Text>Hombori Mountains</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_HONDSRUG_NAME">
+			<Text>Hondsrug</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_HUIARAU_RANGE_NAME">
+			<Text>Huiarau Range</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_IYANG_ARGAPURA_MOUNTAINS_NAME">
+			<Text>Iyang-Argapura Mountains</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_JABAL_HARAZ_NAME">
+			<Text>Jabal Haraz</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_JEBEL_ABYAD_PLATEAU_NAME">
+			<Text>Jebel Abyad Plateau</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_JEBEL_NAGASHUSH_NAME">
+			<Text>Jebel Nagashush</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_JOTUNHEIMEN_NAME">
+			<Text>Jotunheimen</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_JURA_MOUNTAINS_NAME">
+			<Text>Jura Mountains</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_KACKAR_MOUNTAINS_NAME">
+			<Text>Kaçkar Mountains</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_KAIKOURA_RANGE_NAME">
+			<Text>Kaikoura Range</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_KAIMAI_RANGE_NAME">
+			<Text>Kaimai Range</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_KAMIKOCHI_NAME">
+			<Text>Kamikōchi</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_KANANASKIS_RANGE_NAME">
+			<Text>Kananaskis Range</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_KARAKORAM_NAME">
+			<Text>Karakoram Range</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_KARKAS_MOUNTAINS_NAME">
+			<Text>Karkas Mountains</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_KARKONOSZE_MOUNTAINS_NAME">
+			<Text>Karkonosze Mountains</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_KEBNEKAISE_MASSIF_NAME">
+			<Text>Kebnekaise Massif</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_KHANGAI_MOUNTAINS_NAME">
+			<Text>Khangai Mountains</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_KHENTII_MOUNTAINS_NAME">
+			<Text>Khentii Mountains</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_KHINGAN_NAME">
+			<Text>Khingan Mountains</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_KISO_MOUNTAINS_NAME">
+			<Text>Kiso Mountains</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_KOPET_DAG_RANGE_NAME">
+			<Text>Kopet Dag Range</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_KOSZEG_MOUNTAINS_NAME">
+			<Text>Kőszeg Mountains</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_KOYTENDAG_RANGE_NAME">
+			<Text>Köýtendag Range</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_KRAVANH_MOUNTAINS_NAME">
+			<Text>Krâvanh Mountains</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_KUNLUN_NAME">
+			<Text>Kunlun Mountains</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_LEBANON_NAME">
+			<Text>Lebanon Mountains</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_LEBOMBO_MOUNTAINS_NAME">
+			<Text>Lebombo Mountains</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_LEFKA_ORI_NAME">
+			<Text>Lefka Ori</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_LIKHI_RANGE_NAME">
+			<Text>Likhi Range</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_LOWER_RHINE_HEIGHTS_NAME">
+			<Text>Lower Rhine Heights</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_MACDONNELL_RANGE_NAME">
+			<Text>MacDonnell Range</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_MACKENZIE_NAME">
+			<Text>Mackenzie Mountains</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_MANDING_MOUNTAINS_NAME">
+			<Text>Manding Mountains</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_MANTIQUEIRA_NAME">
+			<Text>Mantiqueira Mountains</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_MASSIF_CENTRAL_NAME">
+			<Text>Massif Central</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_MATRA_MOUNTAINS_NAME">
+			<Text>Mátra Mountains</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_MERATUS_MOUNTAINS_NAME">
+			<Text>Meratus Mountains</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_MESKHETI_RANGE_NAME">
+			<Text>Meskheti Range</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_MONADH_LIATH_NAME">
+			<Text>Monadh Liath</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_MONT_BLANC_MASSIF_NAME">
+			<Text>Mont Blanc Massif</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_MONTES_DE_TOLEDO_NAME">
+			<Text>Montes de Toledo</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_NAHUELBUTA_RANGE_NAME">
+			<Text>Nahuelbuta Range</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_NEBLINA_MASSIF_NAME">
+			<Text>Neblina Massif</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_NIKANASSIN_RANGE_NAME">
+			<Text>Nikanassin Range</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_NORRA_STORFJALLET_NAME">
+			<Text>Norra Storfjället</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_NORTH_YORK_MOORS_NAME">
+			<Text>North York Moors</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_NUBA_NAME">
+			<Text>Nuba Mountains</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_NUR_MOUNTAINS_NAME">
+			<Text>Nur Mountains</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_OWEN_STANLEY_NAME">
+			<Text>Owen Stanley Range</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_ORE_MOUNTAINS_NAME">
+			<Text>Ore Mountains</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_PACARAIMA_MOUNTAINS_NAME">
+			<Text>Pacaraima Mountains</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_PAMIRS_NAME">
+			<Text>Pamir Mountains</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_PATKAI_NAME">
+			<Text>Patkai Range</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_PELION_RANGE_NAME">
+			<Text>Pelion Range</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_PENNINE_CHAIN_NAME">
+			<Text>Pennines</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_PINDUS_NAME">
+			<Text>Pindus Mountains</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_PIR_PANJAL_RANGE_NAME">
+			<Text>Pir Panjal Range</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_PONTIC_ALPS_NAME">
+			<Text>Pontic Alps</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_PURVANCHAL_RANGE_NAME">
+			<Text>Purvanchal Range</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_PUTORANA_PLATEAU_NAME">
+			<Text>Putorana Plateau</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_PYRENEES_NAME">
+			<Text>Pyrenees</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_QANDIL_MOUNTAINS_NAME">
+			<Text>Qandil Mountains</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_QINLING_NAME">
+			<Text>Qinling</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_RAUKUMARA_RANGE_NAME">
+			<Text>Raukumara Range</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_RED_SEA_HILLS_NAME">
+			<Text>Red Sea Hills</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_RHODOPES_NAME">
+			<Text>Rhodope Mountains</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_RIMUTAKA_RANGE_NAME">
+			<Text>Rimutaka Range</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_ROCKIES_NAME">
+			<Text>Rocky Mountains</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_RONDANE_MASSIF_NAME">
+			<Text>Rondane Massif</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_RWENZORIS_NAME">
+			<Text>Rwenzori Mountains</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_SALLANDSE_HILL_RIDGE_NAME">
+			<Text>Sallandse Hill Ridge</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_SARAWAT_MOUNTAINS_NAME">
+			<Text>Sarawat Mountains</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_SATPURA_RANGE_NAME">
+			<Text>Satpura Range</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_SAYAN_MOUNTAINS_NAME">
+			<Text>Sayan Mountains</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_SCANDES_NAME">
+			<Text>Scandes</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_SEMIENS_NAME">
+			<Text>Semien Mountains</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_SERRA_DA_CHELA_NAME">
+			<Text>Serra da Chela</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_SERRA_DA_LEBA_NAME">
+			<Text>Serra da Leba</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_SERRA_DO_MAR_NAME">
+			<Text>Serra do Mar</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_SERRA_DO_MOCO_NAME">
+			<Text>Serra do Môco</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_SERRA_DOS_ORGAOS_NAME">
+			<Text>Serra dos Órgãos</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_SERRA_LONDANUIMA_NAME">
+			<Text>Serra Londanuima</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_SHROPSHIRE_HILLS_NAME">
+			<Text>Shropshire Hills</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_SIBILLINI_MOUNTAINS_NAME">
+			<Text>Sibillini Mountains</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_SIERRA_CHICHINAUTZIN_NAME">
+			<Text>Sierra Chichinautzin</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_SIERRA_DE_LOS_TUXTLAS_NAME">
+			<Text>Sierra de Los Tuxtlas</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_SIERRA_DE_TAMAULIPAS_NAME">
+			<Text>Sierra de Tamaulipas</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_SIERRA_MADRES_NAME">
+			<Text>Sierra Madre</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_SIERRA_NEVADAS_NAME">
+			<Text>Sierra Nevada</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_SINAI_HIGH_MOUNTAINS_NAME">
+			<Text>Sinai High Mountains</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_SINJAR_MOUNTAINS_NAME">
+			<Text>Sinjar Mountains</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_SNOWY_MOUNTAINS_NAME">
+			<Text>Snowy Mountains</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_SOBAEK_MOUNTAINS_NAME">
+			<Text>Sobaek Mountains</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_STANOVOY_MOUNTAINS_NAME">
+			<Text>Stanovoy Mountains</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_SYLAN_NAME">
+			<Text>Sylan</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_TAEBAEK_MOUNTAINS_NAME">
+			<Text>Taebaek Mountains</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_TALYSH_MOUNTAINS_NAME">
+			<Text>Talysh Mountains</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_TARARUA_RANGE_NAME">
+			<Text>Tararua Range</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_TATRA_MOUNTAINS_NAME">
+			<Text>Tatra Mountains</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_TAURUS_NAME">
+			<Text>Taurus Mountains</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_TAYGETUS_MASSIF_NAME">
+			<Text>Taygetus Massif</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_TENGGER_MASSIF_NAME">
+			<Text>Tengger Massif</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_THURINGIAN_FOREST_MOUNTAINS_NAME">
+			<Text>Thuringian Forest Mountains</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_TIBESTI_NAME">
+			<Text>Tibesti Mountains</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_TIEN_SHAN_NAME">
+			<Text>Tian Shan</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_TIRITIRI_O_TE_MOANA_NAME">
+			<Text>Tiritiri-o-te-moana</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_TITIWANGSA_NAME">
+			<Text>Titiwangsa Mountains</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_TRIALETI_RANGE_NAME">
+			<Text>Trialeti Range</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_URALS_NAME">
+			<Text>Ural Mountains</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_URUPAMPA_RANGE_NAME">
+			<Text>Urupampa Range</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_UTRECHT_HILL_RIDGE_NAME">
+			<Text>Utrecht Hill Ridge</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_VELUWE_NAME">
+			<Text>Veluwe</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_VERKHOYANSK_NAME">
+			<Text>Verkhoyansk Khrebet</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_VERMILION_RANGE_NAME">
+			<Text>Vermilion Range</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_VERMIO_MOUNTAINS_NAME">
+			<Text>Vermio Mountains</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_VINDHAYA_RANGE_NAME">
+			<Text>Vindhaya Range</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_VORAS_MOUNTAIN_RANGE_NAME">
+			<Text>Voras Mountain Range</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_VOSGES_NAME">
+			<Text>Vosges</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_WAYTAPALLANA_WALLA_NAME">
+			<Text>Waytapallana Walla</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_WAYWASH_WALLA_NAME">
+			<Text>Waywash Walla</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_WILLKANUTA_RANGE_NAME">
+			<Text>Willkanuta Range</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_WILLKAPAMPA_RANGE_NAME">
+			<Text>Willkapampa Range</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_YANA_WALLA_NAME">
+			<Text>Yana Walla</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_YEONGNAM_ALPS_NAME">
+			<Text>Yeongnam Alps</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_YURAQ_WALLA_NAME">
+			<Text>Yuraq Walla</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_ZAGROS_NAME">
+			<Text>Zagros Mountains</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_ZARAFSHAN_RANGE_NAME">
+			<Text>Zarafshan Range</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_MOUNTAIN_ZEMPOALTEPETL_NAME">
+			<Text>Zempoaltépetl</Text>
+		</Replace>
+		<!--Deserts-->
+		<Replace Language='en_US' Tag="LOC_NAMED_DESERT_ACCONA_DESERT_NAME">
+			<Text>Accona Desert</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_DESERT_AL_DAHNA_DESERT_NAME">
+			<Text>Al-Dahnā Desert</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_DESERT_AL_NAFUD_NAME">
+			<Text>Al-Nafūd</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_DESERT_ARABIAN_NAME">
+			<Text>Arabian Desert</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_DESERT_ATACAMA_NAME">
+			<Text>Atacama Desert</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_DESERT_BAYUDA_DESERT_NAME">
+			<Text>Bayuda Desert</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_DESERT_BLEDOWSKA_DESERT_NAME">
+			<Text>Błędowska Desert</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_DESERT_CHIHUAHUAN_NAME">
+			<Text>Chihuahuan Desert</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_DESERT_COLORADO_PLATEAU_NAME">
+			<Text>Colorado Plateau Desert</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_DESERT_DANAKIL_NAME">
+			<Text>Danakil Desert</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_DESERT_DASHT_E_MARGO_NAME">
+			<Text>Dasht-e Margo</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_DESERT_EL_DJOUF_NAME">
+			<Text>El Djouf</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_DESERT_GIBSON_NAME">
+			<Text>Gibson Desert</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_DESERT_GOBI_NAME">
+			<Text>Gobi Desert</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_DESERT_GREAT_BASIN_NAME">
+			<Text>Great Basin Desert</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_DESERT_GREAT_SAND_SEA_NAME">
+			<Text>Great Sand Sea</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_DESERT_GREAT_SANDY_NAME">
+			<Text>Great Sandy Desert</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_DESERT_GREAT_VICTORIA_NAME">
+			<Text>Great Victoria Desert</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_DESERT_HAMAD_NAME">
+			<Text>Hamad Desert</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_DESERT_KALAHARI_NAME">
+			<Text>Kalahari Desert</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_DESERT_KARAKUM_NAME">
+			<Text>Karakum Desert</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_DESERT_KARAPINAR_DESERT_NAME">
+			<Text>Karapınar Desert</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_DESERT_KAVIR_NAME">
+			<Text>Dasht-e Kavir</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_DESERT_KYZYLKUM_NAME">
+			<Text>Kyzylkum Desert</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_DESERT_LEMNOS_DESERT_NAME">
+			<Text>Lemnos Desert</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_DESERT_LIBYAN_NAME">
+			<Text>Libyan Desert</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_DESERT_LUT_NAME">
+			<Text>Dasht-e Lut</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_DESERT_MANIOTOTO_NAME">
+			<Text>Maniototo</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_DESERT_MOJAVE_NAME">
+			<Text>Mojave Desert</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_DESERT_NAMIB_NAME">
+			<Text>Namib Desert</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_DESERT_NUBIAN_NAME">
+			<Text>Nubian Desert</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_DESERT_OGADEN_NAME">
+			<Text>Ogaden Desert</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_DESERT_PATAGONIAN_NAME">
+			<Text>Patagonian Desert</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_DESERT_QATTARA_DEPRESSION_NAME">
+			<Text>Qattara Depression</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_DESERT_QOZ_ABU_DULU_NAME">
+			<Text>Qoz Abu Dulu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_DESERT_RANGIPO_NAME">
+			<Text>Rangipo Desert</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_DESERT_REGISTAN_NAME">
+			<Text>Registan Desert</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_DESERT_RUB_AL_KHALI_NAME">
+			<Text>Rub' al Khali</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_DESERT_SAHARA_NAME">
+			<Text>Sahara Desert</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_DESERT_SECHURA_NAME">
+			<Text>Sechura Desert</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_DESERT_SIMPSON_NAME">
+			<Text>Simpson Desert</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_DESERT_SINAI_NAME">
+			<Text>Sinai Desert</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_DESERT_SONORAN_NAME">
+			<Text>Sonoran Desert</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_DESERT_TABERNAS_NAME">
+			<Text>Tabernas Desert</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_DESERT_TAKLAMAKAN_NAME">
+			<Text>Taklamakan Desert</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_DESERT_TANAMI_NAME">
+			<Text>Tanami Desert</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_DESERT_TANEZROUFT_BASIN_NAME">
+			<Text>Tanezrouft Basin</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_DESERT_TENGGER_SAND_SEA_NAME">
+			<Text>Tengger Sand Sea</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_DESERT_THAL_NAME">
+			<Text>Thal Desert</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_DESERT_THAR_NAME">
+			<Text>Thar Desert</Text>
+		</Replace>
+		<!--Lakes-->
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_AGUA_VERMELHA_NAME">
+			<Text>Agua Vermelha</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_ALTYEVATNET_NAME">
+			<Text>Altyevatnet</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_AMANZAMNYAMA_NAME">
+			<Text>aManzamnyama</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_ARAL_SEA_NAME">
+			<Text>Aral Sea</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_BAENGNOKDAM_NAME">
+			<Text>Baengnokdam</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_BAKHTEGAN_LAKE_NAME">
+			<Text>Bakhtegan Lake</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_BASSENTHWAITE_LAKE_NAME">
+			<Text>Bassenthwaite Lake</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_BLASJO_NAME">
+			<Text>Blåsjø</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_BOEUNG_KAK_NAME">
+			<Text>Boeung Kak</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_BOURGET_LAKE_NAME">
+			<Text>Bourget Lake</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_BUDI_LAKE_NAME">
+			<Text>Budi Lake</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_BUWELNO_LAKE_NAME">
+			<Text>Buwełno Lake</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_CABURGUA_LAKE_NAME">
+			<Text>Caburgua Lake</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_CHAO_LAKE_NAME">
+			<Text>Chao Lake</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_CHINCHAYQUCHA_NAME">
+			<Text>Chinchayqucha</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_CONISON_LAKE_NAME">
+			<Text>Conison Lake</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_DABIE_LAKE_NAME">
+			<Text>Dąbie Lake</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_DAL_LAKE_NAME">
+			<Text>Dal Lake</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_DERWENTWATER_LAKE_NAME">
+			<Text>Derwentwater Lake</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_DIPOR_BIL_NAME">
+			<Text>Dipor Bil</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_DOBSKIE_LAKE_NAME">
+			<Text>Dobskie Lake</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_DOIRAN_LAKE_NAME">
+			<Text>Doiran Lake</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_DONGTING_LAKE_NAME">
+			<Text>Dongting Lake</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_EL_BRICIAL_NAME">
+			<Text>El Bricial</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_FELDGES_LAKE_NAME">
+			<Text>Feldges Lake</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_FEMUNDEN_NAME">
+			<Text>Femunden</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_FUCINE_LAKE_NAME">
+			<Text>Fucine Lake</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_GALLETU_LAKE_NAME">
+			<Text>Galletué Lake</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_GREAT_BEAR_LAKE_NAME">
+			<Text>Great Bear Lake</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_GREAT_BITTER_LAKE_NAME">
+			<Text>Great Bitter Lake</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_GREAT_SALT_LAKE_NAME">
+			<Text>Great Salt Lake</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_GREAT_SLAVE_LAKE_NAME">
+			<Text>Great Slave Lake</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_GREENLEE_LOUGH_NAME">
+			<Text>Greenlee Lough</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_GUARAPIRANGA_NAME">
+			<Text>Guarapiranga</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_HAMUN_LAKE_NAME">
+			<Text>Hamun Lake</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_HAWR_AS_SADIYAH_NAME">
+			<Text>Hawr as Sa'diyah</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_HEAVEN_LAKE_NAME">
+			<Text>Heaven Lake</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_HJALMAREN_NAME">
+			<Text>Hjälmaren</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_HONGZE_LAKE_NAME">
+			<Text>Hongze Lake</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_HORNINDALSVATNET_NAME">
+			<Text>Hornindalsvatnet</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_HULUN_LAKE_NAME">
+			<Text>Hulun Lake</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_ICHKEUL_LAKE_NAME">
+			<Text>Ichkeul Lake</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_ILIAMNA_LAKE_NAME">
+			<Text>Iliamna Lake</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_ISSYK_KUL_LAKE_NAME">
+			<Text>Issyk-Kul Lake</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_KARTSAKHI_LAKE_NAME">
+			<Text>Kartsakhi Lake</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_KHAR_US_LAKE_NAME">
+			<Text>Khar-Us Lake</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_KHOVSGOL_LAKE_NAME">
+			<Text>Khövsgöl Lake</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_KHYARGAS_LAKE_NAME">
+			<Text>Khyargas Lake</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_KILUNDA_LAKE_NAME">
+			<Text>Kilunda Lake</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_KOLLERU_LAKE_NAME">
+			<Text>Kolleru Lake</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_KONIGSSEE_NAME">
+			<Text>Königssee</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_KOSI_LAKE_NAME">
+			<Text>Kosi Lake</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAC_DE_GRAND_LIEU_NAME">
+			<Text>Lac de Grand-Lieu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAGOA_DOS_PATOS_NAME">
+			<Text>Lagoa dos Patos</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAGUNA_DE_BAY_NAME">
+			<Text>Laguna de Baý</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_ADAPASKAW_NAME">
+			<Text>Lake Aðapaskāw</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_AIGUEBELETTE_NAME">
+			<Text>Lake Aiguebelette</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_ALAKOL_NAME">
+			<Text>Lake Alakol</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_ALBERT_NAME">
+			<Text>Lake Albert</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_AMADEUS_NAME">
+			<Text>Lake Amadeus</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_AMMER_NAME">
+			<Text>Lake Ammer</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_ANNECY_NAME">
+			<Text>Lake Annecy</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_ANTOGO_NAME">
+			<Text>Lake Antogo</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_AOUGOUNDOU">
+			<Text>Lake Aougoundou</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_ATITLAN_NAME">
+			<Text>Lake Atitlán</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_BAIKAL_NAME">
+			<Text>Lake Baikal</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_BALATON_NAME">
+			<Text>Lake Balaton</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_BALKHASH_NAME">
+			<Text>Lake Balkhash</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_BANGWEULU_NAME">
+			<Text>Lake Bangweulu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_BARDAWIL_NAME">
+			<Text>Lake Bardawil</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_BENACUS_NAME">
+			<Text>Lake Benacus</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_BEYSEHIR_NAME">
+			<Text>Lake Beyşehir</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_BIWA_NAME">
+			<Text>Lake Biwa</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_BOLSENA_NAME">
+			<Text>Lake Bolsena</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_BRACCIANO_NAME">
+			<Text>Lake Bracciano</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_BUJO_NAME">
+			<Text>Lake Bujon</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_BURDUR_NAME">
+			<Text>Lake Burdur</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_CARNEGIE_NAME">
+			<Text>Lake Carnegie</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_CHALCO_NAME">
+			<Text>Lake Chalco</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_CHAMPLAIN_NAME">
+			<Text>Lake Champlain</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_CHIEMSEE_NAME">
+			<Text>Lake Chiemsee</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_CHON_NAME">
+			<Text>Lake Chon</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_CONSTANCE_NAME">
+			<Text>Lake Constance</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_COPAIS_NAME">
+			<Text>Lake Copais</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_DEBO_NAME">
+			<Text>Lake Débo</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_DISAPPOINTMENT_NAME">
+			<Text>Lake Disappointment</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_EGIRDIR_NAME">
+			<Text>Lake Eğirdir</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_ENOL_NAME">
+			<Text>Lake Enol</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_ERCINA_NAME">
+			<Text>Lake Ercina</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_ERIE_NAME">
+			<Text>Lake Erie</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_EYRE_NAME">
+			<Text>Lake Eyre</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_FAGUIBINE_NAME">
+			<Text>Lake Faguibine</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_FERTO_NAME">
+			<Text>Lake Fertő</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_FROME_NAME">
+			<Text>Lake Frome</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_GENEVA_NAME">
+			<Text>Lake Geneva</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_GOPLO_NAME">
+			<Text>Lake Gopło</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_GREVELINGEN_NAME">
+			<Text>Lake Grevelingen</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_HABBANIYAH_NAME">
+			<Text>Lake Habbaniyah</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_HAMMAR_NAME">
+			<Text>Lake Hammar</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_HAUROKO_NAME">
+			<Text>Lake Hauroko</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_HEVIZ_NAME">
+			<Text>Lake Hévíz</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_HURON_NAME">
+			<Text>Lake Huron</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_IDKU_NAME">
+			<Text>Lake Idku</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_INAWASHIRO_NAME">
+			<Text>Lake Inawashiro</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_ISEO_NAME">
+			<Text>Lake Iseo</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_IZNIK_NAME">
+			<Text>Lake Iznik</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_KARLA_NAME">
+			<Text>Lake Karla</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_KASUMIGAURA_NAME">
+			<Text>Lake Kasumigaura</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_KAWAGUCHI_NAME">
+			<Text>Lake Kawaguchi</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_KHANKA_NAME">
+			<Text>Lake Khanka</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_KHASAN_NAME">
+			<Text>Lake Khasan</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_KIVU_NAME">
+			<Text>Lake Kivu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_KORONEIA_NAME">
+			<Text>Lake Koroneia</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_KUMMEROW_NAME">
+			<Text>Lake Kummerow</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_LADOGA_NAME">
+			<Text>Lake Ladoga</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_LARIUS_NAME">
+			<Text>Lake Larius</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_LOUISE_NAME">
+			<Text>Lake Louise</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_MACKAY_NAME">
+			<Text>Lake Mackay</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_MAI_NDOMBE_NAME">
+			<Text>Lake Mai-Ndombe</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_MAMRY_NAME">
+			<Text>Lake Mamry</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_MANAPOURI_NAME">
+			<Text>Lake Manapouri</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_MANZALA_NAME">
+			<Text>Lake Manzala</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_MARIOUT_NAME">
+			<Text>Lake Mariout</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_MARKEN_NAME">
+			<Text>Lake Marken</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_MATANO_NAME">
+			<Text>Lake Matano</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_MER_WER_NAME">
+			<Text>Lake Mer-Wer</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_MICHIGAN_NAME">
+			<Text>Lake Michigan</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_MISTASSINI_NAME">
+			<Text>Lake Mistassini</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_MURITZ_NAME">
+			<Text>Lake Müritz</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_MWERU_NAME">
+			<Text>Lake Mweru</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_NAKAUMI_NAME">
+			<Text>Lake Nakaumi</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_NHLABANE_NAME">
+			<Text>Lake Nhlabane</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_NIANGAY_NAME">
+			<Text>Lake Niangay</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_NICARAGUA_NAME">
+			<Text>Lake Nicaragua</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_NIEGOCIN_NAME">
+			<Text>Lake Niegocin</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_NIPIGON_NAME">
+			<Text>Lake Nipigon</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_NYASA_NAME">
+			<Text>Lake Nyasa</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_OF_BANYOLES_NAME">
+			<Text>Lake of Banyoles</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_OF_NAARDEN_NAME">
+			<Text>Naarden Lake</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_OF_THE_WOODS_NAME">
+			<Text>Lake of the Woods</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_OKEECHOBEE_NAME">
+			<Text>Lake Okeechobee</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_ONEGA_NAME">
+			<Text>Lake Onega</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_ONTARIO_NAME">
+			<Text>Lake Ontario</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_PALIASTOMI_NAME">
+			<Text>Lake Paliastomi</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_PEIPUS_NAME">
+			<Text>Lake Peipus</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_POSO_NAME">
+			<Text>Lake Poso</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_PRESPA_NAME">
+			<Text>Lake Prespa</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_PUKAKI_NAME">
+			<Text>Lake Pukaki</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_PUWPU_NAME">
+			<Text>Lake Puwpu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_ROTOITI_NAME">
+			<Text>Lake Rotoiti</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_ROTOMAHANA_NAME">
+			<Text>Lake Rotomahana</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_ROTORUA_NAME">
+			<Text>Lake Rotorua</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_SAIMAA_NAME">
+			<Text>Lake Saimaa</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_SAINT_LUCIA_NAME">
+			<Text>Lake Saint Lucia</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_SCHWERIN_NAME">
+			<Text>Lake Schwerin</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_SENTARUM_NAME">
+			<Text>Lake Sentarum</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_SEVAN_NAME">
+			<Text>Lake Sevan</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_SHINJI_NAME">
+			<Text>Lake Shinji</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_SIBHAYI_NAME">
+			<Text>Lake Sibhayi</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_STARNBERG_NAME">
+			<Text>Lake Starnberg</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_SUPERIOR_NAME">
+			<Text>Lake Superior</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_SZELID_NAME">
+			<Text>Lake Szelid</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_TAHOE_NAME">
+			<Text>Lake Tahoe</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_TAI_NAME">
+			<Text>Lake Tai</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_TANA_NAME">
+			<Text>Lake Tana</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_TANGANYIKA_NAME">
+			<Text>Lake Tanganyika</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_TAUPO_NAME">
+			<Text>Lake Taupō</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_TAYMYR_NAME">
+			<Text>Lake Taymyr</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_TE_ANAU_NAME">
+			<Text>Lake Te Anau</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_TEXCOCO_NAME">
+			<Text>Lake Texcoco</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_TITIQAQA_NAME">
+			<Text>Lake Titiqaqa</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_TOBA_NAME">
+			<Text>Lake Toba</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_TORRENS_NAME">
+			<Text>Lake Torrens</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_TOWUTI_NAME">
+			<Text>Lake Towuti</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_TRASIMENE_NAME">
+			<Text>Lake Trasimene</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_TRICHONIDA_NAME">
+			<Text>Lake Trichonida</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_TUMBA_NAME">
+			<Text>Lake Tumba</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_TURKANA_NAME">
+			<Text>Lake Turkana</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_TUZ_NAME">
+			<Text>Lake Tuz</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_URMIA_NAME">
+			<Text>Lake Urmia</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_VAN_NAME">
+			<Text>Lake Van</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_VEGORITIDA_NAME">
+			<Text>Lake Vegoritida</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_VELENCE_NAME">
+			<Text>Lake Velence</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_VERBANUS_NAME">
+			<Text>Lake Verbanus</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_VICTORIA_NAME">
+			<Text>Lake Victoria</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_VISTONIDA_NAME">
+			<Text>Lake Vistonida</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_VOLVI_NAME">
+			<Text>Lake Volvi</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_WAIKAREMOANA_NAME">
+			<Text>Lake Waikaremoana</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_WAKATIPU_NAME">
+			<Text>Lake Wakatipu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_WALCHEN_NAME">
+			<Text>Lake Walchen</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_WANAKA_NAME">
+			<Text>Lake Wanaka</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_WIGRY_NAME">
+			<Text>Lake Wigry</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_WINDERMERE_NAME">
+			<Text>Lake Windermere</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_WINNEBAGO_NAME">
+			<Text>Lake Winnebago</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_WINNIPEG_NAME">
+			<Text>Lake Winnipeg</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_WINNIPEGOSIS_NAME">
+			<Text>Lake Winnipegosis</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_XALTOCAN_NAME">
+			<Text>Lake Xaltocan</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_XOCHIMILCO_NAME">
+			<Text>Lake Xochimilco</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_YEAK_LAOM_NAME">
+			<Text>Lake Yeak Laom</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_ZUMPANGO_NAME">
+			<Text>Lake Zumpango</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAKE_IJSSEL_NAME">
+			<Text>Lake IJssel</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LAUWERS_LAKE_NAME">
+			<Text>Lauwers Lake</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LIMINGEN_NAME">
+			<Text>Limingen</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LOCH_AWE_NAME">
+			<Text>Loch Awe</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LOCH_CORUISK_NAME">
+			<Text>Loch Coruisk</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LOCH_FINLAGGAN_NAME">
+			<Text>Loch Finlaggan</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LOCH_LOMOND_NAME">
+			<Text>Loch Lomond</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LOCH_MAREE_NAME">
+			<Text>Loch Maree</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LOCH_MORAR_NAME">
+			<Text>Loch Morar</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LOCH_NESS_NAME">
+			<Text>Loch Ness</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LOCH_TAY_NAME">
+			<Text>Loch Tay</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LOKTAK_LAKE_NAME">
+			<Text>Loktak Lake</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_LUKNAJNO_LAKE_NAME">
+			<Text>Łuknajno Lake</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_MAHARLOO_LAKE_NAME">
+			<Text>Maharloo Lake</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_MALAREN_NAME">
+			<Text>Mälaren</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_MALLALAFQUEN_NAME">
+			<Text>Mallalafquén</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_MJOSA_NAME">
+			<Text>Mjøsa</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_MOSVATNET_NAME">
+			<Text>Møsvatnet</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_MUNDAU_LAGOON_NAME">
+			<Text>Mundaú Lagoon</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_NAMAK_LAKE_NAME">
+			<Text>Namak Lake</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_NISSER_NAME">
+			<Text>Nisser</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_NORSJO_NAME">
+			<Text>Norsjø</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_ORETI_LAKE_NAME">
+			<Text>Oreti Lake</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_OROS_LAKE_NAME">
+			<Text>Oros Lake</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_OYEREN_NAME">
+			<Text>Øyeren</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_PALLQAQUCHA_NAME">
+			<Text>Pallqaqucha</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_PANGONG_TSO_NAME">
+			<Text>Pangong Tso</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_PARAVANI_LAKE_NAME">
+			<Text>Paravani Lake</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_PARIWANAQUCHA_NAME">
+			<Text>Pariwanaqucha</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_PLAUER_SEE_NAME">
+			<Text>Plauer See</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_POYANG_LAKE_NAME">
+			<Text>Poyang Lake</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_QINGHAI_LAKE_NAME">
+			<Text>Qinghai Lake</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_REINDEER_LAKE_NAME">
+			<Text>Reindeer Lake</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_REPRESA_DE_ENG_SOUZA_DIAS_NAME">
+			<Text>Represa de Eng Souza Dias</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_RINIHUE_LAKE_NAME">
+			<Text>Riñihue Lake</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_ROSSVATNET_NAME">
+			<Text>Røssvatnet</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_SAALER_BODDEN_NAME">
+			<Text>Saaler Bodden</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_SAMJI_LAKE_NAME">
+			<Text>Samji Lake</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_SANABRIA_LAKE_NAME">
+			<Text>Sanabria Lake</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_SARYGAMYSH_LAKE_NAME">
+			<Text>Sarygamysh Lake</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_SCHAALSEE_NAME">
+			<Text>Schaalsee</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_SEA_OF_GALILEE_NAME">
+			<Text>Sea of Galilee</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_SELBUSJOEN_NAME">
+			<Text>Selbusjøen</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_SHUSWAP_LAKE_NAME">
+			<Text>Shuswap Lake</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_SNASAVATNET_NAME">
+			<Text>Snåsavatnet</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_SNIARDWY_NAME">
+			<Text>Śniardwy</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_STEINHUDER_MEER_NAME">
+			<Text>Steinhuder Meer</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_STORSJON_NAME">
+			<Text>Storsjön</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_TABATSKURI_LAKE_NAME">
+			<Text>Tabatskuri Lake</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_TE_WAIHORA_NAME">
+			<Text>Te waihora</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_TINNSJOEN_NAME">
+			<Text>Tinnsjøen</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_TONLE_BATI_LAKE_NAME">
+			<Text>Tonle Bati Lake</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_TONLE_SAP_NAME">
+			<Text>Tonlé Sap</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_TYRIFJORDEN_NAME">
+			<Text>Tyrifjorden</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_ULLSWATER_LAKE_NAME">
+			<Text>Ullswater Lake</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_UTIKUMA_LAKE_NAME">
+			<Text>Utikuma Lake</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_UVS_LAKE_NAME">
+			<Text>Uvs Lake</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_VANERN_NAME">
+			<Text>Vänern</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_VATTERN_NAME">
+			<Text>Vättern</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_VEMBANAD_LAKE_NAME">
+			<Text>Vembanad Lake</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_WABAMUN_LAKE_NAME">
+			<Text>Wabamun Lake</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_WAKAW_LAKE_NAME">
+			<Text>Wakaw Lake</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_WASKESIU_LAKE_NAME">
+			<Text>Waskesiu Lake</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_WEST_LAKE_NAME">
+			<Text>West Lake</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_WEST_NUBIAN_LAKE_NAME">
+			<Text>West Nubian Lake</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_WOJNOWO_LAKE_NAME">
+			<Text>Wojnowo Lake</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_WOLLASTON_LAKE_NAME">
+			<Text>Wollaston Lake</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_LAKE_YANAQUCHA_NAME">
+			<Text>Yanaqucha</Text>
+		</Replace>
+		<!--Seas-->
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_ABU_QIR_BAY_NAME">
+			<Text>Abu Qir Bay</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_ADRIATIC_SEA_NAME">
+			<Text>Adriatic Sea</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_AEGEAN_SEA_NAME">
+			<Text>Aegean Sea</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_AGO_BAY_NAME">
+			<Text>Ago Bay</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_ALAUQUEN_NAME">
+			<Text>Alauquén</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_ALBORAN_SEA_NAME">
+			<Text>Alboran Sea</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_ALL_SAINTS_BAY_NAME">
+			<Text>All Saints' Bay</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_ANDAMAN_SEA_NAME">
+			<Text>Andaman Sea</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_ARABIAN_SEA_NAME">
+			<Text>Arabian Sea</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_ARAFURA_SEA_NAME">
+			<Text>Arafura Sea</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_BAFFIN_BAY_NAME">
+			<Text>Baffin Bay</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_BAIA_DE_SAO_JOSE_NAME">
+			<Text>Baía de São José</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_BAIA_DE_SAO_MARCOS_NAME">
+			<Text>Baía de São Marcos</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_BAIE_DE_LA_SEINE_NAME">
+			<Text>Baie de la Seine</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_BAIE_DE_SOMME_NAME">
+			<Text>Baie de Somme</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_BALTIC_SEA_NAME">
+			<Text>Baltic Sea</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_BANDA_SEA_NAME">
+			<Text>Banda Sea</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_BAY_OF_ARAUCO_NAME">
+			<Text>Bay of Arauco</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_BAY_OF_ARGUIN_NAME">
+			<Text>Bay of Arguin</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_BAY_OF_BEIRUT_NAME">
+			<Text>Bay of Beirut</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_BAY_OF_BENGAL_NAME">
+			<Text>Bay of Bengal</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_BAY_OF_BISCAY_NAME">
+			<Text>Bay of Biscay</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_BAY_OF_CAMPECHE_NAME">
+			<Text>Bay of Campeche</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_BAY_OF_CONCEPCION_NAME">
+			<Text>Bay of Concepción</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_BAY_OF_FUNDY_NAME">
+			<Text>Bay of Fundy</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_BAY_OF_GIBRALTAR_NAME">
+			<Text>Bay of Gibraltar</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_BAY_OF_KOMPONG_SOM_NAME">
+			<Text>Bay of Kompong Som</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_BAY_OF_MECKLENBURG_NAME">
+			<Text>Bay of Mecklenburg</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_BAY_OF_POMERANIA_NAME">
+			<Text>Bay of Pomerania</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_BAY_OF_SANTANDER_NAME">
+			<Text>Bay of Santander</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_BEAUFORT_SEA_NAME">
+			<Text>Beaufort Sea</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_BERING_SEA_NAME">
+			<Text>Bering Sea</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_BISMARCK_SEA_NAME">
+			<Text>Bismarck Sea</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_BLACK_SEA_NAME">
+			<Text>Black Sea</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_BO_HAI_NAME">
+			<Text>Bo Hai</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_BOTANY_BAY_NAME">
+			<Text>Botany Bay</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_BRACKLESHAM_BAY_NAME">
+			<Text>Bracklesham Bay</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_BRIDGWATER_BAY_NAME">
+			<Text>Bridgwater Bay</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_BRISTOL_CHANNEL_NAME">
+			<Text>Bristol Channel</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_BUSAN_BAY_NAME">
+			<Text>Busan Bay</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_CARIBBEAN_SEA_NAME">
+			<Text>Caribbean Sea</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_CASPIAN_SEA_NAME">
+			<Text>Caspian Sea</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_CAULIN_BAY_NAME">
+			<Text>Caulín Bay</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_CELEBES_SEA_NAME">
+			<Text>Celebes Sea</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_CELTIC_SEA_NAME">
+			<Text>Celtic Sea</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_CERAM_SEA_NAME">
+			<Text>Ceram Sea</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_CHESAPEAKE_BAY_NAME">
+			<Text>Chesapeake Bay</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_CHUKCHI_SEA_NAME">
+			<Text>Chukchi Sea</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_CORAL_SEA_NAME">
+			<Text>Coral Sea</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_DOLLART_NAME">
+			<Text>Dollart</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_EAST_CHINA_SEA_NAME">
+			<Text>East China Sea</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_EAST_SIBERIAN_SEA_NAME">
+			<Text>East Siberian Sea</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_EDSVIKEN_NAME">
+			<Text>Edsviken</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_ENGLISH_CHANNEL_NAME">
+			<Text>English Channel</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_FIRTH_OF_CLYDE_NAME">
+			<Text>Firth of Clyde</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_FIRTH_OF_FORTH_NAME">
+			<Text>Firth of Forth</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_FLENSBURG_FIRTH_NAME">
+			<Text>Flensburg Firth</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_FLORES_SEA_NAME">
+			<Text>Flores Sea</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_FOUL_BAY_NAME">
+			<Text>Foul Bay</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_FROBISHER_BAY_NAME">
+			<Text>Frobisher Bay</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_GDANSK_BAY_NAME">
+			<Text>Gdańsk Bay</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_GENKAI_SEA_NAME">
+			<Text>Genkai Sea</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_GEORGIAN_BAY_NAME">
+			<Text>Georgian Bay</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_GERMAN_BIGHT_NAME">
+			<Text>German Bight</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_GREAT_AUSTRALIAN_BIGHT_NAME">
+			<Text>Great Australian Bight</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_GREENLAND_SEA_NAME">
+			<Text>Greenland Sea</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_GUANABARA_BAY_NAME">
+			<Text>Guanabara Bay</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_GULF_OF_ADEN_NAME">
+			<Text>Gulf of Aden</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_GULF_OF_ALASKA_NAME">
+			<Text>Gulf of Alaska</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_GULF_OF_AQABA_NAME">
+			<Text>Gulf of Aqaba</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_GULF_OF_BOTHNIA_NAME">
+			<Text>Gulf of Bothnia</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_GULF_OF_CADIZ_NAME">
+			<Text>Gulf of Cádiz</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_GULF_OF_CALIFORNIA_NAME">
+			<Text>Gulf of California</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_GULF_OF_CARPENTARIA_NAME">
+			<Text>Gulf of Carpentaria</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_GULF_OF_CORINTH_NAME">
+			<Text>Gulf of Corinth</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_GULF_OF_FINLAND_NAME">
+			<Text>Gulf of Finland</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_GULF_OF_GABES_NAME">
+			<Text>Gulf of Gabès</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_GULF_OF_GUAYAQUIL_NAME">
+			<Text>Gulf of Guayaquil</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_GULF_OF_GUINEA_NAME">
+			<Text>Gulf of Guinea</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_GULF_OF_HAMMAMET_NAME">
+			<Text>Gulf of Hammamet</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_GULF_OF_IZMIR_NAME">
+			<Text>Gulf of Izmir</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_GULF_OF_LION_NAME">
+			<Text>Gulf of Lion</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_GULF_OF_MANNAR_NAME">
+			<Text>Gulf of Mannar</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_GULF_OF_MEXICO_NAME">
+			<Text>Gulf of Mexico</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_GULF_OF_MORBIHAN_NAME">
+			<Text>Gulf of Morbihan</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_GULF_OF_OMAN_NAME">
+			<Text>Gulf of Oman</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_GULF_OF_PANAMA_NAME">
+			<Text>Gulf of Panama</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_GULF_OF_PAPUA_NAME">
+			<Text>Gulf of Papua</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_GULF_OF_ROSES_NAME">
+			<Text>Gulf of Roses</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_GULF_OF_SAINT_LAWRENCE_NAME">
+			<Text>Gulf of Saint Lawrence</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_GULF_OF_SUEZ_NAME">
+			<Text>Gulf of Suez</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_GULF_OF_TEHUANTEPEC_NAME">
+			<Text>Gulf of Tehuantepec</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_GULF_OF_THAILAND_NAME">
+			<Text>Gulf of Thailand</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_GULF_OF_TONKIN_NAME">
+			<Text>Gulf of Tonkin</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_GULF_OF_TORONEOS_NAME">
+			<Text>Gulf of Toroneos</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_GULF_OF_TUNIS_NAME">
+			<Text>Gulf of Tunis</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_GULF_OF_VALENCIA_NAME">
+			<Text>Gulf of Valencia</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_GWANGPO_BAY_NAME">
+			<Text>Gwangpo Bay</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_HANN_BAY_NAME">
+			<Text>Hann Bay</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_HANOBUKTEN_NAME">
+			<Text>Hanöbukten</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_HARDANGERFJORDEN_NAME">
+			<Text>Hardangerfjorden</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_HELIGOLAND_BIGHT_NAME">
+			<Text>Heligoland Bight</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_HUDSON_BAY_NAME">
+			<Text>Hudson Bay</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_IONIAN_SEA_NAME">
+			<Text>Ionian Sea</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_IRISH_SEA_NAME">
+			<Text>Irish Sea</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_JADE_BIGHT_NAME">
+			<Text>Jade Bight</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_JAWA_SEA_NAME">
+			<Text>Jawa Sea</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_JERVIS_BAY_NAME">
+			<Text>Jervis Bay</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_JOSEPH_BONAPARTE_GULF_NAME">
+			<Text>Joseph Bonaparte Gulf</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_KANHOLMSFJARDEN_NAME">
+			<Text>Kanholmsfjärden</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_KARA_SEA_NAME">
+			<Text>Kara Sea</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_KOREA_BAY_NAME">
+			<Text>Korea Bay</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_KOSI_BAY_NAME">
+			<Text>Kosi Bay</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_LABRADOR_SEA_NAME">
+			<Text>Labrador Sea</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_LAKE_MARACAIBO_NAME">
+			<Text>Lake Maracaibo</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_LAKSHADWEEP_SEA_NAME">
+			<Text>Lakshadweep Sea</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_LAPTEV_SEA_NAME">
+			<Text>Laptev Sea</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_LEVANTINE_SEA_NAME">
+			<Text>Levantine Sea</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_LIBYAN_SEA_NAME">
+			<Text>Libyan Sea</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_LIGURIAN_SEA_NAME">
+			<Text>Ligurian Sea</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_LINCOLN_SEA_NAME">
+			<Text>Lincoln Sea</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_MASSACHUSETTS_BAY_NAME">
+			<Text>Massachusetts Bay</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_MEDITERRANEAN_SEA_NAME">
+			<Text>Mediterranean Sea</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_MOLUCCA_SEA_NAME">
+			<Text>Molucca Sea</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_MONT_SAINT_MICHEL_BAY_NAME">
+			<Text>Mont-Saint-Michel Bay</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_MORAY_FIRTH_NAME">
+			<Text>Moray Firth</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_MORECAMBY_BAY_NAME">
+			<Text>Morecamby Bay</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_MOZAMBIQUE_CHANNEL_NAME">
+			<Text>Mozambique Channel</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_MUTSU_BAY_NAME">
+			<Text>Mutsu Bay</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_NORDFRIESISCHES_WATTENMEER_NAME">
+			<Text>Nordfriesisches Wattenmeer</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_NORTH_SEA_NAME">
+			<Text>North Sea</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_NORWEGIAN_SEA_NAME">
+			<Text>Norwegian Sea</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_PARACAS_BAY_NAME">
+			<Text>Paracas Bay</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_PERSIAN_GULF_NAME">
+			<Text>Persian Gulf</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_PHILIPPINE_SEA_NAME">
+			<Text>Philippine Sea</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_PITSUNDA_BAY_NAME">
+			<Text>Pitsunda Bay</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_PUNIHUIL_NAME">
+			<Text>Puñihuil</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_RED_SEA_NAME">
+			<Text>Red Sea</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_SAGAMI_BAY_NAME">
+			<Text>Sagami Bay</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_SALTSJON_NAME">
+			<Text>Saltsjön</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_SAN_FRANCISCO_BAY_NAME">
+			<Text>San Francisco Bay</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_SANGAREYA_BAY_NAME">
+			<Text>Sangareya Bay</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_SARGASSO_SEA_NAME">
+			<Text>Sargasso Sea</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_SARONIC_GULF_NAME">
+			<Text>Saronic Gulf</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_SCOTIA_SEA_NAME">
+			<Text>Scotia Sea</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_SEA_OF_AZOV_NAME">
+			<Text>Sea of Azov</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_SEA_OF_CRETE_NAME">
+			<Text>Sea of Crete</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_SEA_OF_HYUGA_NAME">
+			<Text>Sea of Hyūga</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_SEA_OF_JAPAN_NAME">
+			<Text>Sea of Japan</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_SEA_OF_MARMARA_NAME">
+			<Text>Sea of Marmara</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_SEA_OF_OKHOTSK_NAME">
+			<Text>Sea of Okhotsk</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_SEA_OF_THE_HEBRIDES_NAME">
+			<Text>Sea of the Hebrides</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_SETO_SEA_NAME">
+			<Text>Seto Sea</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_SINGITIC_GULF_NAME">
+			<Text>Singitic Gulf</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_SODWANA_BAY_NAME">
+			<Text>Sodwana Bay</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_SOGNEFJORDEN_NAME">
+			<Text>Sognefjorden</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_SOLOMON_SEA_NAME">
+			<Text>Solomon Sea</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_SOLWAY_FIRTH_NAME">
+			<Text>Solway Firth</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_SOUTH_CHINA_SEA_NAME">
+			<Text>South China Sea</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_STORFJORDEN_NAME">
+			<Text>Storfjorden</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_STRYMONIAN_GULF_NAME">
+			<Text>Strymonian Gulf</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_SUKHUMI_BAY_NAME">
+			<Text>Sukhumi Bay</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_SULU_SEA_NAME">
+			<Text>Sulu Sea</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_TASMAN_SEA_NAME">
+			<Text>Tasman Sea</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_TE_ARA_A_KIWA_NAME">
+			<Text>Te Ara a Kiwa</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_TE_MATAU_A_MAUI_NAME">
+			<Text>Te Matau-a-Māui</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_TE_MOANA_A_TOI_NAME">
+			<Text>Te Moana-a-Toi</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_TE_MOANA_O_RAUKAWA_NAME">
+			<Text>Te Moana-o-Raukawa</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_TE_TAI_O_AORERE_NAME">
+			<Text>Te Tai-o-Aorere</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_TE_TAI_O_REHUA_NAME">
+			<Text>Te Tai-o-Rehua</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_TE_WHANGANUI_A_TARA_NAME">
+			<Text>Te Whanganui-a-Tara</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_THE_MINCH_NAME">
+			<Text>The Minch</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_THE_WASH_NAME">
+			<Text>The Wash</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_THERMAIC_GULF_NAME">
+			<Text>Thermaic Gulf</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_THRACIAN_SEA_NAME">
+			<Text>Thracian Sea</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_TIKAPA_MOANA_NAME">
+			<Text>Tīkapa Moana</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_TIMOR_SEA_NAME">
+			<Text>Timor Sea</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_TRONDHEIMSFJORDEN_NAME">
+			<Text>Trondheimsfjorden</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_TYRRHENIAN_SEA_NAME">
+			<Text>Tyrrhenian Sea</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_UMZINTO_BAY_NAME">
+			<Text>Umzinto Bay</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_VESTFJORDEN_NAME">
+			<Text>Vestfjorden</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_WADDEN_SEA_NAME">
+			<Text>Wadden Sea</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_WAITEMATA_NAME">
+			<Text>Waitematā</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_WHITE_SEA_NAME">
+			<Text>White Sea</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_WINIPEKW_NAME">
+			<Text>Wînipekw</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_YATSUSHIRO_SEA_NAME">
+			<Text>Yatsushiro Sea</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_YELLOW_SEA_NAME">
+			<Text>Yellow Sea</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_YOF_BAY_NAME">
+			<Text>Yof Bay</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_SEA_ZUIDERZEE_NAME">
+			<Text>Zuiderzee</Text>
+		</Replace>
+		<!--Seas-->
+		<Replace Language='en_US' Tag="LOC_NAMED_OCEAN_ANTARCTIC_OCEAN_NAME">
+			<Text>Antarctic Ocean</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_OCEAN_ARCTIC_OCEAN_NAME">
+			<Text>Arctic Ocean</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_OCEAN_ATLANTIC_OCEAN_NAME">
+			<Text>Atlantic Ocean</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_OCEAN_IAPETUS_OCEAN_NAME">
+			<Text>Iapetus Ocean</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_OCEAN_INDIAN_OCEAN_NAME">
+			<Text>Indian Ocean</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_OCEAN_PACIFIC_OCEAN_NAME">
+			<Text>Pacific Ocean</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_OCEAN_PANTHALASSIC_OCEAN_NAME">
+			<Text>Panthalassic Ocean</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_OCEAN_RHEIC_OCEAN_NAME">
+			<Text>Rheic Ocean</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NAMED_OCEAN_TETHYS_OCEAN_NAME">
+			<Text>Tethys Ocean</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

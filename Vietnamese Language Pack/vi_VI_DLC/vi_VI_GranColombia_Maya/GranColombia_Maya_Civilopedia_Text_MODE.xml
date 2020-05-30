@@ -1,86 +1,86 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameData>
-	<EnglishText>
-		<Row Tag="LOC_PEDIA_CONCEPTS_PAGEGROUP_MODES_NAME">
+	<LocalizedText>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CONCEPTS_PAGEGROUP_MODES_NAME">
 			<Text>Modes</Text>
-		</Row>
-		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_MEGADISASTERS_CHAPTER_CONTENT_TITLE">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CONCEPTS_PAGE_MEGADISASTERS_CHAPTER_CONTENT_TITLE">
 			<Text>Apocalypse</Text>
-		</Row>
-		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_MEGADISASTERS_CHAPTER_WELCOME_TITLE">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CONCEPTS_PAGE_MEGADISASTERS_CHAPTER_WELCOME_TITLE">
 			<Text>Welcome</Text>
-		</Row>
-		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_MEGADISASTERS_CHAPTER_WELCOME_PARA_1">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CONCEPTS_PAGE_MEGADISASTERS_CHAPTER_WELCOME_PARA_1">
 			<Text>In game setup, players can turn on the Apocalypse game mode, changing the severity of disasters, introducing a new Scored Competition and unit, and eventually seeing the end of the world as the planet and its civilizations are pummeled by comets.</Text>
-		</Row>
-		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_MEGADISASTERS_CHAPTER_SOOTHSAYER_TITLE">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CONCEPTS_PAGE_MEGADISASTERS_CHAPTER_SOOTHSAYER_TITLE">
 			<Text>Soothsayer</Text>
-		</Row>
-		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_MEGADISASTERS_CHAPTER_SOOTHSAYER_PARA_1">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CONCEPTS_PAGE_MEGADISASTERS_CHAPTER_SOOTHSAYER_PARA_1">
 			<Text>The Apocalypse game mode introduces a new unit, the Soothsayer.  This unit has the unique ability to cause natural disasters: bring them to a suitable location and use the Cause Disaster action to start a flood, storm, fire, or volcanic eruption in nearby tiles.</Text>
-		</Row>
-		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_MEGADISASTERS_CHAPTER_SOOTHSAYER_PARA_2">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CONCEPTS_PAGE_MEGADISASTERS_CHAPTER_SOOTHSAYER_PARA_2">
 			<Text>Soothsayers can only be bought with [ICON_Faith] Faith, and can be escorted.  With each promotion, they gain more charges for causing disasters.  Soothsayers do not earn experience: instead, they unlock new promotions through a new Scored Competition.</Text>
-		</Row>
-		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_MEGADISASTERS_CHAPTER_SCORED_COMPETITION_TITLE">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CONCEPTS_PAGE_MEGADISASTERS_CHAPTER_SCORED_COMPETITION_TITLE">
 			<Text>Appeasing the Gods</Text>
-		</Row>
-		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_MEGADISASTERS_CHAPTER_SCORED_COMPETITION_PARA_1">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CONCEPTS_PAGE_MEGADISASTERS_CHAPTER_SCORED_COMPETITION_PARA_1">
 			<Text>To earn promotions for your Soothsayers, you will need to participate in the Appease the Gods Scored Competition.  This will appear throughout the game, providing you the ability to use your Soothsayers to sacrifice your combat units near volcanoes for score.  Players with high scores earn promotions for all of their present and future Soothsayers.</Text>
-		</Row>
-		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_MEGADISASTERS_CHAPTER_NEW_DISASTERS_TITLE">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CONCEPTS_PAGE_MEGADISASTERS_CHAPTER_NEW_DISASTERS_TITLE">
 			<Text>New Disasters</Text>
-		</Row>
-		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_MEGADISASTERS_CHAPTER_NEW_DISASTERS_PARA_1">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CONCEPTS_PAGE_MEGADISASTERS_CHAPTER_NEW_DISASTERS_PARA_1">
 			<Text>Two new disasters are exclusive to the Apocalypse game mode: [NEWLINE][ICON_BULLET] Solar Flares: Across the world, solar radiation bombards the planet, damaging power-related buildings and improvements, pillaging certain districts, and damaging late-game units [NEWLINE][ICON_BULLET] Comet Strikes: A comet crashes into the planet, destroying everything in its path, even cities</Text>
-		</Row>
-		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_MEGADISASTERS_CHAPTER_END_OF_WORLD_TITLE">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CONCEPTS_PAGE_MEGADISASTERS_CHAPTER_END_OF_WORLD_TITLE">
 			<Text>End of the World</Text>
-		</Row>
-		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_MEGADISASTERS_CHAPTER_END_OF_WORLD_PARA_1">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CONCEPTS_PAGE_MEGADISASTERS_CHAPTER_END_OF_WORLD_PARA_1">
 			<Text>Terrible, high-damage disasters, especially comet strikes, become more prevalent after climate change reaches its maximum level.  At that point, players will have to win quickly, or the end of world will decide the victor for them.</Text>
-		</Row>
-		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_ENVIRONMENTAL_EFFECTS_CHAPTER_FLARES_TITLE">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CONCEPTS_PAGE_ENVIRONMENTAL_EFFECTS_CHAPTER_FLARES_TITLE">
 			<Text>Solar Flares</Text>
-		</Row>
-		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_ENVIRONMENTAL_EFFECTS_CHAPTER_FLARES_PARA_1">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CONCEPTS_PAGE_ENVIRONMENTAL_EFFECTS_CHAPTER_FLARES_PARA_1">
 			<Text>Solar Flares affect the entire map.  The turn that they trigger, they destroy [ICON_POWER] Power Plant buildings, and may damage advanced units and improvements, [ICON_POWER] Power related buildings, Campus Districts, Industrial Zone Districts, and Spaceport Districts.</Text>
-		</Row>
-		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_ENVIRONMENTAL_EFFECTS_CHAPTER_COMETS_TITLE">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CONCEPTS_PAGE_ENVIRONMENTAL_EFFECTS_CHAPTER_COMETS_TITLE">
 			<Text>Comet Strikes</Text>
-		</Row>
-		<Row Tag="LOC_PEDIA_CONCEPTS_PAGE_ENVIRONMENTAL_EFFECTS_CHAPTER_COMETS_PARA_1">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CONCEPTS_PAGE_ENVIRONMENTAL_EFFECTS_CHAPTER_COMETS_PARA_1">
 			<Text>Comet Strikes affect four adjacent tiles, or target city centers, wiping out anything in their way and making the tile impassable.</Text>
-		</Row>
+		</Replace>
 
 		<!-- units -->
-		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_SOOTHSAYER_CHAPTER_HISTORY_PARA_1">
+		<Replace Language='en_US' Tag="LOC_PEDIA_UNITS_PAGE_UNIT_SOOTHSAYER_CHAPTER_HISTORY_PARA_1">
 			<Text>In times of crisis, people have long turned towards those that promise some form of deliverance. As the natural, political, or economic order breaks down, soothsayers emerge that might provide people a way to stave off disaster, to survive it, or to inflict it on one's enemies. While the Soothsayer unit here is not meant to reflect any particular culture or historical moment, we can find similar turns towards such figures across the world and across history, from the Mesoamerican reaction to the arrival of the Spanish, to European millennial cults, to present-day groups like Heaven's Gate.</Text>
-		</Row>
-		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_SOOTHSAYER_CHAPTER_HISTORY_PARA_2">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_UNITS_PAGE_UNIT_SOOTHSAYER_CHAPTER_HISTORY_PARA_2">
 			<Text>For instance, at the turn of the 20th century, across Lao-speaking parts of Southeast Asia, new prophets emerged, the "holy men." They promised Lao people - who had seen their territory divided between French and Siamese forces, new systems of taxation, and the destruction of the city of Vientiane - that worse things were to come. Cows and pigs would transform into demons. Money would become worthless, while currently worthless gravel would become gold. A great wind would sweep through the land and carry with it anyone who could not hold on to a clump of lemongrass. Many believed these soothsayers, collecting gravel and killing their own animals, all awaiting the great change that was to come.</Text>
-		</Row>
-		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_SOOTHSAYER_CHAPTER_HISTORY_PARA_3">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_UNITS_PAGE_UNIT_SOOTHSAYER_CHAPTER_HISTORY_PARA_3">
 			<Text>Soothsayers rarely end up well. The Lao movement was suppressed by Siamese troops, Aztec prayers did not stop Spanish conquest, and the end times seemingly never come.</Text>
-		</Row>
+		</Replace>
 		<!-- promotions -->
-		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_SOOTHSAYER_MESSENGER_CHAPTER_HISTORY_PARA_1">
+		<Replace Language='en_US' Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_SOOTHSAYER_MESSENGER_CHAPTER_HISTORY_PARA_1">
 			<Text>Soothsayers often presented themselves as in direct communication with the divine. Some were inspired by sacred dreams, as were the Lao "holy men;" some claimed to possess divine texts given to them by gods, as did the early 20th-century occultist Aleister Crowley; and some even said that they themselves were related to divine figures, as did Hong Xiuquan, the leader of the Taiping Revolt, who claimed to be the brother of Jesus Christ. But all had a message from somewhere beyond that they felt compelled to deliver.</Text>
-		</Row>
-		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_SOOTHSAYER_INQUISITOR_CHAPTER_HISTORY_PARA_1">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_SOOTHSAYER_INQUISITOR_CHAPTER_HISTORY_PARA_1">
 			<Text>An inquisitor is simply one who asks a question. But, since the Spanish Inquisition, the term has become associated with those who seek to discover heretical beliefs and eliminate them. If one has a sacred message, it follows that one must eliminate opposing messages.</Text>
-		</Row>
-		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_SOOTHSAYER_ZEALOT_CHAPTER_HISTORY_PARA_1">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_SOOTHSAYER_ZEALOT_CHAPTER_HISTORY_PARA_1">
 			<Text>The one thing that unites disparate apocalyptic movements is their zealotry. In order to carry out the actions that such groups demand, and to make the sacrifices that their followers do, devotees of apocalyptic groups are united in their faith. This is a part of what makes them so convincing... and terrifying.</Text>
-		</Row>
-		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_SOOTHSAYER_INCANTATION_CHAPTER_HISTORY_PARA_1">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_SOOTHSAYER_INCANTATION_CHAPTER_HISTORY_PARA_1">
 			<Text>Apocalyptic groups often had a secret prayer, and soothsayers often promised that chanting it would keep one safe. These could be secret names of God, the repeated call to a "pure land," or something in a language so secret that not even the soothsayer could understand.</Text>
-		</Row>
-		<Row Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_SOOTHSAYER_PLAGUE_BEARER_CHAPTER_HISTORY_PARA_1">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_UNITPROMOTIONS_PAGE_PROMOTION_SOOTHSAYER_PLAGUE_BEARER_CHAPTER_HISTORY_PARA_1">
 			<Text>Groups that anticipate the end of times sometimes take action to bring it about. Plague was used as a biological weapon in the middle ages, most significantly during the siege of Caffa, where besieging troops launched infected bodies into the city, causing an outbreak. But we do not need to go so far back - as recently as 1995, the doomsday cult Aum Shinrikyo sought to bring about a new era when it attacked the Tokyo subway with sarin gas. </Text>
-		</Row>
-		<Row Tag="LOC_PEDIA_FEATURES_PAGE_FEATURE_COMET_LAKE_CHAPTER_HISTORY_PARA_1">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_FEATURES_PAGE_FEATURE_COMET_LAKE_CHAPTER_HISTORY_PARA_1">
 			<Text>In 1908, S. Semenov was sitting at the Vanavara Trading Post, when, as he says, “the sky split in two and fire appeared high and wide over the forest.” The summer day grew unbearably hot, and then “the sky shut closed… after that such noise came, as if rocks were falling or cannons were firing… hot wind raced between the houses, like from cannons, which left traces in the ground like pathways.” What Semenov experienced was the Tunguska event, an explosion some thousand times the power of an atomic bomb, caused by the impact of a comet fragment, a ball of ice approximately 200ft (65m) in diameter, into the Siberian taiga. While strikes like the Tunguska event can be as devastating as a nuclear weapon, larger comet strikes – on the order of miles instead of feet – would have exponentially catastrophic effects, affecting not only the region, but the entire world. While those near the impact would burn, the comet would also project dust into the atmosphere, blocking out sunlight, cooling climates and killing off vegetation (thus creating kindling for massive forest fires) worldwide.</Text>
-		</Row>
-	</EnglishText>
+		</Replace>
+	</LocalizedText>
 </GameData>

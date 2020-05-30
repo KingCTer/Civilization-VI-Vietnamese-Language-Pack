@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!--Moments-->
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_BUILT_NEAR_FLOODABLE_RIVER">
+			<Text>City near Floodable River</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_BUILT_NEAR_FLOODABLE_RIVER_DESCRIPTION">
+			<Text>A city is placed within 2 tiles of a river that could flood.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_BUILT_NEAR_FLOODABLE_RIVER_INSTANCE_DESCRIPTION">
+			<Text>The citizens of {CityName} adjust to their new home, and keep a wary eye on the nearby river.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_BUILT_NEAR_VOLCANO">
+			<Text>City near Volcano</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_BUILT_NEAR_VOLCANO_DESCRIPTION">
+			<Text>A city is placed within 2 tiles of a volcano that could erupt.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_BUILT_NEAR_VOLCANO_INSTANCE_DESCRIPTION">
+			<Text>"We'll be fine," say the citizens of {CityName}. "All mountains smoke a little, right?"</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_POWER_GENERATED_FROM_RESOURCE_FIRST">
+			<Text>First Resource consumed for Power</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_POWER_GENERATED_FROM_RESOURCE_FIRST_DESCRIPTION">
+			<Text>Your civilization consumes a resource to generate [ICON_Power] Power for its cities.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_POWER_GENERATED_FROM_RESOURCE_FIRST_INSTANCE_DESCRIPTION">
+			<Text>Surging machinery and billowing smoke mark the start of our power generation.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_POWER_GENERATED_FROM_RESOURCE_FIRST_IN_WORLD">
+			<Text>First Resource consumed for Power in World</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_POWER_GENERATED_FROM_RESOURCE_FIRST_IN_WORLD_DESCRIPTION">
+			<Text>Your civilization is the first in the world to consume a resource to generate Power for its cities.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CITY_POWER_GENERATED_FROM_RESOURCE_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>Rising smoke! Humming machinery! The power of nature has been harnessed by {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}} in the cause of power and progress!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CLIMATE_CHANGE_PHASE">
+			<Text>Climate Change Phase</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CLIMATE_CHANGE_PHASE_DESCRIPTION">
+			<Text>CO2 emissions have increased enough to change the world's climate to a more dangerous level.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CLIMATE_CHANGE_PHASE_INSTANCE_DESCRIPTION">
+			<Text>The world reaches {ClimateChangeName}, causing dire consequences for the global environment.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_DISTRICT_CONSTRUCTED_CANAL">
+			<Text>Canal Completed</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_DISTRICT_CONSTRUCTED_CANAL_DESCRIPTION">
+			<Text>You have completed your civilization's first Canal district.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_DISTRICT_CONSTRUCTED_CANAL_INSTANCE_DESCRIPTION">
+			<Text>The opening of the {CityName} Canal brings renewed trade and prosperity.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_GOVERNMENT_ENACTED_TIER_4_FIRST">
+			<Text>First Tier 4 Government</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_GOVERNMENT_ENACTED_TIER_4_FIRST_DESCRIPTION">
+			<Text>Your civilization adopts its first Tier 4 Government.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_GOVERNMENT_ENACTED_TIER_4_FIRST_INSTANCE_DESCRIPTION">
+			<Text>Our people continue to evolve their political system, and attempt the revolutionary new government of {GovernmentType}.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_GOVERNMENT_ENACTED_TIER_4_FIRST_IN_WORLD">
+			<Text>First Tier 4 Government in World</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_GOVERNMENT_ENACTED_TIER_4_FIRST_IN_WORLD_DESCRIPTION">
+			<Text>Your civilization is the first to adopt a Tier 4 Government in the world.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_GOVERNMENT_ENACTED_TIER_4_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>The bold people of {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}} have developed a new political system of {GovernmentType}, inaugurating a new era of governance!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_IMPROVEMENT_CONSTRUCTED_MOUNTAIN_TUNNEL_FIRST">
+			<Text>First Mountain Tunnel</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_IMPROVEMENT_CONSTRUCTED_MOUNTAIN_TUNNEL_FIRST_DESCRIPTION">
+			<Text>Your civilization builds its first Mountain Tunnel.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_IMPROVEMENT_CONSTRUCTED_MOUNTAIN_TUNNEL_FIRST_INSTANCE_DESCRIPTION">
+			<Text>Sit down, and let me sing you the ballad about how John Henry dug the first mountain tunnel in {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}}. </Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_IMPROVEMENT_CONSTRUCTED_MOUNTAIN_TUNNEL_FIRST_IN_WORLD">
+			<Text>First Mountain Tunnel in World</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_IMPROVEMENT_CONSTRUCTED_MOUNTAIN_TUNNEL_FIRST_IN_WORLD_DESCRIPTION">
+			<Text>Your civilization is the first to build a Mountain Tunnel in the world.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_IMPROVEMENT_CONSTRUCTED_MOUNTAIN_TUNNEL_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>Mountains are no obstacle for the people of {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}}, for they are the first in the world to build a tunnel through them.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_IMPROVEMENT_CONSTRUCTED_ON_DISASTER_YIELD_TILE_FIRST">
+			<Text>First Improvement after Natural Disaster</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_IMPROVEMENT_CONSTRUCTED_ON_DISASTER_YIELD_TILE_FIRST_DESCRIPTION">
+			<Text>Your civilization builds its first improvement on a tile that was enriched by a natural disaster.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_IMPROVEMENT_CONSTRUCTED_ON_DISASTER_YIELD_TILE_FIRST_INSTANCE_DESCRIPTION">
+			<Text>The adaptive people of {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}} build after a natural disaster, taking advantage of the renewed land.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_IMPROVEMENT_CONSTRUCTED_RENEWABLE_ENERGY_FIRST">
+			<Text>First Green Improvement</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_IMPROVEMENT_CONSTRUCTED_RENEWABLE_ENERGY_FIRST_DESCRIPTION">
+			<Text>Your civilization builds its first tile improvement dedicated to providing renewable [ICON_Power] Power.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_IMPROVEMENT_CONSTRUCTED_RENEWABLE_ENERGY_FIRST_INSTANCE_DESCRIPTION">
+			<Text>Now that we have built this {ImprovementType} to produce clean power, perhaps the smog of {CityName} will start to clear.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_IMPROVEMENT_CONSTRUCTED_RENEWABLE_ENERGY_FIRST_IN_WORLD">
+			<Text>First Green Improvement in World</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_IMPROVEMENT_CONSTRUCTED_RENEWABLE_ENERGY_FIRST_IN_WORLD_DESCRIPTION">
+			<Text>Your civilization is the first to build a tile improvement dedicated to providing renewable [ICON_Power] Power in the world.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_IMPROVEMENT_CONSTRUCTED_RENEWABLE_ENERGY_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>As the citizens of {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}} cheer the opening of their new {ImprovementType} near {CityName}, the sun breaks free from the clouds. Already the skies seem cleaner!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_MITIGATED_COASTAL_FLOOD">
+			<Text>Coastal Flood Mitigated</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_MITIGATED_COASTAL_FLOOD_DESCRIPTION">
+			<Text>Your Flood Barrier has prevented catastrophic damage from a coastal flood.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_MITIGATED_COASTAL_FLOOD_INSTANCE_DESCRIPTION">
+			<Text>The rising seas pound against the {CityName} Flood Barrier, but the city is safe.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_MITIGATED_RIVER_FLOOD">
+			<Text>River Flood Mitigated</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_MITIGATED_RIVER_FLOOD_DESCRIPTION">
+			<Text>Your constructed infrastructure has prevented damage from a river flood.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_MITIGATED_RIVER_FLOOD_INSTANCE_DESCRIPTION">
+			<Text>The waters of the {RiverName} rose, but our foresight prevented flooding in the surrounding land.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_PLAYER_EARNED_DIPLOMATIC_VICTORY_POINT">
+			<Text>Diplomatic Victory Resolution Won</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_PLAYER_EARNED_DIPLOMATIC_VICTORY_POINT_DESCRIPTION">
+			<Text>You have won the Diplomatic Victory resolution and earned Victory Points.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_PLAYER_EARNED_DIPLOMATIC_VICTORY_POINT_INSTANCE_DESCRIPTION">
+			<Text>We have earned the respect of the civilizations of the world, and even our enemies must admit this fact.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_PROJECT_FOUNDED_EXOPLANET">
+			<Text>Exoplanet Expedition Launched</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_PROJECT_FOUNDED_EXOPLANET_DESCRIPTION">
+			<Text>You have launched your civilization's expedition to a distant planet.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_PROJECT_FOUNDED_EXOPLANET_INSTANCE_DESCRIPTION">
+			<Text>Our expedition to a distant planet leaves orbit, as our people watch with hopeful eyes brimming with tears.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_PROJECT_FOUNDED_EXOPLANET_FIRST_IN_WORLD">
+			<Text>World's First Exoplanet Expedition Launched</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_PROJECT_FOUNDED_EXOPLANET_FIRST_IN_WORLD_DESCRIPTION">
+			<Text>You are the first in the world to launch an expedition to a distant planet.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_PROJECT_FOUNDED_EXOPLANET_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>The spaceship from {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}} glides from the earth's gravity, on its way to settle a distant world, crowded with people, supplies, and hope.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_ROUTE_CREATED_RAILROAD_CONNECTS_TWO_CITIES">
+			<Text>First Railroad Connection</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_ROUTE_CREATED_RAILROAD_CONNECTS_TWO_CITIES_DESCRIPTION">
+			<Text>Your civilization builds its first Railroad to connect two of your cities.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_ROUTE_CREATED_RAILROAD_CONNECTS_TWO_CITIES_INSTANCE_DESCRIPTION">
+			<Text>The {CityName} &amp; {OtherCityName} Railroad successfully links our cities.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_ROUTE_CREATED_RAILROAD_CONNECTS_TWO_CITIES_FIRST_IN_WORLD">
+			<Text>First Railroad Connection in World</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_ROUTE_CREATED_RAILROAD_CONNECTS_TWO_CITIES_FIRST_IN_WORLD_DESCRIPTION">
+			<Text>Your civilization is the first to build a Railroad to connect two of its cities in the world.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_ROUTE_CREATED_RAILROAD_CONNECTS_TWO_CITIES_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>A hammer drives home a golden spike, a crowd cheers, for the people of {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}} have completed the world's first railroad between {CityName} and {OtherCityName}!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_UNIT_TOURISM_BOMB">
+			<Text>First Rock Band Concert</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_UNIT_TOURISM_BOMB_DESCRIPTION">
+			<Text>Your civilization performs its first Rock Band concert.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_UNIT_TOURISM_BOMB_INSTANCE_DESCRIPTION">
+			<Text>The world-famous band from {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}} make their debut to a huge crowd of happy fans.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_UNIT_TOURISM_BOMB_FIRST_IN_WORLD">
+			<Text>First Rock Band Concert in World</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_UNIT_TOURISM_BOMB_FIRST_IN_WORLD_DESCRIPTION">
+			<Text>Your civilization is the first to perform a Rock Band concert in the world.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_UNIT_TOURISM_BOMB_FIRST_IN_WORLD_INSTANCE_DESCRIPTION">
+			<Text>The huge crowd cheers as the band from {LOC_GRAMMAR_CIVNAME &lt;&lt; {ActingPlayerCivName}} take the stage in a concert that will define an age.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_WORLD_CONGRESS_RESOLUTION_BID_SUCCESSFUL">
+			<Text>World Congress Resolution Bid Won</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_WORLD_CONGRESS_RESOLUTION_BID_SUCCESSFUL_DESCRIPTION">
+			<Text>You have successfully won the bid on a Resolution, and can determine its outcome.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_WORLD_CONGRESS_RESOLUTION_BID_SUCCESSFUL_INSTANCE_DESCRIPTION">
+			<Text>By successfully bidding on a Resolution, we take the first step to power in the World Congress: The capacity to shape the world's priorities.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_WORLD_CONGRESS_RESOLUTION_VOTE_SUCCESSFUL_AS_ONLY_VOTER">
+			<Text>World Congress Resolution Vote Won Singlehandedly</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_WORLD_CONGRESS_RESOLUTION_VOTE_SUCCESSFUL_AS_ONLY_VOTER_DESCRIPTION">
+			<Text>Despite being the only one to vote for it, your chosen Resolution has made it to the World Congress for consideration.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_WORLD_CONGRESS_RESOLUTION_VOTE_SUCCESSFUL_AS_ONLY_VOTER_INSTANCE_DESCRIPTION">
+			<Text>Our sole vote bringing forward this Resolution shows that our civilization is a truly indispensable member of the World Congress.</Text>
+		</Replace>
+		<!--Updates to old Moments-->
+		<Replace Language='en_US' Tag="LOC_MOMENT_PROJECT_FOUNDED_MARS_XP2">
+			<Text>Martian Colony Established</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_PROJECT_FOUNDED_MARS_DESCRIPTION_XP2">
+			<Text>You have established a colony on Mars.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_PROJECT_FOUNDED_MARS_INSTANCE_DESCRIPTION_XP2">
+			<Text>Sure, anyone could establish a presence on Mars. But our colony is the best.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_PROJECT_FOUNDED_MARS_FIRST_IN_WORLD_XP2">
+			<Text>World's First Martian Colony Established</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_PROJECT_FOUNDED_MARS_FIRST_IN_WORLD_DESCRIPTION_XP2">
+			<Text>You are the first in the world to establish a colony on Mars.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_PROJECT_FOUNDED_MARS_FIRST_IN_WORLD_INSTANCE_DESCRIPTION_XP2">
+			<Text>An engineer watches a rocket thunder from the launch pad, carrying the colonists to a new life. "This is really happening," she says. "We're going to Mars."</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_IMPROVEMENT_CONSTRUCTED_FIRST_UNIQUE_DESCRIPTION_XP2">
+			<Text>Your Builders have constructed this unique tile improvement for the first time.</Text>
+		</Replace>
+		<!--Commemorations-->
+		<Replace Language='en_US' Tag="LOC_MOMENT_CATEGORY_AERONAUTICAL_BONUS_EXPANSION2_GOLDEN_AGE">
+			<Text>Sky and Stars Golden Age:[NEWLINE]Unlocks the [ICON_TechBoosted] Eurekas for Satellites, Nuclear Fusion, and Nanotechnology if in the Information Era. When chosen in the Future Era the [ICON_TechBoosted] Eurekas for Smart Materials, Predictive Systems, and Offworld Mission are unlocked. +100% XP earned for all Air Units. Aluminum mines accumulate +2 more resources per turn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ERA_REVIEW_POPUP_ERA_SCORE_NON_BARBARIAN_UNITS_KILLED_BY_GDR">
+			<Text>Dedication Bonus: Non-Barbarian units killed by Giant Death Robots(+{1_ScoreIncrement} each)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GDR_KILL_OPPONENT_NOTIFICATION">
+			<Text>You have destroyed a non-Barbarian unit with a Giant Death Robot.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CATEGORY_AUTOMATON">
+			<Text>Automaton Warfare</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CATEGORY_AUTOMATON_BONUS_GOLDEN_AGE">
+			<Text>Automaton Warfare Golden Age:[NEWLINE]Gain a Giant Death Robot in your capital. Receive 3 [ICON_Resource_Uranium] Uranium per turn. [ICON_Resource_Uranium] Uranium mines accumulate +1 more resource per turn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CATEGORY_AUTOMATON_BONUS_NORMAL_AGE">
+			<Text>Automaton Warfare Dedication Bonus:[NEWLINE]Gain +1 Era Score each time you kill a non-Barbarian unit with a Giant Death Robot.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOMENT_CATEGORY_AUTOMATON_BONUS_DARK_AGE">
+			<Text>Automaton Warfare Dedication Bonus:[NEWLINE]Gain +1 Era Score each time you kill a non-Barbarian unit with a Giant Death Robot.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

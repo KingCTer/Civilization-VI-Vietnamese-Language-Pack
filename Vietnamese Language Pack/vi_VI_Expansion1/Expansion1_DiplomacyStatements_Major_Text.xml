@@ -1,0 +1,888 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Replace Language='en_US' Tag="LOC_DIPLO_RENEW_ALLIANCE_AI_AGREE_TO_PLAYER_POUNDMAKER">
+			<Text>Yes! It is better for our people to travel side-by-side than for them to walk alone.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_RENEW_ALLIANCE_AI_REFUSE_TO_PLAYER_POUNDMAKER">
+			<Text>While we were close before, the Cree must travel their own trail now.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_PROPOSE_ALLIANCE_AI_TO_PLAYER_POUNDMAKER">
+			<Text>All my life, I have sought peace between peoples. Let our alliance show others a better path.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_RENEW_ALLIANCE_PLAYER_AGREE_TO_AI_POUNDMAKER">
+			<Text>This is very good! </Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_RENEW_ALLIANCE_PLAYER_REFUSE_TO_AI_POUNDMAKER">
+			<Text>Perhaps one day you will realize that both our people were stronger when we were united.</Text>
+		</Replace>
+
+		<!-- Chandragupta Diplo Text -->
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_CHANDRAGUPTA_ANY">
+			<Text>Truly, India has long thought the same of your people. To declare so publicly is a privilege.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_CHANDRAGUPTA_ANY">
+			<Text>My people do not share my enthusiasm for our friendship. But they may warm to you, one day.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_CHANDRAGUPTA_ANY">
+			<Text>India thinks highly of your people. With your permission, I will declare our mutual friendship to all.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_CHANDRAGUPTA_ANY">
+			<Text>I can respect that.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_CHANDRAGUPTA_ANY">
+			<Text>The fault was mine. Forgive me.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_CHANDRAGUPTA_ANY">
+			<Text>I quite enjoyed hosting your delegation. They gave me much to consider of our mutual future.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_CHANDRAGUPTA_ANY">
+			<Text>Though I would be delighted to greet your delegation, I am occupied elsewhere. Another time!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_CHANDRAGUPTA_ANY">
+			<Text>Our delegation brings many gifts. Drink all the spiced buttermilk you desire! We can always send more.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_CHANDRAGUPTA_ANY">
+			<Text>Though I ignore your cruel words, India will long remember them.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_CHANDRAGUPTA_ANY">
+			<Text>You are an embarrassment to your people! You speak with two mouths, neither of them pleasant. (Denounces You).</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_GREETING_LEADER_CHANDRAGUPTA_ANY">
+			<Text>You are welcome to speak.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_CHANDRAGUPTA_ANY">
+			<Text>India sees your future as neither rival nor future vassal, but instead as a true partner. What do you say?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_CHANDRAGUPTA_ANY">
+			<Text>Our people have spilled enough blood—yours and mine both. Let us end this war for their sake.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_CHANDRAGUPTA_ANY">
+			<Text>Is this a jest? No.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_CHANDRAGUPTA_ANY">
+			<Text>It is past time to retire our forces from the battlefield. You must see the wisdom in this.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_CHANDRAGUPTA_ANY">
+			<Text>I humbly accept your request. India has much to gain from such an arrangement.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_CHANDRAGUPTA_ANY">
+			<Text>I cannot. For now, India's borders must remain closed to you.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_CHANDRAGUPTA_ANY">
+			<Text>Opening your borders would help bring your people closer to mine. I would, of course, reciprocate.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_CHANDRAGUPTA_ANY">
+			<Text>I don't believe your army intended to threaten India. Still, it is best they withdraw. Immediately.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_CHANDRAGUPTA_ANY">
+			<Text>You learned my own lessons far too well. I instructed you in my own demise.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_CHANDRAGUPTA_ANY">
+			<Text>No. India would not benefit.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_CHANDRAGUPTA_ANY">
+			<Text>A wise proposal!</Text>
+		</Replace>
+
+		<!-- Lautaro Diplo Text -->
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_LAUTARO_ANY">
+			<Text>The world will know we lead two peoples with one will.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_LAUTARO_ANY">
+			<Text>Mapuche are not prepared for this friendship. Perhaps in time we will be.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_LAUTARO_ANY">
+			<Text>One will; two peoples. Should we tell the world we stand as friends?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_LAUTARO_ANY">
+			<Text>Yes, good.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_LAUTARO_ANY">
+			<Text>This leaves an ill taste in my mouth.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_LAUTARO_ANY">
+			<Text>I thank you for your delegation. Mapuche welcome them as honored visitors.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_LAUTARO_ANY">
+			<Text>Your delegation may not enter Mapuche cities.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_LAUTARO_ANY">
+			<Text>Mapuche send gifts. The cloth is our finest work. The charquicán is delicious. Please accept these.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_LAUTARO_ANY">
+			<Text>Your deeds reflect your true nature. The Mapuche cannot stand you!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_LAUTARO_ANY">
+			<Text>Mapuche use your name as a curse. Who can stand with you? Your friends turn their backs to you. (Denounces You).</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_GREETING_LEADER_LAUTARO_ANY">
+			<Text>Ah, it's you.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_LAUTARO_ANY">
+			<Text>I know now that you are worthy. Mapuche invite you to stand with us.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_LAUTARO_ANY">
+			<Text>Mapuche have no more stomach for this war. </Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_LAUTARO_ANY">
+			<Text>I cannot.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_LAUTARO_ANY">
+			<Text>This war binds us to a destructive path. Let us instead walk freely.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_LAUTARO_ANY">
+			<Text>You are welcome to cross Mapuche land.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_LAUTARO_ANY">
+			<Text>This land is for Mapuche alone. You must go elsewhere.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_LAUTARO_ANY">
+			<Text>Mapuche wish to travel your lands, just as you would wish to travel ours.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_LAUTARO_ANY">
+			<Text>Mapuche think your armies intend us harm. I will give you a chance to set our minds at ease.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_LAUTARO_ANY">
+			<Text>We resisted to the last, but it was too late … too late.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_LAUTARO_ANY">
+			<Text>You offend me.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_LAUTARO_ANY">
+			<Text>You honor Mapuche with this.</Text>
+		</Replace>
+
+		<!-- Poundmaker Diplo Text -->
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_POUNDMAKER_ANY">
+			<Text>I am happiest making peace between nations. Friendship between our people brings me joy.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_POUNDMAKER_ANY">
+			<Text>It is good that you wish to be friends with the Cree, but my people are not ready. Not now.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_POUNDMAKER_ANY">
+			<Text>The Cree are ready to welcome you as friends. Please, I ask you, honor their trust.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_POUNDMAKER_ANY">
+			<Text>Good, good.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_POUNDMAKER_ANY">
+			<Text>This is not what I wanted.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_POUNDMAKER_ANY">
+			<Text>My people welcomed your delegation to our council fires.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_POUNDMAKER_ANY">
+			<Text>No, my people do not wish for gifts such as these.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_POUNDMAKER_ANY">
+			<Text>My people send you gifts—buffalo robes and pimihkan. With these you will last through winter.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_POUNDMAKER_ANY">
+			<Text>You word is worthless, your people go astray, and you have no friends who will stand by you.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_POUNDMAKER_ANY">
+			<Text>I swear to protect my people from the likes of you. Your lies pollute the air. You live only to steal. (Denounces You).</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_GREETING_LEADER_POUNDMAKER_ANY">
+			<Text>You are welcome.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_POUNDMAKER_ANY">
+			<Text>Long have the Cree made allies of our friends. Will you be the next to join us?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_POUNDMAKER_ANY">
+			<Text>From an unjust war may come a whole peace between us.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_POUNDMAKER_ANY">
+			<Text>No, this is untenable.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_POUNDMAKER_ANY">
+			<Text>I have always wanted peace. Can our peoples find a way to walk this path?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_POUNDMAKER_ANY">
+			<Text>There is room enough for your people to cross our lands.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_POUNDMAKER_ANY">
+			<Text>The Cree do not trust you. Please keep to your lands.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_POUNDMAKER_ANY">
+			<Text>My people wish to cross your lands. Will you allow them?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_POUNDMAKER_ANY">
+			<Text>Why do you send so many armies near our borders? A single rash act, and peace would be broken.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_POUNDMAKER_ANY">
+			<Text>Had I wanted war, I would not be here now. You did not catch me. I gave myself up.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_POUNDMAKER_ANY">
+			<Text>A fool would accept this. I am no fool.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_POUNDMAKER_ANY">
+			<Text>I see the wisdom in this. Agreed.</Text>
+		</Replace>
+
+		<!-- Robert The Bruce Diplo Text -->
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_ROBERT_THE_BRUCE_ANY">
+			<Text>What a happy day! We will stand together as one, like the two arms of the saltire.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_ROBERT_THE_BRUCE_ANY">
+			<Text>I think you're the right sort, but Scotland still has their reservations about you. Not now.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_ROBERT_THE_BRUCE_ANY">
+			<Text>In a world of seething backbiters, fair-minded folk must unite as friends.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_ROBERT_THE_BRUCE_ANY">
+			<Text>Magnificent.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_ROBERT_THE_BRUCE_ANY">
+			<Text>No, I understand.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_ROBERT_THE_BRUCE_ANY">
+			<Text>I've received your delegation and treated them to a cèilidh. We danced until the roosters crowed!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_ROBERT_THE_BRUCE_ANY">
+			<Text>Scotland would rather have true words from you than fair gifts, so I've sent your delegation back.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_ROBERT_THE_BRUCE_ANY">
+			<Text>Please accept my people's finest tweeds and haggis. Oh, and hark to the pipers! Are they not grand?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_ROBERT_THE_BRUCE_ANY">
+			<Text>You reeking midden! You crooked broker of worthless words! Get out of my sight!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_ROBERT_THE_BRUCE_ANY">
+			<Text>You feckless idiot! I'd brain you with an axe, but I'm afraid your thick pate'd shatter it. (Denounces You).</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_GREETING_LEADER_ROBERT_THE_BRUCE_ANY">
+			<Text>Go on, speak.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_ROBERT_THE_BRUCE_ANY">
+			<Text>We're much alike, you and I. Take my hand, and let us show the world we stand allied!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_ROBERT_THE_BRUCE_ANY">
+			<Text>Scotland enjoys knocking your forces about, but enough is enough.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_ROBERT_THE_BRUCE_ANY">
+			<Text>Of course not!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_ROBERT_THE_BRUCE_ANY">
+			<Text>Let's speak plain. No "mutual disengagement, cessation of hostilities, et cetera." Truce, or not?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_ROBERT_THE_BRUCE_ANY">
+			<Text>That's fair. Mind you don't knock the pasture walls as you cross them.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_ROBERT_THE_BRUCE_ANY">
+			<Text>You can't just come and roam about.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_ROBERT_THE_BRUCE_ANY">
+			<Text>A good neighbor is one who lets a man cross his fields, wouldn't you agree?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_ROBERT_THE_BRUCE_ANY">
+			<Text>Your troops should not parade outside Scotland's territory. Best move them away.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_ROBERT_THE_BRUCE_ANY">
+			<Text>A lonely wind blows through the highlands today. A dirge for Scotland. Can you it hear?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_ROBERT_THE_BRUCE_ANY">
+			<Text>What a shabby offer. No.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_ROBERT_THE_BRUCE_ANY">
+			<Text>Hmm. Agreed.</Text>
+		</Replace>
+
+		<!-- Seondeok Diplo Text -->
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_SEONDEOK_ANY">
+			<Text>Korea gladly accepts your declaration. I was about to ask the same of you.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_SEONDEOK_ANY">
+			<Text>I cannot accept your declaration. To do so would cause more trouble for Korea than its worth.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_SEONDEOK_ANY">
+			<Text>I feel I must declare Korea's friendship with your people. With your agreement, of course.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_SEONDEOK_ANY">
+			<Text>How wonderful.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_SEONDEOK_ANY">
+			<Text>It is not to be, then.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_SEONDEOK_ANY">
+			<Text>We are grateful to receive your delegation. We welcome the gifts you provided.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_SEONDEOK_ANY">
+			<Text>Korea is wary of receiving a gift until we know the intentions of its benefactor.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_SEONDEOK_ANY">
+			<Text>Please accept our delicious yukpo. The soy keeps the beef tender and flavorful.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_SEONDEOK_ANY">
+			<Text>Korea has done nothing to deserve your vile insults! But now, perhaps we shall.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_SEONDEOK_ANY">
+			<Text>You are the ocean's offal—your stink clings to everything you touch. (Denounces You).</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_GREETING_LEADER_SEONDEOK_ANY">
+			<Text>You may speak.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_SEONDEOK_ANY">
+			<Text>Korea's allies are its strength. We would both be stronger together.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_SEONDEOK_ANY">
+			<Text>I will betray my desire to defeat you in return for a lasting peace. That, I shall not betray.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_SEONDEOK_ANY">
+			<Text>Out of the question.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_SEONDEOK_ANY">
+			<Text>This war has become a distraction for us both. Let us disengage and attend to our people.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_SEONDEOK_ANY">
+			<Text>I welcome the trade and exchange of ideas that comes with open borders.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_SEONDEOK_ANY">
+			<Text>It is prudent to keep our borders closed to you until your intentions are clear.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_SEONDEOK_ANY">
+			<Text>Despite the prudence of caution, open borders could do well to improve our relations.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_SEONDEOK_ANY">
+			<Text>Korea does not appreciate the soldiers near our borders. Withdraw them immediately.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_SEONDEOK_ANY">
+			<Text>I foresaw my own end, but not that Korea would share my fate.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_SEONDEOK_ANY">
+			<Text>Thank you, but I cannot agree.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_SEONDEOK_ANY">
+			<Text>An appealing offer. Korea shall agree.</Text>
+		</Replace>
+
+		<!-- Genghis Khan Diplo Text -->
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GENGHIS_KHAN_ANY">
+			<Text>Eagles soar above doves and rabbits. Let us stand in friendship, and the rest can cower in our shadow.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_GENGHIS_KHAN_ANY">
+			<Text>No. Don't assume Mongolia admires you that much.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_GENGHIS_KHAN_ANY">
+			<Text>Accept Mongolia's friendship! I want to see the world tremble when they learn we are united.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_GENGHIS_KHAN_ANY">
+			<Text>Mongolia will appreciate this.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_GENGHIS_KHAN_ANY">
+			<Text>Mongolia will remember this.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_GENGHIS_KHAN_ANY">
+			<Text>My riders escorted your delegation to safety and distributed your gifts. They were adequate.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_GENGHIS_KHAN_ANY">
+			<Text>Your gifts are unnecessary. If I wanted those things, I would take them.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_GENGHIS_KHAN_ANY">
+			<Text>I am sending you gifts—surplus horses, a youth's bow, and airag to fortify you. Drink up!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_GENGHIS_KHAN_ANY">
+			<Text>Foolish and feeble! How have you not been conquered yet?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_GENGHIS_KHAN_ANY">
+			<Text>Your weakness and folly anger me. One day, perhaps soon, you will learn the danger in that. (Denounces You).</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_GREETING_LEADER_GENGHIS_KHAN_ANY">
+			<Text>I shall weigh your words.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_GENGHIS_KHAN_ANY">
+			<Text>Ride with Mongolia. You know your heart yearns for this alliance.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_GENGHIS_KHAN_ANY">
+			<Text>Though I prefer to continue this fight, Mongolia does not.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_GENGHIS_KHAN_ANY">
+			<Text>Not if you added your finest horse.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_GENGHIS_KHAN_ANY">
+			<Text>We both know Mongolia will defeat you. Let us suspend this war. For now.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_GENGHIS_KHAN_ANY">
+			<Text>You may cross our lands. Marvel at our strengths as you pass through.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_GENGHIS_KHAN_ANY">
+			<Text>What is ours is ours, whether it be herds or lands. </Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_GENGHIS_KHAN_ANY">
+			<Text>I want you to let my forces travel across your land. </Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_GENGHIS_KHAN_ANY">
+			<Text>The armies you have near our borders are a tempting target. For their safety, you should move them.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_GENGHIS_KHAN_ANY">
+			<Text>You have hobbled the Mongolian clans. My respect for you nearly matches the loathing.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_GENGHIS_KHAN_ANY">
+			<Text>You call it a deal. I call it robbery.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_GENGHIS_KHAN_ANY">
+			<Text>Agreed. Best for both of us.</Text>
+		</Replace>
+
+		<!-- Shaka Diplo Text -->
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_SHAKA_ANY">
+			<Text>Of course! The children of Zulu respect your people, and you have proven yourself a true friend.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_SHAKA_ANY">
+			<Text>You are no true friend to the children of Zulu. With more effort, you could be, but now? No.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_SHAKA_ANY">
+			<Text>The children of Zulu will stand with you, if you stand with them. Shall we declare our friendship?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_SHAKA_ANY">
+			<Text>I am not beyond gratitude.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_SHAKA_ANY">
+			<Text>Do not mock me.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_SHAKA_ANY">
+			<Text>Your delegation arrived. The children of Zulu welcome your gifts, but do not think to purchase loyalty.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_SHAKA_ANY">
+			<Text>Until I know your measure, I can accept no gift you provide.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_SHAKA_ANY">
+			<Text>I sent a ceremonial iklwa. They're named for the sound they make when pulled from wounds.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_SHAKA_ANY">
+			<Text>Your words are foul. You have a rot at your center. The only way to cleanse that is to cut it out.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_SHAKA_ANY">
+			<Text>A weak body can train. A weak mind can learn. But as you reveal, there is no cure for a weak heart. (Denounces You).</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_GREETING_LEADER_SHAKA_ANY">
+			<Text>You again.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_SHAKA_ANY">
+			<Text>The differences amongst our people mean nothing. Will you fight by our side? This is all that matters.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_SHAKA_ANY">
+			<Text>If you seek peace, the children of Zulu will accept your request.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_SHAKA_ANY">
+			<Text>You waste my time.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_SHAKA_ANY">
+			<Text>This war destroys us both. Any victory would be hollow. Come, let us stay our weapons.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_SHAKA_ANY">
+			<Text>Agreed. It is better to see your neighbor's strength than imagine weakness.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_SHAKA_ANY">
+			<Text>The children of Zulu have no use for your people blundering through our lands.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_SHAKA_ANY">
+			<Text>The children of Zulu have nothing to hide. Your people are welcome within our lands.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_SHAKA_ANY">
+			<Text>The troops you march along Zulu borders make a tempting target for my impi.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_SHAKA_ANY">
+			<Text>True, you ended my reign. But I will live on in your nightmares.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_SHAKA_ANY">
+			<Text>Do not mock me.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_SHAKA_ANY">
+			<Text>Yes—for now.</Text>
+		</Replace>
+
+		<!-- Tamar Diplo Text -->
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_TAMAR_ANY">
+			<Text>I thought this a cruel jest, but upon reflection, I note your sincerity. Georgia agrees to your request.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_TAMAR_ANY">
+			<Text>Friendship? Georgia is many things, but not one involves being your friend.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_TAMAR_ANY">
+			<Text>You number amongst the few Georgia can trust. Should you agree, I will let it be known to all.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_TAMAR_ANY">
+			<Text>Your actions are worthy of my gratitude.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_TAMAR_ANY">
+			<Text>You are impossible.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_TAMAR_ANY">
+			<Text>Your delegation did not cause an incident. I consider that a success.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_TAMAR_ANY">
+			<Text>Georgia has pressing matters. This is no time to host your merchants.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_TAMAR_ANY">
+			<Text>Georgian merchants bring many strings of churchkhela. They make a filling dessert.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_TAMAR_ANY">
+			<Text>You are a detestable person. Your people deserve a better leader than you.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_TAMAR_ANY">
+			<Text>To call you a thoughtless cur is an insult to curs. (Denounces You).</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_GREETING_LEADER_TAMAR_ANY">
+			<Text>Why have you disturbed me?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_TAMAR_ANY">
+			<Text>Combining our strength shall give our mutual enemies pause. Presuming you see the benefit.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_TAMAR_ANY">
+			<Text>I am satisfied you learned your lesson. This war may end.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_TAMAR_ANY">
+			<Text>Regrettable. Deeply regrettable.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_TAMAR_ANY">
+			<Text>This war must end. I will admit no fault in its cause.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_TAMAR_ANY">
+			<Text>I suppose it will encourage trade between our peoples. Georgia shall open its borders. For now.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_TAMAR_ANY">
+			<Text>Georgia does not need foreign influence in its lands. At least, not yours.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_TAMAR_ANY">
+			<Text>My advisors recommend Georgia opens its borders. I see some wisdom in their words.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_TAMAR_ANY">
+			<Text>You test my patience with soldiers along Georgian borders. Remove them or they shall be removed.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_TAMAR_ANY">
+			<Text>Walls weren't enough to save Georgia from ruin. Neither was I.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_TAMAR_ANY">
+			<Text>Try again. This time, with a real offer.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_TAMAR_ANY">
+			<Text>It pains me to agree, but I must.</Text>
+		</Replace>
+
+		<!-- Wilhelmina Diplo Text -->
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_WILHELMINA_ANY">
+			<Text>We are greatly pleased to accept the hand of friendship. May our future be long and prosperous!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_WILHELMINA_ANY">
+			<Text>We do not recognize your claim of friendship with the Netherlands.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_WILHELMINA_ANY">
+			<Text>Civilizations with such friendly relations as ours should proclaim this to the world, wouldn't you agree?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_WILHELMINA_ANY">
+			<Text>Wonderful.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_WILHELMINA_ANY">
+			<Text>How unfortunate.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_WILHELMINA_ANY">
+			<Text>We have welcomed your delegates with appropriate honors, and we thank you.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_WILHELMINA_ANY">
+			<Text>It is inappropriate for us to accept your gifts, as I am sure you understand.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_WILHELMINA_ANY">
+			<Text>The Netherlands send you gifts of greeting—wooden shoes, cheeses, and some delightful stroopwafel. </Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_WILHELMINA_ANY">
+			<Text>We give you the benefit of our frank opinion: That you are unfit to rule, and a threat to the Netherlands.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_WILHELMINA_ANY">
+			<Text>It is our fervent desire to tell you just how awful we find you, and we wish your reign to be brief. (Denounces You).</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_GREETING_LEADER_WILHELMINA_ANY">
+			<Text>You have our attention.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_WILHELMINA_ANY">
+			<Text>You have proven a reliable partner in our nation's cause, and we seek to deepen this relationship.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_WILHELMINA_ANY">
+			<Text>Yes. Our fight has gone on long enough. Let us rebuild what we have lost.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_WILHELMINA_ANY">
+			<Text>Simply impossible.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_WILHELMINA_ANY">
+			<Text>The Netherlands would rather trade goods than blows. We should end this war, immediately.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_WILHELMINA_ANY">
+			<Text>The Netherlands is pleased to accept your proposal and will open our borders to you.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_WILHELMINA_ANY">
+			<Text>We cannot allow you to cross our lands freely.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_WILHELMINA_ANY">
+			<Text>Would not our interests be best served by opening travel between our lands?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_WILHELMINA_ANY">
+			<Text>Do you think us unaware of your plans? We demand you move your troops from our borders at once! </Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_WILHELMINA_ANY">
+			<Text>With God's help, may the Netherlands one day reclaim its territory.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_WILHELMINA_ANY">
+			<Text>We must decline.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_WILHELMINA_ANY">
+			<Text>We have heard no better offer.</Text>
+		</Replace>
+
+		<!-- Leader Text-->
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_EXIT_LEADER_CHANDRAGUPTA_ANY">
+			<Text>The best neighbors are distant ones. Right now, you are India's best neighbor.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_EXIT_LEADER_CHANDRAGUPTA_ANY">
+			<Text>There is no distance between our lands. My people are forced to endure the stench of your own.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_EXIT_LEADER_LAUTARO_ANY">
+			<Text>Your people take great pride in where they come from. It is clear they follow your lead.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_EXIT_LEADER_LAUTARO_ANY">
+			<Text>How do you lead such a boring people? Do they follow the example you set?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_EXIT_LEADER_POUNDMAKER_ANY">
+			<Text>I have great respect for those who declare their friendships to the world.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_EXIT_LEADER_POUNDMAKER_ANY">
+			<Text>Choose your friendships wisely—but you must choose.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_EXIT_LEADER_ROBERT_THE_BRUCE_ANY">
+			<Text>Wise to keep peace with your neighbors. Blood feuds are paid at great expense.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_EXIT_LEADER_ROBERT_THE_BRUCE_ANY">
+			<Text>Keep your wars distant. Otherwise you track the muck through your own lands.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_EXIT_LEADER_SEONDEOK_ANY">
+			<Text>Your mastery of creation's secrets is the envy of my people.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_EXIT_LEADER_SEONDEOK_ANY">
+			<Text>While others reach for the heavens, you claw at the dirt.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_EXIT_LEADER_GENGHIS_KHAN_ANY">
+			<Text>The cavalry you field is an embarrassment, but thankfully a small one.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_EXIT_LEADER_GENGHIS_KHAN_ANY">
+			<Text>You wouldn't wear a sheep's bladder and call it a helmet. So why claim you have amassed "cavalry?"</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_EXIT_LEADER_SHAKA_ANY">
+			<Text>The armies you field reveal your strength. Did you purge the rabble? Always wise to purge the rabble.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_EXIT_LEADER_SHAKA_ANY">
+			<Text>Why allow your forces to keep their identity? They should band together to serve one will—yours.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_EXIT_LEADER_TAMAR_ANY">
+			<Text>I appreciate the walls you build for your people. You have a Georgian spirit.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_EXIT_LEADER_TAMAR_ANY">
+			<Text>Your people are too trusting. They'll let anyone into their cities—even barbarians.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_EXIT_LEADER_WILHELMINA_ANY">
+			<Text>The Netherlands flourishes with every shipment you send to us.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_EXIT_LEADER_WILHELMINA_ANY">
+			<Text>Those who refuse trade often think they can take what they want from us. They are sorely mistaken.</Text>
+		</Replace>
+		<!-- First AI line -->
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_LEADER_CHANDRAGUPTA_ANY">
+			<Text>I am Chandragupta, Mauryan emperor of unified India. No, it has not gone to my head.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_LEADER_LAUTARO_ANY">
+			<Text>I am Lautaro, the Swift Hawk. Mapuche honor me with respect. Will I see the same from you?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_LEADER_POUNDMAKER_ANY">
+			<Text>I am Poundmaker, and I represent the Cree. May there always be peace between us.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_LEADER_ROBERT_THE_BRUCE_ANY">
+			<Text>I am Robert the Bruce. Scotland follows me—be it through fields of wheat or of battle.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_LEADER_SEONDEOK_ANY">
+			<Text>I, Seondeok of Korea, acknowledge you. Our meeting was foreseen.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_LEADER_GENGHIS_KHAN_ANY">
+			<Text>I am Genghis Khan. Before me lie future Mongolian lands. Behind me is the only cavalry that matters.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_LEADER_SHAKA_ANY">
+			<Text>You stand before Shaka of the Zulu. Dare you turn your back to my armies? I will make no such mistake.</Text>
+		</Replace>		
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_LEADER_TAMAR_ANY">
+			<Text>I am Tamar of Georgia. Say what you will and be on your way.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_LEADER_WILHELMINA_ANY">
+			<Text>I am Wilhelmina, Queen of the Netherlands. It is my great pleasure to finally meet you.</Text>
+		</Replace>					
+		<!-- AI invitation to visit nearby City -->
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_CHANDRAGUPTA_ANY">
+			<Text>You travel near Indian territory. Why not visit and relax at our grand stepwells?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_LAUTARO_ANY">
+			<Text>You approach Mapuche land. Do you seek to walk among our chemamull, and learn of our ancestors?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_POUNDMAKER_ANY">
+			<Text>I invite you to come as my guest and see how the Cree live.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_ROBERT_THE_BRUCE_ANY">
+			<Text>While you're in the neighborhood, wouldn't you want to see our capital?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_SEONDEOK_ANY">
+			<Text>You must visit our capital. Our seowon are the finest examples of scientific and political thought.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_GENGHIS_KHAN_ANY">
+			<Text>Do you know whose lands you approach? See the Keshik gather, and know that this is Mongolia.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_SHAKA_ANY">
+			<Text>You must travel to the Zulu capital. There is strength in our ikanda—which you should see for yourself.</Text>
+		</Replace>		
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_TAMAR_ANY">
+			<Text>I shall direct you to our capital. Behold our highly defensible tsikhe.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_WILHELMINA_ANY">
+			<Text>The Netherlands welcomes you to learn of our capital, and invite you to reciprocate.</Text>
+		</Replace>		
+		<!-- AI accepts Human invitation -->
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_CHANDRAGUPTA_ANY">
+			<Text>Only a fool could decline.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_LAUTARO_ANY">
+			<Text>You honor Mapuche with this.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_POUNDMAKER_ANY">
+			<Text>I see the wisdom in this. Agreed.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_ROBERT_THE_BRUCE_ANY">
+			<Text>Can't say no to that.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_SEONDEOK_ANY">
+			<Text>An appealing offer. Korea shall agree.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_GENGHIS_KHAN_ANY">
+			<Text>I can accept this.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_SHAKA_ANY">
+			<Text>Acceptable.</Text>
+		</Replace>		
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_TAMAR_ANY">
+			<Text>Very well.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_WILHELMINA_ANY">
+			<Text>We express our gratitude.</Text>
+		</Replace>		
+		<!-- AI invitation to exchange Capital Information -->
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_CHANDRAGUPTA_ANY">
+			<Text>We should speak of our capitals. Determine just how far we are from one another.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_LAUTARO_ANY">
+			<Text>I will tell you of the capital of Mapuche, if you will tell me of your capital.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_POUNDMAKER_ANY">
+			<Text>Come and see where my people live, and show us where you call home.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_ROBERT_THE_BRUCE_ANY">
+			<Text>I've a mind to take a look at your capital. And as I'm a fair man, I'll bring you to see Scotland's.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_SEONDEOK_ANY">
+			<Text>I will provide directions to our capital, should you reciprocate.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_GENGHIS_KHAN_ANY">
+			<Text>We should exchange information on our capitals. Someday I may want to visit you.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_SHAKA_ANY">
+			<Text>I can direct you to the Zulu capital, if you direct me to yours. A risk to share, yes—but a small one.</Text>
+		</Replace>		
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_TAMAR_ANY">
+			<Text>We should provide directions to our capitals so we may deal with each other directly.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_WILHELMINA_ANY">
+			<Text>We desire to trade the location of our capital cities, to our mutual and lasting benefit.</Text>
+		</Replace>	
+
+		<!-- Diplomatic rationales for denouncement -->
+		<Replace Language='en_US' Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_BILLIONAIRE_TRADE">
+			<Text>(You are not trading with them.)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_CHEOMSEONGDAE_LOW_SCIENCE">
+			<Text>(Your science output is woeful.)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_FLOWER_OF_SCOTLAND_WAR_NEIGHBORS">
+			<Text>(You are fighting with your neighbors.)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_HORNS_CHEST_LOINS">
+			<Text>(Your use of corps/armies is pathetic.)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_HORSE_LORD">
+			<Text>(Your cavalry is too competitive.)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_IRON_CONFEDERACY_FEW_ALLIANCES">
+			<Text>(You do not have enough alliances.)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_MAURYA_EMPIRE_NEIGHBORS">
+			<Text>(Your borders are too close to him.)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_NARIKALA_FORTRESS_LOW_WALLS">
+			<Text>(You aren't building enough walls.)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_SPIRIT_OF_TUCAPEL_LOSING_CITIES">
+			<Text>(You are losing cities due to lack of loyalty.)</Text>
+		</Replace>
+
+		<!-- Human Declares War -->
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_CHANDRAGUPTA_ANY">
+			<Text>India does not fear war. The most you can do is slow our rightful advance.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_LAUTARO_ANY">
+			<Text>I knew you could not be trusted! We have long prepared for this war. Have you?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_POUNDMAKER_ANY">
+			<Text>You could have found another way. Now, your regrets will be measured in blood.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_ROBERT_THE_BRUCE_ANY">
+			<Text>You gormless radger! You'll dine on your own teeth before you set foot in Scotland!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_SEONDEOK_ANY">
+			<Text>Your defeat shall be swift … your people, forgotten. This I have foreseen.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_GENGHIS_KHAN_ANY">
+			<Text>No more words. Today, Mongolia charges toward your defeat.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_SHAKA_ANY">
+			<Text>Strong words, but they quaver on your lips. Already I see you weaken in fear.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_TAMAR_ANY">
+			<Text>Georgian hearts will not tremble before your multitudes.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_WILHELMINA_ANY">
+			<Text>Your treacherous aggression shall not succeed. The Netherlands resists!</Text>
+		</Replace>
+
+		<!-- AI Declares War -->
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_CHANDRAGUPTA_ANY">
+			<Text>Your territory could be much improved under Indian rule. Best I see it through.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_LAUTARO_ANY">
+			<Text>It comes to war. Mapuche shall use your own weapons against you!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_POUNDMAKER_ANY">
+			<Text>I do not care to inflict the terrors of war upon you—but justice requires it.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ROBERT_THE_BRUCE_ANY">
+			<Text>War lingers in our hearts. Why carry on with a false peace?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_SEONDEOK_ANY">
+			<Text>The stars predict your defeat. Why argue with the heavens?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_GENGHIS_KHAN_ANY">
+			<Text>You stand in the way of my armies. Soon, you shall fall before them.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_SHAKA_ANY">
+			<Text>There is too much weakness in you. Fear not—the children of Zulu shall remove it.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_TAMAR_ANY">
+			<Text>God fights with us. You stand alone.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_WILHELMINA_ANY">
+			<Text>The Netherlands does not fear you. When we defeat you, we will be stronger than ever.</Text>
+		</Replace>
+
+	</LocalizedText>
+</GameData>

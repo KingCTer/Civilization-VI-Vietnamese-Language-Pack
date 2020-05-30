@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+
+		<Replace Language='en_US' Tag="LOC_DIPLO_CHOICE_DECLARE_WAR">
+			<Text>[SIZE_16]Declare War[NEWLINE][SIZE_12]</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOACTION_DECLARE_WAR_NAME">
+			<Text>Declare War</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOACTION_DECLARE_WAR_DESCRIPTION">
+			<Text>Used to immediately start a war.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="DIPLOACTION_KEEP_DONT_ATTACK_CITY_STATE">
+			<Text>Promise To Not Attack City States</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="DIPLOACTION_KEEP_DONT_ATTACK_ALLY">
+			<Text>Promise To Not Attack My Allies</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_CHOICE_GENERATES_GRIEVANCES_INFO">
+			<Text>Generates [COLOR_Civ6DarkRed]{1_WarmongerLevel}[ENDCOLOR] [ICON_STAT_GRIEVANCE] Grievances</Text>
+		</Replace>
+    <Replace Language='en_US' Tag="LOC_DIPLO_CHOICE_GENERATES_GRIEVANCES_INFO_SUZERAIN">
+      <Text>Generates [COLOR_Civ6DarkRed]{1_WarmongerLevel}[ENDCOLOR] [ICON_STAT_GRIEVANCE] Grievances (Suzerain)</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_DIPLO_CHOICE_GENERATES_GRIEVANCES_INFO_ENVOYS_PRESENT">
+      <Text>Generates [COLOR_Civ6DarkRed]{1_WarmongerLevel}[ENDCOLOR] [ICON_STAT_GRIEVANCE] Grievances (Envoys Present)</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_DIPLOACTION_WORLD_CONGRESS_TAB_TOOLTIP">
+			<Text>View the [ICON_STAT_GRIEVANCE] Grievances log.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOACTION_INTEL_REPORT_GRIEVANCES">
+			<Text>Intel Report: Grievances Log</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GRIEVANCE_LOG_COMING_SOON">
+			<Text>Grievances log, coming soon...</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOACTION_INTEL_GRIEVANCES">
+			<Text>Grievances</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOACTION_INTEL_AMOUNT">
+			<Text>Amount</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOACTION_INTEL_TURN">
+			<Text>Turn</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOACTION_INTEL_REASON">
+			<Text>Reason</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOACTION_INTEL_NO_GRIEVANCES">
+			<Text>There is no history of [ICON_STAT_GRIEVANCE] Grievances with this leader.</Text>
+		</Replace>
+    <Replace Language='en_US' Tag="LOC_DIPLOACTION_DECLARE_SURPRISE_WAR_DESCRIPTION">
+      <Text>Used to immediately start a war. [ICON_STAT_GRIEVANCE] Grievances generated increased by 50% above normal.</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_DIPLOACTION_DECLARE_HOLY_WAR_DESCRIPTION">
+			<Text>Used to declare war on a power that has religiously converted one of your cities. Half the usual [ICON_STAT_GRIEVANCE] Grievances generated.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOACTION_DECLARE_LIBERATION_WAR_DESCRIPTION">
+			<Text>Used to declare war on a power that has captured a city from one of your friends or allies.  No [ICON_STAT_GRIEVANCE] Grievances generated for liberating any of those cities.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOACTION_DECLARE_RECONQUEST_WAR_DESCRIPTION">
+			<Text>Used to declare war on a power that has captured one of your cities. No [ICON_STAT_GRIEVANCE] Grievances generated.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOACTION_DECLARE_PROTECTORATE_WAR_DESCRIPTION">
+			<Text>Used to declare war on a power that has attacked one of your allied city-states. No [ICON_STAT_GRIEVANCE] Grievances generated for liberating that city-state.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOACTION_DECLARE_COLONIAL_WAR_DESCRIPTION">
+			<Text>Used to declare war on a power that is two technology eras behind you. Half the usual [ICON_STAT_GRIEVANCE] Grievances generated.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOACTION_DECLARE_TERRITORIAL_WAR_DESCRIPTION">
+			<Text>Used to declare war on a power that borders your empire. Must have 2 of your cities within 10 tiles of 2 opponents' cities. 25% reduction in [ICON_STAT_GRIEVANCE] Grievances generated.</Text>
+		</Replace>	
+		<Replace Language='en_US' Tag="LOC_DIPLOACTION_DECLARE_GOLDEN_AGE_WAR_DESCRIPTION">
+			<Text>Used to declare war on a player while you are in a Golden Age with a "To Arms!" Dedication. Can be used right after Denouncing a civilization, without waiting the normal amount of turns. No restrictions on which cities you may capture. 75% reduction in [ICON_STAT_GRIEVANCE] Grievances generated.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOACTION_DECLARE_WAR_OF_RETRIBUTION_DESCRIPTION">
+			<Text>Used to declare war on a player who has broken a promise to you within the past 30 turns. No restrictions on which cities you may capture. Half the usual [ICON_STAT_GRIEVANCE] Grievances generated.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOACTION_DECLARE_IDEOLOGICAL_WAR_DESCRIPTION">
+			<Text>Used to declare war on a player who is in a different Tier 3 government. No restrictions on which cities you may capture. Half the usual [ICON_STAT_GRIEVANCE] Grievances generated.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DEAL_PLAYER_HAS_NO_CAP_ROOM">
+			<Text>You already have the maximum amount of this item.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DEAL_AI_HAS_NO_CAP_ROOM">
+			<Text>They already have the maximum amount of this item.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

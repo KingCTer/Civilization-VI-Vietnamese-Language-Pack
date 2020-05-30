@@ -1,56 +1,56 @@
 <!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
 <GameData>
-	<EnglishText>
-    <Row Tag="LOC_UNITOPERATION_CAUSE_DISASTER_DESCRIPTION">
+	<LocalizedText>
+    <Replace Language='en_US' Tag="LOC_UNITOPERATION_CAUSE_DISASTER_DESCRIPTION">
       <Text>Cause Disaster</Text>
-    </Row>
-    <Row Tag="LOC_UNITOPERATION_SACRIFICE_UNIT_DESCRIPTION">
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_UNITOPERATION_SACRIFICE_UNIT_DESCRIPTION">
       <Text>Sacrifice Adjacent Unit</Text>
-    </Row>
+    </Replace>
     
     <!-- promotions class -->
-    <Row Tag="LOC_PROMOTION_CLASS_SOOTHSAYER_NAME">
+    <Replace Language='en_US' Tag="LOC_PROMOTION_CLASS_SOOTHSAYER_NAME">
       <Text>Soothsayer</Text>
-    </Row>
-    <!-- promotions --><Row Tag="LOC_PROMOTION_SOOTHSAYER_MESSENGER_NAME">
+    </Replace>
+    <!-- promotions --><Replace Language='en_US' Tag="LOC_PROMOTION_SOOTHSAYER_MESSENGER_NAME">
       <Text>Messenger</Text>
-    </Row>
-	  <Row Tag="LOC_PROMOTION_SOOTHSAYER_INQUISITOR_NAME">
+    </Replace>
+	  <Replace Language='en_US' Tag="LOC_PROMOTION_SOOTHSAYER_INQUISITOR_NAME">
 	    <Text>Inquisitor</Text>
-	  </Row>
-	  <Row Tag="LOC_PROMOTION_SOOTHSAYER_ZEALOT_NAME">
+	  </Replace>
+	  <Replace Language='en_US' Tag="LOC_PROMOTION_SOOTHSAYER_ZEALOT_NAME">
 	    <Text>Zealot</Text>
-	  </Row>
-	  <Row Tag="LOC_PROMOTION_SOOTHSAYER_INCANTATION_NAME">
+	  </Replace>
+	  <Replace Language='en_US' Tag="LOC_PROMOTION_SOOTHSAYER_INCANTATION_NAME">
 	    <Text>Incantation</Text>
-	  </Row>
-	  <Row Tag="LOC_PROMOTION_SOOTHSAYER_PLAGUE_BEARER_NAME">
+	  </Replace>
+	  <Replace Language='en_US' Tag="LOC_PROMOTION_SOOTHSAYER_PLAGUE_BEARER_NAME">
 	    <Text>Plague Bearer</Text>
-	  </Row>
+	  </Replace>
 	  <!-- promotion descrips -->
-	  <Row Tag="LOC_PROMOTION_SOOTHSAYER_MESSENGER_DESCRIPTION">
+	  <Replace Language='en_US' Tag="LOC_PROMOTION_SOOTHSAYER_MESSENGER_DESCRIPTION">
 	    <Text>+1 Charge, +2 [ICON_Movement] Movement.</Text>
-	  </Row>
-	  <Row Tag="LOC_PROMOTION_SOOTHSAYER_INQUISITOR_DESCRIPTION">
+	  </Replace>
+	  <Replace Language='en_US' Tag="LOC_PROMOTION_SOOTHSAYER_INQUISITOR_DESCRIPTION">
 	    <Text>+1 Charge, gains Stealth.</Text>
-	  </Row>
-	  <Row Tag="LOC_PROMOTION_SOOTHSAYER_ZEALOT_DESCRIPTION">
+	  </Replace>
+	  <Replace Language='en_US' Tag="LOC_PROMOTION_SOOTHSAYER_ZEALOT_DESCRIPTION">
 	    <Text>+2 Charges.</Text>
-	  </Row>
-	  <Row Tag="LOC_PROMOTION_SOOTHSAYER_INCANTATION_DESCRIPTION">
+	  </Replace>
+	  <Replace Language='en_US' Tag="LOC_PROMOTION_SOOTHSAYER_INCANTATION_DESCRIPTION">
 	    <Text>+1 Charge. Adjacent units gain +5 [ICON_Strength] Combat Strength.</Text>
-	  </Row>
-	  <Row Tag="LOC_PROMOTION_SOOTHSAYER_PLAGUE_BEARER_DESCRIPTION">
+	  </Replace>
+	  <Replace Language='en_US' Tag="LOC_PROMOTION_SOOTHSAYER_PLAGUE_BEARER_DESCRIPTION">
 	    <Text>+1 Charge. Adjacent enemy cities are automatically Besieged.</Text>
-	  </Row>
-    <Row Tag="LOC_ABILITY_AUTO_SIEGE_DESCRIPTION">
+	  </Replace>
+    <Replace Language='en_US' Tag="LOC_ABILITY_AUTO_SIEGE_DESCRIPTION">
       <Text>Adjacent enemy cities are automatically Besieged.</Text>
-    </Row>
-    <Row Tag="LOC_ABILITY_SOOTHSAYER_AOE_COMBAT_STRENGTH_DESCRIPTION">
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_ABILITY_SOOTHSAYER_AOE_COMBAT_STRENGTH_DESCRIPTION">
       <Text>+5 [ICON_Strength] Combat Strength from adjacent Soothsayer.</Text>
-    </Row>
-    <Row Tag="LOC_SOOTHSAYER_AOE_COMBAT_STRENGTH_PREVIEW">
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_SOOTHSAYER_AOE_COMBAT_STRENGTH_PREVIEW">
       <Text>+5 [ICON_Strength] Combat Strength from Soothsayer.</Text>
-    </Row>
-  </EnglishText>
+    </Replace>
+  </LocalizedText>
 </GameData>

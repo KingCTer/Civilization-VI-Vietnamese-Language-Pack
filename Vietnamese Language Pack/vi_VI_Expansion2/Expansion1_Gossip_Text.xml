@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+		<Replace Language='en_US' Tag="LOC_GOSSIP_SOURCE_VENDOR">
+			<Text>A vendor at your trading post heard that</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_VIZSOURCE_TRADING_POST_TRAIT">
+			<Text>Mongolia's Örtöö effect</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_VIZSOURCE_ACTION_TRADING_POST_TRAIT">
+			<Text>Establish [ICON_TradingPost] Trading Posts as Mongolia</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOSSIP_SPY_FOMENT_UNREST_DETECTED">
+			<Text>{LOC_GRAMMAR_CIVNAME &lt;&lt; {1_CivName}} lost loyalty in {2_CityName} because of the work of a spy from {3_SpyPlayer}.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOSSIP_SPY_FOMENT_UNREST_UNDETECTED">
+			<Text>{LOC_GRAMMAR_CIVNAME &lt;&lt; {1_CivName}} lost loyalty in {2_CityName} because of the work of an unknown spy.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOSSIP_SPY_NEUTRALIZE_GOVERNOR_DETECTED">
+			<Text>{LOC_GRAMMAR_CIVNAME &lt;&lt; {1_CivName}} had their governor in {2_CityName} neutralized by a spy from {3_SpyPlayer}.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOSSIP_SPY_NEUTRALIZE_GOVERNOR_UNDETECTED">
+			<Text>{LOC_GRAMMAR_CIVNAME &lt;&lt; {1_CivName}} had their governor in {2_CityName} neutralized by an unknown spy.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

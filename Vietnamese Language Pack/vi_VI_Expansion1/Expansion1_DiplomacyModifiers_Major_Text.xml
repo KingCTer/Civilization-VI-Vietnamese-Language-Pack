@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- Standard modifiers -->
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_CHANDRAGUPTA_NEIGHBOR">
+			<Text>Chandragupta is displeased that your Empire is near his</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_CHANDRAGUPTA_NOT_NEIGHBOR">
+			<Text>Chandragupta is pleased that your Empire is far from his</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_CHEOMSEONGDAE_HIGH_SCIENCE">
+			<Text>Seondeok is pleased with your efforts in Science</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_CHEOMSEONGDAE_LOW_SCIENCE">
+			<Text>Seondeok is disappointed that you ignore Science</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_FLOWER_SCOTLAND_PEACEFUL">
+			<Text>Robert the Bruce is pleased that you have kept the peace with your neighbors</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_FLOWER_SCOTLAND_WARLIKE">
+			<Text>Robert the Bruce is dismayed that you fight with your neighbors</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_IRON_CONFEDERACY_MANY_ALLIANCES">
+			<Text>Poundmaker approves of your alliance-making</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_IRON_CONFEDERACY_FEW_ALLIANCES">
+			<Text>Poundmaker is unhappy you are in so few alliances</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_NARIKALA_FORTRESS_HIGH_WALLS">
+			<Text>Tamar is happy you are fortifying your cities</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_NARIKALA_FORTRESS_LOW_WALLS">
+			<Text>Tamar is dismayed by the lack of walls in your cities</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_SPIRIT_OF_TUCAPEL_GAINING_CITIES">
+			<Text>Lautaro approves of winning land through loyalty</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_SPIRIT_OF_TUCAPEL_LOSING_CITIES">
+			<Text>Lautaro dislikes those who cannot secure the loyalty of their people</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

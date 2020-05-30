@@ -1,0 +1,46 @@
+<GameData>
+	<LocalizedText>
+		<!-- Admirals -->
+		<Replace Language='en_US' Tag="LOC_GREATPERSON_YI_SUN_SIN_EXPANSION2_ACTIVE">
+			<Text>Instantly creates an Ironclad unit with 1 promotion level. Grants 1 [ICON_RESOURCE_Coal] Coal per Turn</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATPERSON_FRANZ_VON_HIPPER_EXPANSION2_ACTIVE">
+			<Text>Instantly creates a Battleship unit with 1 promotion level. Grants 1 [ICON_RESOURCE_Coal] Coal per Turn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATPERSON_CHESTER_NIMITZ_EXPANSION2_ACTIVE">
+			<Text>Instantly creates a Submarine unit with 1 promotion level. Grants 1 [ICON_RESOURCE_Oil] Oil per Turn. +20% [ICON_Production] Production towards units of the Naval Raider promotion class.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATPERSON_ZHENG_HE_EXPANSION2_ACTIVE">
+			<Text>Grants a free Trader unit in this city, and increases [ICON_TradeRoute] Trade Route capacity by 1. Foreign [ICON_TradeRoute] Trade Routes to this city provide +2 [ICON_Gold] Gold to both cities.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATPERSON_RAJENDRA_CHOLA_EXPANSION2_ACTIVE">
+			<Text>+3 [ICON_Strength] Combat Strength for all naval units.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATPERSON_LEIF_ERIKSON_EXPANSION2_ACTIVE">
+			<Text>+1 sight range for all naval units. Allows all naval units to move over ocean tiles without the normal technology requirement.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATPERSON_CHING_SHIH_EXPANSION2_ACTIVE">
+			<Text>Gain 500 [ICON_Gold] Gold (on Standard speed). Military units get +60% rewards for plundering sea [ICON_TradeRoute] Trade Routes.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATPERSON_THEMISTOCLES_EXPANSION2_ACTIVE">
+			<Text>Instantly creates a Quadrireme unit. +20% [ICON_Production] Production towards units of the Naval Ranged promotion class.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATPERSON_FRANCIS_DRAKE_EXPANSION2_ACTIVE">
+			<Text>Instantly creates a Privateer unit with 1 promotion level. Military units get +50% rewards for plundering sea [ICON_TradeRoute] Trade Routes.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATPERSON_HORATIO_NELSON_EXPANSION2_ACTIVE">
+			<Text>Instantly builds a Lighthouse and Shipyard in this district. +50% flanking bonus for all naval units.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATPERSON_GRACE_HOPPER_EXPANSION2_ACTIVE">
+			<Text>Gain 2 randomly-chosen free technologies.</Text>
+		</Replace>
+		<!-- Generals -->
+		<Replace Language='en_US' Tag="LOC_GREATPERSON_DOUGLAS_MACARTHUR_EXPANSION2_ACTIVE">
+			<Text>Instantly creates a Tank unit with 1 promotion level. Grants 1 [ICON_RESOURCE_Oil] Oil per Turn.</Text>
+		</Replace>
+		<!-- Merchants -->
+		<Replace Language='en_US' Tag="LOC_GREATPERSON_JOHN_ROCKEFELLER_EXPANSION2_ACTIVE">
+			<Text>Grants 3 [ICON_RESOURCE_OIL] Oil per Turn. Your [ICON_TradeRoute] Trade Routes gain +2 [ICON_Gold] Gold for each Strategic resource at the destination city.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

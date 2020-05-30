@@ -1,0 +1,212 @@
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+		<!--Name-->
+		<Replace Language='en_US' Tag="LOC_ABILITY_GUIDE_MOVEMENT_AOE_RELIGIOUS_NAME">
+			<Text>Guide</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_SAGE_COMBAT_AOE_RELIGIOUS_NAME">
+			<Text>Sage</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_GURU_MOVEMENT_NAME">
+			<Text>Guru Movement Area of Effect</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_GURU_STRENGTH_NAME">
+			<Text>Guru Sage Area of Effect</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_MEDITERRANEAN_COLONIES_NAME">
+			<Text>Mediterranean Colonies</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_BIREME_PROTECT_TRADER_NAME">
+			<Text>Bireme Trade Protection</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_TRADER_PROTECTED_BY_BIREME_NAME">
+			<Text>Trader Bireme Protection</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_THE_RAVEN_KING_NAME">
+			<Text>Raven King</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_HUSZAR_NAME">
+			<Text>Kuruc</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_BLACK_ARMY_NAME">
+			<Text>Fekete Sereg</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_MOUNTIE_NAME">
+			<Text>Park Protector</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_MANDEKALU_NAME">
+			<Text>Gold Giver</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_TRADER_PROTECTED_BY_MANDEKALU_NAME">
+			<Text>Trader Mandekalu Protection</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_CORBACI_NAME">
+			<Text>Çorbaci</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_GREAT_TURKISH_BOMBARD_NAME">
+			<Text>Great Turkish Bombard</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_CAROLEAN_NAME">
+			<Text>Gå På</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_CORSAIR_NAME">
+			<Text>Corsair</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_ROCK_BAND_ENTER_FOREIGN_LANDS_NAME">
+			<Text>Enter Foreign Lands</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_FINEST_HOUR_FRIENDLY_TERRITORY_NAME">
+			<Text>Their Finest Hour</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_CYBER_WARFARE_COMBAT_BONUS_NAME">
+			<Text>Cyber Warfare</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_CHOLA_NAVAL_COMBAT_NAME">
+			<Text>Rajendra Chola</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_ERIKSON_NAVAL_SIGHT_NAME">
+			<Text>Leif Erikson</Text>
+		</Replace>
+		<!--Description-->Leif Erikson
+		<Replace Language='en_US' Tag="LOC_ABILITY_GUIDE_MOVEMENT_AOE_RELIGIOUS_DESCRIPTION">
+			<Text>Gives movement to nearby religious units.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_SAGE_COMBAT_AOE_RELIGIOUS_DESCRIPTION">
+			<Text>Gives additional combat strength to nearby religious units.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_GURU_MOVEMENT_DESCRIPTION">
+			<Text>+1 Movement</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_GURU_STRENGTH_DESCRIPTION">
+			<Text>+5 Strength</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_MEDITERRANEAN_COLONIES_DESCRIPTION">
+			<Text>+2 [ICON_Movement] Movement and +2 sight range while embarked.[NEWLINE][ICON_Bullet]Ignore additional [ICON_Movement] Movement costs from embarking and disembarking.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_BIREME_PROTECT_TRADER_DESCRIPTION">
+			<Text>Protects nearby Trade units from being Plundered on Water Tiles.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_TRADER_PROTECTED_BY_BIREME_DESCRIPTION">
+			<Text>Trade units near a your Bireme are immune to being Plundered on Water Tiles.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_THE_RAVEN_KING_DESCRIPTION">
+			<Text>+2 [ICON_Movement] Movement and +5 [ICON_Strength] Combat Strength to Levied units.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_BLACK_ARMY_DESCRIPTION">
+			<Text>+3 [ICON_Strength] Combat Strength from each adjacent Levied unit.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_HUSZAR_DESCRIPTION">
+			<Text>+3 [ICON_Strength] Combat Strength from each active Alliance.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_MOUNTIE_DESCRIPTION">
+			<Text>Can create a National Park.[NEWLINE][ICON_Bullet]+5 [ICON_Strength] Combat Strength when fighting within 2 tiles of a National Park.[NEWLINE][ICON_Bullet]+5 [ICON_Strength] Combat Strength when fighting within 2 tiles of a National Park owned by you.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_MANDEKALU_DESCRIPTION">
+			<Text>Protects nearby land Trade units from Plunder.[NEWLINE][ICON_Bullet]Gain [ICON_GOLD] Gold equal to 100% that unit's base [ICON_Strength] Combat Strength.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_MANDEKALU_PROTECT_TRADER_DESCRIPTION">
+			<Text>This Mandekalu Cavalry protects nearby Trade units from being Plundered on Land Tiles.[NEWLINE][ICON_Bullet]Gain [ICON_GOLD] Gold equal to 100% that unit's base [ICON_Strength] Combat Strength.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_TRADER_PROTECTED_BY_MANDEKALU_DESCRIPTION">
+			<Text>Trade units near a your Mandekalu Cavalry are immune to being Plundered on Land Tiles.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_CORBACI_DESCRIPTION">
+			<Text>Starts with a free promotion.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_EXPERT_MARKSMAN_DESCRIPTION">
+			<Text>+1 additional attack per turn if unit has not used all its movement.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_GREAT_TURKISH_BOMBARD_DESCRIPTION">
+			<Text>+5 [ICON_Strength] Combat Strength vs. district defenses. (Great Turkish Bombard)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_CAROLEAN_DESCRIPTION">
+			<Text>+3 [ICON_Strength] Combat Strength per unused [ICON_Movement] Movement.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_CORSAIR_DESCRIPTION">
+			<Text>It costs no [ICON_Movement] Movement to coastal raid.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_ROCK_BAND_ENTER_FOREIGN_LANDS_DESCRIPTION">
+			<Text>Even without Open Borders, this unit can enter foreign territory.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_FINEST_HOUR_FRIENDLY_TERRITORY_DESCRIPTION">
+			<Text>+5 [ICON_Strength] Combat Strength when in your territory or adjacent to your territory from Finest Hour</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_CYBER_WARFARE_COMBAT_BONUS_DESCRIPTION">
+			<Text>+10 [ICON_Strength] Combat against units from the Information and Future Eras from Cyber Warfare.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_TOA_DESCRIPTION">
+			<Text>Adjacent enemy units receive -5 [ICON_STRENGTH] Combat Strength.[NEWLINE][ICON_Bullet]Can build the unique Pā improvement.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_MANA_DESCRIPTION">
+			<Text>+2 [ICON_Movement] Movement when embarked.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_UNIT_WMD_RESISTANCE_DESCRIPTION">
+			<Text>Resistant to Weapons of Mass Destruction.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_UNIT_FIGHT_WHILE_EMBARKED_DESCRIPTION">
+			<Text>Able to move and fight in water.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_DIGITAL_DEMOCRACY_DEBUFF_DESCRIPTION">
+			<Text>-3 [ICON_Strength] Combat Strength from Digital Democracy.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_ENABLE_WALL_PROMOTION_CLASS_ATTACK_DESCRIPTION">
+			<Text>When adjacent to an enemy city, melee and anti-cavalry units do full damage to the city's Walls. Does not affect cities with Medieval or Renaissance Walls. Ineffective against Urban Defenses.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_BYPASS_WALLS_PROMOTION_CLASS_DESCRIPTION">
+			<Text>When adjacent to an enemy city, friendly melee and anti-cavalry units can bypass the city walls and attack the city directly. Does not affect cities with Renaissance Walls. Ineffective against Urban Defenses.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_CHOLA_NAVAL_COMBAT_DESCRIPTION">
+			<Text>+3 [ICON_Strength] Combat Strength for all naval units. (Rajendra Chola)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_ERIKSON_NAVAL_SIGHT_DESCRIPTION">
+			<Text>+1 sight range for all naval units. (Leif Erikson)</Text>
+		</Replace>
+		<!--Combat-->
+		<Replace Language='en_US' Tag="LOC_ABILITY_GURU_STRENGTH_XP2_DESCRIPTION">
+			<Text>+{Amount} from being near a Guru</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_RAVEN_LEVY_COMBAT_DESCRIPTION">
+			<Text>+{Amount} Combat Strength from the Raven King trait</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_COMBAT_PREVIEW_ADJACENT_LEVIED_BONUS_DESC">
+			<Text>+{1_Amount} Combat Strength from adjacent Levied units</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_COMBAT_PREVIEW_NUMBER_ALLIES_BONUS_DESC">
+			<Text>+{1_Amount} Combat Strength for active Alliances</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ALL_PARK_COMBAT_BONUS_DESCRIPTION">
+			<Text>+{1_Amount} Combat Strength when within 2 tiles of a National Park</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_OWNER_PARK_COMBAT_BONUS_DESCRIPTION">
+			<Text>+{1_Amount} Combat Strength when within 2 tiles of a National Park owned by this player</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREAT_TURKISH_BOMBARD_COMBAT_BONUS_DESCRIPTION">
+			<Text>+{1_Amount} Combat Strength from the Great Turkish Bombard trait</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_TOA_NEGATIVE_COMBAT_MODIFIER_DESCRIPTION">
+			<Text>{1_Amount} Combat Strength when adjacent to an enemy Toa</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_COMBAT_PREVIEW_UNUSED_MOVEMENT_COMBAT_BONUS_DESC">
+			<Text>+{1_Amount} Combat Strength for unused [ICON_Movement] Movement</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_COMBAT_PREVIEW_CITY_FRIENDLY_COMBAT_BONUS">
+			<Text>+{1_Amount} Combat Strength from the Head Falconer</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_COMBAT_PREVIEW_DIGITAL_DEMOCRACY_COMBAT_DEBUFF">
+			<Text>{1_Amount} Combat Strength from Digital Democracy</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_COMBAT_PREVIEW_ABILITY_GLOBAL_COALITION_FRIENDLY_TERRITORY_DESCRIPTION">
+			<Text>+{1_Amount} Combat Strength from Global Coalition</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_COMBAT_PREVIEW_CYBER_WARFARE_INFO_FUTURE_BUFF">
+			<Text>+{1_Amount} Combat Strength from Cyber Warfare</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_COMBAT_PREVIEW_ABILITY_MANA_DESCRIPTION">
+			<Text>+{1_Amount} Combat Strength when embarked</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_CHOLA_NAVAL_UNITS_COMBAT_STRENGTH_DESCRIPTION">
+			<Text>+{1_Amount} Combat Strength from Rajendra Chola</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

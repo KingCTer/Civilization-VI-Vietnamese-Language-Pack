@@ -1,0 +1,119 @@
+<GameData>
+	<LocalizedText>
+		<!-- Natural Wonders -->
+		<Replace Language='en_US' Tag="LOC_FEATURE_CHOCOLATEHILLS_QUOTE">
+			<Text>“The wicked king pursued the lovers Juan and Maria on his swiftest horse. As he overtook them, Maria flung down her ring, and at once rose up seven tall hills, and the king was slowed.”[NEWLINE] - Filipino Folk Tale</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_FEATURE_DEVILSTOWER_QUOTE">
+			<Text>“Seven girls were chased by bears. The bears were just about to catch them when the girls jumped on a low rock. One of the girls prayed to the rock, "Rock take pity on us, rock save us!" The rock heard them and began to grow upwards, pushing the girls higher and higher.”[NEWLINE] - Kiowa Legend</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_FEATURE_GOBUSTAN_QUOTE">
+			<Text>“Then weave the web of the mystic measure;[NEWLINE]From the depths of the sky and the ends of the earth,[NEWLINE]Come, swift Spirits of might and of pleasure,[NEWLINE]Fill the dance and the music of mirth.”[NEWLINE] - Percy Bysshe Shelley</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_FEATURE_IKKIL_QUOTE">
+			<Text>“Son, have you seen the rain of God? It passed and entered beneath the mountains of God... There will be a ring in the sky where the water of God has passed.”[NEWLINE] - Books of Chilam Balam</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_FEATURE_PAMUKKALE_QUOTE">
+			<Text>“Near the Mesogis, opposite Laodicea, is Hierapolis, where are hot springs, and the Plutonium, both of which have some singular properties. The water of the springs is so easily consolidated and becomes stone, that if it is conducted through water-courses dams are formed consisting of a single piece of stone.”[NEWLINE] - Strabo</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_FEATURE_VESUVIUS_QUOTE">
+			<Text>“The sea seemed to roll back upon itself, and to be driven from its banks by the convulsive motion of the earth; it is certain at least the shore was considerably enlarged, and several sea animals were left upon it. On the other side, a black and dreadful cloud, broken with rapid, zigzag flashes, revealed behind it variously shaped masses of flame...”[NEWLINE] - Pliny the Younger</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_FEATURE_WHITEDESERT_QUOTE">
+			<Text>“I have filled a water-bag from my people and gone to the desert,[NEWLINE]And walked empty wastes while the wolf howled, like a gambler whose family starves.”[NEWLINE] - Imru-ul-Quais</Text>
+		</Replace>
+		<!-- Technologies -->
+		<Replace Language='en_US' Tag="LOC_TECH_BUTTRESS_QUOTE_1">
+			<Text>“An architect should live as little in cities as a painter. Send him to our hills, and let him study there what nature understands by a buttress, and what by a dome.”[NEWLINE] – John Ruskin</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TECH_BUTTRESS_QUOTE_2">
+			<Text>“Him that overcometh will I make a pillar in the temple of my God, and he shall go no more out.”[NEWLINE] – Revelation 3:12</Text>
+		</Replace>
+    <Replace Language='en_US' Tag="LOC_TECH_REFINING_QUOTE_1">
+      <Text>"Engineering is the art of directing the great sources of power in nature for the use and convenience of man."[NEWLINE] - Thomas Tredgold</Text>
+    </Replace>
+		<Replace Language='en_US' Tag="LOC_TECH_SEASTEADS_QUOTE_1">
+			<Text>“I must go down to the seas again, to the vagrant gypsy life, To the gull’s way and the whale’s way where the wind’s like a whetted knife;”[NEWLINE] – John Masefield</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TECH_SEASTEADS_QUOTE_2">
+			<Text>“Then you drive out where the storm-clouds swallow, And the sound of your oar-blades, falling hollow, As all we have left through the months to follow.”[NEWLINE] – Rudyard Kipling</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TECH_ADVANCED_AI_QUOTE_1">
+			<Text>“Will no entreaties cause thee to turn a favourable eye upon thy creature, who implores thy goodness and compassion?”[NEWLINE] – Mary Shelley</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TECH_ADVANCED_POWER_CELLS_QUOTE_1">
+			<Text>“The incomplete becomes complete; the crooked becomes straight; the empty becomes full; the worn out becomes new.”[NEWLINE] - Tao Te Ching, Lao Tzu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TECH_CYBERNETICS_QUOTE_1">
+			<Text>“If there is any work in the afterlife, you must do it. Behold me whenever you are called. Be watchful at any moment to work there. Plough my fields, carry water and sand to the east and west. Behold me whenever you are called.”[NEWLINE] – Inscription on an Egyptian Ushabti</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TECH_SMART_MATERIALS_QUOTE_1">
+			<Text>“It ascends from the earth to the heaven, and it again descends to the earth and receives the force of things superior and inferior.”[NEWLINE] – Hermes Trismegistus</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TECH_PREDICTIVE_SYSTEMS_QUOTE_1">
+			<Text>“If the enemy know not where he will be attacked, he must prepare in every quarter, and so be everywhere weak.”[NEWLINE] – Sun Tzu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TECH_OFFWORLD_MISSION_QUOTE_1">
+			<Text>“No, my friends, we have not fallen back upon the earth; no, nor are we submerged in the Gulf of Mexico. Yes! we are mounting into space. See those stars shining in the night, and that impenetrable darkness heaped up between the earth and us!”[NEWLINE] – Jules Verne</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TECH_OFFWORLD_MISSION_QUOTE_2">
+			<Text>“After eleven Days Passage in this violent Flight, I perceived we began to approach another Earth (if I may so call it) being the Globe or very Body of that Star which we call the Moon.”[NEWLINE] – Francis Godwin</Text>
+		</Replace>
+		<!-- Civics -->
+		<Replace Language='en_US' Tag="LOC_CIVIC_DIGITAL_DEMOCRACY_QUOTE_1">
+			<Text>“Multitudes, multitudes in the valley of decision: for the day of the Lord is near in the valley of decision.”[NEWLINE] – Joel 3:14</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVIC_SYNTHETIC_TECHNOCRACY_QUOTE_1">
+			<Text>“We find every where men of mechanical genius, of great general acuteness, and discriminative understanding, who make no scruple in pronouncing the Automaton a pure machine, unconnected with human agency in its movements, and consequently, beyond all comparison, the most astonishing of the inventions of mankind.”[NEWLINE] – Edgar Allen Poe</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVIC_CORPORATE_LIBERTARIANISM_QUOTE_1">
+			<Text>“Over himself, over his own body and mind, the individual is sovereign.”[NEWLINE] – John Stuart Mill</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVIC_NEAR_FUTURE_GOVERNANCE_QUOTE_1">
+			<Text>“Justice is the bond of men in states, for the administration of justice, which is the determination of what is just, is the principle of order in political society.”[NEWLINE] – Aristotle</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVIC_EXODUS_IMPERATIVE_QUOTE_1">
+			<Text>“This, O Best Beloved, is another story of the High and Far Off Times.”[NEWLINE] – Rudyard Kipling</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVIC_CULTURAL_HEGEMONY_QUOTE_1">
+			<Text>“Ah, my Belovéd, fill the cup that clears[NEWLINE]To-day of past Regrets and future Fears—[NEWLINE]To-morrow?—Why, To-morrow I may be[NEWLINE]Myself with Yesterday’s Sev’n Thousand Years.”[NEWLINE] – Edward FitzGerald</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVIC_INFORMATION_WARFARE_QUOTE_1">
+			<Text>“It has been said aforetime that he who knows both sides has nothing to fear in a hundred fights...”[NEWLINE] – Sun Tzu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVIC_INFORMATION_WARFARE_QUOTE_2">
+			<Text>“If the enemy know not where he will be attacked, he must prepare in every quarter, and so be everywhere weak.”[NEWLINE] – Sun Tzu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVIC_GLOBAL_WARMING_MITIGATION_QUOTE_1">
+			<Text>“Fetter this malefactor to the jagged rocks[NEWLINE]In adamantine bonds infrangible.”[NEWLINE] – Aeschylus</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVIC_SMART_POWER_DOCTRINE_QUOTE_1">
+			<Text>“The time will come and is inevitably coming when all institutions based on force will disappear through their uselessness, stupidity, and even inconvenience becoming obvious to all.”[NEWLINE] – Leo Tolstoy</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVIC_ENVIRONMENTALISM_QUOTE_1">
+			<Text>"I shall return again to the light of the sun, to prepare a home for thy descendants."[NEWLINE] –Argonautica, Apollonius Rhodius</Text>
+		</Replace>
+		<!-- World Wonders -->
+		<Replace Language='en_US' Tag="LOC_BUILDING_GOLDEN_GATE_BRIDGE_QUOTE">
+			<Text>“The golden gates of Sleep unbar[NEWLINE]Where Strength and Beauty, met together,[NEWLINE]Kindle their image like a star[NEWLINE]In a sea of glassy weather!”[NEWLINE] - Percy Bysshe Shelley</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_GREAT_BATH_QUOTE">
+			<Text>“Yet in this captious and intenible sieve[NEWLINE]I still pour in the waters of my love[NEWLINE]And lack not to lose still: thus, Indian-like,[NEWLINE]Religious in mine error, I adore[NEWLINE]The sun, that looks upon his worshipper,[NEWLINE]But knows of him no more.”[NEWLINE] - William Shakespeare</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_MACHU_PICCHU_QUOTE">
+			<Text>“...Eagles fly, The turrets round, and seem to flout the sky;[NEWLINE]They eye those walls now crumbling in decay,[NEWLINE]And scare from quiet rest their destined prey.”[NEWLINE] - Samuel Prout Hill</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_MEENAKSHI_TEMPLE_QUOTE">
+			<Text>“We greet you, Devi Meenakshi, she who shines like a thousand-million suns, adorned with bracelets and garlands... She who is auspicious, she who embodies existence. I always bow to you, whose compassion is an ocean.”[NEWLINE] - Adi Shankara</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_ORSZAGHAZ_QUOTE">
+			<Text>“With self-government is freedom, and with freedom is justice and patriotism.”[NEWLINE] - Lajos Kossuth</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_PANAMA_CANAL_QUOTE">
+			<Text>“Therefore will not we fear, though the earth be removed, and though the mountains be carried into the midst of the sea; Though the waters thereof roar and be troubled, though the mountains shake with the swelling thereof.”[NEWLINE] - Psalms 46:2-3</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_UNIVERSITY_SANKORE_QUOTE">
+			<Text>“Scholars are the heirs of the prophets, for the prophets did not leave behind a legacy of wealth but that of knowledge.”[NEWLINE] - Musnad al-Bazzar 10/68</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>

@@ -1,247 +1,247 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameData>
-	<EnglishText>
+	<LocalizedText>
 		<!--Gran Colombia-->
-		<Row Tag="LOC_CITIZEN_GRAN_COLOMBIA_MALE_1">
+		<Replace Language='en_US' Tag="LOC_CITIZEN_GRAN_COLOMBIA_MALE_1">
 			<Text>Feliciano</Text>
-		</Row>
-		<Row Tag="LOC_CITIZEN_GRAN_COLOMBIA_MALE_2">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_GRAN_COLOMBIA_MALE_2">
 			<Text>Vicente</Text>
-		</Row>
-		<Row Tag="LOC_CITIZEN_GRAN_COLOMBIA_MALE_3">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_GRAN_COLOMBIA_MALE_3">
 			<Text>Fernando</Text>
-		</Row>
-		<Row Tag="LOC_CITIZEN_GRAN_COLOMBIA_MALE_4">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_GRAN_COLOMBIA_MALE_4">
 			<Text>Francisco</Text>
-		</Row>
-		<Row Tag="LOC_CITIZEN_GRAN_COLOMBIA_MALE_5">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_GRAN_COLOMBIA_MALE_5">
 			<Text>Joaquín</Text>
-		</Row>
-		<Row Tag="LOC_CITIZEN_GRAN_COLOMBIA_MALE_6">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_GRAN_COLOMBIA_MALE_6">
 			<Text>Atanasio</Text>
-		</Row>
-		<Row Tag="LOC_CITIZEN_GRAN_COLOMBIA_MALE_7">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_GRAN_COLOMBIA_MALE_7">
 			<Text>Antonio</Text>
-		</Row>
-		<Row Tag="LOC_CITIZEN_GRAN_COLOMBIA_MALE_8">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_GRAN_COLOMBIA_MALE_8">
 			<Text>Mariano</Text>
-		</Row>
-		<Row Tag="LOC_CITIZEN_GRAN_COLOMBIA_MALE_9">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_GRAN_COLOMBIA_MALE_9">
 			<Text>Onofre</Text>
-		</Row>
-		<Row Tag="LOC_CITIZEN_GRAN_COLOMBIA_MALE_10">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_GRAN_COLOMBIA_MALE_10">
 			<Text>Ramón</Text>
-		</Row>
-		<Row Tag="LOC_CITIZEN_GRAN_COLOMBIA_FEMALE_1">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_GRAN_COLOMBIA_FEMALE_1">
 			<Text>Josefina</Text>
-		</Row>
-		<Row Tag="LOC_CITIZEN_GRAN_COLOMBIA_FEMALE_2">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_GRAN_COLOMBIA_FEMALE_2">
 			<Text>Manuela</Text>
-		</Row>
-		<Row Tag="LOC_CITIZEN_GRAN_COLOMBIA_FEMALE_3">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_GRAN_COLOMBIA_FEMALE_3">
 			<Text>María</Text>
-		</Row>
-		<Row Tag="LOC_CITIZEN_GRAN_COLOMBIA_FEMALE_4">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_GRAN_COLOMBIA_FEMALE_4">
 			<Text>Nicolasa</Text>
-		</Row>
-		<Row Tag="LOC_CITIZEN_GRAN_COLOMBIA_FEMALE_5">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_GRAN_COLOMBIA_FEMALE_5">
 			<Text>Bernardina</Text>
-		</Row>
-		<Row Tag="LOC_CITIZEN_GRAN_COLOMBIA_FEMALE_6">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_GRAN_COLOMBIA_FEMALE_6">
 			<Text>Joaquina</Text>
-		</Row>
-		<Row Tag="LOC_CITIZEN_GRAN_COLOMBIA_FEMALE_7">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_GRAN_COLOMBIA_FEMALE_7">
 			<Text>Margarita</Text>
-		</Row>
-		<Row Tag="LOC_CITIZEN_GRAN_COLOMBIA_FEMALE_8">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_GRAN_COLOMBIA_FEMALE_8">
 			<Text>Francisca</Text>
-		</Row>
-		<Row Tag="LOC_CITIZEN_GRAN_COLOMBIA_FEMALE_9">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_GRAN_COLOMBIA_FEMALE_9">
 			<Text>Pancha</Text>
-		</Row>
-		<Row Tag="LOC_CITIZEN_GRAN_COLOMBIA_FEMALE_10">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_GRAN_COLOMBIA_FEMALE_10">
 			<Text>Policarpa</Text>
-		</Row>
-		<Row Tag="LOC_CITIZEN_GRAN_COLOMBIA_MODERN_MALE_1">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_GRAN_COLOMBIA_MODERN_MALE_1">
 			<Text>Diego</Text>
-		</Row>
-		<Row Tag="LOC_CITIZEN_GRAN_COLOMBIA_MODERN_MALE_2">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_GRAN_COLOMBIA_MODERN_MALE_2">
 			<Text>Luis</Text>
-		</Row>
-		<Row Tag="LOC_CITIZEN_GRAN_COLOMBIA_MODERN_MALE_3">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_GRAN_COLOMBIA_MODERN_MALE_3">
 			<Text>Tomás</Text>
-		</Row>
-		<Row Tag="LOC_CITIZEN_GRAN_COLOMBIA_MODERN_MALE_4">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_GRAN_COLOMBIA_MODERN_MALE_4">
 			<Text>Narciso</Text>
-		</Row>
-		<Row Tag="LOC_CITIZEN_GRAN_COLOMBIA_MODERN_MALE_5">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_GRAN_COLOMBIA_MODERN_MALE_5">
 			<Text>Rafael</Text>
-		</Row>
-		<Row Tag="LOC_CITIZEN_GRAN_COLOMBIA_MODERN_MALE_6">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_GRAN_COLOMBIA_MODERN_MALE_6">
 			<Text>Jacinto</Text>
-		</Row>
-		<Row Tag="LOC_CITIZEN_GRAN_COLOMBIA_MODERN_MALE_7">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_GRAN_COLOMBIA_MODERN_MALE_7">
 			<Text>Florentino</Text>
-		</Row>
-		<Row Tag="LOC_CITIZEN_GRAN_COLOMBIA_MODERN_MALE_8">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_GRAN_COLOMBIA_MODERN_MALE_8">
 			<Text>Manuel</Text>
-		</Row>
-		<Row Tag="LOC_CITIZEN_GRAN_COLOMBIA_MODERN_MALE_9">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_GRAN_COLOMBIA_MODERN_MALE_9">
 			<Text>Liborio</Text>
-		</Row>
-		<Row Tag="LOC_CITIZEN_GRAN_COLOMBIA_MODERN_MALE_10">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_GRAN_COLOMBIA_MODERN_MALE_10">
 			<Text>Germán</Text>
-		</Row>
-		<Row Tag="LOC_CITIZEN_GRAN_COLOMBIA_MODERN_FEMALE_1">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_GRAN_COLOMBIA_MODERN_FEMALE_1">
 			<Text>Carmen</Text>
-		</Row>
-		<Row Tag="LOC_CITIZEN_GRAN_COLOMBIA_MODERN_FEMALE_2">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_GRAN_COLOMBIA_MODERN_FEMALE_2">
 			<Text>Juana</Text>
-		</Row>
-		<Row Tag="LOC_CITIZEN_GRAN_COLOMBIA_MODERN_FEMALE_3">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_GRAN_COLOMBIA_MODERN_FEMALE_3">
 			<Text>Ana</Text>
-		</Row>
-		<Row Tag="LOC_CITIZEN_GRAN_COLOMBIA_MODERN_FEMALE_4">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_GRAN_COLOMBIA_MODERN_FEMALE_4">
 			<Text>Rosa</Text>
-		</Row>
-		<Row Tag="LOC_CITIZEN_GRAN_COLOMBIA_MODERN_FEMALE_5">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_GRAN_COLOMBIA_MODERN_FEMALE_5">
 			<Text>Antonia</Text>
-		</Row>
-		<Row Tag="LOC_CITIZEN_GRAN_COLOMBIA_MODERN_FEMALE_6">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_GRAN_COLOMBIA_MODERN_FEMALE_6">
 			<Text>Natalia</Text>
-		</Row>
-		<Row Tag="LOC_CITIZEN_GRAN_COLOMBIA_MODERN_FEMALE_7">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_GRAN_COLOMBIA_MODERN_FEMALE_7">
 			<Text>Dolores</Text>
-		</Row>
-		<Row Tag="LOC_CITIZEN_GRAN_COLOMBIA_MODERN_FEMALE_8">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_GRAN_COLOMBIA_MODERN_FEMALE_8">
 			<Text>Teresa</Text>
-		</Row>
-		<Row Tag="LOC_CITIZEN_GRAN_COLOMBIA_MODERN_FEMALE_9">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_GRAN_COLOMBIA_MODERN_FEMALE_9">
 			<Text>Dominga</Text>
-		</Row>
-		<Row Tag="LOC_CITIZEN_GRAN_COLOMBIA_MODERN_FEMALE_10">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_GRAN_COLOMBIA_MODERN_FEMALE_10">
 			<Text>Mercedes</Text>
-		</Row>
+		</Replace>
 		<!--Maya-->
-		<Row Tag="LOC_CITIZEN_MAYA_MALE_1">
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MAYA_MALE_1">
 			<Text>Bound-stone Jaguar</Text>
-		</Row>
-		<Row Tag="LOC_CITIZEN_MAYA_MALE_2">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MAYA_MALE_2">
 			<Text>Smoking Squirrel</Text>
-		</Row>
-		<Row Tag="LOC_CITIZEN_MAYA_MALE_3">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MAYA_MALE_3">
 			<Text>Scroll Serpent</Text>
-		</Row>
-		<Row Tag="LOC_CITIZEN_MAYA_MALE_4">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MAYA_MALE_4">
 			<Text>Moon Jaguar</Text>
-		</Row>
-		<Row Tag="LOC_CITIZEN_MAYA_MALE_5">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MAYA_MALE_5">
 			<Text>Shield Skull</Text>
-		</Row>
-		<Row Tag="LOC_CITIZEN_MAYA_MALE_6">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MAYA_MALE_6">
 			<Text>Turtle Tooth</Text>
-		</Row>
-		<Row Tag="LOC_CITIZEN_MAYA_MALE_7">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MAYA_MALE_7">
 			<Text>Lord Chocolate</Text>
-		</Row>
-		<Row Tag="LOC_CITIZEN_MAYA_MALE_8">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MAYA_MALE_8">
 			<Text>Bird Claw</Text>
-		</Row>
-		<Row Tag="LOC_CITIZEN_MAYA_MALE_9">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MAYA_MALE_9">
 			<Text>Storm Sky</Text>
-		</Row>
-		<Row Tag="LOC_CITIZEN_MAYA_MALE_10">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MAYA_MALE_10">
 			<Text>White Hilly Gopher</Text>
-		</Row>
-		<Row Tag="LOC_CITIZEN_MAYA_FEMALE_1">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MAYA_FEMALE_1">
 			<Text>Twelve Baby Macaws </Text>
-		</Row>
-		<Row Tag="LOC_CITIZEN_MAYA_FEMALE_2">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MAYA_FEMALE_2">
 			<Text>Star House </Text>
-		</Row>
-		<Row Tag="LOC_CITIZEN_MAYA_FEMALE_3">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MAYA_FEMALE_3">
 			<Text>Lady White Quetzal</Text>
-		</Row>
-		<Row Tag="LOC_CITIZEN_MAYA_FEMALE_4">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MAYA_FEMALE_4">
 			<Text>Baby Jaguar</Text>
-		</Row>
-		<Row Tag="LOC_CITIZEN_MAYA_FEMALE_5">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MAYA_FEMALE_5">
 			<Text>Lady Skull</Text>
-		</Row>
-		<Row Tag="LOC_CITIZEN_MAYA_FEMALE_6">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MAYA_FEMALE_6">
 			<Text>Scroll-in-hand</Text>
-		</Row>
-		<Row Tag="LOC_CITIZEN_MAYA_FEMALE_7">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MAYA_FEMALE_7">
 			<Text>Waterlily Hand</Text>
-		</Row>
-		<Row Tag="LOC_CITIZEN_MAYA_FEMALE_8">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MAYA_FEMALE_8">
 			<Text>Eveningstar </Text>
-		</Row>
-		<Row Tag="LOC_CITIZEN_MAYA_FEMALE_9">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MAYA_FEMALE_9">
 			<Text>Shell Star</Text>
-		</Row>
-		<Row Tag="LOC_CITIZEN_MAYA_FEMALE_10">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MAYA_FEMALE_10">
 			<Text>Lady Crocodile</Text>
-		</Row>
-		<Row Tag="LOC_CITIZEN_MAYA_MODERN_MALE_1">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MAYA_MODERN_MALE_1">
 			<Text>Spearthrower Owl</Text>
-		</Row>
-		<Row Tag="LOC_CITIZEN_MAYA_MODERN_MALE_2">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MAYA_MODERN_MALE_2">
 			<Text>Stokes-the-Sky</Text>
-		</Row>
-		<Row Tag="LOC_CITIZEN_MAYA_MODERN_MALE_3">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MAYA_MODERN_MALE_3">
 			<Text>Eighteen Rabbit</Text>
-		</Row>
-		<Row Tag="LOC_CITIZEN_MAYA_MODERN_MALE_4">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MAYA_MODERN_MALE_4">
 			<Text>Cauac Head</Text>
-		</Row>
-		<Row Tag="LOC_CITIZEN_MAYA_MODERN_MALE_5">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MAYA_MODERN_MALE_5">
 			<Text>Jaguar Smoke</Text>
-		</Row>
-		<Row Tag="LOC_CITIZEN_MAYA_MODERN_MALE_6">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MAYA_MODERN_MALE_6">
 			<Text>Tree Branch Rain God</Text>
-		</Row>
-		<Row Tag="LOC_CITIZEN_MAYA_MODERN_MALE_7">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MAYA_MODERN_MALE_7">
 			<Text>Moon Centipede</Text>
-		</Row>
-		<Row Tag="LOC_CITIZEN_MAYA_MODERN_MALE_8">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MAYA_MODERN_MALE_8">
 			<Text>Smoking Frog</Text>
-		</Row>
-		<Row Tag="LOC_CITIZEN_MAYA_MODERN_MALE_9">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MAYA_MODERN_MALE_9">
 			<Text>Moon Zero Bird </Text>
-		</Row>
-		<Row Tag="LOC_CITIZEN_MAYA_MODERN_MALE_10">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MAYA_MODERN_MALE_10">
 			<Text>Monkey Star</Text>
-		</Row>
-		<Row Tag="LOC_CITIZEN_MAYA_MODERN_FEMALE_1">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MAYA_MODERN_FEMALE_1">
 			<Text>Batzek</Text>
-		</Row>
-		<Row Tag="LOC_CITIZEN_MAYA_MODERN_FEMALE_2">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MAYA_MODERN_FEMALE_2">
 			<Text>Great Flower</Text>
-		</Row>
-		<Row Tag="LOC_CITIZEN_MAYA_MODERN_FEMALE_3">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MAYA_MODERN_FEMALE_3">
 			<Text>Lady Green Quetzal</Text>
-		</Row>
-		<Row Tag="LOC_CITIZEN_MAYA_MODERN_FEMALE_4">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MAYA_MODERN_FEMALE_4">
 			<Text>Lady Shield</Text>
-		</Row>
-		<Row Tag="LOC_CITIZEN_MAYA_MODERN_FEMALE_5">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MAYA_MODERN_FEMALE_5">
 			<Text>Earth Shark</Text>
-		</Row>
-		<Row Tag="LOC_CITIZEN_MAYA_MODERN_FEMALE_6">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MAYA_MODERN_FEMALE_6">
 			<Text>Binding-K’inich</Text>
-		</Row>
-		<Row Tag="LOC_CITIZEN_MAYA_MODERN_FEMALE_7">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MAYA_MODERN_FEMALE_7">
 			<Text>Heart of Wind Place</Text>
-		</Row>
-		<Row Tag="LOC_CITIZEN_MAYA_MODERN_FEMALE_8">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MAYA_MODERN_FEMALE_8">
 			<Text>Yohl Ik'nal</Text>
-		</Row>
-		<Row Tag="LOC_CITIZEN_MAYA_MODERN_FEMALE_9">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MAYA_MODERN_FEMALE_9">
 			<Text>Bird Jaguar</Text>
-		</Row>
-		<Row Tag="LOC_CITIZEN_MAYA_MODERN_FEMALE_10">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_MAYA_MODERN_FEMALE_10">
 			<Text>Full Flower</Text>
-		</Row>
-	</EnglishText>
+		</Replace>
+	</LocalizedText>
 </GameData>

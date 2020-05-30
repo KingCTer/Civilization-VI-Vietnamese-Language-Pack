@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Replace Language='en_US' Tag="LOC_DIPLO_CHOICE_DECLARE_GOLDEN_AGE_WAR">
+			<Text>[SIZE_16]Declare Golden Age War[NEWLINE][SIZE_12]</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_CHOICE_DECLARE_WAR_OF_RETRIBUTION">
+			<Text>[SIZE_16]Declare War of Retribution[NEWLINE][SIZE_12]</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_CHOICE_DECLARE_IDEOLOGICAL_WAR">
+			<Text>[SIZE_16]Declare Ideological War[NEWLINE][SIZE_12]</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CASUS_BELLI_WAR_OF_RETRIBUTION_DESCRIPTION">
+			<Text>Target power must have recently broken a promise to you.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CASUS_BELLI_IDEOLOGICAL_WAR_DESCRIPTION">
+			<Text>Target power must have a different Tier 3 government than you.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CASUS_BELLI_GOLDEN_AGE_WAR_DESCRIPTION">
+			<Text>You must be in a Golden Age with "To Arms!" as a Dedication.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_RENEW_ALLIANCE_NOTIFICATION_MESSAGE_INITIAL">
+			<Text>Alliance Renewal Request</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_RENEW_ALLIANCE_NOTIFICATION_SUMMARY_INITIAL">
+			<Text>{1_name} has requested to extend the Alliance between your civilizations.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_RENEW_ALLIANCE_NOTIFICATION_MESSAGE_POSITIVE">
+			<Text>Alliance Renewal Accepted</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_RENEW_ALLIANCE_NOTIFICATION_SUMMARY_POSITIVE">
+			<Text>{1_name} has accepted your Alliance renewal.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_RENEW_ALLIANCE_NOTIFICATION_MESSAGE_NEGATIVE">
+			<Text>Alliance Renewal Rejected</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_RENEW_ALLIANCE_NOTIFICATION_SUMMARY_NEGATIVE">
+			<Text>{1_name} has rejected your Alliance renewal.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_RENEW_ALLIANCE_FROM_AI_ANY_ANY">
+			<Text>Our Alliance has been of great benefit to both of our peoples.  I propose that we renew it.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_RENEW_ALLIANCE_FROM_AI_ANY_ANY">
+			<Text>I'm glad you agree.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_RENEW_ALLIANCE_FROM_AI_ANY_ANY">
+			<Text>Darn, I thought we would be allies forever.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_RENEW_ALLIANCE_FROM_HUMAN_ANY_ANY">
+			<Text>That sounds like a great idea.  We accept.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_RENEW_ALLIANCE_FROM_HUMAN_ANY_ANY">
+			<Text>We do not wish to continue this course of action with you at this time.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_RENEW_ALLIANCE_CHOICE_POSITIVE">
+			<Text>We would be pleased to extend our Alliance.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_RENEW_ALLIANCE_CHOICE_NEGATIVE">
+			<Text>We do not wish to extend this Alliance.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_RENEW_ALLIANCE_AI_AGREE_TO_PLAYER_1">
+			<Text>Yes, for the sake of our future prosperity.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_RENEW_ALLIANCE_AI_AGREE_TO_PLAYER_2">
+			<Text>Yes, this has benefited both our civilizations.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_RENEW_ALLIANCE_AI_AGREE_TO_PLAYER_3">
+			<Text>Yes, let us renew this alliance.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_RENEW_ALLIANCE_AI_AGREE_TO_PLAYER_GILGAMESH">
+			<Text>Of course! Have we not fought long together? Our foes speak our names with fear!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_RENEW_ALLIANCE_AI_AGREE_TO_PLAYER_ALEXANDER">
+			<Text>Of course! Have we not fought long together? Our foes speak our names with fear!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_RENEW_ALLIANCE_AI_AGREE_TO_PLAYER_TEDDY">
+			<Text>It's only right that we should continue our Alliance.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_RENEW_ALLIANCE_AI_AGREE_TO_PLAYER_CATHERINE">
+			<Text>Yes, I would hate to give up the benefit of your company.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_RENEW_ALLIANCE_AI_AGREE_TO_PLAYER_CLEOPATRA">
+			<Text>Yes. I embrace any opportunity to continue our close relationship.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_RENEW_ALLIANCE_AI_REFUSE_TO_PLAYER_1">
+			<Text>Things now are different than they were before. We cannot renew the Alliance.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_RENEW_ALLIANCE_AI_REFUSE_TO_PLAYER_2">
+			<Text>No. This Alliance is no longer in our interests.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_RENEW_ALLIANCE_AI_REFUSE_TO_PLAYER_3">
+			<Text>No. There's no need to renew this Alliance.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_RENEW_ALLIANCE_AI_REFUSE_TO_PLAYER_GILGAMESH">
+			<Text>No. It cannot be as it was.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_RENEW_ALLIANCE_AI_REFUSE_TO_PLAYER_ALEXANDER">
+			<Text>No. It cannot be as it was.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_RENEW_ALLIANCE_AI_REFUSE_TO_PLAYER_TEDDY">
+			<Text>America will go her own way, as befits a first-rate power.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_RENEW_ALLIANCE_AI_REFUSE_TO_PLAYER_CATHERINE">
+			<Text>I must decline your close company. For now.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_RENEW_ALLIANCE_AI_REFUSE_TO_PLAYER_CLEOPATRA">
+			<Text>No. My love of this Alliance has faded.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_PROPOSE_ALLIANCE_AI_TO_PLAYER_1">
+			<Text>Our Alliance has brought peace and prosperity to our civilizations. Let us renew it.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_PROPOSE_ALLIANCE_AI_TO_PLAYER_2">
+			<Text>We should renew the Alliance which has been so beneficial to both our civilizations.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_PROPOSE_ALLIANCE_AI_TO_PLAYER_3">
+			<Text>Shall we renew our Alliance? We both benefit by this agreement.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_PROPOSE_ALLIANCE_AI_TO_PLAYER_GILGAMESH">
+			<Text>Renew our alliance, friend! We will find joy together as we vanquish our foes!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_PROPOSE_ALLIANCE_AI_TO_PLAYER_ALEXANDER">
+			<Text>Renew our alliance, friend! We will find joy together as we vanquish our foes!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_PROPOSE_ALLIANCE_AI_TO_PLAYER_TEDDY">
+			<Text>Let us renew our Alliance! Then let us celebrate the occasion with a vigorous wrestling match!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_PROPOSE_ALLIANCE_AI_TO_PLAYER_CATHERINE">
+			<Text>Shall we continue our Alliance? You would be sorry if you were to miss my parties.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_PROPOSE_ALLIANCE_AI_TO_PLAYER_CLEOPATRA">
+			<Text>We have grown so close in this Alliance. Surely you will not pull away from me now?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_RENEW_ALLIANCE_PLAYER_AGREE_TO_AI_1">
+			<Text>Excellent. Both our civilizations will grow stronger through this.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_RENEW_ALLIANCE_PLAYER_AGREE_TO_AI_2">
+			<Text>Very good. Peace and prosperity will continue.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_RENEW_ALLIANCE_PLAYER_AGREE_TO_AI_3">
+			<Text>I'm glad you see the benefits that this Alliance has brought us.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_RENEW_ALLIANCE_PLAYER_AGREE_TO_AI_GILGAMESH">
+			<Text>Let us rejoice at our combined strength! I hear our enemies' teeth chattering with fear!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_RENEW_ALLIANCE_PLAYER_AGREE_TO_AI_ALEXANDER">
+			<Text>Let us rejoice at our combined strength! I hear our enemies' teeth chattering with fear!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_RENEW_ALLIANCE_PLAYER_AGREE_TO_AI_TEDDY">
+			<Text>Bully!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_RENEW_ALLIANCE_PLAYER_AGREE_TO_AI_CATHERINE">
+			<Text>Oh good. I would hate for you to miss anything important.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_RENEW_ALLIANCE_PLAYER_AGREE_TO_AI_CLEOPATRA">
+			<Text>I am pleased.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_RENEW_ALLIANCE_PLAYER_REFUSE_TO_AI_1">
+			<Text>A disappointing decision, to be sure.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_RENEW_ALLIANCE_PLAYER_REFUSE_TO_AI_2">
+			<Text>I hope you do not regret this decision.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_RENEW_ALLIANCE_PLAYER_REFUSE_TO_AI_3">
+			<Text>A pity that you feel that way.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_RENEW_ALLIANCE_PLAYER_REFUSE_TO_AI_GILGAMESH">
+			<Text>No matter. I have strength enough without you.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_RENEW_ALLIANCE_PLAYER_REFUSE_TO_AI_ALEXANDER">
+			<Text>No matter. I have strength enough without you.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_RENEW_ALLIANCE_PLAYER_REFUSE_TO_AI_TEDDY">
+			<Text>America's power is only rising. You would have been wise to accept my offer.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_RENEW_ALLIANCE_PLAYER_REFUSE_TO_AI_CATHERINE">
+			<Text>How disappointing and short-sighted of you.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_RENEW_ALLIANCE_PLAYER_REFUSE_TO_AI_CLEOPATRA">
+			<Text>No doubt some other civilization has caught your eye. Find your comfort with them, then.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_RENEW_ALLIANCE_BUTTON_ACCEPT">
+			<Text>Renew Alliance</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_RENEW_ALLIANCE_BUTTON_REJECT">
+			<Text>End Alliance</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ANY_GOLDEN_AGE_WAR">
+			<Text>(Declares a Golden Age War against you)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ANY_EMERGENCY_WAR">
+			<Text>(Has joined an Emergency against you)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ANY_WAR_OF_RETRIBUTION">
+			<Text>(Declares a War of Retribution against you)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ANY_IDEOLOGICAL_WAR">
+			<Text>(Declares an Ideological War against you)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ANY_JOINT_GOLDEN_AGE_WAR">
+			<Text>(Declares a joint Golden Age War against you)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ANY_JOINT_WAR_OF_RETRIBUTION">
+			<Text>(Declares a joint War of Retribution against you)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ANY_JOINT_IDEOLOGICAL_WAR">
+			<Text>(Declares a joint Ideological War against you)</Text>
+		</Replace>
+
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_GOSSIP_POSITIVE">
+			<Text>It is good that our relationship is built on the strength of knowing other people’s secrets.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_PERICLES_REASON_AGENDA_GOSSIP_POSITIVE">
+			<Text>You must enjoy the reports of your envoys and spies as much as I do!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_VICTORIA_REASON_AGENDA_GOSSIP_POSITIVE">
+			<Text>The next time I send a delegation to you, the leader will have a big, fat dossier full of good secrets. Make sure no one’s around when you open it.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_CATHERINE_DE_MEDICI_REASON_AGENDA_GOSSIP_POSITIVE">
+			<Text>Maybe you’ve heard whispers that I consider you to be one of my best sources. But who listens to what people say? Besides you and I, of course.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_GOSSIP_NEGATIVE">
+			<Text>I often wonder why you say so little. I believe you’ve nothing interesting to say.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_SYCOPHANT_GOLDEN_AGE">
+			<Text>Our poets and philosophers hold up your civilization as the light of the world, and I must agree with them.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_QIN_REASON_AGENDA_SYCOPHANT_GOLDEN_AGE">
+			<Text>Your personal magnificence is reflected in the glory of your civilization!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_T_ROOSEVELT_REASON_AGENDA_SYCOPHANT_GOLDEN_AGE">
+			<Text>The people of every civilization look upon you with wonder. You are an inspiration to the world!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_PEDRO_REASON_AGENDA_SYCOPHANT_GOLDEN_AGE">
+			<Text>I look upon your civilization and its works, and I understand why your people are praised in song and story around the world.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_PETER_GREAT_REASON_AGENDA_SYCOPHANT_GOLDEN_AGE">
+			<Text>Your civilization is the model on which I will build the new Russia!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_PHILIP_II_REASON_AGENDA_SYCOPHANT_GOLDEN_AGE">
+			<Text>What could be better than to surround oneself with such poets and playwrights, saints and scientists? I have always thought that a great nation is a manifestation of the blessings of the Almighty.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_GORGO_REASON_AGENDA_SYCOPHANT_GOLDEN_AGE">
+			<Text>Yes! Your excellence—your Arete—is truly worthy of emulation! </Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_SYCOPHANT_DARK_AGE">
+			<Text>Aspire to be a worthier example to the rest of the world! Your people will love you if you lead them to glory.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_SYMPATHIZER_DARK_AGE">
+			<Text>Our civilization admires the way you’re bearing your current trouble with hardiness and resolve.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_VICTORIA_REASON_AGENDA_SYMPATHIZER_DARK_AGE">
+			<Text>You bear the suffering of your Dark Age with such nobility! I wish my subjects were as stalwart as you!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_CATHERINE_DE_MEDICI_REASON_AGENDA_SYMPATHIZER_DARK_AGE">
+			<Text>I am sending you a gift: A ring inscribed with “This Too Shall Pass.” May it comfort you in times of trouble.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_PETER_GREAT_REASON_AGENDA_SYMPATHIZER_DARK_AGE">
+			<Text>A lesser leader would be unable to do what you are doing: Keeping firm control of your civilization in a time of crisis.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_GENGHIS_KHAN_REASON_AGENDA_SYMPATHIZER_DARK_AGE">
+			<Text>I admire the way you rule. I appreciate not having to come up with a complicated strategy to conquer your civilization.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_JADWIGA_REASON_AGENDA_SYMPATHIZER_DARK_AGE">
+			<Text>Your heart must ache for the suffering of your people. Poland understands your plight, and we pray for you.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_LAUTARO_REASON_AGENDA_SYMPATHIZER_DARK_AGE">
+			<Text>You, too, know what it means to resist the cruelty of the powerful. Mapuche respect what you do.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_JAYAVARMAN_REASON_AGENDA_SYMPATHIZER_DARK_AGE">
+			<Text>You are tied to the cycle of samsara now. I pray unceasingly that you will soon be liberated, and at peace.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_SYMPATHIZER_GOLDEN_AGE">
+			<Text>Your people's "glorious age" looks a lot like gloating to me. I look forward to the day of your fall.</Text>
+		</Replace>
+
+		<Replace Language='en_US' Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_GOSSIP_NEGATIVE">
+			<Text>(You do not gossip enough.)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_SYCOPHANT_DARK_AGE">
+			<Text>(You are in a dark age.)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DENOUNCE_REASON_FROM_AI_LEADER_ANY_REASON_AGENDA_SYMPATHIZER_DARK_AGE">
+			<Text>(You are in a golden age.)</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>
