@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<Row Tag="LOC_DISTRICT_GOVERNMENT_NAME">
+			<Text>Government Plaza</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_WATER_ENTERTAINMENT_COMPLEX_NAME">
+			<Text>Water Park</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_GOVERNMENT_DESCRIPTION">
+			<Text>A district placed once in your empire to commemorate your government choices. Provides +8 Loyalty per turn to this city, and an increase of +1 to the adjacency bonuses being earned by any adjacent district. Awards +1 [Icon_Governor] Governor Title.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_WATER_ENTERTAINMENT_COMPLEX_DESCRIPTION">
+			<Text>A district placed out on a coastal tile dedicated to keeping your people happy by increasing [ICON_Amenities] Amenities. Cannot be built in a city with an Entertainment Complex. Cannot be built on Reef.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_COMMERCIAL_HUB_EXPANSION1_DESCRIPTION">
+			<Text>A district in your city specializing in finance and trade.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_HARBOR_EXPANSION1_DESCRIPTION">
+			<Text>A district for naval activity in your city. Also removes the [ICON_Movement] Movement penalty for embarking and disembarking to and from this tile. Must be built on Coast or Lake Terrain adjacent to land. Cannot be built on Reef.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_ENTERTAINMENT_COMPLEX_EXPANSION1_DESCRIPTION">
+			<Text>A district in your city dedicated to keeping your people happy by increasing [ICON_Amenities] Amenities. Cannot be built in a city with a Water Park.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_RIVER_CULTURE">
+			<Text>+{1_num} [ICON_Culture] Culture from the adjacent River.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_RIVER_PRODUCTION">
+			<Text>+{1_num} [ICON_Production] Production from the adjacent River.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_RIVER_SCIENCE">
+			<Text>+{1_num} [ICON_Science] Science from the adjacent River.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_BASE_DISTRICT_SCIENCE">
+			<Text>+{1_num} [ICON_Science] Science.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_NEGATIVE_DISTRICT_SCIENCE">
+			<Text>{1_num: number +#,###;-#,###} [ICON_Science] Science from adjacent districts.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_GOVERNMENT_CULTURE">
+			<Text>+{1_num} [ICON_Culture] Culture from the adjacent Government Plaza.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_GOVERNMENT_FAITH">
+			<Text>+{1_num} [ICON_Faith] Faith from the adjacent Government Plaza.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_GOVERNMENT_GOLD">
+			<Text>+{1_num} [ICON_Gold] Gold from the adjacent Government Plaza.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_GOVERNMENT_PRODUCTION">
+			<Text>+{1_num} [ICON_Production] Production from the adjacent Government Plaza.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_GOVERNMENT_SCIENCE">
+			<Text>+{1_num} [ICON_Science] Science from the adjacent Government Plaza.</Text>
+		</Row>
+		<!-- Projects -->
+		<Row Tag="LOC_PROJECT_WATER_CARNIVAL_NAME">
+			<Text>Carnival</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_WATER_CARNIVAL_SHORT_NAME">
+			<Text>Carnival (Coastal)</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_WATER_CARNIVAL_DESCRIPTION">
+			<Text>Brazilian unique project which provides +1 [ICON_Amenities] Amenity when active and [ICON_GreatPerson] Great Person Points for [ICON_GreatEngineer] Great Engineers, [ICON_GreatMerchant] Great Merchants, [ICON_GreatWriter] Great Writers, [ICON_GreatArtist] Great Artists, and [ICON_GreatMusician] Great Musicians once finished.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_BREAD_AND_CIRCUSES_NAME">
+			<Text>Bread and Circuses</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_BREAD_AND_CIRCUSES_SHORT_NAME">
+			<Text>Bread and Circuses</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_WATER_BREAD_AND_CIRCUSES_SHORT_NAME">
+			<Text>Bread and Circuses (Coastal)</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_BREAD_AND_CIRCUSES_DESCRIPTION">
+			<Text>City project which increases the Loyalty pressure that this city exerts on itself and other cities nearby.[NEWLINE][NEWLINE]While active, each of your [ICON_Citizen] Citizens here exerts +0.5 Loyalty pressure to this city. This pressure also affects other cities within 9 tiles, but is 10% less effective per tile. Once completed, instantly gain +20 Loyalty in this city.[NEWLINE][NEWLINE]Requires: Entertainment Complex district.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_BREAD_AND_CIRCUSES_DESCRIPTION_ALT">
+			<Text>City project which increases the Loyalty pressure that this city exerts on itself and other cities nearby.[NEWLINE][NEWLINE]While active, each of your [ICON_Citizen] Citizens here exert +1 Loyalty pressure to this city. This pressure also affects other cities within 9 tiles, but is 10% less effective per tile. Once completed, instantly gain +20 Loyalty in this city.[NEWLINE][NEWLINE]Requires: Water Park district.</Text>
+		</Row>
+		<!-- Updates to base game Districts -->
+		<Row Tag="LOC_DISTRICT_ENTERTAINMENT_COMPLEX_DESCRIPTION">
+			<Text>A district in your city dedicated to keeping your people happy by increasing [ICON_Amenities] Amenities. Cannot be built in a city with a Water Park.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_STREET_CARNIVAL_DESCRIPTION">
+			<Text>A district unique to Brazil. Replaces the Entertainment Complex district, and provides +2 [ICON_Amenities] Amenities, and cheaper to build. Cannot be built in a city with a Copacabana. Also unlocks the Carnival project, which grants an additional +1 [ICON_Amenities] Amenity when underway and a variety of [ICON_GreatPerson] Great People points once completed.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

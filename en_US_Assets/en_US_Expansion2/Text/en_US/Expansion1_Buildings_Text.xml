@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<!-- Government Buildings -->
+		<Row Tag="LOC_BUILDING_GOV_TALL_NAME">
+			<Text>Audience Chamber</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_GOV_WIDE_NAME">
+			<Text>Ancestral Hall</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_GOV_CONQUEST_NAME">
+			<Text>Warlord's Throne</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_GOV_FAITH_NAME">
+			<Text>Grand Master's Chapel</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_GOV_CITYSTATES_NAME">
+			<Text>Foreign Ministry</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_GOV_SPIES_NAME">
+			<Text>Intelligence Agency</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_GOV_MILITARY_NAME">
+			<Text>War Department</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_GOV_CULTURE_NAME">
+			<Text>National History Museum</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_GOV_SCIENCE_NAME">
+			<Text>Royal Society</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_GOV_TALL_DESCRIPTION">
+			<Text>+1 [ICON_Amenities] Amenity and +3 [ICON_Housing] Housing in Cities with [ICON_Governor] Governors[NEWLINE]-2 Loyalty in Cities without [ICON_Governor] Governors.[NEWLINE]Awards +1 [Icon_Governor] Governor Title.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_GOV_WIDE_DESCRIPTION">
+			<Text>50% increased [ICON_Production] Production toward Settlers in this City.[NEWLINE]New cities receive a free Builder.[NEWLINE]Awards +1 [Icon_Governor] Governor Title.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_GOV_CONQUEST_DESCRIPTION">
+			<Text>Capturing an enemy City grants 20% bonus [ICON_Production] Production in all Cities for 5 turns.[NEWLINE]Awards +1 [Icon_Governor] Governor Title.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_GOV_CITYSTATES_DESCRIPTION">
+			<Text>Leveraging City States costs half [ICON_Gold] Gold.[NEWLINE]City State units gain +4 [ICON_Strength] Combat Strength if you are the City State's Suzerain (including Leveraged Units).[NEWLINE]Awards +1 [Icon_Governor] Governor Title.</Text>
+		</Row>
+		<Row Tag="GOV_CITYSTATES_LEVIED_COMBAT_STRENGTH_DESCRIPTION">
+			<Text>+4 from Foreign Ministry</Text>
+		</Row>
+		<Row Tag="GOV_CITYSTATES_COMBAT_STRENGTH_DESCRIPTION">
+			<Text>+4 from Foreign Ministry</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_GOV_SPIES_DESCRIPTION">
+			<Text>+1 Spy and Spy capacity.[NEWLINE]All Spy Operations have a higher chance of success.[NEWLINE]Awards +1 [Icon_Governor] Governor Title.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_GOV_FAITH_DESCRIPTION">
+			<Text>Grants the ability to buy land units with [ICON_Faith] Faith.[NEWLINE]Pillaging Improvements and Districts provides bonus [ICON_Faith] Faith.[NEWLINE]Awards +1 [Icon_Governor] Governor Title.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_GOV_MILITARY_DESCRIPTION">
+			<Text>All units heal up to 20 hit points when they eliminate a unit.[NEWLINE]Awards +1 [Icon_Governor] Governor Title.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_GOV_CULTURE_DESCRIPTION">
+			<Text>Provides 4 slots for any Great Work.[NEWLINE]Awards +1 [Icon_Governor] Governor Title.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_GOV_SCIENCE_DESCRIPTION">
+			<Text>Builders gain the ability to use all of their charges to provide bonus [ICON_Production] Production to a District Project. Once per city per turn.[NEWLINE]Awards +1 [Icon_Governor] Governor Title.</Text>
+		</Row>
+		<!-- Water Entertainment Complex Buildings -->
+		<Row Tag="LOC_BUILDING_FERRIS_WHEEL_NAME">
+			<Text>Ferris Wheel</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_FERRIS_WHEEL_DESCRIPTION">
+			<Text>+2 [ICON_Tourism] Tourism.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_AQUARIUM_NAME">
+			<Text>Aquarium</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_AQUARIUM_DESCRIPTION">
+			<Text>Bonus [ICON_Amenities]  Amenity extends to each city center within 9 tiles. This bonus applies once to a city, and multiple copies of this building within 9 tiles of a city center do not provide additional bonuses. +1 [ICON_SCIENCE] Science to each coastal resource, Shipwreck, and Reef tile in this city.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_AQUATICS_CENTER_NAME">
+			<Text>Aquatics Center</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_AQUATICS_CENTER_DESCRIPTION">
+			<Text>Bonus [ICON_Amenities]  Amenities extend to each city center within 9 tiles. This bonus applies once to a city, and multiple copies of this building within 9 tiles of a city center do not provide additional bonuses. +2 [ICON_Tourism] Tourism for each Wonder built in this city on or adjacent to a Coast tile.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_ARENA_EXPANSION1_DESCRIPTION">
+			<Text>Provides 1 [ICON_TOURISM] Tourism after advancing to the Conservation Civic.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_TLACHTLI_EXPANSION1_DESCRIPTION">
+			<Text>Provides 1 [ICON_TOURISM] Tourism after advancing to the Conservation Civic.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_ZOO_EXPANSION1_DESCRIPTION">
+			<Text>Bonus [ICON_Amenities] Amenity extends to each city center within 6 tiles. This bonus applies once to a city, and multiple copies of this building within 6 tiles of a city center do not provide additional bonuses. +1 [ICON_SCIENCE] Science to each Rainforest and Marsh tile in this city.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_STADIUM_EXPANSION1_DESCRIPTION">
+			<Text>Bonus [ICON_Amenities] Amenities extend to each city center within 6 tiles. This bonus applies once to a city, and multiple copies of this building within 6 tiles of a city center do not provide additional bonuses. +2 [ICON_Tourism] Tourism if the city [ICON_CITIZEN] population is 10 or higher and +5 [ICON_Tourism] Tourism if the city [ICON_CITIZEN] population is 20 or higher.</Text>
+		</Row>
+		<!-- Neighborhood Buildings -->
+		<Row Tag="LOC_BUILDING_FOOD_MARKET_NAME">
+			<Text>Food Market</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_FOOD_MARKET_DESCRIPTION">
+			<Text>Can only be built once in a city, even if the city has multiple Neighborhoods.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_SHOPPING_MALL_NAME">
+			<Text>Shopping Mall</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_SHOPPING_MALL_DESCRIPTION">
+			<Text>+4 [ICON_Tourism] Tourism. Can only be built once in a city, even if the city has multiple Neighborhoods.</Text>
+		</Row>
+		<!-- Wonders -->
+		<Row Tag="LOC_BUILDING_AMUNDSEN_SCOTT_RESEARCH_STATION_NAME">
+			<Text>Amundsen-Scott Research Station</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_AMUNDSEN_SCOTT_RESEARCH_STATION_DESCRIPTION">
+			<Text>+20% [ICON_SCIENCE] Science and 10% [ICON_PRODUCTION] Production in all cities. If there are 5 Snow or Snow Hills tiles within 3 tiles of a city and owned by this player these yields are doubled. Must be built next to a Campus with a Research Lab on a Snow or Snow Hills tile.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_CASA_DE_CONTRATACION_NAME">
+			<Text>Casa de Contratación</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_CASA_DE_CONTRATACION_DESCRIPTION">
+			<Text>Gain 3 [ICON_Governor] Governor promotions.  All your cities not on your original [ICON_Capital] Capital's continent with a [ICON_Governor] Governor gain +15% [ICON_Production] Production, +15% [ICON_Faith] Faith and +15% [ICON_Gold] Gold. Must be built adjacent to a Government Plaza.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_COLOSSEUM_DESCRIPTION">
+			<Text>The Colosseum provides 2 of the following: [ICON_Culture] Culture, Loyalty per turn, and [ICON_Amenities] Amenities to each city center within 6 tiles. Must be built on flat land adjacent to an Entertainment Complex with an Arena.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_GREAT_LIBRARY_DESCRIPTION">
+			<Text>Receive boosts to all Ancient and Classical era technologies. Receive a random tech boost after another player recruits a [ICON_GreatScientist] Great Scientist. Must be built on flat land adjacent to a Campus district with a Library.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_KILWA_KISIWANI_NAME">
+			<Text>Kilwa Kisiwani</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_KILWA_KISIWANI_DESCRIPTION">
+			<Text>+3 [ICON_ENVOY] Envoys when built. When you are the Suzerain of a City-State this city receives a +15% boost to the Type bonuses provided by that City-State. If you are the Suzerain to 2 or more City-States of that type an additional +15% boost is given to all your cities. Must be built on a flat tile adjacent to Coast.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_KOTOKU_IN_NAME">
+			<Text>Kotoku-in</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_KOTOKU_IN_DESCRIPTION">
+			<Text>+20% [ICON_Faith] Faith in this city. Grants 4 Warrior Monks.[NEWLINE][NEWLINE]Must be built adjacent to a Holy Site district with a Temple. Warrior Monks can only be received if player has founded a religion or if there is a majority religion for this player or city.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_ST_BASILS_CATHEDRAL_NAME">
+			<Text>St. Basil's Cathedral</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_ST_BASILS_CATHEDRAL_DESCRIPTION">
+			<Text>+100% [ICON_Tourism] Religious Tourism from this city. +1 [ICON_Food] Food, +1 [ICON_Production] Production, and +1 [ICON_Culture] Culture on all Tundra tiles for this city. Must be built adjacent to a City Center.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_STATUE_LIBERTY_NAME">
+			<Text>Statue of Liberty</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_STATUE_LIBERTY_DESCRIPTION">
+			<Text>Grants 2 Settlers. All your cities within 6 tiles are always 100% Loyal. Must be built on the Coast, adjacent to land and a Harbor district.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_TAJ_MAHAL_NAME">
+			<Text>Taj Mahal</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_TAJ_MAHAL_DESCRIPTION">
+			<Text>+1 Era Score from Historic Moment earned after this wonder is complete if that Moment is usually worth 2 or more Era Score. Must be built next to a River.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_TEMPLE_ARTEMIS_NAME">
+			<Text>Temple of Artemis</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_TEMPLE_ARTEMIS_DESCRIPTION">
+			<Text>Each Camp, Pasture, and Plantation improvement within 4 tiles of this wonder provides +1 [ICON_AMENITIES] Amenity. Must be placed adjacent to a Camp improvement.</Text>
+		</Row>
+		<!-- Trade balance changes -->
+		<Row Tag="LOC_BUILDING_MARKET_EXPANSION1_DESCRIPTION">
+			<Text>+1 [ICON_TradeRoute] Trade Route capacity, if this city does not yet have a Lighthouse building.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_LIGHTHOUSE_EXPANSION1_DESCRIPTION">
+			<Text>+25% combat experience for all naval units trained in this city. +1 [ICON_FOOD] Food on all Coast tiles for this city. +1 [ICON_TradeRoute] Trade Route capacity, if this city does not yet have a Market building.</Text>
+		</Row>
+		<!-- Other balance changes -->
+		<Row Tag="LOC_BUILDING_MONUMENT_EXPANSION1_DESCRIPTION">
+			<Text>Provides +1 Loyalty per turn in this city. If the city already has maximum Loyalty, also provides an additional +1 [ICON_Culture] Culture.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

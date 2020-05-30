@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<!-- City States -->
+		<Row Tag="LOC_CITY_NAME_ANTIOCH">
+			<Text>Antioch</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BABYLON">
+			<Text>Babylon</Text>
+		</Row>
+	</EnglishText>
+</GameData>

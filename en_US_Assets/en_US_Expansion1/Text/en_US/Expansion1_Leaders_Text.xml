@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<!--City-States-->
+		<Row Tag="LOC_MINOR_CIV_SCIENTIFIC_TRAIT_MEDIUM_INFLUENCE_BONUS">
+			<Text>+2 [ICON_Science] Science in every Library building.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_SCIENTIFIC_TRAIT_LARGE_INFLUENCE_BONUS">
+			<Text>+2 [ICON_Science] Science in every University building.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_RELIGIOUS_TRAIT_MEDIUM_INFLUENCE_BONUS">
+			<Text>+2 [ICON_Faith] Faith in every Shrine building.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_RELIGIOUS_TRAIT_LARGE_INFLUENCE_BONUS">
+			<Text>+2 [ICON_Faith] Faith in every Temple building.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_TRADE_TRAIT_MEDIUM_INFLUENCE_BONUS">
+			<Text>+4 [ICON_Gold] Gold in every Market building.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_TRADE_TRAIT_LARGE_INFLUENCE_BONUS">
+			<Text>+4 [ICON_Gold] Gold in every Bank building.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_CULTURAL_TRAIT_MEDIUM_INFLUENCE_BONUS">
+			<Text>+2 [ICON_Culture] Culture in every Amphitheater building.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_CULTURAL_TRAIT_LARGE_INFLUENCE_BONUS">
+			<Text>+2 [ICON_Culture] Culture in every Art Museum and Archeological Museum building.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_MILITARISTIC_TRAIT_MEDIUM_INFLUENCE_BONUS">
+			<Text>+2 [ICON_Production] Production in every city with a Barracks or Stable building when producing units.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_MILITARISTIC_TRAIT_LARGE_INFLUENCE_BONUS">
+			<Text>+2 [ICON_Production] Production in every city with an Armory building when producing units.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_INDUSTRIAL_TRAIT_MEDIUM_INFLUENCE_BONUS">
+			<Text>+2 [ICON_Production] Production in every city with a Workshop building when producing wonders, buildings, and districts.</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_INDUSTRIAL_TRAIT_LARGE_INFLUENCE_BONUS">
+			<Text>+2 [ICON_Production] Production in every city with a Factory building when producing wonders, buildings, and districts.</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_ANTIOCH_NAME">
+			<Text>Antioch</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_ANTIOCH_DESCRIPTION">
+			<Text>Antioch city-state</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_ANTIOCH_NAME">
+			<Text>Antioch Suzerain Bonus</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_ANTIOCH_DESCRIPTION">
+			<Text>Your [ICON_TradeRoute] Trade Routes to foreign cities earn +1 [ICON_Gold] Gold for each Luxury resource at the destination.</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_ANTIOCH_ADJECTIVE">
+			<Text>Antiochian</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BABYLON_NAME">
+			<Text>Babylon </Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BABYLON_DESCRIPTION">
+			<Text>Babylon city-state</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_BABYLON_NAME">
+			<Text>Babylon Suzerain Bonus</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_BABYLON_DESCRIPTION">
+			<Text>+2 [ICON_SCIENCE] Science from each [ICON_GreatWork_WRITING] Great Work of Writing. +1 [ICON_SCIENCE] Science from each [ICON_GreatWork_RELIC] Relic and [ICON_GreatWork_Artifact] Artifact.</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BABYLON_ADJECTIVE">
+			<Text>Babylonian</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_CARTHAGE_DESCRIPTION">
+			<Text>Land combat units are 20% cheaper to purchase with [ICON_GOLD] Gold for each Encampment district building in that city.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_PRESLAV_DESCRIPTION">
+			<Text>You receive +2 Loyalty per turn in cities for each Encampment district building.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_STOCKHOLM_DESCRIPTION">
+			<Text>Your districts with a building provide +1 [ICON_GreatPerson] Great Person point of their type ([ICON_GreatWriter] Great Writer, [ICON_GreatArtist] Great Artist, and [ICON_GreatMusician] Great Musician for Theater Square districts with a building).</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_VILNIUS_DESCRIPTION">
+			<Text>For the highest active Alliance Level, all your Theater Square districts receive +50% adjacency bonus.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_CAVALRY_COMBAT_BONUS_PREVIEW_TEXT">
+			<Text>+{1_Amount} Mongol Horde</Text>
+		</Row>
+		
+		<!-- Free Cities -->
+		<Row Tag="LOC_CIVILIZATION_FREE_CITIES_NAME">
+			<Text>Free Cities</Text>
+			<Gender>Masculine:the</Gender>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_FREE_CITIES_DESCRIPTION">
+			<Text>Free Cities</Text>
+		</Row>
+	</EnglishText>
+</GameData>

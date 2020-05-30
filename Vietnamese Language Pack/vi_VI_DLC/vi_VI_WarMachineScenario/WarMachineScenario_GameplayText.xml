@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- REPLACEMENTS -->
+		<Delete Tag="LOC_BUILDING_STAR_FORT_NAME"/>
+		<Delete Tag="LOC_BUILDING_STAR_FORT_DESCRIPTION"/>
+		<Delete Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GREAT_GENERAL_CHAPTER_HISTORY_PARA_1"/>
+		<Delete Tag="LOC_WORLD_RANKINGS_SCORE_VICTORY"/>
+		<Delete Tag="LOC_WORLD_RANKINGS_SCORE_DETAILS"/>
+	</LocalizedText>
+	<EnglishText>
+		<!-- REPLACEMENTS -->
+		<Row Tag="LOC_BUILDING_STAR_FORT_NAME">
+			<Text>Fortress</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_STAR_FORT_DESCRIPTION">
+			<Text>Raises the strength of your outer defenses to withstand all but the most concentrated assaults.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_RANKINGS_SCORE_VICTORY">
+			<Text>War Machine Victory</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_RANKINGS_SCORE_DETAILS">
+			<Text>As Germany you must capture the city of Paris within the time limit. As France, you must defend Paris against capture until the time runs out.</Text>
+		</Row>
+		<!--HUD-->
+		<Row Tag="LOC_WARMACHINE_CALENDAR_AUGUST">
+			<Text>August {1_Day}, 1914</Text>
+		</Row>
+		<Row Tag="LOC_WARMACHINE_CALENDAR_SEPT">
+			<Text>September {1_Day}, 1914</Text>
+		</Row>
+		<!--Great People-->
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_GENERAL_DEFAULT_NAME">
+			<Text>Field Commander</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_WARMACHINE_GREAT_GENERAL_STRENGTH">
+			<Text>+3 [ICON_Strength] Combat Strength to land units within 2 tiles.</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_WARMACHINE_GREAT_GENERAL_STRENGTH_MODIFIER">
+			<Text>+3 [ICON_Strength] Combat Bonus from Great General.</Text>
+		</Row>
+		<!--Buildings-->
+		<Row Tag="LOC_BUILDING_HEADQUARTERS_NAME">
+			<Text>Headquarters</Text>
+		</Row>
+		<!--Techs-->
+		<Row Tag="LOC_TECH_AIRCRAFT_NAME">
+			<Text>Aircraft</Text>
+		</Row>
+		<Row Tag="LOC_TECH_FORTIFICATIONS_NAME">
+			<Text>Fortifications</Text>
+		</Row>
+		<Row Tag="LOC_TECH_FORTIFICATIONS_DESCRIPTION">
+			<Text>+100 hit points in all cities.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_HEAVY_ARTILLERY_NAME">
+			<Text>Heavy Artillery</Text>
+		</Row>
+		<Row Tag="LOC_TECH_HEAVY_ARTILLERY_DESCRIPTION">
+			<Text>+6 [ICON_Strength] Combat Strength for Artillery units.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_LOGISTICS_NAME">
+			<Text>Logistics</Text>
+		</Row>
+		<Row Tag="LOC_TECH_LOGISTICS_DESCRIPTION">
+			<Text>Allows the formation and training of Armies.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_COMMAND_NAME">
+			<Text>Command</Text>
+		</Row>
+		<Row Tag="LOC_TECH_COMMAND_DESCRIPTION">
+			<Text>Grants 2 free [ICON_GreatGeneral] Great Generals in your [ICON_Capital] Capital.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_INDUSTRIAL_WARFARE_NAME">
+			<Text>Industrial Warfare</Text>
+		</Row>
+		<Row Tag="LOC_TECH_INDUSTRIAL_WARFARE_DESCRIPTION">
+			<Text>+5 [ICON_Strength] Combat Strength for all units.</Text>
+		</Row>
+		<Row Tag="LOC_INDUSTRIAL_WARFARE_COMBAT_STRENGTH_PREVIEW_TEXT">
+			<Text>+{1_Amount} Industrial Warfare</Text>
+		</Row>
+		<Row Tag="LOC_HEAVY_ARTILLERY_COMBAT_STRENGTH_PREVIEW_TEXT">
+			<Text>+{1_Amount} Heavy Artillery</Text>
+		</Row>
+		<!--Units-->
+		<Row Tag="LOC_UNIT_MILITARY_ENGINEER_WARMACHINE_DESCRIPTION">
+			<Text>Medieval era support unit. Requires an Armory to produce. Can construct Railroads, Forts, and Airstrips improvements.</Text>
+		</Row>
+		<!-- City Names -->
+		<Row Tag="LOC_CITY_NAME_LILLE">
+			<Text>Lille</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_REIMS">
+			<Text>Reims</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_NANCY">
+			<Text>Nancy</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BELFORT">
+			<Text>Belfort</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ORLEANS">
+			<Text>Orleans</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CHARTES">
+			<Text>Chartes</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KOLN">
+			<Text>Köln</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KOBLENZ">
+			<Text>Koblenz</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MANNHEIM">
+			<Text>Mannheim</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_STRASSBURG">
+			<Text>Strassburg</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_COLMAR">
+			<Text>Colmar</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ANTWERP">
+			<Text>Antwerp</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_LIEGE">
+			<Text>Liège</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_NAMUR">
+			<Text>Namur</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MONS">
+			<Text>Mons</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_LUXEMBOURG">
+			<Text>Luxembourg</Text>
+		</Row>
+		<!--Scoring-->
+		<Row Tag="LOC_SCENARIO_CATEGORY_CONTROL_OF_PARIS_NAME">
+			<Text>Control of Paris</Text>
+		</Row>
+		<Row Tag="LOC_SCENARIO_LINE_ITEM_CONTROL_OF_PARIS_NAME">
+			<Text>Control of Paris</Text>
+		</Row>
+		<!--Historic Rankings-->
+		<Row Tag="LOC_WARMACHINE_SCENARIO_ENDGAME_RANK_1_NAME">
+			<Text>Field Marshall</Text>
+		</Row>
+		<Row Tag="LOC_WARMACHINE_SCENARIO_ENDGAME_RANK_1_QUOTE">
+			<Text>The proof of military mastery is not found in protracted campaigns, but in decisive victory.</Text>
+		</Row>
+		<Row Tag="LOC_WARMACHINE_SCENARIO_ENDGAME_RANK_2_NAME">
+			<Text>General</Text>
+		</Row>
+		<Row Tag="LOC_WARMACHINE_SCENARIO_ENDGAME_RANK_2_QUOTE">
+			<Text>Command is the art of successfully and effortlessly directing the forces of war.</Text>
+		</Row>
+		<Row Tag="LOC_WARMACHINE_SCENARIO_ENDGAME_RANK_3_NAME">
+			<Text>Colonel</Text>
+		</Row>
+		<Row Tag="LOC_WARMACHINE_SCENARIO_ENDGAME_RANK_3_QUOTE">
+			<Text>Success or failure balances on the knife edge of information and intuition.</Text>
+		</Row>
+		<Row Tag="LOC_WARMACHINE_SCENARIO_ENDGAME_RANK_4_NAME">
+			<Text>Major</Text>
+		</Row>
+		<Row Tag="LOC_WARMACHINE_SCENARIO_ENDGAME_RANK_4_QUOTE">
+			<Text>Where there is courage, there is audacity. Where there is audacity, there is momentum. Where there is momentum, there is victory.</Text>
+		</Row>
+		<Row Tag="LOC_WARMACHINE_SCENARIO_ENDGAME_RANK_5_NAME">
+			<Text>Captain</Text>
+		</Row>
+		<Row Tag="LOC_WARMACHINE_SCENARIO_ENDGAME_RANK_5_QUOTE">
+			<Text>Victory if possible, but honor above all.</Text>
+		</Row>
+		<!-- ************************************************ -->
+		<!-- CIVILOPEDIA -->
+		<!-- ************************************************ -->
+		<!--Tech-->
+		<Row Tag="LOC_PEDIA_TECHNOLOGIES_PAGE_TECH_HEAVY_ARTILLERY_CHAPTER_HISTORY_PARA_1">
+			<Text>The Germans developed specialized siege guns to crack the defenses of the ring of forts surrounding Belgium. These proved to be very successful, causing the forts to fall sooner than the planners projected. The French developed a sophisticated and powerful 75mm artillery cannon which proved to be long-lasting and flexible. But neither was enough to break the stalemate of the trenches by themselves—new technologies in the tank and aircraft and small-unit tactics would eventually do that.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_TECHNOLOGIES_PAGE_TECH_LOGISTICS_CHAPTER_HISTORY_PARA_1">
+			<Text>Logistics is the process of supplying material to an army to replace losses and expenditure. Although not glamorous, success in warfare depends on getting these details absolutely right. Amateurs study tactics; experts study logistics. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_TECHNOLOGIES_PAGE_TECH_COMMAND_CHAPTER_HISTORY_PARA_1">
+			<Text>After the Napoleonic era, professional military officers began to incorporate both strategic and operational planning into their work. The professional command staff is the part of the military responsible for achieving translating political goals for war into military objectives. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_TECHNOLOGIES_PAGE_TECH_INDUSTRIAL_WARFARE_CHAPTER_HISTORY_PARA_1">
+			<Text>In total war, all the resources of the state are put in service of the war aims. In an industrial society, this means a total reworking of the industrial infrastructure into creating weaponry, training swaths of the population under arms for mass conscription, and directing the economy through overt political tools. It can transform the society in ways that redound long after the conflict ends.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_TECHNOLOGIES_PAGE_TECH_FORTIFICATIONS_CHAPTER_HISTORY_PARA_1">
+			<Text>The invention of the machinegun and the new high explosive artillery rounds meant that fortifications changed as well in the years leading up to the first World War. The extensive trench systems of the Western Front can be seen as physical expression of the supremacy of defense over offense for much of the war. Likewise, the modern tactics for infantry and tanks developed from 1916-oneward can be seen as an effort to overcome this supremacy of defense.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_TECHNOLOGIES_PAGE_TECH_AIRCRAFT_CHAPTER_HISTORY_PARA_1">
+			<Text>At the start of the First World War, aviation was still in its infancy, and aircraft were expensive and unreliable machines for reconnaissance. By the end of the war, they were a staple of every major military on the planet and employed for tactical attacks and strategic bombing, having undergone rapid evolution in the crucible of the war. Research and development was so expensive that much of it was done through state sponsorship or public-private partnership.</Text>
+		</Row>
+		<!--Leaders-->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_WARMACHINE_SCENARIO_FRANCE_CHAPTER_HISTORY_PARA_1">
+			<Text>After the disastrous Battle of Sedan during the Franco-Prussian War of 1870, French military planners had to recover from that catastrophic loss and the humiliating political aftermath in order to rebuild the army into one of the first-rate armies of Europe. In contrast to the German penchant for detailed operational plans of battle, French military officers began to espouse a doctrine of flexible offensives.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_WARMACHINE_SCENARIO_FRANCE_CHAPTER_HISTORY_PARA_2">
+			<Text>The army, it was thought, would retain its momentum through constant attack of the enemy lines, and ruthlessly exploiting any weakness that followed. The enemy would never be able to catch their balance, initiative would stay on the part of the French, and the grinding advances of the German enemies would be checked by lightning counter-thrusts. This would apply from the battalion level up to the theater level – where the invader was weak, there the French would attack.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_WARMACHINE_SCENARIO_FRANCE_CHAPTER_HISTORY_PARA_3">
+			<Text>It is one of the great paradoxes of August 1914 that even as the French staggered along the front in the Low Countries, they were meeting with advances through Alsace and Lorraine, but these had to be checked to provide reinforcements to save Paris. By the end of that year, the spirit of “always attack” had faded, and the trenches defined the Western Front.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_WARMACHINE_SCENARIO_GERMANY_CHAPTER_HISTORY_PARA_1">
+			<Text>The successes of the Prussian Army in 1870 during the Franco-Prussian War vindicated the methodical, comprehensive planning of the army, down to timetables of marching troops and railcars on tracks. Seeing a future war with France as probably inevitable, Count von Schlieffen, chief of the German General Staff, drew up plans for a future invasion of France, passing through the Low Countries and descending on Paris to the south. This invasion plan demanded a concentration of forces on the far western flank of the German army for success – but the full plan was never executed in its entirety.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_WARMACHINE_SCENARIO_GERMANY_CHAPTER_HISTORY_PARA_2">
+			<Text>With war on two fronts, the German high command transferred some of the forces intended for the heavy west flank to an entirely different battlefront (in this case, against the Russians). As the German army successfully smashed through the Low Countries, it set the French Army back on its heels as well, and a salient forming in the French lines presented the German General Staff with a tempting target. But various factors, including the reduction in forces in the Schlieffen plan, improvisational movements of German troops in response to the French, and the stiff resistance of the French and British meant that the knockout blow never achieved its goals.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_WARMACHINE_SCENARIO_GERMANY_CHAPTER_HISTORY_PARA_3">
+			<Text>The Germans had gambled and lost, and the war settled into four years of hell along the lines where the Schlieffen plan died.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_WARMACHINE_SCENARIO_BRITAIN_CHAPTER_HISTORY_PARA_1">
+			<Text>The British Expeditionary Force was a small army rushed into the field with the express purpose of drawing the British more closely into the entente with the French. Positioned on the far west of the French line, they were initially seen more as a political courtesy than a substantial military force. However, as the Germans descended through the Low Countries towards Paris, the BEF fought a numerically superior German force in the Battle of Mons, and despite being mauled and eventually forced to retreat, they saved the French Fifth Army from annihilation. The Battle of Mons is one of Great Britain’s most celebrated and honored military achievements, and synonymous with the BEF.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_WARMACHINE_SCENARIO_BELGIUM_CHAPTER_HISTORY_PARA_1">
+			<Text>The nation of Belgium had been created at the end of the Napoleonic Era as part of the balance of European powers but had long been a special ally of Great Britain. The invasion plan of France called for the German Army to invade through Belgium. Indeed, early versions of the plan posited the Belgian Army would provide an honor guard along the roads for the passing German Army—a highly incorrect assumption, as it turned out. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_WARMACHINE_SCENARIO_BELGIUM_CHAPTER_HISTORY_PARA_2">
+			<Text>The city of Liege was surrounded by a series of forts and represented the first significant military obstacle to the German Army in 1914. The forts, although they fought well in many cases, were unable to hold out against special siege guns constructed specifically for the purposes of breaking these forts. The collapse of the Liege fortifications and the cruelty of the German army against the population of Belgium turned the tide of popular opinion against Germany, especially in Great Britain.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_WARMACHINE_SCENARIO_LUXEMBOURG_CHAPTER_HISTORY_PARA_1">
+			<Text>The tiny principality of Luxembourg lies between France and Germany, and moreover is the center of a major rail junction between the countries. Capture of these railyards was critical for the German plan to invade France, and consequently the invasion of Luxembourg was one of the first actions of the war in 1914. </Text>
+		</Row>
+		<!--Civs-->
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_WARMACHINE_SCENARIO_FRANCE_CHAPTER_HISTORY_PARA_1">
+			<Text>France had been preparing for war with Germany since the disaster of the Franco-Prussian War in 1870, when the Prussian army had mauled the French field army, captured the Emperor, and extracted humiliating concessions in the peace that had followed, including the cessation of the territories of Alsace and Lorraine in the east of France.  An entire generation of French politicians and officers had grown up in the shadow of this defeat, and were determined to seek vindication, if not outright vengeance for the loss. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_WARMACHINE_SCENARIO_FRANCE_CHAPTER_HISTORY_PARA_2">
+			<Text>France’s main military allies were Russia and Great Britain, and it was the Russian declaration of war against The Austro-Hungarian Empire that precipitated France’s entry into the war on behalf of the allies. France, however, was focused primarily on their own fight against Germany than that against Austro-Hungary. To that end, the primary French effort at the outbreak of the war was an attack into Alsace and Lorraine to recapture that territory quickly, leaving the northern border with Belgium and Luxembourg only lightly defended. The French war plans critically underestimated the number of German forces who would be attacking along that axis (it presumed the Germans would come through the Ardennes), forcing the armies to abruptly shift plans at the very outbreak of the war.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_WARMACHINE_SCENARIO_GERMANY_CHAPTER_HISTORY_PARA_1">
+			<Text>A generation before the outbreak of World War I, the Prussian army had handed France its greatest military defeat since the end of the Napoleonic Era, and in the aftermath had formed the modern nation of Germany. German politicians were clear-eyed about how the terms extracted from the French were contributing the seeds to the next potential conflict—and then went about preparing for the next war. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_WARMACHINE_SCENARIO_GERMANY_CHAPTER_HISTORY_PARA_2">
+			<Text>The signing of the Triple Entente—the military alliance of France, Great Britain, and Russia—put Germany in a precarious military position, as it was now surrounded by military adversaries to the east and west. The grand strategy formulated prior to World War I was to deliver a single, massive knockout blow to France in the west before Russia would have a chance to bring its enormous manpower advantage to bear in the east. This became the driving political goal of the Schlieffen Plan.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_WARMACHINE_SCENARIO_GERMANY_CHAPTER_HISTORY_PARA_3">
+			<Text>On the eve of World War I, there were few armies in the world that were as well-trained and as prepared as the German military forces. And yet preparation and training were not enough to bring about the quick end the planners had envisioned.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_WARMACHINE_SCENARIO_BRITAIN_CHAPTER_HISTORY_PARA_1">
+			<Text>Great Britain’s participation in the Triple Entente (the military alliance between France, Great Britain, and Russia) was by no means a foregone conclusion. Longstanding military competition between France and Great Britain dating back to the time of Napoleon, as well as ties between the royal families of Great Britain and Germany made British participation in the Central Powers a plausible outcome. Ultimately Great Britain joined the Entente due to a quick rise in competition between Germany and Great Britain that saw many people seek checks on rising German power. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_WARMACHINE_SCENARIO_BRITAIN_CHAPTER_HISTORY_PARA_2">
+			<Text>On the eve of World War I, there was no guarantee that Great Britain would send military forces into continental Europe. It was largely through the constant pressure of a small group of officers in both the French and British armies that saw Great Britain commit a small force to French soil. Indeed, the Kaiser himself was shocked that the British declared war on Germany, declaring that they had made a “foolish mistake” over a “mere scrap of paper.”</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_WARMACHINE_SCENARIO_BELGIUM_CHAPTER_HISTORY_PARA_1">
+			<Text>The nation of Belgium had been created at the end of the Napoleonic Era as part of the balance of European powers but had long been a special ally of Great Britain. The invasion plan of France called for the German Army to invade through Belgium. Indeed, early versions of the plan posited the Belgian Army would provide an honor guard along the roads for the passing German Army—a highly incorrect assumption, as it turned out.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_WARMACHINE_SCENARIO_BELGIUM_CHAPTER_HISTORY_PARA_2">
+			<Text>The city of Liege was surrounded by a series of forts and represented the first significant military obstacle to the German Army in 1914. The forts, although they fought well in many cases, were unable to hold out against special siege guns constructed specifically for the purposes of breaking these forts. The collapse of the Liege fortifications and the cruelty of the German army against the population of Belgium turned the tide of popular opinion against Germany, especially in Great Britain.</Text>
+		</Row>
+		<!--Units-->
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_GREAT_GENERAL_CHAPTER_HISTORY_PARA_1">
+			<Text>A field commander is an officer responsible for a huge portion of his nation’s military, usually along an entire front. He must understand both the operational plan of his army and be willing to adapt these as changes warrant in the course of the war. Although he works through subordinate commanders and is advised by the general staff, the success or failure of the army rests on his judgement. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_GENERAL_1_CHAPTER_HISTORY_PARA_1">
+			<Text>A field commander is an officer responsible for a huge portion of his nation’s military, usually along an entire front. He must understand both the operational plan of his army and be willing to adapt these as changes warrant in the course of the war. Although he works through subordinate commanders and is advised by the general staff, the success or failure of the army rests on his judgement.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_GENERAL_2_CHAPTER_HISTORY_PARA_1">
+			<Text>A field commander is an officer responsible for a huge portion of his nation’s military, usually along an entire front. He must understand both the operational plan of his army and be willing to adapt these as changes warrant in the course of the war. Although he works through subordinate commanders and is advised by the general staff, the success or failure of the army rests on his judgement.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_GENERAL_3_CHAPTER_HISTORY_PARA_1">
+			<Text>A field commander is an officer responsible for a huge portion of his nation’s military, usually along an entire front. He must understand both the operational plan of his army and be willing to adapt these as changes warrant in the course of the war. Although he works through subordinate commanders and is advised by the general staff, the success or failure of the army rests on his judgement.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_GENERAL_4_CHAPTER_HISTORY_PARA_1">
+			<Text>A field commander is an officer responsible for a huge portion of his nation’s military, usually along an entire front. He must understand both the operational plan of his army and be willing to adapt these as changes warrant in the course of the war. Although he works through subordinate commanders and is advised by the general staff, the success or failure of the army rests on his judgement.</Text>
+		</Row>
+		<!--Buildings-->
+		<Row Tag="LOC_PEDIA_BUILDINGS_PAGE_BUILDING_HEADQUARTERS_CHAPTER_HISTORY_PARA_1">
+			<Text>The headquarters is the place where the operational plans of the army are put into orders for the field. Connected to subordinate commanders along the battle line through messengers and telegraph, these are often temporary affairs, as the shifting battle lines require high command to stay close to the action.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

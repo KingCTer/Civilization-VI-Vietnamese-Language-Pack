@@ -1,0 +1,970 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<GameData>
+	<EnglishText>
+		<Row Tag="LOC_BANDNAME_BASE_TEMPLATE">
+			<Text>{1_Prefix} {2_Suffix}</Text>
+		</Row>
+		<!-- Prefix -->
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_AIR">
+			<Text>Air</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_ALIEN">
+			<Text>Alien</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_ANCIENT">
+			<Text>Ancient</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_ANGRY">
+			<Text>Angry</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_ANIMAL">
+			<Text>Animal</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_APPEALING">
+			<Text>Appealing</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_ARCTIC">
+			<Text>Arctic</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_ASYLUM">
+			<Text>Asylum</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_ATOMIC">
+			<Text>Atomic</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_AUDIO">
+			<Text>Audio</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_BAD">
+			<Text>Bad</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_BIG">
+			<Text>Big</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_BLACK">
+			<Text>Black</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_BLIND">
+			<Text>Blind</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_BLONDE">
+			<Text>Blonde</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_BLUE">
+			<Text>Blue</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_BROKEN">
+			<Text>Broken</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_BROWN">
+			<Text>Brown</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_BUFFALO">
+			<Text>Buffalo</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_CHEAP">
+			<Text>Cheap</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_CLASSICAL">
+			<Text>Classical</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_COLD">
+			<Text>Cold</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_COLLECTIVE">
+			<Text>Collective</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_COOL">
+			<Text>Cool</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_DARK">
+			<Text>Dark</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_DAY">
+			<Text>Day</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_DEEP">
+			<Text>Deep</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_DIRE">
+			<Text>Dire</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_ELECTRIC">
+			<Text>Electric </Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_ENLIGHTENED">
+			<Text>Enlightened</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_EPIC">
+			<Text>Epic</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_EXTREME">
+			<Text>Extreme</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_FAKE">
+			<Text>Fake</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_FLAMING">
+			<Text>Flaming</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_FLYING">
+			<Text>Flying</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_FOREST">
+			<Text>Forest</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_FREE">
+			<Text>Free</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_FRIENDLY">
+			<Text>Friendly</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_FRIGHTENED">
+			<Text>Frightened</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_FURRY">
+			<Text>Furry </Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_FURY">
+			<Text>Fury</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_GIANT">
+			<Text>Giant</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_GOLD">
+			<Text>Gold</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_GRATEFUL">
+			<Text>Grateful</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_GREEN">
+			<Text>Green</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_HILARIOUS">
+			<Text>Hilarious</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_HOLY">
+			<Text>Holy</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_HOT">
+			<Text>Hot </Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_HUMAN">
+			<Text>Human</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_HUNGRY">
+			<Text>Hungry</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_INDIGO">
+			<Text>Indigo</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_INDUSTRIAL">
+			<Text>Industrial</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_IRON">
+			<Text>Iron</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_JOYOUS">
+			<Text>Joyous</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_KIND">
+			<Text>Kind</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_LIGHT">
+			<Text>Light</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_LITTLE">
+			<Text>Little</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_LONELY">
+			<Text>Lonely</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_LOST">
+			<Text>Lost </Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_LOUD">
+			<Text>Loud</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_LOW">
+			<Text>Low</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_LOYAL">
+			<Text>Loyal</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_MAGIC">
+			<Text>Magic</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_MAJOR">
+			<Text>Major</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_MAXIMUM">
+			<Text>Maximum</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_MEDIEVAL">
+			<Text>Medieval</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_MEGA">
+			<Text>Mega</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_MENACING">
+			<Text>Menacing</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_MIDDLE">
+			<Text>Middle</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_MIDNIGHT">
+			<Text>Midnight</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_MIND">
+			<Text>Mind</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_MINI">
+			<Text>Mini</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_MINOR">
+			<Text>Minor</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_MODERN">
+			<Text>Modern</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_MODEST">
+			<Text>Modest</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_MOUNTAIN">
+			<Text>Mountain</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_MUTE">
+			<Text>Mute</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_MYSTERY">
+			<Text>Mystery</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_NATURAL">
+			<Text>Natural</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_NEW">
+			<Text>New</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_NIGHT">
+			<Text>Night</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_NUCLEAR">
+			<Text>Nuclear</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_OLD">
+			<Text>Old</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_ORANGE">
+			<Text>Orange</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_OVERPOWERED">
+			<Text>Overpowered</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_PALE">
+			<Text>Pale</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_PEOPLE">
+			<Text>People</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_PERFECT">
+			<Text>Perfect</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_PERFUME">
+			<Text>Perfume</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_PETIT">
+			<Text>Petit</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_PINK">
+			<Text>Pink</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_POLITICAL">
+			<Text>Political</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_PSYCHEDELIC">
+			<Text>Psychedelic</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_PURPLE">
+			<Text>Purple</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_QUIET">
+			<Text>Quiet</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_RADICAL">
+			<Text>Radical</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_RAINBOW">
+			<Text>Rainbow</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_RANDOM">
+			<Text>Random</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_REAL">
+			<Text>Real</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_RED">
+			<Text>Red</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_RELIGIOUS">
+			<Text>Religious</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_RENAISSANCE">
+			<Text>Renaissance</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_RIVAL">
+			<Text>Rival</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_SICK">
+			<Text>Sick</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_SILENT">
+			<Text>Silent </Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_SILVER">
+			<Text>Silver</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_SMASHING">
+			<Text>Smashing</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_SOCIAL">
+			<Text>Social</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_SPACE">
+			<Text>Space</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_SPEEDY">
+			<Text>Speedy</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_STOLEN">
+			<Text>Stolen</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_SUPER">
+			<Text>Super </Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_TALKING">
+			<Text>Talking</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_TAME">
+			<Text>Tame</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_TOXIC">
+			<Text>Toxic</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_TRADITIONAL">
+			<Text>Traditional</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_UNIQUE">
+			<Text>Unique</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_UNDERGROUND">
+			<Text>Underground</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_UNKNOWN">
+			<Text>Unknown</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_VEGAN">
+			<Text>Vegan</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_WAR">
+			<Text>War</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_WATER">
+			<Text>Water</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_WHITE">
+			<Text>White</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_WILD">
+			<Text>Wild</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_XERIC">
+			<Text>Xeric</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_YELLOW">
+			<Text>Yellow</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_YOUNG">
+			<Text>Young</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_PREFIX_ZEALOUS">
+			<Text>Zealous</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_GDR_PREFIX_TITANIUM">
+			<Text>Titanium</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_GDR_PREFIX_DEATH">
+			<Text>Death</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_GDR_PREFIX_HELL">
+			<Text>Hell</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_GDR_PREFIX_DIABOLICAL">
+			<Text>Diabolical</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_GDR_PREFIX_LAND">
+			<Text>Land</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_GDR_PREFIX_GARGANTUAN">
+			<Text>Gargantuan</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_GDR_PREFIX_MAMMOTH">
+			<Text>Mammoth</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_GDR_PREFIX_MONSTROUS">
+			<Text>Monstrous</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_GDR_PREFIX_ARMORED">
+			<Text>Armored</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_GDR_PREFIX_CYBERNETIC">
+			<Text>Cybernetic</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_GDR_PREFIX_TERRIBLE">
+			<Text>Terrible</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_GDR_PREFIX_ABOMINABLE">
+			<Text>Abominable</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_GDR_PREFIX_INFERNAL">
+			<Text>Infernal</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_GDR_PREFIX_DREAD">
+			<Text>Dread</Text>
+		</Row>
+		<!-- Suffix-->
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_ANIMALS">
+			<Text>Animals</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_ANT">
+			<Text>Ant</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_ATLAS">
+			<Text>Atlas</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_AUTHORS">
+			<Text>Authors</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_BAND">
+			<Text>Band</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_BARBARIANS">
+			<Text>Barbarians</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_BEACH">
+			<Text>Beach</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_BEARS">
+			<Text>Bears</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_BEATS">
+			<Text>Beats</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_BELLS">
+			<Text>Bells</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_BOOKS">
+			<Text>Books</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_BREAKFAST">
+			<Text>Breakfast</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_BUCKET">
+			<Text>Bucket</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_BUFFALO">
+			<Text>Buffalo</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_BUGS">
+			<Text>Bugs</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_BUILDERS">
+			<Text>Builders</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_CANAL">
+			<Text>Canal</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_CARD">
+			<Text>Card</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_CARROTS">
+			<Text>Carrots</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_CARS">
+			<Text>Cars</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_CASTLES">
+			<Text>Castles</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_CATS">
+			<Text>Cats</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_CAVE">
+			<Text>Cave</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_CELL">
+			<Text>Cell</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_CHAIR">
+			<Text>Chair</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_CHINCHILLA">
+			<Text>Chinchilla</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_CITIES">
+			<Text>Cities</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_CIVICS">
+			<Text>Civics</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_CIVILIZATION">
+			<Text>Civilization</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_CLUB">
+			<Text>Club</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_COAST">
+			<Text>Coast</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_COFFEE">
+			<Text>Coffee</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_CONTINENTS">
+			<Text>Continents</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_COOKIES">
+			<Text>Cookies</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_COUNTRY">
+			<Text>Country</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_CREW">
+			<Text>Crew</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_CROWS">
+			<Text>Crows</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_CULTURE">
+			<Text>Culture</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_DATES">
+			<Text>Dates</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_DEATH">
+			<Text>Death</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_DEITY">
+			<Text>Deity</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_DIAMONDS">
+			<Text>Diamonds</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_DISTRICTS">
+			<Text>Districts</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_DOGS">
+			<Text>Dogs</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_DRAGONS">
+			<Text>Dragons</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_EAGLE">
+			<Text>Eagle</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_ECHIDNA">
+			<Text>Echidna</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_EEL">
+			<Text>Eel</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_ELEPHANT">
+			<Text>Elephant</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_EMERGENCIES">
+			<Text>Emergencies</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_EMPEROR">
+			<Text>Emperor</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_EMPIRE">
+			<Text>Empire</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_EMPRESS">
+			<Text>Empress</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_EMU">
+			<Text>Emu</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_ENEMY">
+			<Text>Enemy</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_ENVOYS">
+			<Text>Envoys</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_EVENT">
+			<Text>Event</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_EXPLOSIONS">
+			<Text>Explosions</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_EYES">
+			<Text>Eyes</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_FAITH">
+			<Text>Faith</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_FARMS">
+			<Text>Farms</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_FIGHTERS">
+			<Text>Fighters</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_FIRE">
+			<Text>Fire</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_FOOD">
+			<Text>Food</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_GENIUS">
+			<Text>Genius</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_GHOST">
+			<Text>Ghost</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_GIANTS">
+			<Text>Giants</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_GOATS">
+			<Text>Goats</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_GOLD">
+			<Text>Gold</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_GOSSIP">
+			<Text>Gossip</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_GOVERNORS">
+			<Text>Governors</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_GUITARS">
+			<Text>Guitars</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_HATS">
+			<Text>Hats</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_HEART">
+			<Text>Heart</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_HIGH">
+			<Text>High</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_HIPPOS">
+			<Text>Hippos</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_HISTORY">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_HORSES">
+			<Text>Horses</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_HOUSE">
+			<Text>House</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_HUNTED">
+			<Text>Hunted</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_IMPROVEMENT">
+			<Text>Improvement</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_ISLANDS">
+			<Text>Islands</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_JACKET">
+			<Text>Jacket</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_JETS">
+			<Text>Jets</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_KALE">
+			<Text>Kale</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_KING">
+			<Text>King</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_KITTEN">
+			<Text>Kitten</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_LASER">
+			<Text>Laser</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_LEAGUE">
+			<Text>League</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_LETTERS">
+			<Text>Letters</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_LIZARD">
+			<Text>Lizard</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_LOW">
+			<Text>Low</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_LOYALISTS">
+			<Text>Loyalists</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_MACHINE">
+			<Text>Machine</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_MANIACS">
+			<Text>Maniacs</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_MAP">
+			<Text>Map</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_METAL">
+			<Text>Metal</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_MINDS">
+			<Text>Minds</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_MINES">
+			<Text>Mines</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_NATION">
+			<Text>Nation</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_NOISE">
+			<Text>Noise</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_OBSERVATIONS">
+			<Text>Observations</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_ORCHESTRA">
+			<Text>Orchestra</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_ORDER">
+			<Text>Order</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_PANTHEON">
+			<Text>Pantheon</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_PARTY">
+			<Text>Party</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_PEACOCK">
+			<Text>Peacock</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_PENGUIN">
+			<Text>Penguin</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_PEOPLE">
+			<Text>People</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_PEPPERS">
+			<Text>Peppers</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_POETS">
+			<Text>Poets</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_POND">
+			<Text>Pond</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_POWER">
+			<Text>Power</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_PRINCE">
+			<Text>Prince</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_PRINCESS">
+			<Text>Princess</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_PRODUCTION">
+			<Text>Production</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_PROPHETS">
+			<Text>Prophets</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_PUNK">
+			<Text>Punk</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_PUPPIES">
+			<Text>Puppies</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_QUEEN">
+			<Text>Queen</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_QUESTIONS">
+			<Text>Questions</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_RABBIT">
+			<Text>Rabbit</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_RANGER">
+			<Text>Ranger</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_REJECTS">
+			<Text>Rejects</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_REVOLUTION">
+			<Text>Revolution</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_RHINO">
+			<Text>Rhino</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_RIOT">
+			<Text>Riot</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_RIVERS">
+			<Text>Rivers</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_ROBOTS">
+			<Text>Robots</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_SABOTAGE">
+			<Text>Sabotage</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_SCIENCE">
+			<Text>Science</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_SETTLERS">
+			<Text>Settlers</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_SLANG">
+			<Text>Slang</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_SLOTH">
+			<Text>Sloth</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_SNAKE">
+			<Text>Snake</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_SOUL">
+			<Text>Soul</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_SPADES">
+			<Text>Spades</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_SPIDERS">
+			<Text>Spiders</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_SPIES">
+			<Text>Spies</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_SQUIRRELS">
+			<Text>Squirrels</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_STAR">
+			<Text>Star</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_STONES">
+			<Text>Stones</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_STOPLIGHT">
+			<Text>Stoplight</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_SURPRISE">
+			<Text>Surprise</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_SUSHI">
+			<Text>Sushi</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_SUZERAINS">
+			<Text>Suzerains</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_TECHNOLOGIES">
+			<Text>Technologies</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_TILES">
+			<Text>Tigers</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_TIGERS">
+			<Text>Tiles</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_TOMATOES">
+			<Text>Tomatoes</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_TRADERS">
+			<Text>Traders</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_TRICK">
+			<Text>Trick</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_TURNS">
+			<Text>Turns</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_TURTLE">
+			<Text>Turtle</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_VULTURES">
+			<Text>Vultures</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_WALLS">
+			<Text>Walls</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_WOLF">
+			<Text>Wolf</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_WOMBATS">
+			<Text>Wombats</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_WONDERS">
+			<Text>Wonders</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_XYLOPHONES">
+			<Text>Xylophones</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_YAKS">
+			<Text>Yaks</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_ROCK_BAND_SUFFIX_ZOMBIES">
+			<Text>Zombies</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_GDR_SUFFIX_MACHINE">
+			<Text>Machine</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_GDR_SUFFIX_MECH">
+			<Text>Mech</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_GDR_SUFFIX_GOLEM">
+			<Text>Golem</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_GDR_SUFFIX_BEHEMOTH">
+			<Text>Behemoth</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_GDR_SUFFIX_COLOSSUS">
+			<Text>Colossus</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_GDR_SUFFIX_HULK">
+			<Text>Hulk</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_GDR_SUFFIX_BEAST">
+			<Text>Beast</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_GDR_SUFFIX_OGRE">
+			<Text>Ogre</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_GDR_SUFFIX_MONSTROSITY">
+			<Text>Monstrosity</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_GDR_SUFFIX_ROBOT">
+			<Text>Robot</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_GDR_SUFFIX_AUTOMATON">
+			<Text>Automaton</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_GDR_SUFFIX_CYCLOPS">
+			<Text>Cyclops</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_GDR_SUFFIX_GIANT">
+			<Text>Giant</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_GDR_SUFFIX_TITAN">
+			<Text>Titan</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_GDR_SUFFIX_WALKER">
+			<Text>Walker</Text>
+		</Row>
+		<Row Tag="LOC_UNITNAME_GDR_SUFFIX_DEVASTATOR">
+			<Text>Devastator</Text>
+		</Row>
+	</EnglishText>
+</GameData>

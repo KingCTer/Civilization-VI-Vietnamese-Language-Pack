@@ -1,0 +1,824 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<EnglishText>
+		<!--Brazil-->
+		<Row Tag="LOC_CITY_NAME_VITORIA">
+			<Text>Vitória</Text>
+		</Row>
+		<!--Canada-->
+		<Row Tag="LOC_CITY_NAME_OTTAWA">
+			<Text>Ottawa</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MONTREAL">
+			<Text>Montréal</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_QUEBEC_CITY">
+			<Text>Quebec City</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HAMILTON">
+			<Text>Hamilton</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_WINNIPEG">
+			<Text>Winnipeg</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HALIFAX">
+			<Text>Halifax</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SAINT_JOHN">
+			<Text>Saint John</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_VANCOUVER">
+			<Text>Vancouver</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_VICTORIA">
+			<Text>Victoria</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KINGSTON">
+			<Text>Kingston</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BRANTFORD">
+			<Text>Brantford</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_WINDSOR">
+			<Text>Windsor</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CHARLOTTETOWN">
+			<Text>Charlottetown</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CALGARY">
+			<Text>Calgary</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SHERBROOKE">
+			<Text>Sherbrooke</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GUELPH">
+			<Text>Guelph</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_PETERBOROUGH">
+			<Text>Peterborough</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_VALLEYFIELD">
+			<Text>Valleyfield</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_EDMONTON">
+			<Text>Edmonton</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TROIS_RIVIERES">
+			<Text>Trois-Rivières</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_STRATFORD">
+			<Text>Stratford</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SAINT_CATHERINES">
+			<Text>Saint Catharines</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_WATERLOO">
+			<Text>Waterloo</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SAINT_HYACINTHE">
+			<Text>Saint Hyacinthe</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SAINT_JOHNS">
+			<Text>Saint John’s</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DAWSON_CITY">
+			<Text>Dawson City</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BELLEVILLE">
+			<Text>Belleville</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CHATHAM">
+			<Text>Chatham</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SASKATOON">
+			<Text>Saskatoon</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MONCTON">
+			<Text>Moncton</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MISSISSAUGA">
+			<Text>Mississauga</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BROCKVILLE">
+			<Text>Brockville</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_REGINA">
+			<Text>Regina</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_RED_DEER">
+			<Text>Red Deer</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BRANDON">
+			<Text>Brandon</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SAULT_SAINTE_MARIE">
+			<Text>Sault Sainte Marie</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_LETHBRIDGE">
+			<Text>Lethbridge</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SAINT_LIN">
+			<Text>Saint-Lin</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_WHITEHORSE">
+			<Text>Whitehorse</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_THUNDER_BAY">
+			<Text>Thunder Bay</Text>
+		</Row>
+		<!-- Hungary-->
+		<Row Tag="LOC_CITY_NAME_BUDA">
+			<Text>Buda</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DEBRECEN">
+			<Text>Debrecen</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ESZTERGOM">
+			<Text>Esztergom</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_PECS">
+			<Text>Pécs</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SZEGED">
+			<Text>Szeged</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_PEST">
+			<Text>Pest</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_EGER">
+			<Text>Eger</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MISKOLC">
+			<Text>Miskolc</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GYOR">
+			<Text>Győr</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SZEKESFEHERVAR">
+			<Text>Székesfehérvár</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_OBUDA">
+			<Text>Óbuda</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KOSZEG">
+			<Text>Kőszeg</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TATABANYA">
+			<Text>Tatabánya</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KOLOZSVAR">
+			<Text>Kolozsvár</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DIOSGYOR">
+			<Text>Diósgyőr</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MOHACS">
+			<Text>Mohács</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TATA">
+			<Text>Tata</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SZOLNOK">
+			<Text>Szolnok</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KASSA">
+			<Text>Kassa</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KECSKEMET">
+			<Text>Kecskemét</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SZOMBATHELY">
+			<Text>Szombathely</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SIMONTORNYA">
+			<Text>Simontornya</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_NYIREGYHAZA">
+			<Text>Nyíregyháza</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SARVAR">
+			<Text>Sárvár</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SOPRON">
+			<Text>Sopron</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CSESZNEK">
+			<Text>Csesznek</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ZAGRAB">
+			<Text>Zágráb</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TEMESVAR">
+			<Text>Temesvár</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_NAGYVAZSONY">
+			<Text>Nagyvázsony</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HODMEZOVASARHELY">
+			<Text>Hódmezővásárhely</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SUMEG">
+			<Text>Sümeg</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BAJA">
+			<Text>Baja</Text>
+		</Row>
+		<!--Inca-->
+		<Row Tag="LOC_CITY_NAME_QUSQU">
+			<Text>Qusqu</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ANTAWAYLLA">
+			<Text>Antawaylla</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_WANUKU">
+			<Text>Wanuku</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_WILLKA_WAMAN">
+			<Text>Willka Waman</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MACHU">
+			<Text>Machu</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_OLLANTAYTAMBO">
+			<Text>Ollantaytambo</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SAUSA">
+			<Text>Sausa</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KASHAMARKA">
+			<Text>Kashamarka</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CHUCUITO">
+			<Text>Chucuito</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KITU_KARA">
+			<Text>Kitu Kara</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_AYACUCHU">
+			<Text>Ayacuchu</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CHAN_CHAN">
+			<Text>Chan Chan</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_PISAC">
+			<Text>Pisac</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HUANCABAMBA">
+			<Text>Huancabamba</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_AYAVIRI">
+			<Text>Ayaviri</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ROSASPATA">
+			<Text>Rosaspata</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_PARIA">
+			<Text>Paria</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CHUQUIABO">
+			<Text>Chuquiabo</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_PACHAKAMAQ">
+			<Text>Pachakamaq</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TUMBEZ">
+			<Text>Tumbez</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TUMIPAMPA">
+			<Text>Tumipampa</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_INGAPIRCA">
+			<Text>Ingapirca</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_INKA_WASI">
+			<Text>Inka Wasi</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ICA">
+			<Text>Ica</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_PARAMONGA">
+			<Text>Paramonga</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_PUKATAMPU">
+			<Text>Pukatampu</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CHIQUITOY">
+			<Text>Chiquitoy</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_PUKARA_CHENA">
+			<Text>Pukara Chena</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_RANCHILLOS">
+			<Text>Ranchillos</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_PUMPU">
+			<Text>Pumpu</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_PUKARA_ACONQUIJA">
+			<Text>Pukara Aconquija</Text>
+		</Row>
+		<!--Mali-->
+		<Row Tag="LOC_CITY_NAME_NIANI">
+			<Text>Niani</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TIMBUKTU">
+			<Text>Timbuktu</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JENNE">
+			<Text>Jenne</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GAO">
+			<Text>Gao</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KUMBI_SALEH">
+			<Text>Kumbi Saleh</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_WALATA">
+			<Text>Walata</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TAWDENNI">
+			<Text>Tawdenni</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TADMEKKA">
+			<Text>Tadmekka</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_AWDAGHUST">
+			<Text>Awdaghust</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KIRINA">
+			<Text>Kirina</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SEGU">
+			<Text>Segu</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_NIORO">
+			<Text>Nioro</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KANGABA">
+			<Text>Kangaba</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KOUROUSSA">
+			<Text>Kouroussa</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_NIAGASSOLA">
+			<Text>Niagassola</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DIARA">
+			<Text>Diara</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KAYES">
+			<Text>Kayes</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_NTERET">
+			<Text>N'teret</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DIA">
+			<Text>Dia</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ARAWAN">
+			<Text>Arawan</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KIRI">
+			<Text>Kiri</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MOPTI">
+			<Text>Mopti</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_NARENA">
+			<Text>Narena</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DAKADIALA">
+			<Text>Dakadiala</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KUKYA">
+			<Text>Kukya</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SIBY">
+			<Text>Siby</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FADAMA">
+			<Text>Fadama</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TABON">
+			<Text>Tabon</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SIGUIRI">
+			<Text>Siguiri</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KANIANA">
+			<Text>Kaniana</Text>
+		</Row>
+		<!--Maori-->
+		<Row Tag="LOC_CITY_NAME_TE_HOKIANGA_NU_A_KUPE">
+			<Text>Te Hokianga-nui-a-Kupe</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_NGARUAWAHIA">
+			<Text>Ngaruawahia</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_OPANGO">
+			<Text>Opango</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_WHAKAREWAREWA">
+			<Text>Whakarewarewa</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KAIAPOI">
+			<Text>Kaiapoi</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_WHANGANUI">
+			<Text>Whanganui</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KAWHIA">
+			<Text>Kawhia</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TAUMUTU">
+			<Text>Taumutu</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KAPITI">
+			<Text>Kapiti</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TE_POKOHIWI">
+			<Text>Te Pokohiwi</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_OTATARA_PA">
+			<Text>Otatara pā</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MOTUPOHUE">
+			<Text>Motupōhue</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_RUATORIA">
+			<Text>Ruatōria</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MAUNGAKIEKIE_PA">
+			<Text>Maungakiekie pā</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TAUPIRI">
+			<Text>Taupiri</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_WHAINGAROA">
+			<Text>Whaingaroa</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_PUKEMAIRE">
+			<Text>Pukemaire</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_PARI_RU">
+			<Text>Pari-ru</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_OPOTIKI">
+			<Text>Opotiki</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TAUMATAWHANA_PA">
+			<Text>Taumatawhana pā</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_WHANGANUI_A_TARA">
+			<Text>Whanganui-a-Tara</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_WAIMAPIHI_PA">
+			<Text>Waimapihi pā</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KORORIPO_PA">
+			<Text>Kororipo pā</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MOTAKIORA">
+			<Text>Motakiora</Text>
+		</Row>
+		<!--Ottoman-->
+		<Row Tag="LOC_CITY_NAME_ISTANBUL">
+			<Text>Istanbul</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BURSA">
+			<Text>Bursa</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_EDIRNE">
+			<Text>Edirne</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ANKARA">
+			<Text>Ankara</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HALEP">
+			<Text>Halep</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KONYA">
+			<Text>Konya</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ADANA">
+			<Text>Adana</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TRABZON">
+			<Text>Trabzon</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SIVAS">
+			<Text>Sivas</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_IZMIR">
+			<Text>İzmir</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ERZURUM">
+			<Text>Erzurum</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KAYSERI">
+			<Text>Kayseri</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_AYDIN">
+			<Text>Aydın</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TRABLUSGARP">
+			<Text>Trablusgarp</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_URFA">
+			<Text>Urfa</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_AMASYA">
+			<Text>Amasya</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CEZAYIR">
+			<Text>Cezayir</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MONASTIR">
+			<Text>Munastır</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SINOP">
+			<Text>Sinop</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ISKENDERUN">
+			<Text>İskenderun</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DIYARBEKIR">
+			<Text>Diyarbekir</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MARAS">
+			<Text>Maraş</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_AKSARAY">
+			<Text>Aksaray</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GELIBOLU">
+			<Text>Gelibolu</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_AINTAB">
+			<Text>Ayıntap</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_IZMIT">
+			<Text>İzmit</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BOSNA_SARAY">
+			<Text>Bosna-Saray</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MOCHA">
+			<Text>Mocha</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_VAN">
+			<Text>Van</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SAMSUN">
+			<Text>Samsun</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ESKISEHIR">
+			<Text>Eskişehir</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SOGUT">
+			<Text>Söğüt</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TIRGOVISTE">
+			<Text>Tirgovişte</Text>
+		</Row>
+		<!--Phoenecia-->
+		<Row Tag="LOC_CITY_NAME_TYRE">
+			<Text>Tyre</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BYBLOS">
+			<Text>Byblos</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SIDON">
+			<Text>Sidon</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BIRUTA">
+			<Text>Biruta</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_UGARIT">
+			<Text>Ugarit</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KTY">
+			<Text>Kty</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_AYNOOK">
+			<Text>Aynook</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_LPQY">
+			<Text>Lpqy</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ZIZ">
+			<Text>Ziz</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_UTICA">
+			<Text>Utica</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SBRT_N">
+			<Text>Sbrt'n</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MTW">
+			<Text>Mtw</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_LIXUS">
+			<Text>Lixus</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_NORA">
+			<Text>Nora</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_AMRIT">
+			<Text>Amrit</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_OEA">
+			<Text>Oea</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GADIR">
+			<Text>Gadir</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_THAPSUS">
+			<Text>Thapsus</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MALAKA">
+			<Text>Malaka</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KERKOUANE">
+			<Text>Kerkouane</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ADRYMES">
+			<Text>Adrymes</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SEXI">
+			<Text>Sexi</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HIPPONENSIS_SINUS">
+			<Text>Hipponensis Sinus</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_IBOSSIM">
+			<Text>Ibossim</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ONOBA">
+			<Text>Onoba</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_IOL">
+			<Text>Iol</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_RUSUCURRU">
+			<Text>Rusucurru</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MAGO">
+			<Text>Mago</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SALA">
+			<Text>Sala</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TAS_SILG">
+			<Text>Tas-Silġ</Text>
+		</Row>
+		<!--Rome-->
+		<Row Tag="LOC_CITY_NAME_POMPEII">
+			<Text>Pompeii</Text>
+		</Row>
+		<!--Sweden-->
+		<Row Tag="LOC_CITY_NAME_GOTEBORG">
+			<Text>Göteborg</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_UPPSALA">
+			<Text>Uppsala</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_LINKOPING">
+			<Text>Linköping</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_OREBRO">
+			<Text>Örebro</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_VASTERAS">
+			<Text>Västerås</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JONKOPING">
+			<Text>Jönköping</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_NORRKOPING">
+			<Text>Norrköping</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HELSINGBORG">
+			<Text>Helsingborg</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KARLSTAD">
+			<Text>Karlstad</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_LUND">
+			<Text>Lund</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MALMO">
+			<Text>Malmö</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_UMEA">
+			<Text>Umeå</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ABO">
+			<Text>Åbo</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HALMSTAD">
+			<Text>Halmstad</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_STRANGNAS">
+			<Text>Strängnäs</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KALMAR">
+			<Text>Kalmar</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FALUN">
+			<Text>Falun</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_NYKOPING">
+			<Text>Nyköping</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KARLSKRONA">
+			<Text>Karlskrona</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BORAS">
+			<Text>Borås</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FORT_KRISTINA">
+			<Text>Fort Kristina</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_REVAL">
+			<Text>Reval</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_VASA">
+			<Text>Vasa</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_OSTERSUND">
+			<Text>Östersund</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TORSHALLA">
+			<Text>Torshälla</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KUNGALV">
+			<Text>Kungälv</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_VAXJO">
+			<Text>Växjö</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_RIGA">
+			<Text>Riga</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SUNDSVALL">
+			<Text>Sundsvall</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_VASTERVIK">
+			<Text>Västervik</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GAVLE">
+			<Text>Gävle</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_VIBORG">
+			<Text>Viborg</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HUDIKSVALL">
+			<Text>Hudiksvall</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_VISBY">
+			<Text>Visby</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FORT_CAROLUSBORG">
+			<Text>Fort Carolusborg</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_AMAL">
+			<Text>Åmål</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TORNEA">
+			<Text>Torneå</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KINDA">
+			<Text>Kinda</Text>
+		</Row>
+		<!--City-States-->
+		<Row Tag="LOC_CITY_NAME_AKKAD">
+			<Text>Akkad</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BOLOGNA">
+			<Text>Bologna</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CAHOKIA">
+			<Text>Cahokia</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CARDIFF">
+			<Text>Cardiff</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FEZ">
+			<Text>Fez</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MEXICO_CITY">
+			<Text>Mexico City</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_NAZCA">
+			<Text>Nazca</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_NGAZARGAMU">
+			<Text>Ngazargamu</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_RAPA_NUI">
+			<Text>Rapa Nui</Text>
+		</Row>
+	</EnglishText>
+</GameData>

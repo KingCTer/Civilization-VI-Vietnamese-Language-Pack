@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<Row Tag="LOC_ERAS_TURNS_TILL_NEXT_ERA">
+			<Text>TURNS UNTIL NEXT ERA:</Text>
+		</Row>
+		<Row Tag="LOC_ERAS_CURRENT_SCORE">
+			<Text>CURRENT SCORE:</Text>
+		</Row>
+		<Row Tag="LOC_ERAS_CURRENT_AGE">
+			<Text>CURRENT AGE:</Text>
+		</Row>
+		<Row Tag="LOC_ERAS_HEROIC">
+			<Text>HEROIC</Text>
+		</Row>
+		<Row Tag="LOC_ERAS_GOLDEN">
+			<Text>GOLDEN</Text>
+		</Row>
+		<Row Tag="LOC_ERAS_NORMAL">
+			<Text>NORMAL</Text>
+		</Row>
+		<Row Tag="LOC_ERAS_DARK">
+			<Text>DARK</Text>
+		</Row>
+		<Row Tag="LOC_ERAS_CURRENT_AGE_BY_CIV">
+			<Text>CURRENT AGE BY CIVILIZATION:</Text>
+		</Row>
+		<Row Tag="LOC_ERAS_TO_EARN_AGE_NEXT_ERA">
+			<Text>TO EARN A NEW AGE NEXT ERA:</Text>
+		</Row>
+		<Row Tag="LOC_ERAS_ERA_REQUIREMENTS_REDUCED">
+			<Text>Era Score requirements have been reduced</Text>
+		</Row>
+		<Row Tag="LOC_ERAS_ERA_REQUIREMENTS_INCREASED">
+			<Text>Era Score requirements have been increased</Text>
+		</Row>
+		<Row Tag="LOC_ERA_PROGRESS_TITLE">
+			<Text>Era Progress</Text>
+		</Row>
+		<Row Tag="LOC_ERA_PROGRESS_NEW_ERA_THRESHOLD">
+			<Text>THRESHOLDS FOR NEXT ERA</Text>
+		</Row>
+		<Row Tag="LOC_ERA_PROGRESS_ERA_TYPE_EFFECTS">
+			<Text>{1_EraName} Effects</Text>
+		</Row>
+		<Row Tag="LOC_ERA_PROGRESS_THE_ERA">
+			<Text>THE {1_EraName : upper}</Text>
+		</Row>
+		<Row Tag="LOC_ERA_PROGRESS_TIME_TO_NEXT_ERA">
+			<Text>Time to Next Era:</Text>
+		</Row>
+		<Row Tag="LOC_ERA_PROGRESS_TIME_TO_NEXT_ERA_VALUE">
+			<Text>{1_MinTurns} - {2_MaxTurns} Turns</Text>
+		</Row>
+		<Row Tag="LOC_ERA_PROGRESS_SPECIFIC_TURNS_TO_NEXT_ERA">
+			<Text>{1_Turns} {1_Turns : plural 1?Turn; other?Turns;}</Text>
+		</Row>
+		<Row Tag="LOC_ERA_CHANGE_TITLE">
+			<Text>THE WORLD ENTERS THE:</Text>
+		</Row>
+		<Row Tag="LOC_ERA_PROGRESS_HEROIC_AGE">
+			<Text>Heroic Age</Text>
+		</Row>
+		<Row Tag="LOC_ERA_PROGRESS_GOLDEN_AGE">
+			<Text>Golden Age</Text>
+		</Row>
+		<Row Tag="LOC_ERA_PROGRESS_DARK_AGE">
+			<Text>Dark Age</Text>
+		</Row>
+		<Row Tag="LOC_ERA_PROGRESS_NORMAL_AGE">
+			<Text>Normal Age</Text>
+		</Row>
+		<Row Tag="LOC_ERA_PROGRESS_ACTIVE_BONUSES">
+			<Text>Active Bonuses:</Text>
+		</Row>
+		<Row Tag="LOC_ERA_PROGRESS_ERA_SCORE">
+			<Text>Era Score:</Text>
+		</Row>
+		<Row Tag="LOC_PARTIALSCREEN_ERA_PROGRESS_TOOLTIP">
+			<Text>Era Progress[NEWLINE][NEWLINE]View current Era Score and Dedications.</Text>
+		</Row>
+		<Row Tag="LOC_ERA_PROGRESS_GOLDEN_THRESHOLD">
+			<Text>Threshold for Golden Age:</Text>
+		</Row>
+		<Row Tag="LOC_ERA_PROGRESS_DARK_THRESHOLD">
+			<Text>Threshold for Dark Age:</Text>
+		</Row>
+		<Row Tag="LOC_ERA_COMMEMORATION_POPUP_TITLE">
+			<Text>Era Complete: {1_EraName}</Text>
+		</Row>
+		<Row Tag="LOC_ERA_COMMEMORATION_POPUP_DESCRIPTION">
+			<Text>You have accomplished much, great leader! Which of your triumphs shall our scribes commit to history?</Text>
+		</Row>
+		<Row Tag="LOC_ERA_COMMEMORATION_POPUP_DEDICATION">
+			<Text>Dedication</Text>
+		</Row>
+		<Row Tag="LOC_ERA_COMMEMORATION_POPUP_DEDICATION_SUBHEADER">
+			<Text>Make your Dedication for the {1_EraName}</Text>
+		</Row>
+		<Row Tag="LOC_ERA_COMMEMORATION_POPUP_CONFIRM">
+			<Text>Confirm {1_NumSelected}/{2_NeededSelected}</Text>
+		</Row>
+		<Row Tag="LOC_ERA_REVIEW_POPUP_TITLE">
+			<Text>THE WORLD HAS ENTERED[NEWLINE]THE {1_EraName}</Text>
+		</Row>
+		<Row Tag="LOC_ERA_REVIEW_HAVE_HEROIC_AGE">
+			<Text>You are in a Heroic Age!</Text>
+		</Row>
+		<Row Tag="LOC_ERA_REVIEW_HAVE_GOLDEN_AGE">
+			<Text>You are in a Golden Age!</Text>
+		</Row>
+		<Row Tag="LOC_ERA_REVIEW_HAVE_DARK_AGE">
+			<Text>You are in a Dark Age!</Text>
+		</Row>
+		<Row Tag="LOC_ERA_REVIEW_HAVE_NORMAL_AGE">
+			<Text>You are in a Normal Age.</Text>
+		</Row>
+    <Row Tag="LOC_ERA_REVIEW_HAVE_HEROIC_AGE_LABEL">
+      <Text>[ICON_GLORY_SUPER_GOLDEN_AGE] HEROIC AGE</Text>
+    </Row>
+		<Row Tag="LOC_ERA_REVIEW_HAVE_GOLDEN_AGE_LABEL">
+			<Text>[ICON_GLORY_GOLDEN_AGE] GOLDEN AGE</Text>
+		</Row>
+		<Row Tag="LOC_ERA_REVIEW_HAVE_DARK_AGE_LABEL">
+			<Text>[ICON_GLORY_DARK_AGE] DARK AGE</Text>
+		</Row>
+		<Row Tag="LOC_ERA_REVIEW_HAVE_NORMAL_AGE_LABEL">
+			<Text>[ICON_GLORY_NORMAL_AGE] NORMAL AGE</Text>
+		</Row>
+		<Row Tag="LOC_ERA_REVIEW_HAVE_HEROIC_AGE_EFFECT">
+			<Text>{LOC_ERA_TT_HAVE_HEROIC_AGE_EFFECT}[NEWLINE][NEWLINE][ICON_BULLET]You may make 3 Dedications, each of which will provide a powerful gameplay bonus during the Age.</Text>
+		</Row>
+		<Row Tag="LOC_ERA_REVIEW_HAVE_GOLDEN_AGE_EFFECT">
+			<Text>{LOC_ERA_TT_HAVE_GOLDEN_AGE_EFFECT}[NEWLINE][NEWLINE][ICON_BULLET]You may make a Dedication, which will provide a powerful gameplay bonus during the Age.</Text>
+		</Row>
+		<Row Tag="LOC_ERA_REVIEW_HAVE_DARK_AGE_EFFECT">
+			<Text>{LOC_ERA_TT_HAVE_DARK_AGE_EFFECT}[NEWLINE][NEWLINE][ICON_BULLET]You may make a Dedication, which will provide an additional source of Era Score during the Age.</Text>
+		</Row>
+		<Row Tag="LOC_ERA_REVIEW_HAVE_NORMAL_AGE_EFFECT">
+			<Text>{LOC_ERA_TT_HAVE_NORMAL_AGE_EFFECT}[NEWLINE][NEWLINE][ICON_BULLET]You may make a Dedication, which will provide an additional source of Era Score during the Age.</Text>
+		</Row>
+		<Row Tag="LOC_ERA_TT_HAVE_HEROIC_AGE_EFFECT">
+			<Text>You are in a [ICON_GLORY_SUPER_GOLDEN_AGE] Heroic Age during this game era![NEWLINE][NEWLINE][ICON_BULLET]Each of your [ICON_Citizen] Citizens exerts 1.5 Loyalty pressure in their city. This pressure also affects other cities within 9 tiles, but is 10% less effective per tile. It will be easier to maintain Loyalty in your cities, and challenge the Loyalty of nearby foreign cities.</Text>
+		</Row>
+		<Row Tag="LOC_ERA_TT_HAVE_GOLDEN_AGE_EFFECT">
+			<Text>You are in a [ICON_GLORY_GOLDEN_AGE] Golden Age during this game era![NEWLINE][NEWLINE][ICON_BULLET]Each of your [ICON_Citizen] Citizens exerts 1.5 Loyalty pressure in their city. This pressure also affects other cities within 9 tiles, but is 10% less effective per tile. It will be easier to maintain Loyalty in your cities, and challenge the Loyalty of nearby foreign cities.</Text>
+		</Row>
+		<Row Tag="LOC_ERA_TT_HAVE_DARK_AGE_EFFECT">
+			<Text>You are in a [ICON_GLORY_DARK_AGE] Dark Age during this game era.[NEWLINE][NEWLINE][ICON_BULLET]Each of your [ICON_Citizen] Citizens exerts 0.5 Loyalty pressure in their city. This pressure also affects other cities within 9 tiles, but is 10% less effective per tile. It will be harder to maintain Loyalty in your cities, and more difficult to affect the Loyalty of nearby foreign cities.[NEWLINE][NEWLINE][ICON_BULLET]You may adopt powerful Dark Policies in your Government, but which may carry a heavy price.[NEWLINE][NEWLINE][ICON_BULLET]If you are not in the last Era, and earn enough Era Score for a Golden Age in the next game era, you will instead earn a Heroic Age, able to make multiple Dedications for multiple powerful bonuses.</Text>
+		</Row>
+		<Row Tag="LOC_ERA_TT_HAVE_NORMAL_AGE_EFFECT">
+			<Text>You are in a [ICON_GLORY_NORMAL_AGE] Normal Age during this game era.[NEWLINE][NEWLINE][ICON_BULLET]Each of your [ICON_Citizen] Citizens exerts the normal amount of 1 Loyalty pressure in their city. This pressure also affects other cities within 9 tiles, but is 10% less effective per tile.</Text>
+		</Row>
+		<Row Tag="LOC_ERA_REVIEW_POPUP_ERA_SCORE_PRIDE_MOMENTS">
+			<Text>Historic Moments (+1 to +6 each)</Text>
+		</Row>
+		<Row Tag="LOC_ERA_REVIEW_NEW_ERA_THRESHOLDS">
+			<Text>NEW ERA THRESHOLDS</Text>
+		</Row>
+		<Row Tag="LOC_GLORY_HUD_ERA_ENDS_IN">
+			<Text>Turns Until Era Ends: {1_Turns}</Text>
+		</Row>
+		<Row Tag="LOC_ERA_REVIEW_AGE_EFFECTS">
+			<Text>AGE EFFECTS</Text>
+		</Row>
+		<Row Tag="LOC_ERA_REVIEW_POPUP_ERA_SCORE_TECH_BOOSTS">
+			<Text>Dedication Bonus: Eurekas triggered (+{1_ScoreIncrement} each)</Text>
+		</Row>
+		<Row Tag="LOC_ERA_REVIEW_POPUP_ERA_SCORE_CIVIC_BOOSTS">
+			<Text>Dedication Bonus: Inspirations triggered (+{1_ScoreIncrement} each)</Text>
+		</Row>
+		<Row Tag="LOC_ERA_REVIEW_POPUP_ERA_SCORE_CITY_RELIGION_CONVERSIONS">
+			<Text>Dedication Bonus: Cities converted to your religion (+{1_ScoreIncrement} per conversion)</Text>
+		</Row>
+		<Row Tag="LOC_ERA_REVIEW_POPUP_ERA_SCORE_DISTRICT_CONSTRUCTIONS">
+			<Text>Dedication Bonus: Districts constructed (+{1_ScoreIncrement} each)</Text>
+		</Row>
+		<Row Tag="LOC_ERA_REVIEW_POPUP_ERA_SCORE_CORPS_KILLS">
+			<Text>Dedication Bonus: Corps killed (+{1_ScoreIncrement} each)</Text>
+		</Row>
+		<Row Tag="LOC_ERA_REVIEW_POPUP_ERA_SCORE_ARMY_KILLS">
+			<Text>Dedication Bonus: Armies killed (+{1_ScoreIncrement} each)</Text>
+		</Row>
+		<Row Tag="LOC_ERA_REVIEW_POPUP_ERA_SCORE_TRADE_ROUTE_COMPLETIONS">
+			<Text>Dedication Bonus: Trade Routes completed (+{1_ScoreIncrement} each)</Text>
+		</Row>
+		<Row Tag="LOC_ERA_REVIEW_POPUP_ERA_SCORE_MAP_DISCOVERIES">
+			<Text>Dedication Bonus: New landmarks discovered (+{1_ContinentScoreIncrement} for Continents, +{2_NaturalWonderScoreIncrement} for Natural Wonders)</Text>
+		</Row>
+		<Row Tag="LOC_ERA_REVIEW_POPUP_ERA_SCORE_NON_BARBARIAN_UNIT_SEA_KILLS">
+			<Text>Dedication Bonus: Non-Barbarian naval Units killed (+{1_ScoreIncrement} each)</Text>
+		</Row>
+		<Row Tag="LOC_ERA_REVIEW_POPUP_ERA_SCORE_SCIENCE_BUILDING_CONSTRUCTIONS">
+			<Text>Dedication Bonus: Buildings constructed that provides Science as a base yield. (+{1_ScoreIncrement} each)</Text>
+		</Row>
+		<Row Tag="LOC_ERA_REVIEW_POPUP_ERA_SCORE_CULTURE_BUILDING_CONSTRUCTIONS">
+			<Text>Dedication Bonus: Buildings with a Great Work slot constructed (+{1_ScoreIncrement} each)</Text>
+		</Row>
+		<Row Tag="LOC_ERA_REVIEW_POPUP_ERA_SCORE_AERODROME_BUILDING_CONSTRUCTIONS">
+			<Text>Dedication Bonus: Buildings constructed from the Aerodrome district (+{1_ScoreIncrement} each)</Text>
+		</Row>
+		<Row Tag="LOC_ERA_REVIEW_POPUP_ERA_SCORE_INDUSTRIAL_BUILDING_CONSTRUCTIONS">
+			<Text>Dedication Bonus: Industrial or later building constructed (+{1_ScoreIncrement} each)</Text>
+		</Row>
+		<Row Tag="LOC_ERA_REVIEW_POPUP_ERA_SCORE_SPY_MISSIONS">
+			<Text>Dedication Bonus: Each successful offensive Spy operation (+{1_ScoreIncrement} each)</Text>
+		</Row>
+		<Row Tag="LOC_ERA_REVIEW_POPUP_ERA_SCORE_ARTIFACT_EXTRACTIONS">
+			<Text>Dedication Bonus: Each extracted artifact (+{1_ScoreIncrement} each)</Text>
+		</Row>
+		<Row Tag="LOC_ERA_REVIEW_POPUP_ERA_SCORE_GREAT_PEOPLE_EARNED">
+			<Text>Dedication Bonus: Each Great Person earned (+{1_ScoreIncrement} each)</Text>
+		</Row>
+		<Row Tag="LOC_ERA_REVIEW_POPUP_ERA_SCORE_UNKNOWN_SOURCE">
+			<Text>Other Sources</Text>
+		</Row>
+		<Row Tag="LOC_ERA_REVIEW_POPUP_THRESHOLD_BASELINE">
+			<Text>Score when Era began</Text>
+		</Row>
+		<Row Tag="LOC_ERA_REVIEW_POPUP_THRESHOLD_SHIFT_BASE_GOLDEN_AGE">
+			<Text>Base Golden Age threshold</Text>
+		</Row>
+		<Row Tag="LOC_ERA_REVIEW_POPUP_THRESHOLD_SHIFT_BASE_DARK_AGE">
+			<Text>Base Dark Age threshold</Text>
+		</Row>
+		<Row Tag="LOC_ERA_REVIEW_POPUP_THRESHOLD_SHIFT_CITIES">
+			<Text>Cities when Era began ({1_ScoreIncrement} per city)</Text>
+		</Row>
+		<Row Tag="LOC_ERA_REVIEW_POPUP_THRESHOLD_SHIFT_UNHAPPY_CITIES">
+			<Text>Unhappy Cities ({1_ScoreIncrement} per missing [ICON_Amenities] Amenity)</Text>
+		</Row>
+		<Row Tag="LOC_ERA_REVIEW_POPUP_THRESHOLD_SHIFT_GOVERNMENT">
+			<Text>Government (INACTIVE)</Text>
+		</Row>
+		<Row Tag="LOC_ERA_REVIEW_POPUP_THRESHOLD_SHIFT_INCOMPLETE_TECH">
+			<Text>Incomplete Technologies from this Era (INACTIVE)</Text>
+		</Row>
+		<Row Tag="LOC_ERA_REVIEW_POPUP_THRESHOLD_SHIFT_INCOMPLETE_CIVIC">
+			<Text>Incomplete Civics from this Era (INACTIVE)</Text>
+		</Row>
+		<Row Tag="LOC_ERA_REVIEW_POPUP_THRESHOLD_SHIFT_INCOMPLETE_OLD_TECH">
+			<Text>Incomplete Technologies from older Eras (INACTIVE)</Text>
+		</Row>
+		<Row Tag="LOC_ERA_REVIEW_POPUP_THRESHOLD_SHIFT_INCOMPLETE_OLD_CIVIC">
+			<Text>Incomplete Civics from older Eras (INACTIVE)</Text>
+		</Row>
+		<Row Tag="LOC_ERA_REVIEW_POPUP_THRESHOLD_SHIFT_INCOMPLETE_PAST_GOLDEN_AGES">
+			<Text>Golden Ages ever earned ({1_ScoreIncrement} per Age)</Text>
+		</Row>
+		<Row Tag="LOC_ERA_REVIEW_POPUP_THRESHOLD_SHIFT_INCOMPLETE_PAST_DARK_AGES">
+			<Text>Dark Ages ever earned ({1_ScoreIncrement} per Age)</Text>
+		</Row>
+		<Row Tag="LOC_ERA_REVIEW_POPUP_THRESHOLD_SHIFT_INCOMPLETE_ANARCHY">
+			<Text>Government Anarchy this Era ({1_ScoreIncrement} per Anarchy)</Text>
+		</Row>
+		<Row Tag="LOC_ERA_REVIEW_POPUP_THRESHOLD_SHIFT_UNKNOWN_SOURCE">
+			<Text>Other Sources</Text>
+		</Row>
+		<Row Tag="LOC_ERA_SCORE_HEADER">
+			<Text>Your Era Score:</Text>
+		</Row>
+		<Row Tag="LOC_ERA_SCORE_SOURCE">
+			<Text>{1_EraScoreNumber} from {2_EraScoreSourceType}</Text>
+		</Row>
+		<Row Tag="LOC_GOLDEN_AGE_THRESHOLD_TEXT">
+			<Text>[NEWLINE]Threshold to earn a [ICON_GLORY_GOLDEN_AGE] Golden Age next era: {1_thresh} or above</Text>
+		</Row>
+		<Row Tag="LOC_DARK_AGE_THRESHOLD_TEXT">
+			<Text>[NEWLINE]Threshold to avoid a [ICON_GLORY_DARK_AGE] Dark Age next era: {1_thresh} or above</Text>
+		</Row>
+		<Row Tag="LOC_ERA_STABILITY_HEADER">
+			<Text>Your Stability Score:</Text>
+		</Row>
+		<Row Tag="LOC_ERA_SCORE_LEADERBOARD_TITLE">
+			<Text>Era Score</Text>
+		</Row>
+		<Row Tag="LOC_ERA_STABILITY_LEADERBOARD_TITLE">
+			<Text>Stability Score</Text>
+		</Row>
+		<!-- Golden/Dark Ages -->
+		<Row Tag="LOC_NEW_TURN_PANEL_NEXT_ERA_COUNTDOWN">
+			<Text>{2_EraName} ends in {1_TurnsRemaining} {1_TurnsRemaining : plural 1?Turn; other?Turns;}</Text>
+		</Row>
+		<Row Tag="LOC_GAME_ERA_POPUP_ENTERED_NEW_ERA">
+			<Text>The world enters the {1_EraName}.</Text>
+		</Row>
+		<Row Tag="LOC_GAME_ERA_POPUP_YOU_ENTERED_GOLDEN_AGE">
+			<Text>Your civilization prospered last era, leading them into a Golden Age for this era!</Text>
+		</Row>
+		<Row Tag="LOC_GAME_ERA_POPUP_YOU_ENTERED_DARK_AGE">
+			<Text>Your civilization faltered last era, bringing about a Dark Age for this era.</Text>
+		</Row>
+		<Row Tag="LOC_GAME_ERA_POPUP_GOLDEN_AGE_DESCRIPTION">
+			<Text>Golden Ages are earned by triggering Historic Moments, and provide powerful bonuses.[NEWLINE]These players have earned a Golden Age for this era:</Text>
+		</Row>
+		<Row Tag="LOC_GAME_ERA_POPUP_DARK_AGE_DESCRIPTION">
+			<Text>Dark Ages are possible beginning in the Medieval era and pose challenges to large or underdeveloped civilizations. -1 [ICON_Amenities] Amenity and -50% Growth in all cities. If a player gets a Dark Age again in the next era, half of their cities will fall into ruin and become barbarian camps.[NEWLINE]These players have entered a Dark Age for this era:</Text>
+		</Row>
+		<Row Tag="LOC_GAME_ERA_POPUP_NO_MET_PLAYERS">
+			<Text>(No players you have met)</Text>
+		</Row>
+		<Row Tag="LOC_DEDICATION_POPUP_HEROIC_AGE_ACHIEVED">
+			<Text>Because you earned a Heroic Age, you may make three Dedications.</Text>
+		</Row>
+		<Row Tag="LOC_DEDICATION_POPUP_GOLDEN_AGE_ACHIEVED">
+			<Text>Because you earned a Golden Age, you may make one Dedication.</Text>
+		</Row>
+		<Row Tag="LOC_DEDICATION_POPUP_DARK_AGE_ACHIEVED">
+			<Text>Because you earned a Dark Age, you may make one Dedication.</Text>
+		</Row>
+		<Row Tag="LOC_DEDICATION_POPUP_NORMAL_AGE_ACHIEVED">
+			<Text>Because you earned a Normal Age, you may make one Dedication.</Text>
+		</Row>
+		<Row Tag="LOC_ERAS_PREVIOUS_ERA_TOTAL_SCORE">
+			<Text>Total score from previous eras</Text>
+		</Row>
+		<Row Tag="LOC_ERAS_EFFECTS_ACTIVE_THIS_AGE">
+			<Text>EFFECTS ACTIVE THIS AGE:</Text>
+		</Row>
+		<Row Tag="LOC_ERAS_YOU_WILL_EARN_BLANK_AGE_NEXT_ERA">
+			<Text>You will earn a {1_AgeName} next Era</Text>
+		</Row>
+	</EnglishText>
+</GameData>

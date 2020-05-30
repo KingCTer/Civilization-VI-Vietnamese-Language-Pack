@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Mod id="5B0445C9-1376-45AD-9B51-C96A83A8F17D" version="1">
+	<Properties>
+		<Name>LOC_WARMACHINE_MOD_TITLE</Name>
+		<Teaser>LOC_WARMACHINE_SCENARIO_TOOLTIP</Teaser>
+		<Description>LOC_WARMACHINE_SCENARIO_DESCRIPTION</Description>
+		<Authors>LOC_MOD_AUTHORS_FIRAXIS</Authors>
+		<CompatibleVersions>2.0</CompatibleVersions>
+		<EnabledByDefault>1</EnabledByDefault>
+		<SupportsSinglePlayer>0</SupportsSinglePlayer>
+	</Properties>
+	<Dependencies>
+		<Mod id="4873eb62-8ccc-4574-b784-dda455e74e68" title="LOC_EXPANSION2_MOD_TITLE"/>
+	</Dependencies>
+	<ActionCriteria>
+		<Criteria id="WarMachineScenario">
+			<RuleSetInUse>RULESET_SCENARIO_WARMACHINE</RuleSetInUse>
+		</Criteria>
+	</ActionCriteria>
+	<InGameActions>
+		<UpdateArt id="WarMachineScenarioArt" criteria="WarMachineScenario">
+			<File>WarMachineScenario.dep</File>
+		</UpdateArt>
+		<UpdateColors id="WarMachineScenarioColors" criteria="WarMachineScenario">
+			<File>Data/WarMachineScenario_PlayerColors.xml</File>
+		</UpdateColors>
+		<UpdateIcons id="WarMachineScenarioIcons" criteria="WarMachineScenario">
+			<File>Data/WarMachineScenario_AllIcons.xml</File>
+		</UpdateIcons>
+		<UpdateDatabase id="WarMachineScenarioGameplay" criteria="WarMachineScenario">
+			<Properties>
+				<LoadOrder>100</LoadOrder>
+			</Properties>
+			<File Priority="1">Data/WarMachineScenario_RemoveData.xml</File>
+			<File>Data/WarMachineScenario_GameplayData.xml</File>
+			<File>Data/WarMachineScenario_LoadingInfo.xml</File>
+		</UpdateDatabase>
+		<AddGameplayScripts id="WarMachineScenarioScripts" criteria="WarMachineScenario">
+			<File>Scripts/WarMachineScenario.lua</File>
+		</AddGameplayScripts>
+		<UpdateText id="WarMachineScenarioSettingsText" criteria="WarMachineScenario">
+			<File Priority="1">Text/en_US/WarMachineScenario_ConfigText.xml</File>
+			<File Priority="1">Text/en_US/WarMachineScenario_GameplayText.xml</File>
+			<File>Text/WarMachineScenario_Translations_ConfigText.xml</File>
+			<File>Text/WarMachineScenario_Translations_ConfigText_China.xml</File>
+			<File>Text/WarMachineScenario_Translations_Text.xml</File>
+			<File>Text/WarMachineScenario_Translations_Text_China.xml</File>
+		</UpdateText>
+		<UpdateLogitechARX id="WarMachineScenarioARX" criteria="WarMachineScenario">
+			<File>Data/ARX/index.html</File>
+			<File>Data/ARX/Civ_LEADER_WARMACHINE_SCENARIO_BRITAIN.png</File>
+			<File>Data/ARX/Civ_LEADER_WARMACHINE_SCENARIO_FRANCE.png</File>
+			<File>Data/ARX/Civ_LEADER_WARMACHINE_SCENARIO_GERMANY.png</File>
+			<File>Data/ARX/Civ_LEADER_WARMACHINE_SCENARIO_BELGIUM.png</File>
+		</UpdateLogitechARX>
+		<ReplaceUIScript id="WarMachineScenarioActionPanel" criteria="WarMachineScenario">
+			<Properties>
+				<LuaContext>ActionPanel</LuaContext>
+				<LuaReplace>UI/Replacements/ActionPanel_WarMachineScenario.lua</LuaReplace>
+			</Properties>
+		</ReplaceUIScript>
+		<ReplaceUIScript id="WarMachineScenarioARXManager" criteria="WarMachineScenario">
+			<Properties>
+				<LuaContext>ARXManager</LuaContext>
+				<LuaReplace>UI/Replacements/ARXManager_WarMachineScenario.lua</LuaReplace>
+			</Properties>
+		</ReplaceUIScript>
+		<ReplaceUIScript id="WarMachineTopPanel" criteria="WarMachineScenario">
+			<Properties>
+				<LuaContext>TopPanel</LuaContext>
+				<LuaReplace>UI/Replacements/TopPanel_WarMachineScenario.lua</LuaReplace>
+			</Properties>
+		</ReplaceUIScript>
+		<ReplaceUIScript id="WarMachineWorldRankings" criteria="WarMachineScenario">
+			<Properties>
+				<LuaContext>WorldRankings</LuaContext>
+				<LuaReplace>UI/Replacements/WorldRankings_WarMachineScenario.lua</LuaReplace>
+			</Properties>
+		</ReplaceUIScript>
+		<ImportFiles id="WarMachineScenarioFiles" criteria="WarMachineScenario">
+			<File>UI/Additions/EndGameMenu_WarMachineScenario.lua</File>
+			<File>UI/Replacements/ActionPanel_WarMachineScenario.lua</File>
+			<File>UI/Replacements/ARXManager_WarMachineScenario.lua</File>
+			<File>UI/Replacements/TopPanel_WarMachineScenario.lua</File>
+			<File>UI/Replacements/WorldRankings_WarMachineScenario.lua</File>
+			<File>UI/Replacements/WorldRankings.xml</File>
+		</ImportFiles>
+	</InGameActions>
+	<FrontEndActions>
+		<UpdateArt id="WarMachineScenarioSettingsArt">
+			<File>WarMachineScenario.dep</File>
+		</UpdateArt>
+		<UpdateColors id="WarMachineScenarioSettingsColors">
+			<File>Data/WarMachineScenario_PlayerColors.xml</File>
+		</UpdateColors>
+		<UpdateIcons id="WarMachineScenarioSettingsIcons">
+			<File>Data/WarMachineScenario_AllIcons.xml</File>
+		</UpdateIcons>
+		<AddMap id="WarMachineScenarioSettingsMap">
+			<Properties>
+				<Name>LOC_MAPSIZE_WARMACHINE_SCENARIO_NAME</Name>
+				<Description>LOC_MAPSIZE_WARMACHINE_SCENARIO_DESCRIPTION</Description>
+				<Group>WarMachineScenario_Maps</Group>
+			</Properties>
+			<File>Maps/WarMachineMap.Civ6Map</File>
+		</AddMap>
+		<UpdateDatabase id="WarMachineScenarioSettings">
+			<File>Data/WarMachineScenario_Config.xml</File>
+		</UpdateDatabase>
+		<UpdateText id="WarMachineScenarioSettingsText">
+			<File Priority="1">Text/en_US/WarMachineScenario_ConfigText.xml</File>
+			<File>Text/WarMachineScenario_Translations_ConfigText.xml</File>
+			<File>Text/WarMachineScenario_Translations_ConfigText_China.xml</File>
+		</UpdateText>
+	</FrontEndActions>
+	<Files>
+		<File>WarMachineScenario.dep</File>
+		<File>Data/ARX/index.html</File>
+		<File>Data/ARX/Civ_LEADER_WARMACHINE_SCENARIO_BRITAIN.png</File>
+		<File>Data/ARX/Civ_LEADER_WARMACHINE_SCENARIO_FRANCE.png</File>
+		<File>Data/ARX/Civ_LEADER_WARMACHINE_SCENARIO_GERMANY.png</File>
+		<File>Data/ARX/Civ_LEADER_WARMACHINE_SCENARIO_BELGIUM.png</File>
+		<File>Data/WarMachineScenario_Config.xml</File>
+		<File>Data/WarMachineScenario_RemoveData.xml</File>
+		<File>Data/WarMachineScenario_GameplayData.xml</File>
+		<File>Data/WarMachineScenario_AllIcons.xml</File>
+		<File>Data/WarMachineScenario_PlayerColors.xml</File>
+		<File>Data/WarMachineScenario_LoadingInfo.xml</File>
+		<File>Scripts/WarMachineScenario.lua</File>
+		<File>Text/en_US/WarMachineScenario_ConfigText.xml</File>
+		<File>Text/en_US/WarMachineScenario_GameplayText.xml</File>
+		<File>Text/WarMachineScenario_Translations_ConfigText.xml</File>
+		<File>Text/WarMachineScenario_Translations_ConfigText_China.xml</File>
+		<File>Text/WarMachineScenario_Translations_Text.xml</File>
+		<File>Text/WarMachineScenario_Translations_Text_China.xml</File>
+		<File>Maps/WarMachineMap.Civ6Map</File>
+		<File>UI/Additions/EndGameMenu_WarMachineScenario.lua</File>
+		<File>UI/Replacements/ActionPanel_WarMachineScenario.lua</File>
+		<File>UI/Replacements/ARXManager_WarMachineScenario.lua</File>
+		<File>UI/Replacements/TopPanel_WarMachineScenario.lua</File>
+		<File>UI/Replacements/WorldRankings_WarMachineScenario.lua</File>
+		<File>UI/Replacements/WorldRankings.xml</File>
+	</Files>
+</Mod>

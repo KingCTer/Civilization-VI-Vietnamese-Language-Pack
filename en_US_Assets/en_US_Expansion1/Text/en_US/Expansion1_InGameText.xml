@@ -1,0 +1,1878 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<!-- Combat Modifiers -->
+		<Row Tag="LOC_GOVERNOR_DESCRIPTOR_PREVIEW_TEXT">
+			<Text>(Governor)</Text>
+		</Row>
+		<Row Tag="LOC_ALLIANCE_DESCRIPTOR_PREVIEW_TEXT">
+			<Text>(Alliance)</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_PREVIEW_DIPLOMATIC_BONUS">
+			<Text>+{1_Value} Recent Diplomatic Change</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_PREVIEW_ESPIONAGE_BONUS">
+			<Text>+{1_Value} Intel on opponent's movements</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_PREVIEW_CITY_COMBAT_BONUS">
+			<Text>+{1_Value} Garrison Commander</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_PREVIEW_ALLIANCE_MILITARY_BUFF">
+			<Text>+{1_Value} from Military Alliance</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_PREVIEW_EMERGENCY_MILITARY_BUFF">
+			<Text>[COLOR_RED]{1_Value: number +#;-#}[ENDCOLOR] from Emergency</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_PREVIEW_ALLIANCE_RELIGIOUS_COMBAT_BUFF">
+			<Text>+{1_Value} from Religious Alliance</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_PREVIEW_ANTI_AIR_DEFENSE_BONUS_DESC">
+			<Text>+{1_Value} bolstered Anti-Air defenses</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_PREVIEW_RELIGIOUS_CITY_BONUS">
+			<Text>+{1_Value} Grand Inquisitor governor promotion</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_PREVIEW_LESS_EFFECTIVE_VS_LAND_UNITS_DESC">
+			<Text>-{1_Value} Less effective vs land units</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_PREVIEW_LESS_EFFECTIVE_VS_NAVAL_UNITS_DESC">
+			<Text>-{1_Value} Less effective vs naval units</Text>
+		</Row>
+		<Row Tag="LOC_HUD_CITY_GROWTH_OCCUPIED">
+			<Text>Occupied</Text>
+		</Row>
+		<Row Tag="LOC_REPORTS_LOYALTY">
+			<Text>Loyalty</Text>
+		</Row>
+		<Row Tag="LOC_REPORTS_GOVERNOR">
+			<Text>Governor</Text>
+		</Row>
+		<Row Tag="LOC_POST_COMBAT_LOYALTY_PLUS">
+			<Text>[COLOR_LIGHTBLUE]+{1_Num} Loyalty[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_POST_COMBAT_LOYALTY_MINUS">
+			<Text>[COLOR_RED]{1_Num} Loyalty[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_HUD_CITY_AMENITIES_LOST_FROM_GOVERNORS">
+			<Text>Amenities from Governors:</Text>
+		</Row>
+		<Row Tag="LOC_HUD_CITY_OCCUPIED_LOYALITY_STATUS">
+			<Text>Occupied: {1_LoyalityStatus}</Text>
+		</Row>
+		<Row Tag="LOC_NO_GOVERNORS_TITLE_AVAILABLE">
+			<Text>No Governor Titles Available</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNORS_TITLE">
+			<Text>GOVERNORS</Text>
+		</Row>
+		<Row Tag="LOC_LOYALTY_PANEL_UNMET_CIV">
+			<Text>Unmet Civilization</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PEOPLE_PATRONAGE_FAITH_OFF">
+			<Text>[COLOR_RED]Spending [ICON_Faith] Faith on patronage is disabled by one of your current policies.[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PEOPLE_PATRONAGE_GOLD_OFF">
+			<Text>[COLOR_RED]Spending [ICON_Gold] Gold on patronage is disabled by one of your current policies.[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_UNITOPERATIONS_CANNOT_REPAIR_BLOCKED_BY_POLICY">
+			<Text>Cannot heal in this territory due to policy selection</Text>
+		</Row>
+		<!-- Alliance Text -->
+		<Row Tag="LOC_DIPLOACTION_INVALID_REASON_YOU_HAVE_THIS_ALLIANCE">
+			<Text>You already have an Alliance of this type with another civilization.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOACTION_INVALID_REASON_THEY_HAVE_THIS_ALLIANCE">
+			<Text>{1_OtherCiv} already has an Alliance of this type with another civilization.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_ALLIANCE_LEVEL_COLON_INPUT">
+			<Text>Alliance Level: {1_AllianceLevel}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_ALLIANCE_LEVEL_COLON">
+			<Text>Alliance Level:</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_ALLIANCE_LEVEL">
+			<Text>Alliance Level</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_ALLIANCE_POINTS_COLON">
+			<Text>Alliance Points:</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_ALLIANCE_POINTS_PER_TURN">
+			<Text>+{1_PointsPerTurn}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_ALLIANCE_POINTS_NEEDED">
+			<Text>/ {1_PointsNeeded}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_ALLIANCE_CURRENT">
+			<Text>Current alliance: {1_AllianceTypeName}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_ALLIANCE_LEVEL_BUTTON_TOOLTIP">
+			<Text>View important information about your Alliance Level with this leader, including what Alliance benefits you will have access to.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_ALLIANCE_SCIENCE_NAME_LEVEL">
+			<Text>Research Alliance level {1_AllianceLevel}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_ALLIANCE_CULTURAL_NAME_LEVEL">
+			<Text>Cultural Alliance level {1_AllianceLevel}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_ALLIANCE_ECONOMIC_NAME_LEVEL">
+			<Text>Economic Alliance level {1_AllianceLevel}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_ALLIANCE_MILITARY_NAME_LEVEL">
+			<Text>Military Alliance level {1_AllianceLevel}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_ALLIANCE_RELIGIOUS_NAME_LEVEL">
+			<Text>Religious Alliance level {1_AllianceLevel}</Text>
+		</Row>
+		<Row Tag="LOC_ALLIANCE_RESEARCH">
+			<Text>Research Alliance</Text>
+		</Row>
+		<Row Tag="LOC_ALLIANCE_CULTURAL">
+			<Text>Cultural Alliance</Text>
+		</Row>
+		<Row Tag="LOC_ALLIANCE_MILITARY">
+			<Text>Military Alliance</Text>
+		</Row>
+		<Row Tag="LOC_ALLIANCE_ECONOMIC">
+			<Text>Economic Alliance</Text>
+		</Row>
+		<Row Tag="LOC_ALLIANCE_RELIGIOUS">
+			<Text>Religious Alliance</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_CHOICE_ALLIANCE_RESEARCH">
+			<Text>Create a Research Alliance</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_CHOICE_ALLIANCE_CULTURAL">
+			<Text>Create a Cultural Alliance</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_CHOICE_ALLIANCE_MILITARY">
+			<Text>Create a Military Alliance</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_CHOICE_ALLIANCE_ECONOMIC">
+			<Text>Create an Economic Alliance</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_CHOICE_ALLIANCE_RELIGIOUS">
+			<Text>Create a Religious Alliance</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_CHOICE_RENEW_ALLIANCE">
+			<Text>Renew Alliance</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_ALLIANCES">
+			<Text>Alliances</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_ALLIANCES_TT">
+			<Text>Propose an Alliance with this power</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_RENEW_ALLIANCE_TT">
+			<Text>Propose to extend the duration of your current Alliance with this power</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_ALLIANCES_CURRENT_BENEFITS_HEADER">
+			<Text>Your current Alliance grants these benefits:</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_ALLIANCES_LEVEL_UP_BENEFITS_HEADER">
+			<Text>At the next Alliance Level, your Alliances will have these added benefits:</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_RANKINGS_CULTURE_TOURIST_TOOLTIP_ALLIANCES">
+			<Text>{1_Tooltip}[NEWLINE]Overall [ICON_Tourism] Tourism Increased by +{2_Percent} from Alliances</Text>
+		</Row>
+		<Row Tag="LOC_PLAYER_YIELD_SCIENCE_MODIFIER_FROM_ALLIANCES">
+			<Text>{Value : number +#;-#}% ({ActualValue : number +#.#;-#.#}) from Alliances</Text>
+		</Row>
+		<Row Tag="LOC_PLAYER_YIELD_CULTURE_FROM_ALLIANCES">
+			<Text>{Value : number +#.#;-#.#}% ({ActualValue : number +#.#;-#.#}) from Alliances</Text>
+		</Row>
+		<Row Tag="LOC_PLAYER_YIELD_FAITH_FROM_ALLIANCES">
+			<Text>{Value : number +#.#;-#.#} from Religious Alliances</Text>
+		</Row>
+		<Row Tag="LOC_ALLIANCE_SHARED_VIS_EFFECT">
+			<Text>Shared Visibility</Text>
+		</Row>
+		<Row Tag="LOC_ALLIANCE_NO_CULTURE_PRESSURE_EFFECT">
+			<Text>Your ally's cities do not exert Loyalty pressure on yours, and vice versa</Text>
+		</Row>
+		<Row Tag="LOC_ALLIANCE_NO_RELIGIOUS_PRESSURE_EFFECT">
+			<Text>Your ally's Religion does not exert Religious pressure on cities dominated by your Religion, and vice versa</Text>
+		</Row>
+		<Row Tag="LOC_ALLIANCE_LV1_MILITARY_EFFECT_1">
+			<Text>+5 [ICON_Strength] Combat Strength against units of players at war with you and your ally</Text>
+		</Row>
+		<Row Tag="LOC_ALLIANCE_LV1_ECONOMIC_EFFECT_1">
+			<Text>+4 [ICON_GOLD] Gold from [ICON_TradeRoute] Trade Routes to your ally</Text>
+		</Row>
+		<Row Tag="LOC_ALLIANCE_LV1_ECONOMIC_EFFECT_2">
+			<Text>+2 [ICON_GOLD] Gold from [ICON_TradeRoute] Trade Routes from your ally</Text>
+		</Row>
+		<Row Tag="LOC_ALLIANCE_LV1_RELIGIOUS_EFFECT_1">
+			<Text>+2 [ICON_FAITH] Faith from [ICON_TradeRoute] Trade Routes to your ally</Text>
+		</Row>
+		<Row Tag="LOC_ALLIANCE_LV1_RELIGIOUS_EFFECT_2">
+			<Text>+1 [ICON_FAITH] Faith from [ICON_TradeRoute] Trade Routes from your ally</Text>
+		</Row>
+		<Row Tag="LOC_ALLIANCE_LV1_CULTURAL_EFFECT_1">
+			<Text>+2 [ICON_Culture] Culture from [ICON_TradeRoute] Trade Routes to your ally</Text>
+		</Row>
+		<Row Tag="LOC_ALLIANCE_LV1_CULTURAL_EFFECT_2">
+			<Text>+1 [ICON_Culture] Culture from [ICON_TradeRoute] Trade Routes from your ally</Text>
+		</Row>
+		<Row Tag="LOC_ALLIANCE_LV1_RESEARCH_EFFECT_1">
+			<Text>+2 [ICON_SCIENCE] Science from [ICON_TradeRoute] Trade Routes to your ally</Text>
+		</Row>
+		<Row Tag="LOC_ALLIANCE_LV1_RESEARCH_EFFECT_2">
+			<Text>+1 [ICON_SCIENCE] Science from [ICON_TradeRoute] Trade Routes from your ally</Text>
+		</Row>
+		<Row Tag="LOC_ALLIANCE_LV2_ECONOMIC_EFFECT_1">
+			<Text>Bonus [ICON_Envoy] Envoy Point for every City State with your ally as Suzerain</Text>
+		</Row>
+		<Row Tag="LOC_ALLIANCE_LV2_MILITARY_EFFECT_1">
+			<Text>+15% [ICON_PRODUCTION] Production toward military units when you or your ally are at war</Text>
+		</Row>
+		<Row Tag="LOC_ALLIANCE_LV2_RELIGIOUS_EFFECT_1">
+			<Text>+10 Religious Combat Strength against non-ally Religions</Text>
+		</Row>
+		<Row Tag="LOC_ALLIANCE_LV2_RESEARCH_EFFECT_1">
+			<Text>Every 30 turns (on Standard), you unlock a [ICON_TechBoosted] Eureka for a tech that your ally has researched or boosted, but you have not</Text>
+		</Row>
+		<Row Tag="LOC_ALLIANCE_LV2_CULTURAL_EFFECT_1">
+			<Text>Each of your [ICON_District] Districts grant an additional [ICON_GreatPerson] Great Person Point per turn if you have a [ICON_TradeRoute] Trade Route from that city to your ally</Text>
+		</Row>
+		<Row Tag="LOC_ALLIANCE_LV3_MILITARY_EFFECT_1">
+			<Text>Units start with a free Promotion</Text>
+		</Row>
+		<Row Tag="LOC_ALLIANCE_LV3_RELIGIOUS_EFFECT_1">
+			<Text>+1 [ICON_FAITH] Faith for each of your [ICON_Citizen] Citizens following your ally's religion</Text>
+		</Row>
+		<Row Tag="LOC_ALLIANCE_LV3_RELIGIOUS_EFFECT_2">
+			<Text>Bonus Religious Pressure in cities with no followers of your ally's Religion</Text>
+		</Row>
+		<Row Tag="LOC_ALLIANCE_LV3_RESEARCH_EFFECT_1">
+			<Text>+10% [ICON_SCIENCE] Science when you or your ally are researching a tech that the other has completed, or are researching the same tech</Text>
+		</Row>
+		<Row Tag="LOC_ALLIANCE_LV3_CULTURAL_EFFECT_1">
+			<Text>You gain +20% of your ally's [ICON_Tourism] Tourism from Cities</Text>
+		</Row>
+		<Row Tag="LOC_ALLIANCE_LV3_CULTURAL_EFFECT_2">
+			<Text>You gain +10% of your ally's [ICON_Culture] Culture from Cities</Text>
+		</Row>
+		<Row Tag="LOC_ALLIANCE_LV3_ECONOMIC_EFFECT">
+			<Text>Share Suzerain unique bonuses with your ally</Text>
+		</Row>
+		<Row Tag="LOC_ALLIANCE_POINTS_FROM_DEFAULT">
+			<Text>{1_Amount} Points for being allies</Text>
+		</Row>
+		<Row Tag="LOC_ALLIANCE_POINTS_FROM_TRADE_ROUTES_TO_THEM">
+			<Text>[NEWLINE]{1_Amount} Points from having a [ICON_TradeRoute] Trade Route to your ally</Text>
+		</Row>
+		<Row Tag="LOC_ALLIANCE_POINTS_FROM_TRADE_ROUTES_FROM_THEM">
+			<Text>[NEWLINE]{1_Amount} Points from having a [ICON_TradeRoute] Trade Route from your ally</Text>
+		</Row>
+		<Row Tag="LOC_ALLIANCE_POINTS_FROM_COMMON_ENEMY">
+			<Text>[NEWLINE]{1_Amount} Points from declaring war on a common enemy</Text>
+		</Row>
+		<Row Tag="LOC_ALLIANCE_POINTS_FROM_YOUR_MODIFIER">
+			<Text>[NEWLINE]{1_Amount} Points from your other sources</Text>
+		</Row>
+		<Row Tag="LOC_ALLIANCE_POINTS_FROM_THEIR_MODIFIER">
+			<Text>[NEWLINE]{1_Amount} Points from your ally's other sources</Text>
+		</Row>
+		<!-- New Government Text -->
+		<Row Tag="LOC_GOVT_POLICY_TYPE_DARKAGE">
+			<Text>Dark Age Policies</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_INHERENT_BONUS_AUTOCRACY_XP1">
+			<Text>+1 to all yields for each government building and palace in a city.</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_INHERENT_BONUS_OLIGARCHY_XP1">
+			<Text>All land melee, anti-cavalry, and naval melee class units gain +4 [ICON_Strength] Combat Strength.</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_INHERENT_BONUS_CLASSREP_XP1">
+			<Text>All cities with a district receive +1 [ICON_Housing] Housing and +1 [ICON_Amenities] Amenity.</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_INHERENT_BONUS_MONARCHY_XP1">
+			<Text>+1 [ICON_Housing] Housing per level of Walls.</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_INHERENT_BONUS_THEOCRACY_XP1">
+			<Text>+5 [ICON_Religion] Religious Strength in Theological Combat.[NEWLINE]+0.5 [ICON_Faith] Faith per [ICON_Citizen] Citizen in cities with [ICON_Governor] Governors.</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_INHERENT_BONUS_MERCHREP_XP1">
+			<Text>+10% [ICON_GOLD] Gold in all cities with an established  [ICON_Governor] Governor.</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_INHERENT_BONUS_FASCISM_XP1">
+			<Text>All units gain +5 [ICON_Strength] Combat Strength.  War Weariness reduced by 15%.</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_INHERENT_BONUS_COMMUNISM_XP1">
+			<Text>+0.6 [ICON_Production] Production per [ICON_Citizen] Citizen in cities with [ICON_Governor] Governors.</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_INHERENT_BONUS_DEMOCRACY_XP1">
+			<Text>+1 [ICON_Production] Production, +1 [ICON_Housing] Housing per District.</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_AUTOCRACY_XP1">
+			<Text>+10% Production toward Wonders.</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_OLIGARCHY_XP1">
+			<Text>+20% Unit Experience.</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_CLASSREP_XP1">
+			<Text>+15% Great Person points.</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_MONARCHY_XP1">
+			<Text>+50% Influence Points.</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_THEOCRACY_XP1">
+			<Text>15% Discount on Purchases with [ICON_Faith] Faith.</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_MERCHREP_XP1">
+			<Text>+15% Production toward Districts.</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_FASCISM_XP1">
+			<Text>+50% Production toward Units.</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_COMMUNISM_XP1">
+			<Text>+15% Production.</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_DEMOCRACY_XP1">
+			<Text>25% Discount on Purchases with [ICON_Gold] Gold.</Text>
+		</Row>
+		<Row Tag="LOC_TOOLTIP_UNLOCKS_POLICY_CARD">
+			<Text>Unlocks the {1_PolicyName} Policy Card.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_OLIGARCHY_LEGACY_MELEE_BUFF_MODIFIER_DESCRIPTION">
+			<Text>+4 from Oligarchic Legacy</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_THEOCRACY_LEGACY_RELIGIOUS_BUFF_MODIFIER_DESCRIPTION">
+			<Text>+5 from Theocratic Legacy</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_FASCISM_LEGACY_ATTACK_BUFF_MODIFIER_DESCRIPTION">
+			<Text>+5 from Fascist Legacy</Text>
+		</Row>
+		<!-- Governors UI -->
+		<Row Tag="LOC_GOVERNORS_SCREEN_TAB_OWNED_GOVERNORS">
+			<Text>Current Governors</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNORS_SCREEN_TAB_GOVERNOR_CANDIDATES">
+			<Text>Candidates</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNORS_SCREEN_BUTTON_APPOINT_GOVERNOR">
+			<Text>Appoint</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNORS_SCREEN_DETAILS">
+			<Text>Details</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNORS_SCREEN_PROMOTE">
+			<Text>Promote</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNORS_SCREEN_VIEW_PROMOTIONS">
+			<Text>View Promotions</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNORS_SCREEN_GOVERNOR_ESTABLISHED_IN">
+			<Text>Established In:</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNORS_SCREEN_GOVERNOR_TRANSITIONING_TO">
+			<Text>Establishing political power in:</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNORS_SCREEN_GOVERNOR_NEEDS_ASSIGNMENT">
+			<Text>Needs Assignment</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_ASSIGNMENT_REPLACES">
+			<Text>Replaces:</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_ASSIGNMENT_CONFIRM_REPLACEMENT">
+			<Text>REPLACE GOVERNOR? Slotting this governor will replace the governor in this city.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_ASSIGNMENT_PLUS_PRESSURE">
+			<Text>{1_Pressure: number +#;-#}</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_ASSIGNMENT_IS_ESTABLISHED">
+			<Text>{1_Name} ({2_Type}) is established in this city</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_ASSIGNMENT_IS_ESTABLISHING">
+			<Text>{1_Name} ({2_Type}) is establishing in this city</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_ASSIGNMENT_NO_GOVERNOR">
+			<Text>No Governor Assigned</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_ASSIGNMENT_CURRENT_IDENTITY_PRESSURE_TOOLTIP">
+			<Text>Current Loyalty Per Turn</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_ASSIGNMENT_FUTURE_IDENTITY_PRESSURE_TOOLTIP">
+			<Text>Loyalty per turn with this Governor Established</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNORS_SCREEN_GOVERNOR_TRANSITION_TURNS">
+			<Text>{1_NumTurns} Turns</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNORS_SCREEN_GOVERNOR_TURNS_UNTIL_ESTABLISHED">
+			<Text>{1_NumTurns} Turns until established</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNORS_SCREEN_GOVERNOR_NAME_WITH_TURNS">
+			<Text>{1_GovernorName} ({2_Turns} {2_Turns : plural 1?Turn; other?Turns;})</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNORS_SCREEN_NEUTRALIZED">
+			<Text>Neutralized:</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNORS_SCREEN_NEUTRALIZED_TURNS_REMAINING">
+			<Text>({1_Turns} more {1_Turns : plural 1?turn; other?turns;})</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNORS_SCREEN_GOVERNOR_CANDIDATE">
+			<Text>Governor Candidate</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNORS_SCREEN_GOVERNOR_ASSIGN_TO">
+			<Text>Assign {1_GovernorName} to:</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNORS_BASE_ABILITY_HEADER_TEXT">
+			<Text>Base Ability: </Text>
+		</Row>
+		<Row Tag="LOC_GOVERNORS_PROMOTIONS_HEADER_TEXT">
+			<Text>Promotions:</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNORS_SCREEN_CHANGE_ASSIGNMENT">
+			<Text>Change city assignment</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNORS_GRANT_PROMOTION">
+			<Text>Grant Promotion</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNORS_GOVERNOR_NEUTRALIZED">
+			<Text>Out of Commission</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNORS_CANCEL_PROMOTE_PROMPT">
+			<Text>The selected promotion will not be applied if you leave this screen. Do you want to proceed?</Text>
+		</Row>
+		<!-- Governors -->
+		<Row Tag="LOC_GOVERNOR_THE_DEFENDER_NAME">
+			<Text>Victor</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_THE_AMBASSADOR_NAME">
+			<Text>Amani</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_THE_CARDINAL_NAME">
+			<Text>Moksha</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_THE_RESOURCE_MANAGER_NAME">
+			<Text>Magnus</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_THE_BUILDER_NAME">
+			<Text>Liang</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_THE_EDUCATOR_NAME">
+			<Text>Pingala</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_THE_MERCHANT_NAME">
+			<Text>Reyna</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_THE_DEFENDER_TITLE">
+			<Text>The Castellan</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_THE_AMBASSADOR_TITLE">
+			<Text>The Diplomat</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_THE_CARDINAL_TITLE">
+			<Text>The Cardinal</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_THE_RESOURCE_MANAGER_TITLE">
+			<Text>The Steward</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_THE_BUILDER_TITLE">
+			<Text>The Surveyor</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_THE_EDUCATOR_TITLE">
+			<Text>The Educator</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_THE_MERCHANT_TITLE">
+			<Text>The Financier</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_THE_DEFENDER_SHORT_TITLE">
+			<Text>Castellan</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_THE_AMBASSADOR_SHORT_TITLE">
+			<Text>Diplomat</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_THE_CARDINAL_SHORT_TITLE">
+			<Text>Cardinal</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_THE_RESOURCE_MANAGER_SHORT_TITLE">
+			<Text>Steward</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_THE_BUILDER_SHORT_TITLE">
+			<Text>Surveyor</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_THE_EDUCATOR_SHORT_TITLE">
+			<Text>Educator</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_THE_MERCHANT_SHORT_TITLE">
+			<Text>Financier</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_THE_DEFENDER_DESCRIPTION">
+			<Text>Military focused, once established in a city, {LOC_GOVERNOR_THE_DEFENDER_NAME} is instrumental in strengthening, preserving, and defending it from foreign threats.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_THE_AMBASSADOR_DESCRIPTION">
+			<Text>Skilled in gaining support for your civilization, and spreading its influence to nearby cities. {LOC_GOVERNOR_THE_AMBASSADOR_NAME} is the only governor that can be given foreign assignment in a city-state.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_THE_CARDINAL_DESCRIPTION">
+			<Text>Spiritual and Religious leader that can increase the [ICON_Religion] Religious Strength of a city, and the Religious units stationed there. {LOC_GOVERNOR_THE_CARDINAL_NAME} is a beacon of [ICON_FAITH] Faith in your empire.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_THE_RESOURCE_MANAGER_DESCRIPTION">
+			<Text>Enterprising and capable, {LOC_GOVERNOR_THE_RESOURCE_MANAGER_NAME} is able to procure valuable resources when needed. He is also quite skilled in optimizing the overall [ICON_PRODUCTION] Production in the city.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_THE_EDUCATOR_DESCRIPTION">
+			<Text>{LOC_GOVERNOR_THE_EDUCATOR_NAME} is focused on the cultivation of [ICON_SCIENCE] Scientific and [ICON_Culture] Cultural endeavors in the city. He is also quite skilled in the attraction of [ICON_GreatPerson] Great People to his city.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_THE_MERCHANT_DESCRIPTION">
+			<Text>Shrewd and fiscally knowledgeable, {LOC_GOVERNOR_THE_MERCHANT_NAME} is able to strengthen the economic power of a city, using finances to provide more than is normally possible.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_THE_BUILDER_DESCRIPTION">
+			<Text>An expert in efficiency, {LOC_GOVERNOR_THE_BUILDER_NAME} is skilled in all things related to building and construction. An expert planner, she can also supervise the development of custom improvements in the city.</Text>
+		</Row>
+		<!-- Governor Promotions -->
+		<Row Tag="LOC_GOVERNOR_PROMOTION_REDOUBT_NAME">
+			<Text>Redoubt</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_REDOUBT_DESCRIPTION">
+			<Text>Increases city garrison [ICON_Strength] Combat Strength by +5.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_GARRISON_COMMANDER_NAME">
+			<Text>Garrison Commander</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_GARRISON_COMMANDER_DESCRIPTION">
+			<Text>Units defending within the city's territory get +5 [ICON_Strength] Combat Strength.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_EMBRASURE_NAME">
+			<Text>Embrasure</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_EMBRASURE_DESCRIPTION">
+			<Text>City gains an additional [ICON_Ranged] Ranged Strike per turn.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_DEFENSE_LOGISTICS_NAME">
+			<Text>Defense Logistics</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_SECURITY_EXPERT_NAME">
+			<Text>Security Expert</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_SECURITY_EXPERT_DESCRIPTION">
+			<Text>Enemy Spies operate at 2 levels below normal in this city.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_DEFENSE_LOGISTICS_DESCRIPTION">
+			<Text>City cannot be put under siege.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_AIR_DEFENSE_INITIATIVE_NAME">
+			<Text>Air Defense Initiative</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_AIR_DEFENSE_INITIATIVE_DESCRIPTION">
+			<Text>+25 [ICON_Strength] Combat Strength to anti-air support units within the city's territory when defending against aircraft and ICBMs.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_AMBASSADOR_MESSENGER_NAME">
+			<Text>Messenger</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_AMBASSADOR_MESSENGER_DESCRIPTION">
+			<Text>Can be assigned to a city-state, where she acts as 2 [ICON_Envoy] Envoys.</Text>
+		</Row>
+		<Row Tag="LOC_SETTLER_LOYALTY_WARNING_TOOLTIP">
+			<Text>The influence of nearby cities would apply {1_LoyaltyPerTurnAmount} Loyalty per turn to a new city settled here. Consider using a [ICON_Governor] Governor in the new city, or settling elsewhere.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_AMBASSADOR_EMISSARY_NAME">
+			<Text>Emissary</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_AMBASSADOR_EMISSARY_DESCRIPTION">
+			<Text>Other cities within 9 tiles and not owned by you lose 2 Loyalty per turn.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_AMBASSADOR_PRESTIGE_NAME">
+			<Text>Prestige</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_AMBASSADOR_PRESTIGE_DESCRIPTION">
+			<Text>Your other cities within 9 tiles gain +2 Loyalty per turn towards your civilization.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_AMBASSADOR_AFFLUENCE_NAME">
+			<Text>Affluence</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_AMBASSADOR_AFFLUENCE_DESCRIPTION">
+			<Text>While established in a city-state, provides a copy of its Luxury resources to you.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_AMBASSADOR_PROMOTER_NAME">
+			<Text>Promoter</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_AMBASSADOR_PROMOTER_DESCRIPTION">
+			<Text>+4 [ICON_Amenities] Amenities in the city.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_AMBASSADOR_PUPPETEER_NAME">
+			<Text>Puppeteer</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_AMBASSADOR_PUPPETEER_DESCRIPTION">
+			<Text>While established in a city-state, doubles the number of [ICON_Envoy] Envoys you have there.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_CARDINAL_BISHOP_NAME">
+			<Text>Bishop</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_CARDINAL_GRAND_INQUISITOR_NAME">
+			<Text>Grand Inquisitor</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_CARDINAL_DIVINE_ARCHITECT_NAME">
+			<Text>Divine Architect</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_CARDINAL_LAYING_ON_OF_HANDS_NAME">
+			<Text>Laying On Of Hands</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_CARDINAL_CITADEL_OF_GOD_NAME">
+			<Text>Citadel of God</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_CARDINAL_PATRON_SAINT_NAME">
+			<Text>Patron Saint</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_CARDINAL_BISHOP_DESCRIPTION">
+			<Text>Religious pressure to adjacent cities is 100% stronger from this city.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_CARDINAL_GRAND_INQUISITOR_DESCRIPTION">
+			<Text>+10 [ICON_Religion] Religious Strength in theological combat in tiles of this city.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_CARDINAL_DIVINE_ARCHITECT_DESCRIPTION">
+			<Text>+20% [ICON_Production] Production toward Holy Site buildings in the city.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_CARDINAL_LAYING_ON_OF_HANDS_DESCRIPTION">
+			<Text>[ICON_Governor] Governor's religious units heal fully in one turn in tiles of this city.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_CARDINAL_CITADEL_OF_GOD_DESCRIPTION">
+			<Text>City ignores pressure and combat effects from Religions not founded by the [ICON_Governor] Governor's player.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_CARDINAL_PATRON_SAINT_DESCRIPTION">
+			<Text>Apostles and Warrior Monks trained in the city receive 1 extra promotion when receiving their first promotion.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_RESOURCE_MANAGER_GROUNDBREAKER_NAME">
+			<Text>Groundbreaker</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_RESOURCE_MANAGER_GROUNDBREAKER_DESCRIPTION">
+			<Text>+50% yields from plot harvests and feature removals in city.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_RESOURCE_MANAGER_SURPLUS_LOGISTICS_NAME">
+			<Text>Surplus Logistics</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_RESOURCE_MANAGER_SURPLUS_LOGISTICS_DESCRIPTION">
+			<Text>+20% [ICON_Food] Growth in the city. Your [ICON_TradeRoute] Trade Routes ending here provide +2 [ICON_Food] Food to their starting city.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_RESOURCE_MANAGER_EXPEDITION_NAME">
+			<Text>Provision</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_RESOURCE_MANAGER_EXPEDITION_DESCRIPTION">
+			<Text>+20% [ICON_Production] toward Industrial Zone buildings in the city. Settlers trained in the city do not consume a [ICON_Citizen] Population.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_RESOURCE_MANAGER_INDUSTRIALIST_NAME">
+			<Text>Industrialist</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_RESOURCE_MANAGER_INDUSTRIALIST_DESCRIPTION">
+			<Text>+1 [ICON_Production] Production per turn from each Strategic resource in the city.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_RESOURCE_MANAGER_BLACK_MARKETEER_NAME">
+			<Text>Black Marketeer</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_RESOURCE_MANAGER_BLACK_MARKETEER_DESCRIPTION">
+			<Text>Strategic resources are not required in the city in order to build resource dependent units.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_RESOURCE_MANAGER_VERTICAL_INTEGRATION_NAME">
+			<Text>Vertical Integration</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_RESOURCE_MANAGER_VERTICAL_INTEGRATION_DESCRIPTION">
+			<Text>This city receives [ICON_Production] Production from any Industrial Zones within 6 tiles, not just the first.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_BUILDER_GUILDMASTER_NAME">
+			<Text>Guildmaster</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_BUILDER_GUILDMASTER_DESCRIPTION">
+			<Text>All Builders trained in city get +1 build charge.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_INFRASTRUCTURE_NAME">
+			<Text>Infrastructure</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_INFRASTRUCTURE_DESCRIPTION">
+			<Text>+30% [ICON_Production] Production towards City Center and Government Plaza buildings.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_AQUACULTURE_NAME">
+			<Text>Aquaculture</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_AQUACULTURE_DESCRIPTION">
+			<Text>The Fishery unique improvement can be built in the city on coastal plots. Yields 1 [ICON_Food] Food, +1 [ICON_Food] Food if adjacent to a sea resource.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_PARKS_RECREATION_NAME">
+			<Text>Parks and Recreation</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_PARKS_RECREATION_DESCRIPTION">
+			<Text>The City Park unique improvement can be built in the city. Yields 2 Appeal and 1 [ICON_Culture] Culture. +1 [ICON_Amenities] Amenity if adjacent to water.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_ZONING_COMMISSIONER_NAME">
+			<Text>Zoning Commissioner</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_ZONING_COMMISSIONER_DESCRIPTION">
+			<Text>+20% [ICON_Production] Production towards constructing districts in the city.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_ARCHITECT_NAME">
+			<Text>Amusement</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_ARCHITECT_DESCRIPTION">
+			<Text>+30% [ICON_Production] Production towards Entertainment Complex and Water Park buildings in the city.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_EDUCATOR_LIBRARIAN_NAME">
+			<Text>Librarian</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_EDUCATOR_LIBRARIAN_DESCRIPTION">
+			<Text>15% increase in [ICON_Science] Science and [ICON_Culture] Culture generated by the city.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_EDUCATOR_CONNOISSEUR_NAME">
+			<Text>Connoisseur</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_EDUCATOR_CONNOISSEUR_DESCRIPTION">
+			<Text>+20% [ICON_Production] Production toward Theater Square buildings in the city.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_EDUCATOR_RESEARCHER_NAME">
+			<Text>Researcher</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_EDUCATOR_RESEARCHER_DESCRIPTION">
+			<Text>+20% [ICON_Production] Production toward Campus buildings in the city.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_EDUCATOR_GRANTS_NAME">
+			<Text>Grants</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_EDUCATOR_GRANTS_DESCRIPTION">
+			<Text>+100% [ICON_GreatPerson] Great People points generated per turn in the city.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_EDUCATOR_ARMS_RACE_PROPONENT_NAME">
+			<Text>Arms Race Proponent</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_EDUCATOR_ARMS_RACE_PROPONENT_DESCRIPTION">
+			<Text>30% [ICON_Production] Production increase to all nuclear armament projects in the city.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_EDUCATOR_SPACE_INITIATIVE_NAME">
+			<Text>Space Initiative</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_EDUCATOR_SPACE_INITIATIVE_DESCRIPTION">
+			<Text>30% [ICON_Production] Production increase to all space-program projects in the city.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_LAND_ACQUISITION_NAME">
+			<Text>Land Acquisition</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_LAND_ACQUISITION_DESCRIPTION">
+			<Text>Acquire new tiles in city faster.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_HARBORMASTER_NAME">
+			<Text>Harbormaster</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_HARBORMASTER_DESCRIPTION">
+			<Text>Double adjacency bonuses from Commercial Hubs and Harbors in the city.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_FOREIGN_EXCHANGE_NAME">
+			<Text>Foreign Exchange</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_FOREIGN_EXCHANGE_DESCRIPTION">
+			<Text>+3 [ICON_Gold] Gold per turn from each foreign [ICON_TradeRoute] Trade Route passing through the city.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_TARIFFS_NAME">
+			<Text>Tariffs</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_TARIFFS_DESCRIPTION">
+			<Text>+3 [ICON_Gold] Gold per turn from all [ICON_TradeRoute] Trade Routes in and out of the city.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_TAX_COLLECTOR_NAME">
+			<Text>Tax Collector</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_TAX_COLLECTOR_DESCRIPTION">
+			<Text>+2 [ICON_Gold] Gold per turn for each [ICON_Citizen] Citizen in the city.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_CONTRACTOR_NAME">
+			<Text>Contractor</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_CONTRACTOR_DESCRIPTION">
+			<Text>Allows city to purchase districts with [ICON_Gold] Gold.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_CURATOR_NAME">
+			<Text>Curator</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_CURATOR_DESCRIPTION">
+			<Text>+100% [ICON_Tourism] Tourism from Great Works of Art, Music, and Writing in the city.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_ACTION_AVAILABLE">
+			<Text>You can promote or assign a [ICON_Governor] Governor!</Text>
+		</Row>
+		<!-- Leader Agendas-->
+		<Row Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_HORN_CHEST_LOINS">
+			<Text>Likes civs that have lots of corps and armies</Text>
+		</Row>
+		<Row Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_HORSE_LORD">
+			<Text>Likes civs that do not compete with him for cavalry</Text>
+		</Row>
+		<Row Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_CULTURAL_ID">
+			<Text>Likes civs with high Loyalty, but dislikes those with low</Text>
+		</Row>
+		<!-- Unit Abilities-->
+		<Row Tag="LOC_ABILITY_ALPINE_TRAINING_NAME">
+			<Text>Alpine Training</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ALPINE_TRAINING__DESCRIPTION">
+			<Text>Alpine Training: +3 [ICON_Strength] Combat Strength when fighting in Hills and no Movement penalty in Hill terrain.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ALPINE_TRAINING_COMBAT_HILLS_MODIFIER_DESCRIPTION">
+			<Text>+3 [ICON_Strength] Combat Strength when fighting in Hills</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_RECEIVE_BOMBARD_STRENGTH_BUFF_DESCRIPTION">
+			<Text>+5 [ICON_Bombard] Bombard Strength from assisting unit</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_SCOTTISH_HIGHLANDER_DESCRIPTION">
+			<Text>+5 [ICON_Strength] Combat Strength bonus in Hills and Forest</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_MONGOLIAN_KESHIG_DESCRIPTION">
+			<Text>Can escort moving civilian and support units at their higher [ICON_Movement] Movement speed.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_GEORGIAN_KHEVSURETI_DESCRIPTION">
+			<Text>+7 [ICON_Strength] Combat Strength bonus when fighting in Hill terrain.[NEWLINE][ICON_Bullet]No [ICON_Movement] Movement penalty in Hill terrain.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_MAPUCHE_MALON_RAIDER_DESCRIPTION">
+			<Text>+5 [ICON_Strength] Combat Strength bonus within 4 hexes of friendly territory.[NEWLINE][ICON_Bullet]Pillaging costs 1 [ICON_Movement] Movement.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_PREVIEW_ZEVEN_PROVINCIEN_DESCRIPTION">
+			<Text>+7 [ICON_Strength] Combat Strength vs. defensible districts</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_DUTCH_ZEVEN_PROVINCIEN_DESCRIPTION">
+			<Text>+7 [ICON_Strength] Combat Strength when attacking defensible districts.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_CREE_OKIHTCITAW_DESCRIPTION">
+			<Text>Starts with 1 free Promotion.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ZULU_IMPI_DESCRIPTION">
+			<Text>+100% Flanking bonus.[NEWLINE][ICON_Bullet]Earns experience 25% faster.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ORDU_INCREASED_MOVEMENT_NAME">
+			<Text>Mongol Steppe</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ORDU_INCREASED_MOVEMENT_DESCRIPTION">
+			<Text>+1 [ICON_Movement] Movement</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ORDU_TRAINED_UNIT_XP_DESCRIPTION">
+			<Text>+25% combat experience from Ordu</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ECONOMIC_GOLDEN_AGE_PLUNDER_IMMUNITY_NAME">
+			<Text>Economic Golden Age</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ECONOMIC_GOLDEN_AGE_PLUNDER_IMMUNITY_DESCRIPTION">
+			<Text>This unit's [ICON_TradeRoute] Trade Route cannot be plundered by enemy units. Obtained as part of an Economic Golden Age.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_INQUISITION_FRIENDLY_TERRITORY_BONUS_NAME">
+			<Text>Inquisition</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_INQUISITION_FRIENDLY_TERRITORY_BONUS_DESCRIPTION">
+			<Text>+15 Religious Combat Strength in friendly territory.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_TWILIGHT_VALOR_ATTACK_BONUS_NAME">
+			<Text>Twilight Valor</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_TWILIGHT_VALOR_ATTACK_BONUS_DESCRIPTION">
+			<Text>+5 [ICON_Strength] Combat Strength for all melee attack units.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_GRANT_MOVEMENT_BONUS_DESCRIPTION">
+			<Text>Grants +1 [ICON_Movement] Movement to units starting their move up to 1 hex away.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_PARADROP_DESCRIPTION">
+			<Text>Can Paradrop from friendly tile to location 7 tiles away (12 if starting from Aerodrome or Airstrip).</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_TOQUI_XP_FROM_GOVERNOR_DESCRIPTION">
+			<Text>+25% Earned experience from combat (Toqui)</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_TOQUI_COMBAT_BUFF_VS_GOLDEN_AGE_DESCRIPTION">
+			<Text>+10 [ICON_Strength] Combat Strength versus civilizations in a Golden Age.[NEWLINE] </Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_TIMUR_BONUS_EXPERIENCE_DESCRIPTION">
+			<Text>+25% Earned experience from combat (Timur)</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_DRONE_GRANT_SIEGE_BONUS_DESCRIPTION">
+			<Text>Grants +5 [ICON_Bombard] Bombard Strength to Siege class units within 1 hex.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_GENGHIS_KHAN_CAVALRY_BONUS_DESCRIPTION">
+			<Text>+3 [ICON_Strength] Combat Strength (Mongol Horde).</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_GENGHIS_KHAN_CAVALRY_CAPTURE_CAVALRY_DESCRIPTION">
+			<Text>Ability to capture defeated cavalry units (Mongol Horde).</Text>
+		</Row>
+		<!-- Feature -->
+		<Row Tag="LOC_FEATURE_REEF_NAME">
+			<Text>Reef</Text>
+		</Row>
+		<!-- Cultural Identity UI-->
+		<Row Tag="LOC_CULTURAL_IDENTITY_LOYALTY_SUBSECTION">
+			<Text>Loyalty</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_ACCUMULATED_IDENTITY_SUBSECTION">
+			<Text>Accumulated Loyalty</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_SOURCE_DISTANCE_FROM_CAPITAL">
+			<Text>Proximity to your [ICON_Capital] Capital</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_LOYALTY">
+			<Text>[SIZE:16]{1_Loyalty} [SIZE:12]Loyalty</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_OF">
+			<Text>of</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_TOTAL_LOYALTY">
+			<Text>[SIZE:16]{1_Loyalty} [SIZE:12]Possible</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_STATUS">
+			<Text>Status:</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_LOYALTY_LINE">
+			<Text>Loyalty per turn:</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_PER_TURN_OWNERSHIP">
+			<Text>Ownership of this city</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_PER_TURN_POPULATION">
+			<Text>[ICON_Citizen] Citizens living here</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_PER_TURN_MARTIAL_LAW">
+			<Text>Garrisoned unit during Occupation</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_PER_TURN_OCCUPATION">
+			<Text>Occupation</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_PER_TURN_STARVATION">
+			<Text>Starvation</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_PER_TURN_TRADE_ROUTES">
+			<Text>[ICON_TradeRoute] Trade Routes</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_PER_TURN_GOVERNOR">
+			<Text>[ICON_Governor] Governor placed here</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_PER_TURN_HAPPINESS">
+			<Text>Happiness level</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_PER_TURN_RELIGION_MATCHING_FOUNDED">
+			<Text>Following your founded [ICON_Religion] Religion</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_PER_TURN_RELIGION_MISMATCHING_FOUNDED">
+			<Text>Not following your founded [ICON_Religion] Religion</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_PER_TURN_MODIFIERS">
+			<Text>Other effects</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_PER_TURN_ORIGINAL_OWNERSHIP">
+			<Text>Being the original owner of the city</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_PER_TURN_OWNERSHIP_BEFORE_OCCUPATION">
+			<Text>Being the owner of the city before occupation</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_PER_TURN_FREE_CITIES">
+			<Text>Desire for independence</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_PER_TURN_ALWAYS_LOYAL">
+			<Text>Always fully loyal</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_PER_TURN_NEARBY_CITIZEN_PRESSURE">
+			<Text>Pressure from nearby [ICON_Citizen] Citizens</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_PER_TURN_NEARBY_OWNED_CITIES">
+			<Text>Nearby [ICON_Citizen] Citizens</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_PER_TURN_NEARBY_FOREIGN_CITIES">
+			<Text>Nearby rival [ICON_Citizen] Citizens</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_PER_TURN_NEARBY_OWNED_GOVERNORS">
+			<Text>Nearby Diplomat [ICON_Governor] Governor</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_PER_TURN_NEARBY_FOREIGN_GOVERNORS">
+			<Text>Nearby rival Diplomat [ICON_Governor] Governors</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_PRESSURE_OWNERSHIP">
+			<Text>{1_IdentityPressureAmount} from Ownership of the city</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_PRESSURE_POPULATION">
+			<Text>{1_IdentityPressureAmount} from [ICON_Citizen] Citizens of the city</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_PRESSURE_AGES">
+			<Text>{1_IdentityPressureAmount} from Golden or Dark Ages</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_PRESSURE_GOVERNOR">
+			<Text>{1_IdentityPressureAmount} from Diplomat [ICON_Governor] Governor</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_PRESSURE_MODIFIERS">
+			<Text>{1_IdentityPressureAmount} from other effects</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_SOURCE_OWN_CITIES">
+			<Text>Your [ICON_Citizen] Citizens within 9 tiles</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_SOURCE_MARTIAL_LAW">
+			<Text>Martial Law</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_SOURCE_OCCUPATION">
+			<Text>[COLOR_RED]Occupation</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_SOURCE_TRADE_ROUTES">
+			<Text>[ICON_TradeRoute] Trade Routes</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_SOURCE_GOVERNOR">
+			<Text>[ICON_Governor] Resident Governor</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_SOURCE_BASE_DECAY">
+			<Text>Base Decay</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_SOURCE_HAPPINESS">
+			<Text>Citizen Happiness</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_SOURCE_UNHAPPINESS">
+			<Text>[COLOR_RED]Citizen Unhappiness</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_SOURCE_GOLDEN_AND_DARK_AGES">
+			<Text>Golden and Dark Ages</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_SOURCE_MISC">
+			<Text>Other Modifiers</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_SOURCE_INDEPENDENCE_DESIRE">
+			<Text>[COLOR_RED]General unrest</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_SOURCE_FOREIGN_CITIES">
+			<Text>[COLOR_RED]Other civilizations' [ICON_Citizen] Citizens within 9 tiles</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_SOURCE_STARVATION">
+			<Text>[COLOR_RED]City is starving</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_SOURCE_ADDITIONAL">
+			<Text>Additional Sources</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_LOYALTY_NO_GROWTH_PENALTY">
+			<Text>No Penalty</Text>
+		</Row>
+		<Row Tag="LOC_HUD_CULTURAL_IDENTITY_LENS">
+			<Text>Loyalty</Text>
+		</Row>
+		<Row Tag="LOC_HUD_CULTURAL_IDENTITY_LENS_TOOLTIP">
+			<Text>Show the Loyalty of cities, and the sources of Loyalty that are influencing it.</Text>
+		</Row>
+		<!-- Disloyal City UI -->
+		<Row Tag="LOC_RAZE_CITY_LIBERATE_EXPLANATION">
+			<!--New version of base game text used in conquer city UI popup, to describe Liberation effect on Loyalty-->
+			<Text>Liberating a city will return it to one of their previous owners, possibly bringing that civilization back into the game.[NEWLINE][NEWLINE]{1_WarmongerInfo}[NEWLINE][NEWLINE]This city will be immune to Loyalty pressure from your cities and governors.</Text>
+		</Row>
+		<Row Tag="LOC_DISLOYAL_CITY_HEADER">
+			<Text>CITY REBELLED</Text>
+		</Row>
+		<Row Tag="LOC_DISLOYAL_CITY_NAME_LABEL">
+			<Text>City Name:</Text>
+		</Row>
+		<Row Tag="LOC_DISLOYAL_CITY_POPULATION_LABEL">
+			<Text>Population:</Text>
+		</Row>
+		<Row Tag="LOC_DISLOYAL_CITY_DISTRICTS_LABEL">
+			<Text>Number of Districts Present:</Text>
+		</Row>
+		<Row Tag="LOC_DISLOYAL_CITY_CHOOSER_KEEP_BUTTON_LABEL">
+			<Text>Keep City</Text>
+		</Row>
+		<Row Tag="LOC_DISLOYAL_CITY_CHOOSER_KEEP_EXPLANATION">
+			<Text>Keep this city. You may want to move a [ICON_Governor] Governor here to strengthen the Loyalty of these new citizens joining your empire.</Text>
+		</Row>
+		<Row Tag="LOC_DISLOYAL_CITY_CHOOSER_REFUSE_BUTTON_LABEL">
+			<Text>Refuse City</Text>
+		</Row>
+		<Row Tag="LOC_DISLOYAL_CITY_CHOOSER_REFUSE_EXPLANATION">
+			<Text>Refuse to let this city join your empire. It will remain a Free City.[NEWLINE][NEWLINE]This city will be immune to Loyalty pressure from your cities and governors, and will not ask to join your civilization again. It could still be won over by a different civilization.</Text>
+		</Row>
+		<Row Tag="LOC_CITY_YIELD_FROM_LOYALTY_TOOLTIP">
+			<Text>{Value : number +#;-#}% ({ActualValue : number +#.#;-#.#}) from {1_LoyaltyLevelName}</Text>
+		</Row>
+		<Row Tag="LOC_CITY_YIELD_MODIFIER_PER_GOVERNOR_TITLE_TOOLTIP">
+			<Text>{Value : number +#;-#}% ({ActualValue : number +#.#;-#.#}) from Hwarang ([ICON_Governor] Governor with {1} {1 : plural 1?Promotion; other?Promotions;})</Text>
+		</Row>
+		<Row Tag="LOC_LOYALTY_LEVEL_3_NAME">
+			<Text>Loyal</Text>
+		</Row>
+		<Row Tag="LOC_LOYALTY_LEVEL_2_NAME">
+			<Text>Wavering Loyalty</Text>
+		</Row>
+		<Row Tag="LOC_LOYALTY_LEVEL_1_NAME">
+			<Text>Disloyal</Text>
+		</Row>
+		<Row Tag="LOC_LOYALTY_LEVEL_0_NAME">
+			<Text>Unrest</Text>
+		</Row>
+		<Row Tag="LOC_LOYALTY_LEVEL_3_DESCRIPTION">
+			<Text>The citizens are Loyal to your civilization</Text>
+		</Row>
+		<Row Tag="LOC_LOYALTY_LEVEL_2_DESCRIPTION">
+			<Text>The citizens' Loyalty to your civilization is wavering.</Text>
+		</Row>
+		<Row Tag="LOC_LOYALTY_LEVEL_1_DESCRIPTION">
+			<Text>The citizens are disloyal to your civilization.</Text>
+		</Row>
+		<Row Tag="LOC_LOYALTY_LEVEL_0_DESCRIPTION">
+			<Text>The citizens are in a state of unrest.</Text>
+		</Row>
+		<Row Tag="LOC_GLORY_SCORE_BREAKDOWN">
+			<Text>{1_Icon}({2_Score}/{3_threshold})</Text>
+		</Row>
+		<!-- Resources -->
+		<Row Tag="LOC_RESOURCE_AMBER_NAME">
+			<Text>Amber</Text>
+		</Row>
+		<Row Tag="LOC_RESOURCE_OLIVES_NAME">
+			<Text>Olives</Text>
+		</Row>
+		<Row Tag="LOC_RESOURCE_TURTLES_NAME">
+			<Text>Turtles</Text>
+		</Row>
+		<!-- HUD -->
+		<Row Tag="LOC_HUD_CITY_POPULATION_GRAPH_TOOLTIP">
+			<Text>{1_Amount} {2_CivName} {1_Amount : plural 1?Citizen; other?Citizens;}</Text>
+		</Row>
+		<Row Tag="LOC_HUD_CITY_LOYALTY">
+			<Text>{1_LoyaltyAmount} Loyalty ({2_LoyaltyPerTurn : number +#.#;-#.#} per turn)</Text>
+		</Row>
+		<Row Tag="LOC_HUD_CITY_FULL_LOYALTY">
+			<Text>Full Loyalty</Text>
+		</Row>
+		<Row Tag="LOC_HUD_CITY_GAINING_LOYALTY">
+			<Text>Full Loyalty in {1_Turns} {1_Turns : plural 1?turn; other?turns;}</Text>
+		</Row>
+		<Row Tag="LOC_HUD_CITY_LOSING_LOYALTY">
+			<Text>Rebellion in {1_Turns} {1_Turns : plural 1?turn; other?turns;}</Text>
+		</Row>
+		<Row Tag="LOC_CITY_GET_UNIT_PRODUCTION_MODIFIER">
+			<Text>{Value : number +#.#;-#.#}% towards units</Text>
+		</Row>
+		<Row Tag="LOC_CITY_GET_BUILDING_PRODUCTION_MODIFIER">
+			<Text>{Value : number +#.#;-#.#}% towards buildings and wonders</Text>
+		</Row>
+		<Row Tag="LOC_CITY_GET_BUILDING_NON_WONDER_PRODUCTION_MODIFIER">
+			<Text>{Value : number +#.#;-#.#}% towards buildings</Text>
+		</Row>
+		<Row Tag="LOC_HUD_CITY_STABLE_LOYALTY">
+			<Text>Citizen Loyalty is not changing</Text>
+		</Row>
+		<Row Tag="LOC_HUD_CITY_CULTURAL_EFFECT">
+			<Text>No positive or negative effects</Text>
+		</Row>
+		<Row Tag="LOC_HUD_CITY_GOVERNOR">
+			<Text>Governor</Text>
+		</Row>
+		<Row Tag="LOC_HUD_CIVICS_TREE_AWARD_GOVERNOR">
+			<Text>Awards 1 [Icon_Governor] Governor Title</Text>
+		</Row>
+		<Row Tag="LOC_HUD_LAUNCHBAR_GOVERNOR_BUTTON">
+			<Text>Governors[NEWLINE][NEWLINE]View or manage [Icon_Governor] Governors in your civilization.</Text>
+		</Row>
+		<Row Tag="LOC_HUD_LAUNCHBAR_HISTORIAN_BUTTON">
+			<Text>History Timeline[NEWLINE][NEWLINE]View the timeline of Historic Moments achieved by your civilization.</Text>
+		</Row>
+		<Row Tag="LOC_HUD_CITY_CULTURE_TOOLTIP">
+			<Text>Loyalty and Governors</Text>
+		</Row>
+		<Row Tag="LOC_HUD_CITY_GOVERNOR_ESTABLISHED">
+			<Text>Established in city</Text>
+		</Row>
+		<Row Tag="LOC_HUD_CITY_GOVERNOR_ASSIGNED_SPECIFIC">
+			<Text>[ICON_Governor] Governor {1_GovernorName} assigned to city</Text>
+		</Row>
+		<Row Tag="LOC_HUD_CITY_GOVERNOR_ESTABLISHED_SPECIFIC">
+			<Text>[ICON_Governor] Governor {1_GovernorName} established in city</Text>
+		</Row>
+		<Row Tag="LOC_HUD_CITY_NO_GOVERNOR">
+			<Text>No assigned [ICON_Governor] Governor</Text>
+		</Row>
+		<Row Tag="LOC_HUD_CITY_NO_GOVERNOR_EFFECT">
+			<Text>...</Text>
+		</Row>
+		<Row Tag="LOC_HUD_CITY_GOVERNOR_TURNS">
+			<Text>{1_num} {1_Num : plural 1?turn; other?turns;}.</Text>
+		</Row>
+		<Row Tag="LOC_CITY_GOLD_FROM_POPULATION">
+			<Text>{Value : number +#.#;-#.#} from additional taxation</Text>
+		</Row>
+		<!-- Loyalty and Identity -->
+		<Row Tag="LOC_LOYALTY_STATUS_LOYAL">
+			<Text>[COLOR_GREEN]Loyal</Text>
+		</Row>
+		<Row Tag="LOC_LOYALTY_STATUS_DISLOYAL">
+			<Text>[COLOR_RED]Disloyal</Text>
+		</Row>
+		<Row Tag="LOC_LOYALTY_PER_TURN_STATUS_GAINING">
+			<Text>[COLOR_GREEN][ICON_PressureUp] Rising</Text>
+		</Row>
+		<Row Tag="LOC_LOYALTY_PER_TURN_STATUS_STABLE">
+			<Text>Stable</Text>
+		</Row>
+		<Row Tag="LOC_LOYALTY_PER_TURN_STATUS_LOSING">
+			<Text>[COLOR_RED][ICON_PressureDown] Falling</Text>
+		</Row>
+		<Row Tag="LOC_LOYALTY_EFFECT_NONE">
+			<Text>This city is loyal to you, and there are no adverse effects.</Text>
+		</Row>
+		<Row Tag="LOC_LOYALTY_EFFECT_DANGER_OF_REBELLION_TO_PLAYER">
+			<Text>[COLOR_RED]If Loyalty drops to 0, the city will rebel and join {1_PlayerName}, who has the most Loyalty accumulated here.</Text>
+		</Row>
+		<Row Tag="LOC_LOYALTY_EFFECT_DANGER_OF_REBELLION_TIED_PLAYERS">
+			<Text>[COLOR_RED]If Loyalty drops to 0, the city will rebel and join the other civilization that has the most Loyalty accumulated here.</Text>
+		</Row>
+		<Row Tag="LOC_LOYALTY_GROWTH_AND_YIELD_EFFECTS_TEXT">
+			<Text>City Growth is at {1_GrowthReduction}%[NEWLINE]City Yields are reduced {2_YieldPercentage}%</Text>
+		</Row>
+		<!-- Emergency Text Blocks -->
+		<Row Tag="LOC_EMERGENCY_PARTICIPANTS">
+			<Text>PARTICIPANTS:</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_PENDING">
+			<Text>Pending {1_TypeEmergency}</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_ONGOING">
+			<Text>Ongoing {1_TypeEmergency}</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_COMPLETED">
+			<Text>Completed {1_TypeEmergency}</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_TARGET">
+			<Text>Target: {1_Target}</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_YOU_ARE_TARGET">
+			<Text>You</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_JOIN">
+			<Text>Accept</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_REJECT">
+			<Text>Reject</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_TURNS_REMAINING">
+			<Text>[ICON_Turn] {1_Turns : plural 1?{1_Turns} Turn; other?{1_Turns} Turns;} Remaining</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_NO_TURNS_REMAINING">
+			<Text>Ends [ICON_Turn] This Turn</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_TURNS_OVER">
+			<Text>Emergency Ended</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_BUFFS_EXPLANATION">
+			<Text>During this Emergency:</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_MEMBER_REWARDS_EXPLANATION">
+			<Text>If the Members succeed:</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_TARGET_REWARDS_EXPLANATION">
+			<Text>If the Members fail:</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_MEMBERS_HAVE_WON_REWARDS">
+			<Text>Due to the Members' victory:</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_TARGET_HAS_WON_REWARDS">
+			<Text>Due to the Target's victory:</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_COMPLETE_THESE_GOALS">
+			<Text>Complete these objectives:</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_PENDING_EXPLANATION">
+			<Text>You have a chance to join an Emergency against this Target.[NEWLINE]{1_GoalsExplanation}[NEWLINE]Succeed, and you will be rewarded. Fail, and the Target will grow stronger. You must Accept or Reject this Emergency.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_PENDING_EXPLANATION_DEFENDER">
+			<Text>An Emergency has been declared against you![NEWLINE]{1_GoalsExplanation}[NEWLINE]Successfully prevent the Members from taking these objectives, and you will be rewarded. Fail, and the Members will grow stronger.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_PENDING_SHORT_DESCRIPTION">
+			<Text>PENDING: ACCEPT OR REJECT</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_COMPLETE_MEMBERS_WIN">
+			<Text>The Members are Victorious</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_COMPLETE_TARGET_WIN">
+			<Text>The Target is Victorious</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_MEMBER_GOLD_REWARD">
+			<Text>Member civilizations split a pot of {1_Amount} [ICON_Gold] Gold.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_TARGET_GOLD_REWARD">
+			<Text>The Target receives [ICON_Gold] {1_Amount} Gold per Member.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_TARGET_BUFF_DESCRIPTION_IDENTITY_IN_CITY">
+			<Text>The Target gains +20 Loyalty per turn in the target city.</Text>
+		</Row>
+		<!-- |||||||||  Goal Specific                                                   ||||||||||||| -->
+		<!-- |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| -->
+		<Row Tag="LOC_EMERGENCY_GOAL_TENTATIVE_CAPTURE_CITIES">
+			<Text>Those who join the Emergency will need to capture specific cities from {TargetName} within [ICON_Turn] {Turns} Turns.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_GOAL_TENTATIVE_CAPTURE_SPECIFIC_CITY">
+			<Text>Those who join the Emergency will need to capture {CityName} from {TargetName} within [ICON_Turn] {Turns} Turns.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_GOAL_CAPTURE_CITIES">
+			<Text>The Members of the Emergency must capture specific cities from {TargetName}.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_GOAL_CAPTURE_SPECIFIC_CITY">
+			<Text>The Members of the Emergency must capture {CityName} from {TargetName}.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_GOAL_SHORT_CAPTURE_CITIES">
+			<Text>Capture {1_CityName}</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_GOAL_SHORT_CAPTURE_CITIES_DEFENSE">
+			<Text>Defend {1_CityName}</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_GOAL_LIST_CAPTURE_CITY_DEFENSE">
+			<Text>Defend {1_CityName} until the end of the Emergency.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_GOAL_LIST_CAPTURE_CITIES">
+			<Text>Capture {1_CityName} before the end of the Emergency.</Text>
+		</Row>
+		<!-- |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| -->
+		<Row Tag="LOC_EMERGENCY_GOAL_TENTATIVE_UNCONVERT_CITY">
+			<Text>Those who join the Emergency will need to prevent {CityName} from following {TargetName}'s Religion for {HalfTurns} of the next [ICON_Turn] {Turns} Turns.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_GOAL_UNCONVERT_CITY">
+			<Text>The Members of the Emergency must prevent {CityName} from following {TargetName}'s Religion for [ICON_Turn] {HalfTurns} Turns.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_GOAL_SHORT_UNCONVERT_CITY">
+			<Text>Censure {NewReligion}</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_GOAL_SHORT_UNCONVERT_CITY_DEFENSE">
+			<Text>Defend {NewReligion}</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_GOAL_LIST_UNCONVERT_CITY_DEFENSE">
+			<Text>Make {NewReligion} the Dominant Religion in {1_CityName}.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_GOAL_LIST_UNCONVERT_CITY">
+			<Text>Prevent {NewReligion} from being the Dominant Religion in {1_CityName}.</Text>
+		</Row>
+		<!-- |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| -->
+		<Row Tag="LOC_EMERGENCY_GOAL_TENTATIVE_LIBERATE_CITY">
+			<Text>Those who join the Emergency will need to liberate {CityName} from {TargetName}'s control within [ICON_Turn] {Turns} Turns.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_GOAL_LIBERATE_CITY">
+			<Text>The Members of the Emergency must liberate {CityName} from {TargetName}.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_GOAL_SHORT_LIBERATE_CITY">
+			<Text>Liberate {1_CityName}</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_GOAL_SHORT_LIBERATE_CITY_DEFENSE">
+			<Text>Defend {1_CityName}</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_GOAL_LIST_LIBERATE_CITY_DEFENSE">
+			<Text>Defend {1_CityName} until the end of the Emergency.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_GOAL_LIST_LIBERATE_CITY">
+			<Text>Liberate {1_CityName} before the end of the Emergency.</Text>
+		</Row>
+		<!-- |||||||||  Emergency Specific                                              ||||||||||||| -->
+		<!-- |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| -->
+		<Row Tag="LOC_EMERGENCY_NAME_MILITARY">
+			<Text>Military Emergency</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_FLAVOR_MILITARY">
+			<Text>"If we do not stand united, then the fate of this one city will come to us all in time."</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_DESCRIPTION_MILITARY">
+			<Text>{TargetName}, though at the forefront of the world's civilizations, has captured {OldCityName}. {TargetName}'s runaway success is a matter of great concern.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_EXTRA_EFFECTS_MILITARY">
+			<Text>In addition, all Members will have Peace, Open Borders, and Shared Visibility with each other.  All Members will go to War with the Target.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_MEMBER_BUFF_DESCRIPTION_MILITARY_MOVEMENT">
+			<Text>Member units gain +1 [ICON_Movement] Movement in the Target's territory.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_MEMBER_BUFF_DESCRIPTION_MILITARY_COMBAT_STRENGTH">
+			<Text>Target units have -2 [ICON_Strength] Combat Strength when fighting Member units.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_MEMBER_REWARD_DESCRIPTION_MILITARY_INCREASED_HEALING">
+			<Text>Member units gain +5 healing in the Target's territory.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_TARGET_REWARD_DESCRIPTION_MILITARY_CITY_STRIKE">
+			<Text>Target gains +2 [ICON_Strength] Combat Strength when attacking a Member unit with a City Strike.</Text>
+		</Row>
+		<!-- |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| -->
+		<Row Tag="LOC_EMERGENCY_MEMBER_BUFF_DESCRIPTION_SETTLEMENT_MOVEMENT">
+			<Text>Member units gain +1 [ICON_Movement] Movement.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_TARGET_BUFF_DESCRIPTION_SETTLEMENT_MOVEMENT">
+			<Text>Target units gain +1 [ICON_Movement] Movement.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_MEMBER_REWARD_DESCRIPTION_SETTLEMENT_GOLD_PER_TURN">
+			<Text>Members gain +1 Gold per turn.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_TARGET_REWARD_DESCRIPTION_SETTLEMENT_GOLD_PER_TURN">
+			<Text>Target gains +1 Gold per turn.</Text>
+		</Row>
+		<!-- |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| -->
+		<Row Tag="LOC_EMERGENCY_NAME_CITY_STATE">
+			<Text>City-State Emergency</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_FLAVOR_CITY_STATE">
+			<Text>"We honor the independence of City-States, and will not turn a blind eye to this conquest."</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_DESCRIPTION_CITY_STATE">
+			<Text>{TargetName} has captured {OldCityName}.  The conquest of {OldCityName} is a matter of great concern.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_EXTRA_EFFECTS_CITY_STATE">
+			<Text>All Members will have Peace, Open Borders, and Shared Visibility with each other.  All Members will go to War with the Target.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_MEMBER_REWARD_DESCRIPTION_CITY_STATE_GOLD_PER_ENVOY">
+			<Text>Members gain +1 [ICON_Gold] Gold per turn for each of their [ICON_Envoy] Envoys.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_TARGET_REWARD_DESCRIPTION_CITY_STATE_GOLD_FOR_TRADE_ROUTES">
+			<Text>Target [ICON_TradeRoute] Trade Routes to City-States grant +2 [ICON_Gold] Gold per turn.</Text>
+		</Row>
+		<!-- |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| -->
+		<Row Tag="LOC_EMERGENCY_NAME_RELIGIOUS">
+			<Text>Religious Emergency</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_FLAVOR_RELIGIOUS">
+			<Text>"The cries of the faithful rise to heaven, and on earth, we are moved to righteous fury."</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_DESCRIPTION_RELIGIOUS">
+			<Text>{TargetName} has converted {OldCityName}, the Holy City of {OldReligion}, to {NewReligion}.  It appears that {TargetName} is unwilling to co-exist peacefully with the other great Religions of the world.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_MEMBER_REWARD_DESCRIPTION_RELIGIOUS_RELICS">
+			<Text>Each Member gains a Relic.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_TARGET_REWARD_DESCRIPTION_RELIGIOUS_PRESSURE">
+			<Text>The Target's Religion releases a burst of Pressure in all nearby cities.</Text>
+		</Row>
+		<!-- |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| -->
+		<Row Tag="LOC_EMERGENCY_NAME_SPYING">
+			<Text>Spying Emergency</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_DESCRIPTION_SPYING">
+			<Text>Everybody spies, but this guy got caught!  Let's do something about that!</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_GOAL_SPYING">
+			<Text>Capture a Target Spy using Lay Trap in a City where the Target is doing an Operation.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_MEMBER_BUFF_DESCRIPTION_SPYING_ACTION">
+			<Text>Member Spies gain a new action in Member Cities: Lay Trap.  If a Target Spy attempts an Operation in this City, they will be caught in the trap.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_MEMBER_REWARD_DESCRIPTION_SPYING_SPY_KILLER">
+			<Text>The captured Spy is killed.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_MEMBER_REWARD_DESCRIPTION_SPYING_FORTITUDE">
+			<Text>It will be more difficult for the Target to complete Spy Operations in Member cities.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_TARGET_REWARD_DESCRIPTION_SPYING_FREE_SPY">
+			<Text>The Target gains 1 additional Spy.</Text>
+		</Row>
+		<!-- |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| -->
+		<Row Tag="LOC_EMERGENCY_NAME_NUCLEAR">
+			<Text>Nuclear Emergency</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_FLAVOR_NUCLEAR">
+			<Text>"Hideous forces, employed to hideous ends. Never again!"</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_DESCRIPTION_NUCLEAR">
+			<Text>{TargetName} has used the most powerful weapon in the world, and the nuclear genie is out of the bottle. Is our extinction at hand?</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_EXTRA_EFFECTS_NUCLEAR">
+			<Text>In addition, all Members will have Peace, Open Borders, and Shared Visibility with each other.  All Members will go to War with the Target.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_MEMBER_BUFF_DESCRIPTION_NUCLEAR_MOVEMENT">
+			<Text>Member units gain +1 [ICON_Movement] movement in the Target's territory.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_MEMBER_BUFF_DESCRIPTION_NUCLEAR_COMBAT_STRENGTH">
+			<Text>Target units have -2 [ICON_Strength] Combat Strength when fighting Member units</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_MEMBER_REWARD_DESCRIPTION_NUCLEAR_COMBAT_STRENGTH">
+			<Text>Target units have -3 [ICON_Strength] Combat Strength when fighting Member units</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_TARGET_REWARD_DESCRIPTION_NUCLEAR_CULTURE_SCARE">
+			<Text>Member cities exert one less Loyalty pressure.</Text>
+		</Row>
+		<!-- |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| -->
+		<Row Tag="LOC_EMERGENCY_NAME_BACKSTAB">
+			<Text>Betrayal Emergency</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_FLAVOR_BACKSTAB">
+			<Text>"Open, honest war is surely less hateful than this deceitful diplomacy."</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_DESCRIPTION_BACKSTAB">
+			<Text>{TargetName} has struck a treacherous blow, declaring war on {OldPlayerName}, a long-time friend!  It appears that none are safe from {TargetName}'s aggression.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_EXTRA_EFFECTS_BACKSTAB">
+			<Text>In addition, all Members will have Peace, Open Borders, and Shared Visibility with each other.  All Members will go to War with the Target.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_MEMBER_BUFF_DESCRIPTION_BACKSTAB_MOVEMENT">
+			<Text>Member units gain +1 [ICON_Movement] movement in the Target's territory.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_MEMBER_BUFF_DESCRIPTION_BACKSTAB_COMBAT_STRENGTH">
+			<Text>Target units have -3 [ICON_Strength] Combat Strength when fighting Member units</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_MEMBER_BUFF_DESCRIPTION_BACKSTAB_CANCEL_TRADE_ROUTES">
+			<Text>All Trade Routes between the Members and the Target are canceled.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_MEMBER_BUFF_DESCRIPTION_BACKSTAB_TRADING">
+			<Text>All Trade Routes between Members grant +2 [ICON_Production] Production.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_MEMBER_REWARD_DESCRIPTION_MILITARY_COMBAT_STRENGTH">
+			<Text>Target units have -3 [ICON_Strength] Combat Strength when fighting Member units</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_TARGET_REWARD_DESCRIPTION_MILITARY_WAR_WEARINESS">
+			<Text>The Target will receive reduced War Weariness when at war with Members.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_TAB_COMPLETED">
+			<Text>Completed</Text>
+		</Row>
+		<!-- |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| -->
+		<!--Spy-->
+		<Row Tag="LOC_UNITOPERATION_SPY_FABRICATE_SCANDAL_DESCRIPTION">
+			<Text>Fabricate Scandal</Text>
+		</Row>
+		<Row Tag="LOC_UNITOPERATION_SPY_FOMENT_UNREST_DESCRIPTION">
+			<Text>Foment Unrest</Text>
+		</Row>
+		<Row Tag="LOC_UNITOPERATION_SPY_NEUTRALIZE_GOVERNOR_DESCRIPTION">
+			<Text>Neutralize Governor</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGE_FABRIRCATE_SCANDAL_REWARD">
+			<Text>removing enemy Envoys</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGE_FOMENT_UNREST_REWARD">
+			<Text>reducing Loyalty and increasing our Loyalty</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGE_NEUTRALIZE_GOVERNOR_REWARD">
+			<Text>disabling the enemy [ICON_Governor] Governor</Text>
+		</Row>
+		<Row Tag="LOC_SPYMISSIONDETAILS_UNITOPERATION_SPY_FABRICATE_SCANDAL">
+			<Text>Forcing the top competitors to lose {1_EnvoyString}</Text>
+		</Row>
+		<Row Tag="LOC_SPYMISSIONDETAILS_UNITOPERATION_SPY_FOMENT_UNREST">
+			<Text>Reduce enemy Loyalty by {1_LoyaltyString}</Text>
+		</Row>
+		<Row Tag="LOC_SPYMISSIONDETAILS_UNITOPERATION_SPY_NEUTRALIZE_GOVERNOR">
+			<Text>Remove the enemy [ICON_Governor] Governor from duty for {1_TurnString}</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGE_FABRICATE_SCANDAL_ESTIMATE">
+			<Text>{1_Amount} [ICON_Envoy] Envoys</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGE_FOMENT_UNREST_ESTIMATE">
+			<Text>{1_Amount}</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGE_NEUTRALIZE_GOVERNOR_ESTIMATE">
+			<Text>{1_Amount} turns</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SPY_SMEAR_CAMPAIGN_NAME">
+			<Text>Smear Campaign</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SPY_COVERT_ACTION_NAME">
+			<Text>Covert Action</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SPY_LICENSE_TO_KILL_NAME">
+			<Text>License to Kill</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SPY_SMEAR_CAMPAIGN_DESCRIPTION">
+			<Text>Fabricate Scandal as if 2 levels more experienced.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SPY_COVERT_ACTION_DESCRIPTION">
+			<Text>Foment Unrest as if 2 levels more experienced.</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SPY_LICENSE_TO_KILL_DESCRIPTION">
+			<Text>Neutralize Governor as if 2 levels more experienced.</Text>
+		</Row>
+		<!--Diplomacy modifiers-->
+		<Row Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_BROKEN_PLEDGE">
+			<Text>Broke a pledge to move troops from their border</Text>
+		</Row>
+		<Row Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_KEPT_PLEDGE">
+			<Text>Kept a pledge to move troops from their border</Text>
+		</Row>
+		<Row Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_NO_PLEDGE">
+			<Text>Decided to not make a pledge to move troops</Text>
+		</Row>
+		<!--OPERATIONS AND COMMANDS TEXT-->
+		<Row Tag="LOC_UNITCOMMAND_PARADROP_DESCRIPTION">
+			<Text>Paradrop</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_PARADROP_FAILURE_IN_ZOC">
+			<Text>In Enemy Zone of Control</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_PARADROP_FAILURE_FRIENDLY_TERRITORY">
+			<Text>Must be in friendly territory or adjacent to a Airstrip or Aerodrome.</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_PARADROP_FAILURE_REQUIRES_FULL_MOVEMENT">
+			<Text>Requires full movement</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_PROJECT_PRODUCTION_DESCRIPTION">
+			<Text>Add [ICON_Production] Production to a project.  Only once per city per turn.</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_PRIORITY_TARGET_DESCRIPTION">
+			<Text>Priority Target</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_IDENTITY_PRESSURE">
+			<Text>Loyalty per turn</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_DETAILS_TURNS_TO_ESTABLISH">
+			<Text>Turns to Establish</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_IDENTITY_PRESSURE_TOOLTIP">
+			<Text>The amount of Loyalty per turn towards your civilization that this Governor provides for the city.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_TRANSITION_STRENGTH">
+			<Text>Transition Strength</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_TRANSITION_STRENGTH_TOOLTIP">
+			<Text>The speed at which this Governor becomes established in a city.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_ASSIGN_GOVERNOR_TO">
+			<Text>Assign Governor to...</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_SELECT_A_CITY">
+			<Text>Select a city...</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_NO_PREVIOUS_GOVERNOR">
+			<Text>No Previous Governor</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_TURNS_TO_ESTABLISH">
+			<Text>Number of turns before the governor will be established.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_SKILL_TREE">
+			<Text>Skill Tree</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTE">
+			<Text>Promote</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNORS_SCREEN_BUTTON_ASSIGN_GOVERNOR">
+			<Text>Assign</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNORS_SCREEN_BUTTON_REASSIGN_GOVERNOR">
+			<Text>Reassign</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNORS_SCREEN_ABILITIES">
+			<Text>ABILITIES</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNORS_SCREEN_GOVERNOR_ABILITIES">
+			<Text>GOVERNOR ABILITIES</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNORS_SCREEN_GOVERNOR_ABILITIES_SUBTEXT">
+			<Text>Spend Governor Titles on Promotions</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_GOVERNOR_TITLES">
+			<Text>Governor Titles: {1_PointsAvailable}</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_GOVERNOR_TITLES_AVAILABLE">
+			<Text>GOVERNOR TITLES AVAILABLE: {1_PointsAvailable}</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_GOVERNOR_TITLES_SPENT">
+			<Text>SPENT: {1_PointsSpent}</Text>
+		</Row>
+		<Row Tag="LOC_HISTORY_TIMELINE_TITLE">
+			<Text>History of the {1_PlayerCiv}</Text>
+		</Row>
+		<Row Tag="LOC_HISTORY_NEW_MOMENT">
+			<Text>{1_PlayerCiv} Makes History</Text>
+		</Row>
+		<Row Tag="LOC_HISTORY_MOMENT_EFFECTS">
+			<Text>{1_MomentDate}    \|    Turn {2_MomentTurn}    \|    {3_MomentScore} Era Score</Text>
+		</Row>
+		<Row Tag="LOC_HISTORY_MOMENT_EFFECTS_NO_SCORE">
+			<Text>{1_MomentDate}    \|    Turn {2_MomentTurn}</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_LOYALTY_PERCENTAGE">
+			<Text>Loyalty: {1_CurrentLoyalty}/{2_MaxLoyalty} ({3_LoyaltyIcon}{4_LoyaltyPerTurn})</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_POSITIVE_PRESSURE">
+			<Text>+{1_Value}</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_GOVERNORS_PRESSURE_TOOLTIP">
+			<Text>[ICON_Governor] Governor placed here</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_MY_CITIES_PRESSURE_TOOLTIP">
+			<Text>Owner's [ICON_Citizen] Citizens within 9 tiles</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_THEIR_CITIES_PRESSURE_TOOLTIP">
+			<Text>Other civilizations' [ICON_Citizen] Citizens within 9 tiles</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_INDEPENDENCE_PRESSURE_TOOLTIP">
+			<Text>Desire for independence</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_HAPPINESS_PRESSURE_TOOLTIP">
+			<Text>Happiness level</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_OTHER_PRESSURE_TOOLTIP">
+			<Text>Other effects here</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_CITY_STATES_PRESSURE_TOOLTIP">
+			<Text>Base strength as a City-State</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_FREE_CITIES_PRESSURE_TOOLTIP">
+			<Text>Base strength as a Free City</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_POPULATION_PRESSURE_TOOLTIP">
+			<Text>Pressure from nearby [ICON_Citizen] Citizens</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_POPULATION_PRESSURE_TOOLTIP_MAJOR_CIVS">
+			<Text>Ranges from +20 to -20, based on the comparison of pressure coming from nearby [ICON_Citizen] Citizens belonging to the city's owner and nearby [ICON_Citizen] Citizens belonging to a different civilization.[NEWLINE][ICON_Bullet]1 Pressure per [ICON_Citizen] Citizen normally[NEWLINE][ICON_BULLET]Increased in [ICON_Capital] Capital[NEWLINE][ICON_BULLET]Can be affected by Golden Ages, Dark Ages, and the Bread and Circuses city project[NEWLINE][ICON_BULLET]Also applies to other cities within 9 tiles, but is 10% less effective per tile</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_POPULATION_PRESSURE_TOOLTIP_MINOR_CIVS">
+			<Text>Ranges from +20 to -20, based on the comparison of pressure coming from nearby [ICON_Citizen] Citizens belonging to the city's owner and nearby [ICON_Citizen] Citizens belonging to a different civilization.[NEWLINE][ICON_Bullet]1 Pressure per [ICON_Citizen] Citizen normally[NEWLINE][ICON_BULLET]Increased in [ICON_Capital] Capital</Text>
+		</Row>
+		<!-- Dedications-->
+		<Row Tag="LOC_TECH_BOOST_DEDICATION_NOTIFICATION">
+			<Text>You have triggered a [ICON_TechBoosted] Eureka.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_BOOST_DEDICATION_NOTIFICATION">
+			<Text>You have triggered an [ICON_CivicBoosted] Inspiration.</Text>
+		</Row>
+		<Row Tag="LOC_RELIGIOUS_CONVERSION_DEDICATION_NOTIFICATION">
+			<Text>You have converted a city to your founded Religion for the first time.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_COMPLETION_DEDICATION_NOTIFICATION">
+			<Text>You have constructed a new District.</Text>
+		</Row>
+		<Row Tag="LOC_TRADE_ROUTE_DEDICATION_NOTIFICATION">
+			<Text>You have completed a [ICON_TradeRoute] Trade Route.</Text>
+		</Row>
+		<Row Tag="LOC_MAP_DISCOVERY_DEDICATION_NOTIFICATION">
+			<Text>You have discovered a new Continent or Natural Wonder.</Text>
+		</Row>
+		<Row Tag="LOC_CORPS_KILL_DEDICATION_NOTIFICATION">
+			<Text>You have destroyed a corps.</Text>
+		</Row>
+		<Row Tag="LOC_ARMY_KILL_DEDICATION_NOTIFICATION">
+			<Text>You have destroyed an army.</Text>
+		</Row>
+		<Row Tag="LOC_NAVAL_UNIT_KILL_DEDICATION_NOTIFICATION">
+			<Text>You have destroyed a non-Barbarian naval unit.</Text>
+		</Row>
+		<Row Tag="LOC_SCIENCE_BUILDING_DEDICATION_NOTIFICATION">
+			<Text>You have constructed a building that provides [ICON_Science] Science as a base yield.</Text>
+		</Row>
+		<Row Tag="LOC_CULTURE_BUILDING_DEDICATION_NOTIFICATION">
+			<Text>You have constructed a building with a Great Work slot.</Text>
+		</Row>
+		<Row Tag="LOC_INDUSTRIAL_BUILDING_DEDICATION_NOTIFICATION">
+			<Text>You have constructed a building from the Industrial Era or later.</Text>
+		</Row>
+		<Row Tag="LOC_AERODROME_BUILDING_DEDICATION_NOTIFICATION">
+			<Text>You have constructed a building in the Aerodrome district.</Text>
+		</Row>
+		<Row Tag="LOC_SPY_MISSION_DEDICATION_NOTIFICATION">
+			<Text>You have completed a successful offensive Spy operation.</Text>
+		</Row>
+		<Row Tag="LOC_ARTIFACT_EXTRACTION_DEDICATION_NOTIFICATION">
+			<Text>You have extracted an [ICON_GreatWork_Artifact] Artifact.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_EARNED_NOTIFICATION">
+			<Text>You have earned a [ICON_GreatPerson] Great Person.</Text>
+		</Row>
+		<!-- Scoring -->
+		<Row Tag="LOC_CATEGORY_ERA_SCORE_NAME">
+			<Text>Era Score</Text>
+		</Row>
+		<Row Tag="LOC_CITY_STATE_PANEL_HAS_AMBASSADOR_TOOLTIP">
+			<Text>Civilizations that have assigned their Diplomat [ICON_Governor] Governor to this city-state:</Text>
+		</Row>
+		<Row Tag="LOC_CITY_STATE_PANEL_HAS_AMBASSADOR_TOOLTIP_ENTRY">
+			<Text>[NEWLINE][ICON_Bullet]{1_CivName} ({2_PlayerName})</Text>
+		</Row>
+		<Row Tag="LOC_CITY_STATE_PANEL_HAS_AMBASSADOR_TOOLTIP_ENTRY_UNMET">
+			<Text>[NEWLINE][ICON_Bullet]{1_CivName}</Text>
+		</Row>
+		<Row Tag="LOC_CITY_STATE_PANEL_CIV_AMBASSADOR_TOOLTIP">
+			<Text>{1_CivName} has assigned a Diplomat to this city-state.</Text>
+		</Row>
+		<Row Tag="LOC_CITY_BANNER_HAS_AMBASSADOR_TOOLTIP_ENTRY_LIMITED">
+			<Text>[NEWLINE][ICON_Bullet]{1_CivName} ({2_PlayerName})</Text>
+		</Row>
+		<Row Tag="LOC_CITY_BANNER_HAS_AMBASSADOR_TOOLTIP_ENTRY_FULL">
+			<Text>[NEWLINE][ICON_Bullet]{1_CivName} ({2_PlayerName}) - {3_EstablishInfo}</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_INHERENT_BONUS">
+			<Text>Major bonus</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_ACCUMULATED_BONUS">
+			<Text>Minor bonus</Text>
+		</Row>
+		<Row Tag="LOC_TECH_SCIENTIFIC_THEORY_DESCRIPTION">
+			<Text>+1 [ICON_Food] Food from the Plantation improvement.</Text>
+		</Row>
+		<Row Tag="LOC_GAME_MENU_NEW_FEATURES">
+			<Text>New Features</Text>
+		</Row>
+		<Row Tag="LOC_GAME_MENU_NEW_FEATURES_TOOLTIP">
+			<Text>Review the new features in the current expansion.</Text>
+		</Row>
+		<Row Tag="LOC_XP1_INTRO_NEXT">
+			<Text>Next</Text>
+		</Row>
+		<Row Tag="LOC_XP1_INTRO_PREVIOUS">
+			<Text>Previous</Text>
+		</Row>
+		<Row Tag="LOC_XP1_INTRO_CONTINUE">
+			<Text>Continue</Text>
+		</Row>
+		<Row Tag="LOC_XP_INTRO_HIDETHIS">
+			<Text>Don't show this again</Text>
+		</Row>
+		<Row Tag="LOC_END_GAME_MENU_HISTORIAN_BUTTON">
+			<Text>View Timeline</Text>
+		</Row>
+		<Row Tag="LOC_END_GAME_MENU_EXPORT_HISTORIAN_BUTTON">
+			<Text>Export Timeline</Text>
+		</Row>
+		<Row Tag="LOC_LOYALTY_CITY_IS_LOYAL_TO_TT">
+			<Text>City is Loyal to {1_CivName}</Text>
+		</Row>
+		<Row Tag="LOC_LOYALTY_CITY_WILL_FALL_TO_TT">
+			<Text>City will fall to {1_CivName} when Loyalty reaches 0</Text>
+		</Row>
+		<Row Tag="LOC_LOYALTY_IS_RISING_BY_X_TT">
+			<Text>Loyalty to {1_CivName} is Rising {2_PointsPerTurn} {2_PointsPerTurn : plural 1?point; other?points;} per turn</Text>
+		</Row>
+		<Row Tag="LOC_LOYALTY_IS_DROPPING_BY_X_TT">
+			<Text>Loyalty to {1_CivName} is Falling {2_PointsPerTurn} {2_PointsPerTurn : plural 1?point; other?points;} per turn</Text>
+		</Row>
+		<Row Tag="LOC_LOYALTY_IS_NOT_CHANGING_TT">
+			<Text>Loyalty to {1_CivName} will not change next turn</Text>
+		</Row>
+		<Row Tag="LOC_LOYALTY_STATUS_TT">
+			<Text>{1_LoyaltyIcon} LOYALTY {2_CurrentLoyalty}/{3_MaxLoyalty}[NEWLINE]Status: {4_LoyaltyStatus}</Text>
+		</Row>
+		<Row Tag="LOC_TECH_TREE_ALLIANCE_TT">
+			<Text>Actively research the same Technology as your Research Ally to maintain a per-turn [ICON_Science] Science boost.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_TREE_ALLIANCE_BONUS_TT">
+			<Text>Receiving Level 3 Research Alliance Science Bonus.[NEWLINE]Researching the same Technology as your Research Ally maintains a per-turn [ICON_Science] Science boost.</Text>
+		</Row>
+		<Row Tag="LOC_LOYALTY_MAX_LOYALTY_TT">
+			<Text>City is fully Loyal and gaining Loyalty per turn</Text>
+		</Row>
+		<Row Tag="LOC_LOYALTY_NO_CHANGE_TT">
+			<Text>No change</Text>
+		</Row>
+		<Row Tag="LOC_LOYALTY_RISING_LOYALTY_TT">
+			<Text>Rising {1_LoyaltyPerTurn}</Text>
+		</Row>
+		<Row Tag="LOC_LOYALTY_FALLING_LOYALTY_TT">
+			<Text>Falling {1_LoyaltyPerTurn}</Text>
+		</Row>
+		<!-- Replay DataSets -->
+		<Row Tag="LOC_REPLAYDATASET_ERASCORE_NAME">
+			<Text>Era Score per-turn</Text>
+		</Row>
+		<Row Tag="LOC_REPLAYDATASET_GOVERNORS_NAME">
+			<Text>Total Governors</Text>
+		</Row>
+		<Row Tag="LOC_REPLAYDATASET_GOVERNORTITLES_NAME">
+			<Text>Total Governor Titles</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_FILTER_DARK">
+			<Text>Dark</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_FISHERY_NAME">
+			<Text>Fishery</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_FISHERY_DESCRIPTION">
+			<Text>A [ICON_Governor] Governor unique improvement that can be built in a city with a Surveyor Governor with the Aquaculture promotion. Yields 1 [ICON_Food] Food, +1 additional [ICON_Food] Food if adjacent to a sea resource. Must be built on a coastal plot.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_CITY_PARK_NAME">
+			<Text>City Park</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_CITY_PARK_DESCRIPTION">
+			<Text>A [ICON_Governor] Governor unique improvement that can be built in a city with a Surveyor Governor with the Parks and Recreation promotion. Yields 2 Appeal and 1 [ICON_Culture] Culture. +1 [ICON_Amenities] Amenity if adjacent to water. Cannot be adjacent to another City Park.</Text>
+		</Row>
+		<!-- MISC -->
+		<Row Tag="LOC_CIVILIZATION_NOT_ABLE_TO_DECLARE_SURPRISE_WAR">
+			<Text>Your Civilization may not declare a surprise war; this includes declaring war on a City State.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_JERUSALEM_DESCRIPTION_EXPANSION">
+			<Text>Your cities with Holy Sites exert pressure as if they were Holy Cities (4x Religion pressure on all cities within 10 tiles).</Text>
+		</Row>
+		<!-- Type Traits-->
+		<Row Tag="LOC_TYPE_TRAIT_GOVERNOR_POINTS">
+			<Text>{1_Amount: number +#,###.#;-#,###.#} [ICON_STAT_GOVERNOR] Governor Points</Text>
+		</Row>
+		<Row Tag="LOC_TYPE_TRAIT_GOVERNOR_POINTS_WITH_REQUIREMENT">
+			<Text>{1_Amount: number +#,###.#;-#,###.#} [ICON_STAT_GOVERNOR] Governor Points (requires {2_TechOrCivicName})</Text>
+		</Row>
+		<Row Tag="LOC_TYPE_TRAIT_REQUIRES_GOVERNMENT_TIER">
+			<Text>Required Government Tier: {1_GovernmentTier}</Text>
+		</Row>
+	</EnglishText>
+</GameData>

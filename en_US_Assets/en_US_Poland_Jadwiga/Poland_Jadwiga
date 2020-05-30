@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Mod id="3809975F-263F-40A2-A747-8BFB171D821A" version="1">
+	<Properties>
+		<Name>LOC_POLAND_JADWIGA_MOD_TITLE</Name>
+		<Teaser>LOC_POLAND_JADWIGA_MOD_TEASER</Teaser>
+		<Description>LOC_POLAND_JADWIGA_MOD_DESCRIPTION</Description>
+		<Authors>LOC_MOD_AUTHORS_FIRAXIS</Authors>
+		<EnabledByDefault>1</EnabledByDefault>
+    <CompatibleVersions>2.0</CompatibleVersions>
+	</Properties>
+	<ReverseReferences>
+		<Mod id="1B28771A-C749-434B-9053-D1380C553DE9" title="LOC_EXPANSION1_MOD_TITLE"/>
+		<Mod id="4873eb62-8ccc-4574-b784-dda455e74e68" title="LOC_EXPANSION2_MOD_TITLE"/>
+	</ReverseReferences>
+	<ActionCriteria>
+		<Criteria id="PolandJadwiga" any="1">
+			<LeaderPlayable>Players:StandardPlayers::LEADER_JADWIGA,StandardPlayers::LEADER_JADWIGA,Players:Expansion1_Players::LEADER_JADWIGA,Players:Expansion2_Players::LEADER_JADWIGA</LeaderPlayable>
+			<RuleSetInUse>RULESET_STANDARD,RULESET_EXPANSION_1,RULESET_EXPANSION_2</RuleSetInUse>
+		</Criteria>
+		<Criteria id="PolandJadwiga_Expansion1" any="1">
+			<LeaderPlayable>Players:Expansion1_Players::LEADER_JADWIGA</LeaderPlayable>
+			<RuleSetInUse>RULESET_EXPANSION_1</RuleSetInUse>
+		</Criteria>
+		<Criteria id="PolandJadwiga_Expansion2" any="1">
+			<LeaderPlayable>Players:Expansion2_Players::LEADER_JADWIGA</LeaderPlayable>
+			<RuleSetInUse>RULESET_EXPANSION_2</RuleSetInUse>
+		</Criteria>
+	</ActionCriteria>
+	<InGameActions>
+		<UpdateArt id="PolandJadwigaArt" criteria="PolandJadwiga">
+			<File>DLC2.dep</File>
+		</UpdateArt>
+		<UpdateAudio id="PolandJadwigaAudio" criteria="PolandJadwiga">
+			<File>Platforms/Windows/Audio/DLC02Banks.ini</File>
+			<File>Platforms/Windows/Audio/DLC02_Leader_SFX.bnk</File>
+			<File>Platforms/Windows/Audio/DLC02_Leader_SFX.txt</File>
+			<File>Platforms/Windows/Audio/DLC02_Leader_SFX.xml</File>
+			<File>Platforms/Windows/Audio/DLC02_Speech.bnk</File>
+			<File>Platforms/Windows/Audio/DLC02_Speech.txt</File>
+			<File>Platforms/Windows/Audio/DLC02_Speech.xml</File>
+		</UpdateAudio>
+		<UpdateColors id="PolandJadwigaColors" criteria="PolandJadwiga">
+			<File>Data/Poland_Jadwiga_Colors.xml</File>
+		</UpdateColors>
+		<UpdateDatabase id="PolandJadwigaGameplay" criteria="PolandJadwiga">
+			<File>Data/Poland_Jadwiga_GameplayData.xml</File>
+		</UpdateDatabase>
+		<UpdateDatabase id="PolandJadwigaGameplay_XP1" criteria="PolandJadwiga_Expansion1">
+			<File>Data/Poland_Jadwiga_Expansion1.xml</File>
+		</UpdateDatabase>
+		<UpdateDatabase id="PolandJadwigaGameplay_XP2" criteria="PolandJadwiga_Expansion2">
+			<File>Data/Poland_Jadwiga_Expansion2.xml</File>
+		</UpdateDatabase>
+		<UpdateIcons id="PolandJadwigaIcons" criteria="PolandJadwiga">
+			<File>Data/Poland_Jadwiga_Icons_Buildings.xml</File>
+			<File>Data/Poland_Jadwiga_Icons_Civilizations.xml</File>
+			<File>Data/Poland_Jadwiga_Icons_Leaders.xml</File>
+			<File>Data/Poland_Jadwiga_Icons_UnitPortraits.xml</File>
+			<File>Data/Poland_Jadwiga_Icons_Units.xml</File>
+		</UpdateIcons>
+		<UpdateLogitechARX id="PolandJadwigaARX" criteria="PolandJadwiga">
+			<File>Data/ARX/Civ_LEADER_JADWIGA.png</File>
+		</UpdateLogitechARX>
+		<UpdateText id="PolandJadwigaText" criteria="PolandJadwiga">
+			<File>Text/en_US/Poland_Jadwiga_ConfigText.xml</File>
+			<File>Text/en_US/Poland_Jadwiga_GameplayText.xml</File>
+			<File>Text/Poland_Translations_ConfigText.xml</File>
+			<File>Text/Poland_Translations_ConfigText_China.xml</File>
+			<File>Text/Poland_Translations_Text.xml</File>
+			<File>Text/Poland_Translations_Text_China.xml</File>
+		</UpdateText>
+	</InGameActions>
+	<FrontEndActions>
+		<UpdateArt id="PolandJadwigaSettingsArt">
+			<File>DLC2.dep</File>
+		</UpdateArt>
+		<UpdateColors id="PolandJadwigaSettingsColors">
+			<File>Data/Poland_Jadwiga_Colors.xml</File>
+		</UpdateColors>
+		<UpdateDatabase id="PolandJadwigaSettings">
+			<File>Data/Poland_Jadwiga_ConfigData.xml</File>
+		</UpdateDatabase>
+		<UpdateIcons id="PolandJadwigaSettingsIcons">
+			<File>Data/Poland_Jadwiga_Icons_Buildings.xml</File>
+			<File>Data/Poland_Jadwiga_Icons_Civilizations.xml</File>
+			<File>Data/Poland_Jadwiga_Icons_Leaders.xml</File>
+			<File>Data/Poland_Jadwiga_Icons_Units.xml</File>
+		</UpdateIcons>
+		<UpdateText id="PolandJadwigaSettingsText">
+			<File>Text/en_US/Poland_Jadwiga_ConfigText.xml</File>
+			<File>Text/Poland_Translations_ConfigText.xml</File>
+		</UpdateText>
+	</FrontEndActions>
+	<Files>
+		<File>DLC2.dep</File>
+		<File>Data/ARX/Civ_LEADER_JADWIGA.png</File>
+		<File>Data/Poland_Jadwiga_ConfigData.xml</File>
+		<File>Data/Poland_Jadwiga_Colors.xml</File>
+		<File>Data/Poland_Jadwiga_Expansion1.xml</File>
+		<File>Data/Poland_Jadwiga_Expansion2.xml</File>
+		<File>Data/Poland_Jadwiga_GameplayData.xml</File>
+		<File>Data/Poland_Jadwiga_Icons_Buildings.xml</File>
+		<File>Data/Poland_Jadwiga_Icons_Civilizations.xml</File>
+		<File>Data/Poland_Jadwiga_Icons_Leaders.xml</File>
+		<File>Data/Poland_Jadwiga_Icons_UnitPortraits.xml</File>
+		<File>Data/Poland_Jadwiga_Icons_Units.xml</File>
+		<File>Platforms/Windows/Audio/DLC02Banks.ini</File>
+		<File>Platforms/Windows/Audio/DLC02_Leader_SFX.bnk</File>
+		<File>Platforms/Windows/Audio/DLC02_Leader_SFX.txt</File>
+		<File>Platforms/Windows/Audio/DLC02_Leader_SFX.xml</File>
+		<File>Platforms/Windows/Audio/DLC02_Speech.bnk</File>
+		<File>Platforms/Windows/Audio/DLC02_Speech.txt</File>
+		<File>Platforms/Windows/Audio/DLC02_Speech.xml</File>
+		<File>Text/Poland_Translations_ConfigText.xml</File>
+		<File>Text/Poland_Translations_ConfigText_China.xml</File>
+		<File>Text/Poland_Translations_Text.xml</File>
+		<File>Text/Poland_Translations_Text_China.xml</File>
+		<File>Text/en_US/Poland_Jadwiga_ConfigText.xml</File>
+		<File>Text/en_US/Poland_Jadwiga_GameplayText.xml</File>
+	</Files>
+</Mod>

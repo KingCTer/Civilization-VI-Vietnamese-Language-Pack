@@ -1,0 +1,2214 @@
+<GameData>
+	<EnglishText>
+    <Row Tag="LOC_CULTURAL_IDENTITY_PER_TURN_OCCUPATION_XP2">
+      <Text>Occupation ([ICON_GRIEVANCE] Grievances with City Founder)</Text>
+    </Row>
+    <Row Tag="LOC_HUD_REPORTS_FILTER_CLIMATE">
+      <Text>[ICON_GOSSIP_CLIMATE] Climate</Text>
+    </Row>
+    <Row Tag="LOC_CULTURAL_IDENTITY_PER_TURN_Grievances_XP2">
+      <Text>Grievances with City Founder</Text>
+    </Row>
+		<Row Tag="LOC_CITY_BANNER_POWERED_CITY">
+			<Text>{1_PowerRequired} [ICON_Power] Power can be used to enhance this city, and it is fully powered.[NEWLINE][ICON_Bullet]{2_PowerFromFreeSources} [ICON_Power] Power from local renewable sources[NEWLINE][ICON_Bullet]{3_PowerFromResources} [ICON_Power] Power from resources consumed this turn</Text>
+		</Row>
+		<Row Tag="LOC_CITY_BANNER_UNPOWERED_CITY">
+			<Text>{1_PowerRequired} [ICON_Power] Power can be used to enhance this city, but it is not fully powered. Buildings or Projects with a [ICON_Power] Power Load are temporarily less effective.[NEWLINE][ICON_Bullet]{2_PowerFromFreeSources} [ICON_Power] Power from local renewable sources[NEWLINE][ICON_Bullet]{3_PowerFromResources} [ICON_Power] Power from resources consumed this turn</Text>
+		</Row>
+		<Row Tag="LOC_CITY_BANNER_POWERED_CITY_FROM_ACTIVE_PROJECT">
+			<Text>[ICON_Bullet]Full [ICON_Power] Power from the city's active project</Text>
+		</Row>
+    <Row Tag="LOC_HUD_CITY_POWER_TOOLTIP">
+      <Text>Power</Text>
+    </Row>
+		<Row Tag="LOC_HUD_RIBBON_FAVOR">
+			<Text>Diplomatic Favor balance</Text>
+		</Row>
+		<Row Tag="LOC_POWER_REQUIREMENT_MISC">
+      <Text>{LOC_PROJECT_TERRESTRIAL_LASER_SHORT_NAME}</Text>
+    </Row>
+    <Row Tag="LOC_POWER_TEMPORARY_ACTIVE_PROJECT_SOURCE_ENTRY">
+      <Text>{LOC_PROJECT_ENHANCE_DISTRICT_INDUSTRIAL_ZONE_NAME}</Text>
+    </Row>
+    <Row Tag="LOC_POWER_TEMPORARY_SOURCE_ENTRY">
+      <Text>[ICON_{2_ResourceTypeName}] {3_FromCityName} [ICON_PowerRight] {1_ThisCityName}</Text>
+    </Row>
+    <Row Tag="LOC_POWER_GENERATED_SOURCE_ENTRY">
+    	<Text>[ICON_{2_ResourceTypeName}] {1_ThisCityName} [ICON_PowerRight] {3_ToCityName}</Text>
+    </Row>
+    <Row Tag="LOC_POWER_FREE_SOURCE_ENTRY">
+      <Text>{1_FreePowerSourceName}</Text>
+    </Row>
+    <Row Tag="LOC_POWER_STATUS_NO_POWER_NEEDED_NAME">
+      <Text>Normal</Text>
+    </Row>
+    <Row Tag="LOC_POWER_STATUS_NO_POWER_NEEDED_DESCRIPTION">
+      <Text>This city does not require any [ICON_Power] Power.</Text>
+    </Row>
+    <Row Tag="LOC_POWER_STATUS_POWERED_NAME">
+      <Text>[ICON_Power] Powered</Text>
+    </Row>
+    <Row Tag="LOC_POWER_STATUS_POWERED_DESCRIPTION">
+      <Text>Buildings or Projects which require [ICON_Power] Power are fully effective.</Text>
+    </Row>
+    <Row Tag="LOC_POWER_STATUS_UNPOWERED_NAME">
+      <Text>[ICON_PowerInsufficient] Unpowered</Text>
+    </Row>
+    <Row Tag="LOC_POWER_STATUS_UNPOWERED_DESCRIPTION">
+      <Text>Buildings or Projects which require [ICON_Power] Power are temporarily less effective.</Text>
+    </Row>
+    <Row Tag="LOC_FREE_POWER_SOURCE_GEOTHERMAL">
+      <Text>Geothermal</Text>
+    </Row>
+    <Row Tag="LOC_FREE_POWER_SOURCE_SOLAR">
+      <Text>Solar</Text>
+    </Row>
+    <Row Tag="LOC_FREE_POWER_SOURCE_WATER">
+      <Text>Hydroelectric</Text>
+    </Row>
+    <Row Tag="LOC_FREE_POWER_SOURCE_WIND">
+      <Text>Wind</Text>
+    </Row>
+    <Row Tag="LOC_FREE_POWER_SOURCE_MISC">
+      <Text>Other</Text>
+    </Row>
+    <Row Tag="LOC_POWER_LENS_KEY_POWER_SOURCE">
+      <Text>Power Source</Text>
+    </Row>
+    <Row Tag="LOC_POWER_LENS_KEY_FULLY_POWERED">
+      <Text>Fully Powered</Text>
+    </Row>
+    <Row Tag="LOC_POWER_LENS_KEY_UNDERPOWERED">
+      <Text>Underpowered</Text>
+    </Row>
+    <Row Tag="LOC_POWER_LENS_KEY_POWER_RANGE">
+      <Text>Power Range</Text>
+    </Row>
+		<Row Tag="LOC_ACTION_PANEL_WORLD_CONGRESS_SPECIAL_SESSION">
+			<Text>Consider Proposals</Text>
+		</Row>
+		<Row Tag="LOC_ACTION_PANEL_WORLD_CONGRESS_SPECIAL_SESSION_TOOLTIP">
+			<Text>Last call to submit available proposals to congress before a special session begins.</Text>
+		</Row>
+		<Row Tag="LOC_FLOAT_RESOURCE_CONVERTED_TO_POWER">
+			<Text>{2_ResourceIcon}{1_NumConverted} [ICON_PowerRight]{3_NumPower}</Text>
+		</Row>
+    <Row Tag="LOC_POWER_GENERATED_SOURCE_ON_PLOT">
+      <Text>{2_ResourceIcon}{1_NumConverted} [ICON_PowerRight]{3_NumPower}</Text>
+    </Row>
+    <Row Tag="LOC_POWER_FREE_SOURCE_ON_PLOT">
+      <Text>[ICON_Power]{1_NumPower}</Text>
+    </Row>
+		<Row Tag="LOC_TOOLTIP_POWER_REQUIRED">
+			<Text>Power Load: {1_PowerRequired} [ICON_Power] Power</Text>
+		</Row>
+		<Row Tag="LOC_TOOLTIP_POWER_IN_CITY_NEEDED_FOR_EFFECTS">
+			<Text>When this city has full [ICON_Power] Power, also provides:</Text>
+		</Row>
+		<Row Tag="LOC_TYPE_TRAIT_YIELD_POWERED">
+			<Text>{1_Amount: number +#,###;-#,###} {2_Icon} {3_Name} ([ICON_Power] Powered)</Text>
+		</Row>
+		<Row Tag="LOC_TYPE_TRAIT_YIELD_UNPOWERED">
+			<Text>{1_Amount: number +#,###;-#,###} {2_Icon} {3_Name} ([ICON_PowerInsufficient] Unpowered)</Text>
+		</Row>
+		<Row Tag="LOC_TYPE_TRAIT_YIELD_POWER_ENHANCEMENT">
+			<Text>{1_Amount: number +#,###;-#,###} {2_Icon} {3_Name} additionally when [ICON_Power] Powered</Text>
+		</Row>
+		<Row Tag="LOC_TYPE_TRAIT_AMENITY_ENTERTAINMENT_POWER_ENHANCEMENT">
+			<Text>{1_Amount: number +#,###;-#,###} [ICON_Amenities] {1_Amount : plural 1?Amenity; other?Amenities;} from entertainment additionally when [ICON_Power] Powered</Text>
+		</Row>
+    <Row Tag="LOC_POWER_PANEL_CONSUMED">
+      <Text>[SIZE:16]{1_PowerAmount} [SIZE:12]Usable</Text>
+    </Row>
+    <Row Tag="LOC_POWER_PANEL_OF">
+      <Text>of</Text>
+    </Row>
+    <Row Tag="LOC_POWER_PANEL_REQUIRED">
+      <Text>[SIZE:16]{1_PowerAmount} [SIZE:12]Required</Text>
+    </Row>
+    <Row Tag="LOC_POWER_PANEL_STATUS">
+      <Text>Status:</Text>
+    </Row>
+    <Row Tag="LOC_POWER_PANEL_REQUIRED_POWER">
+      <Text>Required Power</Text>
+    </Row>
+    <Row Tag="LOC_POWER_PANEL_CONSUMED_POWER">
+      <Text>Usable Power</Text>
+    </Row>
+    <Row Tag="LOC_POWER_PANEL_GENERATED_POWER">
+      <Text>Power Plant Output</Text>
+    </Row>
+		<Row Tag="LOC_GRIEVANCE_LOG_TITLE">
+			<Text>CURRENT BALANCE OF GRIEVANCES:</Text>
+		</Row>
+		<Row Tag="LOC_GRIEVANCE_LOG_AGAINST_YOU">
+			<Text>Grievances they have against you:</Text>
+		</Row>
+		<Row Tag="LOC_GRIEVANCE_LOG_AGAINST_THEM">
+			<Text>Grievances you have against them:</Text>
+		</Row>
+		<Row Tag="LOC_GRIEVANCE_LOG_HISTORY">
+			<Text>Grievance History:</Text>
+		</Row>
+		<Row Tag="LOC_GRIEVANCE_LOG_WORLD_FAVORS">
+			<Text>The World currently favors {1_Favored}!</Text>
+		</Row>
+		<Row Tag="LOC_GRIEVANCE_LOG_WORLD_FAVORS_YOU">
+			<Text>The World currently favors YOU!</Text>
+		</Row>
+		<Row Tag="LOC_GRIEVANCE_LOG_WORLD_FAVORS_NONE">
+			<Text>The World currently has no favorite.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_GRIEVANCES_WITH_US_SIMPLE">
+			<Text>{1_Grievances} [ICON_STAT_GRIEVANCE] Grievances against us.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_GRIEVANCES_WITH_THEM_SIMPLE">
+			<Text>{1_Grievances} [ICON_STAT_GRIEVANCE] Grievances against them.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_GRIEVANCES_NONE_SIMPLE">
+			<Text>No Grievances.</Text>
+		</Row>
+		<Row Tag="LOC_GRIEVANCE_LOG_DESCRIPTION_POSITIVE">
+			<Text>Having witnessed your suffering at the hands of {1_Target}, world leaders will turn a blind eye to the next [ICON_GRIEVANCE] {2_Grievances} Grievances you commit against {1_Target}.</Text>
+		</Row>
+		<Row Tag="LOC_GRIEVANCE_LOG_DESCRIPTION_NEGATIVE">
+			<Text>Having witnessed the hardships you put {1_Target} through, world leaders will turn a blind eye to the next [ICON_GRIEVANCE] {2_Grievances} Grievances {1_Target} commits against you.</Text>
+		</Row>
+		<Row Tag="LOC_GRIEVANCE_LOG_DESCRIPTION_DEFAULT">
+			<Text>The leaders of the world are paying close attention to your relationship with {1_Target}. Right now, {2_Grievances} [ICON_GRIEVANCE] Grievances have been noted.</Text>
+		</Row>
+		<Row Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_GRIEVANCES">
+			<Text>Grievances against us</Text>
+		</Row>
+		<Row Tag="LOC_TOOLTIP_DIPLOMACY_CONGRESS_BUTTON">
+			<Text>Diplomacy</Text>
+		</Row>
+		<Row Tag="LOC_TOOLTIP_CONGRESS_CONGRESS_BUTTON">
+			<Text>World Congress</Text>
+		</Row>
+		<Row Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_THIRD_PARTY_WARMONGER">
+			<Text>Grievances from other players against us</Text>
+		</Row>
+		<Row Tag="LOC_TOOLTIP_RESUME_CONGRESS">
+			<Text>Return to the World Congress</Text>
+		</Row>
+		<Row Tag="LOC_RESUME_CONGRESS">
+			<Text>Resume Congress</Text>
+		</Row>
+		<Row Tag="LOC_CITY_YIELD_FROM_FLOODS">
+			<Text>{Value : number +#.#;-#.#} from Floods</Text>
+		</Row>
+		<Row Tag="LOC_CITY_YIELD_FROM_POWER">
+			<Text>{Value : number +#;-#}% ({ActualValue : number +#.#;-#.#}) from [ICON_Power] Power</Text>
+		</Row>
+		<Row Tag="LOC_PLAYER_YIELD_FAVOR_PER_TURN_BASE">
+			<Text>{Value : number +#.#;-#.#} base Diplomatic Favor</Text>
+		</Row>
+		<Row Tag="LOC_PLAYER_YIELD_FAVOR_PER_TURN_EXTRA">
+			<Text>{Value : number +#.#;-#.#} extra Diplomatic Favor</Text>
+		</Row>
+		<Row Tag="LOC_PLAYER_YIELD_FAVOR_PER_TURN_FROM_SUZERAIN">
+			<Text>{Value : number +#.#;-#.#} from Suzerain</Text>
+		</Row>
+		<Row Tag="LOC_PLAYER_YIELD_FAVOR_PER_TURN_FROM_TOURISM">
+			<Text>{Value : number +#.#;-#.#} from Tourism</Text>
+		</Row>
+		<Row Tag="LOC_PLAYER_YIELD_FAVOR_PER_TURN_FROM_POLICIES">
+			<Text>{Value : number +#.#;-#.#} from Policies</Text>
+		</Row>
+    <Row Tag="LOC_PLAYER_YIELD_FAVOR_PER_TURN_FROM_BUILDINGS">
+      <Text>{Value : number +#.#;-#.#} from Buildings</Text>
+    </Row>
+    <Row Tag="LOC_PLAYER_YIELD_FAVOR_PER_TURN_FROM_CO2">
+      <Text>{Value : number +#.#;-#.#} from Carbon Emissions Penalty</Text>
+    </Row>
+    <Row Tag="LOC_PLAYER_YIELD_FAVOR_PER_TURN_FROM_GRIEVANCES">
+      <Text>{Value : number +#.#;-#.#} from Excess Grievances Penalty</Text>
+    </Row>
+    <Row Tag="LOC_PLAYER_YIELD_FAVOR_PER_TURN_FROM_ORIGINAL_CAPITALS">
+      <Text>{Value : number +#.#;-#.#} from Occupied Original Capitals Penalty</Text>
+    </Row>
+		<Row Tag="LOC_PLAYER_YIELD_FAVOR_PER_TURN_FROM_GOVERNMENT">
+			<Text>{Value : number +#.#;-#.#} from Government</Text>
+		</Row>
+		<Row Tag="LOC_PLAYER_YIELD_FAVOR_PER_TURN_FROM_TRADE_PARTNERS">
+			<Text>{Value : number +#.#;-#.#} from Trading Partners</Text>
+		</Row>
+		<Row Tag="LOC_PLAYER_YIELD_FAVOR_PER_TURN_FROM_ALLIANCES">
+			<Text>{Value : number +#.#;-#.#} from Alliances</Text>
+		</Row>
+    <Row Tag="LOC_PLAYER_YIELD_FAVOR_PER_TURN_FROM_ALLIANCES_BENEFIT">
+      <Text>+{1_Amount} [ICON_Favor] Favor per turn for you and your Ally</Text>
+    </Row>
+    <Row Tag="LOC_PLAYER_YIELD_FAITH_FROM_UNUSED_GREAT_PEOPLE_POINTS">
+      <Text>{Value : number +#.#;-#.#} from excess [ICON_GREATPERSON] Great Person points</Text>
+    </Row>
+    <Row Tag="LOC_ERA_REVIEW_POPUP_THRESHOLD_SHIFT_ERA_DEFINED">
+    	<Text>{1_EraName}</Text>
+    </Row>
+		<Row Tag="LOC_RESOURCE_ITEM_IN_STOCKPILE">
+			<Text> in stockpile</Text>
+		</Row>
+		<Row Tag="LOC_RESOURCE_ITEM_IN_RESERVE">
+			<Text> reserved for production</Text>
+		</Row>
+		<Row Tag="LOC_RESOURCE_REPORTS_ITEM_IN_RESERVE">
+			<Text>Reserved for production</Text>
+		</Row>
+		<Row Tag="LOC_RESOURCE_ACCUMULATION_PER_TURN">
+			<Text>Accumulating: +{1_Amount} per turn.</Text>
+		</Row>
+		<Row Tag="LOC_RESOURCE_ACCUMULATION_PER_TURN_EXTRACTED">
+			<Text>[ICON_Bullet]{1_Amount} from Improvements</Text>
+		</Row>
+		<Row Tag="LOC_RESOURCE_ACCUMULATION_PER_TURN_TRADED">
+			<Text>[ICON_Bullet]{1_Amount} from trade</Text>
+		</Row>
+		<Row Tag="LOC_RESOURCE_ACCUMULATION_PER_TURN_FROM_CITY_STATES">
+			<Text>[ICON_Bullet]{1_Amount} from City-States</Text>
+		</Row>
+    <Row Tag="LOC_RESOURCE_REPORTS_CITY_STATES">
+      <Text>City-State Bonus</Text>
+    </Row>
+		<Row Tag="LOC_RESOURCE_ACCUMULATION_PER_TURN_FROM_BONUS_SOURCES">
+			<Text>[ICON_Bullet]{1_Amount} from bonus sources</Text>
+		</Row>
+		<Row Tag="LOC_RESOURCE_CONSUMPTION">
+			<Text>Consuming: -{1_Amount} per turn.</Text>
+		</Row>
+		<Row Tag="LOC_RESOURCE_UNIT_CONSUMPTION_PER_TURN">
+			<Text>[COLOR_RED][ICON_Bullet]-{1_Amount} for Units[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_RESOURCE_POWER_CONSUMPTION_PER_TURN">
+			<Text>[COLOR_RED][ICON_Bullet]-{1_Amount} for Power[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_RESOURCE_ACCUMULATION_WHEN_IMPROVED">
+			<Text>Produces +{1_Amount} {2_Icon} {3_ResourceName} per turn when improved.</Text>
+		</Row>
+		<Row Tag="LOC_RESOURCE_ACCUMULATION_BUILD_IMPROVEMENT">
+			<Text>+{1_Amount} {2_Icon} {3_ResourceName} per turn</Text>
+		</Row>
+		<Row Tag="LOC_RESOURCE_ACCUMULATION_EXISTING_IMPROVEMENT">
+			<Text>{1_Amount} {2_Icon} {3_ResourceName} per turn</Text>
+		</Row>
+		<Row Tag="LOC_CIVICS_TREE_UNREVEALED_CIVIC">
+			<Text>Unrevealed</Text>
+		</Row>
+		<Row Tag="LOC_CIVICS_TREE_UNREVEALED_TOOLTIP">
+			<Text>Research prior civics to reveal this civic and its unlocks.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_TREE_UNREVEALED_TECH">
+			<Text>Unrevealed</Text>
+		</Row>
+		<Row Tag="LOC_TECH_TREE_UNREVEALED_TOOLTIP">
+			<Text>Research prior techs to reveal this tech and its unlocks.</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_MOVE_JUMP_DESCRIPTION">
+			<Text>Jump</Text>
+		</Row>
+		<Row Tag="LOC_UNITCOMMAND_CONDEMN_HERETIC_BANNED_WORLD_CONGRESS">
+			<Text>A Religious unit in this tile is immune to being condemned as a heretic by a decree from the World Congress.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_CONSTRUCT_REQUIRES_RESOURCE_AMOUNT">
+			<Text>Insufficient Resources. This building requires {1_Amount} {3_ResourceIcon} {2_Resource} in order to produce.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_CONSTRUCT_REQUIRES_RESOURCE_AMOUNT_PARTIAL">
+			<Text>Insufficient Resources. This building requires {1_Amount} more {3_ResourceIcon} {2_Resource} in order to produce.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_ADVANCE_REQUIRES_RESOURCE_AMOUNT">
+			<Text>Insufficient Resources. This project requires {1_Amount} {3_ResourceIcon} {2_Resource} in order to produce.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_ADVANCE_REQUIRES_RESOURCE_AMOUNT_PARTIAL">
+			<Text>Insufficient Resources. This project requires {1_Amount} more {3_ResourceIcon} {2_Resource} in order to produce.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_TRAIN_REQUIRES_RESOURCE_AMOUNT">
+			<Text>Insufficient Resources. This unit requires {1_Amount} {3_ResourceIcon} {2_Resource} in order to produce.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_TRAIN_REQUIRES_RESOURCE_AMOUNT_PARTIAL">
+			<Text>Insufficient Resources. This unit requires {1_Amount} more {3_ResourceIcon} {2_Resource} in order to produce.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_UPGRADE_REQUIRES_RESOURCE_AMOUNT">
+			<Text>Insufficient Resources. {1_Amount} {2_ResourceIcon} {3_Resource} required to upgrade this type of unit.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_UPGRADE_REQUIRES_RESOURCE_AMOUNT_PARTIAL">
+			<Text>Insufficient Resources. {1_Amount} more {2_ResourceIcon} {3_Resource} required to upgrade this type of unit.</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_PREVIEW_INSUFFICIENT_FUEL_DESC">
+			<Text>[COLOR_RED]-{1_Value}[ENDCOLOR] Insufficient {2_ResourceName} resource</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_PREVIEW_SIEGE_CANNON_UPGRADE">
+			<Text>Siege Cannon: Full strength vs fortifications</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_UNIT_LOW_FUEL_WARNING_FLOATER">
+			<Text>[COLOR_RED]LOW {1_Resource}[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_PRODUCTION_FUEL_CONSUMPTION">
+			<Text>Consumes: {1_Amount} {2_Icon} {3_FuelName} per turn.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMATIC_FAVOR_NAME">
+			<Text>Diplomatic Favor</Text>
+		</Row>
+		<Row Tag="LOC_HUD_CIVICS_TREE_AWARD_FAVOR">
+			<Text>Awards {1_FavorAmount} [ICON_Favor] Diplomatic Favor.</Text>
+		</Row>
+		<Row Tag="LOC_HUD_UNIT_ACTION_BUILD_ROUTE_BY_TYPE">
+			<Text>Build Route: {1_RouteTypeName}</Text>
+		</Row>
+		<Row Tag="LOC_HUD_UNIT_ACTION_BUILD_ROUTE_REQUIRES_BUILD_CHARGES">
+			<Text>[ICON_Bullet]Uses {1_Amount} Build {1_Amount : plural 1?Charge; other?Charges;}.</Text>
+		</Row>
+		<Row Tag="LOC_HUD_UNIT_ACTION_BUILD_ROUTE_REQUIRES_RESOURCE_AMOUNT_MET">
+			<Text>[ICON_Bullet]Requires {1_Amount} {2_ResourceName} to construct.</Text>
+		</Row>
+		<Row Tag="LOC_HUD_UNIT_ACTION_BUILD_ROUTE_REQUIRES_RESOURCE_AMOUNT_UNMET">
+			<Text>[ICON_Bullet]Insufficient Resources. Requires {1_Amount} {2_ResourceName} to construct.</Text>
+		</Row>
+		<Row Tag="LOC_TOURISM_LENS_FEATURE_APPEAL_TOOLTIP">
+			<Text>Ecotourists are enjoying this unspoiled natural setting.[NEWLINE]Generating +{1_CurrentTourists} [ICON_Tourism] Tourism[NEWLINE]</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_MEMBER_FAVOR_REWARD">
+			<Text>Member civilizations gain {1_Amount} [ICON_Favor] Diplomatic Favor each.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_TARGET_FAVOR_REWARD">
+			<Text>The Target receives {1_Amount} [ICON_Favor] Diplomatic Favor.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_COMPETING_PARTICIPANTS">
+			<Text>Members:</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_COMPETITION_COMPLETE">
+			<Text>Competition Complete!</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_COMPETITION_BUFFS_EXPLANATION">
+			<Text>During this Competition:</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_CHOICE_FAVOR_INFO">
+			<Text>[NEWLINE][SIZE_12]Costs {1_Cost} [ICON_Favor] Diplomatic Favor</Text>
+		</Row>
+		<Row Tag="LOC_HUD_UNIT_PANEL_ROCK_BAND_ALBUM_SALES">
+			<Text>Album Sales</Text>
+		</Row>
+		<Row Tag="LOC_HUD_UNIT_PANEL_ROCK_BAND_LEVEL">
+			<Text>Rock Band Level</Text>
+		</Row>
+		<Row Tag="LOC_ROCK_BAND_FLOAT_ON">
+			<Text>[COLOR_FLOAT_CULTURE]+{1_Num}[ICON_TOURISM] Tourism[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_REPAIR_LOCATION_FLOODED">
+			<Text>Cannot repair, location flooded.</Text>
+		</Row>
+		<Row Tag="LOC_TOOLTIP_PROJECT_REACTOR_AGE">
+			<Text>Reactor Age: {1_Age}</Text>
+		</Row>
+		<Row Tag="LOC_TOOLTIP_PROJECT_REACTOR_ACCIDENT1_POSSIBLE">
+			<Text>[COLOR_RED]Radioactive Steam Leak Possible[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_TOOLTIP_PROJECT_REACTOR_ACCIDENT2_POSSIBLE">
+			<Text>[COLOR_RED]Radiation Leak Possible[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_TOOLTIP_PROJECT_REACTOR_ACCIDENT3_POSSIBLE">
+			<Text>[COLOR_RED]Nuclear Meltdown Possible[ENDCOLOR]</Text>
+		</Row>
+		<!--Lenses-->
+		<Row Tag="LOC_HUD_TOGGLE_DESERT_LABELS">
+			<Text>Desert Labels</Text>
+		</Row>
+		<Row Tag="LOC_HUD_TOGGLE_DESERT_LABELS_TOOLTIP">
+			<Text>Toggle Desert Labels</Text>
+		</Row>
+		<Row Tag="LOC_HUD_TOGGLE_MOUNTAIN_RANGE_LABELS">
+			<Text>Mountain Range Labels</Text>
+		</Row>
+		<Row Tag="LOC_HUD_TOGGLE_MOUNTAIN_RANGE_LABELS_TOOLTIP">
+			<Text>Toggle Mountain Range Labels</Text>
+		</Row>
+		<Row Tag="LOC_HUD_TOGGLE_LAKE_LABELS">
+			<Text>Lake Labels</Text>
+		</Row>
+		<Row Tag="LOC_HUD_TOGGLE_LAKE_LABELS_TOOLTIP">
+			<Text>Toggle Lake Labels</Text>
+		</Row>
+		<Row Tag="LOC_HUD_TOGGLE_OCEAN_LABELS">
+			<Text>Ocean Labels</Text>
+		</Row>
+		<Row Tag="LOC_HUD_TOGGLE_OCEAN_LABELS_TOOLTIP">
+			<Text>Toggle Ocean Labels</Text>
+		</Row>
+		<Row Tag="LOC_HUD_TOGGLE_SEA_LABELS">
+			<Text>Sea Labels</Text>
+		</Row>
+		<Row Tag="LOC_HUD_TOGGLE_SEA_LABELS_TOOLTIP">
+			<Text>Toggle Sea Labels</Text>
+		</Row>
+		<Row Tag="LOC_HUD_TOGGLE_NATIONAL_PARK_LABELS">
+			<Text>National Park Labels</Text>
+		</Row>
+		<Row Tag="LOC_HUD_TOGGLE_NATIONAL_PARK_LABELS_TOOLTIP">
+			<Text>Toggle National Park Labels</Text>
+		</Row>
+		<Row Tag="LOC_HUD_TOGGLE_NATURAL_WONDER_LABELS">
+			<Text>Natural Wonders Labels</Text>
+		</Row>
+		<Row Tag="LOC_HUD_TOGGLE_NATURAL_WONDER_LABELS_TOOLTIP">
+			<Text>Toggle Natural Wonder Labels</Text>
+		</Row>
+		<Row Tag="LOC_HUD_TOGGLE_RIVER_LABELS">
+			<Text>River Labels</Text>
+		</Row>
+		<Row Tag="LOC_HUD_TOGGLE_RIVER_LABELS_TOOLTIP">
+			<Text>Toggle River Labels</Text>
+		</Row>
+		<Row Tag="LOC_HUD_TOGGLE_VOLCANO_LABELS">
+			<Text>Volcano Labels</Text>
+		</Row>
+		<Row Tag="LOC_HUD_TOGGLE_VOLCANO_LABELS_TOOLTIP">
+			<Text>Toggle Volcano Labels</Text>
+		</Row>
+		<!-- Map Search Terms -->
+		<Row Tag="LOC_HUD_MAP_SEARCH_TERMS_ERUPTING">
+			<Text>Erupting</Text>
+		</Row>
+		<Row Tag="LOC_HUD_MAP_SEARCH_TERMS_ACTIVE">
+			<Text>Active</Text>
+		</Row>
+		<Row Tag="LOC_HUD_MAP_SEARCH_TERMS_COASTAL_LOWLAND">
+			<Text>Coastal Lowland</Text>
+		</Row>
+		<Row Tag="LOC_HUD_MAP_SEARCH_TERMS_SUBMERGED">
+			<Text>Submerged</Text>
+		</Row>
+		<Row Tag="LOC_HUD_MAP_SEARCH_TERMS_FLOODED">
+			<Text>Flooded</Text>
+		</Row>
+		<Row Tag="LOC_HUD_MAP_SEARCH_TERMS_STORM">
+			<Text>Storm</Text>
+		</Row>
+		<Row Tag="LOC_HUD_MAP_SEARCH_TERMS_DROUGHT">
+			<Text>Drought</Text>
+		</Row>
+		<!--Agendas-->
+		<Row Tag="LOC_DIPLOMACY_HIDDEN_AGENDAS_TT">
+			<Text>Reach Access Level [ICON_VisOpen] OPEN in order to see the first hidden agenda.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_HIDDEN_AGENDAS_TT_LATE">
+			<Text>Reach Access Level [ICON_VisSecret] SECRET to see the late-game hidden agenda.</Text>
+		</Row>
+		<Row Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_ANGEVIN_EMPIRE">
+			<Text>Likes neighboring civilizations with populous cities</Text>
+		</Row>
+		<Row Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_CANADIAN_EXPEDITIONARY">
+			<Text>Likes those who also participate in Emergencies</Text>
+		</Row>
+		<Row Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_KAITIAKITANGA">
+			<Text>Likes civs who respect the environment</Text>
+		</Row>
+		<Row Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_LAWGIVER">
+			<Text>Likes civs that keep their citizens happy and loyal</Text>
+		</Row>
+		<Row Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_LORD_OF_MINES">
+			<Text>Likes civs with a high Gold per turn income</Text>
+		</Row>
+		<Row Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_PATRON_OF_ARTS">
+			<Text>Likes civs that do not compete with her for Great Works</Text>
+		</Row>
+		<Row Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_RAVEN_BANNER">
+			<Text>Likes civs that also use city-state troops</Text>
+		</Row>
+		<Row Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_FLAT_EARTHER">
+			<Text>Likes civs who avoid circumnavigating or building Spaceports</Text>
+		</Row>
+		<Row Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_TURTLER">
+			<Text>Likes civs who have not captured capitals</Text>
+		</Row>
+		<Row Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_ZEALOT">
+			<Text>Likes civs that have adopted their religion</Text>
+		</Row>
+		<!-- Climate Screen -->
+		<Row Tag="LOC_LAUNCHBAR_CLIMATE_PROGRESS_TOOLTIP">
+			<Text>World Climate[NEWLINE][NEWLINE]View the world's climate and weather.</Text>
+		</Row>
+		<Row Tag="LOC_PARTIALSCREEN_CLIMATE_PROGRESS_TOOLTIP">
+			<Text>World Climate[NEWLINE][NEWLINE]View the world's climate and weather.</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_TITLE">
+			<Text>World Climate</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_CLIMATE_CHANGE_PHASE_0">
+			<Text>Climate Change - None</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_SCREEN_NORTHEAST">
+			<Text>HEADING NE</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_SCREEN_EAST">
+			<Text>HEADING E</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_SCREEN_SOUTHEAST">
+			<Text>HEADING SE</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_SCREEN_SOUTHWEST">
+			<Text>HEADING SW</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_SCREEN_WEST">
+			<Text>HEADING W</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_SCREEN_NORTHWEST">
+			<Text>HEADING NW</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_SCREEN_WATER">
+			<Text>Water</Text>
+		</Row>
+    <Row Tag="LOC_CLIMATE_SCREEN_GLOBAL">
+			<Text>Global</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_SCREEN_LOCATION">
+			<Text>( {1_Location} )</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_SCREEN_LOCATION_DIRECTION">
+			<Text>( {1_Location}, {2_Direction} )</Text>
+		</Row>
+		<Row Tag="LOC_REALISM_SETTING_MINIMAL_NAME">
+			<Text>Minimal</Text>
+		</Row>
+		<Row Tag="LOC_REALISM_SETTING_LIGHT_NAME">
+			<Text>Light</Text>
+		</Row>
+		<Row Tag="LOC_REALISM_SETTING_MODERATE_NAME">
+			<Text>Moderate</Text>
+		</Row>
+		<Row Tag="LOC_REALISM_SETTING_HEAVY_NAME">
+			<Text>Heavy</Text>
+		</Row>
+		<Row Tag="LOC_REALISM_SETTING_HYPERREAL_NAME">
+			<Text>Hyperreal</Text>
+		</Row>
+		<Row Tag="LOC_DROUGHT_TOOLTIP_STRING">
+			<Text>{1_DroughtName} ({2_Turns} more turns)</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_TAB_OVERVIEW">
+			<Text>Overview</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_TAB_CO2_LEVELS">
+			<Text>CO2 Levels</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_TAB_EVENT_HISTORY">
+			<Text>Event History</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_TAB_CO2_BY_CIVILIZATION">
+			<Text>CO2 By Civilization</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_TAB_CO2_BY_RESOURCE">
+			<Text>CO2 By Resource</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_TAB_DEFORESTATION">
+			<Text>Deforestation</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_CONTRIBUTING_TO_CLIMATE_CHANGE">
+			<Text>Contributing To Climate Change</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_FORECAST">
+			<Text>Forecast</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_CO2_LEVELS">
+			<Text>CO2 Levels</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_GLOBAL_TEMPERATURE">
+			<Text>Global Temperature</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_WORLD_SETTINGS">
+			<Text>World Settings</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_TODO">
+			<Text>[WIP] ???</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_TEMPERATURE">
+			<Text>+{1_TEMP}°</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_TEMPERATURE_SUBTEXT">
+			<Text>(change in Celsius from Ancient Era)</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_TEMPERATURE_TOOLTIP">
+			<Text>Deforestation Level: {1_Level}[NEWLINE][NEWLINE]{2_Description}[NEWLINE][NEWLINE]Due to this level of deforestation, the rate of global temperature increase as CO2 is emitted has been altered by {3_CO2Mod}%.</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_WORLD_AGE">
+			<Text>World Age: {1_Name}</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_REALISM">
+			<Text>Disaster Intensity: {1_NAME}</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_SHOW_ON_MAP">
+			<Text>Show on Map</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_AMOUNT_FROM_CLIMATE_CHANGE">
+			<Text>({1_Amount}% from Climate Change)</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_CHANCE_OF_STORMS">
+			<Text>Storms</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_CHANCE_OF_RIVER_FLOOD">
+			<Text>River Flooding</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_VOLCANIC_ACTIVITY">
+			<Text>Volcanic Activity</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_DROUGHTS">
+			<Text>Droughts</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_VOLCANO_VOLATILE">
+			<Text>Volatile</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_VOLCANO_INACTIVE">
+			<Text>Inactive</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_VOLCANO_ACTIVE">
+			<Text>Active</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_VOLCANO_ERUPTED">
+			<Text>Erupted</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_VOLCANO_VOLATILE_NUM">
+			<Text>{1_Num} Volatile</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_VOLCANO_INACTIVE_NUM">
+			<Text>{1_Num} Inactive</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_VOLCANO_ACTIVE_NUM">
+			<Text>{1_Num} Active</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_VOLCANO_ERUPTED_NUM">
+			<Text>{1_Num} Erupted</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_POLAR_ICE">
+			<Text>Polar Ice</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_LOST">
+			<Text>{1_Amount}% Lost</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_SEA_LEVEL">
+			<Text>Sea Level</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_COASTAL_TILES_FLOODED_NUM">
+			<Text>Coastal Tiles Flooded: {1_Num}</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_COASTAL_TILES_SUBMERGED_NUM">
+			<Text>Submerged: {1_Num}</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_CLIMATE_CHANGE_POINTS_TOOLTIP">
+			<Text>Climate Change Points {1_Current}/{2_Required}</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_FROM_WORLD_REALISM_NUM_TOOLTIP">
+			<Text>[ICON_Bullet]{1_Num} from Disaster Intensity</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_FROM_GLOBAL_TEMPERATURE_NUM_TOOLTIP">
+			<Text>[ICON_Bullet]{1_Num} from Global Temperature</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_EFFECTS_ADDED_THIS_PHASE_TOOLTIP">
+			<Text>Effects added this Phase</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_CHANCE_OF_STORMS_TOOLTIP">
+			<Text>Chance of Storms</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_CHANCE_OF_RIVER_FLOODING_TOOLTIP">
+			<Text>Chance of River Flooding</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_INCREASE_NUM_TOOLTIP">
+			<Text>Increases +{1_Num}%</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_SEA_LEVEL_RISE">
+			<Text>+{1_Num} Meters</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_SEA_LEVEL_RISES_NUM_TOOLTIP">
+			<Text>Sea Level rises +{1_Num} meters</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_TILES_AT_OR_BELOW_FLOOD_TOOLTIP">
+			<Text>[NEWLINE]Lowland tiles will flood at or below:[NEWLINE] {1_Name}</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_TILES_AT_OR_BELOW_SUBMERGE_TOOLTIP">
+			<Text>[NEWLINE]Lowland tiles will be submerged at or below:[NEWLINE] {1_Name}</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_POLAR_ICE_MELT_TOOLTIP">
+			<Text>Polar Ice Melt {1_Num}%</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_PERCENT_CHANCE">
+			<Text>{1_Num}% Chance</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_STORM_EVENT_DESCRIPTION_TOOLTIP">
+			<Text>STORM EVENT[NEWLINE][NEWLINE]When event occurs:[NEWLINE]- One of four possible storms (blizzard, dust storm, hurricane, or tornado) spawns based upon the terrain at the storm's origin.[NEWLINE]- Storms then move across the map for two more turns, causing damage to buildings and improvements and possibly adding fertility to affected tiles.[NEWLINE][NEWLINE]As the global temperature rises from greenhouse gas emissions into the atmosphere, the chance that a storm will occur increases. Using cleaner sources of energy reduces the global temperature increase and thus mitigates the chance of storms.</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_RIVER_FLOOD_EVENT_DESCRIPTION_TOOLTIP">
+			<Text>RIVER FLOOD EVENT[NEWLINE][NEWLINE]When event occurs:[NEWLINE]- Floodplain tiles along the affected River will flood, possibly adding fertility.[NEWLINE]- Buildings and improvements on flooded tiles may become pillaged or destroyed.[NEWLINE][NEWLINE]Prevent Flood damage by building a Dam or the Great Bath wonder on the affected River.</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_VOLCANO_EVENT_DESCRIPTION_TOOLTIP">
+			<Text>VOLCANO EVENT[NEWLINE][NEWLINE]When event occurs:[NEWLINE]- Non-mountain tiles adjacent to the eruption will gain the Volcanic Soil feature, possibly adding fertility.[NEWLINE]- Buildings and improvements on those tiles may become pillaged or destroyed.</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_DROUGHT_EVENT_DESCRIPTION_TOOLTIP">
+			<Text>DROUGHT EVENT[NEWLINE][NEWLINE]When event occurs:[NEWLINE]- Farm, Camp, Plantation, and Pasture improvements, as well as Mekewap, Outback Station, and Cahokia Mound improvements are pillaged.[NEWLINE]- These improvements cannot be rebuilt until the Drought ends.[NEWLINE]- All tiles affected by the Drought yield 1 less [Icon_Food] Food than usual.[NEWLINE][NEWLINE]Build an Aqueduct, Dam, or Stepwell in your city to prevent the [Icon_Food] Food loss from Drought.  Drought targets areas that are devoid of all Features. Keep some Woods, Rainforest, or Marsh near your cities to lessen the chance that Drought will strike.</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_POLAR_ICE_MELT_DESCRIPTION_TOOLTIP">
+			<Text>POLAR ICE MELT[NEWLINE][NEWLINE]Climate change impacts the number of Polar Ice tiles lost.[NEWLINE][NEWLINE]Melted Polar Ice tiles may open advantageous naval passageways but also contribute to rising sea levels.</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_POLAR_ICE_MELT_ALERT_TOOLTIP">
+			<Text>Polar Ice melt recently updated due to climate change.</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_SEA_LEVEL_RISE_DESCRIPTION_TOOLTIP">
+			<Text>SEA LEVEL RISE[NEWLINE][NEWLINE]Sea Levels have risen {1_Num} meters as a result of climate change.[NEWLINE][NEWLINE]Rising Sea Levels cause more and more tiles to be subjected to coastal flooding.</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_SEA_LEVEL_RISE_ALERT_TOOLTIP">
+			<Text>Sea Level recently updated due to climate change.</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_GLOBAL_CONTRIBUTIONS">
+			<Text>Global Contributions</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_YOUR_CO2_CONTRIBUTION">
+			<Text>Your CO2 Contribution</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_RESOURCE_CONSUMPTION_NUM_NAME">
+			<Text>from consuming {1_Amount} of {2_ResourceName}</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_NO_ONE">
+			<Text>No One</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_YOU">
+			<Text>{1_CivName} (You)</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_TOTAL_NUM">
+			<Text>Total: {1_Num}</Text>
+		</Row>
+    <Row Tag="LOC_CLIMATE_TOTAL_NUM_W_MOD">
+      <Text>Total: {1_Num} ({2_Modifier}%)</Text>
+    </Row>
+		<Row Tag="LOC_CLIMATE_EVENT_HISTORY">
+			<Text>Event History</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_TOP_CONTRIBUTOR_NUM">
+			<Text>Top Contributor: {1_Num}</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_MY_CONTRIBUTION_NUM">
+			<Text>My Contribution: {1_Num}</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_COLUMN_EVENT">
+			<Text>Event</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_COLUMN_NAME">
+			<Text>Name</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_COLUMN_SEVERITY_LEVEL">
+			<Text>Severity Level</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_COLUMN_LOCATION">
+			<Text>Location</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_COLUMN_TRAITS">
+			<Text>Traits</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_COLUMN_EFFECT">
+			<Text>Effect</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_COLUMN_AREA_EFFECTED">
+			<Text>Area Effected</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_COLUMN_OCCURENCE">
+			<Text>Occurrence</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_COLUMN_DATE">
+			<Text>Date</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_ENTRY_SEVERITY">
+			<Text>{1_Num}</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_ENTRY_DATE">
+			<Text>TURN {1_Turn}[NEWLINE]{2_Date}</Text>
+		</Row>
+    <Row Tag="LOC_CLIMATE_LOST_FERTILIZED_TILES">
+      <Text>Tiles Losing Fertility</Text>
+    </Row>
+		<Row Tag="LOC_CLIMATE_FERTILIZED_TILES">
+			<Text>Fertilized Tiles</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_DAMAGED_TILES">
+			<Text>Damaged Tiles</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_UNITS_LOST">
+			<Text>Units Lost</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_POP_LOST">
+			<Text>Population Lost</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_SEA_LEVEL_RISE_X_TURNS">
+			<Text>Next sea level change expected in {1_Turns} turns.</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_POLAR_ICE_MELT_X_TURNS">
+			<Text>Next melt of polar ice expected in {1_Turns} turns.</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_CO2_TOTAL_TOOLTIP">
+			<Text>Total CO2 emissions adjusted by {1_Modifier} percent based on the deforestation level of the planet.</Text>
+		</Row>
+		<Row Tag="LOC_CLIMATE_LAUNCHBAR_BANG_TOOLTIP">
+			<Text>Climate change has intensified, reaching the next phase.</Text>
+		</Row>
+    <Row Tag="LOC_CLIMATE_MITIGATED">
+      <Text>( Mitigated )</Text>
+    </Row>
+    <Row Tag="LOC_CLIMATE_RESOURCE_CONSUMED_LAST_TURN">
+      <Text>Your empire has expended {1_Number} {2_Resource} in the past turn, adding {3_CO2Number : plural 1?{3_CO2Number} unit; other?{3_CO2Number} units;} of CO2 to the atmosphere.</Text>
+    </Row>
+<!-- Rock Band Results Screen -->
+		<Row Tag="LOC_ROCK_CONCERT_HEADER">
+			<Text>Rock Concert</Text>
+		</Row>
+		<Row Tag="LOC_ROCK_CONCERT_PERFORMANCE_BY">
+			<Text>Performance By:</Text>
+		</Row>
+		<Row Tag="LOC_ROCK_CONCERT_RESULTS">
+			<Text>Performance Results:</Text>
+		</Row>
+		<Row Tag="LOC_RESULT_LEGENDS_OF_ROCK_TIER">
+			<Text>Top Tier Performance</Text>
+		</Row>
+		<Row Tag="LOC_RESULT_LEGENDS_OF_ROCK_DESCRIPTION">
+			<Text>You had to be there! It was amazing! They totally melted my face! Nothing could ever top that! I am totally going to buy every album they ever make from now on and see every concert they give.</Text>
+		</Row>
+		<Row Tag="LOC_RESULT_HEADLINERS_TIER">
+			<Text>2nd Tier Performance</Text>
+		</Row>
+		<Row Tag="LOC_RESULT_HEADLINERS_DESCRIPTION">
+			<Text>The last note of the final triumphant song resounds and merges with the screams and cheers of the crowd. Everyone heads home happy, humming the band's best tunes.</Text>
+		</Row>
+		<Row Tag="LOC_RESULT_RISING_STARS_TIER">
+			<Text>3rd Tier Performance</Text>
+		</Row>
+		<Row Tag="LOC_RESULT_RISING_STARS_DESCRIPTION">
+			<Text>The best part about tonight's show is going to be six months from now, when everyone says they're a fan, and I can be like, "Yeah, but I liked them before they got popular."</Text>
+		</Row>
+		<Row Tag="LOC_RESULT_OPENING_ACT_TIER">
+			<Text>4th Tier Performance</Text>
+		</Row>
+		<Row Tag="LOC_RESULT_OPENING_ACT_DESCRIPTION">
+			<Text>We went because of the main band, but the opening band was way better than I expected. I bought a shirt and an album. You should give it a listen.</Text>
+		</Row>
+		<Row Tag="LOC_RESULT_CREATIVE_DIFFERENCES_TIER">
+			<Text>5th Tier Performance</Text>
+		</Row>
+		<Row Tag="LOC_RESULT_CREATIVE_DIFFERENCES_DESCRIPTION">
+			<Text>It was a masterful and heartfelt performance, but for the band, a bittersweet moment. The members are already planning new and separate projects.</Text>
+		</Row>
+		<Row Tag="LOC_RESULT_AGING_ROCKERS_TIER">
+			<Text>Bottom Tier Performance</Text>
+		</Row>
+		<Row Tag="LOC_RESULT_AGING_ROCKERS_DESCRIPTION">
+			<Text>Life on tour is hard, and the crowds aren't as big or as enthusiastic as they used to be. But the worst was the people there enjoying the show ironically. Time to hang it up.</Text>
+		</Row>
+		<Row Tag="LOC_ROCK_CONCERT_RESULT_TOURISM">
+			<Text>Tourism Generated</Text>
+		</Row>
+		<Row Tag="LOC_ROCK_CONCERT_RESULT_TOURISM_TOOLTIP">
+			<Text>This [ICON_Tourism] Tourism generated from this show has been applied against the player who owns this concert venue.</Text>
+		</Row>
+		<Row Tag="LOC_ROCK_CONCERT_RESULT_ALBUMS">
+			<Text>Albums Sold</Text>
+		</Row>
+		<Row Tag="LOC_ROCK_CONCERT_RESULT_ALBUMS_TOOLTIP">
+			<Text>Increases in album sales boost the base [ICON_Tourism] Tourism this band will earn from future concerts.</Text>
+		</Row>
+		<Row Tag="LOC_ROCK_CONCERT_RESULT_PROMOTION">
+			<Text>Promotion Available!</Text>
+		</Row>
+		<Row Tag="LOC_ROCK_CONCERT_RESULT_PROMOTION_TOOLTIP">
+			<Text>Band may select one of the randomly offered promotions to improve their abilities before their next show.</Text>
+		</Row>
+		<Row Tag="LOC_ROCK_CONCERT_RESULT_LEVEL_UP">
+			<Text>Leveled Up!</Text>
+		</Row>
+		<Row Tag="LOC_ROCK_CONCERT_RESULT_LEVEL_UP_TOOLTIP">
+			<Text>Gaining a level will increase this band's chance of a favorable result in future concerts.</Text>
+		</Row>
+		<Row Tag="LOC_ROCK_CONCERT_RESULT_UNIT_LOST">
+			<Text>Unit Lost</Text>
+		</Row>
+		<Row Tag="LOC_ROCK_CONCERT_RESULT_UNIT_LOST_TOOLTIP">
+			<Text>Bummer man!</Text>
+		</Row>
+		<Row Tag="LOC_CULTURAL_IDENTITY_NEARBY_GREAT_WORKS">
+			<Text>Nearby Great Works</Text>
+		</Row>
+		<!--Unit Operations -->
+		<Row Tag="LOC_UNITOPERATION_TOURISM_BOMB_DESCRIPTION">
+			<Text>Perform Rock Concert</Text>
+		</Row>
+		<Row Tag="LOC_UNITOPERATION_TOURISMBOMB_REQUIRES_NAME">
+			<Text>Your band needs a name before it can go on stage.</Text>
+		</Row>
+		<Row Tag="LOC_UNITOPERATION_BUILD_IMPROVEMENT_ADJACENT_DESCRIPTION">
+			<Text>Build Improvement Adjacent</Text>
+		</Row>
+		<Row Tag="LOC_UNITOPERATION_UPGRADE_RESOURCE_INFO">
+			<Text>Requires: {1_Amount} {2_ResourceIcon} {3_ResourceName}</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_BASE_RESOURCE_COST">
+			<Text>Base Resource Cost: {1_Amount} {2_ResourceIcon} {3_ResourceName}</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_PRODUCTION_RESOURCE_COST">
+			<Text>Requires: {1_Amount} {2_ResourceIcon} {3_ResourceName}</Text>
+		</Row>
+		<Row Tag="LOC_UI_FEATURE_NATURAL_DISASTER_DISCOVERY">
+			<Text>Natural Disaster Occurring</Text>
+		</Row>
+    <Row Tag="LOC_UI_FEATURE_NUCLEAR_DISASTER_DISCOVERY">
+      <Text>Nuclear Disaster Occurring</Text>
+    </Row>
+    <!--Unit Commands -->
+    <Row Tag="LOC_UNITCOMMAND_BUILDING_PRODUCTION_DESCRIPTION">
+			<Text>Add [ICON_Production] Production to a building.</Text>
+		</Row>
+		<!--Emergencies-->
+    <Row Tag="LOC_EMERGENCY_TARGETING_UNMET_PLAYER">
+      <Text>This Emergency targets an unmet player.</Text>
+    </Row>
+		<Row Tag="LOC_EMERGENCY_TARGET_CITY">
+			<Text>TARGET CITY: {1_Target}</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_SCORE_KILL_ENEMY_MILITARY_DESC">
+			<Text>Killing Target units</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_SCORE_ATTACK_CITY_DESC">
+			<Text>Attacking Target cities</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_SCORE_MILITARY_IN_LAND_DESC">
+			<Text>Keeping units in the Target's territory</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_SCORE_RELIGION_IN_LAND_DESC">
+			<Text>Keeping Religious units in the Target city's territory</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_SCORE_GPP_DESC">
+			<Text>Generating [ICON_GREATPERSON] Great People Points Per Turn</Text>
+		</Row>
+		<Row Tag="LOC_DISCUSSION_EMERGENCY_MILITARY_TARGET_NAME">
+			<Text>Military Emergency</Text>
+		</Row>
+		<Row Tag="LOC_DISCUSSION_EMERGENCY_CITY_STATE_TARGET_NAME">
+			<Text>City-State Emergency</Text>
+		</Row>
+		<Row Tag="LOC_DISCUSSION_EMERGENCY_RELIGIOUS_TARGET_NAME">
+			<Text>Religious Emergency</Text>
+		</Row>
+		<Row Tag="LOC_DISCUSSION_EMERGENCY_NUCLEAR_TARGET_NAME">
+			<Text>Nuclear Emergency</Text>
+		</Row>
+		<Row Tag="LOC_DISCUSSION_EMERGENCY_BACKSTAB_TARGET_NAME">
+			<Text>Betrayal Emergency</Text>
+		</Row>
+		<Row Tag="LOC_DISCUSSION_EMERGENCY_AID_REQUEST_TARGET_NAME">
+			<Text>Aid Request</Text>
+		</Row>
+		<Row Tag="LOC_DISCUSSION_NOBEL_PRIZE_LITERATURE_NAME">
+			<Text>Nobel Prize in Literature</Text>
+		</Row>
+		<Row Tag="LOC_DISCUSSION_EMERGENCY_NOBEL_PRIZE_PHYSICS_NAME">
+			<Text>Nobel Prize in Physics</Text>
+		</Row>
+		<Row Tag="LOC_DISCUSSION_EMERGENCY_NOBEL_PRIZE_PEACE_NAME">
+			<Text>Nobel Peace Prize</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_FLAVOR_SCORE_COMPETITION_CULTURAL">
+			<Text>"Let us prove which nation is truly the home of the best and brightest!"</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_DESCRIPTION_SCORE_COMPETITION_CULTURAL">
+			<Text>Our brilliant [ICON_GREATPERSON] Great People lead the way. Which of us can show the greatest support for their native luminaries?</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_FLAVOR_SPACE_STATION">
+			<Text>"Space is the next great adventure. Let us make the leap together!"</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_DESCRIPTION_SPACE_STATION">
+			<Text>We must undertake a project to construct an international Space Station, combining the best efforts of all nations' science and engineering fields.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_FLAVOR_WORLD_GAMES">
+			<Text>"We need not compete with arms.  Let us instead see who can best who at the Games."</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_DESCRIPTION_WORLD_GAMES">
+			<Text>Our best athletes will compete against the world's best.  Which nation will take home the gold?</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_FLAVOR_CLIMATE_ACCORDS">
+			<Text>"We all share this planet.  For our children and their children after them, we must protect it."</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_DESCRIPTION_CLIMATE_ACCORDS">
+			<Text>We all must do our part to reduce mankind's carbon footprint.  Those who do best will be thanked by the generations to come.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_WORLDS_FAIR_NAME">
+			<Text>World's Fair</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_SPACE_STATION_NAME">
+			<Text>International Space Station</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_CLIMATE_ACCORDS_NAME">
+			<Text>Climate Accords</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_WORLD_GAMES_NAME">
+			<Text>World Games</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_NOBEL_PRIZE_LITERATURE_NAME">
+			<Text>Nobel Prize in Literature</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_SCORE_SPACEPORTS_DESC">
+			<Text>Maintaining Spaceport Districts</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_SCORE_CAMPUSES_DESC">
+			<Text>Maintaining Campus Districts</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_SCORE_ASTRONAUT_PROJECT_DESC">
+			<Text>Completing the Training Astronauts project</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_SCORE_CO2_FOOTPRINT_DESC">
+			<Text>Having CO2 emissions much lower than the biggest CO2 polluter</Text>
+		</Row>
+    <Row Tag="LOC_EMERGENCY_SCORE_DECOMMISSION_COAL_POWER_PLANT_DESC">
+      <Text>Completing the Decommission Coal Power Plant project</Text>
+    </Row>
+    <Row Tag="LOC_EMERGENCY_SCORE_DECOMMISSION_OIL_POWER_PLANT_DESC">
+      <Text>Completing the Decommission Oil Power Plant project</Text>
+    </Row>
+    <Row Tag="LOC_EMERGENCY_SCORE_DECOMMISSION_NUCLEAR_POWER_PLANT_DESC">
+      <Text>Completing the Decommission Nuclear Power Plant project</Text>
+    </Row>
+		<Row Tag="LOC_EMERGENCY_SCORE_ATHLETE_PROJECT_DESC">
+			<Text>Completing the Training Athletes project</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_SCORE_STADIUMS_DESC">
+			<Text>Maintaining Stadiums</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_SCORE_AQUATIC_CENTERS_DESC">
+			<Text>Maintaining Aquatic Centers</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_FLAVOR_GREAT_ARTISTS">
+			<Text>"Art transcends nationality, blessing us all.  Let us honor those who give us glimpses of heaven and hell."</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_DESCRIPTION_GREAT_ARTISTS">
+			<Text>Sweden is awarding a Nobel Prize for Literature.  Let's prove ourselves the most artful, and win this prestigious prize.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_SCORE_GREAT_ARTISTS_DESC">
+			<Text>Generating [ICON_GreatWriter] Great Writer, [ICON_GreatArtist] Artist, and [ICON_GreatMusician] Musician Points. </Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_EXTRA_EFFECTS_GREAT_ARTISTS">
+			<Text>[ICON_Tourism] Tourism from Great Works is +200%.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_NOBEL_PHYSICS_NAME">
+			<Text>Nobel Prize in Physics</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_FLAVOR_GREAT_STEMS">
+			<Text>"Study is what propels mankind into the future.  Let us honor those giants on whose shoulders we stand."</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_DESCRIPTION_GREAT_STEMS">
+			<Text>Sweden is awarding a Nobel Prize for Physics.  Let's prove ourselves the most scientifically minded, and win this prestigious prize.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_SCORE_GREAT_STEMS_DESC">
+			<Text>Generating [ICON_GreatEngineer] Great Engineer, [ICON_GreatScientist] Scientist, and [ICON_GreatMerchant] Merchant Points. </Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_EXTRA_EFFECTS_GREAT_STEMS">
+			<Text>+2 Random [ICON_TechBoosted] Eurekas and +50% on District Production.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_NOBEL_PRIZE_PEACE_NAME">
+			<Text>Nobel Peace Prize</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_FLAVOR_FAVOR">
+			<Text>"There is nothing so deserving of honor as a remarkable pursuit of peace."</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_DESCRIPTION_FAVOR">
+			<Text>Sweden is awarding a Nobel Prize for Peace.  Let's prove ourselves the most peaceful, and win this prestigious prize.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_SCORE_FAVOR_DESC">
+			<Text>Generating [ICON_Favor] Diplomatic Favor.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_EXTRA_EFFECTS_FAVOR">
+			<Text>Winner gets 2 Free [ICON_GreatPerson] Great People.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_REWARD_SWEDEN_GAINS_FAVOR_DESCRIPTION">
+			<Text>Sweden receives +50 [ICON_FAVOR] Diplomatic Favor.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_REQUEST_AID_NAME">
+			<Text>Aid Request</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_FLAVOR_REQUEST_AID">
+			<Text>"We cannot let other civilizations fall before the onslaught of nature.  One for all, and all for one."</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_DESCRIPTION_REQUEST_AID">
+			<Text>{TargetName} was recently ravaged by a natural disaster.  Our assistance in their recuperation will gain us prestige in the eyes of the World Congress.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_SCORE_SEND_AID_GOLD_DESC">
+			<Text>Sending gifts of [ICON_Gold] Gold to the Target.</Text>
+		</Row>
+    <Row Tag="LOC_EMERGENCY_SCORE_SEND_AID_CO2_DESC">
+      <Text>Generating CO2 will reduce your score.</Text>
+    </Row>
+    <Row Tag="LOC_EMERGENCY_SCORE_SEND_AID_WAR_DESC">
+      <Text>Being at War with the Target will reduce your score.</Text>
+    </Row>
+		<Row Tag="LOC_EMERGENCY_SCORE_SEND_AID_PROJECT_DESC">
+			<Text>Completing the Send Aid Project.</Text>
+		</Row>
+    <Row Tag="LOC_EMERGENCY_REQUEST_MILITARY_AID_NAME">
+      <Text>Military Aid Request</Text>
+    </Row>
+    <Row Tag="LOC_EMERGENCY_FLAVOR_REQUEST_MILITARY_AID">
+      <Text>"We must help those targeted by unrestrained aggression."</Text>
+    </Row>
+    <Row Tag="LOC_EMERGENCY_DESCRIPTION_REQUEST_MILITARY_AID">
+      <Text>{TargetName} is the target of an unjustified war by a power against whom they have many Grievances.  Our assistance will help restore peace.</Text>
+    </Row>
+		<Row Tag="LOC_EMERGENCY_SCORE_POSITION_AND_HOW_TO">
+			<Text>You are in {1_Position} place.  Gain score by:</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_SCORE_HOW_TO">
+			<Text>Gain score by:</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_MEMBER_BUFF_DESCRIPTION_ACCESS_TO_SEND_AID_PROJECT">
+			<Text>Members have access to the Send Aid Project.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_MEMBER_BUFF_DESCRIPTION_ACCESS_TO_TRAIN_ATHLETES_PROJECT">
+			<Text>Members have access to the Train Athletes Project.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_MEMBER_BUFF_DESCRIPTION_ACCESS_TO_TRAIN_ASTRONAUTS_PROJECT">
+			<Text>Members have access to the Train Astronauts Project.</Text>
+		</Row>
+    <Row Tag="LOC_EMERGENCY_MEMBER_BUFF_DESCRIPTION_ACCESS_TO_DECOMMISSION_POWER_PLANT_PROJECTS">
+      <Text>Members have access to projects to Decommission Power Plants in their cities.</Text>
+    </Row>
+		<!-- |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| -->
+		<Row Tag="LOC_EMERGENCY_GOAL_TENTATIVE_COMPETE_WITH_OTHERS">
+			<Text>The Members will compete to see who can get the highest score within [ICON_Turn] {Turns} Turns.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_GOAL_COMPETE_WITH_OTHERS">
+			<Text>The Members are competing to see who can get the highest score.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_GOAL_SHORT_COMPETE_WITH_OTHERS">
+			<Text>Compete for highest score</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_GOAL_LIST_COMPETE_WITH_OTHERS">
+			<Text>Get a high score</Text>
+		</Row>
+    <Row Tag="LOC_EMERGENCY_GOAL_SHORT_TARGET_RECEIVE_AID">
+      <Text>Receive Aid</Text>
+    </Row>
+		<!-- |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| -->
+		<Row Tag="LOC_EMERGENCY_MEMBER_REWARDS_HOSTILE_EXPLANATION">
+			<Text>If the Members complete all objectives before time runs out:</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_REWARD_NON_HOSTILE_DESCRIPTION">
+			<Text>When time runs out, Members will be rewarded based on their scores:</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_REWARD_FIRST_PLACE_DESCRIPTION">
+			<Text>Only the Member with the highest score will receive:</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_REWARD_TOP_TIER_DESCRIPTION">
+			<Text>Members within the top 25% of scores will receive:</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_REWARD_BOTTOM_TIER_DESCRIPTION">
+			<Text>Members within the next 25% of scores will receive:</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_REWARD_NO_TIER_DESCRIPTION">
+			<Text>Members with no score, or who are in the bottom 50% of scores, will receive nothing.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_REWARD_NO_SCORE_DESCRIPTION">
+			<Text>Members with no score will not receive rewards.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_REWARD_EXTRA_EFFECTS_DESCRIPTION">
+			<Text>Additionally:</Text>
+		</Row>
+    <Row Tag="LOC_EMERGENCY_REWARD_SINGLE_FIRST_PLACE_VICTORY_POINT_DESCRIPTION">
+      <Text>1 Diplomatic Victory Point</Text>
+    </Row>
+		<Row Tag="LOC_EMERGENCY_REWARD_AID_REQUEST_FIRST_PLACE_VICTORY_POINT_DESCRIPTION">
+			<Text>2 Diplomatic Victory Points</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_REWARD_AID_REQUEST_TOP_TIER_FAVOR_DESCRIPTION">
+			<Text>100 [ICON_Favor] Diplomatic Favor</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_REWARD_AID_REQUEST_BOTTOM_TIER_FAVOR_DESCRIPTION">
+			<Text>50 [ICON_Favor] Diplomatic Favor</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_REWARD_WORLD_FAIR_FIRST_PLACE_GREAT_PERSON_POINTS_DESCRIPTION">
+			<Text>100 [ICON_GREATPERSON] Great Person Points</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_REWARD_WORLD_FAIR_TOP_TIER_FAVOR_DESCRIPTION">
+			<Text>50 [ICON_Favor] Diplomatic Favor</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_REWARD_WORLD_FAIR_TOP_TIER_CULTURE_DESCRIPTION">
+			<Text>2 Civic Boosts</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_REWARD_WORLD_FAIR_BOTTOM_TIER_CULTURE_DESCRIPTION">
+			<Text>1 Civic Boost</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_REWARD_WORLD_GAMES_FIRST_PLACE_CAMPUS_TOURISM_DESCRIPTION">
+			<Text>2 [ICON_Tourism] Tourism for each Campus</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_REWARD_WORLD_GAMES_TOP_TIER_FAVOR_DESCRIPTION">
+			<Text>50 [ICON_Favor] Diplomatic Favor</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_REWARD_WORLD_GAMES_TOP_TIER_STADIUMS_TOURISM_DESCRIPTION">
+			<Text>2 [ICON_Tourism] Tourism for each Stadium</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_REWARD_WORLD_GAMES_TOP_TIER_AQUATIC_CENTERS_TOURISM_DESCRIPTION">
+			<Text>2 [ICON_Tourism] Tourism for each Aquatic Center</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_REWARD_WORLD_GAMES_BOTTOM_TIER_STADIUMS_TOURISM_DESCRIPTION">
+			<Text>1 [ICON_Tourism] Tourism for each Stadium</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_REWARD_WORLD_GAMES_BOTTOM_TIER_AQUATIC_CENTERS_TOURISM_DESCRIPTION">
+			<Text>1 [ICON_Tourism] Tourism for each Aquatic Center</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_REWARD_ISS_FIRST_PLACE_SPACESHIP_SPEED_DESCRIPTION">
+			<Text>+3 light years per turn for their exoplanet spaceship</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_REWARD_ISS_TOP_TIER_FAVOR_DESCRIPTION">
+			<Text>50 [ICON_Favor] Diplomatic Favor</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_REWARD_ISS_TOP_TIER_SPACE_RACE_PRODUCTION_DESCRIPTION">
+			<Text>+40% [ICON_Production] Production towards space race projects</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_REWARD_ISS_BOTTOM_TIER_SPACE_RACE_PRODUCTION_DESCRIPTION">
+			<Text>+20% [ICON_Production] Production towards space race projects</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_REWARD_CLIMATE_ACCORDS_FIRST_PLACE_VICTORY_POINT_DESCRIPTION">
+			<Text>1 Diplomatic Victory Point</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_REWARD_CLIMATE_ACCORDS_TOP_TIER_FAVOR_DESCRIPTION">
+			<Text>100 [ICON_Favor] Diplomatic Favor</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_REWARD_CLIMATE_ACCORDS_BOTTOM_TIER_FAVOR_DESCRIPTION">
+			<Text>50 [ICON_Favor] Diplomatic Favor</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_REWARD_NOBEL_PRIZE_LIT_FIRST_PLACE_ROCK_BAND_BUFF_DESCRIPTION">
+			<Text>+50 Album Sales for Rock Bands</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_REWARD_NOBEL_PRIZE_LIT_FIRST_PLACE_ROCK_BAND_CHEAPER_DESCRIPTION">
+			<Text>Rock Bands are 20% cheaper to Purchase</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_REWARD_NOBEL_PRIZE_LIT_TOP_TIER_ROCK_BAND_BUFF_DESCRIPTION">
+			<Text>+75 Album Sales for Rock Bands</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_REWARD_NOBEL_PRIZE_LIT_BOTTOM_TIER_ROCK_BAND_BUFF_DESCRIPTION">
+			<Text>+25 Album Sales for Rock Bands</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_REWARD_NOBEL_PRIZE_PHY_FIRST_PLACE_TECH_BOOST_DESCRIPTION">
+			<Text>1 Technology Boost</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_REWARD_NOBEL_PRIZE_PHY_FIRST_PLACE_UNIVERSITY_RESOURCES_DESCRIPTION">
+			<Text>Increases the accumulation of resources in cities with a University by 1.</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_REWARD_NOBEL_PRIZE_PHY_TOP_TIER_TECH_BOOST_DESCRIPTION">
+			<Text>1 Technology Boost</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_REWARD_NOBEL_PRIZE_PHY_TOP_TIER_UNIVERSITY_RESOURCES_DESCRIPTION">
+			<Text>Increases the accumulation of resources in cities with a Research Lab by 1</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_REWARD_NOBEL_PRIZE_PHY_BOTTOM_TIER_TECH_BOOST_DESCRIPTION">
+			<Text>1 Technology Boost</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_REWARD_NOBEL_PRIZE_PEACE_FIRST_PLACE_GREAT_MUSICIAN_DESCRIPTION">
+			<Text>1 [ICON_GreatMusician] Great Musician</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_REWARD_NOBEL_PRIZE_PEACE_FIRST_PLACE_GREAT_SCIENTIST_DESCRIPTION">
+			<Text>1 [ICON_GreatScientist] Great Scientist</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_REWARD_NOBEL_PRIZE_PEACE_TOP_TIER_GREAT_ENGINEER_DESCRIPTION">
+			<Text>1 [ICON_GreatEngineer]Great Engineer</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_REWARD_NOBEL_PRIZE_PEACE_TOP_TIER_GREAT_ARTIST_DESCRIPTION">
+			<Text>1 [ICON_GreatArtist] Great Artist</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_REWARD_NOBEL_PRIZE_PEACE_BOTTOM_TIER_GREAT_ARTIST_DESCRIPTION">
+			<Text>1 [ICON_GreatArtist] Great Artist</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_REWARD_MEMBERS_GAIN_FAVOR_DESCRIPTION">
+			<Text>Members get 100 [ICON_Favor] Diplomatic Favor</Text>
+		</Row>
+		<Row Tag="LOC_EMERGENCY_REWARD_TARGET_GAINS_FAVOR_DESCRIPTION">
+			<Text>The Target gets 200 [ICON_Favor] Diplomatic Favor</Text>
+		</Row>
+		<!--Governors-->
+		<Row Tag="LOC_GOVERNOR_IBRAHIM_NAME">
+			<Text>Ibrahim</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_IBRAHIM_TITLE">
+			<Text>The Grand Vizier</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_IBRAHIM_SHORT_TITLE">
+			<Text>Grand Vizier</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_IBRAHIM_DESCRIPTION">
+			<Text>Suleiman's vizier {LOC_GOVERNOR_IBRAHIM_NAME}, is a Military and Diplomacy focused governor. In addition to having a unique promotion tree, Ibrahim is the only Governor that can be assigned to another civilization's capital as well as any domestic city. He is well suited for influencing military operations but is also a skilled diplomat, strengthening relationships with friendly civilizations and easing tensions with rivals.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_PASHA_NAME">
+			<Text>Pasha</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_PASHA_DESCRIPTION">
+			<Text>+20% [ICON_Production] Production to all military units in the city.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_HEAD_FALCONER_NAME">
+			<Text>Head Falconer</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_HEAD_FALCONER_DESCRIPTION">
+			<Text>All friendly units fighting within the city's territory gain +5 [ICON_Strength] Combat Strength.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_SERASKER_NAME">
+			<Text>Serasker</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_SERASKER_DESCRIPTION">
+			<Text>Grants all units within 10 tiles of the City Center +10 [ICON_Strength] Combat Strength when attacking defensible districts.</Text>
+		</Row>
+		<Row Tag="LOC_COMBAT_PREVIEW_CITY_GOVERNOR_ATTACK_DISTRICT_COMBAT_BONUS">
+			<Text>+{1_Amount} Serasker</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_KHASS_ODA_BASHI_NAME">
+			<Text>Khass-Oda-Bashi</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_KHASS_ODA_BASHI_DESCRIPTION">
+			<Text>When established in an allied foreign [ICON_Capital] Capital, your Alliance Points with the owner increase an extra .5 per turn.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_CAPOU_AGHA_NAME">
+			<Text>Capou Agha</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_CAPOU_AGHA_DESCRIPTION">
+			<Text>When established in a foreign [ICON_Capital] Capital, [ICON_STAT_GRIEVANCE] Grievances from the city owner against you are reduced by 1 more per turn.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_GRAND_VISIER_NAME">
+			<Text>Grand Vizier</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_GRAND_VISIER_DESCRIPTION">
+			<Text>When established in a foreign [ICON_Capital] Capital, none of the owner's cities exert Loyalty pressure on your cities.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_RENEWABLE_ENERGY_NAME">
+			<Text>Renewable Subsidizer</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_RENEWABLE_ENERGY_DESCRIPTION">
+			<Text>All Offshore Wind Farms, Solar Farms, Wind Farms, Geothermal Plants, and Hydroelectric Dams in this city receive +2 [ICON_POWER] Power and +2 [ICON_Gold] Gold.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_FORESTRY_MANAGEMENT_NAME">
+			<Text>Forestry Management</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_MERCHANT_FORESTRY_MANAGEMENT_DESCRIPTION">
+			<Text>This city receives +2 [ICON_Gold] Gold from each unimproved feature. Tiles adjacent to unimproved features receive +1 Appeal in this city.</Text>
+		</Row>
+		<Row Tag="LOC_VICTORY_DIPLOMATIC_DESCRIPTION">
+			<Text>To achieve a [COLOR:DiplomaticLabelCS]DIPLOMATIC[ENDCOLOR] victory, be the first to accumulate the target number of Diplomatic Points. Whenever you vote for the target and option combination that passes for a World Congress Resolution, you will earn one Diplomatic Point.  You can earn additional points through the Diplomatic Victory Proposal in the World Congress, by generating the highest score in Aid Requests, or by completing the Seasteads Tech, the Global Warming Mitigation Civic, or the Statue of Liberty, Mahabodhi Temple, or Potala Palace Wonders.</Text>
+		</Row>
+		<Row Tag="LOC_VICTORY_DIPLOMATIC_BLURB">
+			<Text>Your ancient and eternal commitment to a shared peace will be the foundation of the world of tomorrow.</Text>
+		</Row>
+		<Row Tag="LOC_VICTORY_DIPLOMATIC_REQUIREMENT">
+			<Text>Diplomatic Points: {1_NumDiplomaticPoints}/{2_TotalDiplomaticPoints}</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_RANKINGS_DIPLOMATIC_POINTS_TT">
+			<Text>Diplomatic Points: {1_NumDiplomaticPoints}/{2_TotalDiplomaticPoints}</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_LOCAL_INFORMANTS_NAME">
+			<Text>Local Informants</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_AMBASSADOR_FOREIGN_INVESTOR_NAME">
+			<Text>Foreign Investor</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_AMBASSADOR_FOREIGN_INVESTOR_DESCRIPTION">
+			<Text>While established in a city-state, accumulate its Strategic resources. When suzerain receive double the amount of accumulated strategic resources.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_LOCAL_INFORMANTS_DESCRIPTION">
+			<Text>Enemy Spies operate at 3 levels below normal in this city.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_REINFORCED_INFRASTRUCTURE_NAME">
+			<Text>Reinforced Materials</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_REINFORCED_INFRASTRUCTURE_DESCRIPTION">
+			<Text>This city’s improvements, buildings, and districts cannot be damaged by Environmental Effects.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_WATER_WORKS_NAME">
+			<Text>Water Works</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_PROMOTION_WATER_WORKS_DESCRIPTION">
+			<Text>+2 [ICON_HOUSING] Housing for every Neighborhood and Aqueduct district in this city. +1 [ICON_AMENITIES] Amenity for every Canal and Dam district in this city.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNOR_CANNOT_ASSIGN_TO_UNREVEALED_CITY">
+			<Text>[COLOR_RED]The location of this city is not yet known.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_AT_WAR_WITH_CIVILIZATION">
+			<Text>[COLOR_RED]You are at war with this civilization.</Text>
+		</Row>
+		<!--Diplomacy UI-->
+		<Row Tag="LOC_DIPLO_CHOICE_DENOUNCE_NO_GRIEVANCE">
+			<Text>Denounce</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_CHOICE_DENOUNCE">
+			<Text>[SIZE_16]Denounce[NEWLINE][SIZE_12]</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_GRIEVANCES_WITH_US">
+			<Text>{1_DiploState},[NEWLINE][COLOR_RED]{2_Grievances} [ICON_STAT_GRIEVANCE] Grievances against us.[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_GRIEVANCES_WITH_THEM">
+			<Text>{1_DiploState},[NEWLINE][COLOR_GREEN]{2_Grievances} [ICON_STAT_GRIEVANCE] Grievances against them.[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_GRIEVANCES_NONE">
+			<Text>{1_DiploState},[NEWLINE]No Grievances.</Text>
+		</Row>
+		<Row Tag="LOC_XP2_RAZE_CITY_RAZE_FREE_CITY_EXPLANATION">
+			<Text>Raze city clearing it and all its districts and buildings from the map. This option must be chosen the turn the city is conquered.</Text>
+		</Row>
+    <Row Tag="LOC_XP2_RAZE_CITY_KEEP_FREE_CITY_EXPLANATION">
+      <Text>Keeping this Free City will not cause any [ICON_STAT_GRIEVANCE] Grievances with other players.</Text>
+    </Row>
+    <Row Tag="LOC_XP2_RAZE_CITY_LIBERATE_WARMONGER_EXPLANATION">
+			<Text>Liberating this city will earn you {1_Favor} [ICON_Favor] Diplomatic Favor.</Text>
+		</Row>
+		<Row Tag="LOC_XP2_RAZE_CITY_KEEP_WARMONGER_EXPLANATION">
+			<Text>Keeping this city will give this opponent {1_Grievances} [ICON_STAT_GRIEVANCE] Grievances against us.[NEWLINE][NEWLINE][ICON_STAT_GRIEVANCE] Grievances will be either refunded or doubled at the end of the war depending on whether or not you keep the city.</Text>
+		</Row>
+		<Row Tag="LOC_XP2_RAZE_CITY_KEEP_LAST_CITY_EXPLANATION">
+			<Text>Keeping this opponent's final city will give all major powers {1_Grievances} [ICON_STAT_GRIEVANCE] Grievances against us (though these are reduced for other powers at war with this eliminated foe).</Text>
+		</Row>
+		<Row Tag="LOC_XP2_RAZE_CITY_RAZE_WARMONGER_EXPLANATION">
+			<Text>Razing this city will give this opponent {1_Grievances} [ICON_STAT_GRIEVANCE] Grievances against us!</Text>
+		</Row>
+		<Row Tag="LOC_XP2_RAZE_CITY_RAZE_LAST_CITY_EXPLANATION">
+			<Text>Razing this opponent's final city will give all major powers {1_Grievances} [ICON_STAT_GRIEVANCE] Grievances against us (though these are reduced for other powers at war with this eliminated foe).</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_CHOICE_NEGATIVE">
+			<Text>My people will settle where they please![NEWLINE][SIZE_12]Generates [COLOR_Civ6DarkRed]25[ENDCOLOR] [ICON_STAT_GRIEVANCE] Grievances[SIZE_18]</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_CHOICE_POSITIVE">
+			<Text>Apologies, I will look elsewhere in the future.[NEWLINE][SIZE_12]Gain 30 [ICON_Favor] Diplomatic Favor[SIZE_18]</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_CHOICE_NEGATIVE">
+			<Text>I cannot promise that.[NEWLINE][SIZE_12]Generates [COLOR_Civ6DarkRed]25[ENDCOLOR] [ICON_STAT_GRIEVANCE] Grievances[SIZE_18]</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_CHOICE_POSITIVE">
+			<Text>I apologize, I will cease these operations at once.[NEWLINE][SIZE_12]Gain 30 [ICON_Favor] Diplomatic Favor[SIZE_18]</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_CHOICE_NEGATIVE">
+			<Text>You cannot lay claim to history. I will dig where I please.[NEWLINE][SIZE_12]Generates [COLOR_Civ6DarkRed]25[ENDCOLOR] [ICON_STAT_GRIEVANCE] Grievances[SIZE_18]</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_CHOICE_POSITIVE">
+			<Text>Apologies, I will move my Archaeologists elsewhere.[NEWLINE][SIZE_12]Gain 30 [ICON_Favor] Diplomatic Favor[SIZE_18]</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_CHOICE_NEGATIVE">
+			<Text>If it is God's will that your people believe in our ways, who am I to stop it?[NEWLINE][SIZE_12]Generates [COLOR_Civ6DarkRed]25[ENDCOLOR] [ICON_STAT_GRIEVANCE] Grievances[SIZE_18]</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_CHOICE_POSITIVE">
+			<Text>I'm sorry, I thought my people would be welcome. I was mistaken.[NEWLINE][SIZE_12]Gain 30 [ICON_Favor] Diplomatic Favor[SIZE_18]</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_CHOICE_DECLARE_LIBERATION_WAR_TOOLTIP">
+			<Text>[NEWLINE][NEWLINE](No [ICON_STAT_GRIEVANCE] Grievances generated when capturing friendly cities)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_CHOICE_DECLARE_RECONQUEST_WAR_TOOLTIP">
+			<Text>[NEWLINE][NEWLINE](No [ICON_STAT_GRIEVANCE] Grievances generated when recapturing your cities)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_CHOICE_DECLARE_PROTECTORATE_WAR_TOOLTIP">
+			<Text>[NEWLINE][NEWLINE](No [ICON_STAT_GRIEVANCE] Grievances generated when defending allied city-states)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLOMACY_ACTION_FAILURE_REASON_INSUFFICIENT_FAVOR">
+			<Text>Unable to {1_ActionType}[NEWLINE][COLOR_RED]You need {2_FavorRequirement} [ICON_Favor] Diplomatic Favor.[ENDCOLOR]</Text>
+		</Row>
+		<!--Grievance Log-->
+		<Row Tag="LOC_DIPLO_GRIEVANCE_LOG_WAR_DECLARED">
+			<Text>War Declared between us</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GRIEVANCE_LOG_CITY_STATE_WAR_DECLARED">
+			<Text>War Declared on City-State: {1_CityName}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GRIEVANCE_LOG_WAR_DECLARED_ALLY">
+			<Text>War Declared on Ally: {1_CivName}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GRIEVANCE_LOG_WAR_DECLARED_FRIEND">
+			<Text>War Declared on Friend: {1_CivName}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GRIEVANCE_LOG_CITY_OCCUPIED">
+			<Text>City Occupied: {1_CityName}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GRIEVANCE_LOG_LAST_CITY_OCCUPIED">
+			<Text>Final City Captured: {1_CityName}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GRIEVANCE_LOG_CITY_RAZED">
+			<Text>City Razed: {1_CityName}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GRIEVANCE_LOG_CITY_CEDED">
+			<Text>City Ceded: {1_CityName}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GRIEVANCE_LOG_CITY_RETURNED">
+			<Text>City Returned: {1_CityName}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GRIEVANCE_LOG_CITY_LIBERATED">
+			<Text>City Liberated: {1_CityName}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GRIEVANCE_LOG_CITY_STATE_CONQUERED">
+			<Text>City-State Conquered: {1_CityName}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GRIEVANCE_LOG_CITY_STATE_RAZED">
+			<Text>City-State Razed: {1_CityName}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GRIEVANCE_LOG_PROMISE_REFUSED">
+			<Text>Refused to Make Promise</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GRIEVANCE_LOG_PROMISE_BROKEN">
+			<Text>Promise Broken</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GRIEVANCE_TOOLTIP_DECAY_DOUBLED">
+			<Text>[NEWLINE]{1_Amount} from double the usual per turn decay in the {2_Era}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GRIEVANCE_LOG_PROMISE_BEHAVIOR_CONTINUED">
+			<Text>Promise Refused and Continued Behavior</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GRIEVANCE_LOG_DENOUNCED">
+			<Text>Denounced</Text>
+		</Row>
+		<!--Grievance Diplo Tooltip -->
+		<Row Tag="LOC_DIPLO_GRIEVANCE_TOOLTIP_HEADER">
+			<Text>{1_Grievances} [ICON_STAT_GRIEVANCE] Grievances accumulated against {2_Civilization}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GRIEVANCE_TOOLTIP_AT_WAR">
+			<Text>AT WAR [ICON_STAT_GRIEVANCE] Grievances will not decay until the war has ended.</Text>
+		</Row>
+    <Row Tag="LOC_DIPLO_GRIEVANCE_TOOLTIP_DISABLED">
+      <Text>DISABLED [ICON_STAT_GRIEVANCE] Grievances will not decay due to a policy you have enacted.</Text>
+    </Row>
+    <Row Tag="LOC_DIPLO_GRIEVANCE_TOOLTIP_GAINING">
+			<Text>GAINING [ICON_STAT_GRIEVANCE] Grievances per turn from:</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GRIEVANCE_TOOLTIP_LOSING">
+			<Text>LOSING [ICON_STAT_GRIEVANCE] Grievances per turn from:</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GRIEVANCE_TOOLTIP_UNCHANGED">
+			<Text>STEADY [ICON_STAT_GRIEVANCE] Grievances per turn are not changing:</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GRIEVANCE_TOOLTIP_DECAY">
+			<Text>[NEWLINE]{1_Amount} from per turn decay in the {2_Era}</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GRIEVANCE_TOOLTIP_GOVERNOR">
+			<Text>[NEWLINE]{1_Amount} foreign governor easing tensions in [ICON_Capital] Capital.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GRIEVANCE_TOOLTIP_POSSESS_CAPITAL">
+			<Text>[NEWLINE]{1_Amount} for occupying the opponent's original [ICON_Capital] Capital.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GRIEVANCE_TOOLTIP_POSSESS_NON_CAPITAL">
+			<Text>[NEWLINE]{1_Amount} for occupying one of the opponent's cities.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GRIEVANCE_TOOLTIP_DECAY_MODIFIER">
+			<Text>[NEWLINE][NEWLINE]Decay rate boosted by +{1_Amount}% with this leader.</Text>
+		</Row>
+		<!--World Rankings UI-->
+		<Row Tag="LOC_WORLD_RANKINGS_CULTURE_TOURIST_TOOLTIP_REDUCTION_MODIFIER">
+			<Text>{1_Tooltip}[NEWLINE]Overall [ICON_Tourism] Tourism Reduced {2_Percent}% for their other effects</Text>
+		</Row>
+		<!--Government UI-->
+		<Row Tag="LOC_GOVERNMENT_FAVOR_BONUS">
+			<Text>Favor generation</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_FAVOR_PER_TURN">
+			<Text>Gain {1_FavorPerTurn} [ICON_FAVOR] Diplomatic Favor per [ICON_Turn] Turn.</Text>
+		</Row>
+		<Row Tag="LOC_TOOLTIP_POLICY_REQUIRES_GOVERNMENT">
+			<Text>{1_NumGovernments : plural 1?REQUIRE GOVERNMENT; other?REQUIRES GOVERNMEMT(Any);}</Text>
+		</Row>
+		<!--City-State Panel UI-->
+		<Row Tag="LOC_CITY_STATE_PANEL_UNIQUE_SUZERAIN_BONUS_DISABLED">
+			<Text>(Disabled by World Congress)</Text>
+		</Row>
+		<!--Alliance-->
+		<Row Tag="LOC_ALLIANCE_POINTS_FROM_YOUR_GOVERNOR">
+			<Text>[NEWLINE]{1_Amount} Points from your Governor</Text>
+		</Row>
+		<Row Tag="LOC_ALLIANCE_POINTS_FROM_THEIR_GOVERNOR">
+			<Text>[NEWLINE]{1_Amount} Points from your ally's Governor</Text>
+		</Row>
+		<!-- World Congress -->
+		<Row Tag="LOC_WORLD_CONGRESS_TOP_PANEL_FAVOR_TOOLTIP">
+			<Text>This is Diplomatic Favor, a currency for buying votes.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_INTRO_TITLE">
+			<Text>WELCOME TO THE WORLD CONGRESS</Text>
+		</Row>
+		<Row Tag="LOC_SPECIAL_CONGRESS_INTRO_TITLE">
+			<Text>SPECIAL SESSION OF THE WORLD CONGRESS</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_IS_CURRENTLY_IN_SESSION">
+			<Text>The World Congress is currently in session.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_IS_CURRENTLY_IN_A_SPECIAL_SESSION">
+			<Text>The World Congress is currently in special session.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_INTRO_BODY_1">
+			<Text>The World Congress is now in Session! Each World Leader must vote on the Proposals currently on the floor.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_INTRO_BODY_2">
+			<Text>Once everyone's votes are submitted, winning Proposals are enacted until the next meeting of the World Congress.</Text>
+		</Row>
+		<Row Tag="LOC_SPECIAL_CONGRESS_INTRO_BODY_1">
+			<Text>The World Congress has been summoned to a Special Session to consider Discussions.</Text>
+		</Row>
+		<Row Tag="LOC_SPECIAL_CONGRESS_INTRO_BODY_2">
+			<Text>Once everyone's votes are submitted, passed Discussions are enacted, beginning the associated Emergencies.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_TITLE">
+			<Text>THE WORLD CONGRESS: IN SESSION</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_END">
+			<Text>THE WORLD CONGRESS: SESSION COMPLETE!</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_NOT_IN_SESSION">
+			<Text>THE WORLD CONGRESS: NOT IN SESSION</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_VOTE_NORMAL_SESSION_DESCRIPTION">
+			<Text>You must decide how best to exploit the opportunities available to you in World Congress. Wield your accumulated [ICON_FAVOR] Diplomatic Favor to vote on Proposals that are important to you and your people.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_VOTE_SPECIAL_SESSION_DESCRIPTION">
+			<Text>Recent events demand the attention of the World Congress. Wield your accumulated [ICON_FAVOR] Diplomatic Favor to vote on Discussions that are important to you and your people.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_SUBMIT_PROPOSALS_CONFIRM">
+			<Text>Are you sure you want to submit these Proposals?</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_SPECIAL_SESSION_TITLE">
+			<Text>THE WORLD CONGRESS: IN SPECIAL SESSION</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_SPECIAL_SESSION_END">
+			<Text>THE WORLD CONGRESS: SPECIAL SESSION COMPLETE!</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_SPECIAL_SESSION_INSTRUCTIONS">
+			<Text>Use [ICON_FAVOR] Diplomatic Favor to Vote on these Discussions.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_SPECIAL_SESSION_CONFIRM">
+			<Text>Are you sure you want to submit these Proposals?</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_CHOOSE_TITLE">
+			<Text>THE WORLD CONGRESS: IN SESSION</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_RESULTS_TITLE">
+			<Text>THE WORLD CONGRESS: RESULTS</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_RESULTS_DESCRIPTION">
+			<Text>Review the outcome of the last session of the World Congress.[NEWLINE]Congress will reconvene in {1_Turns} turns, or as a Special Session if requested.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_EFFECTS_DESCRIPTION">
+			<Text>These Proposals (from all previous World Congress Sessions) are currently in effect:</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_AVAILABLE_PROPOSALS_DESCRIPTION">
+			<Text>Here you can request a special session of The World Congress if you have enough [ICON_FAVOR] Diplomatic Favor.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_INTRO_ACCEPT">
+			<Text>Begin Voting</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_GRIEVANCE_VALUE">
+			<Text>[ICON_GRIEVANCE] {1_Grievances}</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_GRIEVANCE_DEFINITION">
+			<Text>You have [ICON_GRIEVANCE_TT] {1_Grievances} Grievances against this leader</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_NEXT">
+			<Text>Next</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_PREV">
+			<Text>Previous</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_SUBMIT">
+			<Text>Submit</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_RETURN">
+			<Text>Return to Game</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_FAVOR">
+			<Text>[ICON_FAVOR] {1_Favor}</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_CATEGORY_FAVOR">
+			<Text>Cost: [ICON_FAVOR] {1_Favor}</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_FAVOR_TITLE">
+			<Text>[ICON_FAVOR_LARGE] {1_Favor}</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_BETWEEN_TURNS_TITLE">
+			<Text>Waiting for other players</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_BETWEEN_TURNS_TITLE_YOU">
+			<Text>Waiting for you</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_BETWEEN_TURNS_WAITING">
+			<Text>Waiting for proposals</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_BETWEEN_TURNS_SUBMITTED">
+			<Text>Proposal Submitted</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_BETWEEN_TURNS_READY">
+			<Text>All Proposals Submitted</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_BETWEEN_TURNS_DESCRIPTION">
+			<Text>The World Congress will reconvene once the remaining players have submitted their proposals for deliberation.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_HUD_BAR_TIME_UNTIL_NEXT_SESSION">
+			<Text>Time until next Session:{1_Turns : plural 1? {1_Turns} turn; other? {1_Turns} turns;}</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_MEMBERS">
+			<Text>Congress Members</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_RESULTS_PROPOSALS_ENACTED">
+			<Text>Proposals Enacted: ({1_Proposals})</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_RESULTS_WORLD_EVENT_RESOLUTIONS">
+			<Text>Resolutions</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_DELIBERATION_PROPOSED_TARGET">
+			<Text>Select a Target for this Resolution:</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_PROPOSAL_SUBMISSION_WORLD_EVENT_RESOLUTIONS">
+			<Text>Resolutions</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_PROPOSED_BY">
+			<Text>Proposed by {1_Senders}</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_PROPOSAL_PASSED">
+			<Text> - [COLOR:Civ6Green]PASSED[ENDCOLOR]</Text>
+		</Row>
+    <Row Tag="LOC_WORLD_CONGRESS_PROPOSAL_PASSED_TIE">
+      <Text> - [COLOR:Civ6Green]PASSED VIA TIE BREAKER[ENDCOLOR]</Text>
+    </Row>
+		<Row Tag="LOC_WORLD_CONGRESS_PROPOSAL_FAILED">
+			<Text> - [COLOR:Civ6Red]FAILED[ENDCOLOR]</Text>
+		</Row>
+    <Row Tag="LOC_WORLD_CONGRESS_PROPOSAL_FAILED_TIE">
+      <Text> - [COLOR:Civ6Red]FAILED VIA TIE BREAKER[ENDCOLOR]</Text>
+    </Row>
+		<Row Tag="LOC_WORLD_CONGRESS_TT_LEADER_FAVOR">
+			<Text>This leader has [ICON_FAVOR] {1_Num} Diplomatic Favor.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_TT_PLAYER_FAVOR">
+			<Text>You have [ICON_FAVOR] {1_Num} Diplomatic Favor.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_TT_PLAYER_FAVOR_TO_SPEND">
+			<Text>You have this much [ICON_FAVOR] Diplomatic Favor left to spend.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_TT_RESOLUTIONS_FAVOR_COST_WITH_REFUND">
+			<Text>You are spending [ICON_FAVOR] {1_Num} Diplomatic Favor on Resolutions.  If the World Congress does not agree with your selections, some of your Favor will be refunded.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_TT_DISCUSIONS_FAVOR_COST_WITH_REFUND">
+			<Text>You are spending [ICON_FAVOR] {1_Num} Diplomatic Favor on these Discussions.  If the World Congress does not agree with your votes, some of your Favor will be refunded.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_TT_DISCUSIONS_FAVOR_COST_NO_REFUND">
+			<Text>You are spending [ICON_FAVOR] {1_Num} Diplomatic Favor to propose these Discussions.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_TT_INSUFFICIENT_FAVOR_COST">
+			<Text>Insufficient [ICON_FAVOR] Diplomatic Favor. You need at least [ICON_FAVOR] {1_Num} Diplomatic Favor.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_TT_NO_VOTING_DOWN">
+			<Text>Vote for the target that you would like this Resolution to affect, and which effect should be implemented.  Your first vote is free.</Text>
+		</Row>
+    <Row Tag="LOC_WORLD_CONGRESS_TT_PLEASE_VOTE_AGAINST_TARGET">
+      <Text>Vote against this Discussion.  If the Discussion passes, you will be targeted by this Emergency.  Your first vote is free.</Text>
+    </Row>
+		<Row Tag="LOC_WORLD_CONGRESS_TT_PLEASE_VOTE_AGAINST">
+			<Text>Vote against this Discussion.  Even if the Discussion passes, you will not be involved in the resulting Scored Competition.  Your first vote is free.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_TT_PLEASE_VOTE_FOR">
+			<Text>Vote for this Discussion.  If the Discussion passes, you will join the resulting Scored Competition.  Your first vote is free.</Text>
+		</Row>
+    <Row Tag="LOC_WORLD_CONGRESS_TT_TIE_EXPLANATION">
+      <Text>In the event of a tie, the target for which Civilizations spent the greatest percentage of their [ICON_Favor] Diplomatic Favor when voting will be the winner.</Text>
+    </Row>
+		<Row Tag="LOC_WORLD_CONGRESS_TT_SELECT_ONE">
+			<Text>You must submit at least one Proposal.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_TT_SELECT_ALL">
+			<Text>You must vote on all submitted Proposals.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_TT_GAME_PAUSED">
+			<Text>You can not progress while the game is paused.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_TT_PROPOSAL_COST">
+			<Text>The cost of this Discussion will be {1_Num} [ICON_FAVOR] Diplomatic Favor.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_TT_CATEGORY_COST">
+			<Text>The cost of all Discussions in this category will be {1_Num} [ICON_FAVOR] Diplomatic Favor.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_TT_PROPOSAL_REFUND">
+			<Text>Remove this Discussion and refund {1_Num} [ICON_FAVOR] Diplomatic Favor.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_TT_VOTE_UP">
+			<Text>Add a vote for {1_Num} [ICON_FAVOR] Diplomatic Favor.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_TT_VOTE_DOWN">
+			<Text>Remove one vote and refund {1_Num} [ICON_FAVOR] Diplomatic Favor.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_TT_VOTE_UP_SUMMARY">
+			<Text>You are about to submit {1_Votes} {1_Votes : plural 1?vote; other?votes;} favoring this Discussion.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_TT_VOTE_DOWN_SUMMARY">
+			<Text>You are about to submit {1_Votes} {1_Votes : plural 1?vote; other?votes;} against this Discussion.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_TT_VOTE_COST">
+			<Text>{1_Icon} {2_Votes} {2_Votes : plural 1?Vote; other?Votes;} will cost {3_Cost} [ICON_FAVOR] Diplomatic Favor.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_TT_NEW_RESOLUTION">
+			<Text>This Resolution was passed during the last session of The World Congress.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_TT_NEW_PROPOSAL">
+			<Text>This Discussion was passed during the last session of The World Congress.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_TT_MAX_ONE_PROPOSAL">
+			<Text>You can only propose one resolution per player.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_A_VOTES">
+			<Text>A:</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_A_VOTES_TT">
+			<Text>The following players chose outcome A:[NEWLINE][NEWLINE]{1_players}</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_PREFERRED_VOTES_TT">
+			<Text>The following players prefer this outcome:[NEWLINE][NEWLINE]{1_players}</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_A_VOTES_TT_SUMMARY">
+			<Text>You are about to submit {1_Amount} {1_Amount : plural 1?vote; other?votes;} for outcome A.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_B_VOTES">
+			<Text>B:</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_B_VOTES_TT">
+			<Text>The following players chose outcome B:[NEWLINE][NEWLINE]{1_players}</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_B_VOTES_TT_SUMMARY">
+			<Text>You are about to submit {1_Amount} {1_Amount : plural 1?vote; other?votes;} for outcome B.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_SELECT_TARGET">
+			<Text>Choose a Target</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_LAST_SESSION_RESULTS">
+			<Text>Last Session Results</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_ACTIVE_EFFECTS">
+			<Text>Active Effects</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_AVAILABLE_PROPOSALS">
+			<Text>Available Proposals</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_CONFIRM_SUBMIT_PROPOSALS">
+			<Text>Submitting the selected Discussion(s) will cost [ICON_FAVOR] {1_NumFavor} Diplomatic Favor and will trigger a Special Session of the World Congress during the next turn.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_REVIEW_PROPOSAL_TARGET">
+			<Text>Elected Target:</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_REVIEW_PROPOSAL_OUTCOME">
+			<Text>Elected Outcome: {1_ChoiceLabel}</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_PREVIEW_PROPOSAL_TARGET">
+			<Text>Chosen Target:</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_PREVIEW_PROPOSAL_OUTCOME">
+			<Text>Chosen Outcome: {1_ChoiceLabel}</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_REVIEW_PROPOSAL_REJECTED_OUTCOME">
+			<Text>Rejected Outcome: {1_ChoiceLabel}</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_REVIEW_VOTER_TARGET">
+			<Text>Chose Target:</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_REVIEW_VOTER_OUTCOME">
+			<Text>Chose Outcome: {1_ChoiceLabel}</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_NO_AVAILABLE_PROPOSALS_TT">
+			<Text>You don’t have any Proposals to submit to the World Congress.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_TURNS_LEFT_TT">
+			<Text>This World Congress effect will expire in [ICON_TURN] {1_Turns} {1_Turns : plural 1?turn; other?turns;}.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_TARGET_RESOLUTION_TT">
+			<Text>Is the target of this Resolution</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_TARGET_PROPOSAL_TT">
+			<Text>Is the target of this Competition</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_REVIEW_A_VOTES_TT">
+			<Text>{1_Votes} {1_Votes : plural 1?vote was; other?votes were;} submitted in favor of outcome A.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_REVIEW_B_VOTES_TT">
+			<Text>{1_Votes} {1_Votes : plural 1?vote was; other?votes were;} submitted in favor of outcome B.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_REVIEW_UP_VOTES_TT">
+			<Text>{1_Votes} {1_Votes : plural 1?vote was; other?votes were;} submitted in favor of this Competition.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_REVIEW_DOWN_VOTES_TT">
+			<Text>{1_Votes} {1_Votes : plural 1?vote was; other?votes were;} submitted against this Competition.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_REVIEW_A_VOTES_PLAYER_TT">
+			<Text>{1_PlayerName} submitted {2_Votes} {2_Votes : plural 1?vote; other?votes;} in favor of outcome A.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_REVIEW_B_VOTES_PLAYER_TT">
+			<Text>{1_PlayerName} submitted {2_Votes} {2_Votes : plural 1?vote; other?votes;} in favor of outcome B.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_REVIEW_UP_VOTES_PLAYER_TT">
+			<Text>{1_PlayerName} submitted {2_Votes} {2_Votes : plural 1?vote; other?votes;} in favor of this Competition.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_REVIEW_DOWN_VOTES_PLAYER_TT">
+			<Text>{1_PlayerName} submitted {2_Votes} {2_Votes : plural 1?vote; other?votes;} against this Competition.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_EMPTY">
+			<Text>A session of World Congress will begin in {1_Turns} {1_Turns : plural 1?turn; other?turns;}.[NEWLINE][NEWLINE]Congress may also be summoned for a Special Session by choosing from Available Proposals. As crises occur across the world, new Proposals will become available.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_CONGRESS_OR">
+			<Text>OR</Text>
+		</Row>
+    <Row Tag="LOC_WORLD_CONGRESS_CHOICE_A">
+      <Text>A</Text>
+    </Row>
+    <Row Tag="LOC_WORLD_CONGRESS_CHOICE_B">
+      <Text>B</Text>
+    </Row>
+    <Row Tag="LOC_WORLD_CONGRESS_PASS">
+      <Text>Pass</Text>
+    </Row>
+    <Row Tag="LOC_WORLD_CONGRESS_ADD_PROPOSALS">
+      <Text>Add Proposals</Text>
+    </Row>
+    <Row Tag="LOC_WORLD_CONGRESS_CITY_STATE_EMERGENCY_SUMMARY">
+      <Text>"{TargetName} has captured {OldCityName}. We must restore its independence."</Text>
+    </Row>
+    <Row Tag="LOC_WORLD_CONGRESS_RELIGIOUS_EMERGENCY_SUMMARY">
+      <Text>"{TargetName} has converted {OldCityName} to {NewReligion}. We must eradicate this new faith."</Text>
+    </Row>
+    <Row Tag="LOC_WORLD_CONGRESS_BETRAYAL_EMERGENCY_SUMMARY">
+      <Text>"{TargetName} has betrayed {OldPlayerName}. We must punish their treachery."</Text>
+    </Row>
+    <Row Tag="LOC_WORLD_CONGRESS_MILITARY_EMERGENCY_SUMMARY">
+      <Text>"{TargetName} has captured {OldCityName}. We must resist their aggression."</Text>
+    </Row>
+    <Row Tag="LOC_WORLD_CONGRESS_NUCLEAR_EMERGENCY_SUMMARY">
+      <Text>"{TargetName} has used a nuclear weapon. We must punish this despicable act."</Text>
+    </Row>
+    <Row Tag="LOC_WORLD_CONGRESS_AID_REQUEST_SUMMARY">
+      <Text>"{TargetName} was ravaged by a Natural Disaster. We should help them recover."</Text>
+    </Row>
+    <Row Tag="LOC_WORLD_CONGRESS_MILITARY_AID_REQUEST_SUMMARY">
+      <Text>"{TargetName} is targetted by an aggressive enemy. We should fund their defense."</Text>
+    </Row>
+    <Row Tag="LOC_WORLD_CONGRESS_CLIMATE_ACCORD_SUMMARY">
+      <Text>"We all share this planet. For our children and their children after them, we must protect it."</Text>
+    </Row>
+    <Row Tag="LOC_WORLD_CONGRESS_WORLD_GAMES_SUMMARY">
+      <Text>"Athleticism need not be proven in battle.  Let us prove who is strongest through sport."</Text>
+    </Row>
+    <Row Tag="LOC_WORLD_CONGRESS_WORLDS_FAIR_SUMMARY">
+      <Text>"Which nation has the best creatives and inventors? Let us see who has the brightest minds."</Text>
+    </Row>
+    <Row Tag="LOC_WORLD_CONGRESS_ISS_SUMMARY">
+      <Text>"Space is too large for any one civilization. Let us work together to explore this unknown frontier."</Text>
+    </Row>
+    <Row Tag="LOC_WORLD_CONGRESS_NOBEL_PRIZE_PEACE_SUMMARY">
+      <Text>"Sweden wishes to acknowledge the most peaceful nation.  We shall see which of us that is."</Text>
+    </Row>
+    <Row Tag="LOC_WORLD_CONGRESS_NOBEL_PRIZE_LITERATURE_SUMMARY">
+      <Text>"Sweden wishes to acknowledge superb penmanship.  We shall see who produces the best literature."</Text>
+    </Row>
+    <Row Tag="LOC_WORLD_CONGRESS_NOBEL_PRIZE_SCIENCE_SUMMARY">
+      <Text>"Sweden wishes to acknowledge scientific leadership.  We shall see who best fosters the sciences."</Text>
+    </Row>
+    <!-- Scored Competitions -->
+    <Row Tag="LOC_SCORED_COMPETITION_EMERGENCY_COMPLETED">
+      <Text>{1_Name} COMPLETED</Text>
+    </Row>
+    <Row Tag="LOC_SCORED_COMPETITION_EMERGENCY_ONGOING">
+      <Text>ONGOING {1_Name}</Text>
+    </Row>
+    <Row Tag="LOC_SCORED_COMPETITION_COMPETITION_COMPLETED">
+      <Text>COMPETITION COMPLETED</Text>
+    </Row>
+    <Row Tag="LOC_SCORED_COMPETITION_COMPETITION_ONGOING">
+      <Text>ONGOING COMPETITION</Text>
+    </Row>
+    <Row Tag="LOC_SCORED_COMPETITION_YOU_WIN">
+      <Text>YOU WIN!</Text>
+    </Row>
+    <Row Tag="LOC_SCORED_COMPETITION_LEADER_WINS">
+      <Text>{1_Name} WINS!</Text>
+    </Row>
+    <Row Tag="LOC_SCORED_COMPETITION_MEMBERS_WIN">
+      <Text>MEMBERS WIN!</Text>
+    </Row>
+    <Row Tag="LOC_SCORED_COMPETITION_TARGET_WINS">
+      <Text>TARGET WINS!</Text>
+    </Row>
+    <Row Tag="LOC_SCORED_COMPETITION_YOU_EARNED_BRONZE">
+      <Text>You earned [ICON_Reward_Bronze] BRONZE Tier Rewards</Text>
+    </Row>
+    <Row Tag="LOC_SCORED_COMPETITION_YOU_EARNED_SILVER">
+      <Text>You earned [ICON_Reward_Silver] SILVER Tier Rewards</Text>
+    </Row>
+    <Row Tag="LOC_SCORED_COMPETITION_YOU_EARNED_GOLD">
+      <Text>You earned [ICON_Reward_Gold] GOLD Tier Rewards</Text>
+    </Row>
+    <Row Tag="LOC_SCORED_COMPETITION_YOU_EARNED_NONE">
+      <Text>You earned [ICON_Reward_None] No Rewards</Text>
+    </Row>
+    <Row Tag="LOC_SCORED_COMPETITION_YOU_EARNED_TARGET">
+      <Text>You earned [ICON_Reward_Target] Target Rewards</Text>
+    </Row>
+    <Row Tag="LOC_SCORED_COMPETITION_YOU_EARNED_MEMBER">
+      <Text>You earned [ICON_Reward_Member] Member Rewards</Text>
+    </Row>
+    <Row Tag="LOC_SCORED_COMPETITION_GOLD_TIER">
+      <Text>[ICON_Reward_Gold] GOLD Tier</Text>
+    </Row>
+    <Row Tag="LOC_SCORED_COMPETITION_SILVER_TIER">
+      <Text>[ICON_Reward_Silver] SILVER Tier</Text>
+    </Row>
+    <Row Tag="LOC_SCORED_COMPETITION_BRONZE_TIER">
+      <Text>[ICON_Reward_Bronze] BRONZE Tier</Text>
+    </Row>
+    <Row Tag="LOC_SCORED_COMPETITION_MEMBERS_TIME_SUCCESS">
+      <Text>The Members completed their objective in time.</Text>
+    </Row>
+    <Row Tag="LOC_SCORED_COMPETITION_MEMBERS_TIME_FAIL">
+      <Text>The Members did not complete their objective in time.</Text>
+    </Row>
+    <Row Tag="LOC_SCORED_COMPETITION_AID_REQUEST_SUCCESS">
+      <Text>The Members have sent all the aid they can within the time allotted. One philanthropist stands out among the rest.</Text>
+    </Row>
+    <Row Tag="LOC_SCORED_COMPETITION_COMPETITION_SUCCESS">
+      <Text>This peaceful competition of world powers has drawn to a close. One civilization stands out among the rest.</Text>
+    </Row>
+    <Row Tag="LOC_SCORED_COMPETITION_NOBEL_PRIZE_LITERATURE_SUCCESS">
+      <Text>Sweden has awarded the prestigious Nobel Prize for Literature to the most artful Civilization.</Text>
+    </Row>
+    <Row Tag="LOC_SCORED_COMPETITION_NOBEL_PRIZE_PEACE_SUCCESS">
+      <Text>Sweden has awarded the prestigious Nobel Prize for Peace to the most peaceful Civilization.</Text>
+    </Row>
+    <Row Tag="LOC_SCORED_COMPETITION_NOBEL_PRIZE_SCIENCE_SUCCESS">
+      <Text>Sweden has awarded the prestigious Nobel Prize for Physics to the most scientifically minded Civilization.</Text>
+    </Row>
+    <Row Tag="LOC_SCORED_COMPETITION_SILVER_TIER_CHILD">
+      <Text>All Silver Tier Rewards</Text>
+    </Row>
+    <Row Tag="LOC_SCORED_COMPETITION_GOLD_TIER_TITLE">
+      <Text>[ICON_Reward_Gold] Gold Tier Rewards (for highest score):</Text>
+    </Row>
+    <Row Tag="LOC_SCORED_COMPETITION_SILVER_TIER_TITLE">
+      <Text>[ICON_Reward_Silver] Silver Tier Rewards (for the top 25% of scores):</Text>
+    </Row>
+    <Row Tag="LOC_SCORED_COMPETITION_BRONZE_TIER_TITLE">
+      <Text>[ICON_Reward_Bronze] Bronze Tier Rewards (for the next 25% of scores):</Text>
+    </Row>
+    <Row Tag="LOC_SCORED_COMPETITION_TARGET_TIER_TITLE">
+      <Text>[ICON_Reward_Target] Target Rewards (if time runs out):</Text>
+    </Row>
+    <Row Tag="LOC_SCORED_COMPETITION_MEMBER_TIER_TITLE">
+      <Text>[ICON_Reward_Member] Member Rewards (for completing the objectives in time):</Text>
+    </Row>
+    <Row Tag="LOC_SCORED_COMPETITION_NO_TIER_TITLE_BOTTOM">
+      <Text>[ICON_Reward_None] Players who do not place in a Tier receive no rewards</Text>
+    </Row>
+    <Row Tag="LOC_SCORED_COMPETITION_NO_TIER_TITLE_NONE">
+      <Text>[ICON_Reward_None] Members with no score receive no rewards</Text>
+    </Row>
+		<!-- Rock band -->
+		<Row Tag="LOC_UNITOPERATION_TOURISMBOMB_DESCRIPTION">
+			<Text>Your manager expects to generate {1_Tourism}  [ICON_TOURISM] Tourism from this venue.[NEWLINE][NEWLINE]There is a {2_Death}% chance these rockers will make this their final gig and retire after playing here.</Text>
+		</Row>
+		<Row Tag="LOC_UNITOPERATION_TOURISMBOMB_DIFFERENT_OWNER">
+			<Text>Must be on a tile owned by a different major civilization than you.</Text>
+		</Row>
+		<Row Tag="LOC_UNITOPERATION_TOURISMBOMB_LOCATION">
+			<Text>Requires a valid target location. Possible locations include Wonders, Districts with one of the required buildings, or a special target allowed by one of the band's promotions.</Text>
+		</Row>
+		<Row Tag="LOC_UNITOPERATION_TOURISMBOMB_NOTPLAYED">
+			<Text>The same tile is not allowed to be played multiple times.</Text>
+		</Row>
+		<!-- Drought -->
+		<Row Tag="LOC_UNITOPERATION_REPAIR_BLOCKED_BY_DROUGHT">
+			<Text>This improvement cannot be repaired while a drought is in progress.</Text>
+		</Row>
+		<Row Tag="LOC_UNITOPERATION_IMPROVEMENT_BLOCKED_BY_DROUGHT">
+			<Text>This improvement cannot be built while a drought is in progress.</Text>
+		</Row>
+		<!-- Espionage -->
+		<Row Tag="LOC_VIZSOURCE_HIGHLEVEL_SPY">
+			<Text>Spy is Secret Agent or better</Text>
+		</Row>
+		<Row Tag="LOC_VIZSOURCE_ACTION_HIGHLEVEL_SPY">
+			<Text>   (extra visibility if Secret Agent or Master Spy)</Text>
+		</Row>
+		<Row Tag="LOC_SPYMISSIONDETAILS_UNITOPERATION_SPY_LISTENING_POST">
+			<Text>Increases [ICON_VisLimited] Diplomatic Visibility by 1 level (2 if Secret Agent or above)</Text>
+		</Row>
+		<Row Tag="LOC_UNITOPERATION_SPY_BREACH_DAM_DESCRIPTION">
+			<Text>Breach Dam</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGE_BREACH_DAM_REWARD">
+			<Text>pillages the Dam waters to flood the river valley</Text>
+		</Row>
+		<Row Tag="LOC_SPYMISSIONDETAILS_UNITOPERATION_SPY_BREACH_DAM">
+			<Text>Flooding the river valley containing a Dam</Text>
+		</Row>
+		<!-- updated base game and dlc strings -->
+		<Row Tag="LOC_IMPROVEMENT_PYRAMID_DESCRIPTION">
+			<Text>Improvement that unlocks with Masonry and must be built on Desert, Desert Hills or Desert Floodplains. +1 [ICON_Faith] Faith. Receives additional yields from adjacent districts. +1 [ICON_Food] Food if adjacent to a city center. For all other districts that award adjacency bonuses: +1 of the appropriate yield if that district is adjacent.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_PYRAMIDS_DESCRIPTION">
+			<Text>Grants a free Builder. All Builders can build 1 extra improvement. Must be built on Desert (including Desert Floodplains) without Hills.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_PETRA_DESCRIPTION">
+			<Text>+2 [ICON_Food] Food, +2 [ICON_Gold] Gold, and +1 [ICON_Production] Production on all Desert tiles for this city (non-Floodplains). Must be built on Desert or Desert Floodplains without Hills.</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGE_VIEW_ENABLED_TT">
+			<Text>[NEWLINE]Click to view city details</Text>
+		</Row>
+		<Row Tag="LOC_ESPIONAGE_VIEW_DISABLED_TT">
+			<Text>[NEWLINE][COLOR_RED]Increase Access Level to view this city's details[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_CITY_STATES_SUZERAIN_DIPLOMATIC_BONUS">
+			<Text>Suzerain Diplomacy Bonus:[NEWLINE][ICON_Bolt]You gain a base of +1 [ICON_FAVOR] Diplomatic Favor every turn.[NEWLINE][ICON_Bolt]The city-state follows you into war and peace with other players.[NEWLINE][ICON_Bolt]City-state lands become friendly territory. Your units can move there, heal there, and upgrade there.[NEWLINE][ICON_Bolt]Your Builder units may improve city-state tiles.[NEWLINE][ICON_Bolt]See 3 tiles around the city-state.[NEWLINE][ICON_Bolt]Can pay [ICON_Gold] Gold to temporarily take control of the city-state's military.[NEWLINE][ICON_Bolt]Gain ownership of all the city-state's resources.</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_ADDITIONAL_FERTILITY">
+			<Text>Can receive additional yields from environmental effects.</Text>
+		</Row>
+		<Row Tag="LOC_UI_PEDIA_MAY_ERUPT">
+			<Text>May Erupt</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_RANKINGS_SCIENCE_DETAILS_EXP2">
+			<Text>To achieve a [COLOR:ResScienceLabelCS]SCIENCE[ENDCOLOR] victory, you must accomplish 4 major milestones:</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_RANKINGS_SCIENCE_NO_LAUNCH">
+			<Text>Exoplanet Expedition has not launched.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_RANKINGS_SCIENCE_HAS_MOVED">
+			<Text>Exoplanet Expedition has traveled {1_LightYearsTraveled} / {2_LightYearsTotalNeeded} light {2_LightYearsTotalNeeded : plural 1?year; other?years;}.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_RANKINGS_SCIENCE_IS_MOVING">
+			<Text>Exoplanet Expedition is traveling {1_LightYearsPerTurn} light {1_LightYearsPerTurn : plural 1?year; other?years;} per turn.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_RANKINGS_SCIENCE_LIGHT_YEARS">
+			<Text>light years.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_RANKINGS_SCIENCE_LIGHT_YEARS_PER_TURN">
+			<Text>light years per turn.</Text>
+		</Row>
+		<Row Tag="LOC_WORLD_RANKINGS_SCIENCE_REQUIREMENT_4">
+			<Text>Launch an Exoplanet Expedition.</Text>
+		</Row>
+    <Row Tag="LOC_WORLD_RANKINGS_SCIENCE_REQUIREMENT_FINAL">
+      <Text>Help the Exoplanet Expedition travel {1_NumLightYears} light years.</Text>
+    </Row>
+		<Row Tag="LOC_ROUTECHOOSER_YIELD_SOURCE_TRADING_POSTS">
+			<Text>{1_YieldAmount} {2_YieldIconString} {3_YieldName} from landmarks along the path that make trade easier (water tiles, Railroads, Canals, Mountain Tunnels, and your [ICON_TradingPost] Trading Posts).</Text>
+		</Row>
+    <Row Tag="LOC_GREAT_PEOPLE_POINT_DETAILS">
+      <Text>{1_PointsPerTurn} {2_IconString} {3_GreatPersonClassName} {1_PointsPerTurn : plural 1?point; other?points;} earned this turn.[NEWLINE][NEWLINE]Points come primarily from districts and buildings, but can also come from world wonders, policies, and city projects.</Text>
+    </Row>
+		<!--Dan Quayle Screen-->
+		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_12_NAME">
+			<Text>Louis XV</Text>
+		</Row>
+		<Row Tag="LOC_UI_ENDGAME_RANKING_LEADER_12_QUOTE">
+			<Text>After me, the flood.</Text>
+		</Row>
+		<!--Power Panel of City Details screen-->
+		<Row Tag="LOC_CITY_PANEL_POWER_HEADER">
+			<Text>Power</Text>
+		</Row>
+		<Row Tag="LOC_CITY_PANEL_POWER_CURRENT_POWER">
+			<Text>Generated</Text>
+		</Row>
+		<Row Tag="LOC_CITY_PANEL_POWER_REQUIRED_POWER">
+			<Text>Required</Text>
+		</Row>
+		<Row Tag="LOC_CITY_PANEL_POWER_FULLY_POWERED_STATUS">
+			<Text>This city is fully powered. All city constructions that use [ICON_Power] Power are operating at full strength.</Text>
+		</Row>
+		<Row Tag="LOC_CITY_PANEL_POWER_UNPOWERED_STATUS">
+			<Text>This city is not fully powered. All city constructions that use [ICON_Power] Power have reduced effectiveness.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

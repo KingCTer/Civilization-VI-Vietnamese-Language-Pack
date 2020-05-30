@@ -241,24 +241,24 @@
 			<Properties>
 				<LoadOrder>100</LoadOrder>
 			</Properties>
-			<File>vi_VI_DLC/Australia/Australia_ConfigText.xml</File>
-			<File>vi_VI_DLC/Australia/Australia_Text.xml</File>
+			<File>vi_VI_DLC/vi_VI_Australia/Australia_ConfigText.xml</File>
+			<File>vi_VI_DLC/vi_VI_Australia/Australia_Text.xml</File>
 		</UpdateText>
 		<!-- DLC: Indonesia & Khmer -->
 		<UpdateText id="IndonediaKhmerTextVietnam" criteria="IndonesiaKhmer">
 			<Properties>
 				<LoadOrder>100</LoadOrder>
 			</Properties>
-			<File>vi_VI_DLC/Indonesia_Khmer/Indonesia_Khmer_ConfigText.xml</File>
-			<File>vi_VI_DLC/Indonesia_Khmer/Indonesia_Khmer_Text.xml</File>
+			<File>vi_VI_DLC/vi_VI_Indonesia_Khmer/Indonesia_Khmer_ConfigText.xml</File>
+			<File>vi_VI_DLC/vi_VI_Indonesia_Khmer/Indonesia_Khmer_Text.xml</File>
 		</UpdateText>
 		<!-- DLC: Macedonia & Persia -->
 		<UpdateText id="MacedoniaPersiaTextVietnam" criteria="MacedoniaPersia">
 			<Properties>
 				<LoadOrder>100</LoadOrder>
 			</Properties>
-			<File>vi_VI_DLC/Macedonia_Persia/Macedonia_Persia_ConfigText.xml</File>
-			<File>vi_VI_DLC/Macedonia_Persia/Macedonia_Persia_Text.xml</File>
+			<File>vi_VI_DLC/vi_VI_Macedonia_Persia/Macedonia_Persia_ConfigText.xml</File>
+			<File>vi_VI_DLC/vi_VI_Macedonia_Persia/Macedonia_Persia_Text.xml</File>
 		</UpdateText>
 	</FrontEndActions>
 	<!-- these are loaded when starting to play a game -->
@@ -439,24 +439,24 @@
 			<Properties>
 				<LoadOrder>100</LoadOrder>
 			</Properties>
-			<File>vi_VI_DLC/Australia/Australia_ConfigText.xml</File>
-			<File>vi_VI_DLC/Australia/Australia_Text.xml</File>
+			<File>vi_VI_DLC/vi_VI_Australia/Australia_ConfigText.xml</File>
+			<File>vi_VI_DLC/vi_VI_Australia/Australia_Text.xml</File>
 		</UpdateText>
 		<!-- DLC: Indonesia & Khmer -->
 		<UpdateText id="IndonediaKhmerTextVietnam" criteria="IndonesiaKhmer">
 			<Properties>
 				<LoadOrder>100</LoadOrder>
 			</Properties>
-			<File>vi_VI_DLC/Indonesia_Khmer/Indonesia_Khmer_ConfigText.xml</File>
-			<File>vi_VI_DLC/Indonesia_Khmer/Indonesia_Khmer_Text.xml</File>
+			<File>vi_VI_DLC/vi_VI_Indonesia_Khmer/Indonesia_Khmer_ConfigText.xml</File>
+			<File>vi_VI_DLC/vi_VI_Indonesia_Khmer/Indonesia_Khmer_Text.xml</File>
 		</UpdateText>
 		<!-- DLC: Macedonia & Persia -->
 		<UpdateText id="MacedoniaPersiaTextVietnam" criteria="MacedoniaPersia">
 			<Properties>
 				<LoadOrder>100</LoadOrder>
 			</Properties>
-			<File>vi_VI_DLC/Macedonia_Persia/Macedonia_Persia_ConfigText.xml</File>
-			<File>vi_VI_DLC/Macedonia_Persia/Macedonia_Persia_Text.xml</File>
+			<File>vi_VI_DLC/vi_VI_Macedonia_Persia/Macedonia_Persia_ConfigText.xml</File>
+			<File>vi_VI_DLC/vi_VI_Macedonia_Persia/Macedonia_Persia_Text.xml</File>
 		</UpdateText>
 	</InGameActions>
 	<LocalizedText>
@@ -616,12 +616,12 @@
 		<File>vi_VI_Expansion2/Expansion2_Units_Text.xml</File>
 		<File>vi_VI_Expansion2/Expansion2_UnitNames_Text.xml</File>
 		<!-- DLC -->
-		<File>vi_VI_DLC/Australia/Australia_ConfigText.xml</File>
-		<File>vi_VI_DLC/Australia/Australia_Text.xml</File>
-		<File>vi_VI_DLC/Indonesia_Khmer/Indonesia_Khmer_ConfigText.xml</File>
-		<File>vi_VI_DLC/Indonesia_Khmer/Indonesia_Khmer_Text.xml</File>
-		<File>vi_VI_DLC/Macedonia_Persia/Macedonia_Persia_ConfigText.xml</File>
-		<File>vi_VI_DLC/Macedonia_Persia/Macedonia_Persia_Text.xml</File>
+		<File>vi_VI_DLC/vi_VI_Australia/Australia_ConfigText.xml</File>
+		<File>vi_VI_DLC/vi_VI_Australia/Australia_Text.xml</File>
+		<File>vi_VI_DLC/vi_VI_Indonesia_Khmer/Indonesia_Khmer_ConfigText.xml</File>
+		<File>vi_VI_DLC/vi_VI_Indonesia_Khmer/Indonesia_Khmer_Text.xml</File>
+		<File>vi_VI_DLC/vi_VI_Macedonia_Persia/Macedonia_Persia_ConfigText.xml</File>
+		<File>vi_VI_DLC/vi_VI_Macedonia_Persia/Macedonia_Persia_Text.xml</File>
 
 	</Files>
 </Mod>

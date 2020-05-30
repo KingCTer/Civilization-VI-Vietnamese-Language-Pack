@@ -1,0 +1,266 @@
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<EnglishText>
+		<!--Agenda Names-->
+		<Row Tag="LOC_AGENDA_ANGEVIN_EMPIRE_NAME">
+			<Text>Angevin Empire</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_CANADIAN_EXPEDITIONARY_NAME">
+			<Text>Canadian Expeditionary Force</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_KAITIAKITANGA_NAME">
+			<Text>Kaitiakitanga</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_LAWGIVER_NAME">
+			<Text>Lawgiver</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_LORD_OF_MINES_NAME">
+			<Text>Lord of the Mines</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_RAVEN_BANNER_NAME">
+			<Text>Raven Banner</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_PATRON_OF_ARTS_NAME">
+			<Text>Bibliophile</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_SAPA_INCA_NAME">
+			<Text>Sapa Inca</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_SICILIAN_WARS_NAME">
+			<Text>Sicilian Wars</Text>
+		</Row>
+		<!--Random Agenda Names-->
+		<Row Tag="LOC_AGENDA_DEMAGOGUE_NAME">
+			<Text>Demagogue</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_DESTINATION_CIV_NAME">
+			<Text>Destination Civ</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_EXPANSIONIST_NAME">
+			<Text>Expansionist</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_FLAT_EARTHER_NAME">
+			<Text>Flat Earther</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_GREAT_WHITE_FLEET_NAME">
+			<Text>Great White Fleet</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_INTOLERANT_NAME">
+			<Text>Intolerant</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_LIBERTARIAN_NAME">
+			<Text>Libertarian</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_PILLAGER_NAME">
+			<Text>Pillager</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_TURTLER_NAME">
+			<Text>Turtler</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_ZEALOT_NAME">
+			<Text>Zealot</Text>
+		</Row>
+		<!--Agenda Description-->
+		<Row Tag="LOC_AGENDA_ANGEVIN_EMPIRE_DESCRIPTION">
+			<Text>Builds populous cities. Likes civilizations whose nearby cities have high [ICON_Citizen] Population. Dislikes civilizations with small cities nearby that may become disloyal easily.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_CANADIAN_EXPEDITIONARY_DESCRIPTION">
+			<Text>Responds to as many Emergencies and Scored Competitions as possible. Likes those who also participate in such activities; dislikes those who have not gotten involved.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_KAITIAKITANGA_DESCRIPTION">
+			<Text>Retains natural features in their empire and builds National Parks. Likes civs who respect the environment; dislikes those who treat the planet poorly.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_LAWGIVER_DESCRIPTION">
+			<Text>Keeps his citizens happy and loyal. Impressed by those with similar priorities, especially if their cities were founded by many players. Dislikes those with happiness/loyalty issues or few captured cities.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_LORD_OF_MINES_DESCRIPTION">
+			<Text>Tries to maximize [ICON_Gold] Gold output from cities and [ICON_TradeRoute] Trade Routes. Respects civilizations that act similarly, dislikes those who do not.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_RAVEN_BANNER_DESCRIPTION">
+			<Text>Levies troops from city-states. Likes civilizations that also use city-state troops, dislikes those that shun such mercenaries.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_PATRON_OF_ARTS_DESCRIPTION">
+			<Text>Wants to have more Great Works than anyone else. Likes those who leave the Great Works to her, dislikes those who also have many Great Works.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_SAPA_INCA_DESCRIPTION">
+			<Text>Wants to settle near Mountains. Likes those who leave the areas near Mountains to him, dislikes those who also settle near Mountains.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_SICILIAN_WARS_DESCRIPTION">
+			<Text>Wants to settle coastal cities. Likes those who settle inland. Dislikes those with mostly coastal cities.</Text>
+		</Row>
+		<!--Updated Base Game Agenda Descriptions-->
+		<Row Tag="LOC_AGENDA_WITH_YOUR_SHIELD_OR_ON_IT_DESCRIPTION">
+			<Text>Never gives up items in a peace deal, and likes civilizations who match that approach. Dislikes civilizations who have capitulated or who have never gone to war. Grievances against this leader decay at twice the usual rate.</Text>
+		</Row>
+		<!--Random Agenda Descriptions-->
+		<Row Tag="LOC_AGENDA_DEMAGOGUE_DESCRIPTION">
+			<Text>Wants to be the civilization earning the most [ICON_FAVOR] Diplomatic Favor, dislikes those who compete in [ICON_FAVOR] Diplomatic Favor.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_DESTINATION_CIV_DESCRIPTION">
+			<Text>Wants to be the civilization with the most [ICON_Tourism] Tourism, dislikes those who compete in [ICON_Tourism] Tourism.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_FLAT_EARTHER_DESCRIPTION">
+			<Text>Wants to block humankind from circumnavigating the globe or going into space.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_LIBERTARIAN_DESCRIPTION">
+			<Text>Dislikes any civilization who makes a strong attempt to win a Diplomatic Victory.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_PILLAGER_DESCRIPTION">
+			<Text>Tries to pillage as many tiles as possible. Respects other civilizations who pillage.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_TURTLER_DESCRIPTION">
+			<Text>Wants to stay safe from conquest. Dislikes those who have conquered other player's original capitals.</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_ZEALOT_DESCRIPTION">
+			<Text>Tries to gain a religious victory. Likes those civs who have already adopted their religion.</Text>
+		</Row>
+		<!--City-States-->
+		<Row Tag="LOC_CIVILIZATION_AKKAD_NAME">
+			<Text>Akkad</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_AKKAD_DESCRIPTION">
+			<Text>Akkad city-state</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_AKKAD_ADJECTIVE">
+			<Text>Akkadian</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_AKKAD_NAME">
+			<Text>Akkad Suzerain Bonus</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_AKKAD_DESCRIPTION">
+			<Text>Melee and anti-cavalry unit's attacks do full damage to the city's Walls.</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BOLOGNA_NAME">
+			<Text>Bologna</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BOLOGNA_DESCRIPTION">
+			<Text>Bologna city-state</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_BOLOGNA_NAME">
+			<Text>Bologna Suzerain Bonus</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_BOLOGNA_DESCRIPTION">
+			<Text>Your districts with a building provide +1 [ICON_GreatPerson] Great Person point of their type ([ICON_GreatWriter] Great Writer, [ICON_GreatArtist] Great Artist, and [ICON_GreatMusician] Great Musician for Theater Square districts with a building).</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BOLOGNA_ADJECTIVE">
+			<Text>Bolognese</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CAHOKIA_NAME">
+			<Text>Cahokia</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CAHOKIA_DESCRIPTION">
+			<Text>Cahokia city-state</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CAHOKIA_ADJECTIVE">
+			<Text>Cahokian</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_CAHOKIA_NAME">
+			<Text>Cahokia Suzerain Bonus</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_CAHOKIA_DESCRIPTION">
+			<Text>Your Builders can now make Cahokia Mounds improvements.[NEWLINE][NEWLINE]Cahokia Mounds provide +3 [ICON_GOLD] Gold. Cities receive +1 [ICON_AMENITIES] Amenity from their first Cahokia Mound improvement. Upon discovering Natural History, cities receive +1 [ICON_AMENITIES] Amenity from their second Cahokia Mound improvement. +1 [ICON_FOOD] Food for every 2 adjacent Districts once Feudalism is discovered or for every adjacent District once Replaceable Parts is researched. Provides +1 [ICON_HOUSING] Housing. Receive an additional [ICON_HOUSING] Housing once Cultural Heritage is discovered. Cannot be built adjacent to other Cahokia Mounds.</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CARDIFF_NAME">
+			<Text>Cardiff</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CARDIFF_DESCRIPTION">
+			<Text>Cardiff city-state</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_CARDIFF_ADJECTIVE">
+			<Text>Cardiffian</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_CARDIFF_NAME">
+			<Text>Cardiff Suzerain Bonus</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_CARDIFF_DESCRIPTION">
+			<Text>Cities receive +2 [ICON_Power] Power for every Harbor building.</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_FEZ_NAME">
+			<Text>Fez</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_FEZ_DESCRIPTION">
+			<Text>Fez city-state</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_FEZ_ADJECTIVE">
+			<Text>Fez</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_FEZ_NAME">
+			<Text>Fez Suzerain Bonus</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_FEZ_DESCRIPTION">
+			<Text>When you use a religious unit to convert a city for the first time earn 20 [ICON_SCIENCE] Science per [ICON_Citizen] Population of that city.</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_MEXICO_CITY_NAME">
+			<Text>Mexico City</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_MEXICO_CITY_DESCRIPTION">
+			<Text>Mexico City city-state</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_MEXICO_CITY_ADJECTIVE">
+			<Text>Mexico City</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_HATTUSA_EXPANSION2_DESCRIPTION">
+			<Text>Provides you with 2 of each Strategic resource per turn that you have revealed but have not improved.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_MEXICO_CITY_NAME">
+			<Text>Mexico City Suzerain Bonus</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_MEXICO_CITY_DESCRIPTION">
+			<Text>Regional effects from your Industrial Zone and Entertainment Complex districts reach 3 tiles farther.</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_NAZCA_NAME">
+			<Text>Nazca</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_NAZCA_DESCRIPTION">
+			<Text>Nazca city-state</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_NAZCA_ADJECTIVE">
+			<Text>Nazca</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_NAZCA_NAME">
+			<Text>Nazca Suzerain Bonus</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_NAZCA_DESCRIPTION">
+			<Text>Your Builders can now make Nazca Line improvements.[NEWLINE][NEWLINE]Nazca Lines provide +1 [ICON_Faith] Faith to adjacent tiles. +1 [ICON_Faith] Faith to adjacent tiles with a resource. +1 [ICON_FOOD] Food to adjacent Desert and Desert Hill tiles after discovering Civil Service. +1 [ICON_PRODUCTION] Production to adjacent flat tiles after researching Mass Production. +1 Appeal. Can only be built on flat Desert. This tile cannot be worked.</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_NGAZARGAMU_NAME">
+			<Text>Ngazargamu</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_NGAZARGAMU_DESCRIPTION">
+			<Text>Ngazargamu city-state</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_NGAZARGAMU_ADJECTIVE">
+			<Text>Ngazargamu</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_NGAZARGAMU_NAME">
+			<Text>Ngazargamu Suzerain Bonus</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_NGAZARGAMU_DESCRIPTION">
+			<Text>Land combat or Support units are 20% cheaper to purchase with [ICON_GOLD] Gold for each Encampment district building in that city.</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_RAPA_NUI_NAME">
+			<Text>Rapa Nui</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_RAPA_NUI_DESCRIPTION">
+			<Text>Rapa Nui city-state</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_RAPA_NUI_ADJECTIVE">
+			<Text>Rapa Nui</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_RAPA_NUI_NAME">
+			<Text>Rapa Nui Suzerain Bonus</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_RAPA_NUI_DESCRIPTION">
+			<Text>Your Builders can now make Moai improvements.[NEWLINE][NEWLINE]Moai provide +1 [ICON_Culture] Culture. +1 [ICON_Culture] Culture for every 2 adjacent Moai. +2 [ICON_Culture] Culture if on or adjacent to a Volcanic Soil tile. +1 [ICON_Culture] Culture if adjacent to a Coast or Lake tile . Additional [ICON_Culture] Culture and [ICON_Tourism] Tourism as you advance through the Civics and Technology Tree. Can be built on Plains, Plains Hills, Grassland, Grassland Hills, or Volcanic Soil. Cannot be placed adjacent to a Woods or Rainforest tile.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_ARMAGH_EXPANSION2_DESCRIPTION">
+			<Text>Your Builders can now make Monastery improvements.[NEWLINE][NEWLINE]Monasteries provide +2 [ICON_Faith] Faith. +15 HP healing for friendly religious unit on this tile that has not attacked this turn. +1 [ICON_FAITH] Faith for every 2 adjacent Districts. Provides +1 [ICON_HOUSING] Housing. Receive an additional [ICON_HOUSING] Housing once Colonialism is discovered. Cannot be built next to another Monastery.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_LA_VENTA_EXPANSION2_DESCRIPTION">
+			<Text>Your Builders can now make Colossal Head improvements.[NEWLINE][NEWLINE]Colossal Heads provide +2 [ICON_Faith] Faith. +1 [ICON_Faith] Faith for every 2 adjacent Rainforest or for every adjacent Rainforest once Humanism is discovered. +1 [ICON_Faith] Faith for every 2 adjacent Woods or for every adjacent Woods once Humanism is discovered. [ICON_TOURISM] Tourism from [ICON_FAITH] Faith once Flight is discovered. Cannot be built on Snow or Snow Hills.</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_TRAIT_GRANADA_EXPANSION2_DESCRIPTION">
+			<Text>Your Builders can now make Alcázar improvements.[NEWLINE][NEWLINE]Alcázars provide +2 [ICON_Culture] Culture. Provides [ICON_SCIENCE] Science equal to 50% of the tile's Appeal. Occupying unit receives +4 [ICON_Strength] Defense Strength, and automatically gains 2 turns of fortification. Provides [ICON_TOURISM] Tourism after researching Flight. Cannot be built next to another Alcázar.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

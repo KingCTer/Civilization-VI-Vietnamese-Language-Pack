@@ -1,0 +1,253 @@
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<EnglishText>
+		<!--Civics-->
+		<Row Tag="LOC_CIVIC_ENVIRONMENTALISM_NAME">
+			<Text>Environmentalism</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_ENVIRONMENTALISM_DESCRIPTION">
+			<Text>+25% [ICON_Tourism] Tourism across your empire.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_CORPORATE_LIBERTARIANISM_NAME">
+			<Text>Venture Politics</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_DIGITAL_DEMOCRACY_NAME">
+			<Text>Distributed Sovereignty</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_SYNTHETIC_TECHNOCRACY_NAME">
+			<Text>Optimization Imperative</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_NEAR_FUTURE_GOVERNANCE_NAME">
+			<Text>Near Future Governance</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_GLOBAL_WARMING_MITIGATION_NAME">
+			<Text>Global Warming Mitigation</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_SMART_POWER_DOCTRINE_NAME">
+			<Text>Smart Power Doctrine</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_INFORMATION_WARFARE_NAME">
+			<Text>Information Warfare</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_EXODUS_IMPERATIVE_NAME">
+			<Text>Exodus Imperative</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_CULTURAL_HEGEMONY_NAME">
+			<Text>Cultural Hegemony</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_GLOBAL_WARMING_MITIGATION_DESCRIPTION">
+			<Text>Awards 1 Diplomatic Victory point.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_FUTURE_CIVIC_XP2_DESCRIPTION">
+			<Text>Can be completed multiple times, increasing your points towards the Score Victory. Also awards 1 [ICON_Governor] Governor title and 50 [ICON_Favor] Diplomatic Favor each time it is completed.</Text>
+		</Row>
+		<!--Civic Boosts-->
+		<Row Tag="LOC_BOOST_TRIGGER_ENVIRONMENTALISM">
+			<Text>Build 2 Solar Farms.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_ENVIRONMENTALISM">
+			<Text>Your people prove that solar power is more than an idea—it is potentially the future of power production.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_CORPORATE_LIBERTARIANISM">
+			<Text>Build a Uranium Mine.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_CORPORATE_LIBERTARIANISM">
+			<Text>Developing a critical defense resource leads to a new relationship between business and government.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_DIGITAL_DEMOCRACY">
+			<Text>Own a Rock Band.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_DIGITAL_DEMOCRACY">
+			<Text>You finish signing the contract with the rock band. “Whatever,” they say, but you see how excited they are to start the tour. </Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_SYNTHETIC_TECHNOCRACY">
+			<Text>Research the Robotics technology.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_SYNTHETIC_TECHNOCRACY">
+			<Text>The elegant dance of robotic limbs under computer control inspires your engineers and scientists.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_NEAR_FUTURE_GOVERNANCE">
+			<Text>Adopt a government with 10 inherent policy slots.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_NEAR_FUTURE_GOVERNANCE">
+			<Text>Having adopted an advanced form of government, your people think of even further advances to civic life.</Text>
+		</Row>
+		<!--Governments-->
+		<Row Tag="LOC_GOVT_INHERENT_BONUS_DEMOCRACY_XP2">
+			<Text>Your [ICON_TradeRoute] Trade Routes to an Ally's city provide +4 [ICON_Food] Food and +4 [ICON_Production] Production for both cities. Alliance Points with all allies increase by an additional .25 per turn.</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_COMMUNISM_XP2">
+			<Text>+10% [ICON_Science] Science.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_CORPORATE_LIBERTARIANISM_NAME">
+			<Text>Corporate Libertarianism</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_INHERENT_BONUS_CORPORATE_LIBERTARIANISM">
+			<Text>Commercial Hubs and Encampments provide cities with +10% [ICON_Production] Production, and accumulating resources with improvements provide +1 per turn.</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_CORPORATE_LIBERTARIANISM">
+			<Text>-10% [ICON_Science] Science.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_DIGITAL_DEMOCRACY_NAME">
+			<Text>Digital Democracy</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_INHERENT_BONUS_DIGITAL_DEMOCRACY">
+			<Text>+2 [ICON_Amenities] Amenities in all cities, and +2 [ICON_Culture] Culture per Specialty District.</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_DIGITAL_DEMOCRACY">
+			<Text>-3 [ICON_Strength] Combat Strength for all units.</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_SYNTHETIC_TECHNOCRACY_NAME">
+			<Text>Synthetic Technocracy</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_INHERENT_BONUS_SYNTHETIC_TECHNOCRACY">
+			<Text>+3 [ICON_Power] Power in all cities, and +30% [ICON_Production] Production towards all city projects.</Text>
+		</Row>
+		<Row Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_SYNTHETIC_TECHNOCRACY">
+			<Text>-10% [ICON_Tourism] Tourism.</Text>
+		</Row>
+		<!--Policies-->
+		<Row Tag="LOC_POLICY_FUTURE_VICTORY_SCIENCE_NAME">
+			<Text>Aerospace Contractors</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_FUTURE_VICTORY_SCIENCE_DESCRIPTION">
+			<Text>Cities with a Spaceport gain +3 [ICON_RESOURCE_ALUMINUM] Aluminum per turn and +3 [ICON_Power] Power.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_FUTURE_COUNTER_CULTURE_NAME">
+			<Text>Space Tourism</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_FUTURE_COUNTER_CULTURE_DESCRIPTION">
+			<Text>[ICON_Tourism] Tourism from other players is reduced by 20% versus your civilization.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_FUTURE_VICTORY_CULTURE_NAME">
+			<Text>Hallyu</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_FUTURE_VICTORY_CULTURE_DESCRIPTION">
+			<Text>Your Rock Band units can choose from any possible promotion.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_FUTURE_COUNTER_SCIENCE_NAME">
+			<Text>Non-State Actors</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_FUTURE_COUNTER_SCIENCE_DESCRIPTION">
+			<Text>Your Spy units can choose from any possible promotion.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_FUTURE_VICTORY_DOMINATION_NAME">
+			<Text>Integrated Attack Logistics</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_FUTURE_VICTORY_DOMINATION_DESCRIPTION">
+			<Text>+1 Movement if starting turn in enemy territory. +50% [ICON_Production] Production for Giant Death Robots.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_FUTURE_COUNTER_DIPLOMATIC_NAME">
+			<Text>Rabblerousing</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_FUTURE_COUNTER_DIPLOMATIC_DESCRIPTION">
+			<Text>When you reduce a player's Diplomatic Victory points in the World Congress, get 50% of your spent [ICON_Favor] Diplomatic Favor back. +1 [ICON_Favor] Diplomatic Favor per turn.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_FUTURE_VICTORY_DIPLOMATIC_NAME">
+			<Text>Diplomatic Capital</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_FUTURE_VICTORY_DIPLOMATIC_DESCRIPTION">
+			<Text>+4 [ICON_Favor] Diplomatic Favor per turn.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_FUTURE_COUNTER_DOMINATION_NAME">
+			<Text>Global Coalition</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_FUTURE_COUNTER_DOMINATION_DESCRIPTION">
+			<Text>+7 [ICON_Strength] Combat Strength for units in friendly territory.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_EQUESTRIAN_ORDERS_NAME">
+			<Text>Equestrian Orders</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_EQUESTRIAN_ORDERS_DESCRIPTION">
+			<Text>All improved [ICON_RESOURCE_HORSES] Horses and [ICON_RESOURCE_IRON] Iron resources yield 1 additional resource per turn.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_DRILL_MANUALS_NAME">
+			<Text>Drill Manuals</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_DRILL_MANUALS_DESCRIPTION">
+			<Text>All improved [ICON_RESOURCE_NITER] Niter and [ICON_RESOURCE_COAL] Coal resources yield 1 additional resource per turn.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_RETINUES_NAME">
+			<Text>Retinues</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_RETINUES_DESCRIPTION">
+			<Text>50% resource discount on all unit upgrades.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_FORCE_MODERNIZATION_NAME">
+			<Text>Force Modernization</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_FORCE_MODERNIZATION_DESCRIPTION">
+			<Text>50% [ICON_Gold] Gold and resource discount on all unit upgrades.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_MUSIC_CENSORSHIP_NAME">
+			<Text>Music Censorship</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_MUSIC_CENSORSHIP_DESCRIPTION">
+			<Text>Rock Bands from other players may not enter your territory. -1 [ICON_Amenities] Amenity in all of your cities with 10 or more [ICON_Citizen] Population.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_FLOWER_POWER_NAME">
+			<Text>Flower Power</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_FLOWER_POWER_DESCRIPTION">
+			<Text>All Civilizations not currently at war receive +100% of the [ICON_TOURISM] Tourism from your Concerts.[NEWLINE]BUT: The cost of producing is decreased by 100% and purchasing is +100% for units other than Rock Bands..</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_CYBER_WARFARE_NAME">
+			<Text>Cyber Warfare</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_CYBER_WARFARE_DESCRIPTION">
+			<Text>+10 [ICON_Strength] Combat Strength against units from the Information and Future Eras.[NEWLINE]BUT: [ICON_STAT_GRIEVANCE] Grievances against you do not decay.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_AUTOMATED_WORKFORCE_NAME">
+			<Text>Automated Workforce</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_AUTOMATED_WORKFORCE_DESCRIPTION">
+			<Text>Your cities get +20% [ICON_Production] Production towards city projects.[NEWLINE]BUT: -1 [ICON_Amenities] Amenity and -5 Loyalty per turn in your cities.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_DISINFORMATION_CAMPAIGN_NAME">
+			<Text>Disinformation Campaign</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_DISINFORMATION_CAMPAIGN_DESCRIPTION">
+			<Text>+3 [ICON_Favor] Diplomatic Favor per turn for each Broadcast Center.[NEWLINE]BUT: -10% [ICON_SCIENCE] Science and [ICON_Culture] Culture in all cities.</Text>
+		</Row>
+		<!--Updated-->
+		<Row Tag="LOC_POLICY_SCIENCE_FOUNDATIONS_NAME">
+			<Text>Science Foundations</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_PROFESSIONAL_ARMY_DESCRIPTION_XP2">
+			<Text>50% [ICON_Gold] Gold discount on all unit upgrades.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_RESOURCE_MANAGEMENT_DESCRIPTION_XP2">
+			<Text>All improved [ICON_RESOURCE_ALUMINUM] Aluminum and [ICON_RESOURCE_OIL] Oil resources yield 1 additional resource per turn.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_FINEST_HOUR_DESCRIPTION_XP2">
+			<Text>All units +5 [ICON_Strength] Combat Strength when fighting in or adjacent to their home territory.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_NEW_DEAL_DESCRIPTION_XP2">
+			<Text>+4 [ICON_Housing] Housing and +2 [ICON_Amenities] Amenities to all cities with at least 3 specialty districts.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_THIRD_ALTERNATIVE_DESCRIPTION_XP2">
+			<Text>+2 [ICON_Culture] Culture and +4 [ICON_Gold] Gold from each Research Lab, Military Academy, Coal Power Plant, Oil Power Plant, and Nuclear Power Plant.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_MARTIAL_LAW_DESCRIPTION_XP2">
+			<Text>Accumulate 25% less war weariness than usual. Cities with a garrisoned unit get +4 Loyalty per turn.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_COLLECTIVIZATION_DESCRIPTION_XP2">
+			<Text>+2 [ICON_Production] Production and +4 [ICON_Food] Food from domestic [ICON_TradeRoute] Trade Routes.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_DEFENSE_OF_MOTHERLAND_DESCRIPTION_XP2">
+			<Text>No war weariness from combat in your territory. +100% [ICON_Production] Production for Modern, Atomic, and Information era support units.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_MERCANTILISM_DESCRIPTION">
+			<Text>Camp improvements receive +1 [ICON_Production] Production and +1 [ICON_Food] Food. Lumber Mills can be built on Rainforest.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_FEUDALISM_DESCRIPTION">
+			<Text>Farm improvements now gain +1 [ICON_Food] Food from every 2 adjacent Farm improvements. Plantation improvements receive +1 [ICON_Food] Food.</Text>
+		</Row>
+		<Row Tag="LOC_CIVIC_COLONIALISM_DESCRIPTION">
+			<Text>The Fishing Boats improvement receives +1 [ICON_Production] Production.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_VETERANCY_DESCRIPTION_XP2">
+			<Text>+30% [ICON_Production] Production toward Encampment districts, Harbor districts, and buildings for these districts.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

@@ -1,0 +1,973 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<!--MONGOLIA-->
+		<Row Tag="LOC_CITIZEN_MONGOLIA_MALE_1">
+			<Text>Arslan</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MONGOLIA_MALE_2">
+			<Text>Batu</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MONGOLIA_MALE_3">
+			<Text>Erketu</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MONGOLIA_MALE_4">
+			<Text>Jajiradai</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MONGOLIA_MALE_5">
+			<Text>Khadan</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MONGOLIA_MALE_6">
+			<Text>Mongge</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MONGOLIA_MALE_7">
+			<Text>Nachin</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MONGOLIA_MALE_8">
+			<Text>Sukehbaatar</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MONGOLIA_MALE_9">
+			<Text>Tatatunga</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MONGOLIA_MALE_10">
+			<Text>Udati</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MONGOLIA_FEMALE_1">
+			<Text>Atlani</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MONGOLIA_FEMALE_2">
+			<Text>Barghujin</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MONGOLIA_FEMALE_3">
+			<Text>Chakha</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MONGOLIA_FEMALE_4">
+			<Text>Chambui</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MONGOLIA_FEMALE_5">
+			<Text>Ebegei</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MONGOLIA_FEMALE_6">
+			<Text>Jaliqai</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MONGOLIA_FEMALE_7">
+			<Text>Maral</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MONGOLIA_FEMALE_8">
+			<Text>Ogul</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MONGOLIA_FEMALE_9">
+			<Text>Sokhatai</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MONGOLIA_FEMALE_10">
+			<Text>Yesuntei</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MONGOLIA_MODERN_MALE_1">
+			<Text>Arban</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MONGOLIA_MODERN_MALE_2">
+			<Text>Batbayar</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MONGOLIA_MODERN_MALE_3">
+			<Text>Chuluunbold</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MONGOLIA_MODERN_MALE_4">
+			<Text>Erden</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MONGOLIA_MODERN_MALE_5">
+			<Text>Jochi</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MONGOLIA_MODERN_MALE_6">
+			<Text>Monkhbat</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MONGOLIA_MODERN_MALE_7">
+			<Text>Nergui</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MONGOLIA_MODERN_MALE_8">
+			<Text>Od</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MONGOLIA_MODERN_MALE_9">
+			<Text>Sukh</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MONGOLIA_MODERN_MALE_10">
+			<Text>Tomorbaatar</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MONGOLIA_MODERN_FEMALE_1">
+			<Text>Altansarnai</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MONGOLIA_MODERN_FEMALE_2">
+			<Text>Chimeg</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MONGOLIA_MODERN_FEMALE_3">
+			<Text>Erdenechimeg</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MONGOLIA_MODERN_FEMALE_4">
+			<Text>Khulan</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MONGOLIA_MODERN_FEMALE_5">
+			<Text>Gerel</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MONGOLIA_MODERN_FEMALE_6">
+			<Text>Narangerel</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MONGOLIA_MODERN_FEMALE_7">
+			<Text>Odtstseg</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MONGOLIA_MODERN_FEMALE_8">
+			<Text>Oyunchimeg</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MONGOLIA_MODERN_FEMALE_9">
+			<Text>Sarnai</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MONGOLIA_MODERN_FEMALE_10">
+			<Text>Tsetseg</Text>
+		</Row>
+		<!--CREE-->
+		<Row Tag="LOC_CITIZEN_CREE_MALE_1">
+			<Text>Ayimasis</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CREE_MALE_2">
+			<Text>Kisikawasan</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CREE_MALE_3">
+			<Text>Mahikan</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CREE_MALE_4">
+			<Text>Mistahi-Maskwa</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CREE_MALE_5">
+			<Text>Mistawasis</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CREE_MALE_6">
+			<Text>Papewes</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CREE_MALE_7">
+			<Text>Peechee</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CREE_MALE_8">
+			<Text>Sehkosowayanew</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CREE_MALE_9">
+			<Text>Tantoo</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CREE_MALE_10">
+			<Text>Wapiy-Mostosis</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CREE_FEMALE_1">
+			<Text>Asikiwkiyatotaw</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CREE_FEMALE_2">
+			<Text>Danis</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CREE_FEMALE_3">
+			<Text>Kahpayekoot</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CREE_FEMALE_4">
+			<Text>Kaseweetin</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CREE_FEMALE_5">
+			<Text>Keasik</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CREE_FEMALE_6">
+			<Text>Minuskipuihat</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CREE_FEMALE_7">
+			<Text>Nawapukayus</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CREE_FEMALE_8">
+			<Text>Osamuskwasis</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CREE_FEMALE_9">
+			<Text>Paskus</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CREE_FEMALE_10">
+			<Text>Yaskuttsus</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CREE_MODERN_MALE_1">
+			<Text>Ayimasis</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CREE_MODERN_MALE_2">
+			<Text>Kahkewistahaw</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CREE_MODERN_MALE_3">
+			<Text>Kisikawasan</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CREE_MODERN_MALE_4">
+			<Text>Kupeyakwuskonam</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CREE_MODERN_MALE_5">
+			<Text>Minahikosis</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CREE_MODERN_MALE_6">
+			<Text>Mukitou</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CREE_MODERN_MALE_7">
+			<Text>Payipwat</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CREE_MODERN_MALE_8">
+			<Text>Petequakey</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CREE_MODERN_MALE_9">
+			<Text>Saswaypew</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CREE_MODERN_MALE_10">
+			<Text>Hihkasko-Kiseyin</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CREE_MODERN_FEMALE_1">
+			<Text>Astina</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CREE_MODERN_FEMALE_2">
+			<Text>Ayamis</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CREE_MODERN_FEMALE_3">
+			<Text>Kahpeaysewat</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CREE_MODERN_FEMALE_4">
+			<Text>Kamenna</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CREE_MODERN_FEMALE_5">
+			<Text>Kika</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CREE_MODERN_FEMALE_6">
+			<Text>Kisikawacahk</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CREE_MODERN_FEMALE_7">
+			<Text>Matisoon</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CREE_MODERN_FEMALE_8">
+			<Text>Mosomin</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CREE_MODERN_FEMALE_9">
+			<Text>Ochapowace</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_CREE_MODERN_FEMALE_10">
+			<Text>Peepeekisis</Text>
+		</Row>
+		<!--GEORGIA-->
+		<Row Tag="LOC_CITIZEN_GEORGIA_MALE_1">
+			<Text>Alexandre</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEORGIA_MALE_2">
+			<Text>Baadur</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEORGIA_MALE_3">
+			<Text>Boris</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEORGIA_MALE_4">
+			<Text>Davit</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEORGIA_MALE_5">
+			<Text>Gaioz</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEORGIA_MALE_6">
+			<Text>Irakli</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEORGIA_MALE_7">
+			<Text>Mikheil</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEORGIA_MALE_8">
+			<Text>Petre</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEORGIA_MALE_9">
+			<Text>Revaz</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEORGIA_MALE_10">
+			<Text>Tamazi</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEORGIA_FEMALE_1">
+			<Text>Bedisa</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEORGIA_FEMALE_2">
+			<Text>Elene</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEORGIA_FEMALE_3">
+			<Text>Irine</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEORGIA_FEMALE_4">
+			<Text>Izolda</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEORGIA_FEMALE_5">
+			<Text>Ketevan</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEORGIA_FEMALE_6">
+			<Text>Khatuna</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEORGIA_FEMALE_7">
+			<Text>Leila</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEORGIA_FEMALE_8">
+			<Text>Madona</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEORGIA_FEMALE_9">
+			<Text>Mzia</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEORGIA_FEMALE_10">
+			<Text>Rusudan</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEORGIA_MODERN_MALE_1">
+			<Text>George</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEORGIA_MODERN_MALE_2">
+			<Text>Levan</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEORGIA_MODERN_MALE_3">
+			<Text>Beka</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEORGIA_MODERN_MALE_4">
+			<Text>Giorgi</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEORGIA_MODERN_MALE_5">
+			<Text>Arcil</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEORGIA_MODERN_MALE_6">
+			<Text>Evgeny</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEORGIA_MODERN_MALE_7">
+			<Text>Nicholas</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEORGIA_MODERN_MALE_8">
+			<Text>Luka</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEORGIA_MODERN_MALE_9">
+			<Text>Karan</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEORGIA_MODERN_MALE_10">
+			<Text>Tariel</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEORGIA_MODERN_FEMALE_1">
+			<Text>Tatyana</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEORGIA_MODERN_FEMALE_2">
+			<Text>Mariam</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEORGIA_MODERN_FEMALE_3">
+			<Text>Nuwrieyl</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEORGIA_MODERN_FEMALE_4">
+			<Text>Ceniah</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEORGIA_MODERN_FEMALE_5">
+			<Text>Nini</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEORGIA_MODERN_FEMALE_6">
+			<Text>Imani</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEORGIA_MODERN_FEMALE_7">
+			<Text>Helen</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEORGIA_MODERN_FEMALE_8">
+			<Text>Anano</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEORGIA_MODERN_FEMALE_9">
+			<Text>Tamari</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_GEORGIA_MODERN_FEMALE_10">
+			<Text>Marri</Text>
+		</Row>
+		<!--KOREA-->
+		<Row Tag="LOC_CITIZEN_KOREA_MALE_1">
+			<Text>Eun</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_KOREA_MALE_2">
+			<Text>Geon</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_KOREA_MALE_3">
+			<Text>Hwan</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_KOREA_MALE_4">
+			<Text>Jeong</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_KOREA_MALE_5">
+			<Text>Ji</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_KOREA_MALE_6">
+			<Text>Min</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_KOREA_MALE_7">
+			<Text>Sang</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_KOREA_MALE_8">
+			<Text>Seok</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_KOREA_MALE_9">
+			<Text>Siu</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_KOREA_MALE_10">
+			<Text>Yeong</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_KOREA_FEMALE_1">
+			<Text>Chae-won</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_KOREA_FEMALE_2">
+			<Text>Eunji</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_KOREA_FEMALE_3">
+			<Text>Geyong-suk</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_KOREA_FEMALE_4">
+			<Text>Hayun</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_KOREA_FEMALE_5">
+			<Text>Jieun</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_KOREA_FEMALE_6">
+			<Text>Jeong-suk</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_KOREA_FEMALE_7">
+			<Text>Myeong-suk</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_KOREA_FEMALE_8">
+			<Text>Seong-min</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_KOREA_FEMALE_9">
+			<Text>Seo-yeon</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_KOREA_FEMALE_10">
+			<Text>Yeon-ghui</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_KOREA_MODERN_MALE_1">
+			<Text>Chung-Kyo</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_KOREA_MODERN_MALE_2">
+			<Text>Do-won</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_KOREA_MODERN_MALE_3">
+			<Text>Dong-jun</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_KOREA_MODERN_MALE_4">
+			<Text>Kwang-min</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_KOREA_MODERN_MALE_5">
+			<Text>Hanuel</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_KOREA_MODERN_MALE_6">
+			<Text>In-Soo</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_KOREA_MODERN_MALE_7">
+			<Text>Jae-Hwan</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_KOREA_MODERN_MALE_8">
+			<Text>Jung-Hwan</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_KOREA_MODERN_MALE_9">
+			<Text>Ju-Hyun</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_KOREA_MODERN_MALE_10">
+			<Text>Ho</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_KOREA_MODERN_FEMALE_1">
+			<Text>Eunbyeol</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_KOREA_MODERN_FEMALE_2">
+			<Text>Kyung-ok</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_KOREA_MODERN_FEMALE_3">
+			<Text>Hana</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_KOREA_MODERN_FEMALE_4">
+			<Text>Hyo-joo</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_KOREA_MODERN_FEMALE_5">
+			<Text>Hyun-hee</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_KOREA_MODERN_FEMALE_6">
+			<Text>Myong-ok</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_KOREA_MODERN_FEMALE_7">
+			<Text>Nari</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_KOREA_MODERN_FEMALE_8">
+			<Text>Sang-eun</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_KOREA_MODERN_FEMALE_9">
+			<Text>Seung-yong</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_KOREA_MODERN_FEMALE_10">
+			<Text>Soo-bin</Text>
+		</Row>
+		<!--MAPUCHE-->
+		<Row Tag="LOC_CITIZEN_MAPUCHE_MALE_1">
+			<Text>Amaru</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MAPUCHE_MALE_2">
+			<Text>Anta</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MAPUCHE_MALE_3">
+			<Text>Asto</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MAPUCHE_MALE_4">
+			<Text>Hakan</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MAPUCHE_MALE_5">
+			<Text>Inti</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MAPUCHE_MALE_6">
+			<Text>Kunak</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MAPUCHE_MALE_7">
+			<Text>Manko</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MAPUCHE_MALE_8">
+			<Text>Raymi</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MAPUCHE_MALE_9">
+			<Text>Sumaq</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MAPUCHE_MALE_10">
+			<Text>Urqu</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MAPUCHE_FEMALE_1">
+			<Text>Achiq</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MAPUCHE_FEMALE_2">
+			<Text>Akllaasisa</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MAPUCHE_FEMALE_3">
+			<Text>Ch’ayna</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MAPUCHE_FEMALE_4">
+			<Text>Huch’uykilla</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MAPUCHE_FEMALE_5">
+			<Text>Illari</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MAPUCHE_FEMALE_6">
+			<Text>Izhi</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MAPUCHE_FEMALE_7">
+			<Text>Karwasisa</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MAPUCHE_FEMALE_8">
+			<Text>Qhawa</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MAPUCHE_FEMALE_9">
+			<Text>Quri</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MAPUCHE_FEMALE_10">
+			<Text>Yachay</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MAPUCHE_MODERN_MALE_1">
+			<Text>Anku</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MAPUCHE_MODERN_MALE_2">
+			<Text>Kuntur</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MAPUCHE_MODERN_MALE_3">
+			<Text>Mallku</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MAPUCHE_MODERN_MALE_4">
+			<Text>Qhapaq</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MAPUCHE_MODERN_MALE_5">
+			<Text>Ruq’a</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MAPUCHE_MODERN_MALE_6">
+			<Text>Sami</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MAPUCHE_MODERN_MALE_7">
+			<Text>Tupaq</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MAPUCHE_MODERN_MALE_8">
+			<Text>Ullanta</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MAPUCHE_MODERN_MALE_9">
+			<Text>Uturunku</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MAPUCHE_MODERN_MALE_10">
+			<Text>Waman</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MAPUCHE_MODERN_FEMALE_1">
+			<Text>Achiyaku</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MAPUCHE_MODERN_FEMALE_2">
+			<Text>Huchuysisa</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MAPUCHE_MODERN_FEMALE_3">
+			<Text>Imasumaq</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MAPUCHE_MODERN_FEMALE_4">
+			<Text>Kukuli</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MAPUCHE_MODERN_FEMALE_5">
+			<Text>Miski</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MAPUCHE_MODERN_FEMALE_6">
+			<Text>Pilpintu</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MAPUCHE_MODERN_FEMALE_7">
+			<Text>Yma</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MAPUCHE_MODERN_FEMALE_8">
+			<Text>Qullqi</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MAPUCHE_MODERN_FEMALE_9">
+			<Text>Tamya</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_MAPUCHE_MODERN_FEMALE_10">
+			<Text>Waqar</Text>
+		</Row>
+		<!--NETHERLANDS-->
+		<Row Tag="LOC_CITIZEN_NETHERLANDS_MALE_1">
+			<Text>Avo</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NETHERLANDS_MALE_2">
+			<Text>Boldewin</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NETHERLANDS_MALE_3">
+			<Text>Ditmar</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NETHERLANDS_MALE_4">
+			<Text>Igmar</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NETHERLANDS_MALE_5">
+			<Text>Johannes</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NETHERLANDS_MALE_6">
+			<Text>Onno</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NETHERLANDS_MALE_7">
+			<Text>Paio</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NETHERLANDS_MALE_8">
+			<Text>Rette</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NETHERLANDS_MALE_9">
+			<Text>Sibold</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NETHERLANDS_MALE_10">
+			<Text>Walfrid</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NETHERLANDS_FEMALE_1">
+			<Text>Agatha</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NETHERLANDS_FEMALE_2">
+			<Text>Betta</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NETHERLANDS_FEMALE_3">
+			<Text>Ermina</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NETHERLANDS_FEMALE_4">
+			<Text>Gela</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NETHERLANDS_FEMALE_5">
+			<Text>Heiga</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NETHERLANDS_FEMALE_6">
+			<Text>Imma</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NETHERLANDS_FEMALE_7">
+			<Text>Machtild</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NETHERLANDS_FEMALE_8">
+			<Text>Notha</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NETHERLANDS_FEMALE_9">
+			<Text>Olge</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NETHERLANDS_FEMALE_10">
+			<Text>Yolande</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NETHERLANDS_MODERN_MALE_1">
+			<Text>Antoin</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NETHERLANDS_MODERN_MALE_2">
+			<Text>Bernhardt</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NETHERLANDS_MODERN_MALE_3">
+			<Text>Caspar</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NETHERLANDS_MODERN_MALE_4">
+			<Text>Dennis</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NETHERLANDS_MODERN_MALE_5">
+			<Text>Gijs</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NETHERLANDS_MODERN_MALE_6">
+			<Text>Jean Paul</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NETHERLANDS_MODERN_MALE_7">
+			<Text>Nils</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NETHERLANDS_MODERN_MALE_8">
+			<Text>Pieter</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NETHERLANDS_MODERN_MALE_9">
+			<Text>Wouter</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NETHERLANDS_MODERN_MALE_10">
+			<Text>Yves</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NETHERLANDS_MODERN_FEMALE_1">
+			<Text>Beatrix</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NETHERLANDS_MODERN_FEMALE_2">
+			<Text>Celeste</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NETHERLANDS_MODERN_FEMALE_3">
+			<Text>Eveline</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NETHERLANDS_MODERN_FEMALE_4">
+			<Text>Kerstin</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NETHERLANDS_MODERN_FEMALE_5">
+			<Text>Lieke</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NETHERLANDS_MODERN_FEMALE_6">
+			<Text>Marie-Louise</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NETHERLANDS_MODERN_FEMALE_7">
+			<Text>Nicola</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NETHERLANDS_MODERN_FEMALE_8">
+			<Text>Ottelien</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NETHERLANDS_MODERN_FEMALE_9">
+			<Text>Ulla</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NETHERLANDS_MODERN_FEMALE_10">
+			<Text>Violette</Text>
+		</Row>
+		<!--SCOTLAND-->
+		<Row Tag="LOC_CITIZEN_SCOTLAND_MALE_1">
+			<Text>Amer</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SCOTLAND_MALE_2">
+			<Text>Hamish</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SCOTLAND_MALE_3">
+			<Text>Donnan</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SCOTLAND_MALE_4">
+			<Text>Ewan</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SCOTLAND_MALE_5">
+			<Text>Giles</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SCOTLAND_MALE_6">
+			<Text>Hugh</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SCOTLAND_MALE_7">
+			<Text>Fergus</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SCOTLAND_MALE_8">
+			<Text>Ranald</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SCOTLAND_MALE_9">
+			<Text>Dauid</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SCOTLAND_MALE_10">
+			<Text>Maelcolm</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SCOTLAND_FEMALE_1">
+			<Text>Ada</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SCOTLAND_FEMALE_2">
+			<Text>Burunild</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SCOTLAND_FEMALE_3">
+			<Text>Deirdre</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SCOTLAND_FEMALE_4">
+			<Text>Ellen</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SCOTLAND_FEMALE_5">
+			<Text>Ese</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SCOTLAND_FEMALE_6">
+			<Text>Florie</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SCOTLAND_FEMALE_7">
+			<Text>Ysabell</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SCOTLAND_FEMALE_8">
+			<Text>Maggie</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SCOTLAND_FEMALE_9">
+			<Text>Muriel</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SCOTLAND_FEMALE_10">
+			<Text>Orabilia</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SCOTLAND_MODERN_MALE_1">
+			<Text>Angus</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SCOTLAND_MODERN_MALE_2">
+			<Text>Colin</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SCOTLAND_MODERN_MALE_3">
+			<Text>Douglas</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SCOTLAND_MODERN_MALE_4">
+			<Text>Edmund</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SCOTLAND_MODERN_MALE_5">
+			<Text>Harry</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SCOTLAND_MODERN_MALE_6">
+			<Text>Simon</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SCOTLAND_MODERN_MALE_7">
+			<Text>Mungo</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SCOTLAND_MODERN_MALE_8">
+			<Text>Kenneth</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SCOTLAND_MODERN_MALE_9">
+			<Text>Ian</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SCOTLAND_MODERN_MALE_10">
+			<Text>Wallace</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SCOTLAND_MODERN_FEMALE_1">
+			<Text>Alison</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SCOTLAND_MODERN_FEMALE_2">
+			<Text>Bonnie</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SCOTLAND_MODERN_FEMALE_3">
+			<Text>Fiona</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SCOTLAND_MODERN_FEMALE_4">
+			<Text>Gillian</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SCOTLAND_MODERN_FEMALE_5">
+			<Text>Heather</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SCOTLAND_MODERN_FEMALE_6">
+			<Text>Iona</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SCOTLAND_MODERN_FEMALE_7">
+			<Text>Rhona</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SCOTLAND_MODERN_FEMALE_8">
+			<Text>Jane</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SCOTLAND_MODERN_FEMALE_9">
+			<Text>Mary</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_SCOTLAND_MODERN_FEMALE_10">
+			<Text>Kenna</Text>
+		</Row>
+		<!--ZULU-->
+		<Row Tag="LOC_CITIZEN_ZULU_MALE_1">
+			<Text>Dumisani</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ZULU_MALE_2">
+			<Text>Lungelo</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ZULU_MALE_3">
+			<Text>Maphikelela</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ZULU_MALE_4">
+			<Text>Philani</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ZULU_MALE_5">
+			<Text>Nkosinhle</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ZULU_MALE_6">
+			<Text>Phiwokwakhe</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ZULU_MALE_7">
+			<Text>Sifiso</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ZULU_MALE_8">
+			<Text>Sithembiso</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ZULU_MALE_9">
+			<Text>Sipho</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ZULU_MALE_10">
+			<Text>Vusumuzi</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ZULU_FEMALE_1">
+			<Text>Amahle</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ZULU_FEMALE_2">
+			<Text>Lerato</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ZULU_FEMALE_3">
+			<Text>Inyoni</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ZULU_FEMALE_4">
+			<Text>Ntombizodwa</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ZULU_FEMALE_5">
+			<Text>Zobuhle</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ZULU_FEMALE_6">
+			<Text>Smukelisiwe</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ZULU_FEMALE_7">
+			<Text>Nonhlanhla</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ZULU_FEMALE_8">
+			<Text>Liyana</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ZULU_FEMALE_9">
+			<Text>Ntokozo</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ZULU_FEMALE_10">
+			<Text>Isisa</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ZULU_MODERN_MALE_1">
+			<Text>Bonginkosi</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ZULU_MODERN_MALE_2">
+			<Text>Kagiso</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ZULU_MODERN_MALE_3">
+			<Text>Bhekizizwe</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ZULU_MODERN_MALE_4">
+			<Text>Bhekumbuso</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ZULU_MODERN_MALE_5">
+			<Text>Funani</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ZULU_MODERN_MALE_6">
+			<Text>Kgabu</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ZULU_MODERN_MALE_7">
+			<Text>Solomon</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ZULU_MODERN_MALE_8">
+			<Text>Langa</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ZULU_MODERN_MALE_9">
+			<Text>Nkanyezi</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ZULU_MODERN_MALE_10">
+			<Text>Siyanda</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ZULU_MODERN_FEMALE_1">
+			<Text>Anele</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ZULU_MODERN_FEMALE_2">
+			<Text>Uluthando</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ZULU_MODERN_FEMALE_3">
+			<Text>Nofoto</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ZULU_MODERN_FEMALE_4">
+			<Text>Yibanathi</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ZULU_MODERN_FEMALE_5">
+			<Text>Thadie</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ZULU_MODERN_FEMALE_6">
+			<Text>Uluwazi</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ZULU_MODERN_FEMALE_7">
+			<Text>Jabulile</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ZULU_MODERN_FEMALE_8">
+			<Text>Mthunzi</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ZULU_MODERN_FEMALE_9">
+			<Text>Sindisiwe</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_ZULU_MODERN_FEMALE_10">
+			<Text>Khulekani</Text>
+		</Row>
+	</EnglishText>
+</GameData>

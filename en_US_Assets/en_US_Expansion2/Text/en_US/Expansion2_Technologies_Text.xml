@@ -1,0 +1,92 @@
+<GameData>
+	<EnglishText>
+		<Row Tag="LOC_TECH_BUTTRESS_NAME">
+			<Text>Buttress</Text>
+		</Row>
+		<Row Tag="LOC_TECH_REFINING_NAME">
+			<Text>Refining</Text>
+		</Row>
+		<Row Tag="LOC_TECH_COMPUTERS_DESCRIPTION">
+			<Text>Grants the ability to construct an additional Spy. +25% [ICON_Tourism] Tourism across your empire.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_SEASTEADS_NAME">
+			<Text>Seasteads</Text>
+		</Row>
+		<Row Tag="LOC_TECH_SEASTEADS_DESCRIPTION">
+			<Text>Awards 1 Diplomatic Victory point.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_ADVANCED_AI_NAME">
+			<Text>Advanced AI</Text>
+		</Row>
+		<Row Tag="LOC_TECH_ADVANCED_AI_DESCRIPTION">
+			<Text>Unlocks Giant Death Robot upgrade: Drone Air Defense[NEWLINE]+100 [ICON_AntiAir_Large] Anti-Air Strength.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_ADVANCED_POWER_CELLS_NAME">
+			<Text>Advanced Power Cells</Text>
+		</Row>
+		<Row Tag="LOC_TECH_ADVANCED_POWER_CELLS_DESCRIPTION">
+			<Text>CO2 emissions from units reduced by 50%. Unlocks Giant Death Robot upgrade: Particle Beam Siege Cannon[NEWLINE]Ranged attacks against Cities and Encampments are 100% effective and gain +30 [ICON_Ranged] Ranged Strength.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_CYBERNETICS_NAME">
+			<Text>Cybernetics</Text>
+		</Row>
+		<Row Tag="LOC_TECH_CYBERNETICS_DESCRIPTION">
+			<Text>Unlocks Giant Death Robot upgrade: Enhanced Mobility[NEWLINE]+3 [ICON_Movement] Movement. Can perform a Jump action to cross over mountain terrain.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_SMART_MATERIALS_NAME">
+			<Text>Smart Materials</Text>
+		</Row>
+		<Row Tag="LOC_TECH_SMART_MATERIALS_DESCRIPTION">
+			<Text>Unlocks Giant Death Robot upgrade: Reinforced Armor Plating[NEWLINE]+10 [ICON_Strength] Combat Strength when defending against land and naval units.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_PREDICTIVE_SYSTEMS_NAME">
+			<Text>Predictive Systems</Text>
+		</Row>
+		<Row Tag="LOC_TECH_PREDICTIVE_SYSTEMS_DESCRIPTION">
+			<Text>+1 [ICON_Production] Production to Quarry, Oil Well, and Oil Rig improvements.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_OFFWORLD_MISSION_NAME">
+			<Text>Offworld Mission</Text>
+		</Row>
+		<Row Tag="LOC_TECH_FUTURE_TECH_XP2_DESCRIPTION">
+			<Text>Can be completed multiple times, increasing your points towards the Score Victory. Also grants all of your cities +5% [ICON_Production] Production towards city projects each time it is completed.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_ADVANCED_BALLISTICS">
+			<Text>Build 2 Oil Power Plants</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_BUTTRESS">
+			<Text>Build a Classical era or later wonder</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_BUTTRESS">
+			<Text>Now that you have finished a wonder of the classical world, what will your architects build next?</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_REFINING">
+			<Text>Build 2 Coal Power Plants</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_LONGDESC_REFINING">
+			<Text>Your nation is now powered. However your scientists are already hard at work on developing alternative energy sources.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_CASTLES">
+			<Text>Adopt a government with 6 inherent policy slots.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_COMPUTERS">
+			<Text>Adopt a government with 8 inherent policy slots.</Text>
+		</Row>
+		<Row Tag="LOC_BOOST_TRIGGER_MUST_STEAL_NO_GREAT_SCIENTIST">
+			<Text>Boost through Spy.</Text>
+		</Row>
+		<!--Updates-->
+		<Row Tag="LOC_TECH_GUNPOWDER_DESCRIPTION">
+			<Text>Quarry improvements receive +1 [ICON_Production] Production.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_REPLACEABLE_PARTS_DESCRIPTION">
+			<Text>Upgrades Farm improvements to Mechanized Agriculture. +1 [ICON_Food] Food Adjacency bonus for every Farm improvement they are adjacent to. Pasture improvements receive +1 [ICON_Production] Production.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_ROBOTICS_DESCRIPTION">
+			<Text>Pasture improvements receive +1 [ICON_Food] Food.</Text>
+		</Row>
+		<Row Tag="LOC_TECH_SYNTHETIC_MATERIALS_DESCRIPTION">
+			<Text>+2 [ICON_Gold] Gold to Camps.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

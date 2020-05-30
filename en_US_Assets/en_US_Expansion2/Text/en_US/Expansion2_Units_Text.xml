@@ -1,0 +1,70 @@
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<EnglishText>
+		<Row Tag="LOC_UNIT_SKIRMISHER_NAME">
+			<Text>Skirmisher</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SKIRMISHER_DESCRIPTION">
+			<Text>Medieval Era recon unit.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_COURSER_NAME">
+			<Text>Courser</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_COURSER_DESCRIPTION">
+			<Text>Medieval Era light cavalry unit.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_CUIRASSIER_NAME">
+			<Text>Cuirassier</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_CUIRASSIER_DESCRIPTION">
+			<Text>Industrial Era heavy cavalry unit.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_GIANT_DEATH_ROBOT_NAME">
+			<Text>Giant Death Robot</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_GIANT_DEATH_ROBOT_DESCRIPTION">
+			<Text>Information Era Super-Unit. Able to move and fight in water. Resistant to Weapons of Mass Destruction. Combat abilities can be upgraded by researching future technologies.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MILITARY_ENGINEER_DESCRIPTION">
+			<Text>Medieval era support unit. Requires an Armory to produce. Can construct Roads, Railroads, Forts, Airstrips, Missile Silos, and Mountain Tunnel improvements. One of their build charges can also be used to complete 20% of a Canal or Dam district.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MILITARY_ENGINEER_ALT_DESCRIPTION">
+			<Text>Medieval era support unit. Requires an Armory to produce. Can construct Roads, Railroads, Forts, Airstrips, Missile Silos, and Mountain Tunnel improvements. One of their build charges can also be used to complete 20% of a Canal, Dam or Aqueduct district or a Flood Barrier building.</Text>
+		</Row>
+		<!--Rock Band Text-->
+		<Row Tag="LOC_UNIT_ROCK_BAND_NAME">
+			<Text>Rock Band</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_ROCK_BAND_DESCRIPTION">
+			<Text>Can perform a rock concert at a valid venue, including at Wonders, at a District with one of the required buildings, or at a special target allowed by one of the band's promotions. Their Album Sales stat is the expected [ICON_TOURISM] Tourism strength at their next concert. After performing concerts their Album Sales and Rock Band Level may increase. Must be purchased with [ICON_Faith] Faith. Cannot perform on the same tile twice.</Text>
+		</Row>
+		<Row Tag="LOC_RESULT_LEGENDS_OF_ROCK_NAME">
+			<Text>Legends of Rock</Text>
+		</Row>
+		<Row Tag="LOC_RESULT_HEADLINERS_NAME">
+			<Text>Headliners</Text>
+		</Row>
+		<Row Tag="LOC_RESULT_RISING_STARS_NAME">
+			<Text>Rising Stars</Text>
+		</Row>
+		<Row Tag="LOC_RESULT_OPENING_ACT_NAME">
+			<Text>Opening Act</Text>
+		</Row>
+		<Row Tag="LOC_RESULT_CREATIVE_DIFFERENCES_NAME">
+			<Text>Creative Differences</Text>
+		</Row>
+		<Row Tag="LOC_RESULT_AGING_ROCKERS_NAME">
+			<Text>Aging Rockers</Text>
+		</Row>
+		<!--Updated Text-->
+		<Row Tag="LOC_UNIT_INQUISITOR_EXPANSION2_DESCRIPTION">
+			<Text>May reduce the presence of other Religions in their territory by 75%, and initiate theological combat with units of other Religions.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_BATTERING_RAM_EXPANSION2_DESCRIPTION">
+			<Text>Ancient era support unit. When adjacent to a city, attacking melee and anti-cavalry units do full damage to the city’s Walls. Does not affect cities with Medieval or Renaissance Walls. Ineffective against Urban Defenses.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SIEGE_TOWER_EXPANSION2_DESCRIPTION">
+			<Text>Medieval era support unit. When adjacent to a city, attacking melee and anti-cavalry units ignore Walls and immediately assault the city. Does not affect cities with Renaissance Walls. Ineffective against Urban Defenses.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

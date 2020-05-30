@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<Row Tag="LOC_UNIT_SPEC_OPS_NAME">
+			<Text>Spec Ops</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SPEC_OPS_DESCRIPTION">
+			<Text>Atomic Era reconnaissance unit. Paradrop ability allows movement from friendly tile to location 7 tiles away (12 if starting from Aerodrome or Airstrip). Can attack support units directly without having to eliminate the combat unit first.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_DRONE_NAME">
+			<Text>Drone</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_DRONE_DESCRIPTION">
+			<Text>Atomic era support unit. Adds +1 [ICON_Range] Range and +5 [ICON_Bombard] Bombard Strength to Siege class units within 1 hex.</Text>8
+		</Row>
+		<Row Tag="LOC_UNIT_PIKE_AND_SHOT_NAME">
+			<Text>Pike and Shot</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_PIKE_AND_SHOT_DESCRIPTION">
+			<Text>Late Renaissance era anti-cavalry unit.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SUPPLY_CONVOY_NAME">
+			<Text>Supply Convoy</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SUPPLY_CONVOY_DESCRIPTION">
+			<Text>Modern era support unit. Increases healing for adjacent units. Gives units 1 bonus [ICON_Movement] Movement if move is started adjacent to the Convoy.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

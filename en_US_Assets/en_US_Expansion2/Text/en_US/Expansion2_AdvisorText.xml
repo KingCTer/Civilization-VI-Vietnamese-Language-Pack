@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<BaseGameText>
+		<Row Tag="LOC_TUTORIAL_INTRO_TO_WORLD_CONGRESS">
+			<Text>We have been invited to join the World Congress. On this international stage, we will decide important topics that must be addressed by the world at large, voting on resolutions and agreements between world leaders.[NEWLINE][NEWLINE]The World Congress meets every 30 turns (Standard Speed). During the Congress, players vote on Resolutions and Discussions using their accumulated [ICON_Favor] Diplomatic Favor to influence how the game rules will change until the next time Congress meets.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_WORLD_CONGRESS_STAGE_2">
+			<Text>We have been summoned to this Special Session of the World Congress. An Emergency demands the World's attention.[NEWLINE][NEWLINE]Special Sessions may be called every 15 turns (Standard Speed) by players who have been negatively affected by conditions that would give rise to an Emergency.  This might be another player (such as in a Military Emergency) or the environment (such as in a Request for Aid).  During this stage, players who might be involved in the Emergency must vote on the related Discussion.  If the Discussion passes, those players who voted for it will join the Emergency.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_WORLD_CONGRESS_STAGE_OVER">
+			<Text>World Congress is over. It will meet again soon, but in the meantime, take advantage of the new game rules in effect! You can view them by going into Diplomacy and clicking on the top-most icon on the left.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_FLOODPLAIN_REVEAL">
+			<Text>This River has floodplains, which means it has flooded before and might burst its banks again. A Flood along this river might happen at any point in the future. This presents us with risks, but potentially benefits, too.[NEWLINE][NEWLINE]A Flood might affect any tile along the River. A flooded tile will pillage or destroy Improvements and pillage Districts on the tile, but it might also increase the yields for the tile as a result.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_VOLCANO_REVEAL">
+			<Text>This Volcano is quiet now, but it could erupt again at some point in the future. It might be a danger to our people—or an unexpected blessing.[NEWLINE][NEWLINE]An Eruption might affect any tile adjacent to the Volcano. The Eruption will pillage or destroy improvements and pillage districts on the tile, but it might also increase the yields on the tile as a result.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_GEOTHERMAL_REVEAL">
+			<Text>Steam hisses from the ground here, rising in swirling clouds. This is a Geothermal Fissure—a place where the planet's heat escapes through natural vents.[NEWLINE][NEWLINE]In time, you may research technologies that allow you to make use of these natural features.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_FIRST_CLIMATE_CHANGE">
+			<Text>The world is warming, and there may be serious consequences to come. Some polar ice has melted, and low-lying settlements may be at risk in the future. If the temperature rises further, additional coastal lowland may flood, eventually sinking beneath the waves. We may want to construct a Flood Barrier in our cities at risk. Climate change will also lead to worsening and more frequent storms and droughts that can even strip the land of earlier fertility gains. You can see information about the world's climate on the Climate Screen at any time.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_CONSUME_POWER_RESOURCE">
+			<Text>Our people have created a new source of power. Even as they rejoice, plumes of smoke rise into the sky. By burning fuel, we are adding CO2 to the atmosphere. Continuing to do so will eventually warm the planet.[NEWLINE][NEWLINE]A warmer planet will cause sea levels to rise and coastal areas to flood. While this threat may happen in the future, you may want to consider how coastal flooding would affect your cities and civilization.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_STORM_REVEAL">
+			<Text>The wind howls and rain lashes—A powerful Storm rages across the land! There is danger here, but opportunity as well.[NEWLINE][NEWLINE]The Storm will pass across a number of tiles before dissipating. It will pillage or destroy Improvements and pillage Districts on any tile it crosses, but it might also increase the yields on the tile as a result.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_DAM_TECHNOLOGY_UNLOCK">
+			<Text>Our people's discovery means we can regulate the flow of rivers and prevent even in a severe flood. You now have the ability to construct the Dam district.[NEWLINE][NEWLINE]You can build one Dam per river, which will prevent Floods along this River.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_CANAL_TECHNOLOGY_UNLOCK">
+			<Text>Our people imagine a waterway where none exists yet, and this new discovery may allow them to build it. You now have the ability to construct Canals.[NEWLINE][NEWLINE]These allow naval units and trade caravans to pass through land. A Canal will improve the yield from any Trade Route that passes through it.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_WORLD_CONGRESS_CONVENE">
+			<Text>Wise minds in many lands propose to solve disputes between civilizations through peaceful counsel. Shall we join the call for a World Congress?[NEWLINE][NEWLINE]The World Congress is an organization of all the civilizations of the world. Successfully using this organization is an essential part of the Diplomatic Victory.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_PLAYER_DISCUSSION_ACCEPT">
+			<Text>Our eloquent arguments have convinced the other civilizations of the world, and our Discussion is accepted!</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_PLAYER_DISCUSSION_FAIL">
+			<Text>Despite our pleas, we were unable to convince the other civilizations of the world of our cause. Our Discussion was rejected.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_INTERVENTION_AVAILABLE">
+		  <Text>We have an opportunity to request that players band together to address an Emergency.  Shall we propose this to World Congress?[NEWLINE][NEWLINE]When the conditions are met to trigger an Emergency, affected players can spend [ICON_Favor] Diplomatic Favor to request a Special Session of the World Congress, where players will vote if a Scored Competition should start to combat the situation.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_INTERVENTION_PROPOSED_AND_WE_CAN_ADD">
+		  <Text>Another civilization has requested a Special Session of the World Congress to address an Emergency.  We have an Emergency of our own to discuss: shall we add it to the agenda?[NEWLINE][NEWLINE]In a single Special Session, multiple Emergencies may be discussed at once.  Once a Special Session has ended, another cannot be called until a certain number of turns have elapsed: if you want to propose a discussion, now is the time to do it.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_INTERVENTION_PASS">
+			<Text>The World Congress has agreed that civilizations should band together in a common cause. We can work with the other civilizations to gain their approval, or we can choose not to participate in this Intervention.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_EMERGENCY_1_XP2">
+		  <Text>We have joined together with other civilizations against a larger threat.  If we succeed, we will be rewarded.  But should we fail in our mission, the enemy will become stronger.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_SCORED_COMPETITION_BEGUN">
+		  <Text>We are now facing other civilizations in a peaceful competition.  Who will prove the most capable in this activity?  If we perform well, we will walk away with powerful bonuses.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_PLAYER_DENOUNCED">
+			<Text>Whether from frustration or malice, another civilization in the world is angry with our actions. They have Denounced us before the world to show their displeasure. They may be justifying a future war with us. We must beware.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_PLAYER_GENERATES_GRIEVANCE">
+			<Text>We have opposed the will of another civilization, and have angered them. They have a Grievance against us, which may make it more difficult to work with them in the future. </Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_AI_GENERATES_GRIEVANCE">
+			<Text>Another civilization's actions are an affront to our dignity. We have a Grievance against them, which may justify our actions against them to the other civilizations. </Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_PLAYER_GAINS_FAVOR">
+			<Text>The World Congress approves of our actions with regard to this Resolution. We have gained a Diplomatic Favor with the other civilizations.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_PLAYER_CB_REVOKED">
+			<Text>The World Congress has determined that our Casus Belli for our current war was not justified. We no longer claim diplomatic benefit from it. We must be cautious, lest we be isolated diplomatically.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_CIV_MAKES_REQUEST">
+			<Text>Another Civilization in the world has made a formal Request to you. Your response to this diplomatic gesture in this pivotal moment will decide the future of your relationship with this Civilization.[NEWLINE][NEWLINE]Depending on how you respond to the Request and behave afterwards, other options may be available to this Civilization—including Casus Belli becoming available.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_PLAYER_ABLE_REQUEST">
+			<Text>A political situation of importance has arisen involving another Civilization in the world. You may make a Request of another Civilization. These Requests represent pivotal moments in your relationship with the other Civilizations.[NEWLINE][NEWLINE]Depending on how the other Civilization responds, other diplomatic options may become available to you—including Casus Belli to justify a war with that Civilization.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_STRATEGIC_RESOURCE_AVAILABLE">
+			<Text>We have begun to accumulate a Strategic Resource! Our people know this new Resource may be essential for building certain military units and they will stockpile it for future use. We should manage our use of this Resource to make the most of it.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_UNIT_REQUIRES_FUEL_BUILT">
+			<Text>We are now able to train a military unit that requires a strategic resource. If we do not keep an adequate supply of the resource in our stockpile, it will be much less effective in battle.[NEWLINE][NEWLINE]These units will require a constant supply of resources. We should ensure we have supplies of those resources on hand.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_POWER_REQUIRED_BUILDABLE">
+			<Text>Our wisest minds have developed plans to build a new device, but it will require a regular source of Power that is greater than human effort. We must develop a way to provide our cities with Power if we are to use it.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_DIRTY_POWER_AVAILABLE">
+			<Text>We have learned of a method to supply Power to our city, but it will require us to burn Fuel. This source will produce smoke and pollution, so we must weigh the costs and benefits carefully.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_CLEAN_POWER_AVAILABLE">
+			<Text>Excellent news! We have a new method of producing Power — one which will not pollute the world by burning Fuel. This will allow us to supply Power to our cities without risking damage to the environment.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_CITY_POWER_SHORTAGE">
+			<Text>Work in this city proceeds fitfully, for the city is short of Power. If we do not have enough resources stockpiled, our units, cities, and civilization will not achieve their greatest potential.[NEWLINE][NEWLINE]We should build a building that provides Power to this city.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_NEGATIVE_RESOURCE_RATE">
+			<Text>There is greater demand for our Resources now, and our stockpiles are in danger of depletion. If this happens, our units will become much less effective.[NEWLINE][NEWLINE]If we run out of Resources, any unit that requires these Resources will be much less effective in combat. We may wish to consider building fewer units, or finding ways to make better use of the Resources we have.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_EXOPLANET_PROJECT_AVAILABLE">
+			<Text>Our scientists and engineers believe they can construct a ship capable of carrying colonists to a new home on a distant world. To accomplish this feat would be the greatest technological achievement of human history, and would secure our civilization's place in history.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_EXOPLANET_SUPPORT_PROJECT_AVAILABLE">
+			<Text>Our spaceship to settle a distant world has departed on its journey, but there are yet more opportunities available to help it on its way. We can construct additional projects that will speed the journey.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_FUTURE_ERA_IMMINENT">
+			<Text>The mysteries of science and the questions of culture are still open to us, but now the connections between discoveries are tantalizingly dim. As our investigations proceed, the relationship between technologies and civics will reveal themselves in time.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_BUILD_ROUTE_MOUNTAIN_AVAILABLE">
+			<Text>Mountains that brush the heavens might daunt others, but our people have the knowledge of ways to cross them. Crossing mountains will make travel easier for our units—as well as those of our foes.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_BUILD_RAILROAD_AVAILABLE">
+			<Text>A Railroad is an expensive undertaking, but it will boost our trade power and the speed of our units along its line. We should consider where to build these.	Military Engineers will be required for the task.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_BUILD_ROCKBAND_AVAILABLE">
+			<Text>Our civilization has the ability to recruit Rock Bands! These world-class performers can be purchased with Faith in a city. Send them on tour to distant lands to perform concerts and generate Tourism for our civilization.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_BUILD_COASTAL_LOWLANDS">
+			<Text>Our people have chosen to create a city along the low coast, within the sound of the ocean's waves. But this is low land, and will flood if the sea level rises.</Text>
+		</Row>
+		<!-- Super Advisor Lines -->
+		<Row Tag="LOC_TUTORIAL_XP2_INTRO_WELCOME">
+			<Text>Welcome to Civilization VI: Gathering Storm! This guide will introduce you to new features in this expansion. Additional information can be found in the Civilopedia and Advisor tips.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_XP2_INTRO_WORLD_CONGRESS">
+			<Text>The World Congress is where you make your voice heard amongst the other civilizations in the world. It is also an important part of the new Diplomatic Victory. Proposals are sent before the World Congress for vote, and come in two types: Resolutions and Discussions.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_XP2_INTRO_WORLD_CONGRESS_DETAILS">
+			<Text>{LOC_TUTORIAL_XP2_INTRO_WORLD_CONGRESS_DETAILS_1}[NEWLINE][NEWLINE]{LOC_TUTORIAL_XP2_INTRO_WORLD_CONGRESS_DETAILS_2}[NEWLINE][NEWLINE]{LOC_TUTORIAL_XP2_INTRO_WORLD_CONGRESS_DETAILS_3}</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_XP2_INTRO_WORLD_CONGRESS_DETAILS_1">
+			<Text>Resolutions affect all civilizations, such as banning a Luxury Resource or gaining extra [ICON_Amenities] Amenities from each copy of the resource.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_XP2_INTRO_WORLD_CONGRESS_DETAILS_2">
+			<Text>Discussions are potential Scored Competitions or Emergencies that members of the World Congress may join, like World Games or a Religious Emergency.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_XP2_INTRO_WORLD_CONGRESS_DETAILS_3">
+			<Text>Members can summon a Special Session if they have an Emergency they need addressed, like a request for aid after a natural disaster.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_XP2_INTRO_FAVOR">
+			<Text>[ICON_Favor] Diplomatic Favor is a new form of currency in the game. Your diplomatic actions will earn you [ICON_Favor] Diplomatic Favor that can be used in the World Congress to help you or hinder others.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_XP2_INTRO_FAVOR_DETAILS">
+			<Text>{LOC_TUTORIAL_XP2_INTRO_FAVOR_DETAILS_1}[NEWLINE][NEWLINE]{LOC_TUTORIAL_XP2_INTRO_FAVOR_DETAILS_2}[NEWLINE][NEWLINE]{LOC_TUTORIAL_XP2_INTRO_FAVOR_DETAILS_3}</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_XP2_INTRO_FAVOR_DETAILS_1">
+			<Text>[ICON_Favor] Diplomatic Favor can be earned through Alliances, City States of which you are the Suzerain, success in Scored Competitions, and more.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_XP2_INTRO_FAVOR_DETAILS_2">
+			<Text>There are major and minor ways to gain [ICON_Favor] Diplomatic Favor through a game.  Some actions will grant a large payout of Favor all at once, and some will grant it slowly over time.  Try trading for other players' Favor to strengthen your position in World Congress.</Text>
+		</Row>
+    <Row Tag="LOC_TUTORIAL_XP2_INTRO_FAVOR_DETAILS_3">
+      <Text>You can spend your [ICON_Favor] Diplomatic Favor to extract promises from other players, call Special Sessions of Congress, and buy votes in World Congress.  Or save up Diplomatic Favor throughout the game to pursue Diplomatic Victory Points in the later eras.</Text>
+    </Row>
+    <Row Tag="LOC_TUTORIAL_XP2_INTRO_DIPLO_VICTORY">
+      <Text>Gather Diplomatic Victory Points to pursue the new Diplomatic Victory.</Text>
+    </Row>
+    <Row Tag="LOC_TUTORIAL_XP2_INTRO_DIPLO_VICTORY_DETAILS">
+      <Text>{LOC_TUTORIAL_XP2_INTRO_DIPLO_VICTORY_DETAILS_1}[NEWLINE][NEWLINE]{LOC_TUTORIAL_XP2_INTRO_DIPLO_VICTORY_DETAILS_2}[NEWLINE][NEWLINE]{LOC_TUTORIAL_XP2_INTRO_DIPLO_VICTORY_DETAILS_3}</Text>
+    </Row>
+    <Row Tag="LOC_TUTORIAL_XP2_INTRO_DIPLO_VICTORY_DETAILS_1">
+      <Text>When World Congress meets, there will be a number of Resolutions available for determination.  When voting resolves, all players will receive a Diplomatic Victory Point for each Resolution for which they chose the winning target and option.</Text>
+    </Row>
+    <Row Tag="LOC_TUTORIAL_XP2_INTRO_DIPLO_VICTORY_DETAILS_2">
+      <Text>Starting in the Modern Era, players will be able to use their [ICON_Favor] Diplomatic Favor in World Congress to compete for Diplomatic Victory Points.  Win the Resolution to bring yourself closer to victory, or to prevent other players from achieving their own.</Text>
+    </Row>
+    <Row Tag="LOC_TUTORIAL_XP2_INTRO_DIPLO_VICTORY_DETAILS_3">
+      <Text>Emergencies such as Aid Requests and World Games will provide Diplomatic Victory Points to the players who get the highest score.</Text>
+    </Row>
+    <Row Tag="LOC_TUTORIAL_XP2_INTRO_GRIEVANCES">
+      <Text>The previous Warmongering system has been replaced with a new representation of how other players view your warlike actions: [ICON_STAT_GRIEVANCE] Grievances.</Text>
+    </Row>
+    <Row Tag="LOC_TUTORIAL_XP2_INTRO_GRIEVANCES_DETAILS">
+      <Text>{LOC_TUTORIAL_XP2_INTRO_GRIEVANCES_DETAILS_1}[NEWLINE][NEWLINE]{LOC_TUTORIAL_XP2_INTRO_GRIEVANCES_DETAILS_2}[NEWLINE][NEWLINE]{LOC_TUTORIAL_XP2_INTRO_GRIEVANCES_DETAILS_3}</Text>
+    </Row>
+    <Row Tag="LOC_TUTORIAL_XP2_INTRO_GRIEVANCES_DETAILS_1">
+      <Text>Now, when other players wrong you by Denouncement, Declaration of War, or capturing or razing one of your cities, you gain [ICON_STAT_GRIEVANCE] Grievances against them and may retaliate in kind with the world's approval.  No longer will you be Denounced for a fair, punitive city capture after an unjustified war.</Text>
+    </Row>
+    <Row Tag="LOC_TUTORIAL_XP2_INTRO_GRIEVANCES_DETAILS_2">
+      <Text>You may also use [ICON_STAT_GRIEVANCE] Grievances to request Promises from other players.  If the other player continues to go against your wishes that you indicate in this manner, they will continually generate [ICON_STAT_GRIEVANCE] Grievances that you can use to justify a war against them.</Text>
+    </Row>
+    <Row Tag="LOC_TUTORIAL_XP2_INTRO_GRIEVANCES_DETAILS_3">
+      <Text>But the world at large still pays attention to the overall [ICON_STAT_GRIEVANCE] Grievances that other players have against you.  If you have grieved others more than they have grieved you, third-parties will notice, and it will impact their opinion of you.</Text>
+    </Row>    
+		<Row Tag="LOC_TUTORIAL_XP2_INTRO_ENVIRONMENT">
+			<Text>In Civilization VI: Gathering Storm, the environment around you is more alive than ever before. Natural disasters like floods, storms, and volcanoes can pillage or destroy your Improvements and Districts—but they might refresh and enrich the lands after they pass.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_XP2_INTRO_ENVIRONMENT_DETAILS">
+			<Text>{LOC_TUTORIAL_XP2_INTRO_ENVIRONMENT_DETAIL_1}[NEWLINE][NEWLINE]{LOC_TUTORIAL_XP2_INTRO_ENVIRONMENT_DETAIL_2}</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_XP2_INTRO_ENVIRONMENT_DETAIL_1">
+			<Text>From Blizzards to Dust Storms, from Tornadoes to Hurricanes, storms are another challenge to overcome.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_XP2_INTRO_ENVIRONMENT_DETAIL_2">
+			<Text>Flooded rivers may damage your improvements, but they might improve the [ICON_Food] Food yield on a tile, too.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_XP2_INTRO_VOLCANOES">
+			<Text>Volcanoes are high risk, but high reward, settlement locations. Volcanic eruptions can pillage or destroy improvements, districts, and buildings, and even kill or damage units. But volcanic soil is highly valuable and very fertile.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_XP2_INTRO_GEOTHERMAL">
+			<Text>Geothermal Fissures are new features that provide benefits to nearby buildings or districts like additional [ICON_Amenities] Amenities or [ICON_Tourism] Tourism.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_XP2_INTRO_STRATEGIC_RESOURCES">
+			<Text>Strategic resources have been divided into two types: Fuel and Material. Fuel resources are used to meet the [ICON_Power] Power needs of your cities, whereas Material resources are required to produce resource-dependent units.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_XP2_INTRO_STRATEGIC_RESOURCES_DETAILS">
+			<Text>{LOC_TUTORIAL_XP2_INTRO_STRATEGIC_RESOURCES_DETAIL_1}[NEWLINE][NEWLINE]{LOC_TUTORIAL_XP2_INTRO_STRATEGIC_RESOURCES_DETAIL_2}</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_XP2_INTRO_STRATEGIC_RESOURCES_DETAIL_1">
+			<Text>Manage the [ICON_Power] Power in your city to make late-game buildings more effective.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_XP2_INTRO_STRATEGIC_RESOURCES_DETAIL_2">
+			<Text>Trade Material Resources and Fuel with other civilizations.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_XP2_INTRO_RESOURCES">
+			<Text>Your choices about resource usage will directly affect the world’s temperature, and can cause rising sea levels. Some coastal tiles will be at risk of becoming flooded or completely submerged. When settling cities, consider the risk of these coastal lowland tiles, but keep in mind that in the Atomic era, Flood Barriers can be used to protect these tiles. </Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_XP2_INTRO_RESOURCES_DETAILS">
+			<Text>{LOC_TUTORIAL_XP2_INTRO_RESOURCES_DETAIL_1}[NEWLINE][NEWLINE]{LOC_TUTORIAL_XP2_INTRO_RESOURCES_DETAIL_2}[NEWLINE][NEWLINE]{LOC_TUTORIAL_XP2_INTRO_RESOURCES_DETAIL_3}</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_XP2_INTRO_RESOURCES_DETAIL_1">
+			<Text>Burning Fuel heats up the atmosphere, leading to melted ice caps and rising sea levels.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_XP2_INTRO_RESOURCES_DETAIL_2">
+			<Text>Your Settler will now tell you if you are building a city in low area near a coast.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_XP2_INTRO_RESOURCES_DETAIL_3">
+			<Text>The Flood Barrier will help protect your city from the rising sea.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_XP2_INTRO_MORE">
+			<Text>There is plenty more to explore in Civilization VI: Gathering Storm including new eras in the Technology and Civics Trees, new Historic Moments, new global units including the Giant Death Robot, leaders and civilizations that synergize with new systems, and more.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_XP2_INTRO_END">
+			<Text>Will your civilization weather the gathering storm? How will you rule in Sid Meier's Civilization VI?</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_XP2_INTRO_END_DETAILS_1">
+			<Text>You can always review this information by consulting the advisor, checking the Civilopedia, or reopening this tutorial in the Pause menu. </Text>
+		</Row>
+    <!--City Panel Advisor-->
+    <Row Tag="LOC_ADVISOR_CITYPANEL_POWER_INTRO">
+      <Text>TO GENERATE POWER:</Text>
+    </Row>
+    <Row Tag="LOC_ADVISOR_CITYPANEL_POWER_PLANTS">
+      <Text>[NEWLINE][NEWLINE]Build a Power Plant in this city or a nearby city, and ensure you have a stockpile of the resource it uses ([ICON_RESOURCE_COAL] Coal, [ICON_RESOURCE_OIL] Oil, or [ICON_RESOURCE_URANIUM] Uranium)</Text>
+    </Row>
+    <Row Tag="LOC_ADVISOR_CITYPANEL_HYDROELECTRIC_DAM">
+      <Text>[NEWLINE][NEWLINE]Build a Dam district and a Hydroelectric Dam building</Text>
+    </Row>
+    <Row Tag="LOC_ADVISOR_CITYPANEL_RENEWABLE_ENERGY">
+      <Text>[NEWLINE][NEWLINE]Research advanced technologies and construct tile improvements like the Solar Farm, Wind Farm, Offshore Wind Farm, or Geothermal Plant</Text>
+    </Row>
+	</BaseGameText>
+</GameData>

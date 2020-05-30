@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<!-- Shell -->
+		<Row Tag="LOC_BLACKDEATH_SCENARIO_NAME">
+			<Text>The Black Death</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_BLACKDEATH_SCENARIO">
+			<Text>The Black Death ravaged Europe and Western Asia in the mid-14th century, killing a greater share of the population than any other event in world history. The pandemic killed millions, ruined economies, upended political dynasties and transformed the face of the Western world.[NEWLINE][NEWLINE]Your task is to lead your nation through the calamity: keep your population alive, your economy strong, and your faith unshaken amidst a world of terror and desperation.</Text>
+		</Row>
+		<Row Tag="LOC_BLACKDEATH_SCENARIO_HOF_PLAGUE_DEATHS">
+			<Text>Plague Deaths</Text>
+		</Row>
+		<Row Tag="LOC_BLACKDEATH_SCENARIO_HOF_CITY_PLAGUE_DEATHS">
+			<Text>City Plague Deaths</Text>
+		</Row>
+		<Row Tag="LOC_BLACKDEATH_SCENARIO_HOF_CITY_MOST_PLAGUE_DEATHS">
+			<Text>Highest City Mortality</Text>
+		</Row>
+		<Row Tag="LOC_BLACKDEATH_SCENARIO_HOF_CITY_MOST_PLAGUE_DEATHS_ANNOTATION">
+			<Text>{Amount: plural 1?{Amount} death;other?{Amount} deaths;}</Text>
+		</Row>
+		<!-- Misc -->
+		<Row Tag="LOC_VICTORY_BLACKDEATH_SCENARIO_NAME">
+			<Text>Black Death Victory</Text>
+		</Row>
+		<Row Tag="LOC_VICTORY_BLACKDEATH_SCENARIO_TEXT">
+			<Text>You have survived the dark days of the plague and emerged stronger and more enlightened. The technological and civil progress you have attained will light the way of European prosperity for centuries to come!</Text>
+		</Row>
+		<Row Tag="LOC_VICTORY_BLACKDEATH_SCENARIO_TT">
+			<Text>You win this victory if you can unlock the Invention Technology or The Middle Class Civic before the scenario ends.</Text>
+		</Row>
+		<!-- Map -->
+		<Row Tag="LOC_MAPSIZE_BLACKDEATH_SCENARIO_NAME">
+			<Text>Medieval Europe</Text>
+		</Row>
+		<Row Tag="LOC_MAPSIZE_BLACKDEATH_SCENARIO_DESCRIPTION">
+			<Text>A small map depicting Western Europe as it may have looked in the mid-14th century.</Text>
+		</Row>
+		<!-- Units -->
+		<Row Tag="LOC_UNIT_TEUTONIC_KNIGHT_NAME">
+			<Text>Teutonic Knight</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_TEUTONIC_KNIGHT_DESCRIPTION">
+			<Text>Holy Roman Empire unique unit that replaces the Swordsman. No [ICON_Gold] Gold maintenance. +8 [ICON_Strength] Combat Strength when fighting in enemy territory</Text>
+		</Row>
+		<!-- France -->
+		<Row Tag="LOC_LEADER_BLACKDEATH_SCENARIO_FRANCE_NAME">
+			<Text>King Philip VI</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_FRANCE_NAME">
+			<Text>France</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_FRANCE_DESCRIPTION">
+			<Text>The Kingdom of France</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_FRANCE_ADJECTIVE">
+			<Text>French</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_FRANCE_ABILITY_NAME">
+			<Text>Papal Leadership</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_FRANCE_ABILITY_DESCRIPTION">
+			<Text>France's government gains a special 'Papal Policy' wildcard slot. This slot is optional, but consumes [ICON_Faith] Faith per turn if used.</Text>
+		</Row>
+		<!-- England -->
+		<Row Tag="LOC_LEADER_BLACKDEATH_SCENARIO_ENGLAND_NAME">
+			<Text>King Edward III</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_ENGLAND_NAME">
+			<Text>England</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_ENGLAND_DESCRIPTION">
+			<Text>The Kingdom of England</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_ENGLAND_ADJECTIVE">
+			<Text>English</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_ENGLAND_ABILITY_NAME">
+			<Text>Labor Coercion</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_ENGLAND_ABILITY_DESCRIPTION">
+			<Text>All English cities gain the 'Coerce' command: spend [ICON_Gold] Gold to allow a plague-stricken tile to work, improve, or build for 10 turns.</Text>
+		</Row>
+		<!-- Holy Roman Empire -->
+		<Row Tag="LOC_LEADER_BLACKDEATH_SCENARIO_HOLY_ROMAN_EMPIRE_NAME">
+			<Text>Emperor Louis IV</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_HOLY_ROMAN_EMPIRE_NAME">
+			<Text>Holy Roman Empire</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_HOLY_ROMAN_EMPIRE_DESCRIPTION">
+			<Text>The Holy Roman Empire</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_HOLY_ROMAN_EMPIRE_ADJECTIVE">
+			<Text>Imperial</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_HOLY_ROMAN_EMPIRE_ABILITY_NAME">
+			<Text>Teutonic Order</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_HOLY_ROMAN_EMPIRE_ABILITY_DESCRIPTION">
+			<Text>Teutonic Knight unique unit replaces Swordsmen. Teutonic Knights have no [ICON_Gold] Gold maintenance and +8 [ICON_Strength] Combat Strength when fighting in enemy territory.</Text>
+		</Row>
+		<!-- Castile -->
+		<Row Tag="LOC_LEADER_BLACKDEATH_SCENARIO_CASTILE_NAME">
+			<Text>Alfonso XI</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_CASTILE_NAME">
+			<Text>Castile</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_CASTILE_DESCRIPTION">
+			<Text>The Kingdom of Castile</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_CASTILE_ADJECTIVE">
+			<Text>Castilian</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_CASTILE_ABILITY_NAME">
+			<Text>Sword of Faith</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_CASTILE_ABILITY_DESCRIPTION">
+			<Text>All Castilian units gain the 'Holy Fervor' unit command: once per turn, the unit may spend [ICON_Faith] Faith to restore its moves and attacks.</Text>
+		</Row>
+		<!-- City-States -->
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_BRAGA_NAME">
+			<Text>Braga</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_BRAGA_DESCRIPTION">
+			<Text>City of Braga</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_LISBON_NAME">
+			<Text>Lisbon</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_LISBON_DESCRIPTION">
+			<Text>City of Lisbon</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_FARO_NAME">
+			<Text>Faro</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_FARO_DESCRIPTION">
+			<Text>City of Faro</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_PAMPLONA_NAME">
+			<Text>Pamplona</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_PAMPLONA_DESCRIPTION">
+			<Text>City of Pamplona</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_VALENCIA_NAME">
+			<Text>Valencia</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_VALENCIA_DESCRIPTION">
+			<Text>City of Valencia</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_BARCELONA_NAME">
+			<Text>Barcelona</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_BARCELONA_DESCRIPTION">
+			<Text>City of Barcelona</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_GRENADA_NAME">
+			<Text>Granada</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_GRENADA_DESCRIPTION">
+			<Text>City of Grenada</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_PALMA_NAME">
+			<Text>Palma</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_CORK_NAME">
+			<Text>Cork</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_ABERDEEN_NAME">
+			<Text>Aberdeen</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_EDINBURGH_NAME">
+			<Text>Edinburgh</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_MARSEILLES_NAME">
+			<Text>Marseilles</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_GENEVA_NAME">
+			<Text>Geneva</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_MILAN_NAME">
+			<Text>Milan</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_GENOA_NAME">
+			<Text>Genoa</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_VENICE_NAME">
+			<Text>Venice</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_PISA_NAME">
+			<Text>Pisa</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_ROME_NAME">
+			<Text>Rome</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_NAPLES_NAME">
+			<Text>Naples</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_COPENHAGEN_NAME">
+			<Text>Copenhagen</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_ALBORG_NAME">
+			<Text>Alborg</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_STOCKHOLM_NAME">
+			<Text>Stockholm</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_KALMAR_NAME">
+			<Text>Kalmar</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_OSLO_NAME">
+			<Text>Oslo</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_STAVANGER_NAME">
+			<Text>Stavanger</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_SPLIT_NAME">
+			<Text>Split</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_DUBROVNIK_NAME">
+			<Text>Dubrovnik</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_ZAGREB_NAME">
+			<Text>Zagreb</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_PRAGUE_NAME">
+			<Text>Prague</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_VIENNA_NAME">
+			<Text>Vienna</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_SZCZECIN_NAME">
+			<Text>Szczecin</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_GDANSK_NAME">
+			<Text>Gdansk</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_PALMA_DESCRIPTION">
+			<Text>City of Palma</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_CORK_DESCRIPTION">
+			<Text>City of Cork</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_ABERDEEN_DESCRIPTION">
+			<Text>City of Aberdeen</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_EDINBURGH_DESCRIPTION">
+			<Text>City of Edinburgh</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_MARSEILLES_DESCRIPTION">
+			<Text>City of Marseilles</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_GENEVA_DESCRIPTION">
+			<Text>City of Geneva</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_MILAN_DESCRIPTION">
+			<Text>City of Milan</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_GENOA_DESCRIPTION">
+			<Text>City of Genoa</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_VENICE_DESCRIPTION">
+			<Text>City of Venice</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_PISA_DESCRIPTION">
+			<Text>City of Pisa</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_ROME_DESCRIPTION">
+			<Text>City of Rome</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_NAPLES_DESCRIPTION">
+			<Text>City of Naples</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_COPENHAGEN_DESCRIPTION">
+			<Text>City of Copenhagen</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_ALBORG_DESCRIPTION">
+			<Text>City of Alborg</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_STOCKHOLM_DESCRIPTION">
+			<Text>City of Stockholm</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_KALMAR_DESCRIPTION">
+			<Text>City of Kalmar</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_OSLO_DESCRIPTION">
+			<Text>City of Oslo</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_STAVANGER_DESCRIPTION">
+			<Text>City of Stavanger</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_SPLIT_DESCRIPTION">
+			<Text>City of Split</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_DUBROVNIK_DESCRIPTION">
+			<Text>City of Dubrovnik</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_ZAGREB_DESCRIPTION">
+			<Text>City of Zagreb</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_PRAGUE_DESCRIPTION">
+			<Text>City of Prague</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_VIENNA_DESCRIPTION">
+			<Text>City of Vienna</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_SZCZECIN_DESCRIPTION">
+			<Text>City of Szczecin</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_GDANSK_DESCRIPTION">
+			<Text>City of Gdansk</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BLACKDEATH_SCENARIO_CITY_STATE_NAME">
+			<Text>City State Leader</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_LENSES_PLAGUE">
+			<Text>Plague</Text>
+		</Row>
+		<Row Tag="LOC_OPTIONS_HOTKEY_LENSES_PLAGUE_HELP">
+			<Text>Toggles the Plague lens.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

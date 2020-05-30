@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Anton Strenger (Firaxis Games) -->
+<GameData>
+	<BaseGameText>
+		<Row Tag="LOC_LOADING_INFO_LEADER_LAURIER">
+			<Text>You chose the sunny ways, Wilfrid Laurier, and made cheerfulness and courtesy the character of the Canadian people. Where others look to divide and sow mistrust, you inspire cooperation and understanding. Show the world that a unified people can forever stand the test of time.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_ELEANOR_FRANCE">
+			<Text>Duchess of Aquitaine, regent of two lands, patron of troubadours and judge of the court of love, ascend your throne again. Inspire the hearts of your subjects, that they will cheer you and flock to your banners, for all who know your reign know your compassion.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_ELEANOR_ENGLAND">
+			<Text>Duchess of Aquitaine, regent of two lands, patron of troubadours and judge of the court of love, ascend your throne again. Inspire the hearts of your subjects, that they will cheer you and flock to your banners, for all who know your reign know your compassion.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_MATTHIAS_CORVINUS">
+			<Text>Mighty Matthias, your feats at arms are matched only by the depth of your knowledge. Let your mighty Black Army serve as your strong hand on the battlefield, both as sword against your enemies and as shield protecting your faithful people, and ages to come will utter your name in awe.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_PACHACUTI">
+			<Text>Pachacuti, son of the Sun, father to a prosperous people who dwell among lofty peaks. Let the mountains be roads to you, and mighty walls to your enemies, for you grow in strength where others would starve. O, Sapa Inca who shakes the earth, show strength and diligence, and your name will shine throughout all of history.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_MANSA_MUSA">
+			<Text>Mansa Musa, great king of Mali, you are blessed with wealth beyond comprehension, yet you remain uncorrupted. Raise your eyes from the marketplace to the heavens and satisfy your heart’s great yearning for peace. Protect the prosperity of your people, and history will write your name in golden letters.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_KUPE">
+			<Text>Kupe the Navigator, you named the land of the long white cloud, and now you are called upon to settle new lands. Protect and honor the land and sea, just as your Toas protect your people. The Maori will guard the world’s natural beauty for all the ages after.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_SULEIMAN">
+			<Text>All praise to you, Suleiman the lawgiver, rightly called Magnificent! Master of the sublime house of Osman, your loyal servants stand ready to carry your commands to the farthest corner of your mighty land, while your foes tremble at the sight of your armies. Sultan of Sultans and Khan of Khans, lead your people to greatness.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_DIDO">
+			<Text>Queen Dido, mother of Carthage, all your life you faced great threats and overcame them through wit and cunning. Wherever waves break on the shore, there your cities shall rise.  The seas are your roads, the far horizon is your destiny and your refuge.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_KRISTINA">
+			<Text>Minerva of the North, unmatched in learning and wisdom, you chose a life of culture over that of power. Light up your kingdom with art and music. Let Sweden be the guiding star for other civilizations to follow. Once more the world has a need for great patrons of the arts and culture—and it looks to you.</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

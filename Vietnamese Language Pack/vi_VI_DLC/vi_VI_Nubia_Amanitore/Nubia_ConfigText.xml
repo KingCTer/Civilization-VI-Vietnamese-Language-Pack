@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<BaseGameText>
+		<!-- Civ Info-->
+		<Row Tag="LOC_CIVILIZATION_NUBIA_NAME">
+			<Text>Nubia</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_TA_SETI_NAME">
+			<Text>Ta-Seti</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_TA_SETI_DESCRIPTION">
+			<Text>+50% [ICON_Production] Production toward Ranged units. All Ranged units gain +50% combat experience. Mines over strategic resources provide +1 [ICON_Production] Production. Mines over bonus and luxury resources provide +2 [ICON_Gold] Gold.</Text>
+		</Row>
+		<!-- Improvement Info-->
+		<Row Tag="LOC_IMPROVEMENT_PYRAMID_NAME">
+			<Text>Nubian Pyramid</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_PYRAMID_DESCRIPTION">
+			<Text>Improvement that unlocks with Masonry and must be built on Desert, Desert Hills or Floodplains. +1 [ICON_Faith] Faith. Receives additional yields from adjacent districts. +1 [ICON_Food] Food if adjacent to a city center. For all other districts that award adjacency bonuses: +1 of the appropriate yield if that district is adjacent.</Text>
+		</Row>
+		<!-- Leader Info-->
+		<Row Tag="LOC_LEADER_AMANITORE_NAME">
+			<Text>Amanitore</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_KANDAKE_OF_MEROE_NAME">
+			<Text>Kandake of Meroë</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_KANDAKE_OF_MEROE_DESCRIPTION">
+			<Text>+20% [ICON_Production] Production towards all districts rising to +40% if there is a Nubian Pyramid adjacent to the City Center.</Text>
+		</Row>
+		<!-- Unit Info-->
+		<Row Tag="LOC_UNIT_NUBIAN_PITATI_NAME">
+			<Text>Pítati Archer</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_NUBIAN_PITATI_DESCRIPTION">
+			<Text>Nubian unique Ancient era unit that replaces the Archer. Stronger than the Archer with extra [ICON_Movement] Movement. Upgrades to Crossbowman.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_NUBIA_RANGED_EXPERIENCE_MODIFIER_DESCRIPTION">
+			<Text>+50% Earned experience from combat. (Ta-Seti)</Text>
+		</Row>
+	</BaseGameText>
+</GameData>

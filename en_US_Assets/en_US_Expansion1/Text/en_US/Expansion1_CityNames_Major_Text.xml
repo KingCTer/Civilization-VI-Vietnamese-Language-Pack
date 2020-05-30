@@ -1,0 +1,766 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<!-- Cree Cities -->
+		<Row Tag="LOC_CITY_NAME_MIKISIW_WACIHK">
+			<Text>Mikisiw-Wacîhk</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_AHTAHKAKOOP">
+			<Text>Ahtahkakoop</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_PIHTOKAHANAPIWIYIN">
+			<Text>Pihtokahanapiwiyin</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MISTAHI_SIPIHK">
+			<Text>Mistahi-Sipihk</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MISTAWASIS">
+			<Text>Mistawasis</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_WIHKASKO_KISEYIN">
+			<Text>Wihkasko-Kiseyin</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MAKWA_SAKAHIKAN">
+			<Text>Makwa-Sakahikan</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MASKOTEW">
+			<Text>Maskotew</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_PASKWAW_ASKIHK">
+			<Text>Paskwaw-Askihk</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_PIYESIW_AWASIS">
+			<Text>Piyesiw-Awasis</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_PEEPEEKISIS">
+			<Text>Peepeekisis</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KINOSEW_SAKAHIKAN">
+			<Text>Kinosew-Sakahikan</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KA_PEYAKWASKONAM">
+			<Text>Ka-Peyakwaskonam</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MISSANABIE">
+			<Text>Missanabie</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MOOSOMIN">
+			<Text>Moosomin</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KAWACATOOSE">
+			<Text>Kawacatoose</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_WHAPMAGOOSTUI">
+			<Text>Whapmagoostui</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_OKANESE">
+			<Text>Okanese</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CHEMAWAWIN">
+			<Text>Chemawawin</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KA_KIWISTAHAW">
+			<Text>Ka-kiwistahaw</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_NEKANEET">
+			<Text>Nekaneet</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KAWAWACHIKAMACH">
+			<Text>Kawawachikamach</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_NATASHQUAN">
+			<Text>Natashquan</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_WAPI_MASKWA">
+			<Text>Wapi-maskwa</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_WASKAHIKANIHK">
+			<Text>Waskahikanihk</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_PAPEWE">
+			<Text>Papewe</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KA_OHPAWAKASTAHK">
+			<Text>Ka-ohpawakastahk</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_OCHAPOWACE">
+			<Text>Ochapowace</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TATASKWEYAK">
+			<Text>Tataskweyak</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_POSAKANACIHK">
+			<Text>Posakanacihk</Text>
+		</Row>
+		<!-- Georgian Cities -->
+		<Row Tag="LOC_CITY_NAME_TBILISI">
+			<Text>Tbilisi</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KUTAISI">
+			<Text>Kutaisi</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BATUMI">
+			<Text>Batumi</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_RUSTAVI">
+			<Text>Rustavi</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TSKHUMI">
+			<Text>Tskhumi</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GORI">
+			<Text>Gori</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TELAVI">
+			<Text>Telavi</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_POTI">
+			<Text>Poti</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MTSKHETA">
+			<Text>Mtskheta</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ZUGDIDI">
+			<Text>Zugdidi</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_AKHALKALAKI">
+			<Text>Akhalkalaki</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KASPI">
+			<Text>Kaspi</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TSKHINVALI">
+			<Text>Tskhinvali</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_OMALO">
+			<Text>Omalo</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TSAGERI">
+			<Text>Tsageri</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ZESTAFONI">
+			<Text>Zestafoni</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BICHVINTA">
+			<Text>Bichvinta</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BORJOMI">
+			<Text>Borjomi</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TSALKA">
+			<Text>Tsalka</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ONI">
+			<Text>Oni</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TIANETI">
+			<Text>Tianeti</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TMOGVI">
+			<Text>Tmogvi</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_AKHALTSIKHE">
+			<Text>Akhaltsikhe</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEGUTI">
+			<Text>Geguti</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_NICOPSIA">
+			<Text>Nicopsia</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DMANISI">
+			<Text>Dmanisi</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_URBNISI">
+			<Text>Urbnisi</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MUTSO">
+			<Text>Mutso</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_AKHALI_ATONI">
+			<Text>Akhali Atoni</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DEDOPLISTSQARO">
+			<Text>Dedoplistsqaro</Text>
+		</Row>
+		<!-- Korean Cities -->
+		<Row Tag="LOC_CITY_NAME_GYEONGJU">
+			<Text>Gyeongju</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GWANGJU">
+			<Text>Gwangju</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JEONJU">
+			<Text>Jeonju</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JINJU">
+			<Text>Jinju</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CHUNCHEON">
+			<Text>Chuncheon</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_YANGSAN">
+			<Text>Yangsan</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GANGNEUNG">
+			<Text>Gangneung</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GONGJU">
+			<Text>Gongju</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SANGJU">
+			<Text>Sangju</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DAEGU">
+			<Text>Daegu</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BUSAN">
+			<Text>Busan</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_PYONGYANG">
+			<Text>Pyongyang</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DAEJEON">
+			<Text>Daejeon</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SUWON">
+			<Text>Suwon</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CHANGWON">
+			<Text>Changwon</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CHEONGJU">
+			<Text>Cheongju</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GIMHAE">
+			<Text>Gimhae</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GUMI">
+			<Text>Gumi</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_IKSAN">
+			<Text>Iksan</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KAESONG">
+			<Text>Kaesong</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JEJU">
+			<Text>Jeju</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GUNPO">
+			<Text>Gunpo</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_YEOSU">
+			<Text>Yeosu</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SUNCHEON">
+			<Text>Suncheon</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MOKPO">
+			<Text>Mokpo</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GEOJE">
+			<Text>Geoje</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JEONGEUP">
+			<Text>Jeongeup</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_INCHEON">
+			<Text>Incheon</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HAMHUNG">
+			<Text>Hamhung</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GYEONGGI_GWANGJU">
+			<Text>Gyeonggi Gwangju</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_POHANG">
+			<Text>Pohang</Text>
+		</Row>
+		<!-- Mapuche Cities -->
+		<Row Tag="LOC_CITY_NAME_NGULU_MAPU">
+			<Text>Ngulu Mapu</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_PUEL_MAPU">
+			<Text>Puel Mapu</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_PIKUN_MAPU">
+			<Text>Pikun Mapu</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_NAG_MAPU">
+			<Text>Nag Mapu</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_WILLI_MAPU">
+			<Text>Willi Mapu</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_PEWEN_MAPU">
+			<Text>Pewen Mapu</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_WENTE_MAPU">
+			<Text>Wente Mapu</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HUILLI_MAPU">
+			<Text>Huilli Mapu</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_LAFKEN_MAPU">
+			<Text>Lafken Mapu</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_INA_PIRE_MAPU">
+			<Text>Ina Pire Mapu</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MAMULL_MAPU">
+			<Text>Mamüll Mapu</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_RANGKUL_MAPU">
+			<Text>Rangkül Mapu</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CHADI_MAPU">
+			<Text>Chadi Mapu</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_PEHUEN_MAPU">
+			<Text>Pehuen Mapu</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_PUEL_WILLI_MAPU">
+			<Text>Puel Willi Mapu</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BAFKEH_MAPU">
+			<Text>Bafkeh Mapu</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_PENI_MAPU">
+			<Text>Peñi Mapu</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BOROA_MAPU">
+			<Text>Boroa Mapu</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_LELFUN_MAPU">
+			<Text>Lelfün Mapu</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KALLFU_MAPU">
+			<Text>Kallfü Mapu</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CHOL_CHOL_MAPU">
+			<Text>Chol Chol Mapu</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MAKEWE_MAPU">
+			<Text>Makewe Mapu</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FOROWE_MAPU">
+			<Text>Forowe Mapu</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_WARRIA_MAPU">
+			<Text>Warria Mapu</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TEHUEL_MAPU">
+			<Text>Tehuel Mapu</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KUNKO_MAPU">
+			<Text>Kunko Mapu</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MOLU_MAPU">
+			<Text>Molu Mapu</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_RANI_MAPU">
+			<Text>Rañi Mapu</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_XUF_XUF_MAPU">
+			<Text>Xuf Xuf Mapu</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FUDI_MAPU">
+			<Text>Fudi Mapu</Text>
+		</Row>
+		<!-- Mongolian Cities -->
+		<Row Tag="LOC_CITY_NAME_QARAQORUM">
+			<Text>Qaraqorum</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ULAANBAATAR">
+			<Text>Ulaanbaatar</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_URUMQI">
+			<Text>Ürümqi</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KOOKEQOTA">
+			<Text>Kökeqota</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_AKSU">
+			<Text>Aksu</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ALMALIQ">
+			<Text>Almaliq</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_QARAQOTO">
+			<Text>Qaraqoto</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CHOIR">
+			<Text>Choir</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_QARABALGHASUN">
+			<Text>Qarabalghasun</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_QESHQER">
+			<Text>Qeshqer</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HAMI">
+			<Text>Hami</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KORLA">
+			<Text>Korla</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_IRYAI">
+			<Text>Iryai</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TUNGLIYOU">
+			<Text>Tüngliyou</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KOBDO">
+			<Text>Kobdo</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ULIYASUTAI">
+			<Text>Uliyasutai</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BUGUTU">
+			<Text>Bugutu</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ULAANGOM">
+			<Text>Ulaangom</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_YINGCHANG">
+			<Text>Yingchang</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_XILINHOT">
+			<Text>Xilinhot</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_YINING">
+			<Text>Yining</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BAYANNAGUR">
+			<Text>Bayannagur</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DATONG">
+			<Text>Datong</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ORDOS">
+			<Text>Ordos</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_LANZHOU">
+			<Text>Lanzhou</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TSETSERLEG">
+			<Text>Tsetserleg</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BESHBALIK">
+			<Text>Beshbalik</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_QOCO">
+			<Text>Qočo</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_XANADU">
+			<Text>Xanadu</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MORON">
+			<Text>Mörön</Text>
+		</Row>
+		<!-- Dutch Cities -->
+		<Row Tag="LOC_CITY_NAME_ROTTERDAM">
+			<Text>Rotterdam</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_THE_HAGUE">
+			<Text>The Hague</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_UTRECHT">
+			<Text>Utrecht</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HAARLEM">
+			<Text>Haarlem</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GRONINGEN">
+			<Text>Groningen</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_EINDHOVEN">
+			<Text>Eindhoven</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_NIJMEGEN">
+			<Text>Nijmegen</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TILBURG">
+			<Text>Tilburg</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ARNHEM">
+			<Text>Arnhem</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MAASTRICHT">
+			<Text>Maastricht</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_LEIDEN">
+			<Text>Leiden</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BATAVIA">
+			<Text>Batavia</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_APELDOORN">
+			<Text>Apeldoorn</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ENSCHEDE">
+			<Text>Enschede</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DORDRECHT">
+			<Text>Dordrecht</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DELFT">
+			<Text>Delft</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_LEEUWARDEN">
+			<Text>Leeuwarden</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BREDA">
+			<Text>Breda</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_S_HERTOGENBOSCH">
+			<Text>'s-Hertogenbosch</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ORANJESTAD">
+			<Text>Oranjestad</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HEERLEN">
+			<Text>Heerlen</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ALMERE">
+			<Text>Almere</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ZWOLLE">
+			<Text>Zwolle</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FORT_ZEELANDIA">
+			<Text>Fort Zeelandia</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_AMERSFOORT">
+			<Text>Amersfoort</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_WILLEMSTAD">
+			<Text>Willemstad</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MIDDELBURG">
+			<Text>Middelburg</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BRIELLE">
+			<Text>Brielle</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KRALENDIJK">
+			<Text>Kralendijk</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ASSEN">
+			<Text>Assen</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FLUSHING">
+			<Text>Flushing</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ZUTPHEN">
+			<Text>Zutphen</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ALKMAAR">
+			<Text>Alkmaar</Text>
+		</Row>
+		<!-- Scottish Cities -->
+		<Row Tag="LOC_CITY_NAME_STIRLING">
+			<Text>Stirling</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_EDINBURGH">
+			<Text>Edinburgh</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ABERDEEN">
+			<Text>Aberdeen</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ROXBURGH">
+			<Text>Roxburgh</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HADDINGTON">
+			<Text>Haddington</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DUMFRIES">
+			<Text>Dumfries</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DUNDEE">
+			<Text>Dundee</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_AYR">
+			<Text>Ayr</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CULLEN">
+			<Text>Cullen</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DUMBARTON">
+			<Text>Dumbarton</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SCONE">
+			<Text>Scone</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FORRES">
+			<Text>Forres</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MONTROSE">
+			<Text>Montrose</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_WIGTOWN">
+			<Text>Wigtown</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_PEAIRT">
+			<Text>Peairt</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SELKIRK">
+			<Text>Selkirk</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_PEEBLES">
+			<Text>Peebles</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FORFAR">
+			<Text>Forfar</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BERWICK_UPON_TWEED">
+			<Text>Berwick-upon-Tweed</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GALASHIELS">
+			<Text>Galashiels</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ELGIN">
+			<Text>Elgin</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GLASGOW">
+			<Text>Glasgow</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SAINT_ANDREWS">
+			<Text>Saint Andrews</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_INVERNESS">
+			<Text>Inverness</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CUMBERNAULD">
+			<Text>Cumbernauld</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DUNFERMLINE">
+			<Text>Dunfermline</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_LINLITHGOW">
+			<Text>Linlithgow</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_PRESTWICK">
+			<Text>Prestwick</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CUPAR">
+			<Text>Cupar</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_CLACKMANNAN">
+			<Text>Clackmannan</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_JEDBURGH">
+			<Text>Jedburgh</Text>
+		</Row>
+		<!-- Zulu Cities -->
+		<Row Tag="LOC_CITY_NAME_ULUNDI">
+			<Text>Ulundi</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_UMGUNGUNDLOVU">
+			<Text>Umgungundlovu</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_NOBAMBA">
+			<Text>Nobamba</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BULAWAYO">
+			<Text>Bulawayo</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KWADUKUZA">
+			<Text>Kwadukuza</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_NONGOMA">
+			<Text>Nongoma</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ONDINI">
+			<Text>Ondini</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_NODWENGU">
+			<Text>Nodwengu</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_NDONDAKUSUKA">
+			<Text>Ndondakusuka</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BABANANGO">
+			<Text>Babanango</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KHANGELA">
+			<Text>Khangela</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KWAHLOMENDLINI">
+			<Text>Kwahlomendlini</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HLOBANE">
+			<Text>Hlobane</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ETHEKWINI">
+			<Text>Ethekwini</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MLAMBONGWENYA">
+			<Text>Mlambongwenya</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_EZIQWAQWENI">
+			<Text>Eziqwaqweni</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_EMANGWENI">
+			<Text>Emangweni</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ISIPHEZI">
+			<Text>Isiphezi</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MASOTSHENI">
+			<Text>Masotsheni</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MTUNZINI">
+			<Text>Mtunzini</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_NYAKAMUBI">
+			<Text>Nyakamubi</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DUMAZULU">
+			<Text>Dumazulu</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HLATIKULU">
+			<Text>Hlatikulu</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MTHONJANENI">
+			<Text>Mthonjaneni</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_EMPANGENI">
+			<Text>Empangeni</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_PONGOLA">
+			<Text>Pongola</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TUNGELA">
+			<Text>Tungela</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_KWAMASHU">
+			<Text>Kwamashu</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_INGWAVUMA">
+			<Text>Ingwavuma</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HLUHLUWE">
+			<Text>Hluhluwe</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MTUBATUBA">
+			<Text>Mtubatuba</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MHLAHLANDLELA">
+			<Text>Mhlahlandlela</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MTHATHA">
+			<Text>Mthatha</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MASERU">
+			<Text>Maseru</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_LOBAMBA">
+			<Text>Lobamba</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_QUNU">
+			<Text>Qunu</Text>
+		</Row>
+	</EnglishText>
+</GameData>

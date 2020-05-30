@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Mod id="9DE86512-DE1A-400D-8C0A-AB46EBBF76B9" version="1">
+	<Properties>
+		<Name>LOC_GRANCOLOMBIA_MAYA_MOD_TITLE</Name>
+		<Teaser>LOC_GRANCOLOMBIA_MAYA_MOD_TEASER</Teaser>
+		<Description>LOC_GRANCOLOMBIA_MAYA_MOD_DESCRIPTION</Description>
+		<Authors>LOC_MOD_AUTHORS_FIRAXIS</Authors>
+		<EnabledByDefault>1</EnabledByDefault>
+		<CompatibleVersions>2.0</CompatibleVersions>
+	</Properties>
+	<References>
+		<Mod id="4873eb62-8ccc-4574-b784-dda455e74e68" title="LOC_EXPANSION2_MOD_TITLE"/>
+	</References>
+	<ActionCriteria>
+		<Criteria id="GranColombiaMaya" any="1">
+			<LeaderPlayable>Players:StandardPlayers::LEADER_SIMON_BOLIVAR,Players:StandardPlayers::LEADER_LADY_SIX_SKY,StandardPlayers::LEADER_SIMON_BOLIVAR,StandardPlayers::LEADER_LADY_SIX_SKY,Players:Expansion1_Players::LEADER_SIMON_BOLIVAR,Players:Expansion2_Players::LEADER_LADY_SIX_SKY,Players:Expansion2_Players::LEADER_SIMON_BOLIVAR,Players:Expansion2_Players::LEADER_LADY_SIX_SKY</LeaderPlayable>
+			<RuleSetInUse>RULESET_STANDARD,RULESET_EXPANSION_1,RULESET_EXPANSION_2</RuleSetInUse>
+		</Criteria>
+		<Criteria id="GranColombiaMaya_Base" any="1">
+			<LeaderPlayable>Players:StandardPlayers::LEADER_SIMON_BOLIVAR,Players:StandardPlayers::LEADER_LADY_SIX_SKY</LeaderPlayable>
+			<RuleSetInUse>RULESET_STANDARD</RuleSetInUse>
+		</Criteria>
+		<Criteria id="GranColombiaMaya_Expansion1" any="1">
+			<LeaderPlayable>Players:Expansion1_Players::LEADER_SIMON_BOLIVAR,Players:Expansion1_Players::LEADER_LADY_SIX_SKY</LeaderPlayable>
+			<RuleSetInUse>RULESET_EXPANSION_1</RuleSetInUse>
+		</Criteria>
+		<Criteria id="GranColombiaMaya_Expansion2" any="1">
+			<LeaderPlayable>Players:Expansion2_Players::LEADER_SIMON_BOLIVAR,Players:Expansion2_Players::LEADER_LADY_SIX_SKY</LeaderPlayable>
+			<RuleSetInUse>RULESET_EXPANSION_2</RuleSetInUse>
+		</Criteria>
+		<Criteria id="GranColombiaMaya_Mode_Expansion2">
+			<RuleSetInUse>RULESET_EXPANSION_2</RuleSetInUse>
+			<ConfigurationValueMatches>
+				<Group>Game</Group>
+				<ConfigurationId>GAMEMODE_APOCALYPSE</ConfigurationId>
+				<Value>1</Value>
+			</ConfigurationValueMatches>
+		</Criteria>
+	</ActionCriteria>
+	<InGameActions>
+		<UpdateArt id="GranColombiaMayaArt" criteria="GranColombiaMaya">
+			<File>GranColombia_Maya.dep</File>
+		</UpdateArt>
+		<UpdateDatabase id="GranColombiaMayaGameplay" criteria="GranColombiaMaya">
+			<File>Data/GranColombia_Maya_Buildings.xml</File>
+			<File>Data/GranColombia_Maya_Civilizations.xml</File>
+			<File>Data/GranColombia_Maya_Districts.xml</File>
+			<File>Data/GranColombia_Maya_Features.xml</File>
+			<File>Data/GranColombia_Maya_GreatPeople.xml</File>
+			<File>Data/GranColombia_Maya_Improvements.xml</File>
+			<File>Data/GranColombia_Maya_Leaders.xml</File>
+			<File>Data/GranColombia_Maya_Modifiers.xml</File>
+			<File>Data/GranColombia_Maya_Notifications.xml</File>
+			<File>Data/GranColombia_Maya_Resources.xml</File>
+			<File>Data/GranColombia_Maya_Units.xml</File>
+			<File>Data/GranColombia_Maya_UnitPromotions.xml</File>
+		</UpdateDatabase>
+		<UpdateLogitechARX id="GranColombiaMayaARX" criteria="GranColombiaMaya">
+			<File>Data/ARX/Civ_LEADER_SIMON_BOLIVAR.png</File>
+			<File>Data/ARX/Civ_LEADER_LADY_SIX_SKY.png</File>
+		</UpdateLogitechARX>
+		<UpdateColors id="GranColombiaMayaColors" criteria="GranColombiaMaya">
+			<File>Data/GranColombia_Maya_Colors.xml</File>
+		</UpdateColors>
+		<UpdateDatabase id="GranColombiaMayaGameplay_XP1" criteria="GranColombiaMaya_Expansion1">
+			<File>Data/GranColombia_Maya_Expansion1.xml</File>
+		</UpdateDatabase>
+		<UpdateDatabase id="GranColombiaMayaGameplay_XP2" criteria="GranColombiaMaya_Expansion2">
+			<File>Data/GranColombia_Maya_Expansion2.xml</File>
+			<File>Data/GranColombia_Maya_GoodyHuts.xml</File>
+			<File>Data/GranColombia_Maya_GameCapabilities.xml</File>
+			<File>Data/GranColombia_Maya_Civilopedia.xml</File>
+		</UpdateDatabase>
+		<UpdateText id="GranColombiaMayaText" criteria="GranColombiaMaya">
+			<File Priority="1">Text/en_US/GranColombia_Maya_PackageText.xml</File>
+			<File Priority="1">Text/en_US/GranColombia_Maya_InGameText_MODE.xml</File>
+			<File Priority="1">Text/en_US/GranColombia_Maya_Civilopedia_Text_MODE.xml</File>
+			<File Priority="1">Text/en_US/GranColombia_Maya_Civilopedia_Text.xml</File>
+			<File Priority="1">Text/en_US/GranColombia_Maya_CitizenNames_Text.xml</File>
+			<File Priority="1">Text/en_US/GranColombia_Maya_CityNames_Text.xml</File>
+			<File Priority="1">Text/en_US/GranColombia_Maya_ConfigText.xml</File>
+			<File Priority="1">Text/en_US/GranColombia_Maya_Diplomacy_Text.xml</File>
+			<File Priority="1">Text/en_US/GranColombia_Maya_FeaturesResourcesTerrains_Text.xml</File>
+			<File Priority="1">Text/en_US/GranColombia_Maya_Improvements_Text.xml</File>
+			<File Priority="1">Text/en_US/GranColombia_Maya_Leaders_Text.xml</File>
+			<File Priority="1">Text/en_US/GranColombia_Maya_NamedPlaces_Text.xml</File>
+			<File Priority="1">Text/en_US/GranColombia_Maya_Units_Text.xml</File>
+			<File Priority="1">Text/en_US/GranColombia_Maya_RandomEvents_Text.xml</File>
+			<File Priority="1">Text/en_US/GranColombia_Maya_Notifications_Text.xml</File>
+      <File Priority="1">Text/en_US/GranColombia_Maya_AdvisorText_MODE.xml</File>
+			<File>Text/GranColombia_Maya_Translations_PackageText.xml</File>
+			<File>Text/GranColombia_Maya_Translations_ConfigText.xml</File>
+			<File>Text/GranColombia_Maya_Translations_Text.xml</File>
+		</UpdateText>
+		<UpdateAudio id="GranColumbiaMayaAudio" criteria="GranColombiaMaya">
+			<File>Platforms/Windows/Audio/XP3_DLC1Banks.ini</File>
+			<File>Platforms/Windows/Audio/XP3_DLC1_Ambiences.bnk</File>
+			<File>Platforms/Windows/Audio/XP3_DLC1_Ambiences.txt</File>
+			<File>Platforms/Windows/Audio/XP3_DLC1_Ambiences.xml</File>
+			<File>Platforms/Windows/Audio/XP3_DLC1_Music_Bank.bnk</File>
+			<File>Platforms/Windows/Audio/XP3_DLC1_Music_Bank.txt</File>
+			<File>Platforms/Windows/Audio/XP3_DLC1_Music_Bank.xml</File>
+			<File>Platforms/Windows/Audio/XP3_DLC1_Resources_Features_2D.bnk</File>
+			<File>Platforms/Windows/Audio/XP3_DLC1_Resources_Features_2D.txt</File>
+			<File>Platforms/Windows/Audio/XP3_DLC1_Resources_Features_2D.xml</File>
+			<File>Platforms/Windows/Audio/XP3_DLC1_Resources_Features_3D.bnk</File>
+			<File>Platforms/Windows/Audio/XP3_DLC1_Resources_Features_3D.txt</File>
+			<File>Platforms/Windows/Audio/XP3_DLC1_Resources_Features_3D.xml</File>
+			<File>Platforms/Windows/Audio/XP3_DLC1_Unit_Bank_3D.bnk</File>
+			<File>Platforms/Windows/Audio/XP3_DLC1_Unit_Bank_3D.txt</File>
+			<File>Platforms/Windows/Audio/XP3_DLC1_Unit_Bank_3D.xml</File>
+			<File>Platforms/Windows/Audio/XP_Common_Ambiences.bnk</File>
+			<File>Platforms/Windows/Audio/XP_Common_Ambiences.txt</File>
+			<File>Platforms/Windows/Audio/XP_Common_Ambiences.xml</File>
+			<File>Platforms/Windows/Audio/XP_Common_Music_Bank.bnk</File>
+			<File>Platforms/Windows/Audio/XP_Common_Music_Bank.txt</File>
+			<File>Platforms/Windows/Audio/XP_Common_Music_Bank.xml</File>
+			<File>Platforms/Windows/Audio/XP_Common_Notifications.bnk</File>
+			<File>Platforms/Windows/Audio/XP_Common_Notifications.txt</File>
+			<File>Platforms/Windows/Audio/XP_Common_Notifications.xml</File>
+			<File>Platforms/Windows/Audio/XP_Common_Resources_Features_2D.bnk</File>
+			<File>Platforms/Windows/Audio/XP_Common_Resources_Features_2D.txt</File>
+			<File>Platforms/Windows/Audio/XP_Common_Resources_Features_2D.xml</File>
+			<File>Platforms/Windows/Audio/XP_Common_Resources_Features_3D.bnk</File>
+			<File>Platforms/Windows/Audio/XP_Common_Resources_Features_3D.txt</File>
+			<File>Platforms/Windows/Audio/XP_Common_Resources_Features_3D.xml</File>
+			<File>Platforms/Windows/Audio/XP_Common_Speech.bnk</File>
+			<File>Platforms/Windows/Audio/XP_Common_Speech.txt</File>
+			<File>Platforms/Windows/Audio/XP_Common_Speech.xml</File>
+			<File>Platforms/Windows/Audio/XP_Common_UI_Bank.bnk</File>
+			<File>Platforms/Windows/Audio/XP_Common_UI_Bank.txt</File>
+			<File>Platforms/Windows/Audio/XP_Common_UI_Bank.xml</File>
+			<File>Platforms/Windows/Audio/XP_Common_Unit_Bank_2D.bnk</File>
+			<File>Platforms/Windows/Audio/XP_Common_Unit_Bank_2D.txt</File>
+			<File>Platforms/Windows/Audio/XP_Common_Unit_Bank_2D.xml</File>
+			<File>Platforms/Windows/Audio/XP_Common_Unit_Bank_3D.bnk</File>
+			<File>Platforms/Windows/Audio/XP_Common_Unit_Bank_3D.txt</File>
+			<File>Platforms/Windows/Audio/XP_Common_Unit_Bank_3D.xml</File>
+			<File>Platforms/Windows/Audio/XP_Common_Unit_Bank_Common.bnk</File>
+			<File>Platforms/Windows/Audio/XP_Common_Unit_Bank_Common.txt</File>
+			<File>Platforms/Windows/Audio/XP_Common_Unit_Bank_Common.xml</File>
+			<File>Platforms/Windows/Audio/XP_Common_Wonders.bnk</File>
+			<File>Platforms/Windows/Audio/XP_Common_Wonders.txt</File>
+			<File>Platforms/Windows/Audio/XP_Common_Wonders.xml</File>
+		</UpdateAudio>
+		<UpdateIcons id="GranColombiaMayaIcons" criteria="GranColombiaMaya">
+			<File>Data/GranColombia_Maya_Icons_Civilizations.xml</File>
+			<File>Data/GranColombia_Maya_Icons_Districts.xml</File>
+      <File>Data/GranColombia_Maya_Icons_Emergencies.xml</File>
+			<File>Data/GranColombia_Maya_Icons_Features.xml</File>
+			<File>Data/GranColombia_Maya_Icons_FontIcons.xml</File>
+			<File>Data/GranColombia_Maya_Icons_GameModes.xml</File>
+			<File>Data/GranColombia_Maya_Icons_Leaders.xml</File>
+			<File>Data/GranColombia_Maya_Icons_Notifications.xml</File>
+			<File>Data/GranColombia_Maya_Icons_Resources.xml</File>
+			<File>Data/GranColombia_Maya_Icons_UnitActions.xml</File>
+			<File>Data/GranColombia_Maya_Icons_UnitPortraits.xml</File>
+			<File>Data/GranColombia_Maya_Icons_Units.xml</File>
+			<File>Data/GranColombia_Maya_Icons_WorldBuilder_Features.xml</File>
+		</UpdateIcons>
+		<UpdateDatabase id="GranColombiaMayaGameplay_MODE" criteria="GranColombiaMaya_Mode_Expansion2">
+			<File>Data/GranColombia_Maya_AI_MODE.xml</File>
+			<File>Data/GranColombia_Maya_Emergencies_MODE.xml</File>
+			<File>Data/GranColombia_Maya_RandomEvents_MODE.xml</File>
+			<File>Data/GranColombia_Maya_UnitOperations_MODE.xml</File>
+			<File>Data/GranColombia_Maya_UnitPromotions_MODE.xml</File>
+			<File>Data/GranColombia_Maya_Units_MODE.xml</File>
+			<File>Data/GranColombia_Maya_Features_MODE.xml</File>
+			<File>Data/GranColombia_Maya_Civilopedia_MODE.xml</File>
+		</UpdateDatabase>
+		<UpdateText id="GranColombiaMayaText_MODE" criteria="GranColombiaMaya_Mode_Expansion2">
+			<File Priority="1">Text/en_US/GranColombia_Maya_Units_Text_MODE.xml</File>
+		</UpdateText>
+		<ReplaceUIScript id="GranColombiaMaya_ClimateScreen" criteria="GranColombiaMaya_Expansion2">
+			<Properties>
+				<LuaContext>ClimateScreen</LuaContext>
+				<LuaReplace>UI/Replacements/ClimateScreen_GranColombia_Maya.lua</LuaReplace>
+			</Properties>
+		</ReplaceUIScript>
+		<ReplaceUIScript id="GranColombiaMaya_Mode_EraCompletePopup" criteria="GranColombiaMaya_Mode_Expansion2">
+			<Properties>
+				<LuaContext>EraCompletePopup</LuaContext>
+				<LuaReplace>UI/Replacements/EraCompletePopup_GranColombia_Maya.lua</LuaReplace>
+			</Properties>
+		</ReplaceUIScript>
+		<ImportFiles id="GranColombiaMaya_XP2Files" criteria="GranColombiaMaya_Expansion2">
+			<File>UI/Replacements/ClimateScreen_GranColombia_Maya.lua</File>
+			<File>UI/Replacements/ClimateScreen.xml</File>
+      <File>UI/Loaders/TutorialLoader_GranColombia_Maya.lua</File>
+		</ImportFiles>
+		<ImportFiles id="GranColombiaMaya_ModeFiles" criteria="GranColombiaMaya_Mode_Expansion2">
+			<File>UI/Replacements/EndGameMenu_GranColombia_Maya.lua</File>
+			<File>Platforms/Windows/Movies/GranColombia_Maya_DefeatClimate.bk2</File>
+		</ImportFiles>
+	</InGameActions>
+	<FrontEndActions>
+		<UpdateArt id="GranColombiaMayaSettingsArt">
+			<File>GranColombia_Maya.dep</File>
+		</UpdateArt>
+		<UpdateColors id="GranColombiaMayaColors">
+			<File>Data/GranColombia_Maya_Colors.xml</File>
+		</UpdateColors>
+		<UpdateDatabase id="GranColombiaMayaSettings">
+			<File>Data/GranColombia_Maya_ConfigData.xml</File>
+		</UpdateDatabase>
+		<UpdateIcons id="GranColombiaMayaSettingsIcons">
+			<File>Data/GranColombia_Maya_Icons_Civilizations.xml</File>
+			<File>Data/GranColombia_Maya_Icons_Districts.xml</File>
+      <File>Data/GranColombia_Maya_Icons_Emergencies.xml</File>
+			<File>Data/GranColombia_Maya_Icons_Features.xml</File>
+			<File>Data/GranColombia_Maya_Icons_GameModes.xml</File>
+			<File>Data/GranColombia_Maya_Icons_Leaders.xml</File>
+			<File>Data/GranColombia_Maya_Icons_Notifications.xml</File>
+			<File>Data/GranColombia_Maya_Icons_Resources.xml</File>
+			<File>Data/GranColombia_Maya_Icons_UnitActions.xml</File>
+			<File>Data/GranColombia_Maya_Icons_UnitPortraits.xml</File>
+			<File>Data/GranColombia_Maya_Icons_Units.xml</File>
+			<File>Data/GranColombia_Maya_Icons_WorldBuilder_Features.xml</File>
+		</UpdateIcons>
+		<UpdateText id="GranColombiaSettingsText">
+			<File Priority="1">Text/en_US/GranColombia_Maya_PackageText.xml</File>
+			<File Priority="1">Text/en_US/GranColombia_Maya_ConfigText.xml</File>
+			<File>Text/GranColombia_Maya_Translations_PackageText.xml</File>
+			<File>Text/GranColombia_Maya_Translations_ConfigText.xml</File>
+		</UpdateText>
+	</FrontEndActions>
+	<LocalizedText>
+		<File>Text/en_US/GranColombia_Maya_PackageText.xml</File>
+		<File>Text/GranColombia_Maya_Translations_PackageText.xml</File>
+	</LocalizedText>
+	<Files>
+		<File>GranColombia_Maya.dep</File>
+		<File>Data/GranColombia_Maya_AI_MODE.xml</File>
+		<File>Data/GranColombia_Maya_Buildings.xml</File>
+		<File>Data/GranColombia_Maya_Civilizations.xml</File>
+		<File>Data/GranColombia_Maya_Civilopedia.xml</File>
+		<File>Data/GranColombia_Maya_Civilopedia_MODE.xml</File>
+		<File>Data/GranColombia_Maya_Colors.xml</File>
+		<File>Data/GranColombia_Maya_ConfigData.xml</File>
+		<File>Data/GranColombia_Maya_Districts.xml</File>
+		<File>Data/GranColombia_Maya_Emergencies_MODE.xml</File>
+		<File>Data/GranColombia_Maya_Expansion1.xml</File>
+		<File>Data/GranColombia_Maya_Expansion2.xml</File>
+		<File>Data/GranColombia_Maya_Features.xml</File>
+		<File>Data/GranColombia_Maya_Features_MODE.xml</File>
+		<File>Data/GranColombia_Maya_GameCapabilities.xml</File>
+		<File>Data/GranColombia_Maya_GoodyHuts.xml</File>
+		<File>Data/GranColombia_Maya_GreatPeople.xml</File>
+		<File>Data/GranColombia_Maya_Improvements.xml</File>
+		<File>Data/GranColombia_Maya_Leaders.xml</File>
+		<File>Data/GranColombia_Maya_Modifiers.xml</File>
+		<File>Data/GranColombia_Maya_Notifications.xml</File>
+		<File>Data/GranColombia_Maya_RandomEvents_MODE.xml</File>
+		<File>Data/GranColombia_Maya_Resources.xml</File>
+		<File>Data/GranColombia_Maya_UnitOperations_MODE.xml</File>
+		<File>Data/GranColombia_Maya_UnitPromotions.xml</File>
+		<File>Data/GranColombia_Maya_UnitPromotions_MODE.xml</File>
+		<File>Data/GranColombia_Maya_Units.xml</File>
+		<File>Data/GranColombia_Maya_Units_MODE.xml</File>
+		<File>Data/ARX/Civ_LEADER_SIMON_BOLIVAR.png</File>
+		<File>Data/ARX/Civ_LEADER_LADY_SIX_SKY.png</File>
+		<File>Text/en_US/GranColombia_Maya_InGameText_MODE.xml</File>
+		<File>Text/en_US/GranColombia_Maya_CitizenNames_Text.xml</File>
+		<File>Text/en_US/GranColombia_Maya_CityNames_Text.xml</File>
+		<File>Text/en_US/GranColombia_Maya_Civilopedia_Text.xml</File>
+		<File>Text/en_US/GranColombia_Maya_Civilopedia_Text_MODE.xml</File>
+		<File>Text/en_US/GranColombia_Maya_ConfigText.xml</File>
+		<File>Text/en_US/GranColombia_Maya_Diplomacy_Text.xml</File>
+		<File>Text/en_US/GranColombia_Maya_FeaturesResourcesTerrains_Text.xml</File>
+		<File>Text/en_US/GranColombia_Maya_Improvements_Text.xml</File>
+		<File>Text/en_US/GranColombia_Maya_Leaders_Text.xml</File>
+		<File>Text/en_US/GranColombia_Maya_NamedPlaces_Text.xml</File>
+		<File>Text/en_US/GranColombia_Maya_Notifications_Text.xml</File>
+		<File>Text/en_US/GranColombia_Maya_PackageText.xml</File>
+		<File>Text/en_US/GranColombia_Maya_RandomEvents_Text.xml</File>
+		<File>Text/en_US/GranColombia_Maya_Units_Text.xml</File>
+		<File>Text/en_US/GranColombia_Maya_Units_Text_MODE.xml</File>
+    <File>Text/en_US/GranColombia_Maya_AdvisorText_MODE.xml</File>
+		<File>Text/GranColombia_Maya_Translations_ConfigText.xml</File>
+		<File>Text/GranColombia_Maya_Translations_PackageText.xml</File>
+		<File>Text/GranColombia_Maya_Translations_Text.xml</File>
+
+		<!--Icons-->
+		<File>Data/GranColombia_Maya_Icons_Civilizations.xml</File>
+		<File>Data/GranColombia_Maya_Icons_Districts.xml</File>
+    <File>Data/GranColombia_Maya_Icons_Emergencies.xml</File>
+		<File>Data/GranColombia_Maya_Icons_Features.xml</File>
+		<File>Data/GranColombia_Maya_Icons_FontIcons.xml</File>
+		<File>Data/GranColombia_Maya_Icons_GameModes.xml</File>
+		<File>Data/GranColombia_Maya_Icons_Leaders.xml</File>
+		<File>Data/GranColombia_Maya_Icons_Notifications.xml</File>
+		<File>Data/GranColombia_Maya_Icons_Resources.xml</File>
+		<File>Data/GranColombia_Maya_Icons_UnitActions.xml</File>
+		<File>Data/GranColombia_Maya_Icons_UnitPortraits.xml</File>
+		<File>Data/GranColombia_Maya_Icons_Units.xml</File>
+		<File>Data/GranColombia_Maya_Icons_WorldBuilder_Features.xml</File>
+
+		<!--Replacements-->
+		<File>UI/Replacements/ClimateScreen_GranColombia_Maya.lua</File>
+		<File>UI/Replacements/ClimateScreen.xml</File>
+		<File>UI/Replacements/EndGameMenu_GranColombia_Maya.lua</File>
+		<File>UI/Replacements/EraCompletePopup_GranColombia_Maya.lua</File>
+    
+    <!--Loaders-->
+    <File>UI/Loaders/TutorialLoader_GranColombia_Maya.lua</File>
+
+		<File>Platforms/Windows/Audio/XP3_DLC1Banks.ini</File>
+		<File>Platforms/Windows/Audio/XP3_DLC1_Ambiences.bnk</File>
+		<File>Platforms/Windows/Audio/XP3_DLC1_Ambiences.txt</File>
+		<File>Platforms/Windows/Audio/XP3_DLC1_Ambiences.xml</File>
+		<File>Platforms/Windows/Audio/XP3_DLC1_Music_Bank.bnk</File>
+		<File>Platforms/Windows/Audio/XP3_DLC1_Music_Bank.txt</File>
+		<File>Platforms/Windows/Audio/XP3_DLC1_Music_Bank.xml</File>
+		<File>Platforms/Windows/Audio/XP3_DLC1_Resources_Features_2D.bnk</File>
+		<File>Platforms/Windows/Audio/XP3_DLC1_Resources_Features_2D.txt</File>
+		<File>Platforms/Windows/Audio/XP3_DLC1_Resources_Features_2D.xml</File>
+		<File>Platforms/Windows/Audio/XP3_DLC1_Resources_Features_3D.bnk</File>
+		<File>Platforms/Windows/Audio/XP3_DLC1_Resources_Features_3D.txt</File>
+		<File>Platforms/Windows/Audio/XP3_DLC1_Resources_Features_3D.xml</File>
+		<File>Platforms/Windows/Audio/XP3_DLC1_Unit_Bank_3D.bnk</File>
+		<File>Platforms/Windows/Audio/XP3_DLC1_Unit_Bank_3D.txt</File>
+		<File>Platforms/Windows/Audio/XP3_DLC1_Unit_Bank_3D.xml</File>
+		<File>Platforms/Windows/Audio/XP_Common_Ambiences.bnk</File>
+		<File>Platforms/Windows/Audio/XP_Common_Ambiences.txt</File>
+		<File>Platforms/Windows/Audio/XP_Common_Ambiences.xml</File>
+		<File>Platforms/Windows/Audio/XP_Common_Music_Bank.bnk</File>
+		<File>Platforms/Windows/Audio/XP_Common_Music_Bank.txt</File>
+		<File>Platforms/Windows/Audio/XP_Common_Music_Bank.xml</File>
+		<File>Platforms/Windows/Audio/XP_Common_Notifications.bnk</File>
+		<File>Platforms/Windows/Audio/XP_Common_Notifications.txt</File>
+		<File>Platforms/Windows/Audio/XP_Common_Notifications.xml</File>
+		<File>Platforms/Windows/Audio/XP_Common_Resources_Features_2D.bnk</File>
+		<File>Platforms/Windows/Audio/XP_Common_Resources_Features_2D.txt</File>
+		<File>Platforms/Windows/Audio/XP_Common_Resources_Features_2D.xml</File>
+		<File>Platforms/Windows/Audio/XP_Common_Resources_Features_3D.bnk</File>
+		<File>Platforms/Windows/Audio/XP_Common_Resources_Features_3D.txt</File>
+		<File>Platforms/Windows/Audio/XP_Common_Resources_Features_3D.xml</File>
+		<File>Platforms/Windows/Audio/XP_Common_Speech.bnk</File>
+		<File>Platforms/Windows/Audio/XP_Common_Speech.txt</File>
+		<File>Platforms/Windows/Audio/XP_Common_Speech.xml</File>
+		<File>Platforms/Windows/Audio/XP_Common_UI_Bank.bnk</File>
+		<File>Platforms/Windows/Audio/XP_Common_UI_Bank.txt</File>
+		<File>Platforms/Windows/Audio/XP_Common_UI_Bank.xml</File>
+		<File>Platforms/Windows/Audio/XP_Common_Unit_Bank_2D.bnk</File>
+		<File>Platforms/Windows/Audio/XP_Common_Unit_Bank_2D.txt</File>
+		<File>Platforms/Windows/Audio/XP_Common_Unit_Bank_2D.xml</File>
+		<File>Platforms/Windows/Audio/XP_Common_Unit_Bank_3D.bnk</File>
+		<File>Platforms/Windows/Audio/XP_Common_Unit_Bank_3D.txt</File>
+		<File>Platforms/Windows/Audio/XP_Common_Unit_Bank_3D.xml</File>
+		<File>Platforms/Windows/Audio/XP_Common_Unit_Bank_Common.bnk</File>
+		<File>Platforms/Windows/Audio/XP_Common_Unit_Bank_Common.txt</File>
+		<File>Platforms/Windows/Audio/XP_Common_Unit_Bank_Common.xml</File>
+		<File>Platforms/Windows/Audio/XP_Common_Wonders.bnk</File>
+		<File>Platforms/Windows/Audio/XP_Common_Wonders.txt</File>
+		<File>Platforms/Windows/Audio/XP_Common_Wonders.xml</File>
+		<File>Platforms/Windows/Movies/GranColombia_Maya_DefeatClimate.bk2</File>
+	</Files>
+</Mod>

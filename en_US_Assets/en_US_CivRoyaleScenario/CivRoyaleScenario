@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Mod id="F264EE10-F21B-4A9A-BBCD-D534E9843E90" version="1">
+	<Properties>
+		<Name>LOC_CIV_ROYALE_MOD_TITLE</Name>
+		<Teaser>LOC_CIV_ROYALE_MOD_TEASER</Teaser>
+		<Description>LOC_CIV_ROYALE_MOD_DESCRIPTION_TUTORIAL</Description>
+		<Authors>LOC_MOD_AUTHORS_FIRAXIS</Authors>
+		<CompatibleVersions>2.0</CompatibleVersions>
+		<EnabledByDefault>1</EnabledByDefault>
+		<SupportsSinglePlayer>0</SupportsSinglePlayer>
+	</Properties>
+	<ActionCriteria>
+		<Criteria id="CivRoyaleScenario">
+			<RuleSetInUse>RULESET_SCENARIO_CIV_ROYALE</RuleSetInUse>
+		</Criteria>
+	</ActionCriteria>
+	<FrontEndActions>
+		<UpdateArt id="CivRoyaleScenarioArt">
+			<File>CivRoyaleScenario.dep</File>
+		</UpdateArt>
+		<UpdateDatabase id="CivRoyaleScenarioSettings">
+			<File>Data/CivRoyaleScenario_Config.xml</File>
+		</UpdateDatabase>
+		<UpdateColors id="CivRoyaleScenarioPlayerColors">
+			<File>Data/CivRoyaleScenario_PlayerColors.xml</File>
+		</UpdateColors>
+		<UpdateIcons id="CivRoyaleScenarioIcons">
+			<File>Data/CivRoyaleScenario_Icons_Civilizations.xml</File>
+			<File>Data/CivRoyaleScenario_Icons_Leaders.xml</File>
+			<File>Data/CivRoyaleScenario_Icons_UnitPortraits.xml</File>
+		</UpdateIcons>
+		<UpdateText id="CivRoyaleScenarioText">
+			<File Priority="1">Text/en_US/CivRoyaleScenario_ConfigText.xml</File>
+			<File>Text/CivRoyaleScenario_Translations_ConfigText.xml</File>
+			<File>Text/CivRoyaleScenario_Translations_ConfigText_China.xml</File>
+		</UpdateText>
+	</FrontEndActions>
+	<InGameActions>
+		<UpdateArt id="CivRoyaleScenarioArt" criteria="CivRoyaleScenario">
+			<File>CivRoyaleScenario.dep</File>
+		</UpdateArt>
+		<UpdateAudio id="CivRoyaleScenarioAudio" criteria="CivRoyaleScenario">
+			<File>Platforms/Windows/Audio/DLC08Banks.ini</File>
+			<File>Platforms/Windows/Audio/DLC08_Ambiences.bnk</File>
+			<File>Platforms/Windows/Audio/DLC08_Notifications.bnk</File>
+			<File>Platforms/Windows/Audio/DLC08_UI_Bank.bnk</File>
+			<File>Platforms/Windows/Audio/DLC08_Ambiences.xml</File>
+			<File>Platforms/Windows/Audio/DLC08_Notifications.xml</File>
+			<File>Platforms/Windows/Audio/DLC08_UI_Bank.xml</File>
+		</UpdateAudio>
+		<UpdateIcons id="CivRoyaleScenarioIcons" criteria="CivRoyaleScenario">
+			<File>Data/CivRoyaleScenario_Icons_Civilizations.xml</File>
+			<File>Data/CivRoyaleScenario_Icons_Leaders.xml</File>
+			<File>Data/CivRoyaleScenario_Icons_UnitPortraits.xml</File>
+			<File>Data/CivRoyaleScenario_Icons_Promotions.xml</File>
+		</UpdateIcons>
+		<UpdateColors id="CivRoyaleScenarioPlayerColors" criteria="CivRoyaleScenario">
+			<File>Data/CivRoyaleScenario_PlayerColors.xml</File>
+		</UpdateColors>
+		<UpdateDatabase id="CivRoyaleScenarioGameplay" criteria="CivRoyaleScenario">
+			<Properties>
+				<LoadOrder>100</LoadOrder>
+			</Properties>
+			<File Priority="1">Data/CivRoyaleScenario_RemoveData.xml</File>
+			<File>Data/CivRoyaleScenario_Victories.xml</File>
+			<File>Data/CivRoyaleScenario_Resources.xml</File>
+			<File>Data/CivRoyaleScenario_GoodyHuts.xml</File>
+			<File>Data/CivRoyaleScenario_Improvements.xml</File>
+			<File>Data/CivRoyaleScenario_Features.xml</File>
+			<File>Data/CivRoyaleScenario_Units.xml</File>
+			<File>Data/CivRoyaleScenario_WMDs.xml</File>
+			<File>Data/CivRoyaleScenario_UnitPromotions.xml</File>
+			<File>Data/CivRoyaleScenario_UnitOperations.xml</File>
+			<File>Data/CivRoyaleScenario_UnitAbilities.xml</File>
+			<File>Data/CivRoyaleScenario_GameplayData.xml</File>
+			<File>Data/CivRoyaleScenario_Civilizations.xml</File>
+			<File>Data/CivRoyaleScenario_AI.xml</File>
+			<File>Data/CivRoyaleScenario_Leaders.xml</File>
+			<File>Data/CivRoyaleScenario_GameCapabilities.xml</File>
+			<File>Data/CivRoyaleScenario_Eras.xml</File>
+			<File>Data/CivRoyaleScenario_Notifications.xml</File>
+			<File>Data/CivRoyaleScenario_LoadingInfo.xml</File>
+		</UpdateDatabase>
+		<UpdateText id="CivRoyaleScenarioText" criteria="CivRoyaleScenario">
+			<File Priority="2">Text/CivRoyaleScenario_RemoveText.xml</File>
+			<File Priority="1">Text/en_US/CivRoyaleScenario_ConfigText.xml</File>
+			<File Priority="1">Text/en_US/CivRoyaleScenario_Text.xml</File>
+			<File>Text/CivRoyaleScenario_Translations_ConfigText.xml</File>
+			<File>Text/CivRoyaleScenario_Translations_ConfigText_China.xml</File>
+			<File>Text/CivRoyaleScenario_Translations_Text.xml</File>
+			<File>Text/CivRoyaleScenario_Translations_Text_China.xml</File>
+		</UpdateText>		
+		<UpdateLogitechARX id="CivRoyaleScenarioGameplay" criteria="CivRoyaleScenario">
+			<File>Data/ARX/CivRoyaleIntro_Logo.png</File>
+			<File>Data/ARX/Civ_LEADER_CIVROYALE_SCENARIO_CULTISTS.png</File>
+			<File>Data/ARX/Civ_LEADER_CIVROYALE_SCENARIO_EDGELORDS.png</File>
+			<File>Data/ARX/Civ_LEADER_CIVROYALE_SCENARIO_JOCKS.png</File>
+			<File>Data/ARX/Civ_LEADER_CIVROYALE_SCENARIO_MUTANTS.png</File>
+			<File>Data/ARX/Civ_LEADER_CIVROYALE_SCENARIO_PIRATES.png</File>
+			<File>Data/ARX/Civ_LEADER_CIVROYALE_SCENARIO_PREPPERS.png</File>
+			<File>Data/ARX/Civ_LEADER_CIVROYALE_SCENARIO_SCIENTISTS.png</File>
+			<File>Data/ARX/Civ_LEADER_CIVROYALE_SCENARIO_WANDERERS.png</File>
+			<File>Data/ARX/index.html</File>
+		</UpdateLogitechARX>
+		<AddGameplayScripts id="CivRoyaleScenarioScripts" criteria="CivRoyaleScenario">
+			<File>Scripts/CivRoyaleScenario_StartScript.lua</File>
+		</AddGameplayScripts>
+		<AddUserInterfaces id="CivRoyaleScenarioIcons" criteria="CivRoyaleScenario">
+			<Properties>
+				<Context>InGame</Context>
+			</Properties>
+			<File>UI/Additions/ExpansionIntro.xml</File>
+		</AddUserInterfaces>		
+		<ReplaceUIScript id="CivRoyale_ARXManager" criteria="CivRoyaleScenario">
+			<Properties>
+				<LuaContext>ARXManager</LuaContext>
+				<LuaReplace>UI/Replacements/ARXManager_CivRoyale.lua</LuaReplace>
+			</Properties>
+		</ReplaceUIScript>
+		<ReplaceUIScript id="CivRoyaleScenarioDiplomacyRibbon" criteria="CivRoyaleScenario">
+			<Properties>
+				<LuaContext>DiplomacyRibbon</LuaContext>
+				<LuaReplace>UI/Replacements/DiplomacyRibbon_CivRoyaleScenario.lua</LuaReplace>
+			</Properties>
+		</ReplaceUIScript>
+		<ReplaceUIScript id="CivRoyaleFullscreenMapPopup" criteria="CivRoyaleScenario">
+			<Properties>
+				<LuaContext>FullscreenMapPopup</LuaContext>
+				<LuaReplace>UI/Replacements/FullscreenMapPopup_CivRoyaleScenario.lua</LuaReplace>
+			</Properties>
+		</ReplaceUIScript>
+		<ReplaceUIScript id="CivRoyaleScenarioInGameTopOptionsMenu" criteria="CivRoyaleScenario">
+			<Properties>
+				<LuaContext>InGameTopOptionsMenu</LuaContext>
+				<LuaReplace>UI/Replacements/InGameTopOptionsMenu_CivRoyaleScenario.lua</LuaReplace>
+			</Properties>
+		</ReplaceUIScript>
+		<ReplaceUIScript id="CivRoyaleScenarioMinimapPanel" criteria="CivRoyaleScenario">
+			<Properties>
+				<LuaContext>MinimapPanel</LuaContext>
+				<LuaReplace>UI/Replacements/MinimapPanel_CivRoyaleScenario.lua</LuaReplace>
+			</Properties>
+		</ReplaceUIScript>
+		<ReplaceUIScript id="CivRoyaleScenarioSaveGameMenu" criteria="CivRoyaleScenario">
+			<Properties>
+				<LuaContext>SaveGameMenu</LuaContext>
+				<LuaReplace>UI/Replacements/SaveGameMenu_CivRoyaleScenario.lua</LuaReplace>
+			</Properties>
+		</ReplaceUIScript>
+		<ReplaceUIScript id="CivRoyaleScenarioTopPanel" criteria="CivRoyaleScenario">
+			<Properties>
+				<LuaContext>TopPanel</LuaContext>
+				<LuaReplace>UI/Replacements/TopPanel_CivRoyaleScenario.lua</LuaReplace>
+			</Properties>
+		</ReplaceUIScript>
+		<ReplaceUIScript id="CivRoyaleScenarioWorldTracker" criteria="CivRoyaleScenario">
+			<Properties>
+				<LuaContext>WorldTracker</LuaContext>
+				<LuaReplace>UI/Replacements/WorldTracker_CivRoyaleScenario.lua</LuaReplace>
+			</Properties>
+		</ReplaceUIScript>
+		<ReplaceUIScript id="CivRoyaleScenarioNotificationPanel" criteria="CivRoyaleScenario">
+			<Properties>
+				<LuaContext>NotificationPanel</LuaContext>
+				<LuaReplace>UI/Replacements/NotificationPanel_CivRoyaleScenario.lua</LuaReplace>
+			</Properties>
+		</ReplaceUIScript>
+		<ImportFiles id="CivRoyaleScenarioFiles" criteria="CivRoyaleScenario">			
+			<File>UI/Additions/EndGameMenu_CivRoyaleScenario.lua</File>
+			<File>UI/Additions/ExpansionIntro.xml</File>
+			<File>UI/Additions/ExpansionIntro.lua</File>
+			<File>UI/Additions/WorldTrackerPanel_CivRoyaleScenario.xml</File>
+			<File>UI/Additions/WorldTrackerPanel_CivRoyaleScenario.lua</File>
+			<File>UI/Replacements/InGameTopOptionsMenu.xml</File>			
+			<File>UI/Replacements/TopPanel.xml</File>
+		</ImportFiles>
+	</InGameActions>
+	<Files>
+		<File>CivRoyaleScenario.dep</File>
+		<File>Platforms/Windows/Audio/DLC08Banks.ini</File>
+		<File>Platforms/Windows/Audio/DLC08_Ambiences.bnk</File>
+		<File>Platforms/Windows/Audio/DLC08_Notifications.bnk</File>
+		<File>Platforms/Windows/Audio/DLC08_UI_Bank.bnk</File>
+		<File>Platforms/Windows/Audio/DLC08_Ambiences.xml</File>
+		<File>Platforms/Windows/Audio/DLC08_Notifications.xml</File>
+		<File>Platforms/Windows/Audio/DLC08_UI_Bank.xml</File>
+		<File>Data/CivRoyaleScenario_Config.xml</File>
+		<File>Data/CivRoyaleScenario_Victories.xml</File>
+		<File>Data/CivRoyaleScenario_Resources.xml</File>
+		<File>Data/CivRoyaleScenario_GoodyHuts.xml</File>
+		<File>Data/CivRoyaleScenario_Improvements.xml</File>
+		<File>Data/CivRoyaleScenario_Features.xml</File>
+		<File>Data/CivRoyaleScenario_Units.xml</File>
+		<File>Data/CivRoyaleScenario_WMDs.xml</File>
+		<File>Data/CivRoyaleScenario_UnitPromotions.xml</File>
+		<File>Data/CivRoyaleScenario_UnitOperations.xml</File>
+		<File>Data/CivRoyaleScenario_UnitAbilities.xml</File>
+		<File>Data/CivRoyaleScenario_GameplayData.xml</File>
+		<File>Data/CivRoyaleScenario_Civilizations.xml</File>
+		<File>Data/CivRoyaleScenario_AI.xml</File>
+		<File>Data/CivRoyaleScenario_Leaders.xml</File>
+		<File>Data/CivRoyaleScenario_PlayerColors.xml</File>
+		<File>Data/CivRoyaleScenario_GameCapabilities.xml</File>
+		<File>Data/CivRoyaleScenario_Eras.xml</File>
+		<File>Data/CivRoyaleScenario_Notifications.xml</File>
+		<File>Data/CivRoyaleScenario_LoadingInfo.xml</File>
+		<File>Data/CivRoyaleScenario_Icons_Civilizations.xml</File>
+		<File>Data/CivRoyaleScenario_Icons_Leaders.xml</File>
+		<File>Data/CivRoyaleScenario_Icons_UnitPortraits.xml</File>
+		<File>Data/CivRoyaleScenario_Icons_Promotions.xml</File>
+		<File>Scripts/CivRoyaleScenario_StartScript.lua</File>
+		<File>Data/CivRoyaleScenario_RemoveData.xml</File>
+		<File>Data/ARX/CivRoyaleIntro_Logo.png</File>
+		<File>Data/ARX/Civ_LEADER_CIVROYALE_SCENARIO_CULTISTS.png</File>
+		<File>Data/ARX/Civ_LEADER_CIVROYALE_SCENARIO_EDGELORDS.png</File>
+		<File>Data/ARX/Civ_LEADER_CIVROYALE_SCENARIO_JOCKS.png</File>
+		<File>Data/ARX/Civ_LEADER_CIVROYALE_SCENARIO_MUTANTS.png</File>
+		<File>Data/ARX/Civ_LEADER_CIVROYALE_SCENARIO_PIRATES.png</File>
+		<File>Data/ARX/Civ_LEADER_CIVROYALE_SCENARIO_PREPPERS.png</File>
+		<File>Data/ARX/Civ_LEADER_CIVROYALE_SCENARIO_SCIENTISTS.png</File>
+		<File>Data/ARX/Civ_LEADER_CIVROYALE_SCENARIO_WANDERERS.png</File>
+		<File>Data/ARX/index.html</File>
+		<File>Text/CivRoyaleScenario_RemoveText.xml</File>
+		<File>Text/en_US/CivRoyaleScenario_Text.xml</File>
+		<File>Text/en_US/CivRoyaleScenario_ConfigText.xml</File>
+		<File>Text/CivRoyaleScenario_Translations_ConfigText.xml</File>
+		<File>Text/CivRoyaleScenario_Translations_ConfigText_China.xml</File>
+		<File>Text/CivRoyaleScenario_Translations_Text.xml</File>
+		<File>Text/CivRoyaleScenario_Translations_Text_China.xml</File>
+		<File>UI/Additions/EndGameMenu_CivRoyaleScenario.lua</File>
+		<File>UI/Additions/ExpansionIntro.xml</File>
+		<File>UI/Additions/ExpansionIntro.lua</File>
+		<File>UI/Additions/WorldTrackerPanel_CivRoyaleScenario.xml</File>
+		<File>UI/Additions/WorldTrackerPanel_CivRoyaleScenario.lua</File>
+		<File>UI/Replacements/DiplomacyRibbon_CivRoyaleScenario.lua</File>
+		<File>UI/Replacements/FullscreenMapPopup_CivRoyaleScenario.lua</File>
+		<File>UI/Replacements/InGameTopOptionsMenu.xml</File>		
+		<File>UI/Replacements/InGameTopOptionsMenu_CivRoyaleScenario.lua</File>
+		<File>UI/Replacements/MinimapPanel_CivRoyaleScenario.lua</File>
+		<File>UI/Replacements/NotificationPanel_CivRoyaleScenario.lua</File>
+		<File>UI/Replacements/SaveGameMenu_CivRoyaleScenario.lua</File>
+		<File>UI/Replacements/TopPanel_CivRoyaleScenario.lua</File>
+		<File>UI/Replacements/TopPanel.xml</File>
+		<File>UI/Replacements/WorldTracker_CivRoyaleScenario.lua</File>	
+		<File>UI/Replacements/ARXManager_CivRoyale.lua</File>
+	</Files>
+</Mod>

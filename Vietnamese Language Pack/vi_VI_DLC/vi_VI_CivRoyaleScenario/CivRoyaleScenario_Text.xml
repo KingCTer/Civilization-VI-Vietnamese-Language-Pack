@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<GameData>
+	<EnglishText>
+
+		<!-- Loading Screen -->
+		<Row Tag="LOC_LOADING_INFO_CIVROYALE_SCENARIO">
+			<Text>{LOC_CIV_ROYALE_MOD_DESCRIPTION_TUTORIAL}</Text>
+		</Row>
+
+		<!-- Victories -->
+		<Row Tag="LOC_CIV_ROYALE_VICTORY_WIN_BLURB">
+			<Text>They all laughed at us. They told us we were too weak and too few to make it to the lander. Well, who's laughing now? Who's the last faction off this stupid, rotten planet? Who's got a one-way ticket to a shiny new spaceship, drinking clean water and breathing air that doesn't contain toxic dust? We are![NEWLINE][NEWLINE]We're outta here! Watch out, universe!</Text>
+		</Row>		
+		
+		<!-- Goody Huts -->
+		<Row Tag="LOC_GOODYHUT_MILITARY_GRANT_WARRIOR_DESCRIPTION">
+			<Text>[COLOR_FLOAT_MILITARY]An Infantry unit has joined your faction.[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_GOODYHUT_MILITARY_GRANT_ARCHER_DESCRIPTION">
+			<Text>[COLOR_FLOAT_MILITARY]A Machine Gunner unit has joined your faction.[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_GOODYHUT_MILITARY_GRANT_AT_TEAM_DESCRIPTION">
+			<Text>[COLOR_FLOAT_MILITARY]An Anti-Tank unit has joined your faction.[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_GOODYHUT_MILITARY_GRANT_SETTLER_DESCRIPTION">
+			<Text>[COLOR_FLOAT_MILITARY]Civilians sheltering in the ruins have joined your faction.[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_GOODYHUT_MILITARY_GRANT_GUNSHIP_DESCRIPTION">
+			<Text>[COLOR_FLOAT_MILITARY]You've discovered a functional Helicopter.[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_GOODYHUT_MILITARY_GRANT_TANK_DESCRIPTION">
+			<Text>[COLOR_FLOAT_MILITARY]You've discovered a functional Tank.[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_GOODYHUT_MILITARY_GRANT_ARTILLERY_DESCRIPTION">
+			<Text>[COLOR_FLOAT_MILITARY]An Artillery unit has joined your faction.[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="LOC_GOODYHUT_MILITARY_GRANT_NUKE_STRIKE_DESCRIPTION">
+			<Text>[COLOR_FLOAT_MILITARY]You've discovered a functional Thermonuclear Device.[ENDCOLOR]</Text>
+		</Row>
+
+		<!-- HUD UI -->
+		<Row Tag="LOC_CIV_ROYALE_HUD_TURNS_UNTIL_RING_SHRINKS">
+			<Text>Turns until Safe Zone shrinks.</Text>
+		</Row>
+		<Row Tag="LOC_CIV_ROYALE_HUD_STORM_STRENGTH">
+			<Text>Fallout: Category {1_safeZonePhase} (Damage {2_dangerZoneDamage})</Text>
+		</Row>
+		<Row Tag="LOC_CIV_ROYALE_HUD_CATEGORY">
+			<Text>Category</Text>
+		</Row>
+		<Row Tag="LOC_CIV_ROYALE_HUD_CATEGORY_TOOLTIP">
+			<Text>A unit will take {1_Damage} damage from the fallout in the ring.[NEWLINE]So far the Safe Zone has closed {2_RingCount} {2_RingCount : plural 1?time; other?times;}.</Text>
+		</Row>
+		<Row Tag="LOC_CIV_ROYALE_HUD_DAMAGE">
+			<Text>Damage</Text>
+		</Row>
+		<Row Tag="LOC_CIV_ROYALE_HUD_DAMAGE_TOOLTIP">
+			<Text>The amount of damage your survivors will face in the Red Death.</Text>
+		</Row>
+		<Row Tag="LOC_CIV_ROYALE_HUD_TURNS">
+			<Text>{1_Turns : plural 1?Turn; other?Turns;}</Text>  
+		</Row>
+		<Row Tag="LOC_CIV_ROYALE_HUD_TURNS_TOOLTIP">
+			<Text>How many turns until the Red Death reaches the Safe Zone.</Text>
+		</Row>
+    <Row Tag="LOC_CIV_ROYALE_HUD_CIVILIAN_WARNING">
+      <Text>Your Civilian is in the fallout!</Text>
+    </Row>
+
+
+		<!-- Notifications -->
+		<Row Tag="LOC_CIVROYALE_NOTIFICATION_SUPPLY_DROP_MESSAGE">
+			<Text>Supply Drop!</Text>
+		</Row>
+		<Row Tag="LOC_CIVROYALE_NOTIFICATION_SUPPLY_DROP_SUMMARY">
+			<Text>A Supply Drop has appeared!</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_DISCOVER_GOODY_HUT_MESSAGE">
+			<Text>City Ruin Discovered</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_DISCOVER_GOODY_HUT_SUMMARY">
+			<Text>You have found a city ruin that may contain badly needed supplies.</Text>
+		</Row>
+		<Row Tag="LOC_CIVROYALE_NOTIFICATION_SAFE_ZONE_APPEARED_MESSAGE">
+			<Text>Safe Zone Established</Text>
+		</Row>
+		<Row Tag="LOC_CIVROYALE_NOTIFICATION_SAFE_ZONE_APPEARED_SUMMARY">
+			<Text>The Red Death is reforming. A Safe Zone in the eye of the storm has been marked on your map.</Text>
+		</Row>
+		<Row Tag="LOC_CIVROYALE_NOTIFICATION_SAFE_ZONE_CHANGED_MESSAGE">
+			<Text>Safe Zone Shrunk</Text>
+		</Row>
+		<Row Tag="LOC_CIVROYALE_NOTIFICATION_SAFE_ZONE_CHANGED_SUMMARY">
+			<Text>The Red Death is getting worse. The Safe Zone has shifted and became smaller.</Text>
+		</Row>
+		
+		<!-- Supply Drop Improvement -->
+		<Row Tag="LOC_IMPROVEMENT_SUPPLY_DROP_NAME">
+			<Text>Supply Drop</Text>
+		</Row>
+		
+		<!-- Goody Hut Improvements -->
+		<Row Tag="LOC_CIV_ROYALE_IMPROVEMENT_GOODY_HUT_NAME">
+			<Text>City Ruins</Text>
+		</Row>		
+		<Row Tag="LOC_IMPROVEMENT_POPPED_GOODY_NAME">
+			<Text>Explored City Ruins</Text>
+		</Row>
+		
+		<!-- Destroyed City Feature -->
+		<Row Tag="LOC_FEATURE_DESTROYED_CITY_NAME">
+			<Text>Destroyed City</Text>
+		</Row>
+		
+		<!-- MiniMap -->
+		<Row Tag="LOC_MINIMAP_RED_DEATH_TOOLTIP">
+			<Text>Red Death</Text>
+		</Row>		
+		<Row Tag="LOC_MINIMAP_SAFE_ZONE_TOOLTIP">
+			<Text>Safe Zone</Text>
+		</Row>
+		
+		
+		<!-- Promotions -->
+		<Row Tag="LOC_PROMOTION_SCOUTING_REGIMENT_NAME">
+			<Text>Scout Regiment</Text>
+		</Row>
+		<Row Tag="LOC_PROMOTION_SCOUTING_REGIMENT_DESCRIPTION">
+			<Text>Unit and its formation ignore [ICON_Movement] Movement penalties for Woods, Rainforests, and Hills.</Text>
+		</Row>
+		<Row Tag="LOC_CIVROYALE_PROMOTION_CAPARISON_DESCRIPTION">
+			<Text>+5 [ICON_Strength] Combat Strength vs. AT Crews.</Text>
+		</Row>
+		<Row Tag="LOC_CIVROYALE_PROMOTION_COURSERS_DESCRIPTION">
+			<Text>+5 [ICON_Strength] Combat Strength when attacking Machine Guns.</Text>
+		</Row>
+		<Row Tag="LOC_CIVROYALE_PROMOTION_ARMOR_PIERCING_DESCRIPTION">
+			<Text>+7 [ICON_Strength] Combat Strength against other Tanks.</Text>
+		</Row>
+		<Row Tag="LOC_CIVROYALE_PROMOTION_REACTIVE_ARMOR_DESCRIPTION">
+			<Text>+7 [ICON_Strength] Combat Strength when defending against Tanks and AT Crews.</Text>
+		</Row>
+		<Row Tag="LOC_CIVROYALE_PROMOTION_ECHELON_DESCRIPTION">
+			<Text>+5 [ICON_Strength] Combat Strength vs. Tanks and Helicopters.</Text>
+		</Row>
+		<Row Tag="LOC_CIVROYALE_PROMOTION_HOLD_THE_LINE_DESCRIPTION">
+			<Text>Adjacent units of a different class get +10 [ICON_Strength] Combat Strength vs. Tanks and Helicopters.</Text>
+		</Row>
+		<Row Tag="LOC_CIVROYALE_PROMOTION_CHOKE_POINTS_DESCRIPTION">
+			<Text>+7 [ICON_Strength] Combat Strength when defending in Woods, Jungle, Hills, or Marsh.</Text>
+		</Row>
+
+		<!-- Unit Abilities -->
+		<Row Tag="LOC_ABILITY_UNIT_BASE_WMD_RESISTANCE_NAME">
+			<Text>Used to Disaster</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_UNIT_BASE_WMD_RESISTANCE_DESCRIPTION">
+			<Text>Loses 50 HP rather than dying instantly to WMDs.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ABILITY_WMD_STRIKE_NAME">
+			<Text>WMD Launch Capable</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_WMD_STRIKE_DESCRIPTION">
+			<Text>Can launch WMDs.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_PIRATES_IGNORE_EMBARK_DISEMBARK_COST_DESCRIPTION">
+			<Text>Ignores additional movement cost from embarking and disembarking.</Text>
+		</Row>
+
+		<!-- Terrain Replacements -->
+		<Row Tag="LOC_CIVROYALE_TERRAIN_WASTELAND_NAME">
+			<Text>Wasteland</Text>
+		</Row>
+		<Row Tag="LOC_CIVROYALE_TERRAIN_WASTELAND_HILLS_NAME">
+			<Text>Wasteland (Hills)</Text>
+		</Row>
+		<Row Tag="LOC_CIVROYALE_TERRAIN_WASTELAND_MOUNTAIN_NAME">
+			<Text>Wasteland (Mountain)</Text>
+		</Row>
+		<Row Tag="LOC_TERRAIN_DESERT_NAME">
+			<Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_NAME}</Text>
+		</Row>
+		<Row Tag="LOC_TERRAIN_DESERT_HILLS_NAME">
+			<Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_HILLS_NAME}</Text>
+		</Row>
+		<Row Tag="LOC_TERRAIN_DESERT_MOUNTAIN_NAME">
+			<Text>Desert (Mountain)</Text>
+		</Row>
+		<Row Tag="LOC_TERRAIN_GRASS_NAME">
+			<Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_NAME}</Text>
+		</Row>
+		<Row Tag="LOC_TERRAIN_GRASS_HILLS_NAME">
+			<Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_HILLS_NAME}</Text>
+		</Row>
+		<Row Tag="LOC_TERRAIN_GRASS_MOUNTAIN_NAME">
+			<Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_MOUNTAIN_NAME}</Text>
+		</Row>
+		<Row Tag="LOC_TERRAIN_OCEAN_NAME">
+			<Text>Poisoned Ocean</Text>
+		</Row>
+		<Row Tag="LOC_TOOLTIP_LAKE">
+			<Text>Poisoned Lake</Text>
+		</Row>
+		<Row Tag="LOC_TOOLTIP_COAST">
+			<Text>Poisoned Coast</Text>
+		</Row>
+		<Row Tag="LOC_TERRAIN_PLAINS_NAME">
+			<Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_NAME}</Text>
+		</Row>
+		<Row Tag="LOC_TERRAIN_PLAINS_HILLS_NAME">
+			<Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_HILLS_NAME}</Text>
+		</Row>
+		<Row Tag="LOC_TERRAIN_PLAINS_MOUNTAIN_NAME">
+			<Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_MOUNTAIN_NAME}</Text>
+		</Row>
+		<Row Tag="LOC_TERRAIN_SNOW_NAME">
+			<Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_NAME}</Text>
+		</Row>
+		<Row Tag="LOC_TERRAIN_SNOW_HILLS_NAME">
+			<Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_HILLS_NAME}</Text>
+		</Row>
+		<Row Tag="LOC_TERRAIN_SNOW_MOUNTAIN_NAME">
+			<Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_MOUNTAIN_NAME}</Text>
+		</Row>
+		<Row Tag="LOC_TERRAIN_TUNDRA_NAME">
+			<Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_NAME}</Text>
+		</Row>
+		<Row Tag="LOC_TERRAIN_TUNDRA_HILLS_NAME">
+			<Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_HILLS_NAME}</Text>
+		</Row>
+		<Row Tag="LOC_TERRAIN_TUNDRA_MOUNTAIN_NAME">
+			<Text>{LOC_CIVROYALE_TERRAIN_WASTELAND_MOUNTAIN_NAME}</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_ICE_NAME">
+			<Text>The Great Rot (Forbidden)</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_MARSH_NAME">
+			<Text>Bog</Text>
+		</Row>
+		
+		<!-- Unit Replacements -->
+		<Row Tag="LOC_UNIT_SETTLER_NAME">
+			<Text>Civilian</Text>
+		</Row>
+		
+		<!-- Barbarian Replacements -->
+		<Row Tag="LOC_IMPROVEMENT_BARBARIAN_CAMP_NAME">
+			<Text>Raider Outpost</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BARBARIAN_NAME">
+			<Text>Raiders</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_BARBARIAN_DESCRIPTION">
+			<Text>Raiders</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_NEW_BARBARIAN_CAMP_MESSAGE">
+			<Text>New Raider Outpost</Text>
+		</Row>
+		<Row Tag="LOC_NOTIFICATION_NEW_BARBARIAN_CAMP_SUMMARY">
+		  <Text>We have received rumors that a new band of Raiders have moved into a nearby region.</Text>
+		</Row>
+		
+		<!-- Overlays -->
+		<Row Tag="LOC_EDGELORD_COMBAT_BONUS_OVERLAY_TT">
+			<Text>Edgelord Combat Bonus Zone</Text>
+		</Row>	
+	</EnglishText>
+</GameData>

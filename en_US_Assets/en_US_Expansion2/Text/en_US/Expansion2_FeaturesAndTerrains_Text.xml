@@ -1,0 +1,110 @@
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<EnglishText>
+		<!-- Natural Wonders -->
+		<Row Tag="LOC_FEATURE_CHOCOLATEHILLS_NAME">
+			<Text>Chocolate Hills</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_DEVILSTOWER_NAME">
+			<Text>Mato Tipila</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_GOBUSTAN_NAME">
+			<Text>Gobustan </Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_IKKIL_NAME">
+			<Text>Ik-Kil</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_PAMUKKALE_NAME">
+			<Text>Pamukkale</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_VESUVIUS_NAME">
+			<Text>Mount Vesuvius</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_WHITEDESERT_NAME">
+			<Text>Sahara el Beyda</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_CHOCOLATEHILLS_DESCRIPTION">
+			<Text>Four tile natural wonder. It provides +1 [ICON_Food] Food, +2 [ICON_Production] Production,  and +1 [ICON_Science] Science.</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_DEVILSTOWER_DESCRIPTION">
+			<Text>One tile impassable natural wonder. Provides +1 [ICON_FAITH] Faith and +1 [ICON_Production] Production to adjacent tiles.</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_GOBUSTAN_DESCRIPTION">
+			<Text>Three tile natural wonder. It provides +3 [ICON_CULTURE] Culture and +1 [ICON_Production] Production.</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_IKKIL_DESCRIPTION">
+			<Text>One tile impassable natural wonder. +50% [ICON_Production] Production when producing wonders and districts in adjacent tiles. It provides Fresh Water.</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_PAMUKKALE_DESCRIPTION">
+			<Text>Two tile impassable natural wonder. +1 [ICON_AMENITIES] Amenity. It provides an additional [ICON_AMENITIES] Amenity if adjacent to an Entertainment Complex. Major adjacency bonus to Theater Square, Campus, and Commercial Hub districts. Standard adjacency bonus to the Holy Site district. It provides Fresh Water.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_PAMUKKALE_CULTURE">
+			<Text>+{1_num} [ICON_CULTURE] Culture from the adjacent natural wonder Pamukkale.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_PAMUKKALE_FAITH">
+			<Text>+{1_num} [ICON_FAITH] Faith from the adjacent natural wonder Pamukkale.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_PAMUKKALE_GOLD">
+			<Text>+{1_num} [ICON_GOLD] Gold from the adjacent natural wonder Pamukkale.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_PAMUKKALE_SCIENCE">
+			<Text>+{1_num} [ICON_SCIENCE] Science from the adjacent natural wonder Pamukkale.</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_VESUVIUS_DESCRIPTION">
+			<Text>One tile impassable natural wonder. It appears as a Volcano and provides +1 [ICON_Production] Production to adjacent tiles. On Eruption it gives high yields to adjacent tiles, but large [ICON_Citizen] Population loss. It is always active.</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_WHITEDESERT_DESCRIPTION">
+			<Text>Four tile natural wonder. It provides +1 [ICON_SCIENCE] Science, +1 [ICON_Culture] Culture,  and +4 [ICON_GOLD] Gold.</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_EYJAFJALLAJOKULL_XP2_DESCRIPTION">
+			<Text>Two tile impassable natural wonder. It appears as a Volcano and provides +1 [ICON_Culture] Culture and +1 [ICON_Food] Food. On eruption it gives medium yields and is most likely to damage buildings and districts. Infrequently erupts, but is always active.</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_KILIMANJARO_XP2_DESCRIPTION">
+			<Text>One tile impassable natural wonder. It appears as a Volcano and provides +2 [ICON_Food] Food to adjacent tiles. On eruption it gives low yields and is most likely to damage improvements and buildings. Infrequently erupts, but is always active.</Text>
+		</Row>
+		<!-- Floodplains -->
+		<Row Tag="LOC_FEATURE_FLOODPLAINS_DESERT_NAME">
+			<Text>Desert Floodplains</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_FLOODPLAINS_GRASSLAND_NAME">
+			<Text>Grassland Floodplains</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_FLOODPLAINS_PLAINS_NAME">
+			<Text>Plains Floodplains</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_FLOODPLAINS_DESERT_DESCRIPTION">
+			<Text>This low-lying area adjacent to a River has flooded before, giving it more [ICON_Food] Food production than a usual Desert tile. If the River floods again structures built on this tile may be damaged or destroyed, but the tile is also likely to gain additional yields.</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_FLOODPLAINS_GRASSLAND_DESCRIPTION">
+			<Text>This low-lying area adjacent to a River has not yet flooded so it starts the game with the same yields as a flat Grasslands tile. If the River floods again structures built on this tile may be damaged or destroyed, but the tile is also likely to gain additional yields.</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_FLOODPLAINS_PLAINS_DESCRIPTION">
+			<Text>This low-lying area adjacent to a River has not yet flooded so it starts the game with the same yields as a flat Plains tile. If the River floods again structures built on this tile may be damaged or destroyed, but the tile is also likely to gain additional yields.</Text>
+		</Row>
+		<Row Tag="LOC_FLOOD_WARNING_ICON_TOOLTIP">
+			<Text>This location is susceptible to flooding.</Text>
+		</Row>
+		<!--Volcanoes/Geothermal-->
+		<Row Tag="LOC_FEATURE_VOLCANO_NAME">
+			<Text>Volcano</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_VOLCANO_DESCRIPTION">
+			<Text>This mountain tile, probably located near a boundary between two continents, starts the game as an inactive volcanic site but may become active as the game progresses. Once active, beware -- an eruption could occur at any time. Volcanic eruptions damage features and structures in adjacent tiles but may also leave behind volcanic soil that boosts the yields from that location.</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_GEOTHERMAL_FISSURE_NAME">
+			<Text>Geothermal Fissure</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_GEOTHERMAL_FISSURE_DESCRIPTION">
+			<Text>The ground in this area, probably located near a boundary between two continents, has been ruptured by subterranean geothermal activity. Heated water and steam escape from the ground here, making it ideal to place structures such as Aqueducts, Roman Baths, and Hungarian Thermal Baths nearby.</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_VOLCANIC_SOIL_NAME">
+			<Text>Volcanic Soil</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_VOLCANIC_SOIL_DESCRIPTION">
+			<Text>This land adjacent to a volcano has suffered from a previous eruption. Although people and structures may have been damaged, the rich deposits of minerals the volcano has brought forth have probably enhanced the yields here. Rebuilding in this area may therefore be worthwhile, especially if the volcano goes dormant.</Text>
+		</Row>
+		<Row Tag="LOC_VOLCANO_WARNING_ICON_TOOLTIP">
+			<Text>This location may suffer from the eruption of a nearby volcano.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_GOSSIP_POSITIVE">
+			<Text>They love that you share so much information</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_GOSSIP_NEGATIVE">
+			<Text>They are unhappy they cannot get gossip from you</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_SYCOPHANT_GOLDEN_AGE">
+			<Text>They are happy to see you in a Golden Age</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_SYCOPHANT_DARK_AGE">
+			<Text>They are disappointed you are in a Dark Age</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_SYMPATHIZER_DARK_AGE">
+			<Text>They are supportive as you weather a Dark Age</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_SYMPATHIZER_GOLDEN_AGE">
+			<Text>They are envious of your Golden Age</Text>
+		</Row>
+		<!-- Troops on border pledge modifiers -->
+		<Row Tag="LOC_DIPLO_MODIFIER_BROKEN_PLEDGE">
+			<Text>We broke our pledge to move our troops from their borders</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_KEPT_PLEDGE">
+			<Text>We kept our pledge to move our troops from their borders</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_NO_PLEDGE">
+			<Text>We decided to not pledge to move our troops from their borders</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_SHARED_EMERGENCY">
+			<Text>We joined an emergency against the same person</Text>
+		</Row>
+	</EnglishText>
+</GameData>

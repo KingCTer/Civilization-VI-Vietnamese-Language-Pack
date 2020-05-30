@@ -1,0 +1,1257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Mod id="4873eb62-8ccc-4574-b784-dda455e74e68" version="1">
+	<Properties>
+		<Name>LOC_EXPANSION2_MOD_TITLE</Name>
+		<Teaser>LOC_EXPANSION2_MOD_TEASER</Teaser>
+		<Description>LOC_EXPANSION2_MOD_DESCRIPTION</Description>
+		<Authors>LOC_MOD_AUTHORS_FIRAXIS</Authors>
+		<CompatibleVersions>2.0</CompatibleVersions>
+	</Properties>
+	<ActionCriteria>
+		<Criteria id="Expansion2">
+			<GameCoreInUse>Expansion2</GameCoreInUse>
+		</Criteria>
+		<Criteria id="Expansion2AndBeyond" any="1">
+			<GameCoreInUse>Expansion2</GameCoreInUse>
+			<LeaderPlayable>Players:Expansion2_Players::LEADER_DIDO,Players:Expansion2_Players::LEADER_ELEANOR_ENGLAND,Players:Expansion2_Players::LEADER_ELEANOR_FRANCE,Players:Expansion2_Players::LEADER_KRISTINA,Players:Expansion2_Players::LEADER_KUPE,Players:Expansion2_Players::LEADER_LAURIER,Players:Expansion2_Players::LEADER_MANSA_MUSA,Players:Expansion2_Players::LEADER_MATTHIAS_CORVINUS,Players:Expansion2_Players::LEADER_PACHACUTI,Players:Expansion2_Players::LEADER_SULEIMAN</LeaderPlayable>
+		</Criteria>
+	</ActionCriteria>
+	<InGameActions>
+		<AddGameplayScripts id="Expansion2Scripts" criteria="Expansion2">
+			<File>Scripts/WorldCongress.lua</File>
+		</AddGameplayScripts>
+		<UpdateArt id="Expansion2Art" criteria="Expansion2">
+			<File>Expansion2.dep</File>
+		</UpdateArt>
+		<UpdateDatabase id="Expansion2Core" criteria="Expansion2">
+			<Properties>
+				<LoadOrder>-100</LoadOrder>
+			</Properties>
+			<!-- Schema comes first -->
+			<File Priority="2">Data/Expansion2_Schema.sql</File>
+
+			<!-- Remove data second -->
+			<File Priority="1">Data/Expansion2_RemoveData.xml</File>
+		</UpdateDatabase>
+		<UpdateColors id="Expansion2_Core_Colors" criteria="Expansion2">
+			<File>Data/Expansion2_Core_Colors.xml</File>
+		</UpdateColors>
+		<UpdateColors id="Expansion2_PlayerColors" criteria="Expansion2AndBeyond">
+			<File>Data/Expansion2_PlayerColors.xml</File>
+		</UpdateColors>
+		<UpdateDatabase id="Expansion2CoreContent" criteria="Expansion2">
+			<!-- XP1 -->
+			<File>Data/Expansion1_Agendas.xml</File>
+			<File>Data/Expansion1_Alliances.xml</File>
+			<File>Data/Expansion1_Beliefs.xml</File>
+			<File>Data/Expansion1_Buildings.xml</File>
+			<File>Data/Expansion1_Civics.xml</File>
+			<File>Data/Expansion1_Civilizations.xml</File>
+			<File>Data/Expansion1_Civilopedia.xml</File>
+			<File>Data/Expansion1_DiplomacyStatements_DeclareWar.xml</File>
+			<File>Data/Expansion1_DiplomacyStatements_Greeting.xml</File>
+			<File>Data/Expansion1_DiplomacyStatements_RenewAlliance.xml</File>
+			<File>Data/Expansion1_DiplomaticActions.xml</File>
+			<File>Data/Expansion1_Districts.xml</File>
+			<File>Data/Expansion1_Emergencies.xml</File>
+			<File>Data/Expansion1_Eras.xml</File>
+			<File>Data/Expansion1_Features.xml</File>
+			<File>Data/Expansion1_GlobalParameters.xml</File>
+			<File>Data/Expansion1_Gossip.xml</File>
+			<File>Data/Expansion1_Governments.xml</File>
+			<File>Data/Expansion1_Governors.xml</File>
+			<File>Data/Expansion1_GreatPeople_Admirals.xml</File>
+			<File>Data/Expansion1_GreatPeople_Engineers.xml</File>
+			<File>Data/Expansion1_GreatPeople_Generals.xml</File>
+			<File>Data/Expansion1_GreatPeople_Merchants.xml</File>
+			<File>Data/Expansion1_Happinesses.xml</File>
+			<File>Data/Expansion1_Improvements.xml</File>
+			<File>Data/Expansion1_Leaders.xml</File>
+			<File>Data/Expansion1_LoyaltyLevels.xml</File>
+			<File>Data/Expansion1_Modifiers.xml</File>
+			<File>Data/Expansion1_Moments.xml</File>
+			<File>Data/Expansion1_Notifications.xml</File>
+			<File>Data/Expansion1_Policies.xml</File>
+			<File>Data/Expansion1_Projects.xml</File>
+			<File>Data/Expansion1_Resources.xml</File>
+			<File>Data/Expansion1_Scoring.xml</File>
+			<File>Data/Expansion1_Technologies.xml</File>
+			<File>Data/Expansion1_UnitAbilities.xml</File>
+			<File>Data/Expansion1_UnitCommands.xml</File>
+			<File>Data/Expansion1_UnitOperations.xml</File>
+			<File>Data/Expansion1_UnitPromotions.xml</File>
+			<File>Data/Expansion1_Units.xml</File>
+			<File>Data/Expansion1_Victories.xml</File>
+			<File>Data/Expansion1_Wars.xml</File>
+			<File>Data/Expansion1_Yields.xml</File>
+
+			<!-- XP2 -->
+			<File>Data/Expansion2_Agendas.xml</File>
+			<File>Data/Expansion2_AI.xml</File>
+			<File>Data/Expansion2_Beliefs.xml</File>
+			<File>Data/Expansion2_Buildings.xml</File>
+			<File>Data/Expansion2_Civics.xml</File>
+			<File>Data/Expansion2_Civilizations.xml</File>
+			<File>Data/Expansion2_Civilopedia.xml</File>
+			<File>Data/Expansion2_Congress.xml</File>
+			<File>Data/Expansion2_DiplomaticActions.xml</File>
+			<File>Data/Expansion2_Districts.xml</File>
+			<File>Data/Expansion2_Emergencies.xml</File>
+			<File>Data/Expansion2_Eras.xml</File>
+			<File>Data/Expansion2_Features.xml</File>
+			<File>Data/Expansion2_GameCapabilities.xml</File>
+			<File>Data/Expansion2_GlobalParameters.xml</File>
+			<File>Data/Expansion2_GoodyHuts.xml</File>
+			<File>Data/Expansion2_Gossip.xml</File>
+			<File>Data/Expansion2_Governments.xml</File>
+			<File>Data/Expansion2_Governors.xml</File>
+			<File>Data/Expansion2_GreatPeople_Admirals.xml</File>
+			<File>Data/Expansion2_GreatPeople_Generals.xml</File>
+			<File>Data/Expansion2_GreatPeople_Merchants.xml</File>
+			<File>Data/Expansion2_GreatWorks.xml</File>
+			<File>Data/Expansion2_Improvements.xml</File>
+			<File>Data/Expansion2_Leaders.xml</File>
+			<File>Data/Expansion2_Maps.xml</File>
+			<File>Data/Expansion2_Modifiers.xml</File>
+			<File>Data/Expansion2_Moments.xml</File>
+			<File>Data/Expansion2_NamedPlaces.xml</File>
+			<File>Data/Expansion2_Notifications.xml</File>
+			<File>Data/Expansion2_Policies.xml</File>
+			<File>Data/Expansion2_Projects.xml</File>
+			<File>Data/Expansion2_RandomEvents.xml</File>
+			<File>Data/Expansion2_Technologies.xml</File>
+			<File>Data/Expansion2_Units.xml</File>
+			<File>Data/Expansion2_UnitAbilities.xml</File>
+			<File>Data/Expansion2_UnitNames.xml</File>
+			<File>Data/Expansion2_UnitOperations.xml</File>
+			<File>Data/Expansion2_UnitPromotions.xml</File>
+			<File>Data/Expansion2_Resources.xml</File>
+			<File>Data/Expansion2_Routes.xml</File>
+			<File>Data/Expansion2_TurnPhases.xml</File>
+			<File>Data/Expansion2_Victories.xml</File>
+			<File>Data/Expansion2_UnitCommands.xml</File>
+		</UpdateDatabase>
+		<UpdateDatabase id="Expansion2MajorContent" criteria="Expansion2AndBeyond">
+			<File>Data/Expansion2_Agendas_Major.xml</File>
+			<File>Data/Expansion2_Buildings_Major.xml</File>
+			<File>Data/Expansion2_Civilizations_Major.xml</File>
+			<File>Data/Expansion2_Districts_Major.xml</File>
+			<File>Data/Expansion2_Improvements_Major.xml</File>
+			<File>Data/Expansion2_Leaders_Major.xml</File>
+			<File>Data/Expansion2_Units_Major.xml</File>
+			<File>Data/Expansion2_UnitAbilities_Major.xml</File>
+			<File>Data/Expansion2_UnitPromotions_Major.xml</File>
+		</UpdateDatabase>
+		<UpdateText id="Expansion2_CoreText" criteria="Expansion2">
+			<File Priority="2">Text/Expansion2_RemoveText.xml</File>
+			<File Priority="1">Text/en_US/Expansion1_AdvisorText.xml</File>
+			<File Priority="1">Text/en_US/Expansion1_Agendas_Text.xml</File>
+			<File Priority="1">Text/en_US/Expansion1_Buildings_Text.xml</File>
+			<File Priority="1">Text/en_US/Expansion1_Civilopedia_Text.xml</File>
+			<File Priority="1">Text/en_US/Expansion1_CityBanner_Text.xml</File>
+			<File Priority="1">Text/en_US/Expansion1_Diplomacy_Text.xml</File>
+			<File Priority="1">Text/en_US/Expansion1_DiplomacyDeals_Text.xml</File>
+			<File Priority="1">Text/en_US/Expansion1_DiplomacyModifiers_Text.xml</File>
+			<File Priority="1">Text/en_US/Expansion1_DiplomacyStatements_Text.xml</File>
+			<File Priority="1">Text/en_US/Expansion1_CityNames_Text.xml</File>
+			<File Priority="1">Text/en_US/Expansion1_Civics_Text.xml</File>
+			<File Priority="1">Text/en_US/Expansion1_Districts_Text.xml</File>
+			<File Priority="1">Text/en_US/Expansion1_Eras_Text.xml</File>
+			<File Priority="1">Text/en_US/Expansion1_Gossip_Text.xml</File>
+			<File Priority="1">Text/en_US/Expansion1_GreatPeople_Text.xml</File>
+			<File Priority="1">Text/en_US/Expansion1_InGameText.xml</File>
+			<File Priority="1">Text/en_US/Expansion1_Leaders_Text.xml</File>
+			<File Priority="1">Text/en_US/Expansion1_Modifiers_Text.xml</File>
+			<File Priority="1">Text/en_US/Expansion1_Moments_Text.xml</File>
+			<File Priority="1">Text/en_US/Expansion1_Notifications_Text.xml</File>
+			<File Priority="1">Text/en_US/Expansion1_Religion_Text.xml</File>
+			<File Priority="1">Text/en_US/Expansion1_Technologies_Text.xml</File>
+			<File Priority="1">Text/en_US/Expansion1_Units_Text.xml</File>
+			<File Priority="1">Text/en_US/Expansion1_Wars_Text.xml</File>
+			<File Priority="1">Text/en_US/Expansion2_Buildings_Text.xml</File>
+			<File Priority="1">Text/en_US/Expansion2_CitizenNames_Text.xml</File>
+			<File Priority="1">Text/en_US/Expansion2_Civics_Text.xml</File>
+			<File Priority="1">Text/en_US/Expansion2_Civilopedia_Text.xml</File>
+			<File Priority="1">Text/en_US/Expansion2_CityNames_Text.xml</File>
+			<File Priority="1">Text/en_US/Expansion2_CongressText.xml</File>
+			<File Priority="1">Text/en_US/Expansion2_DiplomacyDeals_Text.xml</File>
+			<File Priority="1">Text/en_US/Expansion2_DiplomacyModifiers_Text.xml</File>
+			<File Priority="1">Text/en_US/Expansion2_DiplomacyStatements_DeclareWar_Text.xml</File>
+			<File Priority="1">Text/en_US/Expansion2_DiplomacyStatements_Denounce_Text.xml</File>
+			<File Priority="1">Text/en_US/Expansion2_DiplomacyStatements_FirstMeet_Text.xml</File>
+			<File Priority="1">Text/en_US/Expansion2_DiplomacyStatements_KudosAndWarnings_Text.xml</File>
+			<File Priority="1">Text/en_US/Expansion2_DiplomacyStatements_Misc.xml</File>
+			<File Priority="1">Text/en_US/Expansion2_Districts_Text.xml</File>
+			<File Priority="1">Text/en_US/Expansion2_FeaturesAndTerrains_Text.xml</File>
+			<File Priority="1">Text/en_US/Expansion2_Gossip_Text.xml</File>
+			<File Priority="1">Text/en_US/Expansion2_GreatPeople_Text.xml</File>
+			<File Priority="1">Text/en_US/Expansion2_Improvements_Text.xml</File>
+			<File Priority="1">Text/en_US/Expansion2_InGameText.xml</File>
+			<File Priority="1">Text/en_US/Expansion2_Leaders_Text.xml</File>
+			<File Priority="1">Text/en_US/Expansion2_LoadingInfo_Text.xml</File>
+			<File Priority="1">Text/en_US/Expansion2_Moments_Text.xml</File>
+			<File Priority="1">Text/en_US/Expansion2_NamedPlaces_Text.xml</File>
+			<File Priority="1">Text/en_US/Expansion2_Notifications_Text.xml</File>
+			<File Priority="1">Text/en_US/Expansion2_Promotions_Text.xml</File>
+			<File Priority="1">Text/en_US/Expansion2_Quotes_Text.xml</File>
+			<File Priority="1">Text/en_US/Expansion2_Technologies_Text.xml</File>
+			<File Priority="1">Text/en_US/Expansion2_RandomEvents_Text.xml</File>
+			<File Priority="1">Text/en_US/Expansion2_Religion_Text.xml</File>
+			<File Priority="1">Text/en_US/Expansion2_Routes_Text.xml</File>
+			<File Priority="1">Text/en_US/Expansion2_UnitNames_Text.xml</File>
+			<File Priority="1">Text/en_US/Expansion2_Units_Text.xml</File>
+			<File Priority="1">Text/en_US/Expansion2_Unit_Abilities_Text.xml</File>
+			<File Priority="1">Text/en_US/Expansion2_AdvisorText.xml</File>
+			<File>Text/Expansion2_Translations_Text.xml</File>
+			<File>Text/Expansion2_Translations_Text_China.xml</File>
+		</UpdateText>
+		<UpdateText id="Expansion2_MajorText" criteria="Expansion2AndBeyond">
+			<File Priority="1">Text/en_US/Expansion2_ConfigText.xml</File>
+			<File Priority="1">Text/en_US/Expansion1_HallofFame_Text.xml</File>
+			<File Priority="1">Text/en_US/Expansion2_HallofFame_Text.xml</File>
+			<File>Text/Expansion2_Translations_Major_Text.xml</File>
+			<File>Text/Expansion2_Translations_Major_Text_China.xml</File>
+			<File>Text/Expansion2_Translations_ConfigText.xml</File>
+			<File>Text/Expansion2_Translations_ConfigText_China.xml</File>
+		</UpdateText>
+		<UpdateLogitechARX id="Expansion2_MajorARX" criteria="Expansion2">
+			<File>Data/ARX/Civ_LEADER_ELEANOR_ENGLAND.png</File>
+			<File>Data/ARX/Civ_LEADER_ELEANOR_FRANCE.png</File>
+			<File>Data/ARX/Civ_LEADER_DIDO.png</File>
+			<File>Data/ARX/Civ_LEADER_KRISTINA.png</File>
+			<File>Data/ARX/Civ_LEADER_KUPE.png</File>
+			<File>Data/ARX/Civ_LEADER_LAURIER.png</File>
+			<File>Data/ARX/Civ_LEADER_MANSA_MUSA.png</File>
+			<File>Data/ARX/Civ_LEADER_MATTHIAS_CORVINUS.png</File>
+			<File>Data/ARX/Civ_LEADER_PACHACUTI.png</File>
+			<File>Data/ARX/Civ_LEADER_SULEIMAN.png</File>
+		</UpdateLogitechARX>
+		<UpdateAudio id="Expansion2Audio" criteria="Expansion2">
+			<File>Platforms/Windows/Audio/XP2Banks.ini</File>
+			<File>Platforms/Windows/Audio/XP2_Music_Bank.bnk</File>
+			<File>Platforms/Windows/Audio/XP2_Music_Bank.txt</File>
+			<File>Platforms/Windows/Audio/XP2_Music_Bank.xml</File>
+			<File>Platforms/Windows/Audio/XP2_Speech.bnk</File>
+			<File>Platforms/Windows/Audio/XP2_Speech.txt</File>
+			<File>Platforms/Windows/Audio/XP2_Speech.xml</File>
+			<File>Platforms/Windows/Audio/XP_Common_Ambiences.bnk</File>
+			<File>Platforms/Windows/Audio/XP_Common_Ambiences.txt</File>
+			<File>Platforms/Windows/Audio/XP_Common_Ambiences.xml</File>
+			<File>Platforms/Windows/Audio/XP_Common_UI_Bank.bnk</File>
+			<File>Platforms/Windows/Audio/XP_Common_UI_Bank.txt</File>
+			<File>Platforms/Windows/Audio/XP_Common_UI_Bank.xml</File>
+			<File>Platforms/Windows/Audio/XP_Common_Unit_Bank_3D.bnk</File>
+			<File>Platforms/Windows/Audio/XP_Common_Unit_Bank_3D.txt</File>
+			<File>Platforms/Windows/Audio/XP_Common_Unit_Bank_3D.xml</File>
+		</UpdateAudio>
+		<UpdateIcons id="Expansion1Icons" criteria="Expansion2">
+			<!-- XP1 ICONS -->
+			<File>Data/Expansion1_Icons_Buildings.xml</File>
+			<File>Data/Expansion1_Icons_CityBanner.xml</File>
+			<File>Data/Expansion1_Icons_CityStates.xml</File>
+			<File>Data/Expansion1_Icons_Civilopedia.xml</File>
+			<File>Data/Expansion1_Icons_Diplomacy.xml</File>
+			<File>Data/Expansion1_Icons_District_Buildings.xml</File>
+			<File>Data/Expansion1_Icons_Districts.xml</File>
+			<File>Data/Expansion1_Icons_Emergencies.xml</File>
+			<File>Data/Expansion1_Icons_Features.xml</File>
+			<File>Data/Expansion1_Icons_FontIcons.xml</File>
+			<File>Data/Expansion1_Icons_FreeCities.xml</File>
+			<File>Data/Expansion1_Icons_Governors.xml</File>
+			<File>Data/Expansion1_Icons_GovernorPromotions.xml</File>
+			<File>Data/Expansion1_Icons_HistoricMoments.xml</File>
+			<File>Data/Expansion1_Icons_Improvements.xml</File>
+			<File>Data/Expansion1_Icons_Notifications.xml</File>
+			<File>Data/Expansion1_Icons_Operations.xml</File>
+			<File>Data/Expansion1_Icons_Projects.xml</File>
+			<File>Data/Expansion1_Icons_Resources.xml</File>
+			<File>Data/Expansion1_Icons_Policies.xml</File>
+			<File>Data/Expansion1_Icons_Stats.xml</File>
+			<File>Data/Expansion1_Icons_UnitPortraits.xml</File>
+			<File>Data/Expansion1_Icons_Units.xml</File>
+		</UpdateIcons>
+		<UpdateIcons id="Expansion2Icons" criteria="Expansion2">
+			<File>Data/Expansion2_Icons_Beliefs.xml</File>
+			<File>Data/Expansion2_Icons_Buildings.xml</File>
+			<File>Data/Expansion2_Icons_CityStates.xml</File>
+			<File>Data/Expansion2_Icons_Civics.xml</File>
+			<File>Data/Expansion2_Icons_Civilizations.xml</File>
+			<File>Data/Expansion2_Icons_DistrictBuildings.xml</File>
+			<File>Data/Expansion2_Icons_Districts.xml</File>
+			<File>Data/Expansion2_Icons_EnvironmentalEffects.xml</File>
+			<File>Data/Expansion2_Icons_Features.xml</File>
+			<File>Data/Expansion2_Icons_FontIcons.xml</File>
+			<File>Data/Expansion2_Icons_Governors.xml</File>
+			<File>Data/Expansion2_Icons_GovernorPromotions.xml</File>
+			<File>Data/Expansion2_Icons_Governments.xml</File>
+			<File>Data/Expansion2_Icons_Leaders.xml</File>
+			<File>Data/Expansion2_Icons_Notifications.xml</File>
+			<File>Data/Expansion2_Icons_Operations.xml</File>
+			<File>Data/Expansion2_Icons_Policies.xml</File>
+			<File>Data/Expansion2_Icons_Projects.xml</File>
+			<File>Data/Expansion2_Icons_Proposals.xml</File>
+			<File>Data/Expansion2_Icons_Stats.xml</File>
+			<File>Data/Expansion2_Icons_Tech.xml</File>
+			<File>Data/Expansion2_Icons_Units.xml</File>
+			<File>Data/Expansion2_Icons_UnitActions.xml</File>
+			<File>Data/Expansion2_Icons_UnitPortraits.xml</File>
+			<File>Data/Expansion2_Icons_Victories.xml</File>
+			<File>Data/Expansion2_Icons_Yields.xml</File>
+			<File>Data/Expansion2_Icons_Wonders.xml</File>
+		</UpdateIcons>
+		<AddUserInterfaces id="Expansion1InGameUI" criteria="Expansion2">
+			<Properties>
+				<Context>InGame</Context>
+			</Properties>
+			<File>UI/Additions/DedicationPopup.xml</File>
+			<File>UI/Additions/DisloyalCityChooser.xml</File>
+			<File>UI/Additions/EraReviewPopup.xml</File>
+			<File>UI/Additions/EraProgressPanel.xml</File>
+			<File>UI/Additions/ExpansionIntro.xml</File>
+			<File>UI/Additions/GovernorPanel.xml</File>
+			<File>UI/Additions/GovernorAssignmentChooser.xml</File>
+			<File>UI/Additions/HistoricMoments.xml</File>
+			<File>UI/Additions/WorldCrisisPopup.xml</File>
+		</AddUserInterfaces>
+		<!-- XP1 REPLACEMENTS -->
+		<ReplaceUIScript id="Expansion1_ReportScreen" criteria="Expansion2">
+			<Properties>
+				<LuaContext>ReportScreen</LuaContext>
+				<LuaReplace>UI/Replacements/ReportScreen_Expansion2.lua</LuaReplace>
+			</Properties>
+		</ReplaceUIScript>
+		<ReplaceUIScript id="Expansion1_NewTurnPanel" criteria="Expansion2">
+			<Properties>
+				<LuaContext>NewTurnPanel</LuaContext>
+				<LuaReplace>UI/Replacements/NewTurnPanel_Expansion1.lua</LuaReplace>
+			</Properties>
+		</ReplaceUIScript>
+		<ReplaceUIScript id="Expansion1_WorldTracker" criteria="Expansion2">
+			<Properties>
+				<LuaContext>WorldTracker</LuaContext>
+				<LuaReplace>UI/Replacements/WorldTracker_Expansion1.lua</LuaReplace>
+			</Properties>
+		</ReplaceUIScript>
+		<ReplaceUIScript id="Expansion1_EspionageChooser" criteria="Expansion2">
+			<Properties>
+				<LuaContext>EspionageChooser</LuaContext>
+				<LuaReplace>UI/Replacements/EspionageChooser_Expansion1.lua</LuaReplace>
+			</Properties>
+		</ReplaceUIScript>
+		<ReplaceUIScript id="Expansion1_EspionageOverview" criteria="Expansion2">
+			<Properties>
+				<LuaContext>EspionageOverview</LuaContext>
+				<LuaReplace>UI/Replacements/EspionageOverview_Expansion1.lua</LuaReplace>
+			</Properties>
+		</ReplaceUIScript>
+		<ReplaceUIScript id="Expansion1_GreatPeoplePopup" criteria="Expansion2">
+			<Properties>
+				<LuaContext>GreatPeoplePopup</LuaContext>
+				<LuaReplace>UI/Replacements/GreatPeoplePopup_Expansion2.lua</LuaReplace>
+			</Properties>
+		</ReplaceUIScript>
+		<ReplaceUIScript id="Expansion1_TutorialUIRoot" criteria="Expansion2">
+			<Properties>
+				<LuaContext>TutorialUIRoot</LuaContext>
+				<LuaReplace>UI/Replacements/TutorialUIRoot_Expansion1.lua</LuaReplace>
+			</Properties>
+		</ReplaceUIScript>
+		<ReplaceUIScript id="Expansion1_InGameTopOptionsMenu" criteria="Expansion2">
+			<Properties>
+				<LuaContext>InGameTopOptionsMenu</LuaContext>
+				<LuaReplace>UI/Replacements/Expansion1_InGameTopOptionsMenu.lua</LuaReplace>
+			</Properties>
+		</ReplaceUIScript>
+		<ReplaceUIScript id="Expansion1_ResearchChooser" criteria="Expansion2">
+			<Properties>
+				<LuaContext>ResearchChooser</LuaContext>
+				<LuaReplace>UI/Replacements/ResearchChooser_Expansion1.lua</LuaReplace>
+			</Properties>
+		</ReplaceUIScript>
+		<!-- XP2 REPLACEMENTS -->
+		<ReplaceUIScript id="Expansion2_ActionPanel" criteria="Expansion2">
+			<Properties>
+				<LuaContext>ActionPanel</LuaContext>
+				<LuaReplace>UI/Replacements/ActionPanel_Expansion2.lua</LuaReplace>
+			</Properties>
+		</ReplaceUIScript>
+		<ReplaceUIScript id="Expansion2_ARXManager" criteria="Expansion2">
+			<Properties>
+				<LuaContext>ARXManager</LuaContext>
+				<LuaReplace>UI/Replacements/ARXManager_Expansion2.lua</LuaReplace>
+			</Properties>
+		</ReplaceUIScript>
+		<ReplaceUIScript id="Expansion2_CityPanel" criteria="Expansion2">
+			<Properties>
+				<LuaContext>CityPanel</LuaContext>
+				<LuaReplace>UI/Replacements/CityPanel_Expansion2.lua</LuaReplace>
+			</Properties>
+		</ReplaceUIScript>
+		<ReplaceUIScript id="Expansion2_CityPanelOverview" criteria="Expansion2">
+			<Properties>
+				<LuaContext>CityPanelOverview</LuaContext>
+				<LuaReplace>UI/Replacements/CityPanelOverview_Expansion2.lua</LuaReplace>
+			</Properties>
+		</ReplaceUIScript>
+		<ReplaceUIScript id="Expansion2_CityStates" criteria="Expansion2">
+			<Properties>
+				<LuaContext>CityStates</LuaContext>
+				<LuaReplace>UI/Replacements/CityStates_Expansion2.lua</LuaReplace>
+			</Properties>
+		</ReplaceUIScript>
+		<ReplaceUIScript id="Expansion2_CivicsTree" criteria="Expansion2">
+			<Properties>
+				<LuaContext>CivicsTree</LuaContext>
+				<LuaReplace>UI/Replacements/CivicsTree_Expansion2.lua</LuaReplace>
+			</Properties>
+		</ReplaceUIScript>
+		<ReplaceUIScript id="Expansion2_DeclareWarPopup" criteria="Expansion2">
+			<Properties>
+				<LuaContext>DeclareWarPopup</LuaContext>
+				<LuaReplace>UI/Replacements/DeclareWarPopup_Expansion2.lua</LuaReplace>
+			</Properties>
+		</ReplaceUIScript>
+		<ReplaceUIScript id="Expansion2_DiplomacyActionView" criteria="Expansion2">
+			<Properties>
+				<LuaContext>DiplomacyActionView</LuaContext>
+				<LuaReplace>UI/Replacements/DiplomacyActionView_Expansion2.lua</LuaReplace>
+			</Properties>
+		</ReplaceUIScript>
+		<ReplaceUIScript id="Expansion2_DiplomacyDealView" criteria="Expansion2">
+			<Properties>
+				<LuaContext>DiplomacyDealView</LuaContext>
+				<LuaReplace>UI/Replacements/DiplomacyDealView_Expansion2.lua</LuaReplace>
+			</Properties>
+		</ReplaceUIScript>
+		<ReplaceUIScript id="Expansion2_DiplomacyRibbon" criteria="Expansion2">
+			<Properties>
+				<LuaContext>DiplomacyRibbon</LuaContext>
+				<LuaReplace>UI/Replacements/DiplomacyRibbon_Expansion2.lua</LuaReplace>
+			</Properties>
+		</ReplaceUIScript>
+		<ReplaceUIScript id="Expansion2_FullscreenMapPopup" criteria="Expansion2">
+			<Properties>
+				<LuaContext>FullscreenMapPopup</LuaContext>
+				<LuaReplace>UI/Replacements/FullscreenMapPopup_Expansion2.lua</LuaReplace>
+			</Properties>
+		</ReplaceUIScript>
+		<ReplaceUIScript id="Expansion2_GovernmentScreen" criteria="Expansion2">
+			<Properties>
+				<LuaContext>GovernmentScreen</LuaContext>
+				<LuaReplace>UI/Replacements/GovernmentScreen_Expansion2.lua</LuaReplace>
+			</Properties>
+		</ReplaceUIScript>
+		<ReplaceUIScript id="Expansion2_GreatWorksOverview" criteria="Expansion2">
+			<Properties>
+				<LuaContext>GreatWorksOverview</LuaContext>
+				<LuaReplace>UI/Replacements/GreatWorksOverview_Expansion2.lua</LuaReplace>
+			</Properties>
+		</ReplaceUIScript>
+		<ReplaceUIScript id="Expansion2_LaunchBar" criteria="Expansion2">
+			<Properties>
+				<LuaContext>LaunchBar</LuaContext>
+				<LuaReplace>UI/Replacements/LaunchBar_Expansion2.lua</LuaReplace>
+			</Properties>
+		</ReplaceUIScript>
+		<ReplaceUIScript id="Expansion2_ModalLensPanel" criteria="Expansion2">
+			<Properties>
+				<LuaContext>ModalLensPanel</LuaContext>
+				<LuaReplace>UI/Replacements/ModalLensPanel_Expansion2.lua</LuaReplace>
+			</Properties>
+		</ReplaceUIScript>
+		<ReplaceUIScript id="Expansion2_MinimapPanel" criteria="Expansion2">
+			<Properties>
+				<LuaContext>MinimapPanel</LuaContext>
+				<LuaReplace>UI/Replacements/MinimapPanel_Expansion2.lua</LuaReplace>
+			</Properties>
+		</ReplaceUIScript>
+		<ReplaceUIScript id="Expansion2_MapSearchPanel" criteria="Expansion2">
+			<Properties>
+				<LuaContext>MapSearchPanel</LuaContext>
+				<LuaReplace>UI/Replacements/MapSearchPanel_Expansion2.lua</LuaReplace>
+			</Properties>
+		</ReplaceUIScript>
+		<ReplaceUIScript id="Expansion2_NotificationPanel" criteria="Expansion2">
+			<Properties>
+				<LuaContext>NotificationPanel</LuaContext>
+				<LuaReplace>UI/Replacements/NotificationPanel_Expansion2.lua</LuaReplace>
+			</Properties>
+		</ReplaceUIScript>
+		<ReplaceUIScript id="Expansion2_PartialScreenHooks" criteria="Expansion2">
+			<Properties>
+				<LuaContext>PartialScreenHooks</LuaContext>
+				<LuaReplace>UI/Replacements/PartialScreenHooks_Expansion2.lua</LuaReplace>
+			</Properties>
+		</ReplaceUIScript>
+		<ReplaceUIScript id="Expansion2_PlotToolTip" criteria="Expansion2">
+			<Properties>
+				<LuaContext>PlotToolTip</LuaContext>
+				<LuaReplace>UI/Replacements/PlotToolTip_Expansion2.lua</LuaReplace>
+			</Properties>
+		</ReplaceUIScript>
+		<ReplaceUIScript id="Expansion2_RazeCity" criteria="Expansion2">
+			<Properties>
+				<LuaContext>RazeCity</LuaContext>
+				<LuaReplace>UI/Replacements/RazeCity_Expansion2.lua</LuaReplace>
+			</Properties>
+		</ReplaceUIScript>
+		<ReplaceUIScript id="Expansion2_SelectedUnit" criteria="Expansion2">
+			<Properties>
+				<LuaContext>SelectedUnit</LuaContext>
+				<LuaReplace>UI/Replacements/SelectedUnit_Expansion2.lua</LuaReplace>
+			</Properties>
+		</ReplaceUIScript>
+		<ReplaceUIScript id="Expansion2_TechTree" criteria="Expansion2">
+			<Properties>
+				<LuaContext>TechTree</LuaContext>
+				<LuaReplace>UI/Replacements/TechTree_Expansion2.lua</LuaReplace>
+			</Properties>
+		</ReplaceUIScript>
+		<ReplaceUIScript id="Expansion2_TopPanel" criteria="Expansion2">
+			<Properties>
+				<LuaContext>TopPanel</LuaContext>
+				<LuaReplace>UI/Replacements/TopPanel_Expansion2.lua</LuaReplace>
+			</Properties>
+		</ReplaceUIScript>
+		<ReplaceUIScript id="Expansion2_UnitPanel" criteria="Expansion2">
+			<Properties>
+				<LuaContext>UnitPanel</LuaContext>
+				<LuaReplace>UI/Replacements/UnitPanel_Expansion2.lua</LuaReplace>
+			</Properties>
+		</ReplaceUIScript>
+		<ReplaceUIScript id="Expansion2_WorldInput" criteria="Expansion2">
+			<Properties>
+				<LuaContext>WorldInput</LuaContext>
+				<LuaReplace>UI/Replacements/WorldInput_Expansion2.lua</LuaReplace>
+			</Properties>
+		</ReplaceUIScript>
+		<ReplaceUIScript id="Expansion2_WorldRankings" criteria="Expansion2">
+			<Properties>
+				<LuaContext>WorldRankings</LuaContext>
+				<LuaReplace>UI/Replacements/WorldRankings_Expansion2.lua</LuaReplace>
+			</Properties>
+		</ReplaceUIScript>
+		<ImportFiles id="Expansion2_Files" criteria="Expansion2">
+			<!-- XP1 FILES -->
+			<File>Platforms/Windows/Movies/Brush.bk2</File>
+			<File>UI/Additions/CityPanelCulture.lua</File>
+			<File>UI/Additions/CityPanelCulture.xml</File>
+			<File>UI/Additions/LoyaltySupport.lua</File>
+			<File>UI/Additions/DisloyalCityChooser.lua</File>
+			<File>UI/Additions/DisloyalCityChooser.xml</File>
+			<File>UI/Additions/EraCompletePopup.lua</File>
+			<File>UI/Additions/EraCompletePopup.xml</File>
+			<File>UI/Additions/EraReviewPopup.lua</File>
+			<File>UI/Additions/EraReviewPopup.xml</File>
+			<File>UI/Additions/EraProgressPanel.lua</File>
+			<File>UI/Additions/EraProgressPanel.xml</File>
+			<File>UI/Additions/EraSupport.lua</File>
+			<File>UI/Additions/DiplomacyActionView_AllianceRow.lua</File>
+			<File>UI/Additions/DiplomacyActionView_AllianceRow.xml</File>
+			<File>UI/Additions/DiplomacyActionView_EmergencyRow.lua</File>
+			<File>UI/Additions/DiplomacyActionView_EmergencyRow.xml</File>
+			<File>UI/Additions/DiplomacyActionView_AllianceTab.lua</File>
+			<File>UI/Additions/DiplomacyActionView_AllianceTab.xml</File>
+			<File>UI/Additions/DiplomacyActionView_EmergencyTab.lua</File>
+			<File>UI/Additions/DiplomacyActionView_EmergencyTab.xml</File>
+			<File>UI/Replacements/DiplomacyActionView.xml</File>
+			<File>UI/Replacements/DiplomacyDealView.lua</File>
+			<File>UI/Additions/SettlerInfluenceIconManager.xml</File>
+			<File>UI/Additions/SettlerInfluenceIconManager.lua</File>
+			<File>UI/Additions/GovernorAssignmentChooser.lua</File>
+			<File>UI/Additions/GovernorAssignmentChooser.xml</File>
+			<File>UI/Additions/GovernorDetailsPanel.lua</File>
+			<File>UI/Additions/GovernorDetailsPanel.xml</File>
+			<File>UI/Additions/GovernorPanel.lua</File>
+			<File>UI/Additions/GovernorPanel.xml</File>
+			<File>UI/Additions/GovernorSupport.lua</File>
+			<File>UI/Additions/DedicationPopup.lua</File>
+			<File>UI/Additions/DedicationPopup.xml</File>
+			<File>UI/Additions/HistoricMoments.lua</File>
+			<File>UI/Additions/HistoricMoments.xml</File>
+			<File>UI/Additions/WorldCrisisPopup.lua</File>
+			<File>UI/Additions/WorldCrisisPopup.xml</File>
+			<File>UI/Additions/WorldCrisisTracker.xml</File>
+			<File>UI/Additions/WorldCrisisTracker.lua</File>
+			<File>UI/Additions/ExpansionIntro.xml</File>
+			<File>UI/Additions/ExpansionIntro.lua</File>
+			<File>UI/Additions/AllianceResearchSupport.lua</File>
+			<File>UI/Civilopedia/CivilopediaPage_Building.lua</File>
+			<File>UI/Civilopedia/CivilopediaPage_Government.lua</File>
+			<File>UI/Civilopedia/CivilopediaPage_Governor.lua</File>
+			<File>UI/Civilopedia/CivilopediaPage_GovernorPromotion.lua</File>
+			<File>UI/Civilopedia/CivilopediaPage_HistoricMoment.lua</File>
+			<File>UI/Civilopedia/CivilopediaPage_Policy.lua</File>
+			<File>UI/Civilopedia/CivilopediaPage_Resource.lua</File>
+			<File>UI/Civilopedia/CivilopediaPage_Unit.lua</File>
+			<File>UI/Loaders/CivicsTreeIconLoader_GovernorSlot.lua</File>
+			<File>UI/Loaders/CivicsTreeIconLoader_Favor.lua</File>
+			<File>UI/Loaders/PopupPriorityLoader_Expansion2.lua</File>
+			<File>UI/Loaders/TutorialLoader_Expansion1.lua</File>
+			<File>UI/Loaders/TutorialLoader_Expansion2.lua</File>
+			<File>UI/Replacements/ReportScreen.xml</File>
+			<File>UI/Replacements/MinimapPanel.xml</File>
+			<File>UI/Replacements/WorldRankings.xml</File>
+			<File>UI/Replacements/TopPanel.lua</File>
+			<File>UI/Replacements/CityStates.xml</File>
+			<File>UI/Replacements/PartialScreenHooks_Expansion1.lua</File>
+			<File>UI/Replacements/UnitPanel_Expansion1.lua</File>
+			<File>UI/Replacements/ActionPanel_Expansion1.lua</File>
+			<File>UI/Replacements/ReportScreen_Expansion1.lua</File>
+			<File>UI/Replacements/ReportScreen_Expansion2.lua</File>
+			<File>UI/Replacements/CityStates_Expansion1.lua</File>
+			<File>UI/Replacements/EndGameReplayLogic.lua</File>
+			<File>UI/Replacements/NewTurnPanel_Expansion1.lua</File>
+			<File>UI/Replacements/NotificationPanel_Expansion1.lua</File>
+			<File>UI/Replacements/DeclareWarPopup_Expansion1.lua</File>
+			<File>UI/Replacements/DiplomacyActionView_Expansion1.lua</File>
+			<File>UI/Replacements/WorldInput_Expansion1.lua</File>
+			<File>UI/Replacements/WorldTracker_Expansion1.lua</File>
+			<File>UI/Replacements/CityPanelOverview_Expansion1.lua</File>
+			<File>UI/Replacements/LaunchBar_Expansion1.lua</File>
+			<File>UI/Replacements/MinimapPanel_Expansion1.lua</File>
+			<File>UI/Replacements/ModalLensPanel_Expansion1.lua</File>
+			<File>UI/Replacements/EspionageChooser_Expansion1.lua</File>
+			<File>UI/Replacements/EspionageOverview_Expansion1.lua</File>
+			<File>UI/Replacements/CityPanel_Expansion1.lua</File>
+			<File>UI/Replacements/CityPanel_Expansion2.lua</File>
+			<File>UI/Replacements/DiplomacyRibbon_Expansion1.lua</File>
+			<File>UI/Replacements/DiplomacyRibbon_Expansion2.lua</File>
+			<File>UI/Replacements/DiplomacyRibbon.xml</File>
+			<File>UI/Replacements/TopPanel_Expansion1.lua</File>
+			<File>UI/Replacements/GovernmentScreen_Expansion1.lua</File>
+			<File>UI/Replacements/GreatPeoplePopup_Expansion1.lua</File>
+			<File>UI/Replacements/InGameTopOptionsMenu.xml</File>
+			<File>UI/Replacements/Expansion1_InGameTopOptionsMenu.lua</File>
+			<File>UI/Replacements/TutorialUIRoot_Expansion1.lua</File>
+			<File>UI/Replacements/CitySupport.lua</File>
+			<File>UI/Replacements/EndGameMenu.xml</File>
+			<File>UI/Replacements/EndGameMenu_Expansion1.lua</File>
+			<File>UI/Replacements/TechTreeNode.xml</File>
+			<File>UI/Replacements/TechTree_Expansion1.lua</File>
+			<File>UI/Replacements/WorldTrackerResearch.xml</File>
+			<File>UI/Replacements/ResearchChooser.xml</File>
+			<File>UI/Replacements/ResearchChooser_Expansion1.lua</File>
+			<!-- XP2 FILES -->
+			<File>UI/Replacements/InGame.xml</File>
+			<File>UI/Replacements/InGame.lua</File>
+			<File>Maps/Continents.lua</File>
+			<File>Maps/Continents_Islands.lua</File>
+			<File>Maps/Fractal.lua</File>
+			<File>Maps/InlandSea.lua</File>
+			<File>Maps/Island_Plates.lua</File>
+			<File>Maps/Lakes.lua</File>
+			<File>Maps/Pangaea.lua</File>
+			<File>Maps/Primordial.lua</File>
+			<File>Maps/Seven_Seas.lua</File>
+			<File>Maps/Shuffle.lua</File>
+			<File>Maps/Small_Continents.lua</File>
+			<File>Maps/Splintered_Fractal.lua</File>
+			<File>Maps/Terra.lua</File>
+			<File>Maps/Tilted_Axis.lua</File>
+      <File>Maps/BalanceMaps/Mirror.lua</File>
+      <File>Maps/Utility/AssignStartingPlots.lua</File>
+			<File>Maps/Utility/CoastalLowlands.lua</File>
+			<File>Maps/Utility/FeatureGenerator.lua</File>
+			<File>Maps/Utility/MapEnums.lua</File>
+			<File>Maps/Utility/NaturalWonderGenerator.lua</File>
+			<File>Maps/Utility/ResourceGenerator.lua</File>
+			<File>Maps/Utility/RiversLakes.lua</File>
+			<File>Maps/Utility/TerrainGenerator.lua</File>
+			<File>UI/Additions/CityPanelPower.xml</File>
+			<File>UI/Additions/CityPanelPower.lua</File>
+			<File>UI/Additions/ClimateScreen.xml</File>
+			<File>UI/Additions/ClimateScreen.lua</File>
+			<File>UI/Additions/CongressButton.xml</File>
+			<File>UI/Additions/CongressButton.lua</File>
+			<File>UI/Additions/DiplomacyActionView_WorldCongressTab.xml</File>
+			<File>UI/Additions/DiplomacyActionView_WorldCongressTab.lua</File>
+			<File>UI/Additions/MapLabelManager.xml</File>
+			<File>UI/Additions/MapLabelManager.lua</File>
+			<File>UI/Additions/NaturalDisasterPopup.xml</File>
+			<File>UI/Additions/NaturalDisasterPopup.lua</File>
+			<File>UI/Additions/RockBandMoviePopup.xml</File>
+			<File>UI/Additions/RockBandMoviePopup.lua</File>
+			<File>UI/Additions/RockBandPopup.xml</File>
+			<File>UI/Additions/RockBandPopup.lua</File>
+			<File>UI/Additions/SettlerWarningIconManager.xml</File>
+			<File>UI/Additions/SettlerWarningIconManager.lua</File>
+			<File>UI/Additions/PowerLensManager.xml</File>
+			<File>UI/Additions/PowerLensManager.lua</File>
+			<File>UI/Additions/WorldCongressBetweenTurns.xml</File>
+			<File>UI/Additions/WorldCongressBetweenTurns.lua</File>
+			<File>UI/Additions/WorldCongressIntro.xml</File>
+			<File>UI/Additions/WorldCongressIntro.lua</File>
+			<File>UI/Additions/WorldCongressPopup.xml</File>
+			<File>UI/Additions/WorldCongressPopup.lua</File>
+			<File>UI/Additions/WorldCrisisInstances.xml</File>
+			<File>UI/Additions/WorldCrisisInstances_WorldCongress.xml</File>
+			<File>UI/Additions/WorldCrisisSupport.lua</File>
+			<File>UI/CityBanners/CityBannerManager.lua</File>
+			<File>UI/CityBanners/CityBannerManager.xml</File>
+			<File>UI/CityBanners/CityBannerInstances.xml</File>
+			<File>UI/CityBanners/CityLoyaltyInstances.xml</File>
+			<File>UI/CityBanners/CityReligionInstances.xml</File>
+			<File>UI/Civilopedia/CivilopediaPage_Civic.lua</File>
+			<File>UI/Civilopedia/CivilopediaPage_Feature.lua</File>
+			<File>UI/Civilopedia/CivilopediaPage_Technology.lua</File>
+			<File>UI/Civilopedia/CivilopediaPage_Route.lua</File>
+			<File>UI/Loaders/TechAndCivicUnlockables_Expansion2.lua</File>
+			<File>UI/Loaders/ToolTipLoader_Expansion2.lua</File>
+			<File>UI/Replacements/ActionPanel.xml</File>
+			<File>UI/Replacements/ActionPanel_Expansion2.lua</File>
+			<File>UI/Replacements/ARXManager_Expansion2.lua</File>
+			<File>UI/Replacements/CityPanelOverview_Expansion2.lua</File>
+			<File>UI/Replacements/CityStates_Expansion2.lua</File>
+			<File>UI/Replacements/CivicsTree_Expansion2.lua</File>
+			<File>UI/Replacements/DeclareWarPopup_Expansion2.lua</File>
+			<File>UI/Replacements/DiplomacyActionView_Expansion2.lua</File>
+			<File>UI/Replacements/DiplomacyDealView_Expansion2.lua</File>
+			<File>UI/Replacements/EndGameMenu_Expansion2.lua</File>
+			<File>UI/Replacements/FullscreenMapPopup_Expansion2.lua</File>
+			<File>UI/Replacements/GovernmentScreen_Expansion2.lua</File>
+      <File>UI/Replacements/GreatPeoplePopup_Expansion2.lua</File>
+			<File>UI/Replacements/GreatWorksOverview_Expansion2.lua</File>
+			<File>UI/Replacements/LaunchBar_Expansion2.lua</File>
+			<File>UI/Replacements/MapSearchPanel_Expansion2.lua</File>
+			<File>UI/Replacements/ModalLensPanel_Expansion2.lua</File>
+			<File>UI/Replacements/MinimapPanel_Expansion2.lua</File>
+			<File>UI/Replacements/NotificationPanel_Expansion2.lua</File>
+			<File>UI/Replacements/PartialScreenHooks_Expansion2.lua</File>
+			<File>UI/Replacements/PlotToolTip_Expansion2.lua</File>
+			<File>UI/Replacements/RazeCity_Expansion2.lua</File>
+			<File>UI/Replacements/TechTree_Expansion2.lua</File>
+			<File>UI/Replacements/TopPanel_Expansion2.lua</File>
+			<File>UI/Replacements/UnitPanel_Expansion2.lua</File>
+			<File>UI/Replacements/WorldInput_Expansion2.lua</File>
+			<File>UI/Replacements/WorldRankings_Expansion2.lua</File>
+			<File>Platforms/Windows/Movies/XP2Victory_Diplomatic.bk2</File>
+			<File>Platforms/Windows/Movies/XP2Victory_BlackDeath.bk2</File>
+			<File>Platforms/Windows/Movies/XP2Victory_WarMachine.bk2</File>
+		</ImportFiles>
+	</InGameActions>
+	<FrontEndActions>
+		<UpdateArt id="Expansion2SettingsArt">
+			<File>Expansion2.dep</File>
+		</UpdateArt>
+		<UpdateText id="Expansion2SettingsText">
+			<File Priority="1">Text/en_US/Expansion2_ConfigText.xml</File>
+			<File Priority="1">Text/en_US/Expansion1_HallofFame_Text.xml</File>
+			<File Priority="1">Text/en_US/Expansion2_HallofFame_Text.xml</File>
+			<File>Text/Expansion2_Translations_ConfigText.xml</File>
+			<File>Text/Expansion2_Translations_ConfigText_China.xml</File>
+		</UpdateText>
+		<UpdateDatabase id="Expansion2Settings">
+			<File>Config/Expansion2_Config.xml</File>
+			<File>Config/Expansion2_Players.xml</File>
+			<File>Config/Expansion2_EarthMaps.xml</File>
+			<File>Config/Expansion2_StandardMaps.xml</File>
+		</UpdateDatabase>
+		<UpdateColors id="Expansion2PlayerColors">
+			<File>Data/Expansion2_PlayerColors.xml</File>
+		</UpdateColors>
+		<UpdateIcons id="Expansion2FrontEndIcons">
+			<File>Data/Expansion1_Icons_FontIcons.xml</File>
+			<File>Data/Expansion2_Icons_Beliefs.xml</File>
+			<File>Data/Expansion2_Icons_Buildings.xml</File>
+			<File>Data/Expansion2_Icons_CityStates.xml</File>
+			<File>Data/Expansion2_Icons_Civilizations.xml</File>
+			<File>Data/Expansion2_Icons_DistrictBuildings.xml</File>
+			<File>Data/Expansion2_Icons_Districts.xml</File>
+			<File>Data/Expansion2_Icons_EnvironmentalEffects.xml</File>
+			<File>Data/Expansion2_Icons_Features.xml</File>
+			<File>Data/Expansion2_Icons_FontIcons.xml</File>
+			<File>Data/Expansion2_Icons_Leaders.xml</File>
+			<File>Data/Expansion2_Icons_Stats.xml</File>
+			<File>Data/Expansion2_Icons_Victories.xml</File>
+			<File>Data/Expansion2_Icons_UnitActions.xml</File>
+			<File>Data/Expansion2_Icons_Units.xml</File>
+			<File>Data/Expansion2_Icons_UnitPortraits.xml</File>
+			<File>Data/Expansion2_Icons_Yields.xml</File>
+		</UpdateIcons>
+		<ImportFiles>
+			<File>Platforms/Windows/Movies/Expansion2FrontEndBackground.bk2</File>
+		</ImportFiles>
+	</FrontEndActions>
+	<Files>
+		<File>Expansion2.dep</File>
+
+		<File>Config/Expansion2_Config.xml</File>
+		<File>Config/Expansion2_Players.xml</File>
+		<File>Config/Expansion2_EarthMaps.xml</File>
+		<File>Config/Expansion2_StandardMaps.xml</File>
+
+		<File>Binaries/Win64/GameCore_XP2_Debug.dll</File>
+		<File>Binaries/Win64/GameCore_XP2_FinalRelease.dll</File>
+		<File>Binaries/Win64/GameCore_XP2_Release.dll</File>
+
+		<!-- XP1 DATA -->
+		<File>Data/Expansion1_Agendas.xml</File>
+		<File>Data/Expansion1_Alliances.xml</File>
+		<File>Data/Expansion1_Buildings.xml</File>
+		<File>Data/Expansion1_Beliefs.xml</File>
+		<File>Data/Expansion1_Civics.xml</File>
+		<File>Data/Expansion1_Civilizations.xml</File>
+		<File>Data/Expansion1_Civilopedia.xml</File>
+		<File>Data/Expansion1_DiplomacyStatements_DeclareWar.xml</File>
+		<File>Data/Expansion1_DiplomacyStatements_Greeting.xml</File>
+		<File>Data/Expansion1_DiplomacyStatements_RenewAlliance.xml</File>
+		<File>Data/Expansion1_DiplomaticActions.xml</File>
+		<File>Data/Expansion1_Districts.xml</File>
+		<File>Data/Expansion1_Emergencies.xml</File>
+		<File>Data/Expansion1_Eras.xml</File>
+		<File>Data/Expansion1_Features.xml</File>
+		<File>Data/Expansion1_GlobalParameters.xml</File>
+		<File>Data/Expansion1_Gossip.xml</File>
+		<File>Data/Expansion1_Governments.xml</File>
+		<File>Data/Expansion1_Governors.xml</File>
+		<File>Data/Expansion1_Leaders.xml</File>
+		<File>Data/Expansion1_LoyaltyLevels.xml</File>
+		<File>Data/Expansion1_Happinesses.xml</File>
+		<File>Data/Expansion1_GreatPeople_Admirals.xml</File>
+		<File>Data/Expansion1_GreatPeople_Engineers.xml</File>
+		<File>Data/Expansion1_GreatPeople_Generals.xml</File>
+		<File>Data/Expansion1_GreatPeople_Merchants.xml</File>
+		<File>Data/Expansion1_Improvements.xml</File>
+		<File>Data/Expansion1_Modifiers.xml</File>
+		<File>Data/Expansion1_Moments.xml</File>
+		<File>Data/Expansion1_Notifications.xml</File>
+		<File>Data/Expansion1_Policies.xml</File>
+		<File>Data/Expansion1_Projects.xml</File>
+		<File>Data/Expansion1_Technologies.xml</File>
+		<File>Data/Expansion1_Resources.xml</File>
+		<File>Data/Expansion1_Scoring.xml</File>
+		<File>Data/Expansion1_UnitAbilities.xml</File>
+		<File>Data/Expansion1_UnitCommands.xml</File>
+		<File>Data/Expansion1_UnitOperations.xml</File>
+		<File>Data/Expansion1_UnitPromotions.xml</File>
+		<File>Data/Expansion1_Units.xml</File>
+		<File>Data/Expansion1_Victories.xml</File>
+		<File>Data/Expansion1_Wars.xml</File>
+		<File>Data/Expansion1_Yields.xml</File>
+
+		<!-- XP2 DATA -->
+		<File>Data/Expansion2_Agendas.xml</File>
+		<File>Data/Expansion2_Agendas_Major.xml</File>
+		<File>Data/Expansion2_AI.xml</File>
+		<File>Data/Expansion2_Beliefs.xml</File>
+		<File>Data/Expansion2_Buildings.xml</File>
+		<File>Data/Expansion2_Buildings_Major.xml</File>
+		<File>Data/Expansion2_Civics.xml</File>
+		<File>Data/Expansion2_Civilizations.xml</File>
+		<File>Data/Expansion2_Civilizations_Major.xml</File>
+		<File>Data/Expansion2_Civilopedia.xml</File>
+		<File>Data/Expansion2_Core_Colors.xml</File>
+		<File>Data/Expansion2_Congress.xml</File>
+		<File>Data/Expansion2_DiplomaticActions.xml</File>
+		<File>Data/Expansion2_Districts.xml</File>
+		<File>Data/Expansion2_Districts_Major.xml</File>
+		<File>Data/Expansion2_Emergencies.xml</File>
+		<File>Data/Expansion2_Eras.xml</File>
+		<File>Data/Expansion2_Features.xml</File>
+		<File>Data/Expansion2_GameCapabilities.xml</File>
+		<File>Data/Expansion2_GlobalParameters.xml</File>
+		<File>Data/Expansion2_GoodyHuts.xml</File>
+		<File>Data/Expansion2_Gossip.xml</File>
+		<File>Data/Expansion2_Governments.xml</File>
+		<File>Data/Expansion2_Governors.xml</File>
+		<File>Data/Expansion2_GreatPeople_Admirals.xml</File>
+		<File>Data/Expansion2_GreatPeople_Generals.xml</File>
+		<File>Data/Expansion2_GreatPeople_Merchants.xml</File>
+		<File>Data/Expansion2_GreatWorks.xml</File>
+		<File>Data/Expansion2_Improvements.xml</File>
+		<File>Data/Expansion2_Improvements_Major.xml</File>
+		<File>Data/Expansion2_Leaders.xml</File>
+		<File>Data/Expansion2_Leaders_Major.xml</File>
+		<File>Data/Expansion2_Maps.xml</File>
+		<File>Data/Expansion2_Modifiers.xml</File>
+		<File>Data/Expansion2_Moments.xml</File>
+		<File>Data/Expansion2_NamedPlaces.xml</File>
+		<File>Data/Expansion2_Notifications.xml</File>
+		<File>Data/Expansion2_PlayerColors.xml</File>
+		<File>Data/Expansion2_Policies.xml</File>
+		<File>Data/Expansion2_Projects.xml</File>
+		<File>Data/Expansion2_RandomEvents.xml</File>
+		<File>Data/Expansion2_RemoveData.xml</File>
+		<File>Data/Expansion2_Resources.xml</File>
+		<File>Data/Expansion2_Routes.xml</File>
+		<File>Data/Expansion2_Schema.sql</File>
+		<File>Data/Expansion2_Technologies.xml</File>
+		<File>Data/Expansion2_TurnPhases.xml</File>
+		<File>Data/Expansion2_UnitAbilities.xml</File>
+		<File>Data/Expansion2_UnitAbilities_Major.xml</File>
+		<File>Data/Expansion2_UnitNames.xml</File>
+		<File>Data/Expansion2_UnitOperations.xml</File>
+		<File>Data/Expansion2_UnitPromotions.xml</File>
+		<File>Data/Expansion2_UnitPromotions_Major.xml</File>
+		<File>Data/Expansion2_Units.xml</File>
+		<File>Data/Expansion2_Units_Major.xml</File>
+		<File>Data/Expansion2_Victories.xml</File>
+		<File>Data/Expansion2_UnitCommands.xml</File>
+
+		<File>Platforms/Windows/Audio/XP2Banks.ini</File>
+		<File>Platforms/Windows/Audio/XP2_Music_Bank.bnk</File>
+		<File>Platforms/Windows/Audio/XP2_Music_Bank.txt</File>
+		<File>Platforms/Windows/Audio/XP2_Music_Bank.xml</File>
+		<File>Platforms/Windows/Audio/XP2_Speech.bnk</File>
+		<File>Platforms/Windows/Audio/XP2_Speech.txt</File>
+		<File>Platforms/Windows/Audio/XP2_Speech.xml</File>
+		<File>Platforms/Windows/Audio/XP_Common_Ambiences.bnk</File>
+		<File>Platforms/Windows/Audio/XP_Common_Ambiences.txt</File>
+		<File>Platforms/Windows/Audio/XP_Common_Ambiences.xml</File>
+		<File>Platforms/Windows/Audio/XP_Common_UI_Bank.bnk</File>
+		<File>Platforms/Windows/Audio/XP_Common_UI_Bank.txt</File>
+		<File>Platforms/Windows/Audio/XP_Common_UI_Bank.xml</File>
+		<File>Platforms/Windows/Audio/XP_Common_Unit_Bank_3D.bnk</File>
+		<File>Platforms/Windows/Audio/XP_Common_Unit_Bank_3D.txt</File>
+		<File>Platforms/Windows/Audio/XP_Common_Unit_Bank_3D.xml</File>
+
+		<!-- XP2 Maps-->
+		<File>Maps/EarthMaps/EarthStandard_XP2.Civ6Map</File>
+		<File>Maps/EarthMaps/EarthStandard_XP2.lua</File>
+		<File>Maps/EarthMaps/TSLEarthStandard_XP2.Civ6Map</File>
+		<File>Maps/EarthMaps/TSLEarthStandard_XP2.lua</File>
+		<File>Maps/Continents.lua</File>
+		<File>Maps/Continents_Islands.lua</File>
+		<File>Maps/Fractal.lua</File>
+		<File>Maps/InlandSea.lua</File>
+		<File>Maps/Island_Plates.lua</File>
+		<File>Maps/Lakes.lua</File>
+		<File>Maps/Pangaea.lua</File>
+		<File>Maps/Primordial.lua</File>
+		<File>Maps/Seven_Seas.lua</File>
+		<File>Maps/Shuffle.lua</File>
+		<File>Maps/Small_Continents.lua</File>
+		<File>Maps/Splintered_Fractal.lua</File>
+		<File>Maps/Terra.lua</File>
+		<File>Maps/Tilted_Axis.lua</File>
+    <File>Maps/BalanceMaps/Mirror.lua</File>
+		<File>Maps/Utility/AssignStartingPlots.lua</File>
+		<File>Maps/Utility/CoastalLowlands.lua</File>
+		<File>Maps/Utility/FeatureGenerator.lua</File>
+		<File>Maps/Utility/MapEnums.lua</File>
+		<File>Maps/Utility/NaturalWonderGenerator.lua</File>
+		<File>Maps/Utility/RiversLakes.lua</File>
+		<File>Maps/Utility/ResourceGenerator.lua</File>
+		<File>Maps/Utility/TerrainGenerator.lua</File>
+
+		<File>Scripts/WorldCongress.lua</File>
+
+		<!-- XP1 TEXT -->
+		<File>Text/en_US/Expansion1_AdvisorText.xml</File>
+		<File>Text/en_US/Expansion1_Agendas_Text.xml</File>
+		<File>Text/en_US/Expansion1_Buildings_Text.xml</File>
+		<File>Text/en_US/Expansion1_Civilopedia_Text.xml</File>
+		<File>Text/en_US/Expansion1_CityBanner_Text.xml</File>
+		<File>Text/en_US/Expansion1_CityNames_Text.xml</File>
+		<File>Text/en_US/Expansion1_Diplomacy_Text.xml</File>
+		<File>Text/en_US/Expansion1_DiplomacyDeals_Text.xml</File>
+		<File>Text/en_US/Expansion1_DiplomacyModifiers_Text.xml</File>
+		<File>Text/en_US/Expansion1_DiplomacyStatements_Text.xml</File>
+		<File>Text/en_US/Expansion1_CityNames_Text.xml</File>
+		<File>Text/en_US/Expansion1_Civics_Text.xml</File>
+		<File>Text/en_US/Expansion1_Districts_Text.xml</File>
+		<File>Text/en_US/Expansion1_Eras_Text.xml</File>
+		<File>Text/en_US/Expansion1_Gossip_Text.xml</File>
+		<File>Text/en_US/Expansion1_GreatPeople_Text.xml</File>
+		<File>Text/en_US/Expansion1_HallofFame_Text.xml</File>
+		<File>Text/en_US/Expansion1_InGameText.xml</File>
+		<File>Text/en_US/Expansion1_Leaders_Text.xml</File>
+		<File>Text/en_US/Expansion1_Modifiers_Text.xml</File>
+		<File>Text/en_US/Expansion1_Moments_Text.xml</File>
+		<File>Text/en_US/Expansion1_Notifications_Text.xml</File>
+		<File>Text/en_US/Expansion1_Religion_Text.xml</File>
+		<File>Text/en_US/Expansion1_Technologies_Text.xml</File>
+		<File>Text/en_US/Expansion1_Units_Text.xml</File>
+		<File>Text/en_US/Expansion1_Wars_Text.xml</File>
+
+		<!-- XP2 TEXT -->
+		<File>Text/Expansion2_RemoveText.xml</File>
+		<File>Text/Expansion2_Translations_Major_Text.xml</File>
+		<File>Text/Expansion2_Translations_Major_Text_China.xml</File>
+		<File>Text/Expansion2_Translations_Text.xml</File>
+		<File>Text/Expansion2_Translations_Text_China.xml</File>
+		<File>Text/Expansion2_Translations_ConfigText.xml</File>
+		<File>Text/Expansion2_Translations_ConfigText_China.xml</File>
+		<File>Text/en_US/Expansion2_Buildings_Text.xml</File>
+		<File>Text/en_US/Expansion2_CitizenNames_Text.xml</File>
+		<File>Text/en_US/Expansion2_Civics_Text.xml</File>
+		<File>Text/en_US/Expansion2_Civilopedia_Text.xml</File>
+		<File>Text/en_US/Expansion2_CityNames_Text.xml</File>
+		<File>Text/en_US/Expansion2_ConfigText.xml</File>
+		<File>Text/en_US/Expansion2_CongressText.xml</File>
+		<File>Text/en_US/Expansion2_DiplomacyDeals_Text.xml</File>
+		<File>Text/en_US/Expansion2_DiplomacyModifiers_Text.xml</File>
+		<File>Text/en_US/Expansion2_DiplomacyStatements_DeclareWar_Text.xml</File>
+		<File>Text/en_US/Expansion2_DiplomacyStatements_Denounce_Text.xml</File>
+		<File>Text/en_US/Expansion2_DiplomacyStatements_FirstMeet_Text.xml</File>
+		<File>Text/en_US/Expansion2_DiplomacyStatements_KudosAndWarnings_Text.xml</File>
+		<File>Text/en_US/Expansion2_DiplomacyStatements_Misc.xml</File>
+		<File>Text/en_US/Expansion2_Districts_Text.xml</File>
+		<File>Text/en_US/Expansion2_FeaturesAndTerrains_Text.xml</File>
+		<File>Text/en_US/Expansion2_Gossip_Text.xml</File>
+		<File>Text/en_US/Expansion2_GreatPeople_Text.xml</File>
+		<File>Text/en_US/Expansion2_HallofFame_Text.xml</File>
+		<File>Text/en_US/Expansion2_Improvements_Text.xml</File>
+		<File>Text/en_US/Expansion2_InGameText.xml</File>
+		<File>Text/en_US/Expansion2_Leaders_Text.xml</File>
+		<File>Text/en_US/Expansion2_LoadingInfo_Text.xml</File>
+		<File>Text/en_US/Expansion2_Moments_Text.xml</File>
+		<File>Text/en_US/Expansion2_NamedPlaces_Text.xml</File>
+		<File>Text/en_US/Expansion2_Notifications_Text.xml</File>
+		<File>Text/en_US/Expansion2_Promotions_Text.xml</File>
+		<File>Text/en_US/Expansion2_Quotes_Text.xml</File>
+		<File>Text/en_US/Expansion2_RandomEvents_Text.xml</File>
+		<File>Text/en_US/Expansion2_Religion_Text.xml</File>
+		<File>Text/en_US/Expansion2_Routes_Text.xml</File>
+		<File>Text/en_US/Expansion2_Technologies_Text.xml</File>
+		<File>Text/en_US/Expansion2_Units_Text.xml</File>
+		<File>Text/en_US/Expansion2_UnitNames_Text.xml</File>
+		<File>Text/en_US/Expansion2_Unit_Abilities_Text.xml</File>
+		<File>Text/en_US/Expansion2_AdvisorText.xml</File>
+
+		<!-- XP2 ARX -->
+		<File>Data/ARX/Civ_LEADER_ELEANOR_ENGLAND.png</File>
+		<File>Data/ARX/Civ_LEADER_ELEANOR_FRANCE.png</File>
+		<File>Data/ARX/Civ_LEADER_DIDO.png</File>
+		<File>Data/ARX/Civ_LEADER_KRISTINA.png</File>
+		<File>Data/ARX/Civ_LEADER_KUPE.png</File>
+		<File>Data/ARX/Civ_LEADER_LAURIER.png</File>
+		<File>Data/ARX/Civ_LEADER_MANSA_MUSA.png</File>
+		<File>Data/ARX/Civ_LEADER_MATTHIAS_CORVINUS.png</File>
+		<File>Data/ARX/Civ_LEADER_PACHACUTI.png</File>
+		<File>Data/ARX/Civ_LEADER_SULEIMAN.png</File>
+
+		<!-- XP1 ICONS -->
+		<File>Data/Expansion1_Icons_Buildings.xml</File>
+		<File>Data/Expansion1_Icons_CityBanner.xml</File>
+		<File>Data/Expansion1_Icons_CityStates.xml</File>
+		<File>Data/Expansion1_Icons_Civilopedia.xml</File>
+		<File>Data/Expansion1_Icons_Diplomacy.xml</File>
+		<File>Data/Expansion1_Icons_Districts.xml</File>
+		<File>Data/Expansion1_Icons_District_Buildings.xml</File>
+		<File>Data/Expansion1_Icons_Emergencies.xml</File>
+		<File>Data/Expansion1_Icons_Features.xml</File>
+		<File>Data/Expansion1_Icons_FontIcons.xml</File>
+		<File>Data/Expansion1_Icons_FreeCities.xml</File>
+		<File>Data/Expansion1_Icons_Governors.xml</File>
+		<File>Data/Expansion1_Icons_GovernorPromotions.xml</File>
+		<File>Data/Expansion1_Icons_HistoricMoments.xml</File>
+		<File>Data/Expansion1_Icons_Improvements.xml</File>
+		<File>Data/Expansion1_Icons_Notifications.xml</File>
+		<File>Data/Expansion1_Icons_Operations.xml</File>
+		<File>Data/Expansion1_Icons_Policies.xml</File>
+		<File>Data/Expansion1_Icons_Resources.xml</File>
+		<File>Data/Expansion1_Icons_Stats.xml</File>
+		<File>Data/Expansion1_Icons_UnitPortraits.xml</File>
+		<File>Data/Expansion1_Icons_Units.xml</File>
+		<File>Data/Expansion1_Icons_Projects.xml</File>
+
+		<!-- XP2 ICONS -->
+		<File>Data/Expansion2_Icons_Beliefs.xml</File>
+		<File>Data/Expansion2_Icons_Buildings.xml</File>
+		<File>Data/Expansion2_Icons_CityStates.xml</File>
+		<File>Data/Expansion2_Icons_Civics.xml</File>
+		<File>Data/Expansion2_Icons_Civilizations.xml</File>
+		<File>Data/Expansion2_Icons_DistrictBuildings.xml</File>
+		<File>Data/Expansion2_Icons_Districts.xml</File>
+		<File>Data/Expansion2_Icons_EnvironmentalEffects.xml</File>
+		<File>Data/Expansion2_Icons_Features.xml</File>
+		<File>Data/Expansion2_Icons_FontIcons.xml</File>
+		<File>Data/Expansion2_Icons_Governors.xml</File>
+		<File>Data/Expansion2_Icons_GovernorPromotions.xml</File>
+		<File>Data/Expansion2_Icons_Governments.xml</File>
+		<File>Data/Expansion2_Icons_Leaders.xml</File>
+		<File>Data/Expansion2_Icons_Notifications.xml</File>
+		<File>Data/Expansion2_Icons_Operations.xml</File>
+		<File>Data/Expansion2_Icons_Policies.xml</File>
+		<File>Data/Expansion2_Icons_Projects.xml</File>
+		<File>Data/Expansion2_Icons_Proposals.xml</File>
+		<File>Data/Expansion2_Icons_Stats.xml</File>
+		<File>Data/Expansion2_Icons_Tech.xml</File>
+		<File>Data/Expansion2_Icons_UnitActions.xml</File>
+		<File>Data/Expansion2_Icons_UnitPortraits.xml</File>
+		<File>Data/Expansion2_Icons_Units.xml</File>
+		<File>Data/Expansion2_Icons_Victories.xml</File>
+		<File>Data/Expansion2_Icons_Yields.xml</File>
+		<File>Data/Expansion2_Icons_Wonders.xml</File>
+
+		<!-- XP1 UI -->
+		<File>Platforms/Windows/Movies/Brush.bk2</File>
+
+		<File>UI/Additions/SettlerInfluenceIconManager.xml</File>
+		<File>UI/Additions/SettlerInfluenceIconManager.lua</File>
+		<File>UI/Additions/CityPanelCulture.lua</File>
+		<File>UI/Additions/CityPanelCulture.xml</File>
+		<File>UI/Additions/LoyaltySupport.lua</File>
+		<File>UI/Additions/DisloyalCityChooser.lua</File>
+		<File>UI/Additions/DisloyalCityChooser.xml</File>
+		<File>UI/Additions/EraCompletePopup.lua</File>
+		<File>UI/Additions/EraCompletePopup.xml</File>
+		<File>UI/Additions/EraReviewPopup.lua</File>
+		<File>UI/Additions/EraReviewPopup.xml</File>
+		<File>UI/Additions/EraProgressPanel.lua</File>
+		<File>UI/Additions/EraProgressPanel.xml</File>
+		<File>UI/Additions/EraSupport.lua</File>
+		<File>UI/Additions/DiplomacyActionView_AllianceRow.lua</File>
+		<File>UI/Additions/DiplomacyActionView_AllianceRow.xml</File>
+		<File>UI/Additions/DiplomacyActionView_EmergencyRow.lua</File>
+		<File>UI/Additions/DiplomacyActionView_EmergencyRow.xml</File>
+		<File>UI/Additions/DiplomacyActionView_AllianceTab.lua</File>
+		<File>UI/Additions/DiplomacyActionView_AllianceTab.xml</File>
+		<File>UI/Replacements/ReportScreen.xml</File>
+		<File>UI/Replacements/CityStates.xml</File>
+		<File>UI/Additions/DiplomacyActionView_EmergencyTab.lua</File>
+		<File>UI/Additions/DiplomacyActionView_EmergencyTab.xml</File>
+		<File>UI/Replacements/DiplomacyActionView.xml</File>
+		<File>UI/Replacements/DiplomacyDealView.lua</File>
+		<File>UI/Replacements/TopPanel.lua</File>
+		<File>UI/Additions/GovernorAssignmentChooser.lua</File>
+		<File>UI/Additions/GovernorAssignmentChooser.xml</File>
+		<File>UI/Additions/GovernorDetailsPanel.lua</File>
+		<File>UI/Additions/GovernorDetailsPanel.xml</File>
+		<File>UI/Additions/GovernorPanel.lua</File>
+		<File>UI/Additions/GovernorPanel.xml</File>
+		<File>UI/Additions/GovernorSupport.lua</File>
+		<File>UI/Additions/DedicationPopup.lua</File>
+		<File>UI/Additions/DedicationPopup.xml</File>
+		<File>UI/Additions/HistoricMoments.lua</File>
+		<File>UI/Additions/HistoricMoments.xml</File>
+		<File>UI/Additions/WorldCrisisPopup.lua</File>
+		<File>UI/Additions/WorldCrisisPopup.xml</File>
+		<File>UI/Additions/WorldCrisisTracker.xml</File>
+		<File>UI/Additions/WorldCrisisTracker.lua</File>
+		<File>UI/Additions/ExpansionIntro.xml</File>
+		<File>UI/Additions/ExpansionIntro.lua</File>
+		<File>UI/Additions/AllianceResearchSupport.lua</File>
+		<File>UI/Civilopedia/CivilopediaPage_Building.lua</File>
+		<File>UI/Civilopedia/CivilopediaPage_Government.lua</File>
+		<File>UI/Civilopedia/CivilopediaPage_Governor.lua</File>
+		<File>UI/Civilopedia/CivilopediaPage_GovernorPromotion.lua</File>
+		<File>UI/Civilopedia/CivilopediaPage_HistoricMoment.lua</File>
+		<File>UI/Civilopedia/CivilopediaPage_Policy.lua</File>
+		<File>UI/Civilopedia/CivilopediaPage_Resource.lua</File>
+		<File>UI/Civilopedia/CivilopediaPage_Unit.lua</File>
+		<File>UI/Loaders/CivicsTreeIconLoader_GovernorSlot.lua</File>
+		<File>UI/Loaders/CivicsTreeIconLoader_Favor.lua</File>
+		<File>UI/Loaders/TutorialLoader_Expansion1.lua</File>
+		<File>UI/Replacements/ActionPanel_Expansion1.lua</File>
+		<File>UI/Replacements/ReportScreen_Expansion1.lua</File>
+		<File>UI/Replacements/ReportScreen_Expansion2.lua</File>
+		<File>UI/Replacements/CityStates_Expansion1.lua</File>
+		<File>UI/Replacements/CityPanelOverview_Expansion1.lua</File>
+		<File>UI/Replacements/CityPanel_Expansion1.lua</File>
+		<File>UI/Replacements/CityPanel_Expansion2.lua</File>
+		<File>UI/Replacements/CitySupport.lua</File>
+		<File>UI/Replacements/DeclareWarPopup_Expansion1.lua</File>
+		<File>UI/Replacements/DiplomacyActionView_Expansion1.lua</File>
+		<File>UI/Replacements/DiplomacyRibbon.xml</File>
+		<File>UI/Replacements/DiplomacyRibbon_Expansion1.lua</File>
+		<File>UI/Replacements/EndGameMenu.xml</File>
+		<File>UI/Replacements/EndGameMenu_Expansion1.lua</File>
+		<File>UI/Replacements/EndGameReplayLogic.lua</File>
+		<File>UI/Replacements/EspionageChooser_Expansion1.lua</File>
+		<File>UI/Replacements/EspionageOverview_Expansion1.lua</File>
+		<File>UI/Replacements/Expansion1_InGameTopOptionsMenu.lua</File>
+		<File>UI/Replacements/GovernmentScreen_Expansion1.lua</File>
+		<File>UI/Replacements/GreatPeoplePopup_Expansion1.lua</File>
+		<File>UI/Replacements/InGameTopOptionsMenu.xml</File>
+		<File>UI/Replacements/LaunchBar_Expansion1.lua</File>
+		<File>UI/Replacements/MinimapPanel_Expansion1.lua</File>
+		<File>UI/Replacements/ModalLensPanel_Expansion1.lua</File>
+		<File>UI/Replacements/NewTurnPanel_Expansion1.lua</File>
+		<File>UI/Replacements/NotificationPanel_Expansion1.lua</File>
+		<File>UI/Replacements/PartialScreenHooks_Expansion1.lua</File>
+		<File>UI/Replacements/ResearchChooser.xml</File>
+		<File>UI/Replacements/ResearchChooser_Expansion1.lua</File>
+		<File>UI/Replacements/TechTreeNode.xml</File>
+		<File>UI/Replacements/TechTree_Expansion1.lua</File>
+		<File>UI/Replacements/TopPanel_Expansion1.lua</File>
+		<File>UI/Replacements/TutorialUIRoot_Expansion1.lua</File>
+		<File>UI/Replacements/UnitPanel_Expansion1.lua</File>
+		<File>UI/Replacements/WorldInput_Expansion1.lua</File>
+		<File>UI/Replacements/WorldTracker_Expansion1.lua</File>
+		<File>UI/Replacements/WorldTrackerResearch.xml</File>
+
+		<!-- XP2 UI -->
+		<File>UI/Replacements/InGame.xml</File>
+		<File>UI/Replacements/InGame.lua</File>
+		<File>UI/Additions/CityPanelPower.lua</File>
+		<File>UI/Additions/CityPanelPower.xml</File>
+		<File>UI/Additions/ClimateScreen.xml</File>
+		<File>UI/Additions/ClimateScreen.lua</File>
+		<File>UI/Additions/CongressButton.xml</File>
+		<File>UI/Additions/CongressButton.lua</File>
+		<File>UI/Additions/DiplomacyActionView_WorldCongressTab.xml</File>
+		<File>UI/Additions/DiplomacyActionView_WorldCongressTab.lua</File>
+		<File>UI/Additions/MapLabelManager.xml</File>
+		<File>UI/Additions/MapLabelManager.lua</File>
+		<File>UI/Additions/NaturalDisasterPopup.xml</File>
+		<File>UI/Additions/NaturalDisasterPopup.lua</File>
+		<File>UI/Additions/RockBandMoviePopup.xml</File>
+		<File>UI/Additions/RockBandMoviePopup.lua</File>
+		<File>UI/Additions/RockBandPopup.xml</File>
+		<File>UI/Additions/RockBandPopup.lua</File>
+		<File>UI/Additions/SettlerWarningIconManager.xml</File>
+		<File>UI/Additions/SettlerWarningIconManager.lua</File>
+		<File>UI/Additions/PowerLensManager.xml</File>
+		<File>UI/Additions/PowerLensManager.lua</File>
+		<File>UI/Additions/WorldCongressBetweenTurns.xml</File>
+		<File>UI/Additions/WorldCongressBetweenTurns.lua</File>
+		<File>UI/Additions/WorldCongressIntro.xml</File>
+		<File>UI/Additions/WorldCongressIntro.lua</File>
+		<File>UI/Additions/WorldCongressPopup.xml</File>
+		<File>UI/Additions/WorldCongressPopup.lua</File>
+		<File>UI/Additions/WorldCrisisInstances.xml</File>
+		<File>UI/Additions/WorldCrisisInstances_WorldCongress.xml</File>
+		<File>UI/Additions/WorldCrisisSupport.lua</File>
+		<File>UI/CityBanners/CityBannerManager.lua</File>
+		<File>UI/CityBanners/CityBannerManager.xml</File>
+		<File>UI/CityBanners/CityBannerInstances.xml</File>
+		<File>UI/CityBanners/CityLoyaltyInstances.xml</File>
+		<File>UI/CityBanners/CityReligionInstances.xml</File>
+		<File>UI/Civilopedia/CivilopediaPage_Civic.lua</File>
+		<File>UI/Civilopedia/CivilopediaPage_Feature.lua</File>
+		<File>UI/Civilopedia/CivilopediaPage_Technology.lua</File>
+		<File>UI/Civilopedia/CivilopediaPage_Route.lua</File>
+		<File>UI/Loaders/PopupPriorityLoader_Expansion2.lua</File>
+		<File>UI/Loaders/TechAndCivicUnlockables_Expansion2.lua</File>
+		<File>UI/Loaders/ToolTipLoader_Expansion2.lua</File>
+		<File>UI/Loaders/TutorialLoader_Expansion2.lua</File>
+		<File>UI/Replacements/MinimapPanel.xml</File>
+		<File>UI/Replacements/WorldRankings.xml</File>
+		<File>UI/Replacements/ActionPanel.xml</File>
+		<File>UI/Replacements/ActionPanel_Expansion2.lua</File>
+		<File>UI/Replacements/ARXManager_Expansion2.lua</File>
+		<File>UI/Replacements/CityPanelOverview_Expansion2.lua</File>
+		<File>UI/Replacements/CityStates_Expansion2.lua</File>
+		<File>UI/Replacements/CivicsTree_Expansion2.lua</File>
+		<File>UI/Replacements/DeclareWarPopup_Expansion2.lua</File>
+		<File>UI/Replacements/DiplomacyActionView_Expansion2.lua</File>
+		<File>UI/Replacements/DiplomacyDealView_Expansion2.lua</File>
+		<File>UI/Replacements/DiplomacyRibbon_Expansion2.lua</File>
+		<File>UI/Replacements/EndGameMenu_Expansion2.lua</File>
+		<File>UI/Replacements/FullscreenMapPopup_Expansion2.lua</File>
+		<File>UI/Replacements/GovernmentScreen_Expansion2.lua</File>
+    <File>UI/Replacements/GreatPeoplePopup_Expansion2.lua</File>
+		<File>UI/Replacements/GreatWorksOverview_Expansion2.lua</File>
+		<File>UI/Replacements/LaunchBar_Expansion2.lua</File>
+		<File>UI/Replacements/MapSearchPanel_Expansion2.lua</File>
+		<File>UI/Replacements/ModalLensPanel_Expansion2.lua</File>
+		<File>UI/Replacements/MinimapPanel_Expansion2.lua</File>
+		<File>UI/Replacements/NotificationPanel_Expansion2.lua</File>
+		<File>UI/Replacements/PartialScreenHooks_Expansion2.lua</File>
+		<File>UI/Replacements/PlotToolTip_Expansion2.lua</File>
+		<File>UI/Replacements/RazeCity_Expansion2.lua</File>
+		<File>UI/Replacements/SelectedUnit_Expansion2.lua</File>
+		<File>UI/Replacements/TechTree_Expansion2.lua</File>
+		<File>UI/Replacements/TopPanel_Expansion2.lua</File>
+		<File>UI/Replacements/UnitPanel_Expansion2.lua</File>
+		<File>UI/Replacements/WorldInput_Expansion2.lua</File>
+		<File>UI/Replacements/WorldRankings_Expansion2.lua</File>
+		<File>Platforms/Windows/Movies/Expansion2FrontEndBackground.bk2</File>
+		<File>Platforms/Windows/Movies/XP2Victory_Diplomatic.bk2</File>
+		<File>Platforms/Windows/Movies/XP2Victory_BlackDeath.bk2</File>
+		<File>Platforms/Windows/Movies/XP2Victory_WarMachine.bk2</File>
+	</Files>
+</Mod>

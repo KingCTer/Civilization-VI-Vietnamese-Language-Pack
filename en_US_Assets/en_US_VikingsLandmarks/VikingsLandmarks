@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Mod id="2F6E858A-28EF-46B3-BEAC-B985E52E9BC1" version="1">
+	<Properties>
+		<Name>LOC_MOD_VIKINGSLANDMARKS_TITLE</Name>
+		<Teaser>LOC_MOD_VIKINGSLANDMARKS_TEASER</Teaser>
+		<Description>LOC_MOD_VIKINGSLANDMARKS_DESCRIPTION</Description>
+		<Authors>LOC_MOD_AUTHORS_FIRAXIS</Authors>
+		<EnableByDefault>1</EnableByDefault>
+    <CompatibleVersions>2.0</CompatibleVersions>
+	</Properties>
+	<ReverseReferences>
+		<Mod id="1B28771A-C749-434B-9053-D1380C553DE9" title="LOC_EXPANSION1_MOD_TITLE"/>
+		<Mod id="4873eb62-8ccc-4574-b784-dda455e74e68" title="LOC_EXPANSION2_MOD_TITLE"/>
+	</ReverseReferences>
+	<ActionCriteria>
+		<Criteria id="VikingLandmarks_Standard">
+			<RuleSetInUse>RULESET_STANDARD,RULESET_EXPANSION_1,RULESET_SCENARIO_ANCIENT_RIVALS,RULESET_SCENARIO_COLDWAR,RULESET_SCENARIO_NAPOLEON,RULESET_SCENARIO_RELIGIOUS_COMBAT,RULESET_EXPANSION_2</RuleSetInUse>
+		</Criteria>
+		<Criteria id="VikingLandmarks_Scenario">
+			<RuleSetInUse>RULESET_SCENARIO_VIKINGS, RULESET_STANDARD,RULESET_EXPANSION_1,RULESET_SCENARIO_ANCIENT_RIVALS,RULESET_SCENARIO_COLDWAR,RULESET_SCENARIO_NAPOLEON,RULESET_SCENARIO_RELIGIOUS_COMBAT,RULESET_EXPANSION_2</RuleSetInUse>
+		</Criteria>
+		<Criteria id="VikingLandmarks_Expansion1">
+			<RuleSetInUse>RULESET_EXPANSION_1</RuleSetInUse>
+		</Criteria>
+		<Criteria id="VikingLandmarks_Expansion2">
+			<RuleSetInUse>RULESET_EXPANSION_2</RuleSetInUse>
+		</Criteria>
+	</ActionCriteria>
+	<InGameActions>
+		<UpdateAudio id="VIKINGSLANDMARKS_AUDIO" criteria="VikingLandmarks_Scenario">
+			<File>Platforms/Windows/Audio/DLC01Banks.ini</File>
+			<File>Platforms/Windows/Audio/DLC01_Resources_Features_3D.bnk</File>
+			<File>Platforms/Windows/Audio/DLC01_Resources_Features_3D.txt</File>
+			<File>Platforms/Windows/Audio/DLC01_Resources_Features_3D.xml</File>
+			<File>Platforms/Windows/Audio/DLC01_Unit_Bank_2D.bnk</File>
+			<File>Platforms/Windows/Audio/DLC01_Unit_Bank_2D.txt</File>
+			<File>Platforms/Windows/Audio/DLC01_Unit_Bank_2D.xml</File>
+			<File>Platforms/Windows/Audio/DLC01_Unit_Bank_3D.bnk</File>
+			<File>Platforms/Windows/Audio/DLC01_Unit_Bank_3D.txt</File>
+			<File>Platforms/Windows/Audio/DLC01_Unit_Bank_3D.xml</File>
+		</UpdateAudio>
+		<UpdateArt id="VIKINGSLANDMARKS_ART" criteria="VikingLandmarks_Scenario">
+			<File>VikingsLandmarks.dep</File>
+		</UpdateArt>
+		<UpdateColors id="VIKINGSLANDMARKS_COLORS" criteria="VikingLandmarks_Standard">
+			<File>Data/VikingsLandmarks_Colors.xml</File>
+		</UpdateColors>
+		<UpdateDatabase id="VIKINGSLANDMARKS_DATA" criteria="VikingLandmarks_Standard">
+			<File>Data/VikingsLandmarks_CityStates.xml</File>
+			<File>Data/VikingsLandmarks_Features.xml</File>
+			<File>Data/VikingsLandmarks_Abilities.xml</File>
+		</UpdateDatabase>
+		<UpdateDatabase id="VIKINGLANDMARKS_DATA_XP1" criteria="VikingLandmarks_Expansion1">
+			<File>Data/VikingsLandmarks_Expansion1.xml</File>
+		</UpdateDatabase>
+		<UpdateDatabase id="VIKINGLANDMARKS_DATA_XP2" criteria="VikingLandmarks_Expansion2">
+			<File>Data/VikingsLandmarks_Expansion2.xml</File>
+		</UpdateDatabase>
+		<UpdateIcons id="VIKINGSLANDMARKS_ICONS" criteria="VikingLandmarks_Scenario">
+			<File>Data/VikingsLandmarks_Icons_Civilizations.xml</File>
+			<File>Data/VikingsLandmarks_Icons_Features.xml</File>
+			<File>Data/VikingsLandmarks_Icons_UnitActions.xml</File>
+		</UpdateIcons>
+		<UpdateText id="VIKINGSLANDMARKS_TEXT" criteria="VikingLandmarks_Scenario">
+			<File>Text/en_US/VikingsLandmarks_CivilopediaText.xml</File>
+			<File>Text/en_US/VikingsLandmarks_Text.xml</File>
+			<File>Text/VikingsLandmarks_Translations_Text.xml</File>
+			<File>Text/VikingsLandmarks_Translations_Text_China.xml</File>
+		</UpdateText>
+	</InGameActions>
+	<FrontEndActions>
+		<UpdateArt id="VIKINGSLANDMARKS_ART">
+			<File>VikingsLandmarks.dep</File>
+		</UpdateArt>
+	</FrontEndActions>
+	<Files>
+		<File>Data/VikingsLandmarks_CityStates.xml</File>
+		<File>Data/VikingsLandmarks_Features.xml</File>
+		<File>Data/VikingsLandmarks_Abilities.xml</File>
+		<File>Data/VikingsLandmarks_Colors.xml</File>
+		<File>Data/VikingsLandmarks_Expansion1.xml</File>
+		<File>Data/VikingsLandmarks_Expansion2.xml</File>
+		<File>Data/VikingsLandmarks_Icons_Civilizations.xml</File>
+		<File>Data/VikingsLandmarks_Icons_Features.xml</File>
+		<File>Data/VikingsLandmarks_Icons_UnitActions.xml</File>
+		<File>Text/en_US/VikingsLandmarks_CivilopediaText.xml</File>
+		<File>Text/en_US/VikingsLandmarks_Text.xml</File>
+		<File>Text/VikingsLandmarks_Translations_Text.xml</File>
+		<File>Text/VikingsLandmarks_Translations_Text_China.xml</File>
+		<File>VikingsLandmarks.dep</File>
+		<File>Platforms/Windows/Audio/DLC01Banks.ini</File>
+		<File>Platforms/Windows/Audio/DLC01_Resources_Features_3D.bnk</File>
+		<File>Platforms/Windows/Audio/DLC01_Resources_Features_3D.txt</File>
+		<File>Platforms/Windows/Audio/DLC01_Resources_Features_3D.xml</File>
+		<File>Platforms/Windows/Audio/DLC01_Unit_Bank_2D.bnk</File>
+		<File>Platforms/Windows/Audio/DLC01_Unit_Bank_2D.txt</File>
+		<File>Platforms/Windows/Audio/DLC01_Unit_Bank_2D.xml</File>
+		<File>Platforms/Windows/Audio/DLC01_Unit_Bank_3D.bnk</File>
+		<File>Platforms/Windows/Audio/DLC01_Unit_Bank_3D.txt</File>
+		<File>Platforms/Windows/Audio/DLC01_Unit_Bank_3D.xml</File>
+	</Files>
+</Mod>

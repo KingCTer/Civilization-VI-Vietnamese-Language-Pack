@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<EnglishText>
+		<!--Shared Districts-->
+		<Row Tag="LOC_DISTRICT_AQUEDUCT_DESCRIPTION">
+			<Text>A district that provides this city with a source of fresh water from an adjacent River, Lake, Oasis, or Mountain. Cities that do not yet have existing fresh water receive up to 6 [ICON_Housing] Housing. Cities that already have existing fresh water will instead get +2 [ICON_Housing] Housing. If built adjacent to a Geothermal Fissure +1 [ICON_Amenities] Amenity. Prevents [ICON_Food] Food loss during Drought. Must be built adjacent to the City Center.</Text>
+		</Row>
+    		<Row Tag="LOC_DISTRICT_AQUEDUCT_ALT_DESCRIPTION">
+      			<Text>A district that provides this city with a source of fresh water from an adjacent River, Lake, Oasis, or Mountain. Cities that do not yet have existing fresh water receive up to 6 [ICON_Housing] Housing. Cities that already have existing fresh water will instead get +2 [ICON_Housing] Housing. If built adjacent to a Geothermal Fissure +1 [ICON_Amenities] Amenity. Prevents [ICON_Food] Food loss during Drought. Must be built adjacent to the City Center. Military Engineers can spend a charge to complete 20% of an Aqueduct's production.</Text>
+    		</Row>
+		<Row Tag="LOC_DISTRICT_CANAL_NAME">
+			<Text>Canal</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_CANAL_DESCRIPTION">
+			<Text>A district built on flat land to connect two bodies of water or a body of water to a City Center. [ICON_TradeRoute] Trade Routes traveling through it can multiply the [ICON_Gold] Gold they get from districts at their destination. Canals may either go straight through the hex or bend by 60 degrees. However three-way Canal junctures are not allowed and Canals must have a full land tile on each side of the waterway they create. Military Engineers can spend a charge to complete 20% of a Canal's production.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_DAM_NAME">
+			<Text>Dam</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_DAM_DESCRIPTION">
+			<Text>A district built on a Floodplains tile to improve the comfort of living along this river. Prevents damage from flooding of this river (though yields from flooding drop by 50%). Prevents [ICON_Food] Food loss during Drought. Only one may be built along each river's floodplain (whichever player completes one first) and the river must traverse at least two sides of the Dam hex. Military Engineers can spend a charge to complete 20% of a Dam's production.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_SPACEPORT_DESCRIPTION_XP2">
+			<Text>A district that is required to construct the Science Victory projects. This includes {LOC_PROJECT_LAUNCH_EARTH_SATELLITE_NAME}, {LOC_PROJECT_LAUNCH_MOON_LANDING_NAME}, {LOC_PROJECT_LAUNCH_MARS_BASE_NAME}, and {LOC_PROJECT_LAUNCH_EXOPLANET_EXPEDITION_NAME}. Cannot be built on Hills.</Text>
+		</Row>
+		<!--Adjacency Bonuses-->
+		<Row Tag="LOC_DISTRICT_DESERT_HILLS_FAITH">
+			<Text>+{1_num} [ICON_Faith] Faith from the adjacent Desert Hills {1_Num : plural 1?tile; other?tiles;}.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_DESERT_FOOD">
+			<Text>+{1_num} [ICON_FOOD] Food from the adjacent Desert {1_Num : plural 1?tile; other?tiles;}.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_DESERT_HILLS_FOOD">
+			<Text>+{1_num} [ICON_FOOD] Food from the adjacent Desert Hills {1_Num : plural 1?tile; other?tiles;}.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_MACHU_PICCHU_GOLD">
+			<Text>+{1_num} [ICON_GOLD] Gold from the adjacent Mountain {1_Num : plural 1?tile; other?tiles;}.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_MACHU_PICCHU_PRODUCTION">
+			<Text>+{1_num} [ICON_PRODUCTION] Production from the adjacent Mountain {1_Num : plural 1?tile; other?tiles;}.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_MACHU_PICCHU_CULTURE">
+			<Text>+{1_num} [ICON_CULTURE] Culture from the adjacent Mountain {1_Num : plural 1?tile; other?tiles;}.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_GEOTHERMAL_SCIENCE">
+			<Text>+{1_num} [ICON_SCIENCE] Science from each adjacent Geothermal Fissure.</Text>
+		</Row>
+    <Row Tag="LOC_DISTRICT_REEF_SCIENCE">
+      <Text>+{1_num} [ICON_SCIENCE] Science from each adjacent Reef.</Text>
+    </Row>
+		<Row Tag="LOC_DISTRICT_COTHON_GOLD">
+			<Text>+{1_num} [ICON_Gold] Gold from the adjacent Cothon district.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_COTHON_DESCRIPTION_ADJACENCY">
+			<Text>Adjacency: Major [ICON_Gold] Gold bonus for each adjacent City Center. Standard [ICON_Gold] Gold bonus for each adjacent coastal resource. Minor [ICON_Gold] Gold bonus for adjacent district tiles.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_HOLY_SITE_GOLD">
+			<Text>+{1_num} [ICON_Gold] Gold from the adjacent Holy Site district.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_LAVRA_GOLD">
+			<Text>+{1_num} [ICON_Gold] Gold from the adjacent Lavra district.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_SUGUBA_DESCRIPTION_ADJACENCY">
+			<Text>Adjacency: Major [ICON_Gold] Gold bonus for each adjacent Holy Site. Major [ICON_Gold] Gold bonus from a tile containing a River edge. Minor [ICON_Gold] Gold bonus for adjacent district tiles.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_MINES_HALF_PRODUCTION">
+			<Text>+{1_num} [ICON_Production] Production from the adjacent Mines.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_LUMBER_MILL_PRODUCTION">
+			<Text>+{1_num} [ICON_Production] Production from the adjacent Lumber Mills.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_AQUEDUCT_PRODUCTION">
+			<Text>+{1_num} [ICON_PRODUCTION] Production from the adjacent Aqueduct {1_Num : plural 2?district; other?districts;}.</Text>
+		</Row>
+	    	<Row Tag="LOC_DISTRICT_BATH_PRODUCTION">
+	      		<Text>+{1_num} [ICON_PRODUCTION] Production from the adjacent Bath {1_Num : plural 2?district; other?districts;}.</Text>
+	    	</Row>
+		<Row Tag="LOC_DISTRICT_CANAL_PRODUCTION">
+			<Text>+{1_num} [ICON_PRODUCTION] Production from the adjacent Canal {1_Num : plural 2?district; other?districts;}.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_DAM_PRODUCTION">
+			<Text>+{1_num} [ICON_PRODUCTION] Production from the adjacent Dam {1_Num : plural 2?district; other?districts;}.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_STRATEGIC_PRODUCTION">
+			<Text>+{1_num} [ICON_PRODUCTION] Production from the adjacent Strategic {1_Num : plural 1?resource; other?resources;}.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_HANSA_DESCRIPTION_ADJACENCY">
+			<Text>Adjacency: Major [ICON_Production] Production bonus if adjacent to a Commercial Hub, Aqueduct, Canal, and Dam districts. Standard [ICON_Production] Production bonus for each adjacent resource. Minor [ICON_Production] Production bonus for adjacent district tiles.</Text>
+		</Row>
+		<!--Projects-->
+		<Row Tag="LOC_PROJECT_COTHON_CAPITAL_MOVE_NAME">
+			<Text>Move Capital</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_COTHON_CAPITAL_MOVE_SHORT_NAME">
+			<Text>Move Capital</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_COTHON_CAPITAL_MOVE_DESCRIPTION">
+			<Text>Phoenician unique project available to any city with a Cothon. When complete, the Phoenician [ICON_Capital] Capital moves to this city.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_CARBON_RECAPTURE_NAME">
+			<Text>Carbon Recapture</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_CARBON_RECAPTURE_SHORT_NAME">
+			<Text>Carbon Recapture</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_CARBON_RECAPTURE_DESCRIPTION">
+			<Text>Can be run in any city with an Industrial Zone. When complete, the lifetime carbon emissions of this civilization are reduced by 50 and 30 [ICON_FAVOR] Diplomatic Favor are earned. This project can even reduce your carbon debt to zero and allow you to accumulate reductions against the global CO2 footprint.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_CONVERT_REACTOR_TO_COAL">
+			<Text>Convert to Coal Power</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_CONVERT_REACTOR_TO_COAL_SHORT_NAME">
+			<Text>Convert to Coal Power</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_CONVERT_REACTOR_TO_COAL_DESCRIPTION">
+			<Text>Decommissions the current Power Plant in this city, and replaces it with the {LOC_BUILDING_COAL_POWER_PLANT_NAME}.[NEWLINE][NEWLINE]{LOC_BUILDING_COAL_POWER_PLANT_NAME}:[NEWLINE]{LOC_BUILDING_COAL_POWER_PLANT_DESCRIPTION}</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_CONVERT_REACTOR_TO_OIL">
+			<Text>Convert to Oil Power</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_CONVERT_REACTOR_TO_OIL_SHORT_NAME">
+			<Text>Convert to Oil Power</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_CONVERT_REACTOR_TO_OIL_DESCRIPTION">
+			<Text>Decommissions the current Power Plant in this city, and replaces it with the {LOC_BUILDING_FOSSIL_FUEL_POWER_PLANT_NAME}.[NEWLINE][NEWLINE]{LOC_BUILDING_FOSSIL_FUEL_POWER_PLANT_NAME}:[NEWLINE]{LOC_BUILDING_FOSSIL_FUEL_POWER_PLANT_DESCRIPTION}</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_CONVERT_REACTOR_TO_URANIUM">
+			<Text>Convert to Nuclear Power</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_CONVERT_REACTOR_TO_URANIUM_SHORT_NAME">
+			<Text>Convert to Nuclear Power</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_CONVERT_REACTOR_TO_URANIUM_DESCRIPTION">
+			<Text>Decommissions the current Power Plant in this city, and replaces it with the {LOC_BUILDING_POWER_PLANT_EXPANSION2_NAME}.[NEWLINE][NEWLINE]{LOC_BUILDING_POWER_PLANT_EXPANSION2_NAME}:[NEWLINE]{LOC_BUILDING_POWER_PLANT_EXPANSION2_DESCRIPTION}</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_LAUNCH_MARS_BASE_NAME">
+			<Text>Launch Mars Colony</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_LAUNCH_MARS_BASE_SHORT_NAME">
+			<Text>Launch Mars Colony</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_LAUNCH_MARS_BASE_DESCRIPTION">
+			<Text>Space Race project which establishes a small human base on the surface of Mars. Marks the third step towards the Science Victory.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_LAUNCH_MARS_BASE_POPUP">
+			<Text>You successfully establish a colony on Mars! Marks the third step towards the Science Victory.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_LAUNCH_EXOPLANET_EXPEDITION_NAME">
+			<Text>Launch Exoplanet Expedition</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_LAUNCH_EXOPLANET_EXPEDITION_SHORT_NAME">
+			<Text>Exoplanet Expedition</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_LAUNCH_EXOPLANET_EXPEDITION_DESCRIPTION">
+			<Text>Space Race project which travels through deep space at 1 Light Year per turn to spread humankind to another star system. Wins the Science Victory once it arrives. Can be sped up by other projects.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_LAUNCH_EXOPLANET_EXPEDITION_POPUP">
+			<Text>Your seed ship is on its way to another star system! Wins the Science Victory once it arrives. Travels 1 Light Year per turn, and can be sped up by other projects.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_ORBITAL_LASER_NAME">
+			<Text>Launch Lagrange Laser Station</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_ORBITAL_LASER_SHORT_NAME">
+			<Text>Lagrange Laser Station</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_ORBITAL_LASER_DESCRIPTION">
+			<Text>Requires 30 [ICON_RESOURCE_ALUMINUM] Aluminum to begin construction. Space Race project which speeds up your Exoplanet Expedition by +1 Light Year per turn, accelerating your progress towards a Science Victory.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_ORBITAL_LASER_POPUP">
+			<Text>You establish a Lagrange Laser Station in orbit, speeding up your Exoplanet Expedition ship by 1 Light Year per turn and bringing you closer to a Science Victory!</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_TERRESTRIAL_LASER_NAME">
+			<Text>Build Terrestrial Laser Station</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_TERRESTRIAL_LASER_SHORT_NAME">
+			<Text>Terrestrial Laser Station</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_TERRESTRIAL_LASER_DESCRIPTION">
+			<Text>Once completed, this city's [ICON_Power] Power requirements increase by 5. Space Race project which speeds up your Exoplanet Expedition by +1 Light Year per turn as long as the city is [ICON_Power] Powered, accelerating your progress towards a Science Victory.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_TERRESTRIAL_LASER_POPUP">
+			<Text>You establish a Terrestrial Laser Station in the Spaceport, speeding up your Exoplanet Expedition ship by 1 Light Year per turn and bringing you closer to a Science Victory!</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_SEND_AID_NAME">
+			<Text>Send Aid</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_SEND_AID_SHORT_NAME">
+			<Text>Send Aid</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_SEND_AID_DESCRIPTION">
+			<Text>Project to earn score for your Aid Request competitions.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_SEND_AID_POPUP">
+			<Text>Your aid package has been delivered, increasing your score in the Aid Request competition.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_TRAIN_ATHLETES_NAME">
+			<Text>Train Athletes</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_TRAIN_ATHLETES_SHORT_NAME">
+			<Text>Train Athletes</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_TRAIN_ATHLETES_DESCRIPTION">
+			<Text>Project to earn score for the World Games competition.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_TRAIN_ATHLETES_POPUP">
+			<Text>Your athletes are now ready for the games, increasing your score in the World Game competition.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_TRAIN_ASTRONAUTS_NAME">
+			<Text>Train Astronauts</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_TRAIN_ASTRONAUTS_SHORT_NAME">
+			<Text>Train Astronauts</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_TRAIN_ASTRONAUTS_DESCRIPTION">
+			<Text>Project to earn score for the International Space Station competition.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_TRAIN_ASTRONAUTS_POPUP">
+			<Text>Your astronauts are ready to work in the International Space Station, increasing your score in the International Space Station competition.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_ENHANCE_DISTRICT_HOLY_SITE_EXPANSION2_DESCRIPTION">
+			<Text>District-based project which provides [ICON_Faith] Faith and +100% Religious Pressure every turn. Awards [ICON_GreatProphet] Great Prophet points once finished.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_ENHANCE_DISTRICT_INDUSTRIAL_ZONE_EXPANSION2_DESCRIPTION">
+			<Text>District-based project which provides this city with full [ICON_Power] Power while active. It also provides [ICON_GreatEngineer] Great Engineer points once finished.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_RECOMMISSION_REACTOR_NAME">
+			<Text>Recommission Nuclear Reactor</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_RECOMMISSION_REACTOR_SHORT_NAME">
+			<Text>Recommission Nuclear Reactor</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_RECOMMISSION_REACTOR_DESCRIPTION">
+			<Text>Allows for the recommissioning of a nuclear reactor to increase safety measures and reduce the risk of a nuclear accident.[NEWLINE][NEWLINE]Recommissioning resets the reactor age to 0. The older a reactor gets, the higher the chance that a Nuclear Accident can occur.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_DECOMMISSION_COAL_POWER_PLANT_NAME">
+			<Text>Decommission Coal Power Plant</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_DECOMMISSION_COAL_POWER_PLANT_SHORT_NAME">
+			<Text>Decommission Coal Power Plant</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_DECOMMISSION_COAL_POWER_PLANT_DESCRIPTION">
+			<Text>Project to earn score for the Climate Accords competition. Removes the Coal Power Plant and all its effects from this city.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_DECOMMISSION_OIL_POWER_PLANT_NAME">
+			<Text>Decommission Oil Power Plant</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_DECOMMISSION_OIL_POWER_PLANT_SHORT_NAME">
+			<Text>Decommission Oil Power Plant</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_DECOMMISSION_OIL_POWER_PLANT_DESCRIPTION">
+			<Text>Project to earn score for the Climate Accords competition. Removes the Oil Power Plant and all its effects from this city.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_DECOMMISSION_NUCLEAR_POWER_PLANT_NAME">
+			<Text>Decommission Nuclear Power Plant</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_DECOMMISSION_NUCLEAR_POWER_PLANT_SHORT_NAME">
+			<Text>Decommission Nuclear Power Plant</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_DECOMMISSION_NUCLEAR_POWER_PLANT_DESCRIPTION">
+			<Text>Project to earn score for the Climate Accords competition. Removes the Nuclear Power Plant and all its effects from this city.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

@@ -1,0 +1,44 @@
+<GameData>
+	<EnglishText>
+		<!-- Admirals -->
+		<Row Tag="LOC_GREATPERSON_THEMISTOCLES_ACTIVE">
+			<Text>Grants +2 Loyalty per turn for this city.</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_FERDINAND_MAGELLAN_NAME">
+			<Text>Ferdinand Magellan</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_FERDINAND_MAGELLAN_ACTIVE">
+			<Text>Grants +4 Loyalty per turn for this city.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_TOGO_HEIHACHIRO_ACTIVE">
+			<Text>Grants +6 Loyalty per turn for this city.</Text>
+		</Row>
+		<!-- Engineers -->
+		<Row Tag="LOC_GREATPERSON_CULTURE_BOMB_TRIGGER_INDUSTRIAL_ZONE">
+			<Text>Culture Bomb adjacent tiles when completing an Industrial Zone in any city.</Text>
+		</Row>
+		<!-- Generals -->
+		<Row Tag="LOC_GREATPERSON_AETHELFLAED_ACTIVE">
+			<Text>Grants +2 Loyalty per turn for this city.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_SAMORI_TURE_ACTIVE">
+			<Text>Instantly creates a Spec Ops unit with 1 promotion level.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_SIMON_BOLIVAR_ACTIVE">
+			<Text>Grants +4 Loyalty per turn for this city.</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_SUDIRMAN_ACTIVE">
+			<Text>Grants +6 Loyalty per turn for this city.</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_TIMUR_NAME">
+			<Text>Timur</Text>
+		</Row>
+		<Row Tag="LOC_GREATPERSON_TIMUR_ACTIVE">
+			<Text>Grants 1 promotion level and +25% combat experience to a military land unit.</Text>
+		</Row>
+		<!-- Merchants -->
+		<Row Tag="LOC_GREATPERSON_GOVERNOR_POINTS">
+			<Text>Grant 1 [ICON_Governor] Governor Title or recruit a new [ICON_Governor] Governor.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

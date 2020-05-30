@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<EnglishText>
+		<Row Tag="LOC_GOSSIP_SOURCE_HIGHLEVEL_SPY">
+			<Text>Your Spy, {1_Name}, found documents revealing that</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_SPY_DAM_BREACHED_DETECTED">
+			<Text>{LOC_GRAMMAR_CIVNAME &lt;&lt; {1_CivName}} had a dam breached in {2_CityName} because of the work of a spy from {3_SpyPlayer}.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_SPY_DAM_BREACHED_UNDETECTED">
+			<Text>{LOC_GRAMMAR_CIVNAME &lt;&lt; {1_CivName}} had a dam breached in {2_CityName} because of the work of an unknown spy.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_ROCK_CONCERT">
+			<Text>The newspaper in {1_City_Name} published a review entitled "{2_ResultName}" about the concert played by {3_BandName}.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_POWERED_CITY">
+			<Text>{LOC_GRAMMAR_CIVNAME &lt;&lt; {1_CivName}} {1_CivName : plural 1?has; other?have;} brought the magic of electricity to the city of {2_CityName}.</Text>
+		</Row>
+		<Row Tag="LOC_GOSSIP_RANDOM_EVENT">
+			<Text>{LOC_GRAMMAR_CIVNAME &lt;&lt; {1_CivName}} {1_CivName : plural 1?has; other?have;} has suffered significant damage from a {2_NaturalDisasterName}.</Text>
+		</Row>
+	</EnglishText>
+</GameData>

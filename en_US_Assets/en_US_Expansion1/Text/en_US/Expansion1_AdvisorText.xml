@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<EnglishText>
+		<Row Tag="LOC_TUTORIAL_GOVERNOR_INTRO">
+			<Text>As our civic knowledge grows, so do our methods of governance. Furthering this endeavor will allow us to appoint a Governor to strengthen our power in our cities.[NEWLINE][NEWLINE]Governors will greatly improve the Loyalty of the city they are in, and give it bonuses based on what promotions you choose for them. To appoint new Governors - or promote existing ones - we need Governor Titles. Our main source of Governor Titles is to complete particular Civics.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_FIRST_GOVERNOR_POINT">
+			<Text>We now have the opportunity to appoint a Governor to our civilization. This Governor will be a powerful and productive asset when assigned to one of our cities. I suggest we choose a candidate as soon as possible.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_SECOND_GOVERNOR_POINT">
+			<Text>Once again we have the opportunity to enhance our powers of governance. We can use it to promote one of our existing Governors, or we can appoint another new Governor to our civilization.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_FIRST_GOVERNOR_ASSIGNMENT">
+			<Text>Our Governor is now on their way to their assigned city. It will take some time for them to become established there. Once established, their talents will come into effect, strengthening our rule there.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_CITY_LOSING_LOYALTY">
+			<Text>We are losing loyalty in one of our cities. If this continues, we are in danger of losing control of the city. Sending one of our Governors there will strengthen our rule, and gain the loyalty of the citizens.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_CITY_LOST_LOYALTY_TO_FOREIGN">
+			<Text>We have completely lost the loyalty of one of our cities, and it has aligned with a foreign power instead. To reclaim it, we must wrest loyalty away from its new owner or bring military force.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_CITY_LOST_LOYALTY_TO_INDEPENDENT">
+			<Text>We have completely lost the loyalty of one of our cities, and it has declared its independence from us. To reclaim it, we must win back its loyalty or bring military force.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_CITY_LOST_LOYALTY_TO_INDEPENDENT_THIRD_PARTY">
+			<Text>After a loss in loyalty, a nearby foreign city has declared independence from its former civilization and become a Free City. If we win its loyalty, or bring military force, we could bring it into our own civilization.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_CITY_WON_LOYALTY_FROM_FOREIGN">
+			<Text>A foreign city is no longer loyal to its former owner and has instead pledged its loyalty to us, and has asked to join our great civilization!</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_CITY_WON_LOYALTY_FROM_INDEPENDENT">
+			<Text>An independent city has sworn its loyalty to us and has asked to join our great civilization!</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_CONQUERED_CITY_LOYALTY">
+			<Text>We have taken a new city into our civilization. In order to keep it, we must maintain the loyalty of its citizens. Sending a Governor here will help to do this.[NEWLINE][NEWLINE]If the occupied city still has Loyalty problems, we can station a military unit in the city to improve Loyalty further. Keep an eye on the Loyalty of our new occupied city, otherwise it may rebel and become a Free City that needs to be retaken.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_ALLIANCES_1">
+			<Text>Now that we have friendly relations with a neighbor civilization, it may behoove us to solidify our relationship by making an Alliance.  Not only will this cement our status, but it will provide benefits to both of our civilizations.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_ALLIANCES_2">
+			<Text>Our Alliances are short-term declarations.  In order to maintain them, we will need to renew our declaration of friendship and propose a new Alliance.  By staying in Alliances, they become more powerful, providing even greater benefits.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_EMERGENCY_1">
+			<Text>We have the option to join other civilizations against a larger threat, but we must consider carefully.  If we join and succeed, we will be rewarded.  But if we join and fail our mission, the enemy will become stronger.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_EMERGENCY_2">
+			<Text>We have successfully completed our mission, and have received our rewards.  For now, that should hold back the aggressor, but should they resume such actions, we are now better prepared to stop them.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_EMERGENCY_3">
+			<Text>We have failed our mission, and next time we are against this enemy, it will be even harder. Perhaps next time, we should consider turning the other way.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_EMERGENCY_4">
+			<Text>Our actions have alarmed the world at large, and other civilizations have joined together to stop us.  We know their objective and must defend ourselves if we wish to remain strong.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_EMERGENCY_5">
+			<Text>We have successfully defended ourselves during this time of crisis, and are now stronger for it.  They will think twice before crossing us again!</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_EMERGENCY_6">
+			<Text>We have failed to defend ourselves during this time of crisis.  Now, our enemies are empowered and emboldened to defeat us!</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_GAME_ERA_CHANGING_SOON">
+			<Text>Civilizations have uncovered new technologies and civics, and soon the world itself will reach the dawn of a new era. Our actions in this era may lead us into a Golden Age for our civilization. Or, perhaps, darker days lie ahead.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_GAME_ERA_CHANGED">
+			<Text>History marches forward, and the world has entered a new era. We may see a Golden Age or a Dark Age in our civilization's future, born from the actions of our recent past.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_ENTER_GOLDEN_AGE">
+			<Text>Great news! Our accomplishments have propelled our civilization into a Golden Age. During this time, our civilization will be stronger and more loyal than ever.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_ENTER_DARK_AGE">
+			<Text>We have fallen into a Dark Age. Though our cities will face loyalty challenges, with enough effort, we should be able to rise out of this Dark Age.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_OVERCOME_DARK_AGE">
+			<Text>Rejoice! Our Dark Age has ended, and our civilization is on a path towards an even brighter future. Our next Golden Age will be glorious indeed.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_DARK_AGE_TO_DARK_AGE">
+			<Text>Sadly, we have not managed to progress out of this Dark Age. We must strengthen our resolve and rise above this setback if our civilization is to survive in this world.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_PRIDE_MOMENT_COMMEMORATION">
+			<Text>The time has come to choose which of our accomplishments to commemorate in our history. This will inspire our people to continue to press forward towards a path of your choosing.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_PRIDE_MOMENT_TRIGGERED">
+			<Text>Our civilization has accomplished something historic, worthy of being celebrated and remembered for generations to come. These accomplishments help our civilization reach a Golden Age - and avoid a Dark Age.[NEWLINE][NEWLINE]Each of these Historic Moments will increase our Era Score. Our Era Score determines which Age we will earn in the next game era, so we should seek out these Historic Moments when possible.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_GOV_DISTRICT_1">
+			<Text>We are now ready to build a national district!  Only one may be built in our empire, so be sure to pick its placement carefully.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_GOV_DISTRICT_1a">
+			<Text>We are now ready to choose where to build our government buildings. We may only zone one of these in our empire, so choose carefully.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_GOV_DISTRICT_2">
+			<Text>Buildings in your new district memorialize your current government at the time of building, granting a policy that complements the government’s effects.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_GOV_DISTRICT_2a">
+			<Text>May I suggest that we construct a government building to memorialize and strengthen our current government?[NEWLINE][NEWLINE]Each time we construct a new government building, we unlock a Legacy Policy based on our currently chosen government. These Legacy Policies are powerful reminders of our civic past that we can carry forward into future governments.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_GOV_DISTRICT_3">
+			<Text>Your National Bureau has unlocked a new policy.  Consider slotting it next time policies are unlocked.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_GOV_DISTRICT_3a">
+			<Text>Your National Court has unlocked a new policy.  Consider slotting it next time policies are unlocked.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_GOV_DISTRICT_3b">
+			<Text>Completing our government building has unlocked a new policy. If we include it in our government, it could greatly help our people.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_GOV_DISTRICT_3c">
+			<Text>Completing the construction of this building has inspired our policymakers! If we choose to institute this new policy in our government, it could greatly help our people.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_LOYALTY_PRESSURE">
+			<Text>Settling a new city has expanded our civilization! With an empire larger than one city, it is important to keep an eye on the Loyalty of our citizens. If Loyalty decreases, the city is not as effective. If Loyalty drops to 0, the city will declare its independence and become a Free City. The same can happen to other civilizations, so keep an eye out for opportunities to destabilize others, and maybe even take a Free City into your own empire![NEWLINE][NEWLINE]Loyalty is mainly affected by the number and nationality of citizens in and near the city. Having lots of your own population within 9 tiles will improve your Loyalty each turn. Populations belonging to other civilizations within 9 tiles will decrease it. The closer cities are together, the greater the effect is. Furthermore, the effect is greatly strengthened for civilizations in Golden Ages, and weakened by Dark Ages.[NEWLINE][NEWLINE]Assigning a Governor to a city, and ensuring it has enough Amenities, are other ways to ensure the Loyalty of your own cities.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_CITYPANEL_LOYALTY_INTRO">
+			<Text>TO IMPROVE LOYALTY:</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_CITYPANEL_MARTIAL_LAW">
+			<Text>[NEWLINE][NEWLINE]Keep a military unit here, to counteract the Occupation penalty</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_CITYPANEL_GOVERNOR">
+			<Text>[NEWLINE][NEWLINE]Establish a [ICON_Governor] Governor here</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_CITYPANEL_AMBASSADOR">
+			<Text>[NEWLINE][NEWLINE]Establish a promoted Diplomat [ICON_Governor] Governor in a city within 9 tiles</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_CITYPANEL_DARK_AGE">
+			<Text>[NEWLINE][NEWLINE]Avoid getting a Dark Age in the next game era, to make your [ICON_Citizen] Citizens provide more Loyalty</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_CITYPANEL_GOLDEN_AGE">
+			<Text>[NEWLINE][NEWLINE]Earn a Golden Age in the next game era, making your [ICON_Citizen] Citizens provide more Loyalty</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_CITYPANEL_CITY_PLACEMENT">
+			<Text>[NEWLINE][NEWLINE]Maximize your cities and [ICON_Citizen] Citizens within 9 tiles, and minimize foreign cities and [ICON_Citizen] Citizens within 9 tiles</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_CITYPANEL_CITY_HAPPINESS">
+			<Text>[NEWLINE][NEWLINE]Make your people more happy by increasing the [ICON_Amenities] Amenities in this city</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_CITYPANEL_CITY_STARVATION">
+			<Text>[NEWLINE][NEWLINE]Provide more [ICON_Food] to prevent your people from starving</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_CITYPANEL_BREAD_AND_CIRCUSES">
+			<Text>[NEWLINE][NEWLINE]Have a nearby city produce the Bread and Circuses project</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_CITYPANEL_RELIGIOUS_FOLLOWERS">
+			<Text>[NEWLINE][NEWLINE]Have the [ICON_Citizen] Citizens of the city follow your religion.</Text>
+		</Row>
+		<Row Tag="LOC_ADVISOR_CITYPANEL_CULTURAL_ALLIANCE">
+			<Text>[NEWLINE][NEWLINE]Form a Cultural Alliance with a neighbor to prevent their [ICON_Citizen] Citizens from having a negative effect</Text>
+		</Row>
+		<Row Tag="ADVISOR_LINE_LISTENER_81">
+			<Text>Though our own people are quite skilled, we can always benefit by learning from others. Perhaps we should look into beginning a Research Alliance with one of our neighbors.</Text>
+		</Row>
+		<!-- Super Advisor Lines -->
+		<Row Tag="LOC_TUTORIAL_XP1_INTRO_WELCOME">
+			<Text>Welcome to Civilization VI: Rise and Fall! This guide will introduce you to new features in this expansion. Additional information can be found in the Civilopedia and Advisor.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_XP1_INTRO_ERAS">
+			<Text>Earn Historic Moments by accomplishing great feats in the game. Each Moment gives you points towards your Era Score, and can be reviewed in your Timeline. Era Score indicates how well your Civilization is doing in the current Era.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_XP1_INTRO_ERAS_DETAILS_1">
+			<Text>Historic Moments record important moments in the game. There are Historic Moments for each Era of the game for events like destroying a Barbarian camp, settling new cities, discovering new continents, creating your first Unique Unit, or circumnavigating the world.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_XP1_INTRO_AGES">
+			<Text>Track how your Era Score is progressing to avoid a Dark Age or earn a Golden Age for your next game era. If you fill the blue meter, you will avoid a Dark Age. If you fill the gold meter, you'll earn a Golden Age. Golden and Dark Ages give you bonuses and can affect the Loyalty of your cities' citizens.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_XP1_INTRO_AGES_DETAILS">
+			<Text>{LOC_TUTORIAL_XP1_INTRO_AGES_DETAILS_2}[NEWLINE][NEWLINE]{LOC_TUTORIAL_XP1_INTRO_AGES_DETAILS_3}</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_XP1_INTRO_AGES_DETAILS_1">
+			<Text>Track how your Era Score is progressing to avoid a Dark Age or earn a Golden Age for your next game era. If you fill the blue meter, you will avoid a Dark Age. If you fill the gold meter, you'll earn a Golden Age. Golden and Dark Ages give you bonuses and can affect the Loyalty of your cities' citizens.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_XP1_INTRO_AGES_DETAILS_2">
+			<Text>Dark Ages are difficult periods of time for your people. Lowered Loyalty may lead to the cities at the edge of your civilization leaving and becoming independent cities, or being conquered by other players and integrated into their civilization. Don't worry or be too upset if you fall into a Dark Age because you have the chance to enter a Heroic Age. Your threshold for entering a Golden Age will be lower if you're in a Dark Age, and if you pass that Golden Age threshold, you will enter a Heroic Age. You also get access to special, strong Social Policies.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_XP1_INTRO_AGES_DETAILS_3">
+			<Text>A Golden Age is a time of great prosperity for your people. Not only are your cities more likely to stay in your civilization, but you might even convert nearby cities into your civilization as well.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_XP1_INTRO_LOYALTY">
+			<Text>Loyalty is a measure of how committed your city [ICON_Citizen] Citizens are to your Civilization. If Loyalty ever reaches 0, the city will rebel and become a Free City, open to claims by militaries or Loyalty pressure.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_XP1_INTRO_LOYALTY_DETAILS">
+			<Text>{LOC_TUTORIAL_XP1_INTRO_LOYALTY_DETAIL_1}[NEWLINE][NEWLINE]{LOC_TUTORIAL_XP1_INTRO_LOYALTY_DETAIL_2}</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_XP1_INTRO_LOYALTY_DETAIL_1">
+			<Text>Many factors influence the Loyalty of a city. Governors, Golden or Dark Ages, and Loyalty pressure from nearby cities are the biggest factors, but Loyalty can also be affected by your choices of social policies, spy operations, and the presence of military units.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_XP1_INTRO_LOYALTY_DETAIL_2">
+			<Text>If you can keep your cities’ Loyalty higher than those of nearby civilizations, you can possibly draw those cities away from your opponents, and into your civilization.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_XP1_INTRO_GOVERNORS">
+			<Text>[ICON_Governor] Governors can stabilize a city's Loyalty. [ICON_Governor] Governors also have unique abilities that unlock through titles. These give special advantages in the city where the [ICON_Governor] Governor is assigned.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_XP1_INTRO_GOVERNORS_DETAILS">
+			<Text>{LOC_TUTORIAL_XP1_INTRO_GOVERNORS_DETAILS_1}[NEWLINE][NEWLINE]{LOC_TUTORIAL_XP1_INTRO_GOVERNORS_DETAILS_2}</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_XP1_INTRO_GOVERNORS_DETAILS_1">
+			<Text>A [ICON_Governor] Governor can do much more than increase the Loyalty of a city! Each [ICON_Governor] Governor has access to unique promotions that grant their assigned city the ability to purchase Districts with Gold, prevent the city from being besieged, or the power to construct unique tile improvements there. </Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_XP1_INTRO_GOVERNORS_DETAILS_2">
+			<Text>Each time you get a Governor Title, you’ll have to choose between promoting one of your existing governors, or recruiting a new [ICON_Governor] Governor. Make sure you’re thinking ahead about how to use your [ICON_Governor] Governors through the game, and don’t be afraid to reassign your [ICON_Governor] Governors to new cities!</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_XP1_INTRO_ALLIANCES">
+			<Text>Alliances are now specialized, and each type provides a distinct advantage. Over time, you can enhance an Alliance to provide even more powerful advantages.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_XP1_INTRO_EMERGENCIES">
+			<Text>Civilizations can band together and declare an Emergency when critical events happen in the game, such as a Nuclear Strike. The Emergency is declared by other civilizations against the offending player. There are rewards for whichever side is victorious in an Emergency.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_XP1_INTRO_EMERGENCIES_DETAILS_1">
+			<Text>Alliances are focused in a particular aspect of your civilization, like [Icon_Science] Science, [Icon_Culture] Culture, [Icon_Faith] Faith, or Commerce. Each Alliance starts at Level 1, and can be improved up to Level 3. You can only have one kind of Alliance at a time with another civilization.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_XP1_INTRO_EMERGENCIES_DETAILS_2">
+			<Text>Level 3 Alliances are very powerful. For example, the Level 3 Cultural Alliance gives you a portion of the [Icon_Tourism] Tourism and [Icon_Culture] Culture that your ally produces, and the Level 3 Economic Alliance allows the allies to share any Suzerain bonuses they possess.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_XP1_INTRO_EMERGENCIES_DETAILS">
+			<Text>{LOC_TUTORIAL_XP1_INTRO_EMERGENCIES_DETAILS_1}[NEWLINE][NEWLINE]{LOC_TUTORIAL_XP1_INTRO_EMERGENCIES_DETAILS_2}</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_XP1_INTRO_CITYBANNER">
+			<Text>The City banner has been updated to provide clarity and easier access to critical information. Click on your civilization's icon to see more information about Loyalty, or the Governor portrait to manage your [ICON_Governor] Governors.</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_XP1_INTRO_END">
+			<Text>Will your civilization rise or fall? How will you rule in Sid Meier's Civilization VI?</Text>
+		</Row>
+		<Row Tag="LOC_TUTORIAL_XP1_INTRO_END_DETAILS_1">
+			<Text>You can always review this information by consulting the advisor, checking the Civilopedia, or reopening this tutorial in the Gameplay Options menu. </Text>
+		</Row>
+	</EnglishText>
+</GameData>

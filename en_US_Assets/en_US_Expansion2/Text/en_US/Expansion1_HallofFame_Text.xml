@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<!-- 	Because this file may be shared across multiple DLC packages, and is used on front-end, there's the possibility of this string 
+			being added multiple times.  To account for this, we first delete any possible instances of the string and then re-populate. -->
+	<LocalizedText>
+		<Delete Tag="LOC_HOF_GRAPH_PLAYER_ERASCORE"/>
+		<Delete Tag="LOC_HOF_GRAPH_GOVERNOR_TITLES" />
+	</LocalizedText>
+	
+	<EnglishText>
+		<Row Tag="LOC_HOF_GRAPH_PLAYER_ERASCORE">
+			<Text>Player Era Score</Text>
+		</Row>
+		<Row Tag="LOC_HOF_GRAPH_GOVERNOR_TITLES">
+			<Text>Governor Titles Earned</Text>
+		</Row>
+	</EnglishText>
+</GameData>
