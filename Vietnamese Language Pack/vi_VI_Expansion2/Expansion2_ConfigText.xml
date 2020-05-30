@@ -3,10 +3,10 @@
 <GameData>
 	<LocalizedText>
 		<Replace Language='en_US' Tag="LOC_EXPANSION2_NAME">
-			<Text>Expansion: Gathering Storm</Text>
+			<Text>Bản mở rộng: Gathering Storm</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_EXPANSION2_DESCRIPTION">
-			<Text>This is a game using the Gathering Storm Expansion, which includes the World Congress, environmental effects and disasters, power, and more. Can you deal with the unpredictability of a changing world to make a civilization that will stand the test of time?</Text>
+			<Text>Đây là một trò chơi sử dụng Bản mở rộng Gathering Storm, bao gồm Đại hội thế giới, các tác động và thảm họa môi trường, sức mạnh, v.v. Bạn có thể đối phó với sự khó lường của một thế giới đang thay đổi để tạo nên một nền văn minh sẽ đứng trước thử thách của thời gian?</Text>
 		</Replace>
 		<!-- Setup Parameters -->
 		<Replace Language='en_US' Tag="LOC_GAME_REALISM">
