@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Mod id="85E4EEAC-95AA-3E32-1068-91E207B1427F" version="1">
+	<!-- Mod Infomation -->
 	<Properties>
 		<Name>LOC_MOD_TITLE</Name>
 		<Teaser>LOC_MOD_TEASER</Teaser>
@@ -45,10 +46,38 @@
 			<RuleSetInUse>RULESET_STANDARD,RULESET_EXPANSION_1,RULESET_EXPANSION_2</RuleSetInUse>
 		</Criteria>	
 		<!-- DLC3: AUSTRALIA CIVILIZATION & SCENARIO PACK -->
+		<Criteria id="Australia" any="1">
+			<LeaderPlayable>Players:StandardPlayers::LEADER_JOHN_CURTIN,StandardPlayers::LEADER_JOHN_CURTIN,Players:Expansion1_Players::LEADER_JOHN_CURTIN,Players:Expansion2_Players::LEADER_JOHN_CURTIN</LeaderPlayable>
+			<RuleSetInUse>RULESET_STANDARD,RULESET_EXPANSION_1,RULESET_EXPANSION_2</RuleSetInUse>
+		</Criteria>
+		<Criteria id="AustraliaScenario">
+			<RuleSetInUse>RULESET_SCENARIO_AUSTRALIA</RuleSetInUse>
+		</Criteria>
 		<!-- DLC4: PERSIA AND MACEDON CIVILIZATION & SCENARIO PACK -->
+		<Criteria id="MacedoniaPersia" any="1">
+			<LeaderPlayable>Players:StandardPlayers::LEADER_ALEXANDER,Players:StandardPlayers::LEADER_CYRUS,StandardPlayers::LEADER_ALEXANDER,StandardPlayers::LEADER_CYRUS,Players:Expansion1_Players::LEADER_ALEXANDER,Players:Expansion2_Players::LEADER_CYRUS,Players:Expansion2_Players::LEADER_ALEXANDER,Players:Expansion2_Players::LEADER_CYRUS</LeaderPlayable>
+			<RuleSetInUse>RULESET_STANDARD,RULESET_EXPANSION_1,RULESET_EXPANSION_2</RuleSetInUse>
+		</Criteria>
+		<Criteria id="AlexanderScenarioRequirements">
+			<RuleSetInUse>RULESET_SCENARIO_ALEXANDER</RuleSetInUse>
+		</Criteria>
 		<!-- DLC5: NUBIA CIVILIZATION & SCENARIO PACK -->
 		<!-- DLC6: KHMER AND INDONESIA CIVILIZATION & SCENARIO PACK -->
-		<!-- DLC7: MAYA & GRAN COLOMBIA PACK -->
+		<!-- Addon -->
+		<Criteria id="BlackDeathScenario">
+			<RuleSetInUse>RULESET_SCENARIO_BLACKDEATH</RuleSetInUse>
+		</Criteria>
+		<Criteria id="CivRoyaleScenario">
+			<RuleSetInUse>RULESET_SCENARIO_CIV_ROYALE</RuleSetInUse>
+		</Criteria>
+		<!-- SID MEIER'S CIVILIZATION VI - NEW FRONTIER PASS -->
+		<!-- New Frontier Pack 1: MAYA & GRAN COLOMBIA PACK -->
+		<!-- New Frontier Pack 2 -->
+		<!-- New Frontier Pack 3 -->
+		<!-- New Frontier Pack 4 -->
+		<!-- New Frontier Pack 5 -->
+		<!-- New Frontier Pack 6 -->
+		<!-- SID MEIER'S CIVILIZATION VI - NEW FRONTIER PASS -->
 	</ActionCriteria>
 	<!-- Sẽ được tải trước khi hiển thị menu chính, nhưng không phải trước "Loading game, please wait" -->
 	<FrontEndActions>
@@ -217,13 +246,49 @@
 				<LoadOrder>100</LoadOrder>
 			</Properties>		
 			<File>vi_VI_DLC/vi_VI_Poland_Jadwiga/Poland_Jadwiga_ConfigText.xml</File>
-		</UpdateText>
+		</UpdateText>		
 		<!-- DLC3: AUSTRALIA CIVILIZATION & SCENARIO PACK -->
+		<UpdateText id="FrontEnd_Australia_Settings">
+			<Properties>
+				<LoadOrder>100</LoadOrder>
+			</Properties>
+			<File>vi_VI_DLC/vi_VI_Australia/Australia_ConfigText.xml</File>
+		</UpdateText>
+		<UpdateText id="FrontEnd_AustraliaScenario_Settings">
+			<Properties>
+				<LoadOrder>100</LoadOrder>
+			</Properties>
+			<File>vi_VI_DLC/vi_VI_AustraliaScenario/AustraliaScenario_ConfigText.xml</File>
+		</UpdateText>
 		<!-- DLC4: PERSIA AND MACEDON CIVILIZATION & SCENARIO PACK -->
+		<UpdateText id="FrontEnd_Macedonia_Settings">
+			<Properties>
+				<LoadOrder>100</LoadOrder>
+			</Properties>
+			<File>vi_VI_DLC/vi_VI_Macedonia_Persia/Macedonia_Persia_ConfigText.xml</File>
+		</UpdateText>
+		<UpdateText id="FrontEnd_AlexanderScenario_Setting">
+			<Properties>
+				<LoadOrder>100</LoadOrder>
+			</Properties>
+			<File>vi_VI_DLC/vi_VI_AlexanderScenario/AlexanderScenario_ConfigText.xml</File>
+		</UpdateText>
 		<!-- DLC5: NUBIA CIVILIZATION & SCENARIO PACK -->
 		<!-- DLC6: KHMER AND INDONESIA CIVILIZATION & SCENARIO PACK -->
 		<!-- DLC7: MAYA & GRAN COLOMBIA PACK -->
-		<!-- DLC: Australia -->					
+		<!-- Addon -->
+		<UpdateText id="FrontEnd_BlackDeathScenario_Settings">
+			<Properties>
+				<LoadOrder>100</LoadOrder>
+			</Properties>
+			<File>vi_VI_DLC/vi_VI_BlackDeathScenario/BlackDeathScenario_ConfigText.xml</File>
+		</UpdateText>
+		<UpdateText id="FrontEnd_CivRoyaleScenario_Settings">
+			<Properties>
+				<LoadOrder>100</LoadOrder>
+			</Properties>
+			<File>vi_VI_DLC/vi_VI_CivRoyaleScenario/CivRoyaleScenario_ConfigText.xml</File>
+		</UpdateText>					
 	</FrontEndActions>
 	<!-- these are loaded when starting to play a game -->
 	<InGameActions>
@@ -480,6 +545,13 @@
 			<File>vi_VI_DLC/vi_VI_VikingsLandmarks/VikingsLandmarks_Text.xml</File>
 		</UpdateText>
 		<!-- DLC2: POLAND CIVILIZATION & SCENARIO PACK -->
+		<UpdateText id="InGame_PolandJadwiga" criteria="PolandJadwiga">
+			<Properties>
+				<LoadOrder>100</LoadOrder>
+			</Properties>
+			<File>vi_VI_DLC/vi_VI_Poland_Jadwiga/Poland_Jadwiga_ConfigText.xml</File>
+			<File>vi_VI_DLC/vi_VI_Poland_Jadwiga/Poland_Jadwiga_GameplayText.xml</File>
+		</UpdateText>		
 		<UpdateText id="InGame_PolandScenario" criteria="PolandScenario">
 			<Properties>
 				<LoadOrder>100</LoadOrder>
@@ -489,20 +561,63 @@
 			<File>vi_VI_DLC/vi_VI_PolandScenario/PolandScenario_ConfigText.xml</File>
 			<File>vi_VI_DLC/vi_VI_PolandScenario/PolandScenario_Text.xml</File>
 		</UpdateText>
-		<UpdateText id="InGame_PolandJadwiga" criteria="PolandJadwiga">
+		<!-- DLC3: AUSTRALIA CIVILIZATION & SCENARIO PACK -->
+		<UpdateText id="InGame_Australia" criteria="Australia">
 			<Properties>
 				<LoadOrder>100</LoadOrder>
 			</Properties>
-			<File>vi_VI_DLC/vi_VI_Poland_Jadwiga/Poland_Jadwiga_ConfigText.xml</File>
-			<File>vi_VI_DLC/vi_VI_Poland_Jadwiga/Poland_Jadwiga_GameplayText.xml</File>
+			<File>vi_VI_DLC/vi_VI_Australia/Australia_CivilopediaText.xml</File>
+			<File>vi_VI_DLC/vi_VI_Australia/Australia_ConfigText.xml</File>
+			<File>vi_VI_DLC/vi_VI_Australia/Australia_Text.xml</File>
 		</UpdateText>
-		<!-- DLC3: AUSTRALIA CIVILIZATION & SCENARIO PACK -->
+		<UpdateText id="InGame_AustraliaScenario" criteria="AustraliaScenario">
+			<Properties>
+				<LoadOrder>100</LoadOrder>
+			</Properties>
+			<Include mod_id="85E4EEAC-95AA-3E32-1068-91E207B1427F" action_id="InGame_Australia" required="1" />
+			<File>vi_VI_DLC/vi_VI_AustraliaScenario/AustraliaScenario_CivilopediaText.xml</File>
+			<File>vi_VI_DLC/vi_VI_AustraliaScenario/AustraliaScenario_ConfigText.xml</File>
+			<File>vi_VI_DLC/vi_VI_AustraliaScenario/AustraliaScenario_EventText.xml</File>
+			<File>vi_VI_DLC/vi_VI_AustraliaScenario/AustraliaScenario_Text.xml</File>
+		</UpdateText>	
 		<!-- DLC4: PERSIA AND MACEDON CIVILIZATION & SCENARIO PACK -->
+		<UpdateText id="InGame_Macedonia" criteria="MacedoniaPersia">
+			<Properties>
+				<LoadOrder>100</LoadOrder>
+			</Properties>
+			<File>vi_VI_DLC/vi_VI_Macedonia_Persia/Macedonia_Persia_CivilopediaText.xml</File>
+			<File>vi_VI_DLC/vi_VI_Macedonia_Persia/Macedonia_Persia_ConfigText.xml</File>
+			<File>vi_VI_DLC/vi_VI_Macedonia_Persia/Macedonia_Persia_GameplayText.xml</File>
+		</UpdateText>
+		<UpdateText id="InGame_AlexanderScenario" criteria="AlexanderScenarioRequirements">
+			<Properties>
+				<LoadOrder>100</LoadOrder>
+			</Properties>
+			<Include mod_id="85E4EEAC-95AA-3E32-1068-91E207B1427F" action_id="InGame_Macedonia" required="1" />
+			<File>vi_VI_DLC/vi_VI_AlexanderScenario/AlexanderScenario_CivilopediaText.xml</File>
+			<File>vi_VI_DLC/vi_VI_AlexanderScenario/AlexanderScenario_ConfigText.xml</File>
+			<File>vi_VI_DLC/vi_VI_AlexanderScenario/AlexanderScenario_Text.xml</File>
+		</UpdateText>
 		<!-- DLC5: NUBIA CIVILIZATION & SCENARIO PACK -->
 		<!-- DLC6: KHMER AND INDONESIA CIVILIZATION & SCENARIO PACK -->
 		<!-- DLC7: MAYA & GRAN COLOMBIA PACK -->
-		<!-- DLC: Australia -->				
+		<!-- Addon -->
+		<UpdateText id="InGame_BlackDeathScenario" criteria="BlackDeathScenario">
+			<Properties>
+				<LoadOrder>100</LoadOrder>
+			</Properties>
+			<File>vi_VI_DLC/vi_VI_BlackDeathScenario/BlackDeathScenario_ConfigText.xml</File>
+			<File>vi_VI_DLC/vi_VI_BlackDeathScenario/BlackDeathScenario_GameplayText.xml</File>
+		</UpdateText>
+		<UpdateText id="InGame_CivRoyaleScenario" criteria="CivRoyaleScenario">
+			<Properties>
+				<LoadOrder>100</LoadOrder>
+			</Properties>
+			<File>vi_VI_DLC/vi_VI_CivRoyaleScenario/CivRoyaleScenario_ConfigText.xml</File>
+			<File>vi_VI_DLC/vi_VI_CivRoyaleScenario/CivRoyaleScenario_Text.xml</File>
+		</UpdateText>				
 	</InGameActions>
+	<!-- Mod Infomation Text -->
 	<LocalizedText>
 		<Text id="LOC_MOD_TITLE">
 			<en_US>Vietnamese Language Pack</en_US>
@@ -517,6 +632,7 @@
 			<en_US>King CTer</en_US>
 		</Text>
 	</LocalizedText>
+	<!-- Config File -->
 	<Files>
 		<File>LocalizationDatabase_Data.sql</File>
 		<!-- Vanilla -->
@@ -744,10 +860,27 @@
 		<File>vi_VI_DLC/vi_VI_Poland_Jadwiga/Poland_Jadwiga_ConfigText.xml</File>
 		<File>vi_VI_DLC/vi_VI_Poland_Jadwiga/Poland_Jadwiga_GameplayText.xml</File>
 		<!-- DLC3: AUSTRALIA CIVILIZATION & SCENARIO PACK -->
+		<File>vi_VI_DLC/vi_VI_Australia/Australia_CivilopediaText.xml</File>
+		<File>vi_VI_DLC/vi_VI_Australia/Australia_ConfigText.xml</File>
+		<File>vi_VI_DLC/vi_VI_Australia/Australia_Text.xml</File>
+		<File>vi_VI_DLC/vi_VI_AustraliaScenario/AustraliaScenario_CivilopediaText.xml</File>
+		<File>vi_VI_DLC/vi_VI_AustraliaScenario/AustraliaScenario_ConfigText.xml</File>
+		<File>vi_VI_DLC/vi_VI_AustraliaScenario/AustraliaScenario_EventText.xml</File>
+		<File>vi_VI_DLC/vi_VI_AustraliaScenario/AustraliaScenario_Text.xml</File>		
 		<!-- DLC4: PERSIA AND MACEDON CIVILIZATION & SCENARIO PACK -->
+		<File>vi_VI_DLC/vi_VI_Macedonia_Persia/Macedonia_Persia_CivilopediaText.xml</File>
+		<File>vi_VI_DLC/vi_VI_Macedonia_Persia/Macedonia_Persia_ConfigText.xml</File>
+		<File>vi_VI_DLC/vi_VI_Macedonia_Persia/Macedonia_Persia_GameplayText.xml</File>
+		<File>vi_VI_DLC/vi_VI_AlexanderScenario/AlexanderScenario_CivilopediaText.xml</File>
+		<File>vi_VI_DLC/vi_VI_AlexanderScenario/AlexanderScenario_ConfigText.xml</File>
+		<File>vi_VI_DLC/vi_VI_AlexanderScenario/AlexanderScenario_Text.xml</File>
 		<!-- DLC5: NUBIA CIVILIZATION & SCENARIO PACK -->
 		<!-- DLC6: KHMER AND INDONESIA CIVILIZATION & SCENARIO PACK -->
 		<!-- DLC7: MAYA & GRAN COLOMBIA PACK -->
-		<!-- DLC: Australia -->
+		<!-- Addon -->
+		<File>vi_VI_DLC/vi_VI_BlackDeathScenario/BlackDeathScenario_ConfigText.xml</File>
+		<File>vi_VI_DLC/vi_VI_BlackDeathScenario/BlackDeathScenario_GameplayText.xml</File>
+		<File>vi_VI_DLC/vi_VI_CivRoyaleScenario/CivRoyaleScenario_ConfigText.xml</File>
+		<File>vi_VI_DLC/vi_VI_CivRoyaleScenario/CivRoyaleScenario_Text.xml</File>
 	</Files>
 </Mod>
