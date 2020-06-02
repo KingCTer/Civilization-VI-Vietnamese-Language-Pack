@@ -24,7 +24,6 @@
 		<Replace Language='en_US' Tag="LOC_GENERIC_CONFIRM_BUTTON">
 			<Text>Xác nhận</Text>
 		</Replace>
-		
 		<!-- Front End Popups -->
 		<Replace Language='en_US' Tag="LOC_FRONTEND_POPUP_UNKNOWN_DEVICE">
 			<Text>Không thể xác định khả năng của thiết bị đồ họa.[NEWLINE][NEWLINE]Làm ơn thiết lập thủ công.</Text>
@@ -41,7 +40,6 @@
 		<Replace Language='en_US' Tag="LOC_FRONTEND_POPUP_GRAPHICS_SETTINGS_CHANGED">
 			<Text>Cài đặt đồ họa đã được điều chỉnh. Bạn có thể xem lại hoặc thay đổi các cài đặt này trong Menu Tùy Chọn.</Text>
 		</Replace>
-	
 		<!-- Main Menu-->
 		<Replace Language='en_US' Tag="LOC_MAIN_MENU_RESUME_GAME">
 			<Text>Tiếp tục game</Text>
@@ -49,9 +47,9 @@
 		<Replace Language='en_US' Tag="LOC_PLAY_CIVILIZATION_6">
 			<Text>Chơi luôn</Text>
 		</Replace>
-    <Replace Language='en_US' Tag="LOC_SINGLE_PLAYER">
-      <Text>Chơi đơn</Text>
-    </Replace>
+    	<Replace Language='en_US' Tag="LOC_SINGLE_PLAYER">
+      		<Text>Chơi đơn</Text>
+    	</Replace>
 		<Replace Language='en_US' Tag="LOC_PLAY_MULTIPLAYER">
 			<Text>Chơi nhiều người</Text>
 		</Replace>
@@ -74,7 +72,7 @@
 			<Text>Tùy chọn</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_MAIN_MENU_MODS">
-			<Text>Mods</Text>
+			<Text>Mods</Text>			
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_MAIN_MENU_MY2K_LOGIN">
 			<Text>Đăng nhập My2K</Text>

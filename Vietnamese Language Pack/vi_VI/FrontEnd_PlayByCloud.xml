@@ -2,110 +2,110 @@
 <GameData>
 	<LocalizedText>
 		<Replace Language='en_US' Tag="LOC_PLAY_MULTIPLAYER_HAVE_CLOUD_NOTIFY">
-			<Text>[ICON_Exclamation] Multiplayer</Text>
+			<Text>[ICON_Exclamation] Nhiều người chơi</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_PLAY_MULTIPLAYER_UNSEEN_COMPLETE_GAME">
-			<Text>[ICON_Exclamation] Multiplayer</Text>
+			<Text>[ICON_Exclamation] Nhiều người chơi</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_PLAY_MULTIPLAYER_NEW_MP_MODE">
-			<Text>[ICON_Exclamation] Multiplayer</Text>
+			<Text>[ICON_Exclamation] Nhiều người chơi</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_MULTIPLAYER_CLOUD_GAME">
-			<Text>Play By Cloud</Text>
+			<Text>Chơi theo đám mây</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_MULTIPLAYER_CLOUD_GAME_HAVE_CLOUD_NOTIFY">
-			<Text>[ICON_Exclamation] Play By Cloud</Text>
+			<Text>[ICON_Exclamation] Chơi theo đám mây</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_MULTIPLAYER_CLOUD_UNSEEN_COMPLETE_GAME">
-			<Text>[ICON_Exclamation] Play By Cloud</Text>
+			<Text>[ICON_Exclamation] Chơi theo đám mây</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_MULTIPLAYER_CLOUD_NEW_MODE">
-			<Text>[ICON_Exclamation] Play By Cloud</Text>
+			<Text>[ICON_Exclamation] Chơi theo đám mây</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_MULTIPLAYER_CLOUD_GAME_TT">
-			<Text>Play an asynchronous multiplayer game, which will be stored on the cloud and shared with all players. Requires an active connection to Civilization servers.</Text>
+			<Text>Chơi một trò chơi nhiều người không đồng bộ, trò chơi này sẽ được lưu trữ trên đám mây và chia sẻ với tất cả người chơi. Yêu cầu kết nối hoạt động với máy chủ Civilization.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_MULTIPLAYER_CLOUD_GAME_NO_LOGIN_TT">
-			<Text>Not Logged into Civilization servers.</Text>
+			<Text>Chưa đăng nhập vào máy chủ Civilization.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_MULTIPLAYER_CLOUD_GAME_HAVE_TURN_TT">
-			<Text>It is your turn in a Play By Cloud game.</Text>
+			<Text>Đến lượt bạn chơi trò chơi Chơi theo đám mây.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_MULTIPLAYER_CLOUD_GAME_GAME_READY_TT">
-			<Text>One of your Play By Cloud games is ready to start.</Text>
+			<Text>Một trong những trò chơi Chơi theo đám mây của bạn đã sẵn sàng để bắt đầu.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_MULTIPLAYER_CLOUD_UNSEEN_COMPLETE_GAME_TT">
-			<Text>One of your Play By Cloud games has recently completed.</Text>
+			<Text>Một trong những trò chơi Chơi theo đám mây của bạn gần đây đã hoàn thành.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_MULTIPLAYER_CLOUD_GAME_NEW_MODE_TT">
-			<Text>New multiplayer mode available!</Text>
+			<Text>Chế độ nhiều người chơi mới có sẵn!</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_PLAYBYCLOUD_REMOTE_READY_POPUP_TITLE">
-			<Text>Ready to Play</Text>
+			<Text>Sẵn sàng chơi</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_PLAYBYCLOUD_REMOTE_READY_POPUP_TEXT">
-			<Text>You are ready in this game. You will be notified on the main menu and Play By Cloud lobby when it is your turn. You can safely exit this game and play additional singleplayer or multiplayer games.</Text>
+			<Text>Bạn đã sẵn sàng trong trò chơi này. Bạn sẽ được thông báo trên menu chính và Chơi theo đám mây khi đến lượt của bạn. Bạn có thể thoát khỏi trò chơi này một cách an toàn và chơi thêm các trò chơi đơn hoặc nhiều người chơi.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_PLAYBYCLOUD_REMOTE_READY_POPUP_OK">
-			<Text>DO NOTHING</Text>
+			<Text>KHÔNG LÀM GÌ CẢ</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_PLAYBYCLOUD_REMOTE_READY_POPUP_LOBBY_EXIT">
-			<Text>EXIT TO LOBBY</Text>
+			<Text>THOÁT KHỎI SẢNH ĐỢI</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_MULTIPLAYER_CLOUD_LOBBY">
-			<Text>Play By Cloud</Text>
+			<Text>Chơi Theo Đám Mây</Text>
 		</Replace>
 		<!-- Cloud Game Screen -->
 		<Replace Language='en_US' Tag="LOC_MULTIPLAYER_CLOUD_LIST">
-			<Text>List</Text>
+			<Text>Danh sách</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_MULTIPLAYER_CLOUD_TEMPLATE">
-			<Text>Template</Text>
+			<Text>Bản mẫu</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_MULTIPLAYER_CLOUD_HOST">
 			<Text>Host</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_MULTIPLAYER_CLOUD_JOIN">
-			<Text>Join</Text>
+			<Text>Tham gia</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_MULTIPLAYER_CLOUD_START">
-			<Text>Start</Text>
+			<Text>Bắt đầu</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_LOBBY_MY_GAMES">
 			<Text>My Games</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_LOBBY_MY_GAMES_TT">
-			<Text>Display active games you are in.</Text>
+			<Text>Hiển thị các trò chơi đang hoạt động bạn đang tham gia.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_LOBBY_OPEN_GAMES">
-			<Text>Open Games</Text>
+			<Text>Mở Trò chơi</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_LOBBY_OPEN_GAMES_TT">
-			<Text>Display public games that are available to join.</Text>
+			<Text>Hiển thị các trò chơi công cộng có sẵn để tham gia.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_LOBBY_COMPLETED_GAMES">
-			<Text>Completed Games</Text>
+			<Text>Trò chơi đã hoàn thành</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_LOBBY_COMPLETED_GAMES_TT">
-			<Text>Display history of games you completed.</Text>
+			<Text>Hiển thị lịch sử trò chơi bạn đã hoàn thành.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_LOBBY_COMPLETED_GAMES_UNSEEN">
-			<Text>[ICON_Exclamation] Completed Games</Text>
+			<Text>[ICON_Exclamation] Trò chơi đã hoàn thành</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_LOBBY_COMPLETED_GAMES_UNSEEN_TT">
-			<Text>One of your Play By Cloud games has recently completed.[NEWLINE][NEWLINE]Display history of games you completed.</Text>
+			<Text>Một trong những trò chơi Chơi Theo Đám Mây của bạn gần đây đã hoàn thành.[NEWLINE][NEWLINE]Hiển thị lịch sử trò chơi bạn đã hoàn thành.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_LOBBY_GAME_YOUR_TURN_TOOLTIP">
-			<Text>It is your turn in this game.</Text>
+			<Text>Đến lượt bạn trong trò chơi này.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_LOBBY_GAME_GAME_READY_TOOLTIP">
-			<Text>This game is ready to start.</Text>
+			<Text>Trò chơi này đã sẵn sàng để bắt đầu.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_LOBBY_GAME_UNSEEN_COMPLETE_TOOLTIP">
-			<Text>This game was recently completed.</Text>
+			<Text>Trò chơi này đã được hoàn thành gần đây.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_LOBBY_GAME_CLOUD_PLAYER_TURN_TOOLTIP">
-			<Text>It is {1_playerName}'s turn in this game.</Text>
+			<Text>Đến lượt của {1_playerName} trong trò chơi này.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_LOBBY_GAME_NAME_YOUR_TURN">
 			<Text>[ICON_Exclamation] {1_gameName}</Text>
@@ -114,110 +114,110 @@
 			<Text>[ICON_Exclamation] {1_gameName}</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_SETUP_ERROR_PLAYBYCLOUD_REMOTE_READY">
-			<Text>Waiting for Game Start</Text>
+			<Text>Chờ đợi trò chơi bắt đầu</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_SETUP_ERROR_PLAYBYCLOUD_REMOTE_READY_TT">
-			<Text>Waiting for the host to start the game.</Text>
+			<Text>Chờ host bắt đầu trò chơi.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_READY_BLOCKED_NOT_ENOUGH_HUMANS">
-			<Text>Not Enough Human Players</Text>
+			<Text>Không đủ người chơi</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_READY_BLOCKED_NOT_ENOUGH_HUMANS_TT">
-			<Text>Can not start game.  Two human players are required to start.</Text>
+			<Text>Không thể bắt đầu trò chơi. Hai người chơi được yêu cầu để bắt đầu.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_MAINMENU_MULTIPLAYER_HAVE_CLOUD_TURN_TT">
-			<Text>It is your turn in a Play By Cloud game.</Text>
+			<Text>Đến lượt bạn chơi trò chơi Chơi theo đám mây.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_MAINMENU_MULTIPLAYER_GAME_READY_TT">
-			<Text>One of your Play By Cloud games is ready to start.</Text>
+			<Text>Một trong những trò chơi Chơi theo đám mây của bạn đã sẵn sàng để bắt đầu.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_MAINMENU_MULTIPLAYER_UNSEEN_COMPLETE_GAME_TT">
-			<Text>One of your Play By Cloud games has recently completed.</Text>
+			<Text>Một trong những trò chơi Chơi theo đám mây của bạn gần đây đã hoàn thành.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_MAINMENU_MULTIPLAYER_NEW_MP_MODE_TT">
-			<Text>New multiplayer mode available!</Text>
+			<Text>Chế độ nhiều người chơi mới có sẵn!</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_MAINMENU_MULTIPLAYER_BASE_TT">
-			<Text>Play By Cloud, Internet, network, and hot seat matches can be setup or joined here.</Text>
+			<Text>Chơi theo đám mây, Internet, mạng và ghế nóng có thể được thiết lập hoặc tham gia tại đây.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_MULTIPLAYER_PITBOSS_LOBBY">
-			<Text>PITBOSS GAMES</Text>
+			<Text>TRÒ CHƠI PITBOSS</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_MULTIPLAYER_PITBOSS_GAME">
 			<Text>Pitboss</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_MULTIPLAYER_PITBOSS_GAME_TT">
-			<Text>Play a multiplayer game where a dedicated server controls the game over a long period of time.</Text>
+			<Text>Chơi một trò chơi nhiều người trong đó một máy chủ chuyên dụng điều khiển trò chơi trong một khoảng thời gian dài.</Text>
 		</Replace>
 		<!-- Multiplayer Joining Room Screen -->
 		<Replace Language='en_US' Tag="LOC_MP_ROOM_TOO_MANY_MATCHES">
-			<Text>Unable to join game. You are already in the maximum allowed number of active Play By Cloud games.</Text>
+			<Text>Không thể tham gia trò chơi. Bạn đã có số lượng trò chơi Chơi theo đám mây hoạt động tối đa được phép.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_MP_ROOM_TOO_MANY_MATCHES_TITLE">
-			<Text>Too Many Matches</Text>
+			<Text>Quá nhiều trận đấu</Text>
 		</Replace>
 		<!-- Lobby Screen -->
 		<Replace Language='en_US' Tag="LOC_MULTIPLAYER_PLAY_GAME">
-			<Text>Play Game</Text>
+			<Text>Chơi Game</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_MULTIPLAYER_PLAY_GAME_TT">
-			<Text>Continue playing a multiplayer game you are already participating in.</Text>
+			<Text>Tiếp tục chơi một trò chơi nhiều người chơi mà bạn đã tham gia.</Text>
 		</Replace>
 		<!-- Join Code Popup  -->
 		<Replace Language='en_US' Tag="LOC_JOIN_CODE_POPUP_TITLE">
-			<Text>Join by Join Code</Text>
+			<Text>Tham gia bằng Mã tham gia</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_JOIN_CODE_POPUP_TEXT">
-			<Text>Join a game by using a Join Code. The Join Code can be found in the Game Summary tab of the game's Staging Room. Join Codes are case sensitive.</Text>
+			<Text>Tham gia trò chơi bằng cách sử dụng Mã tham gia. Mã tham gia có thể được tìm thấy trong tab Tóm tắt trò chơi của Phòng tổ chức trò chơi. Mã tham gia là trường hợp nhạy cảm.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_JOIN_CODE_POPUP_EDITBOX">
-			<Text>Join Code:</Text>
+			<Text>Mã Tham gia:</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_JOIN_CODE_POPUP_CANCEL">
-			<Text>Cancel</Text>
+			<Text>Hủy bỏ</Text>
 		</Replace>
 		<!-- Staging Room -->
 		<Replace Language='en_US' Tag="LOC_START_WAITING_FOR_TURN">
-			<Text>Waiting For Turn</Text>
+			<Text>Chờ đến lượt</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_START_WAITING_FOR_TURN_TT">
-			<Text>Click to observe the current game world state.</Text>
+			<Text>Nhấn vào đây để quan sát trạng thái thế giới trò chơi hiện tại.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_MULTIPLAYER_QUIT_GAME">
-			<Text>QUIT</Text>
+			<Text>THOÁT</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_GAME_MENU_QUIT_GAME_TITLE">
-			<Text>Quit Game</Text>
+			<Text>THOÁT GAME</Text>
 		</Replace>		
 		<Replace Language='en_US' Tag="LOC_GAME_MENU_QUIT_GAME_WARNING">
-			<Text>Are you sure you wish to quit this multiplayer game? You will lose your progress and be removed from this game.</Text>
+			<Text>Bạn có chắc chắn muốn thoát khỏi trò chơi nhiều người chơi này? Bạn sẽ mất tiến bộ của bạn và bị loại khỏi trò chơi này.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_MULTIPLAYER_QUITING_GAME_TITLE">
-			<Text>Quit Game</Text>
+			<Text>Thoát trò chơi</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_MULTIPLAYER_QUITING_GAME_PROMPT">
-			<Text>Quitting Game...</Text>
+			<Text>Đang thoát khỏi trò chơi...</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_MULTIPLAYER_QUITING_GAME_FAIL_TITLE">
-			<Text>Quit Error</Text>
+			<Text>Thoát lỗi</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_MULTIPLAYER_QUITING_GAME_FAIL">
-			<Text>Error while quitting game.</Text>
+			<Text>Lỗi trong khi thoát trò chơi.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_MULTIPLAYER_QUITING_GAME_FAIL_ACCEPT">
 			<Text>Ok</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_STAGING_ROOM_JOIN_CODE">
-			<Text>Join Code:</Text>
+			<Text>Mã Tham gia:</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_STAGING_ROOM_COPY_JOIN_CODE">
-			<Text>Click Join Code to copy</Text>
+			<Text>Nhấp vào Mã Tham gia để sao chép</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_GAME_MENU_END_GAME_TITLE">
-			<Text>Delete Game</Text>
+			<Text>Xóa trò chơi</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_GAME_MENU_END_GAME_WARNING">
-			<Text>Are you sure you wish to delete this multiplayer game? This will end this game for all players.</Text>
+			<Text>Bạn có chắc chắn muốn xóa trò chơi nhiều người chơi này? Điều này sẽ kết thúc trò chơi này cho tất cả người chơi.</Text>
 		</Replace>
 		<!-- Options Screen -->
 		<Replace Language='en_US' Tag="LOC_OPTIONS_WEBHOOK_URL">
@@ -227,10 +227,10 @@
 			<Text>Play By Cloud Webhook Frequency:</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_OPTIONS_WEBHOOK_MODE">
-			<Text>Play By Cloud Mode:</Text>
+			<Text>Chế độ Play By Cloud :</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_OPTIONS_WEBHOOK_MODE_TOOLTIP">
-			<Text>Mode A - Compatible with IFTTT[NEWLINE]JSON Payload Variables[NEWLINE][ICON_Bullet]"value1" = Game Name[NEWLINE][ICON_Bullet]"value2" = Player Name[NEWLINE][ICON_Bullet]"value3" = Game Turn[NEWLINE]Mode B - Compatible with Discord[NEWLINE]JSON Payload Variables[NEWLINE][ICON_Bullet]"content" = Notification Message</Text>
+			<Text>Chế độ A - Tương thích với IFTTT[NEWLINE]JSON Payload Variables[NEWLINE][ICON_Bullet]"value1" = Game Name[NEWLINE][ICON_Bullet]"value2" = Player Name[NEWLINE][ICON_Bullet]"value3" = Game Turn[NEWLINE]Chế độ B - Tương thích với Discord[NEWLINE]JSON Payload Variables[NEWLINE][ICON_Bullet]"content" = Notification Message</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_WEBHOOK_FREQ_MY_TURN">
 			<Text>My Turn</Text>
@@ -239,37 +239,37 @@
 			<Text>Every Turn</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_WEBHOOK_PAYLOAD_MODE_A">
-			<Text>Mode A</Text>
+			<Text>Chế độ A</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_WEBHOOK_PAYLOAD_MODE_B">
-			<Text>Mode B</Text>
+			<Text>Chế độ B</Text>
 		</Replace>
 		
 		<!-- PlayByCloud Notification Reminder Popup -->
 		<Replace Language='en_US' Tag="LOC_PBC_NOTIFY_REMINDER_TITLE">
-			<Text>Setup your notifications!</Text>
+			<Text>Thiết lập thông báo của bạn!</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_PBC_OVERVIEW_DESC">
 			<Text>
-				Play By Cloud is an asynchronous multiplayer format where all players take their turns on a common savegame, which is stored on a hosted server. This is a more modern version of “passing the savegame,” which was the ancient practice of sharing a floppy disk with a common save file between friends (if you are unfamiliar with the concept of a “floppy disk,” please ask a respected adult of venerable age).[NEWLINE][NEWLINE]A Play By Cloud game may last a long time (on the order of days or weeks) as each player takes his or her turn at a time that is convenient to them. You will receive notifications when it is your turn to play. You may see a Steam notification if Steam is active, or you may use the webhooks. Webhooks are a generic message format that the technically-inclined can integrate into other messaging services, email, or Internet of Things devices.[NEWLINE][NEWLINE]In asynchronous multiplayer, it is considered courteous to take your turn at your earliest possible convenience to keep the game moving. In ancient times, players were morally obligated to protect the floppy disk from corruption, with unscrupulous players resorting to “losing” the savegame when in an untenable situation. Play By Cloud eliminates such rascally behavior.
+				Play By Cloud là một định dạng nhiều người chơi không đồng bộ, trong đó tất cả người chơi lần lượt vào một trò chơi lưu trữ chung, được lưu trữ trên một máy chủ được lưu trữ. Đây là một phiên bản hiện đại hơn của việc chuyển qua trò chơi lưu trữ, đó là cách thực hành cổ xưa về việc chia sẻ đĩa mềm với một tệp lưu chung giữa bạn bè (nếu bạn không quen với khái niệm về đĩa mềm, bạn hãy hỏi một người lớn đáng kính của tuổi đáng kính).[NEWLINE][NEWLINE]Trò chơi Play By Cloud có thể tồn tại rất lâu (theo thứ tự ngày hoặc tuần) khi mỗi người chơi thay phiên nhau vào thời điểm thuận tiện cho họ. Bạn sẽ nhận được thông báo khi đến lượt chơi. Bạn có thể thấy thông báo Steam nếu Steam đang hoạt động hoặc bạn có thể sử dụng webhooks. Webhooks là một định dạng tin nhắn chung mà người có khuynh hướng kỹ thuật có thể tích hợp vào các dịch vụ nhắn tin, email hoặc thiết bị Internet of Things khác.[NEWLINE][NEWLINE]Trong chế độ nhiều người chơi không đồng bộ, việc thay phiên nhau sớm nhất có thể được coi là lịch sự để giữ cho trò chơi được di chuyển. Vào thời cổ đại, người chơi có nghĩa vụ về mặt đạo đức để bảo vệ đĩa mềm khỏi tham nhũng, với những người chơi vô đạo đức phải dùng đến trò thua của trò chơi Save khi chơi trong tình huống không thể cứu vãn. Play By Cloud loại bỏ hành vi đê tiện như vậy.
 			</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_PBC_NOTIFY_REMINDER_DESC">
 			<Text>
-				We recommend you enable notifications prior to starting a Play By Cloud match.[NEWLINE][NEWLINE]You must have notifications configured to receive notifications outside of Sid Meier’s Civilization VI.
+				Chúng tôi khuyên bạn nên bật thông báo trước khi bắt đầu trận đấu Play By Cloud.[NEWLINE][NEWLINE]Bạn phải cấu hình thông báo để nhận thông báo bên ngoài Sid Meier’s Civilization VI.
 			</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_DO_NOT_REMIND_ALT">
-			<Text>Do Not Remind</Text>
+			<Text>Đừng nhắc nhở</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_DO_NOT_REMIND_ALT_TT">
-			<Text>Never show this reminder again.</Text>
+			<Text>Không bao giờ hiển thị lời nhắc này một lần nữa.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_DO_NOT_REMIND">
-			<Text>Do not show this again</Text>
+			<Text>Đừng Hiện lại lần nữa</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_DO_NOT_REMIND_TT">
-			<Text>Never show this reminder again.</Text>
+			<Text>Không bao giờ hiển thị lời nhắc này một lần nữa.</Text>
 		</Replace>
 	</LocalizedText>
 </GameData>

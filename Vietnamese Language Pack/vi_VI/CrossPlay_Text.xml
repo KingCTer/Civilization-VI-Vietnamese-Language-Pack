@@ -3,31 +3,31 @@
 <GameData>
 	<LocalizedText>
 		<Replace Language='en_US' Tag="LOC_MULTIPLAYER_CROSSPLAY_GAME">
-			<Text>Internet (Unified PC Play)</Text>
+			<Text>Internet (Chơi PC hợp nhất)</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_MULTIPLAYER_CROSSPLAY_NEW_GAME">
-			<Text>[ICON_Exclamation] Internet (Unified PC Play)</Text>
+			<Text>[ICON_Exclamation] Internet (Chơi PC hợp nhất)</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_MULTIPLAYER_CROSSPLAY_GAME_OFFLINE">
-			<Text>[ICON_CheckFail] Internet (Unified PC Play)</Text>
+			<Text>[ICON_CheckFail] Internet (Chơi PC hợp nhất)</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_MULTIPLAYER_CROSSPLAY_NEW_GAME_OFFLINE">
-			<Text>[ICON_Exclamation][ICON_CheckFail] Internet (Unified PC Play)</Text>
+			<Text>[ICON_Exclamation][ICON_CheckFail] Internet (Chơi PC hợp nhất)</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_MULTIPLAYER_CROSSPLAY_GAME_TT">
-			<Text>Play a multiplayer game on the internet against users on other platforms.</Text>
+			<Text>Chơi trò chơi nhiều người chơi trên internet với người dùng trên các nền tảng khác.</Text>
 		</Replace>
     <Replace Language='en_US' Tag="LOC_MULTIPLAYER_CROSSPLAY_NEW_GAME_TT">
-      <Text>New multiplayer mode: Play a multiplayer game on the internet against users on other platforms.</Text>
+      <Text>Chế độ nhiều người chơi mới: Chơi trò chơi nhiều người chơi trên internet với người dùng trên các nền tảng khác.</Text>
     </Replace>
 		<Replace Language='en_US' Tag="LOC_MULTIPLAYER_CROSSPLAY_GAME_OFFLINE_TT">
-			<Text>Unified PC Play games are not available while Unified Play servers are offline.</Text>
+			<Text>Các trò chơi PC Play hợp nhất không khả dụng trong khi các máy chủ của Unified Play đang ngoại tuyến.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_MULTIPLAYER_CROSSPLAY_NEW_GAME_OFFLINE_TT">
-			<Text>New multiplayer mode: Unified PC Play games are not available while Unified Play servers are offline.</Text>
+			<Text>Chế độ nhiều người chơi mới: Các trò chơi PC Play hợp nhất không khả dụng trong khi các máy chủ của Unified Play đang ngoại tuyến.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_MULTIPLAYER_CROSSPLAY_GAME_NEW_MODE_TT">
-			<Text>New multiplayer mode available!</Text>
+			<Text>Chế độ nhiều người chơi mới có sẵn!</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_MULTIPLAYER_CROSSPLAY_LOBBY">
 			<Text>UNIFIED PC PLAY GAMES</Text>
@@ -36,16 +36,16 @@
 			<Text>Ok</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="TXT_KEY_CROSSPLAY_LOGIN_ERROR_TITLE">
-			<Text>Login Error</Text>
+			<Text>Lỗi đăng nhập</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="TXT_KEY_CROSSPLAY_LOGIN_ERROR_MESSAGE">
-			<Text>There has been an error with your login attempt.</Text>
+			<Text>Đã có một lỗi với nỗ lực đăng nhập của bạn.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="TXT_KEY_CROSSPLAY_AUTHORIZATION_ERROR_MESSAGE">
-			<Text>There was an issue validating your Steam account.</Text>
+			<Text>Đã xảy ra sự cố khi xác thực tài khoản Steam của bạn.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="TXT_KEY_CROSSPLAY_CREATE_USER_ERROR_MESSAGE">
-			<Text>There was an issue generating a Unified Play ID for your account.</Text>
+			<Text>Có một vấn đề tạo ra một Unified Play ID cho tài khoản của bạn.</Text>
 		</Replace>
 	</LocalizedText>
 </GameData>
