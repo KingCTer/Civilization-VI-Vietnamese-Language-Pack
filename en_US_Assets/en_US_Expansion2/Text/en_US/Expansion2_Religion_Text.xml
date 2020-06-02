@@ -1,42 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
 <GameData>
-	<EnglishText>
-		<Row Tag="LOC_BELIEF_GODDESS_OF_FIRE_NAME">
+	<LocalizedText>
+		<Replace Language='en_US' Tag="LOC_BELIEF_GODDESS_OF_FIRE_NAME">
 			<Text>Fire Goddess</Text>
-		</Row>
-		<Row Tag="LOC_BELIEF_GODDESS_OF_FIRE_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_GODDESS_OF_FIRE_DESCRIPTION">
 			<Text>+2 [ICON_FAITH] Faith from Geothermal Fissures and Volcanic Soil.</Text>
-		</Row>
-		<Row Tag="LOC_BELIEF_GOD_OF_CRAFTSMEN_EXPANSION2_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_GOD_OF_CRAFTSMEN_EXPANSION2_DESCRIPTION">
 			<Text>+1 [ICON_Production] Production and +1 [ICON_Faith] Faith from improved Strategic resources.</Text>
-		</Row>
-		<Row Tag="LOC_BELIEF_DIVINE_SPARK_EXPANSION2_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_DIVINE_SPARK_EXPANSION2_DESCRIPTION">
 			<Text>+1 [ICON_GreatPerson] Great Person Points from Holy Sites (Prophet), Campuses with a Library (Scientist), and Theater Squares with an Amphitheater (Writer).</Text>
-		</Row>
-		<Row Tag="LOC_BELIEF_EARTH_GODDESS_EXPANSION2_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_EARTH_GODDESS_EXPANSION2_DESCRIPTION">
 			<Text>+2 Faith [ICON_Faith] from tiles with Breathtaking Appeal.</Text>
-		</Row>
-		<Row Tag="LOC_BELIEF_GODDESS_OF_THE_HUNT_EXPANSION2_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_GODDESS_OF_THE_HUNT_EXPANSION2_DESCRIPTION">
 			<Text>+1 [ICON_Food] Food and +1 [ICON_Production] Production from Camps.</Text>
-		</Row>
-		<Row Tag="LOC_BELIEF_GODDESS_OF_FESTIVALS_EXPANSION2_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_GODDESS_OF_FESTIVALS_EXPANSION2_DESCRIPTION">
 			<Text>+1 [ICON_Culture] Culture from Plantations.</Text>
-		</Row>
-		<Row Tag="LOC_BELIEF_FERTILITY_RITES_EXPANSION2_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_FERTILITY_RITES_EXPANSION2_DESCRIPTION">
 			<Text>When chosen receive a Builder in your capital. City growth rate is 10% higher.</Text>
-		</Row>
-		<Row Tag="LOC_BELIEF_RELIGIOUS_SETTLEMENTS_EXPANSION2_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_RELIGIOUS_SETTLEMENTS_EXPANSION2_DESCRIPTION">
 			<Text>When chosen receive a Settler in your capital. Border expansion rate is 15% faster.</Text>
-		</Row>
-		<Row Tag="LOC_BELIEF_RIVER_GODDESS_EXPANSION2_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_RIVER_GODDESS_EXPANSION2_DESCRIPTION">
 			<Text>+2 [ICON_Amenities] Amenities and +2 [ICON_Housing] Housing to cities if they have a Holy Site district adjacent to a River.</Text>
-		</Row>
-		<Row Tag="LOC_BELIEF_INITIATION_RITES_EXPANSION2_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_INITIATION_RITES_EXPANSION2_DESCRIPTION">
 			<Text>+50 [ICON_Faith] Faith for each Barbarian Outpost cleared. The unit that cleared the Barbarian Outpost heals +100 HP.</Text>
-		</Row>
-		<Row Tag="LOC_BELIEF_LADY_OF_THE_REEDS_AND_MARSHES_EXPANSION2_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_LADY_OF_THE_REEDS_AND_MARSHES_EXPANSION2_DESCRIPTION">
 			<Text>+1 [ICON_Production] Production from Marsh, Oasis, and Desert Floodplains.</Text>
-		</Row>
-	</EnglishText>
+		</Replace>
+	</LocalizedText>
 </GameData>

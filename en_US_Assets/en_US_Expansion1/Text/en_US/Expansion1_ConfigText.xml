@@ -1,390 +1,390 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameData>
-	<EnglishText>
+	<LocalizedText>
 		<!-- FrontEnd Text -->
-		<Row Tag="LOC_EXPANSION1_NAME">
+		<Replace Language='en_US' Tag="LOC_EXPANSION1_NAME">
 			<Text>Expansion: Rise and Fall</Text>
-		</Row>
-		<Row Tag="LOC_EXPANSION1_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_EXPANSION1_DESCRIPTION">
 			<Text>This is a game using the Rise and Fall Expansion, which includes Great Ages, Loyalty, Governors, and Emergencies. Can you lead your people into a Golden Age of prosperity? Or will your empire face the challenges of a Dark Age?</Text>
-		</Row>
+		</Replace>
 		<!-- Map Config Text -->
-		<Row Tag="LOC_MAP_ARCHIPELAGO_NAME">
+		<Replace Language='en_US' Tag="LOC_MAP_ARCHIPELAGO_NAME">
 			<Text>Archipelago</Text>
-		</Row>
-		<Row Tag="LOC_TSLEUROPE_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TSLEUROPE_NAME">
 			<Text>True Start Location Europe</Text>
-		</Row>
-		<Row Tag="LOC_TSLEUROPE_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TSLEUROPE_DESCRIPTION">
 			<Text>Civilizations start at the location of their historic capital on the Europe map.</Text>
-		</Row>
-		<Row Tag="LOC_MAP_EUROPE_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MAP_EUROPE_NAME">
 			<Text>Europe</Text>
-		</Row>
-		<Row Tag="LOC_MAP_EUROPE_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MAP_EUROPE_DESCRIPTION">
 			<Text>A representation of Europe with resources, terrain, and features reflecting their historic locations.</Text>
-		</Row>
+		</Replace>
 		<!-- Player Config Text -->
 		<!-- District Config Text -->
-		<Row Tag="LOC_DISTRICT_WATER_STREET_CARNIVAL_NAME">
+		<Replace Language='en_US' Tag="LOC_DISTRICT_WATER_STREET_CARNIVAL_NAME">
 			<Text>Copacabana</Text>
-		</Row>
-		<Row Tag="LOC_DISTRICT_WATER_STREET_CARNIVAL_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DISTRICT_WATER_STREET_CARNIVAL_DESCRIPTION">
 			<Text>A district unique to Brazil. Replaces the Water Park district, and provides +2 [ICON_Amenities] Amenities. Also unlocks the Carnival project, which grants an additional +1 [ICON_Amenities] Amenity when underway and a variety of [ICON_GreatPerson] Great People points once completed. Cannot be built in a city with a Street Carnival. Cannot be built on Reef.</Text>
-		</Row>
-		<Row Tag="LOC_DISTRICT_STREET_CARNIVAL_EXPANSION1_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DISTRICT_STREET_CARNIVAL_EXPANSION1_DESCRIPTION">
 			<Text>A district unique to Brazil. Replaces the Entertainment Complex district, and provides +2 [ICON_Amenities] Amenities. Also unlocks the Carnival project, which grants an additional +1 [ICON_Amenities] Amenity when underway and a variety of [ICON_GreatPerson] Great People points once completed. Cannot be built in a city with a Copacabana.</Text>
-		</Row>
+		</Replace>
 		<!-- Unit Config Text -->
-		<Row Tag="LOC_UNIT_ZULU_IMPI_NAME">
+		<Replace Language='en_US' Tag="LOC_UNIT_ZULU_IMPI_NAME">
 			<Text>Impi</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_ZULU_IMPI_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNIT_ZULU_IMPI_DESCRIPTION">
 			<Text>Zulu unique Medieval Era unit that replaces the Pikeman. Increased Flanking bonus, low cost and low maintenance. Earns XP faster.</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_KOREAN_HWACHA_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNIT_KOREAN_HWACHA_NAME">
 			<Text>Hwacha</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_KOREAN_HWACHA_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNIT_KOREAN_HWACHA_DESCRIPTION">
 			<Text>Korean unique Renaissance Era unit that replaces the Field Cannon. High [ICON_Ranged] Ranged Attack Strength. Cannot move and attack in the same turn.</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_SCOTTISH_HIGHLANDER_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNIT_SCOTTISH_HIGHLANDER_NAME">
 			<Text>Highlander</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_SCOTTISH_HIGHLANDER_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNIT_SCOTTISH_HIGHLANDER_DESCRIPTION">
 			<Text>Scottish unique Industrial Era unit that replaces the Ranger. Strong reconnaissance unit. +5 [ICON_Strength] Combat Strength bonus when fighting in Hill and Forest terrain.</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_DE_ZEVEN_PROVINCIEN_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNIT_DE_ZEVEN_PROVINCIEN_NAME">
 			<Text>De Zeven Provinciën</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_DE_ZEVEN_PROVINCIEN_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNIT_DE_ZEVEN_PROVINCIEN_DESCRIPTION">
 			<Text>Netherlands unique Renaissance Era unit that replaces the Frigate. +7 [ICON_Strength] Combat Strength when attacking defensible districts.</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_MONGOLIAN_KESHIG_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNIT_MONGOLIAN_KESHIG_NAME">
 			<Text>Keshig</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_MONGOLIAN_KESHIG_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNIT_MONGOLIAN_KESHIG_DESCRIPTION">
 			<Text>Mongolian unique Medieval Era Ranged Cavalry unit. Can escort moving civilian and support units at their higher [ICON_Movement] Movement speed.</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_GEORGIAN_KHEVSURETI_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNIT_GEORGIAN_KHEVSURETI_NAME">
 			<Text>Khevsur</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_GEORGIAN_KHEVSURETI_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNIT_GEORGIAN_KHEVSURETI_DESCRIPTION">
 			<Text>Georgian unique Medieval Era unit. +7 [ICON_Strength] Combat Strength bonus when fighting in hill terrain. No [ICON_Movement] Movement penalty in hill terrain.</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_MAPUCHE_MALON_RAIDER_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNIT_MAPUCHE_MALON_RAIDER_NAME">
 			<Text>Malón Raider</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_MAPUCHE_MALON_RAIDER_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNIT_MAPUCHE_MALON_RAIDER_DESCRIPTION">
 			<Text>Mapuche unique Renaissance Era unit. +5 [ICON_Strength] Combat Strength bonus if within 4 hexes of friendly territory. Pillaging costs 1 [ICON_Movement] Movement.</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_CREE_OKIHTCITAW_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNIT_CREE_OKIHTCITAW_NAME">
 			<Text>Okihtcitaw</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_CREE_OKIHTCITAW_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNIT_CREE_OKIHTCITAW_DESCRIPTION">
 			<Text>Cree unique Ancient era unit that replaces the Scout. Strong reconnaissance unit. Starts with 1 free promotion.</Text>
-		</Row>
+		</Replace>
 		<!-- America -->
-		<Row Tag="LOC_TRAIT_CIVILIZATION_FOUNDING_FATHERS_EXPANSION1_DESCRIPTION">
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_FOUNDING_FATHERS_EXPANSION1_DESCRIPTION">
 			<Text>All Diplomatic policy slots in the current government are converted to Wildcard slots.</Text>
-		</Row>
+		</Replace>
 		<!-- China -->
-		<Row Tag="LOC_TRAIT_CIVILIZATION_DYNASTIC_CYCLE_EXPANSION1_DESCRIPTION">
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_DYNASTIC_CYCLE_EXPANSION1_DESCRIPTION">
 			<Text>[ICON_TechBoosted] Eurekas and [ICON_CivicBoosted] Inspirations provide 50% of civics and technologies instead of 40%.</Text>
-		</Row>
+		</Replace>
 		<!-- Cleopatra -->
-		<Row Tag="LOC_TRAIT_LEADER_MEDITERRANEAN_EXPANSION1_DESCRIPTION">
+		<Replace Language='en_US' Tag="LOC_TRAIT_LEADER_MEDITERRANEAN_EXPANSION1_DESCRIPTION">
 			<Text>Your [ICON_TradeRoute] Trade Routes to other civilizations provide +4 [ICON_Gold] Gold for Egypt. Other civilizations' [ICON_TradeRoute] Trade Routes to Egypt provide +2 [ICON_Food] Food for them and +2 [ICON_Gold] Gold for Egypt.  Trading with Allies earns twice as many bonus Alliance Points.</Text>
-		</Row>
+		</Replace>
 		<!-- Chandragupta -->
-		<Row Tag="LOC_LEADER_CHANDRAGUPTA_NAME">
+		<Replace Language='en_US' Tag="LOC_LEADER_CHANDRAGUPTA_NAME">
 			<Text>Chandragupta</Text>
-		</Row>
-		<Row Tag="LOC_TRAIT_LEADER_ARTHASHASTRA_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_LEADER_ARTHASHASTRA_NAME">
 			<Text>Arthashastra</Text>
-		</Row>
-		<Row Tag="LOC_TRAIT_LEADER_ARTHASHASTRA_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_LEADER_ARTHASHASTRA_DESCRIPTION">
 			<Text>Can declare a War of Territorial Expansion after gaining the Military Training Civic.  +2 [ICON_Movement] Movement and +5 [ICON_Strength] Combat Strength for the first 10 turns after declaring a War of Territorial Expansion.</Text>
-		</Row>
+		</Replace>
 		<!-- England -->
-		<Row Tag="LOC_DISTRICT_ROYAL_NAVY_DOCKYARD_EXPANSION1_DESCRIPTION">
+		<Replace Language='en_US' Tag="LOC_DISTRICT_ROYAL_NAVY_DOCKYARD_EXPANSION1_DESCRIPTION">
 			<Text>A district unique to England for naval activity in your city. Replaces the Harbor district. Also removes the [ICON_Movement] Movement penalty for embarking and disembarking to and from this tile. Must be built on Coast or Lake Terrain adjacent to land.[NEWLINE][NEWLINE]+1 [ICON_Movement] Movement for all naval units built in Dockyard[NEWLINE]+2 [ICON_Gold] Gold and +4 Loyalty per turn when built on a foreign continent. Cannot be built on Reef</Text>
-		</Row>
+		</Replace>
 		<!-- Lautaro-->
-		<Row Tag="LOC_CIVILIZATION_MAPUCHE_NAME">
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_MAPUCHE_NAME">
 			<Text>Mapuche</Text>
 			<Gender>Masculine:the</Gender>
-		</Row>
-		<Row Tag="LOC_CIVILIZATION_MAPUCHE_ADJECTIVE">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_MAPUCHE_ADJECTIVE">
 			<Text>Mapuchen</Text>
-		</Row>
-		<Row Tag="LOC_CIVILIZATION_MAPUCHE_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_MAPUCHE_DESCRIPTION">
 			<Text>Mapuche Empire</Text>
-		</Row>
-		<Row Tag="LOC_TRAIT_CIVILIZATION_MAPUCHE_TOQUI_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_MAPUCHE_TOQUI_NAME">
 			<Text>Toqui</Text>
-		</Row>
-		<Row Tag="LOC_TRAIT_CIVILIZATION_MAPUCHE_TOQUI_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_MAPUCHE_TOQUI_DESCRIPTION">
 			<Text>All units trained in cities with an established [ICON_Governor] Governor gain 25% more experience in combat. +10 [ICON_Strength] Combat Strength bonus against civilizations that are in a Golden Age.</Text>
-		</Row>
-		<Row Tag="LOC_TRAIT_TOQUI_COMBAT_BONUS_VS_GOLDEN_AGE_CIV_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_TOQUI_COMBAT_BONUS_VS_GOLDEN_AGE_CIV_DESCRIPTION">
 			<Text>+{1_Amount} versus civilizations in a Golden Age</Text>
-		</Row>
-		<Row Tag="LOC_LEADER_LAUTARO_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_LEADER_LAUTARO_NAME">
 			<Text>Lautaro</Text>
-		</Row>
-		<Row Tag="LOC_TRAIT_LEADER_LAUTARO_ABILITY_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_LEADER_LAUTARO_ABILITY_NAME">
 			<Text>Swift Hawk</Text>
-		</Row>
-		<Row Tag="LOC_TRAIT_LEADER_LAUTARO_ABILITY_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_LEADER_LAUTARO_ABILITY_DESCRIPTION">
 			<Text>If a Mapuche Unit defeats an enemy unit within the borders of the enemy city, that city loses 5 Loyalty.</Text>
-		</Row>
-		<Row Tag="LOC_TRAIT_LEADER_LAUTARO_ABILITY_DESCRIPTION_ALT">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_LEADER_LAUTARO_ABILITY_DESCRIPTION_ALT">
 			<Text>If a Mapuche Unit defeats an enemy unit within the borders of the enemy city, that city loses 20 Loyalty. Pillaging a plot in an enemy city causes it to lose 5 loyalty.</Text>
-		</Row>
-		<Row Tag="LOC_IMPROVEMENT_CHEMAMULL_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_IMPROVEMENT_CHEMAMULL_NAME">
 			<Text>Chemamull</Text>
-		</Row>
-		<Row Tag="LOC_IMPROVEMENT_CHEMAMULL_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_IMPROVEMENT_CHEMAMULL_DESCRIPTION">
 			<Text>Unlocks the Builder ability to construct a Chemamull, unique to Mapuche.[NEWLINE][NEWLINE]Provides [ICON_CULTURE] Culture equal to 75% of the tile's Appeal. Additional [ICON_TOURISM] Tourism after researching Flight. Minimum Appeal of Breathtaking.</Text>
-		</Row>
+		</Replace>
 		<!-- Gilgamesh-->
-		<Row Tag="LOC_TRAIT_LEADER_ADVENTURES_ENKIDU_EXPANSION1_DESCRIPTION">
+		<Replace Language='en_US' Tag="LOC_TRAIT_LEADER_ADVENTURES_ENKIDU_EXPANSION1_DESCRIPTION">
 			<Text>May declare war on anyone at war with their allies without warmonger penalties. When at war with a common foe, they and their allies share pillage rewards and share combat experience gains if within 5 tiles.  Their Alliances gain Alliance Points for being at war with a common foe.</Text>
-		</Row>
+		</Replace>
 		<!-- Poundmaker-->
-		<Row Tag="LOC_CIVILIZATION_CREE_NAME">
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_CREE_NAME">
 			<Text>Cree</Text>
 			<Gender>Masculine:the</Gender>
-		</Row>
-		<Row Tag="LOC_CIVILIZATION_CREE_ADJECTIVE">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_CREE_ADJECTIVE">
 			<Text>Cree</Text>
-		</Row>
-		<Row Tag="LOC_CIVILIZATION_CREE_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_CREE_DESCRIPTION">
 			<Text>Cree Empire</Text>
-		</Row>
-		<Row Tag="LOC_TRAIT_CIVILIZATION_CREE_TRADE_GAIN_TILES_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_CREE_TRADE_GAIN_TILES_NAME">
 			<Text>Nîhithaw</Text>
-		</Row>
-		<Row Tag="LOC_TRAIT_CIVILIZATION_CREE_TRADE_GAIN_TILES_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_CREE_TRADE_GAIN_TILES_DESCRIPTION">
 			<Text>+1 [ICON_TradeRoute] Trade Route capacity and a free Trader with the Pottery technology. Unclaimed tiles within 3 tiles of a Cree city come under Cree control when a Trader first moves into them.</Text>
-		</Row>
-		<Row Tag="LOC_LEADER_POUNDMAKER_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_LEADER_POUNDMAKER_NAME">
 			<Text>Poundmaker</Text>
-		</Row>
-		<Row Tag="LOC_LEADER_POUNDMAKER_ABILITY_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_LEADER_POUNDMAKER_ABILITY_NAME">
 			<Text>Favorable Terms</Text>
-		</Row>
-		<Row Tag="LOC_LEADER_POUNDMAKER_ABILITY_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_LEADER_POUNDMAKER_ABILITY_DESCRIPTION">
 			<Text>All Alliance types provide Shared Visibility.[NEWLINE]Your outgoing [ICON_TradeRoute] Trade Routes grant +1 [ICON_Food] Food to Poundmaker per Camp or Pasture at the destination. [ICON_TradeRoute] Trade Routes sent to your cities grant +1 [ICON_Gold] Gold to Poundmaker per Camp or Pasture at the destination.</Text>
-		</Row>
-		<Row Tag="LOC_IMPROVEMENT_MEKEWAP_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_IMPROVEMENT_MEKEWAP_NAME">
 			<Text>Mekewap</Text>
-		</Row>
-		<Row Tag="LOC_IMPROVEMENT_MEKEWAP_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_IMPROVEMENT_MEKEWAP_DESCRIPTION">
 			<Text>Unlocks the Builder ability to construct a Mekewap, unique to Cree.[NEWLINE][NEWLINE]Provides +1 [ICON_PRODUCTION] Production and +1 [ICON_Housing] Housing. +1 [ICON_GOLD] Gold if adjacent to a Luxury resource.  For every 2 adjacent Bonus Resources +1 [ICON_FOOD] Food.  Additional [ICON_PRODUCTION] Production, [ICON_GOLD] Gold, [ICON_FOOD] Food, and [ICON_HOUSING] Housing as you advance through the Civics and Technology Tree. Must be placed adjacent to a Bonus or Luxury resource. Cannot be built adjacent to another Mekewap.</Text>
-		</Row>
+		</Replace>
 		<!-- Robert the Bruce -->
-		<Row Tag="LOC_CIVILIZATION_SCOTLAND_NAME">
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_SCOTLAND_NAME">
 			<Text>Scotland</Text>
-		</Row>
-		<Row Tag="LOC_CIVILIZATION_SCOTLAND_ADJECTIVE">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_SCOTLAND_ADJECTIVE">
 			<Text>Scottish</Text>
-		</Row>
-		<Row Tag="LOC_CIVILIZATION_SCOTLAND_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_SCOTLAND_DESCRIPTION">
 			<Text>Scottish Empire</Text>
-		</Row>
-		<Row Tag="LOC_TRAIT_CIVILIZATION_SCOTTISH_ENLIGHTENMENT_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_SCOTTISH_ENLIGHTENMENT_NAME">
 			<Text>Scottish Enlightenment</Text>
-		</Row>
-		<Row Tag="LOC_TRAIT_CIVILIZATION_SCOTTISH_ENLIGHTENMENT_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_SCOTTISH_ENLIGHTENMENT_DESCRIPTION">
 			<Text>Happy cities receive an additional +5%  [ICON_SCIENCE] Science and +5%  [ICON_PRODUCTION] Production. Happy cities generate +1  [ICON_GreatScientist] Great Scientist point per Campus and +1 [ICON_GreatEngineer] Great Engineer point per Industrial Zone. Ecstatic cities double all these amounts.</Text>
-		</Row>
-		<Row Tag="LOC_LEADER_ROBERT_THE_BRUCE_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_LEADER_ROBERT_THE_BRUCE_NAME">
 			<Text>Robert the Bruce</Text>
-		</Row>
-		<Row Tag="LOC_TRAIT_LEADER_BANNOCKBURN_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_LEADER_BANNOCKBURN_NAME">
 			<Text>Bannockburn</Text>
-		</Row>
-		<Row Tag="LOC_TRAIT_LEADER_BANNOCKBURN_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_LEADER_BANNOCKBURN_DESCRIPTION">
 			<Text>Can declare a War of Liberation after gaining the Defensive Tactics Civic.  +100% [ICON_Production] Production and +2 [ICON_Movement] Movement for the first 10 turns after declaring a War of Liberation.</Text>
-		</Row>
-		<Row Tag="LOC_IMPROVEMENT_GOLF_COURSE_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_IMPROVEMENT_GOLF_COURSE_NAME">
 			<Text>Golf Course</Text>
-		</Row>
-		<Row Tag="LOC_IMPROVEMENT_GOLF_COURSE_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_IMPROVEMENT_GOLF_COURSE_DESCRIPTION">
 			<Text>Unlocks the Builder ability to construct a Golf Course, unique to Scotland.[NEWLINE][NEWLINE]+1 [ICON_AMENITIES] Amenity and +2 [ICON_GOLD] Gold. +1 [ICON_CULTURE] Culture if adjacent to a City Center district and +1 [ICON_CULTURE] Culture if adjacent to an Entertainment Complex district. Additional [ICON_TOURISM] Tourism and [ICON_HOUSING] Housing as you advance through the Civics and Technology Tree. Cannot be placed on Desert or Desert Hills. One per city. Tiles with Golf Courses cannot be swapped. +1 Appeal.</Text>
-		</Row>
+		</Replace>
 		<!-- Seondeok -->
-		<Row Tag="LOC_CIVILIZATION_KOREA_NAME">
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_KOREA_NAME">
 			<Text>Korea</Text>
-		</Row>
-		<Row Tag="LOC_CIVILIZATION_KOREA_ADJECTIVE">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_KOREA_ADJECTIVE">
 			<Text>Korean</Text>
-		</Row>
-		<Row Tag="LOC_CIVILIZATION_KOREA_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_KOREA_DESCRIPTION">
 			<Text>Korean Empire</Text>
-		</Row>
-		<Row Tag="LOC_TRAIT_CIVILIZATION_THREE_KINGDOMS_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_THREE_KINGDOMS_NAME">
 			<Text>Three Kingdoms</Text>
-		</Row>
-		<Row Tag="LOC_TRAIT_CIVILIZATION_THREE_KINGDOMS_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_THREE_KINGDOMS_DESCRIPTION">
 			<Text>Mines receive +1 [ICON_SCIENCE] Science if there is an adjacent Seowon district. Farms receive +1 [ICON_FOOD] Food if there is an adjacent Seowon district.</Text>
-		</Row>
-		<Row Tag="LOC_LEADER_SEONDEOK_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_LEADER_SEONDEOK_NAME">
 			<Text>Seondeok</Text>
-		</Row>
-		<Row Tag="LOC_TRAIT_LEADER_HWARANG_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_LEADER_HWARANG_NAME">
 			<Text>Hwarang</Text>
-		</Row>
-		<Row Tag="LOC_TRAIT_LEADER_HWARANG_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_LEADER_HWARANG_DESCRIPTION">
 			<Text>[ICON_Governor] Governors established in a city provide +3% [ICON_Culture] Culture and [ICON_Science] Science for each Promotion they have earned, including their first.</Text>
-		</Row>
-		<Row Tag="LOC_DISTRICT_SEOWON_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DISTRICT_SEOWON_NAME">
 			<Text>Seowon</Text>
-		</Row>
-		<Row Tag="LOC_DISTRICT_SEOWON_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DISTRICT_SEOWON_DESCRIPTION">
 			<Text>A district unique to Korea for scientific endeavors. Replaces the Campus district. +4 [ICON_SCIENCE] Science. Must be built on Hills.</Text>
-		</Row>
-		<Row Tag="LOC_DISTRICT_SEOWON_DESCRIPTION_ADJACENCY">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DISTRICT_SEOWON_DESCRIPTION_ADJACENCY">
 			<Text>Adjacency: -1 [ICON_SCIENCE] Science for each adjacent District.</Text>
-		</Row>
+		</Replace>
 		<!-- Genghis Khan -->
-		<Row Tag="LOC_CIVILIZATION_MONGOLIA_NAME">
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_MONGOLIA_NAME">
 			<Text>Mongolia</Text>
-		</Row>
-		<Row Tag="LOC_CIVILIZATION_MONGOLIA_ADJECTIVE">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_MONGOLIA_ADJECTIVE">
 			<Text>Mongolian</Text>
-		</Row>
-		<Row Tag="LOC_CIVILIZATION_MONGOLIA_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_MONGOLIA_DESCRIPTION">
 			<Text>Mongolian Empire</Text>
-		</Row>
-		<Row Tag="LOC_TRAIT_CIVILIZATION_MONGOLIAN_ORTOO_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_MONGOLIAN_ORTOO_NAME">
 			<Text>Örtöö</Text>
-		</Row>
-		<Row Tag="LOC_TRAIT_CIVILIZATION_MONGOLIAN_ORTOO_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_MONGOLIAN_ORTOO_DESCRIPTION">
 			<Text>Starting a [ICON_TradeRoute] Trade Route immediately creates a [ICON_TradingPost] Trading Post in the destination city. Receive an extra level of [ICON_VisLimited] Diplomatic Visibility for possessing a [ICON_TradingPost] Trading Post in any city of a civilization. All Mongolian units double the usual [ICON_Strength] Combat Bonus for having a higher level of [ICON_VisLimited] Diplomatic Visibility than their opponent.</Text>
-		</Row>
-		<Row Tag="LOC_LEADER_GENGHIS_KHAN_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_LEADER_GENGHIS_KHAN_NAME">
 			<Text>Genghis Khan</Text>
-		</Row>
-		<Row Tag="LOC_TRAIT_LEADER_GENGHIS_KHAN_ABILITY_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_LEADER_GENGHIS_KHAN_ABILITY_NAME">
 			<Text>Mongol Horde</Text>
-		</Row>
-		<Row Tag="LOC_TRAIT_LEADER_GENGHIS_KHAN_ABILITY_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_LEADER_GENGHIS_KHAN_ABILITY_DESCRIPTION">
 			<Text>All cavalry class units gain +3 [ICON_Strength] Combat Strength and a chance to capture defeated enemy cavalry class units.</Text>
-		</Row>
-		<Row Tag="LOC_BUILDING_ORDU_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_ORDU_NAME">
 			<Text>Ordu</Text>
-		</Row>
-		<Row Tag="LOC_BUILDING_ORDU_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_ORDU_DESCRIPTION">
 			<Text>A building unique to Mongolia. Grants an ability that gives +1 [ICON_MOVEMENT] Movement to Heavy and Light Cavalry trained in this city. +25% combat experience for all cavalry class units trained in this city. May not be built in an Encampment district that already has a Barracks.</Text>
-		</Row>
+		</Replace>
 		<!-- Shaka Zulu -->
-		<Row Tag="LOC_CIVILIZATION_ZULU_NAME">
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_ZULU_NAME">
 			<Text>Zulu</Text>
 			<Gender>Masculine:the</Gender>
-		</Row>
-		<Row Tag="LOC_CIVILIZATION_ZULU_ADJECTIVE">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_ZULU_ADJECTIVE">
 			<Text>Zulu</Text>
-		</Row>
-		<Row Tag="LOC_CIVILIZATION_ZULU_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_ZULU_DESCRIPTION">
 			<Text>Zulu Empire</Text>
-		</Row>
-		<Row Tag="LOC_TRAIT_CIVILIZATION_ZULU_ISIBONGO_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_ZULU_ISIBONGO_NAME">
 			<Text>Isibongo</Text>
-		</Row>
-		<Row Tag="LOC_TRAIT_CIVILIZATION_ZULU_ISIBONGO_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_ZULU_ISIBONGO_DESCRIPTION">
 			<Text>Cities with a garrisoned unit get +3 Loyalty per turn, or +5 if it is a Corps or Army. Conquering a city with a unit will upgrade it into a Corps or Army, if the proper Civics are unlocked.</Text>
-		</Row>
-		<Row Tag="LOC_LEADER_SHAKA_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_LEADER_SHAKA_NAME">
 			<Text>Shaka</Text>
-		</Row>
-		<Row Tag="LOC_TRAIT_LEADER_AMABUTHO_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_LEADER_AMABUTHO_NAME">
 			<Text>Amabutho</Text>
-		</Row>
-		<Row Tag="LOC_TRAIT_LEADER_AMABUTHO_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_LEADER_AMABUTHO_DESCRIPTION">
 			<Text>May form Corps (Mercenaries Civic) and Armies (Nationalism Civic) earlier. An additional +5 [ICON_STRENGTH] Base Combat Strength to both Corps and Armies. </Text>
-		</Row>
-		<Row Tag="LOC_DISTRICT_IKANDA_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DISTRICT_IKANDA_NAME">
 			<Text>Ikanda</Text>
 			<Gender>masculine:an</Gender>
-		</Row>
-		<Row Tag="LOC_DISTRICT_IKANDA_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DISTRICT_IKANDA_DESCRIPTION">
 			<Text>A district unique to Zulu which replaces the Encampment. Provides +1 [ICON_Housing] Housing. Once the Civic or Technology prerequisite is met, Corps and Armies can be built outright. Faster Corps and Army creation.</Text>
-		</Row>
+		</Replace>
 		<!-- Spain -->
-		<Row Tag="LOC_TRAIT_CIVILIZATION_TREASURE_FLEET_EXPANSION1_DESCRIPTION">
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_TREASURE_FLEET_EXPANSION1_DESCRIPTION">
 			<Text>May form Fleets and Armadas earlier than usual (Mercantilism). [ICON_TradeRoute] Trade Routes between multiple continents receive bonus [ICON_Gold] Gold for routes to other civilizations, and bonus [ICON_Food] Food and [ICON_Production] Production for routes between your own cities. +2 Loyalty per turn for cities with a Mission improvement adjacent to the City Center and not on your original [ICON_Capital] Capital's continent.</Text>
-		</Row>
+		</Replace>
 		<!-- Tamar-->
-		<Row Tag="LOC_CIVILIZATION_GEORGIA_NAME">
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_GEORGIA_NAME">
 			<Text>Georgia</Text>
-		</Row>
-		<Row Tag="LOC_CIVILIZATION_GEORGIA_ADJECTIVE">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_GEORGIA_ADJECTIVE">
 			<Text>Georgian</Text>
-		</Row>
-		<Row Tag="LOC_CIVILIZATION_GEORGIA_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_GEORGIA_DESCRIPTION">
 			<Text>Georgian Empire</Text>
-		</Row>
-		<Row Tag="LOC_TRAIT_CIVILIZATION_GOLDEN_AGE_QUESTS_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_GOLDEN_AGE_QUESTS_NAME">
 			<Text>Strength in Unity</Text>
-		</Row>
-		<Row Tag="LOC_TRAIT_CIVILIZATION_GOLDEN_AGE_QUESTS_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_GOLDEN_AGE_QUESTS_DESCRIPTION">
 			<Text>When making Dedications at the beginning of a Golden Age or Heroic Age, receive the Normal Age bonus towards improving Era Score in addition to the other bonus.</Text>
-		</Row>
-		<Row Tag="LOC_LEADER_TAMAR_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_LEADER_TAMAR_NAME">
 			<Text>Tamar</Text>
-		</Row>
-		<Row Tag="LOC_TRAIT_LEADER_RELIGION_CITY_STATES_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_LEADER_RELIGION_CITY_STATES_NAME">
 			<Text>Glory of the World, Kingdom and Faith</Text>
-		</Row>
-		<Row Tag="LOC_TRAIT_LEADER_RELIGION_CITY_STATES_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_LEADER_RELIGION_CITY_STATES_DESCRIPTION">
 			<Text>+100% [ICON_FAITH] Faith for 10 turns after declaring a Protectorate War. Each [ICON_ENVOY] Envoy you send to a city-state of your majority Religion counts as two [ICON_ENVOY] Envoys. (Must have a majority Religion). </Text>
-		</Row>
-		<Row Tag="LOC_BUILDING_TSIKHE_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_TSIKHE_NAME">
 			<Text>Tsikhe</Text>
-		</Row>
-		<Row Tag="LOC_BUILDING_TSIKHE_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_TSIKHE_DESCRIPTION">
 			<Text>A building unique to Georgia. Lower [ICON_Production] Production cost than Renaissance Walls. Raises the strength of your outer defenses to the highest possible level. Provides +3 [ICON_TOURISM] Tourism after advancing to the Conservation Civic. Provides +3 [ICON_Faith] Faith.</Text>
-		</Row>
+		</Replace>
 		<!-- Wilhemina -->
-		<Row Tag="LOC_CIVILIZATION_NETHERLANDS_NAME">
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_NETHERLANDS_NAME">
 			<Text>Netherlands</Text>
 			<Gender>Masculine:the</Gender>
-		</Row>
-		<Row Tag="LOC_CIVILIZATION_NETHERLANDS_ADJECTIVE">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_NETHERLANDS_ADJECTIVE">
 			<Text>Dutch</Text>
-		</Row>
-		<Row Tag="LOC_CIVILIZATION_NETHERLANDS_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_NETHERLANDS_DESCRIPTION">
 			<Text>Dutch Empire</Text>
-		</Row>
-		<Row Tag="LOC_TRAIT_CIVILIZATION_GROTE_RIVIEREN_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_GROTE_RIVIEREN_NAME">
 			<Text>Grote Rivieren</Text>
-		</Row>
-		<Row Tag="LOC_TRAIT_CIVILIZATION_GROTE_RIVIEREN_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_GROTE_RIVIEREN_DESCRIPTION">
 			<Text>Major adjacency bonus for Campuses, Theater Squares, and Industrial Zones if next to a river. Culture Bomb adjacent tiles when completing a Harbor.</Text>
-		</Row>
-		<Row Tag="LOC_LEADER_WILHELMINA_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_LEADER_WILHELMINA_NAME">
 			<Text>Wilhelmina</Text>
-		</Row>
-		<Row Tag="LOC_TRAIT_RADIO_ORANJE_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_RADIO_ORANJE_NAME">
 			<Text>Radio Oranje</Text>
-		</Row>
-		<Row Tag="LOC_TRAIT_RADIO_ORANJE_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_RADIO_ORANJE_DESCRIPTION">
 			<Text>Your [ICON_TradeRoute] Trade Routes to your own cities provide +1 Loyalty per turn for the starting city. [ICON_TradeRoute] Trade Routes to foreign cities or from foreign cities provide +1 [ICON_Culture] Culture to you.</Text>
-		</Row>
-		<Row Tag="LOC_IMPROVEMENT_POLDER_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_IMPROVEMENT_POLDER_NAME">
 			<Text>Polder</Text>
-		</Row>
-		<Row Tag="LOC_IMPROVEMENT_POLDER_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_IMPROVEMENT_POLDER_DESCRIPTION">
 			<Text>Unlocks the Builder ability to construct a Polder, unique to Netherlands.[NEWLINE][NEWLINE]+1 [ICON_FOOD] Food, +1 [ICON_Production] Production, and +0.5 [ICON_Housing] Housing. +1 [ICON_FOOD] Food if adjacent to a Polder improvement. Additional [ICON_PRODUCTION] Production, [ICON_GOLD] Gold, and [ICON_FOOD] Food  as you advance through the Civics and Technology Tree. Must be placed on a Coast or Lake tile adjacent to 3 or more passable land tiles. Increases [ICON_Movement] Movement Cost of tile to 3.</Text>
-		</Row>
+		</Replace>
 		<!-- Jerusalem -->
 
 		<!-- XP2 -->
-		<Row Tag="LOC_BUILDING_TSIKHE_DESCRIPTION_XP2">
+		<Replace Language='en_US' Tag="LOC_BUILDING_TSIKHE_DESCRIPTION_XP2">
 			<Text>A building unique to Georgia. Lower [ICON_Production] Production cost and higher outer defenses than Renaissance Walls. Provides +3 [ICON_TOURISM] Tourism after advancing to the Conservation Civic. Provides +4 [ICON_Faith] Faith. When in a Golden Age the [ICON_TOURISM] Tourism and [ICON_FAITH] Faith are +100%.</Text>
-		</Row>
-	</EnglishText>
+		</Replace>
+	</LocalizedText>
 </GameData>

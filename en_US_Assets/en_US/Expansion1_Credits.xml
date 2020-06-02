@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameData>
-	<FrontEndText>
-		<Row Tag="LOC_EXPANSION1_CREDITS">
+	<LocalizedText>
+		<Replace Language='en_US' Tag="LOC_EXPANSION1_CREDITS">
 			<Text>
 [3]CREDITS
 
@@ -1679,6 +1679,6 @@
 
 
 			</Text>
-		</Row>
-	</FrontEndText>
+		</Replace>
+	</LocalizedText>
 </GameData>

@@ -1,264 +1,264 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameData>
-	<EnglishText>
-		<Row Tag="LOC_NOTIFICATION_PRIDE_MOMENT_RECORDED_MESSAGE">
+	<LocalizedText>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_PRIDE_MOMENT_RECORDED_MESSAGE">
 			<Text>Historic Moment</Text>
-		</Row>
-		<Row Tag="LOC_NOTIFICATION_PRIDE_MOMENT_RECORDED_SUMMARY">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_PRIDE_MOMENT_RECORDED_SUMMARY">
 			<Text>Your people celebrate a Historic Moment! {1_MomentDescription} (+{2_EraScoreAmount} Era Score)</Text>
-		</Row>
-		<Row Tag="LOC_NOTIFICATION_GOVERNOR_ESTABLISHED_IN_CITY_MESSAGE">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_GOVERNOR_ESTABLISHED_IN_CITY_MESSAGE">
 			<Text>Governor established in {1_CityName}</Text>
-		</Row>
-		<Row Tag="LOC_NOTIFICATION_GOVERNOR_ESTABLISHED_IN_CITY_SUMMARY">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_GOVERNOR_ESTABLISHED_IN_CITY_SUMMARY">
 			<Text>Governor {1_GovernorName} is now established in {2_CityName}</Text>
-		</Row>
-		<Row Tag="LOC_NOTIFICATION_GOVERNOR_APPOINTMENT_AVAILABLE_MESSAGE">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_GOVERNOR_APPOINTMENT_AVAILABLE_MESSAGE">
 			<Text>New Governor Opportunity Available</Text>
-		</Row>
-		<Row Tag="LOC_NOTIFICATION_GOVERNOR_APPOINTMENT_AVAILABLE_SUMMARY">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_GOVERNOR_APPOINTMENT_AVAILABLE_SUMMARY">
 			<Text>Appoint a new Governor or promote an existing Governor.</Text>
-		</Row>
-		<Row Tag="LOC_NOTIFICATION_GOVERNOR_OPPORTUNITY_AVAILABLE_MESSAGE">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_GOVERNOR_OPPORTUNITY_AVAILABLE_MESSAGE">
 			<Text>New Governor Title Available</Text>
-		</Row>
-		<Row Tag="LOC_NOTIFICATION_GOVERNOR_OPPORTUNITY_AVAILABLE_SUMMARY">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_GOVERNOR_OPPORTUNITY_AVAILABLE_SUMMARY">
 			<Text>Promote an existing [ICON_Governor] Governor, or Appoint a new Governor to your civilization.</Text>
-		</Row>
-		<Row Tag="LOC_ACTION_PANEL_GOVERNOR_OPPORTUNITY">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ACTION_PANEL_GOVERNOR_OPPORTUNITY">
 			<Text>Governor Title</Text>
-		</Row>
-		<Row Tag="LOC_ACTION_PANEL_GOVERNOR_OPPORTUNITY_TOOLTIP">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ACTION_PANEL_GOVERNOR_OPPORTUNITY_TOOLTIP">
 			<Text>Promote an existing Governor, or Appoint a new Governor to your civilization.</Text>
-		</Row>
-		<Row Tag="LOC_ACTION_PANEL_GOVERNOR_PROMOTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ACTION_PANEL_GOVERNOR_PROMOTION">
 			<Text>Governor Promotion</Text>
-		</Row>
-		<Row Tag="LOC_ACTION_PANEL_GOVERNOR_PROMOTION_TOOLTIP">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ACTION_PANEL_GOVERNOR_PROMOTION_TOOLTIP">
 			<Text>A Title is available to promote one of your Governors.</Text>
-		</Row>
-		<Row Tag="LOC_ACTION_PANEL_GOVERNOR_APPOINTMENT">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ACTION_PANEL_GOVERNOR_APPOINTMENT">
 			<Text>Governor Appointment</Text>
-		</Row>
-		<Row Tag="LOC_ACTION_PANEL_GOVERNOR_APPOINTMENT_TOOLTIP">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ACTION_PANEL_GOVERNOR_APPOINTMENT_TOOLTIP">
 			<Text>Appoint a new Governor to your civilization.</Text>
-		</Row>
-		<Row Tag="LOC_ACTION_PANEL_CONSIDER_DISLOYAL_CITY">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ACTION_PANEL_CONSIDER_DISLOYAL_CITY">
 			<Text>Keep or Free City</Text>
-		</Row>
-		<Row Tag="LOC_ACTION_PANEL_CONSIDER_DISLOYAL_CITY_TOOLTIP">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ACTION_PANEL_CONSIDER_DISLOYAL_CITY_TOOLTIP">
 			<Text>A foreign city has rebelled against its old owner, since its Loyalty dropped to 0. Your Loyalty is the strongest there, so it humbly requests to join your Civilization.</Text>
-		</Row>
-		<Row Tag="LOC_NOTIFICATION_GOVERNOR_PROMOTION_AVAILABLE_MESSAGE">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_GOVERNOR_PROMOTION_AVAILABLE_MESSAGE">
 			<Text>Governor Promotion Available</Text>
-		</Row>
-		<Row Tag="LOC_NOTIFICATION_GOVERNOR_PROMOTION_AVAILABLE_SUMMARY">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_GOVERNOR_PROMOTION_AVAILABLE_SUMMARY">
 			<Text>A promotion is available for one of your Governors.</Text>
-		</Row>
-		<Row Tag="LOC_NOTIFICATION_GOVERNOR_REMOVED_FROM_CITY_MESSAGE">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_GOVERNOR_REMOVED_FROM_CITY_MESSAGE">
 			<Text>Governor removed from {1_CityName}</Text>
-		</Row>
-		<Row Tag="LOC_NOTIFICATION_GOVERNOR_REMOVED_FROM_CITY_SUMMARY">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_GOVERNOR_REMOVED_FROM_CITY_SUMMARY">
 			<Text>Governor {1_GovernorName} is no longer assigned to {2_CityName}.</Text>
-		</Row>
-		<Row Tag="LOC_NOTIFICATION_GOVERNOR_CHANGED_CITIES_MESSAGE">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_GOVERNOR_CHANGED_CITIES_MESSAGE">
 			<Text>Governor {1_GovernorName} moved to {2_CityName}</Text>
-		</Row>
-		<Row Tag="LOC_NOTIFICATION_GOVERNOR_CHANGED_CITIES_SUMMARY">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_GOVERNOR_CHANGED_CITIES_SUMMARY">
 			<Text>Governor {1_GovernorName} has moved from {2_CityName} to {3_CityName}</Text>
-		</Row>
-		<Row Tag="LOC_NOTIFICATION_GOVERNOR_RETURNING_TO_SERVICE_MESSAGE">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_GOVERNOR_RETURNING_TO_SERVICE_MESSAGE">
 			<Text>Governor {1_GovernorName} has returned to service.</Text>
-		</Row>
-		<Row Tag="LOC_NOTIFICATION_GOVERNOR_RETURNING_TO_SERVICE_SUMMARY">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_GOVERNOR_RETURNING_TO_SERVICE_SUMMARY">
 			<Text>Governor {1_GovernorName} has returned to service. {2_GovernorTitle} can now be assigned to a city.</Text>
-		</Row>
-		<Row Tag="LOC_NOTIFICATION_CITY_LOSING_CULTURAL_IDENTITY_MESSAGE">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_CITY_LOSING_CULTURAL_IDENTITY_MESSAGE">
 			<Text>City Losing Loyalty</Text>
-		</Row>
-		<Row Tag="LOC_NOTIFICATION_CITY_LOSING_CULTURAL_IDENTITY_SUMMARY">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_CITY_LOSING_CULTURAL_IDENTITY_SUMMARY">
 			<Text>{1_CityName} is losing loyalty. If loyalty reaches 0, it could break away from our control. Assign a Governor to the city to stabilize it and gain the loyalty of the citizens there.</Text>
-		</Row>
-		<Row Tag="LOC_NOTIFICATION_CITY_BECAME_FREE_CITY_MESSAGE">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_CITY_BECAME_FREE_CITY_MESSAGE">
 			<Text>City Loyalty Lost</Text>
-		</Row>
-		<Row Tag="LOC_NOTIFICATION_CITY_BECAME_FREE_CITY_SUMMARY">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_CITY_BECAME_FREE_CITY_SUMMARY">
 			<Text>Because Loyalty dropped to 0, {1_CityName} has rebelled and become a Free City. To gain control of it again, you must once again exert your Loyalty there or use military force.</Text>
-		</Row>
-    <Row Tag="LOC_NOTIFICATION_CITY_BECAME_CIV_SUMMARY">
+		</Replace>
+    <Replace Language='en_US' Tag="LOC_NOTIFICATION_CITY_BECAME_CIV_SUMMARY">
       <Text>Because Loyalty dropped to 0, {1_CityName} has rebelled and joined {2_CivName}. To gain control of it again, you must once again exert your Loyalty there or use military force. </Text>
-    </Row>
-		<Row Tag="LOC_NOTIFICATION_FOREIGN_CITY_BECAME_FREE_CITY_MESSAGE">
+    </Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_FOREIGN_CITY_BECAME_FREE_CITY_MESSAGE">
 			<Text>Foreign City Gains Independence</Text>
-		</Row>
-		<Row Tag="LOC_NOTIFICATION_FOREIGN_CITY_BECAME_FREE_CITY_SUMMARY">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_FOREIGN_CITY_BECAME_FREE_CITY_SUMMARY">
 			<Text>{1_CivName} no longer has enough Loyalty to keep the city of {2_CityName} in their empire. Nearby civilizations exerting Loyalty or using military force may soon gain control of this Free City.</Text>
-		</Row>
-		<Row Tag="LOC_NOTIFICATION_FREE_CITY_BECAME_FOREIGN_CITY_MESSAGE">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_FREE_CITY_BECAME_FOREIGN_CITY_MESSAGE">
 			<Text>Free City Petitions Civilization</Text>
-		</Row>
-		<Row Tag="LOC_NOTIFICATION_FREE_CITY_BECAME_FOREIGN_CITY_SUMMARY">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_FREE_CITY_BECAME_FOREIGN_CITY_SUMMARY">
 			<Text>The Free City of {2_CityName} succumbs to foreign pressure, and asks to join {1_CivName}.</Text>
-		</Row>
-		<Row Tag="LOC_NOTIFICATION_WAR_TYPE_GOLDEN_AGE">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_WAR_TYPE_GOLDEN_AGE">
 			<Text>Golden Age War</Text>
-		</Row>
-		<Row Tag="LOC_NOTIFICATION_WAR_TYPE_RETRIBUTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_WAR_TYPE_RETRIBUTION">
 			<Text>War of Retribution</Text>
-		</Row>
-		<Row Tag="LOC_NOTIFICATION_WAR_TYPE_IDEOLOGICAL">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_WAR_TYPE_IDEOLOGICAL">
 			<Text>Ideological War</Text>
-		</Row>
-		<Row Tag="LOC_NOTIFICATION_TRADING_POST_IMMEDIATELY_CREATED_SUMMARY">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_TRADING_POST_IMMEDIATELY_CREATED_SUMMARY">
 			<Text>Initiating a [ICON_TradeRoute] Trade Route has created a [ICON_TradingPost] Trading Post for you in the city of {1_CityName}.</Text>
-		</Row>
-		<Row Tag="LOC_NOTIFICATION_CONSIDER_DISLOYAL_CITY_MESSAGE">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_CONSIDER_DISLOYAL_CITY_MESSAGE">
 			<Text>Keep or Free City</Text>
-		</Row>
-		<Row Tag="LOC_NOTIFICATION_CONSIDER_DISLOYAL_CITY_SUMMARY">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_CONSIDER_DISLOYAL_CITY_SUMMARY">
 			<Text>A Free City has lost its desire to remain independent. Since your Loyalty is the strongest there, it humbly requests to join your Civilization.</Text>
-		</Row>
-		<Row Tag="LOC_NOTIFICATION_SPY_FABRICATE_SCANDAL_SUMMARY">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_SPY_FABRICATE_SCANDAL_SUMMARY">
 			<Text>Your agent {1_unitName} in {2_CityName} succeeded in removing enemy Envoys.</Text>
-		</Row>
-		<Row Tag="LOC_NOTIFICATION_SPY_FABRICATE_SCANDAL_MESSAGE">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_SPY_FABRICATE_SCANDAL_MESSAGE">
 			<Text>Success Fabricating Scandal</Text>
-		</Row>
-		<Row Tag="LOC_NOTIFICATION_SPY_ENEMY_FABRICATE_SCANDAL_SUMMARY">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_SPY_ENEMY_FABRICATE_SCANDAL_SUMMARY">
 			<Text>An enemy Spy in {1_CityName} succeeded in removing some of our Envoys.</Text>
-		</Row>
-		<Row Tag="LOC_NOTIFICATION_SPY_ENEMY_FABRICATE_SCANDAL_MESSAGE">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_SPY_ENEMY_FABRICATE_SCANDAL_MESSAGE">
 			<Text>Enemy Fabricated Scandal</Text>
-		</Row>
-		<Row Tag="LOC_NOTIFICATION_SPY_FOMENT_UNREST_SUMMARY">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_SPY_FOMENT_UNREST_SUMMARY">
 			<Text>Your agent {1_unitName} succeeded in reducing the owner's Loyalty in the city of {2_cityName}.</Text>
-		</Row>
-		<Row Tag="LOC_NOTIFICATION_SPY_FOMENT_UNREST_MESSAGE">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_SPY_FOMENT_UNREST_MESSAGE">
 			<Text>Success Fomenting Unrest</Text>
-		</Row>
-		<Row Tag="LOC_NOTIFICATION_SPY_ENEMY_FOMENT_UNREST_SUMMARY">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_SPY_ENEMY_FOMENT_UNREST_SUMMARY">
 			<Text>An enemy Spy has reduced the Loyalty of your citizens in {1_cityName}.</Text>
-		</Row>
-		<Row Tag="LOC_NOTIFICATION_SPY_ENEMY_FOMENT_UNREST_MESSAGE">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_SPY_ENEMY_FOMENT_UNREST_MESSAGE">
 			<Text>Enemy Fomented Unrest</Text>
-		</Row>
-		<Row Tag="LOC_NOTIFICATION_SPY_NEUTRALIZE_GOVERNOR_SUMMARY">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_SPY_NEUTRALIZE_GOVERNOR_SUMMARY">
 			<Text>Your agent {1_unitName} succeeded in neutralizing the enemy governor in the city of {2_cityName}, removing them from duty for {3_turns} turns.</Text>
-		</Row>
-		<Row Tag="LOC_NOTIFICATION_SPY_NEUTRALIZE_GOVERNOR_MESSAGE">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_SPY_NEUTRALIZE_GOVERNOR_MESSAGE">
 			<Text>Success Neutralizing Governor</Text>
-		</Row>
-		<Row Tag="LOC_NOTIFICATION_SPY_ENEMY_NEUTRALIZE_GOVERNOR_SUMMARY">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_SPY_ENEMY_NEUTRALIZE_GOVERNOR_SUMMARY">
 			<Text>An enemy Spy succeeded in neutralizing your governor {1_governorName} in the city of {2_cityName}, removing them from duty for {3_turns} turns.</Text>
-		</Row>
-		<Row Tag="LOC_NOTIFICATION_SPY_ENEMY_NEUTRALIZE_GOVERNOR_MESSAGE">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_SPY_ENEMY_NEUTRALIZE_GOVERNOR_MESSAGE">
 			<Text>Enemy Spy Neutralized Governor</Text>
-		</Row>
-		<Row Tag="LOC_NOTIFICATION_ALLIANCE_EXPIRED_MESSAGE">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_ALLIANCE_EXPIRED_MESSAGE">
 			<Text>Alliance Expired</Text>
-		</Row>
-		<Row Tag="LOC_NOTIFICATION_ALLIANCE_EXPIRED_SUMMARY">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_ALLIANCE_EXPIRED_SUMMARY">
 			<Text>Your Alliance with {1_CivName} has expired.</Text>
-		</Row>
-		<Row Tag="LOC_NOTIFICATION_ALLIANCE_LEVELED_MESSAGE">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_ALLIANCE_LEVELED_MESSAGE">
 			<Text>Alliance Level Increased</Text>
-		</Row>
-		<Row Tag="LOC_NOTIFICATION_ALLIANCE_LEVELED_SUMMARY">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_ALLIANCE_LEVELED_SUMMARY">
 			<Text>Your Alliance Level with {1_CivName} has increased.</Text>
-		</Row>
-		<Row Tag="LOC_NOTIFICATION_EMERGENCY_DECLARED_MESSAGE">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_EMERGENCY_DECLARED_MESSAGE">
 			<Text>Emergency Declared</Text>
-		</Row>
-		<Row Tag="LOC_NOTIFICATION_EMERGENCY_DECLARED_SUMMARY">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_EMERGENCY_DECLARED_SUMMARY">
 			<Text>{1_CivName} has been targeted by an Emergency.</Text>
-		</Row>
-		<Row Tag="LOC_NOTIFICATION_EMERGENCY_DECLARED_UNKNOWN_TARGET_SUMMARY">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_EMERGENCY_DECLARED_UNKNOWN_TARGET_SUMMARY">
 			<Text>An unknown player has been targeted by an Emergency.</Text>
-		</Row>
-		<Row Tag="LOC_NOTIFICATION_EMERGENCY_FAILED_MESSAGE">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_EMERGENCY_FAILED_MESSAGE">
 			<Text>Emergency Completed</Text>
-		</Row>
-		<Row Tag="LOC_NOTIFICATION_EMERGENCY_FAILED_TARGET_SUMMARY">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_EMERGENCY_FAILED_TARGET_SUMMARY">
 			<Text>The Emergency targeting you failed.  You have been rewarded.</Text>
-		</Row>
-		<Row Tag="LOC_NOTIFICATION_EMERGENCY_FAILED_SUMMARY">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_EMERGENCY_FAILED_SUMMARY">
 			<Text>The Emergency targeting {1_CivName} failed.  {1_CivName} has been rewarded.</Text>
-		</Row>
-		<Row Tag="LOC_NOTIFICATION_EMERGENCY_FAILED_UNKNOWN_TARGET_SUMMARY">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_EMERGENCY_FAILED_UNKNOWN_TARGET_SUMMARY">
 			<Text>The Emergency targeting an unknown player failed.</Text>
-		</Row>
-		<Row Tag="LOC_NOTIFICATION_EMERGENCY_SUCCEEDED_MESSAGE">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_EMERGENCY_SUCCEEDED_MESSAGE">
 			<Text>Emergency Completed</Text>
-		</Row>
-		<Row Tag="LOC_NOTIFICATION_EMERGENCY_SUCCEEDED_TARGET_SUMMARY">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_EMERGENCY_SUCCEEDED_TARGET_SUMMARY">
 			<Text>The Emergency targeting you succeeded.  Those fighting against you have been rewarded.</Text>
-		</Row>
-		<Row Tag="LOC_NOTIFICATION_EMERGENCY_SUCCEEDED_SUMMARY">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_EMERGENCY_SUCCEEDED_SUMMARY">
 			<Text>The Emergency targeting {1_CivName} succeeded.  Those fighting against {1_CivName} have been rewarded.</Text>
-		</Row>
-		<Row Tag="LOC_NOTIFICATION_EMERGENCY_SUCCEEDED_UNKNOWN_TARGET_SUMMARY">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_EMERGENCY_SUCCEEDED_UNKNOWN_TARGET_SUMMARY">
 			<Text>The Emergency targeting an unknown player succeeded.</Text>
-		</Row>
-		<Row Tag="LOC_NOTIFICATION_EMERGENCY_AVERTED_MESSAGE">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_EMERGENCY_AVERTED_MESSAGE">
 			<Text>Emergency Averted</Text>
-		</Row>
-		<Row Tag="LOC_NOTIFICATION_EMERGENCY_AVERTED_CITY_DESTROYED">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_EMERGENCY_AVERTED_CITY_DESTROYED">
 			<Text>The {1_EmergencyType} targeting {2_CivName} has ended because {3_CityName} has been destroyed.</Text>
-		</Row>
-		<Row Tag="LOC_NOTIFICATION_EMERGENCY_AVERTED_CITY_RETURNED_ORIGINAL">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_EMERGENCY_AVERTED_CITY_RETURNED_ORIGINAL">
 			<Text>The {1_EmergencyType} targeting {2_CivName} has ended because {3_CityName} has been returned to its original owner.</Text>
-		</Row>
-		<Row Tag="LOC_NOTIFICATION_EMERGENCY_AVERTED_CITY_RETURNED_PREVIOUS">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_EMERGENCY_AVERTED_CITY_RETURNED_PREVIOUS">
 			<Text>The {1_EmergencyType} targeting {2_CivName} has ended because {3_CityName} has been returned to its previous owner.</Text>
-		</Row>
-		<Row Tag="LOC_NOTIFICATION_EMERGENCY_AVERTED_CITY_GIFTED">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_EMERGENCY_AVERTED_CITY_GIFTED">
 			<Text>The {1_EmergencyType} targeting {2_CivName} has ended because {3_CityName} no longer belongs to {2_CivName}.</Text>
-		</Row>
-		<Row Tag="LOC_NOTIFICATION_EMERGENCY_AVERTED_TARGET_DEFEATED">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_EMERGENCY_AVERTED_TARGET_DEFEATED">
 			<Text>The {1_EmergencyType} targeting {2_CivName} has ended because {2_CivName} has been defeated.</Text>
-		</Row>
-		<Row Tag="LOC_NOTIFICATION_EMERGENCY_NEEDS_ATTENTION_MESSAGE">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_EMERGENCY_NEEDS_ATTENTION_MESSAGE">
 			<Text>EMERGENCY!</Text>
-		</Row>
-		<Row Tag="LOC_NOTIFICATION_EMERGENCY_NEEDS_ATTENTION_SUMMARY">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_EMERGENCY_NEEDS_ATTENTION_SUMMARY">
 			<Text>An Emergency needs your attention.</Text>
-		</Row>
-		<Row Tag="LOC_NOTIFICATION_DIPLO_PLEDGE_FROM_KEPT_MESSAGE">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_DIPLO_PLEDGE_FROM_KEPT_MESSAGE">
 			<Text>Pledge Fulfilled To You</Text>
-		</Row>
-		<Row Tag="LOC_NOTIFICATION_DIPLO_PLEDGE_FROM_KEPT_SUMMARY">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_DIPLO_PLEDGE_FROM_KEPT_SUMMARY">
 			<Text>The pledge made to you by the {1_CivName} to {2_PledgeType} has been fulfilled.</Text>
-		</Row>
-		<Row Tag="LOC_NOTIFICATION_DIPLO_PLEDGE_TO_KEPT_MESSAGE">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_DIPLO_PLEDGE_TO_KEPT_MESSAGE">
 			<Text>Your Pledge Fulfilled</Text>
-		</Row>
-		<Row Tag="LOC_NOTIFICATION_DIPLO_PLEDGE_TO_KEPT_SUMMARY">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_DIPLO_PLEDGE_TO_KEPT_SUMMARY">
 			<Text>Your pledge to the {1_CivName} to {2_PledgeType} has been fulfilled.</Text>
-		</Row>
-		<Row Tag="LOC_NOTIFICATION_DIPLO_PLEDGE_FROM_BROKEN_MESSAGE">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_DIPLO_PLEDGE_FROM_BROKEN_MESSAGE">
 			<Text>Pledge Broken To You</Text>
-		</Row>
-		<Row Tag="LOC_NOTIFICATION_DIPLO_PLEDGE_FROM_BROKEN_SUMMARY">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_DIPLO_PLEDGE_FROM_BROKEN_SUMMARY">
 			<Text>The pledge made to you by the {1_CivName} to {2_PledgeType} has been broken.</Text>
-		</Row>
-		<Row Tag="LOC_NOTIFICATION_DIPLO_PLEDGE_TO_BROKEN_MESSAGE">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_DIPLO_PLEDGE_TO_BROKEN_MESSAGE">
 			<Text>Your Pledge Broken</Text>
-		</Row>
-		<Row Tag="LOC_NOTIFICATION_DIPLO_PLEDGE_TO_BROKEN_SUMMARY">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_DIPLO_PLEDGE_TO_BROKEN_SUMMARY">
 			<Text>Your pledge to the {1_CivName} to {2_PledgeType} has been broken.</Text>
-		</Row>
-		<Row Tag="LOC_NOTIFICATION_COMMEMORATION_AVAILABLE_MESSAGE">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_COMMEMORATION_AVAILABLE_MESSAGE">
 			<Text>Make Dedication</Text>
-		</Row>
-		<Row Tag="LOC_NOTIFICATION_COMMEMORATION_AVAILABLE_SUMMARY"> 
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_COMMEMORATION_AVAILABLE_SUMMARY"> 
 			<Text>Since the game has entered a new era, you are able to make a Dedication to guide your people towards the desired future for your civilization.</Text>
-		</Row>
-		<Row Tag="LOC_NOTIFICATION_QUEST_RECORDED_MESSAGE">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_QUEST_RECORDED_MESSAGE">
 			<Text>Dedication Bonus Triggered</Text>
-		</Row>
-		<Row Tag="LOC_NOTIFICATION_QUEST_RECORDED_SUMMARY">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_QUEST_RECORDED_SUMMARY">
 			<Text>{1_DedicationBonusTriggerSentence} Because of this, you receive Era Score from your Dedication bonus!</Text>
-		</Row>
+		</Replace>
 		<!--TUTORIAL EVENTS TEXT-->
-	</EnglishText>
+	</LocalizedText>
 </GameData>

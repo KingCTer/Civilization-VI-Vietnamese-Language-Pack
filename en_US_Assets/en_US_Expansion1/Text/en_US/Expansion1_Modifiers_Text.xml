@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameData>
-	<EnglishText>
-		<Row Tag="LOC_MODIFIER_OBJECT_EMERGENCY">
+	<LocalizedText>
+		<Replace Language='en_US' Tag="LOC_MODIFIER_OBJECT_EMERGENCY">
 			<Text>Emergency Alliance|Emergency Alliances</Text>
 			<Plurality>1|2</Plurality>
-		</Row>
-		<Row Tag="LOC_MODIFIER_OBJECT_GOVERNOR">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MODIFIER_OBJECT_GOVERNOR">
 			<Text>Governor|Governors</Text>
 			<Plurality>1|2</Plurality>
-		</Row>
-	</EnglishText>
+		</Replace>
+	</LocalizedText>
 </GameData>

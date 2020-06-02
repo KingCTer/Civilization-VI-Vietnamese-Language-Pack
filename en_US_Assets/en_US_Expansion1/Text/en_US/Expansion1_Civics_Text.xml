@@ -1,182 +1,182 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameData>
-	<EnglishText>
+	<LocalizedText>
 		<!-- Policy Names -->
-		<Row Tag="LOC_POLICY_AUTOCRACY_NAME">
+		<Replace Language='en_US' Tag="LOC_POLICY_AUTOCRACY_NAME">
 			<Text>Autocratic Legacy</Text>
-		</Row>
-		<Row Tag="LOC_POLICY_OLIGARCHY_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_OLIGARCHY_NAME">
 			<Text>Oligarchic Legacy</Text>
-		</Row>
-		<Row Tag="LOC_POLICY_CLASSICAL_REPUBLIC_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_CLASSICAL_REPUBLIC_NAME">
 			<Text>Republican Legacy</Text>
-		</Row>
-		<Row Tag="LOC_POLICY_MONARCHY_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_MONARCHY_NAME">
 			<Text>Monarchic Legacy</Text>
-		</Row>
-		<Row Tag="LOC_POLICY_THEOCRACY_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_THEOCRACY_NAME">
 			<Text>Theocratic Legacy</Text>
-		</Row>
-		<Row Tag="LOC_POLICY_MERCHANT_REPUBLIC_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_MERCHANT_REPUBLIC_NAME">
 			<Text>Mercantile Legacy</Text>
-		</Row>
-		<Row Tag="LOC_POLICY_FASCISM_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_FASCISM_NAME">
 			<Text>Fascist Legacy</Text>
-		</Row>
-		<Row Tag="LOC_POLICY_COMMUNISM_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_COMMUNISM_NAME">
 			<Text>Communist Legacy</Text>
-		</Row>
-		<Row Tag="LOC_POLICY_DEMOCRACY_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_DEMOCRACY_NAME">
 			<Text>Democratic Legacy</Text>
-		</Row>
+		</Replace>
 		<!-- Policies -->
-		<Row Tag="LOC_POLICY_AFTER_ACTION_REPORTS_NAME">
+		<Replace Language='en_US' Tag="LOC_POLICY_AFTER_ACTION_REPORTS_NAME">
 			<Text>After Action Reports</Text>
-		</Row>
-		<Row Tag="LOC_POLICY_AFTER_ACTION_REPORTS_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_AFTER_ACTION_REPORTS_DESCRIPTION">
 			<Text>All units gain +25% combat experience.</Text>
-		</Row>
-		<Row Tag="LOC_POLICY_ARSENAL_OF_DEMOCRACY_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_ARSENAL_OF_DEMOCRACY_DESCRIPTION">
 			<Text>Your [ICON_TradeRoute] Trade Routes to an Ally's city provide +4 [ICON_Food] Food and +4 [ICON_Production] Production for both cities. Alliance Points with all allies increase by an additional .25 per turn.</Text>
-		</Row>
-		<Row Tag="LOC_POLICY_CIVIL_PRESTIGE_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_CIVIL_PRESTIGE_NAME">
 			<Text>Civil Prestige</Text>
-		</Row>
-		<Row Tag="LOC_POLICY_CIVIL_PRESTIGE_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_CIVIL_PRESTIGE_DESCRIPTION">
 			<Text>Established [ICON_GOVERNOR] Governors with at least 2 Promotions provide +1 [ICON_Amenities] Amenity and +2 [ICON_Housing] Housing.</Text>
-		</Row>
-		<Row Tag="LOC_POLICY_COLONIAL_OFFICES_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_COLONIAL_OFFICES_DESCRIPTION">
 			<Text>+15% faster growth and 3 Loyalty per turn for cities not on your original [ICON_Capital] Capital's continent.</Text>
-		</Row>
-		<Row Tag="LOC_POLICY_COLONIAL_TAXES_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_COLONIAL_TAXES_DESCRIPTION">
 			<Text>+25% [ICON_Gold] Gold and +10% [ICON_PRODUCTION] Production in cities not on your original [ICON_Capital] Capital's continent.</Text>
-		</Row>
-		<Row Tag="LOC_POLICY_COMMUNICATIONS_OFFICE_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_COMMUNICATIONS_OFFICE_NAME">
 			<Text>Communications Office</Text>
-		</Row>
-		<Row Tag="LOC_POLICY_COMMUNICATIONS_OFFICE_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_COMMUNICATIONS_OFFICE_DESCRIPTION">
 			<Text>[ICON_Governor] Governors provide +1 Loyalty per turn to their city, per Promotion the [ICON_Governor] Governor has.</Text>
-		</Row>
-		<Row Tag="LOC_POLICY_FREE_MARKET_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_FREE_MARKET_DESCRIPTION">
 			<Text>Extra [ICON_Gold] Gold from buildings in Commercial Hubs: +50% if city [ICON_CITIZEN] population is 10 or higher, +50% if district has at least +4 adjacency bonus.</Text>
-		</Row>
-		<Row Tag="LOC_POLICY_GRAND_OPERA_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_GRAND_OPERA_DESCRIPTION">
 			<Text>Extra [ICON_Culture] Culture from buildings in Theater Squares: +50% if city [ICON_CITIZEN] population is 10 or higher, +50% if district has at least +3 adjacency bonus.</Text>
-		</Row>
-		<Row Tag="LOC_POLICY_LIMITANEI_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_LIMITANEI_NAME">
 			<Text>Limitanei</Text>
-		</Row>
-		<Row Tag="LOC_POLICY_LIMITANEI_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_LIMITANEI_DESCRIPTION">
 			<Text>+2 Loyalty per turn for cities with a garrisoned unit.</Text>
-		</Row>
-		<Row Tag="LOC_POLICY_MARTIAL_LAW_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_MARTIAL_LAW_DESCRIPTION">
 			<Text>Accumulate 25% less war weariness than usual. +2 Loyalty per turn for cities with a garrisoned unit.</Text>
-		</Row>
-		<Row Tag="LOC_POLICY_POLICE_STATE_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_POLICE_STATE_DESCRIPTION">
 			<Text>Enemy Spies level reduced by 2 in your lands. However all cities suffer -2 Loyalty per turn.</Text>
-		</Row>
-		<Row Tag="LOC_POLICY_PRAETORIUM_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_PRAETORIUM_NAME">
 			<Text>Praetorium</Text>
-		</Row>
-		<Row Tag="LOC_POLICY_PRAETORIUM_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_PRAETORIUM_DESCRIPTION">
 			<Text>[ICON_Governor] Governors provide +2 Loyalty per turn to their city.</Text>
-		</Row>
-		<Row Tag="LOC_POLICY_RATIONALISM_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_RATIONALISM_DESCRIPTION">
 			<Text>Extra [ICON_Science] Science from buildings in Campuses: +50% if city [ICON_CITIZEN] population is 10 or higher, +50% if district has at least +3 adjacency bonus.</Text>
-		</Row>
-		<Row Tag="LOC_POLICY_SECOND_STRIKE_CAPABILITY_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_SECOND_STRIKE_CAPABILITY_NAME">
 			<Text>Second Strike Capability</Text>
-		</Row>
-		<Row Tag="LOC_POLICY_SECOND_STRIKE_CAPABILITY_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_SECOND_STRIKE_CAPABILITY_DESCRIPTION">
 			<Text>Nuclear Device maintenance reduced by 50% [ICON_Gold] Gold per turn.</Text>
-		</Row>
-		<Row Tag="LOC_POLICY_SIMULTANEUM_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_SIMULTANEUM_DESCRIPTION">
 			<Text>Extra [ICON_Faith] Faith from buildings in Holy Sites: +50% if city [ICON_CITIZEN] population is 10 or higher, +50% if district has at least +3 adjacency bonus.</Text>
-		</Row>
-		<Row Tag="LOC_POLICY_WISSELBANKEN_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_WISSELBANKEN_NAME">
 			<Text>Wisselbanken</Text>
-		</Row>
-		<Row Tag="LOC_POLICY_WISSELBANKEN_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_WISSELBANKEN_DESCRIPTION">
 			<Text>Your [ICON_TradeRoute] Trade Routes to an Ally's city provide +2 [ICON_Food] Food and +2 [ICON_Production] Production for both cities. Alliance Points with all allies increase by an additional .25 per turn.</Text>
-		</Row>
-		<Row Tag="LOC_POLICY_MONASTICISM_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_MONASTICISM_NAME">
 			<Text>Monasticism</Text>
-		</Row>
-		<Row Tag="LOC_POLICY_TWILIGHT_VALOR_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_TWILIGHT_VALOR_NAME">
 			<Text>Twilight Valor</Text>
-		</Row>
-		<Row Tag="LOC_POLICY_INQUISITION_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_INQUISITION_NAME">
 			<Text>Inquisition</Text>
-		</Row>
-		<Row Tag="LOC_POLICY_ISOLATIONISM_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_ISOLATIONISM_NAME">
 			<Text>Isolationism</Text>
-		</Row>
-		<Row Tag="LOC_POLICY_LETTERS_OF_MARQUE_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_LETTERS_OF_MARQUE_NAME">
 			<Text>Letters of Marque</Text>
-		</Row>
-		<Row Tag="LOC_POLICY_ROBBER_BARONS_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_ROBBER_BARONS_NAME">
 			<Text>Robber Barons</Text>
-		</Row>
-		<Row Tag="LOC_POLICY_ELITE_FORCES_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_ELITE_FORCES_NAME">
 			<Text>Elite Forces</Text>
-		</Row>
-		<Row Tag="LOC_POLICY_COLLECTIVISM_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_COLLECTIVISM_NAME">
 			<Text>Collectivism</Text>
-		</Row>
-		<Row Tag="LOC_POLICY_ROGUE_STATE_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_ROGUE_STATE_NAME">
 			<Text>Rogue State</Text>
-		</Row>
-		<Row Tag="LOC_POLICY_MONASTICISM_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_MONASTICISM_DESCRIPTION">
 			<Text>+75% [ICON_Science] Science in cities with a Holy Site.[NEWLINE]BUT: -25% [ICON_Culture] Culture in all cities.</Text>
-		</Row>
-		<Row Tag="LOC_POLICY_TWILIGHT_VALOR_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_TWILIGHT_VALOR_DESCRIPTION">
 			<Text>+5 [ICON_Strength] Combat Strength for all melee attack units.[NEWLINE]BUT: Cannot heal outside your territory.</Text>
-		</Row>
-		<Row Tag="LOC_POLICY_INQUISITION_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_INQUISITION_DESCRIPTION">
 			<Text>Start Inquisition with 1 Apostle charge. All Religious units +15 [ICON_Religion] Religious Combat Strength in friendly territory.[NEWLINE]BUT: -25% [ICON_Science] Science in all cities.</Text>
-		</Row>
-		<Row Tag="LOC_POLICY_ISOLATIONISM_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_ISOLATIONISM_DESCRIPTION">
 			<Text>Domestic routes provide +2 [ICON_Food] Food, +2 [ICON_Production] Production.[NEWLINE]BUT: Can't train or buy Settlers nor settle new cities.</Text>
-		</Row>
-		<Row Tag="LOC_POLICY_LETTERS_OF_MARQUE_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_LETTERS_OF_MARQUE_DESCRIPTION">
 			<Text>Naval Raiders: +100% [ICON_Production] Production, +2 [ICON_Movement] Movement. Yields doubled from plundering Trade Routes.[NEWLINE]BUT: [ICON_TradeRoute] Trade Route yields -50%.</Text>
-		</Row>
-		<Row Tag="LOC_POLICY_ROBBER_BARONS_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_ROBBER_BARONS_DESCRIPTION">
 			<Text>+50% [ICON_Gold] Gold in cities with a Stock Exchange. +25% [ICON_Production] Production in cities with a Factory.[NEWLINE]BUT: -2 [ICON_Amenities] Amenities in all cities.</Text>
-		</Row>
-		<Row Tag="LOC_POLICY_ELITE_FORCES_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_ELITE_FORCES_DESCRIPTION">
 			<Text>+100% combat experience for all units.[NEWLINE]BUT: +2 [ICON_Gold] Gold to maintain each combat and spy unit.</Text>
-		</Row>
-		<Row Tag="LOC_POLICY_COLLECTIVISM_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_COLLECTIVISM_DESCRIPTION">
 			<Text>Farms +1 [ICON_Food] Food. All cities +2 [ICON_Housing] Housing. +100% Industrial Zone adjacency bonuses.[NEWLINE]BUT: [ICON_GreatPerson] Great People Points earned 50% slower.</Text>
-		</Row>
-		<Row Tag="LOC_POLICY_ROGUE_STATE_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_ROGUE_STATE_DESCRIPTION">
 			<Text>+50% [ICON_Production] Production to nuclear program projects and Nuclear Devices.[NEWLINE]BUT: Earn no influence toward new [ICON_Envoy] Envoys.</Text>
-		</Row>
-		<Row Tag="LOC_POLICY_RAID_EXPANSION1_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_RAID_EXPANSION1_DESCRIPTION">
 			<Text>Yields gained from pillaging and coastal raids are +100%.</Text>
-		</Row>
-		<Row Tag="LOC_POLICY_RAID_EXPANSION1_ALT_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_RAID_EXPANSION1_ALT_DESCRIPTION">
 			<Text>Yields gained from pillaging and coastal raids are +50%.</Text>
-		</Row>
-		<Row Tag="LOC_POLICY_MILITARY_RESEARCH_EXPANSION1_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_MILITARY_RESEARCH_EXPANSION1_DESCRIPTION">
 			<Text>Military Academies, Seaports, and Renaissance Walls generate +2 [ICON_Science] Science.</Text>
-		</Row>
-		<Row Tag="LOC_POLICY_PUBLIC_TRANSPORT_EXPANSION1_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_PUBLIC_TRANSPORT_EXPANSION1_DESCRIPTION">
 			<Text>Receive 100 [ICON_Gold] Gold per Appeal of tile when replacing a Farm with a Neighborhood district.</Text>
-		</Row>
-		<Row Tag="LOC_POLICY_ECOMMERCE_EXPANSION1_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_ECOMMERCE_EXPANSION1_DESCRIPTION">
 			<Text>+2 [ICON_Production] Production and +5 [ICON_Gold] Gold from all [ICON_TradeRoute] Trade Routes.</Text>
-		</Row>
-		<Row Tag="LOC_POLICY_TOTAL_WAR_EXPANSION1_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_TOTAL_WAR_EXPANSION1_DESCRIPTION">
 			<Text>Yields gained from pillaging and coastal raids are +100%. +50% rewards from plundering [ICON_TradeRoute] Trade Routes.</Text>
-		</Row>
-		<Row Tag="LOC_POLICY_TOTAL_WAR_EXPANSION1_ALT_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_TOTAL_WAR_EXPANSION1_ALT_DESCRIPTION">
 			<Text>Yields gained from pillaging, coastal raids, and plundering [ICON_TradeRoute] Trade Routes are +50%.</Text>
-		</Row>
+		</Replace>
 		<!-- Updated from base game -->
-		<Row Tag="LOC_CIVIC_MOBILIZATION_DESCRIPTION">
+		<Replace Language='en_US' Tag="LOC_CIVIC_MOBILIZATION_DESCRIPTION">
 			<Text>Allows forming three identical units into an Army or Armada. Allows one new Casus Belli that can be used to justify wars: War of Territorial Expansion.</Text>
-		</Row>
-	</EnglishText>
+		</Replace>
+	</LocalizedText>
 </GameData>

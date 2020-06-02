@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameData>
-	<EnglishText>
+	<LocalizedText>
 		<!--Agenda Names-->
-		<Row Tag="LOC_AGENDA_GOSSIP_NAME">
+		<Replace Language='en_US' Tag="LOC_AGENDA_GOSSIP_NAME">
 			<Text>Gossip</Text>
-		</Row>
-		<Row Tag="LOC_AGENDA_SYCOPHANT_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_AGENDA_SYCOPHANT_NAME">
 			<Text>Sycophant</Text>
-		</Row>
-		<Row Tag="LOC_AGENDA_SYMPATHIZER_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_AGENDA_SYMPATHIZER_NAME">
 			<Text>Sympathizer</Text>
-		</Row>
-		<Row Tag="LOC_AGENDA_UNKNOWN_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_AGENDA_UNKNOWN_NAME">
 			<Text>Unknown</Text>
-		</Row>
-		<Row Tag="LOC_AGENDA_GOSSIP_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_AGENDA_GOSSIP_DESCRIPTION">
 			<Text>Wants to know everything about everyone through friendship, open borders, delegations and embassies. Does not like civilizations who don't share information.</Text>
-		</Row>
-		<Row Tag="LOC_AGENDA_SYCOPHANT_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_AGENDA_SYCOPHANT_DESCRIPTION">
 			<Text>Impressed by any civilization that earns a Golden Age. Dislikes those in Dark Ages.</Text>
-		</Row>
-		<Row Tag="LOC_AGENDA_SYMPATHIZER_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_AGENDA_SYMPATHIZER_DESCRIPTION">
 			<Text>Feels bad for those going through Dark Ages. Dislikes those in Golden Ages.</Text>
-		</Row>
-		<Row Tag="LOC_AGENDA_UNKNOWN_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_AGENDA_UNKNOWN_DESCRIPTION">
 			<Text>Unknown Agenda.</Text>
-		</Row>
-	</EnglishText>
+		</Replace>
+	</LocalizedText>
 </GameData>

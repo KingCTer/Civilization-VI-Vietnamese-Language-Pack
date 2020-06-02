@@ -1,340 +1,340 @@
 <!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
 <GameData>
-	<EnglishText>
-		<Row Tag="LOC_WC_RES_MERCENARY_COMPANIES_NAME">
+	<LocalizedText>
+		<Replace Language='en_US' Tag="LOC_WC_RES_MERCENARY_COMPANIES_NAME">
 			<Text>Mercenary Companies</Text>
-		</Row>
-		<Row Tag="LOC_RESOLUTION_DIPLOVICTORY_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_RESOLUTION_DIPLOVICTORY_NAME">
 			<Text>Diplomatic Victory</Text>
-		</Row>
-		<Row Tag="LOC_WC_RES_LUXURY_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WC_RES_LUXURY_NAME">
 			<Text>Luxury Policy</Text>
-		</Row>
-		<Row Tag="LOC_WC_RES_TRADE_TREATY_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WC_RES_TRADE_TREATY_NAME">
 			<Text>Trade Policy</Text>
-		</Row>
-		<Row Tag="LOC_WC_RES_WORLD_RELIGION_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WC_RES_WORLD_RELIGION_NAME">
 			<Text>World Religion</Text>
-		</Row>
-		<Row Tag="LOC_WC_RES_POWER_RESOURCE_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WC_RES_POWER_RESOURCE_NAME">
 			<Text>Power Policy</Text>
-		</Row>
-		<Row Tag="LOC_WC_RES_FAVORED_UNITS_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WC_RES_FAVORED_UNITS_NAME">
 			<Text>World-Approved Armies</Text>
-		</Row>
-		<Row Tag="LOC_WC_RES_GOVERNANCE_DOCTRINE_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WC_RES_GOVERNANCE_DOCTRINE_NAME">
 			<Text>Governance Doctrine</Text>
-		</Row>
-		<Row Tag="LOC_WC_RES_ARMS_CONTROL_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WC_RES_ARMS_CONTROL_NAME">
 			<Text>Arms Control</Text>
-		</Row>
-		<Row Tag="LOC_WC_RES_LOYAL_CITIZENS_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WC_RES_LOYAL_CITIZENS_NAME">
 			<Text>Favored Civilization</Text>
-		</Row>
-		<Row Tag="LOC_WC_RES_HERITAGE_ORG_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WC_RES_HERITAGE_ORG_NAME">
 			<Text>Heritage Organization</Text>
-		</Row>
-		<Row Tag="LOC_WC_RES_POLICY_TREATY_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WC_RES_POLICY_TREATY_NAME">
 			<Text>Policy Treaty</Text>
-		</Row>
-		<Row Tag="LOC_WC_RES_WORLD_IDEOLOGY_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WC_RES_WORLD_IDEOLOGY_NAME">
 			<Text>World Ideology</Text>
-		</Row>
-		<Row Tag="LOC_WC_RES_URBAN_DEVELOPMENT_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WC_RES_URBAN_DEVELOPMENT_NAME">
 			<Text>Urban Development Treaty</Text>
-		</Row>
-		<Row Tag="LOC_WC_RES_BORDER_CONTROL_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WC_RES_BORDER_CONTROL_NAME">
 			<Text>Border Control Treaty</Text>
-		</Row>
-		<Row Tag="LOC_WC_RES_PUBLIC_WORKS_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WC_RES_PUBLIC_WORKS_NAME">
 			<Text>Public Works Program</Text>
-		</Row>
-		<Row Tag="LOC_WC_RES_PATRONAGE_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WC_RES_PATRONAGE_NAME">
 			<Text>Patronage</Text>
-		</Row>
-		<Row Tag="LOC_WC_RES_TREATY_ORGANIZATION_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WC_RES_TREATY_ORGANIZATION_NAME">
 			<Text>Treaty Organization</Text>
-		</Row>
-		<Row Tag="LOC_WC_RES_GLOBAL_ENERGY_TREATY_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WC_RES_GLOBAL_ENERGY_TREATY_NAME">
 			<Text>Global Energy Treaty</Text>
-		</Row>
-		<Row Tag="LOC_WC_RES_SOVEREIGNTY_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WC_RES_SOVEREIGNTY_NAME">
 			<Text>Sovereignty</Text>
-		</Row>
-		<Row Tag="LOC_WC_RES_MIGRATION_TREATY_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WC_RES_MIGRATION_TREATY_NAME">
 			<Text>Migration Treaty</Text>
-		</Row>
-		<Row Tag="LOC_WC_RES_DEFORESTATION_TREATY_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WC_RES_DEFORESTATION_TREATY_NAME">
 			<Text>Deforestation Treaty</Text>
-		</Row>
-    <Row Tag="LOC_WC_RES_PUBLIC_RELATIONS_NAME">
+		</Replace>
+    <Replace Language='en_US' Tag="LOC_WC_RES_PUBLIC_RELATIONS_NAME">
       <Text>Public Relations</Text>
-    </Row>
-    <Row Tag="LOC_WC_RES_ESPIONAGE_PACT_NAME">
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_WC_RES_ESPIONAGE_PACT_NAME">
       <Text>Espionage Pact</Text>
-    </Row>
-    <Row Tag="LOC_WC_RES_MILITARY_ADVISORY_NAME">
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_WC_RES_MILITARY_ADVISORY_NAME">
       <Text>Military Advisory</Text>
-    </Row>
-		<Row Tag="LOC_WORLD_CONGRESS_ADD_DIPLOVICTORY_DESC">
+    </Replace>
+		<Replace Language='en_US' Tag="LOC_WORLD_CONGRESS_ADD_DIPLOVICTORY_DESC">
 			<Text>Chosen Player gains 2 Diplomatic Victory points.</Text>
-		</Row>
-		<Row Tag="LOC_WORLD_CONGRESS_IMPROVE_LUXURY_DESC">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WORLD_CONGRESS_IMPROVE_LUXURY_DESC">
 			<Text>Duplicates of the chosen Luxury resource grant [ICON_Amenities] Amenities.</Text>
-		</Row>
-		<Row Tag="LOC_WORLD_CONGRESS_IMPROVE_TRADE_WTH_PLAYER_DESC">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WORLD_CONGRESS_IMPROVE_TRADE_WTH_PLAYER_DESC">
 			<Text>[ICON_TradeRoute] Trade Routes sent to the chosen player provide +4 [ICON_Gold] Gold to the sender. The chosen player receives +1 [ICON_TradeRoute] Trade Route capacity.</Text>
-		</Row>
-		<Row Tag="LOC_WORLD_CONGRESS_EMPOWER_RELIGION_DESC">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WORLD_CONGRESS_EMPOWER_RELIGION_DESC">
 			<Text>+10 Strength (Combat and Religious) for all units of this [ICON_Religion] Religion.</Text>
-		</Row>
-		<Row Tag="LOC_WORLD_RELIGION_COMBAT_PREVIEW_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WORLD_RELIGION_COMBAT_PREVIEW_DESCRIPTION">
 			<Text>+{1_Amount} from World Religion</Text>
-		</Row>
-		<Row Tag="LOC_WORLD_CONGRESS_IMPROVE_POWER_CONVERSION_RESOURCE_DESC">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WORLD_CONGRESS_IMPROVE_POWER_CONVERSION_RESOURCE_DESC">
 			<Text>[WIP] Converting the chosen Power resource is twice as effective.</Text>
-		</Row>
-		<Row Tag="LOC_WORLD_CONGRESS_BAN_PRODUCTION_YIELD_DESC">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WORLD_CONGRESS_BAN_PRODUCTION_YIELD_DESC">
 			<Text>Producing, or purchasing military units using the chosen currency type, is +100% of the cost until the next World Congress.</Text>
-		</Row>
-		<Row Tag="LOC_WORLD_CONGRESS_BUFF_PRODUCTION_YIELD_DESC">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WORLD_CONGRESS_BUFF_PRODUCTION_YIELD_DESC">
 			<Text>Producing, or purchasing military units using the chosen currency type, is -50% of the cost until the next World Congress.</Text>
-		</Row>
-		<Row Tag="LOC_WORLD_CONGRESS_SUBTRACT_DIPLOVICTORY_DESC">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WORLD_CONGRESS_SUBTRACT_DIPLOVICTORY_DESC">
 			<Text>Chosen Player loses 2 Diplomatic Victory points.</Text>
-		</Row>
-		<Row Tag="LOC_WORLD_CONGRESS_BAN_LUXURY_DESC">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WORLD_CONGRESS_BAN_LUXURY_DESC">
 			<Text>The chosen Luxury resource grants no [ICON_Amenities] Amenities.</Text>
-		</Row>
-		<Row Tag="LOC_WORLD_CONGRESS_BAN_TRADE_WITH_PLAYER_DESC">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WORLD_CONGRESS_BAN_TRADE_WITH_PLAYER_DESC">
       <Text>Cancels any international [ICON_TradeRoute] Trade Routes between other civilizations and the chosen player, and embargoes any new ones from starting.</Text>
-		</Row>
-		<Row Tag="LOC_WORLD_CONGRESS_BAN_RELIGION_DESC">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WORLD_CONGRESS_BAN_RELIGION_DESC">
 			<Text>All players may condemn units of the chosen Religion, and doing so grants 25 [ICON_Favor] Diplomatic Favor.</Text>
-		</Row>
-		<Row Tag="LOC_WORLD_CONGRESS_BAN_POWER_CONVERSION_RESOURCE_DESC">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WORLD_CONGRESS_BAN_POWER_CONVERSION_RESOURCE_DESC">
 			<Text>[WIP] Converting the chosen Power resource is half as effective.</Text>
-		</Row>
-		<Row Tag="LOC_WORLD_CONGRESS_NERF_UNITPROMOTIONCLASS_DESC">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WORLD_CONGRESS_NERF_UNITPROMOTIONCLASS_DESC">
 			<Text>[WIP] Chosen promotion class has -5 [ICON_Strength] Combat Strength.</Text>
-		</Row>
-		<Row Tag="LOC_WORLD_CONGRESS_BUFF_ARMS_CONTROL_DESC">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WORLD_CONGRESS_BUFF_ARMS_CONTROL_DESC">
 			<Text>All players have their Weapons of Mass Destruction set equal to the target player's.</Text>
-		</Row>
-		<Row Tag="LOC_WORLD_CONGRESS_NERF_ARMS_CONTROL_DESC">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WORLD_CONGRESS_NERF_ARMS_CONTROL_DESC">
 			<Text>The target player loses all of their Weapons of Mass Destruction.</Text>
-		</Row>
-		<Row Tag="LOC_WORLD_CONGRESS_BUFF_PLAYER_LOYALTY_DESC">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WORLD_CONGRESS_BUFF_PLAYER_LOYALTY_DESC">
 			<Text>[WIP] The target player's cities are 100% Loyal.</Text>
-		</Row>
-		<Row Tag="LOC_WORLD_CONGRESS_NERF_PLAYER_LOYALTY_DESC">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WORLD_CONGRESS_NERF_PLAYER_LOYALTY_DESC">
 			<Text>[WIP] The target player cannot exert Loyalty pressure on others' cities.</Text>
-		</Row>
-		<Row Tag="LOC_WORLD_CONGRESS_BUFF_WORK_TOURISM_DESC">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WORLD_CONGRESS_BUFF_WORK_TOURISM_DESC">
 			<Text>[ICON_Tourism] Tourism from Great Works of this type is doubled.</Text>
-		</Row>
-		<Row Tag="LOC_WORLD_CONGRESS_NO_WORK_TOURISM_DESC">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WORLD_CONGRESS_NO_WORK_TOURISM_DESC">
 			<Text>No [ICON_Tourism] Tourism from Great Works of this type.</Text>
-		</Row>
-		<Row Tag="LOC_WORLD_CONGRESS_POLICY_FAVOR_DESC">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WORLD_CONGRESS_POLICY_FAVOR_DESC">
 			<Text>Gain [ICON_Favor] Diplomatic Favor each turn this Policy is active in your Government.</Text>
-		</Row>
-		<Row Tag="LOC_WORLD_CONGRESS_BAN_POLICY_DESC">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WORLD_CONGRESS_BAN_POLICY_DESC">
 			<Text>Ban the use of this Policy.</Text>
-		</Row>
-		<Row Tag="LOC_WORLD_CONGRESS_GAIN_WILDCARD_DESC">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WORLD_CONGRESS_GAIN_WILDCARD_DESC">
 			<Text>This Government type gains a Wildcard policy slot.</Text>
-		</Row>
-		<Row Tag="LOC_WORLD_CONGRESS_LOSE_WILDCARD_DESC">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WORLD_CONGRESS_LOSE_WILDCARD_DESC">
 			<Text>This Government type loses a Wildcard policy slot.</Text>
-		</Row>
-		<Row Tag="LOC_WORLD_CONGRESS_DISTRICT_BUILDING_PRODUCTION_DESC">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WORLD_CONGRESS_DISTRICT_BUILDING_PRODUCTION_DESC">
 			<Text>+100% [ICON_Production] Production towards buildings in this district.</Text>
-		</Row>
-		<Row Tag="LOC_WORLD_CONGRESS_NO_DISTRICT_BUILDING_DESC">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WORLD_CONGRESS_NO_DISTRICT_BUILDING_DESC">
 			<Text>No buildings can be created in this district.</Text>
-		</Row>
-		<Row Tag="LOC_WORLD_CONGRESS_NO_CULTURE_BORDER_GROWTH_DESC">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WORLD_CONGRESS_NO_CULTURE_BORDER_GROWTH_DESC">
 			<Text>This player's borders will not grow via [ICON_Culture] Culture.</Text>
-		</Row>
-		<Row Tag="LOC_WORLD_CONGRESS_DISTRICTS_CULTURE_BOMB_DESC">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WORLD_CONGRESS_DISTRICTS_CULTURE_BOMB_DESC">
 			<Text>New districts built by this player act as [ICON_Culture] Culture bombs.</Text>
-		</Row>
-		<Row Tag="LOC_WORLD_CONGRESS_BUFF_PROJECT_PRODUCTION_DESC">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WORLD_CONGRESS_BUFF_PROJECT_PRODUCTION_DESC">
 			<Text>+100% [ICON_Production] Production towards this Project.</Text>
-		</Row>
-		<Row Tag="LOC_WORLD_CONGRESS_BAN_PROJECT_DESC">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WORLD_CONGRESS_BAN_PROJECT_DESC">
 			<Text>-50% [ICON_Production] Production towards this Project.</Text>
-		</Row>
-		<Row Tag="LOC_WORLD_CONGRESS_BUFF_GP_POINTS_DESC">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WORLD_CONGRESS_BUFF_GP_POINTS_DESC">
 			<Text>Earn double points towards [ICON_GreatPerson] Great People of this class.</Text>
-		</Row>
-		<Row Tag="LOC_WORLD_CONGRESS_NO_GP_POINTS_DESC">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WORLD_CONGRESS_NO_GP_POINTS_DESC">
 			<Text>No points earned towards [ICON_GreatPerson] Great People of this class.</Text>
-		</Row>
-		<Row Tag="LOC_WORLD_CONGRESS_DOUBLE_SUZERAIN_FAVOR_DESC">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WORLD_CONGRESS_DOUBLE_SUZERAIN_FAVOR_DESC">
 			<Text>Double [ICON_Favor] Diplomatic Favor earned from being Suzerain of a City-State of this type.</Text>
-		</Row>
-		<Row Tag="LOC_WORLD_CONGRESS_BAN_BUILDING_DESC">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WORLD_CONGRESS_BAN_BUILDING_DESC">
 			<Text>Ban the production of buildings of this type.</Text>
-		</Row>
-		<Row Tag="LOC_WORLD_CONGRESS_BUILDING_DISCOUNT_DESC">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WORLD_CONGRESS_BUILDING_DISCOUNT_DESC">
 			<Text>50% discount on the production of buildings of this type.</Text>
-		</Row>
-		<Row Tag="LOC_WORLD_CONGRESS_NO_SUZERAIN_FAVOR_DESC">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WORLD_CONGRESS_NO_SUZERAIN_FAVOR_DESC">
 			<Text>No [ICON_Favor] Diplomatic Favor earned from being Suzerain of a City-State of this type.</Text>
-		</Row>
-		<Row Tag="LOC_WORLD_CONGRESS_FAVOR_FROM_TRADE_AND_ENVOYS_WITH_MINORS_DESC">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WORLD_CONGRESS_FAVOR_FROM_TRADE_AND_ENVOYS_WITH_MINORS_DESC">
 			<Text>+100% of the City-States' yield type when sending [ICON_TradeRoute] Trade Routes to a City-State of this type.</Text>
-		</Row>
-		<Row Tag="LOC_WORLD_CONGRESS_NO_SUZERAIN_BONUS_DESC">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WORLD_CONGRESS_NO_SUZERAIN_BONUS_DESC">
 			<Text>City-States of this type do not provide their unique Suzerain bonus.</Text>
-		</Row>
-		<Row Tag="LOC_WORLD_CONGRESS_FAVOR_FROM_GOVERNOR_DESC">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WORLD_CONGRESS_FAVOR_FROM_GOVERNOR_DESC">
 			<Text>Appointing and promoting the specified [ICON_Governor] Governor type yields 15 [ICON_Favor] Diplomatic Favor.</Text>
-		</Row>
-		<Row Tag="LOC_WORLD_CONGRESS_NEUTRALIZE_GOVERNOR_TYPE_DESC">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WORLD_CONGRESS_NEUTRALIZE_GOVERNOR_TYPE_DESC">
 			<Text>All active [ICON_Governor] Governors of the specified type are neutralized for 6 Turns.</Text>
-		</Row>
-		<Row Tag="LOC_WORLD_CONGRESS_MORE_GROWTH_LESS_LOYALTY_DESC">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WORLD_CONGRESS_MORE_GROWTH_LESS_LOYALTY_DESC">
 			<Text>+20% faster [ICON_Citizen] Population growth but -5 Loyalty per turn in this player's cities.</Text>
-		</Row>
-		<Row Tag="LOC_WORLD_CONGRESS_LESS_GROWTH_MORE_LOYALTY_DESC">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WORLD_CONGRESS_LESS_GROWTH_MORE_LOYALTY_DESC">
 			<Text>+5 Loyalty per turn but -20% [ICON_Citizen] Population growth in this player's cities.</Text>
-		</Row>
-		<Row Tag="LOC_WORLD_CONGRESS_DEFORESTATION_BAN_DESC">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WORLD_CONGRESS_DEFORESTATION_BAN_DESC">
 			<Text>Prohibits chopping or clearing Features of the chosen type.</Text>
-		</Row>
-		<Row Tag="LOC_WORLD_CONGRESS_DEFORESTATION_GOLD_DESC">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WORLD_CONGRESS_DEFORESTATION_GOLD_DESC">
 			<Text>Clearing Features of the chosen type yields [ICON_Gold] Gold equal to the [ICON_Production] Production and [ICON_Food] Food.</Text>
-		</Row>
-		<Row Tag="LOC_WORLD_CONGRESS_PUBLIC_RELATIONS_MORE_GRIEVANCES_DESC">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WORLD_CONGRESS_PUBLIC_RELATIONS_MORE_GRIEVANCES_DESC">
 			<Text>The chosen player generates 100% more [ICON_STAT_GRIEVANCE] Grievances, and other players generate 100% more [ICON_STAT_GRIEVANCE] Grievances toward this player.</Text>
-		</Row>
-		<Row Tag="LOC_WORLD_CONGRESS_PUBLIC_RELATIONS_FEWER_GRIEVANCES_DESC">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WORLD_CONGRESS_PUBLIC_RELATIONS_FEWER_GRIEVANCES_DESC">
 			<Text>The chosen player generates 50% fewer [ICON_STAT_GRIEVANCE] Grievances, and other players generate 50% fewer [ICON_STAT_GRIEVANCE] Grievances toward this player.</Text>
-		</Row>
-		<Row Tag="LOC_WORLD_CONGRESS_PUBLIC_ESPIONAGE_PACT_BUFF_DESC">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WORLD_CONGRESS_PUBLIC_ESPIONAGE_PACT_BUFF_DESC">
 			<Text>Spies executing the chosen Operation function 2 levels higher.</Text>
-		</Row>
-		<Row Tag="LOC_WORLD_CONGRESS_PUBLIC_ESPIONAGE_PACT_DISABLE_DESC">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WORLD_CONGRESS_PUBLIC_ESPIONAGE_PACT_DISABLE_DESC">
 			<Text>The chosen Operation is unavailable.</Text>
-		</Row>
-		<Row Tag="LOC_WORLD_CONGRESS_MILITARY_ADVISORY_BUFF_DESC">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WORLD_CONGRESS_MILITARY_ADVISORY_BUFF_DESC">
 			<Text>Units of the chosen promotion class gain +5 Combat Strength.</Text>
-		</Row>
-		<Row Tag="LOC_WORLD_CONGRESS_MILITARY_ADVISORY_NERF_DESC">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WORLD_CONGRESS_MILITARY_ADVISORY_NERF_DESC">
 			<Text>Units of the chosen promotion class lose 5 Combat Strength.</Text>
-		</Row>
-		<Row Tag="LOC_COMBAT_PREVIEW_MILITARY_ADVISORY_MILITARY_BUFF">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_COMBAT_PREVIEW_MILITARY_ADVISORY_MILITARY_BUFF">
 			<Text>{1_Value: number +#;-#} from Military Advisory Resolution</Text>
-		</Row>
-		<Row Tag="LOC_COMBAT_PREVIEW_MILITARY_ADVISORY_MILITARY_DEBUFF">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_COMBAT_PREVIEW_MILITARY_ADVISORY_MILITARY_DEBUFF">
 			<Text>[COLOR_RED]{1_Value: number +#;-#}[ENDCOLOR] from Military Advisory Resolution</Text>
-		</Row>
+		</Replace>
 		<!--Additional UI Text-->
-		<Row Tag="LOC_WORLD_CONGRESS_SELECT_AN_OUTCOME">
+		<Replace Language='en_US' Tag="LOC_WORLD_CONGRESS_SELECT_AN_OUTCOME">
 			<Text>Select an outcome for this Resolution:</Text>
-		</Row>
-		<Row Tag="LOC_WORLD_CONGRESS_UNIT_ACCESS_BAN_PRODUCTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WORLD_CONGRESS_UNIT_ACCESS_BAN_PRODUCTION">
 			<Text>Production of units has been banned by a mandate of the World Congress.</Text>
-		</Row>
-		<Row Tag="LOC_WORLD_CONGRESS_UNIT_ACCESS_BAN_GOLD">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WORLD_CONGRESS_UNIT_ACCESS_BAN_GOLD">
 			<Text>Purchasing of units with [ICON_Gold] Gold has been banned by a mandate of the World Congress.</Text>
-		</Row>
-		<Row Tag="LOC_WORLD_CONGRESS_UNIT_ACCESS_BAN_FAITH">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WORLD_CONGRESS_UNIT_ACCESS_BAN_FAITH">
 			<Text>Purchasing of units with [ICON_Faith] Faith has been banned by a mandate of the World Congress.</Text>
-		</Row>
+		</Replace>
 		<!-- Proposal UI Text -->
-		<Row Tag="LOC_WC_PROPOSAL_TYPE_AID_REQUEST_NAME">
+		<Replace Language='en_US' Tag="LOC_WC_PROPOSAL_TYPE_AID_REQUEST_NAME">
 			<Text>Request For Aid</Text>
-		</Row>
-		<Row Tag="LOC_WC_PROPOSAL_TYPE_EMERGENCY_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WC_PROPOSAL_TYPE_EMERGENCY_NAME">
 			<Text>Emergencies</Text>
-		</Row>
-		<Row Tag="LOC_WC_PROPOSAL_TYPE_COMPETITION_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WC_PROPOSAL_TYPE_COMPETITION_NAME">
 			<Text>Competitions</Text>
-		</Row>
-		<Row Tag="LOC_WC_VOTING_BLOCKER_NOT_BLOCKING_DESC">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WC_VOTING_BLOCKER_NOT_BLOCKING_DESC">
 			<Text>You may vote for or against this Discussion.</Text>
-		</Row>
-		<Row Tag="LOC_WC_VOTING_BLOCKER_AM_TARGET_OF_HOSTILE_DESC">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WC_VOTING_BLOCKER_AM_TARGET_OF_HOSTILE_DESC">
 			<Text>You may not vote in favor of this Discussion.  You are the target player.</Text>
-		</Row>
-		<Row Tag="LOC_WC_VOTING_BLOCKER_AM_TARGET_OF_FRIENDLY_DESC">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WC_VOTING_BLOCKER_AM_TARGET_OF_FRIENDLY_DESC">
 			<Text>You may not vote against this Discussion.  You are the target player.</Text>
-		</Row>
-		<Row Tag="LOC_WC_VOTING_BLOCKER_HAVENT_MET_TARGET_DESC">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WC_VOTING_BLOCKER_HAVENT_MET_TARGET_DESC">
 			<Text>You may not vote on this Discussion.  You have not met the target player.</Text>
-		</Row>
-		<Row Tag="LOC_WC_VOTING_BLOCKER_NOT_INVITED_TO_EMERGENCY_DESC">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WC_VOTING_BLOCKER_NOT_INVITED_TO_EMERGENCY_DESC">
 			<Text>You may not vote on this Discussion.  You are not party to the Emergency.</Text>
-		</Row>
-		<Row Tag="LOC_WC_PROPOSAL_BLOCKER_ALREADY_PROPOSED_DESC">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WC_PROPOSAL_BLOCKER_ALREADY_PROPOSED_DESC">
 			<Text>You have already proposed this Discussion for this World Congress.</Text>
-		</Row>
-		<Row Tag="LOC_WC_PROPOSAL_BLOCKER_CONGRESS_LOCKOUT_DESC">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WC_PROPOSAL_BLOCKER_CONGRESS_LOCKOUT_DESC">
 			<Text>A Special Session of the World Congress cannot be called so soon after one just finished.</Text>
-		</Row>
-		<Row Tag="LOC_OPERATION_REMOVE_FEATURE_BANNED">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_OPERATION_REMOVE_FEATURE_BANNED">
 			<Text>[COLOR_RED]Removing this Feature has been banned by the World Congress.[ENDCOLOR]</Text>
-		</Row>
-    <Row Tag="LOC_WORLD_CONGRESS_PREVIOUS_TOOLTIP_A_WON">
+		</Replace>
+    <Replace Language='en_US' Tag="LOC_WORLD_CONGRESS_PREVIOUS_TOOLTIP_A_WON">
       <Text>The last time World Congress considered this Resolution, the selected option was A targeting {1_Target}.</Text>
-    </Row>
-    <Row Tag="LOC_WORLD_CONGRESS_PREVIOUS_TOOLTIP_B_WON">
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_WORLD_CONGRESS_PREVIOUS_TOOLTIP_B_WON">
       <Text>The last time World Congress considered this Resolution, the selected option was B targeting {1_Target}.</Text>
-    </Row>
-    <Row Tag="LOC_WORLD_CONGRESS_PREVIOUS_TOOLTIP_WAS_TIE">
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_WORLD_CONGRESS_PREVIOUS_TOOLTIP_WAS_TIE">
       <Text>[ICON_BOLT] This was decided by a tiebreaker</Text>
-    </Row>
-    <Row Tag="LOC_WORLD_CONGRESS_PREVIOUS_TOOLTIP_A_SOLE_VOTE">
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_WORLD_CONGRESS_PREVIOUS_TOOLTIP_A_SOLE_VOTE">
       <Text>[ICON_BOLT] {1_PlayerName} was the sole voter for option A</Text>
-    </Row>
-    <Row Tag="LOC_WORLD_CONGRESS_PREVIOUS_TOOLTIP_B_SOLE_VOTE">
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_WORLD_CONGRESS_PREVIOUS_TOOLTIP_B_SOLE_VOTE">
       <Text>[ICON_BOLT] {1_PlayerName} was the sole voter for option B</Text>
-    </Row>
-    <Row Tag="LOC_WORLD_CONGRESS_PREVIOUS_TOOLTIP_TARGET_SOLE_VOTE">
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_WORLD_CONGRESS_PREVIOUS_TOOLTIP_TARGET_SOLE_VOTE">
       <Text>[ICON_BOLT] {1_PlayerName} was the sole voter for {2_Target}</Text>
-    </Row>
-    <Row Tag="LOC_WORLD_CONGRESS_PREVIOUS_TOOLTIP_NECK_AND_NECK_A">
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_WORLD_CONGRESS_PREVIOUS_TOOLTIP_NECK_AND_NECK_A">
       <Text>[ICON_BOLT] Option A barely defeated Option B</Text>
-    </Row>
-    <Row Tag="LOC_WORLD_CONGRESS_PREVIOUS_TOOLTIP_NECK_AND_NECK_B">
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_WORLD_CONGRESS_PREVIOUS_TOOLTIP_NECK_AND_NECK_B">
       <Text>[ICON_BOLT] Option B barely defeated Option A</Text>
-    </Row>
-    <Row Tag="LOC_WORLD_CONGRESS_PREVIOUS_TOOLTIP_NECK_AND_NECK_TARGET">
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_WORLD_CONGRESS_PREVIOUS_TOOLTIP_NECK_AND_NECK_TARGET">
       <Text>[ICON_BOLT] {1_Target} was barely chosen as the target over {2_SecondPlaceTarget}</Text>
-    </Row>
-    <Row Tag="LOC_WORLD_CONGRESS_PREVIOUS_TOOLTIP_UNANIMOUS_A">
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_WORLD_CONGRESS_PREVIOUS_TOOLTIP_UNANIMOUS_A">
       <Text>[ICON_BOLT] Option A was chosen unanimously</Text>
-    </Row>
-    <Row Tag="LOC_WORLD_CONGRESS_PREVIOUS_TOOLTIP_UNANIMOUS_B">
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_WORLD_CONGRESS_PREVIOUS_TOOLTIP_UNANIMOUS_B">
       <Text>[ICON_BOLT] Option B was chosen unanimously</Text>
-    </Row>
-    <Row Tag="LOC_WORLD_CONGRESS_PREVIOUS_TOOLTIP_UNANIMOUS_TARGET">
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_WORLD_CONGRESS_PREVIOUS_TOOLTIP_UNANIMOUS_TARGET">
       <Text>[ICON_BOLT] {1_Target} was chosen as the target unanimously</Text>
-    </Row>
-    <Row Tag="LOC_WORLD_CONGRESS_PREVIOUS_TOOLTIP_MAJORITY_A">
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_WORLD_CONGRESS_PREVIOUS_TOOLTIP_MAJORITY_A">
       <Text>[ICON_BOLT] {1_Player} led the way for Option A</Text>
-    </Row>
-    <Row Tag="LOC_WORLD_CONGRESS_PREVIOUS_TOOLTIP_MAJORITY_B">
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_WORLD_CONGRESS_PREVIOUS_TOOLTIP_MAJORITY_B">
       <Text>[ICON_BOLT] {1_Player} led the way for Option B</Text>
-    </Row>
-    <Row Tag="LOC_WORLD_CONGRESS_PREVIOUS_TOOLTIP_MAJORITY_TARGET">
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_WORLD_CONGRESS_PREVIOUS_TOOLTIP_MAJORITY_TARGET">
       <Text>[ICON_BOLT] {1_Player} placed the most votes for {2_Target}</Text>
-    </Row>
-    <Row Tag="LOC_DVP_TOOLTIP_AGREEING_RESOLUTIONS">
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_DVP_TOOLTIP_AGREEING_RESOLUTIONS">
       <Text>[ICON_BOLT] {1_Amount} from Congress Participation</Text>
-    </Row>
-    <Row Tag="LOC_DVP_TOOLTIP_DVP_RESOLUTION">
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_DVP_TOOLTIP_DVP_RESOLUTION">
       <Text>[ICON_BOLT] {1_Amount} from Diplomatic Victory Resolution</Text>
-    </Row>
-    <Row Tag="LOC_DVP_TOOLTIP_SCORED_COMPETITIONS">
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_DVP_TOOLTIP_SCORED_COMPETITIONS">
       <Text>[ICON_BOLT] {1_Amount} from Scored Competitions</Text>
-    </Row>
-    <Row Tag="LOC_DVP_TOOLTIP_OTHER_SOURCES">
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_DVP_TOOLTIP_OTHER_SOURCES">
       <Text>[ICON_BOLT] {1_Amount} from Wonders, Techs, and Civics</Text>
-    </Row>
-	</EnglishText>
+    </Replace>
+	</LocalizedText>
 </GameData>

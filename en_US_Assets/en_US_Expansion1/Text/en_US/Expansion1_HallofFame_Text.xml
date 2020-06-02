@@ -7,12 +7,12 @@
 		<Delete Tag="LOC_HOF_GRAPH_GOVERNOR_TITLES" />
 	</LocalizedText>
 
-	<EnglishText>
-		<Row Tag="LOC_HOF_GRAPH_PLAYER_ERASCORE">
+	<LocalizedText>
+		<Replace Language='en_US' Tag="LOC_HOF_GRAPH_PLAYER_ERASCORE">
 			<Text>Player Era Score</Text>
-		</Row>
-		<Row Tag="LOC_HOF_GRAPH_GOVERNOR_TITLES">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_HOF_GRAPH_GOVERNOR_TITLES">
 			<Text>Governor Titles Earned</Text>
-		</Row>
-	</EnglishText>
+		</Replace>
+	</LocalizedText>
 </GameData>

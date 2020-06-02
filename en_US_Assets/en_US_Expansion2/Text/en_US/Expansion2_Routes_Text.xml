@@ -1,11 +1,11 @@
 <GameData>
-	<EnglishText>
+	<LocalizedText>
     <!--New for XP2-->
-    <Row Tag="LOC_ROUTE_RAILROAD_NAME">
+    <Replace Language='en_US' Tag="LOC_ROUTE_RAILROAD_NAME">
       <Text>Railroad</Text>
-    </Row>
-    <Row Tag="LOC_ROUTE_RAILROAD_DESCRIPTION">
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_ROUTE_RAILROAD_DESCRIPTION">
       <Text>Can only be constructed by Military Engineers. Does not cost a charge, but does cost 1 [ICON_RESOURCE_IRON] Iron and 1 [ICON_RESOURCE_COAL] Coal. Greatly improves [ICON_Movement] Movement speed of any unit moving from one Railroad tile to another. [ICON_TradeRoute] Trade Routes traveling over Railroads can multiply the [ICON_Gold] Gold they get from districts at their destination.</Text>
-    </Row>
-	</EnglishText>
+    </Replace>
+	</LocalizedText>
 </GameData>

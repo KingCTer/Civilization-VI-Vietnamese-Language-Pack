@@ -1,193 +1,193 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
 <GameData>
-	<BaseGameText>
+	<LocalizedText>
 		<!-- Leader Text-->
-		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_DIDO_ANY">
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_EXIT_LEADER_DIDO_ANY">
 			<Text>May prosperity come to your cities—the ones away from the coast.</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_DIDO_ANY">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_EXIT_LEADER_DIDO_ANY">
 			<Text>We have no interest in the land-that is for you to claim-but the seas and the shores are Phoenician</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_ELEANOR_ENGLAND_ANY">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_EXIT_LEADER_ELEANOR_ENGLAND_ANY">
 			<Text>I am told you have placed great cities near our common border, like a garden of splendid roses. Delightful!</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_ELEANOR_ENGLAND_ANY">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_EXIT_LEADER_ELEANOR_ENGLAND_ANY">
 			<Text>If you are going to trouble yourself to make cities near our border, at least make them beautiful, prosperous cities, so I may enjoy the view.</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_ELEANOR_FRANCE_ANY">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_EXIT_LEADER_ELEANOR_FRANCE_ANY">
 			<Text>I am told you have placed great cities near our common border, like a garden of splendid roses. Delightful!</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_ELEANOR_FRANCE_ANY">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_EXIT_LEADER_ELEANOR_FRANCE_ANY">
 			<Text>If you are going to trouble yourself to make cities near our border, at least make them beautiful, prosperous cities, so I may enjoy the view.</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_KRISTINA_ANY">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_EXIT_LEADER_KRISTINA_ANY">
 			<Text>I’ve just acquired a new work and will host a viewing soon. Your emissaries are invited to attend.</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_KRISTINA_ANY">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_EXIT_LEADER_KRISTINA_ANY">
 			<Text>I suppose you think art is great when it ties a room together, you philistine.</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_KUPE_ANY">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_EXIT_LEADER_KUPE_ANY">
 			<Text>Your land stays green and your waters are clean and clear. Choice.</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_KUPE_ANY">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_EXIT_LEADER_KUPE_ANY">
 			<Text>You pile filth on the land and dump it in the sea! You waste and spoil the world!</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_LAURIER_ANY">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_EXIT_LEADER_LAURIER_ANY">
 			<Text>You have proved a reliable partner in resolving international conflict, Canada commends you.</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_LAURIER_ANY">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_EXIT_LEADER_LAURIER_ANY">
 			<Text>Why do you not help resolve the crises that affect the world? Are you unmoved by the plight of others?</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_MANSA_MUSA_ANY">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_EXIT_LEADER_MANSA_MUSA_ANY">
 			<Text>Rejoice with me, friend, for we are free from every want and can devote our time to the will of God.</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_MANSA_MUSA_ANY">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_EXIT_LEADER_MANSA_MUSA_ANY">
 			<Text>What have you done, that God has withdrawn his bounty from you? See that you return to righteousness!</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_MATTHIAS_CORVINUS_ANY">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_EXIT_LEADER_MATTHIAS_CORVINUS_ANY">
 			<Text>The quickest way to success is to levy the strengths of your little allies, wouldn’t you agree?</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_MATTHIAS_CORVINUS_ANY">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_EXIT_LEADER_MATTHIAS_CORVINUS_ANY">
 			<Text>They say you pay your auxiliaries in patriotism. That and two pennies will buy them a beer.</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_PACHACUTI_ANY">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_EXIT_LEADER_PACHACUTI_ANY">
 			<Text>You recognize that the Inca are the masters of the heights. This shows wisdom on your part.</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_PACHACUTI_ANY">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_EXIT_LEADER_PACHACUTI_ANY">
 			<Text>The Inca are the masters of the mountains. Do not challenge me on this ground. Be content with the lowlands.</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_SULEIMAN_ANY">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_EXIT_LEADER_SULEIMAN_ANY">
 			<Text>You, too, must possess the wisdom of Solomon, for your nation is made of many people who live in harmony.</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_SULEIMAN_ANY">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_EXIT_LEADER_SULEIMAN_ANY">
 			<Text>If you would be master of the world, you must first be master of your people—and you show no signs of mastery in this matter.</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_EXPANSIONIST">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_EXPANSIONIST">
 			<Text>It is better that you lack ambition to claim land, because I believe you lack the acumen to rule what you would take.</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_EXPANSIONIST">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_EXPANSIONIST">
 			<Text>How can you dare to claim such lands for yourself, when your people are weak and so badly led?</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_KUDO_LEADER_QIN_REASON_EXPANSIONIST">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_QIN_REASON_EXPANSIONIST">
 			<Text>I am pleased you have chosen to remain a barbarian people, whose kingdom merely emphasizes my glory.</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_WARNING_LEADER_QIN_REASON_EXPANSIONIST">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_LEADER_QIN_REASON_EXPANSIONIST">
 			<Text>I am the Emperor of all under heaven. That means all lands, including those you seek to possess for yourself, are rightfully mine.  Do not strive to equal me.</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_FLAT_EARTHER">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_FLAT_EARTHER">
 			<Text>I agree with you—There are too many pressing problems on earth to be pinning our hopes on space.</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_FLAT_EARTHER">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_FLAT_EARTHER">
 			<Text>How can you think about a future in space, when the present situation on earth should command your full attention!</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_KUDO_LEADER_CLEOPATRA_REASON_AGENDA_FLAT_EARTHER">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_CLEOPATRA_REASON_AGENDA_FLAT_EARTHER">
 			<Text>Blessed is the one who leaves the heavens to the Gods, and does not aspire to walk among them.</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_WARNING_LEADER_CLEOPATRA_REASON_AGENDA_FLAT_EARTHER">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_LEADER_CLEOPATRA_REASON_AGENDA_FLAT_EARTHER">
 			<Text>Do not approach the sun god Amun-Ra, nor the sky goddess Nut! Your impiety offends them! You will bring about the ruin of the world!</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_GREAT_WHITE_FLEET">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_GREAT_WHITE_FLEET">
 			<Text>Those of us with great navies can make our will felt across the world, and we are the true masters of the seas.</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_GREAT_WHITE_FLEET">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_GREAT_WHITE_FLEET">
 			<Text>You must make an effort at building ships and projecting your power across the seas, or no nation will respect you.</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_KUDO_LEADER_T_ROOSEVELT_REASON_AGENDA_GREAT_WHITE_FLEET">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_T_ROOSEVELT_REASON_AGENDA_GREAT_WHITE_FLEET">
 			<Text>So, you seek to challenge our supremacy at sea? Bully! I relish the competition!</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_WARNING_LEADER_T_ROOSEVELT_REASON_AGENDA_GREAT_WHITE_FLEET">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_LEADER_T_ROOSEVELT_REASON_AGENDA_GREAT_WHITE_FLEET">
 			<Text>Do you so readily concede competition in the arena of the seas? Why intentionally constrain your sovereignty? Are you afraid? </Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_LOW_FAVOR">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_LOW_FAVOR">
 			<Text>I am pleased that you are ready to accept me as the supreme leader of this planet. Already others whisper that my time is at hand.</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_HIGH_FAVOR">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_HIGH_FAVOR">
 			<Text>I see through your honeyed words and your curried favors. You seek ultimate power for yourself, and you would have the nations give it to you of their own free will.</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_KUDO_LEADER_PERICLES_REASON_AGENDA_LOW_FAVOR">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_PERICLES_REASON_AGENDA_LOW_FAVOR">
 			<Text>You will never know the joy of a responsive mob to a good speech, because you never practice the art of politics.</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_WARNING_LEADER_PERICLES_REASON_AGENDA_HIGH_FAVOR">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_LEADER_PERICLES_REASON_AGENDA_HIGH_FAVOR">
 			<Text>I’ll ostracize you for what you’re doing! Playing on emotions of the mob is my route to power!</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_LOW_TOURISM">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_LOW_TOURISM">
 			<Text>We’ve started a tour package for your citizens who want a world-class vacation. Apparently, nothing like this exists in your civilization.</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_HIGH_TOURISM">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_HIGH_TOURISM">
 			<Text>I know the world is beating a path to your tourist sites, but be warned! Our people possess blue jeans and rock music and are not afraid to use them.</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_KUDO_LEADER_MVEMBA_REASON_AGENDA_LOW_TOURISM">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_MVEMBA_REASON_AGENDA_LOW_TOURISM">
 			<Text>Your people have a simple culture. It is amusing and somewhat tragic. You could learn from the rest of the world.</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_WARNING_LEADER_MVEMBA_REASON_AGENDA_HIGH_TOURISM">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_LEADER_MVEMBA_REASON_AGENDA_HIGH_TOURISM">
 			<Text>Vibrant and unique cultures are threatened by the rising tide of your popular culture. </Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_INTOLERANT_SAME_RELIGION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_INTOLERANT_SAME_RELIGION">
 			<Text>How happy is the land whose ruler follows the one true religion, and protects the souls of his people! </Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_INTOLERANT_ENCROACHING_RELIGION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_INTOLERANT_ENCROACHING_RELIGION">
 			<Text>Blasphemy and heresy spill from the lips of your subjects! You must restore your people’s souls by restoring the true religion!</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_KUDO_LEADER_PEDRO_REASON_AGENDA_INTOLERANT_SAME_RELIGION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_PEDRO_REASON_AGENDA_INTOLERANT_SAME_RELIGION">
 			<Text>You know that a good ruler leads the souls of his people on the right course, and in doing so brings the blessings of heaven to them.</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_WARNING_LEADER_PEDRO_REASON_AGENDA_INTOLERANT_ENCROACHING_RELIGION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_LEADER_PEDRO_REASON_AGENDA_INTOLERANT_ENCROACHING_RELIGION">
 			<Text>I fear you have mistaken spreading religious infidelity for a lively carnival of ideas. </Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_LOW_DIPLOVP">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_LOW_DIPLOVP">
 			<Text>Maximal freedom can come only from civilizations pursuing their own interests, wouldn’t you say?</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_HIGH_DIPLOVP">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_HIGH_DIPLOVP">
 			<Text>By what right do you impose your political agenda on my sovereign civilization? I do not consent to be ruled against my will.</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_KUDO_LEADER_BARBAROSSA_REASON_AGENDA_LOW_DIPLOVP">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_BARBAROSSA_REASON_AGENDA_LOW_DIPLOVP">
 			<Text>I am pleased that you recognize these political gestures are mere games, devoid of true power and without respect for the right of rule.</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_WARNING_LEADER_BARBAROSSA_REASON_AGENDA_HIGH_DIPLOVP">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_LEADER_BARBAROSSA_REASON_AGENDA_HIGH_DIPLOVP">
 			<Text>Your attempts at creating this greater political union comes close to stealing the authority of my crown. I do not take kindly to those who do not respect this crown.</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_HIGH_PILLAGE">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_HIGH_PILLAGE">
 			<Text>Your enemies know you by flame and fear. They pray to be delivered from your wrath, but the heavens are silent. </Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_LOW_PILLAGE">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_LOW_PILLAGE">
 			<Text>Your enemies make war on you, but you do not plunder their lands in retribution. Is it out of cowardice? Or an excess of politeness? </Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_KUDO_LEADER_HARDRADA_REASON_AGENDA_HIGH_PILLAGE">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_HARDRADA_REASON_AGENDA_HIGH_PILLAGE">
 			<Text>Good! You punish your enemies with fire and sword until they tremble at the sound of your name. Pity you were not born a Viking.</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_WARNING_LEADER_HARDRADA_REASON_AGENDA_LOW_PILLAGE">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_LEADER_HARDRADA_REASON_AGENDA_LOW_PILLAGE">
 			<Text>You lack the courage to punish your enemies, and you lack the fortitude to make their lands an ashen wasteland. Pathetic.</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_TURTLER">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_TURTLER">
 			<Text>Good fences make good neighbors, and good defenses a peaceable kingdom. I am pleased you are content to protect your lands.</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_TURTLER">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_TURTLER">
 			<Text>In your rush to war and conquest, you set events into motion whose course you cannot foresee. Better to stay home and protect, than go abroad and conquer.</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_KUDO_LEADER_HOJO_REASON_AGENDA_TURTLER">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_HOJO_REASON_AGENDA_TURTLER">
 			<Text>Ambition for territory is the seed that ruins dynasties. I am pleased you seek only to defend your lands.</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_WARNING_LEADER_HOJO_REASON_AGENDA_TURTLER">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_LEADER_HOJO_REASON_AGENDA_TURTLER">
 			<Text>I perceive your conquests with concern, but not with fear. Know that if you invade Japan, the very wind and seas will come to our aid.</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_ZEALOT">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_ZEALOT">
 			<Text>Even after all we have done, I still worry that there are some souls that do not want to be saved. </Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_ZEALOT">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_ZEALOT">
 			<Text>I intend to see the salvation of your soul, whether you want it or not!</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_KUDO_LEADER_MONTEZUMA_REASON_AGENDA_ZEALOT">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_MONTEZUMA_REASON_AGENDA_ZEALOT">
 			<Text>It is good that you have chosen the right faith. You probably did so from admiration of me. That is understandable.</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_WARNING_LEADER_MONTEZUMA_REASON_AGENDA_ZEALOT">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_LEADER_MONTEZUMA_REASON_AGENDA_ZEALOT">
 			<Text>I am making a gift of my religion to you! Why do you not accept? You will shame yourself, and face destruction in the afterlife!</Text>
-		</Row>
-		 <Row Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_MONEY_GRUBBER">
+		</Replace>
+		 <Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_MONEY_GRUBBER">
 			<Text>Your treasury is filling up quite nicely. It's always nice to have such strong income, isn't it?</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_MONEY_GRUBBER">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_MONEY_GRUBBER">
 			<Text>Your empire is headed toward bankruptcy.  How can you survive with debt piling up?</Text>
-		</Row>
-	</BaseGameText>
+		</Replace>
+	</LocalizedText>
 </GameData>

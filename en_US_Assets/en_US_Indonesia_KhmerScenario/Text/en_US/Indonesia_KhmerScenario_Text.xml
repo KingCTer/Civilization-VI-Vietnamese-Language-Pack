@@ -1,944 +1,944 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
 <GameData>
-	<EnglishText>
+	<LocalizedText>
 		<!-- Buildings-->
-		<Row Tag="LOC_BUILDING_SCENARIO_LIGHTHOUSE_DESCRIPTION">
+		<Replace Language='en_US' Tag="LOC_BUILDING_SCENARIO_LIGHTHOUSE_DESCRIPTION">
 			<Text>+1 [ICON_FOOD] Food on all Coast tiles for this city.</Text>
-		</Row>
-		<Row Tag="LOC_BUILDING_SCENARIO_TEMPLE_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_SCENARIO_TEMPLE_DESCRIPTION">
 			<Text>Religious units trained here receive an additional promotion.</Text>
-		</Row>
-		<Row Tag="LOC_BUILDING_SCENARIO_SHIPYARD_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_SCENARIO_SHIPYARD_DESCRIPTION">
 			<Text>Bonus [ICON_Production] Production equal to the adjacency bonus of the Harbor district.</Text>
-		</Row>
-		<Row Tag="LOC_BUILDING_SCENARIO_MOSQUE_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_SCENARIO_MOSQUE_DESCRIPTION">
 			<Text>Missionary and Monk units created here have +1 Spread.</Text>
-		</Row>
-		<Row Tag="LOC_BUILDING_SCENARIO_PAGODA_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_SCENARIO_PAGODA_DESCRIPTION">
 			<Text>Priest units created here have +1 Remove Heresy and +1 Heal Charge for Guru units trained here.</Text>
-		</Row>
-		<Row Tag="LOC_BUILDING_SCENARIO_MAHABODHI_TEMPLE_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_SCENARIO_MAHABODHI_TEMPLE_DESCRIPTION">
 			<Text>Awards 2 randomly-chosen free civics when completed. All newly trained Missionary and Monk units receive +1 Spread.[NEWLINE][NEWLINE]Must be built on Woods or Rainforest.</Text>
-		</Row>
-		<Row Tag="LOC_BUILDING_SCENARIO_ANGKOR_WAT_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_SCENARIO_ANGKOR_WAT_DESCRIPTION">
 			<Text>When this wonder is built receive +3 [ICON_ENVOY] Envoys and +1 [ICON_Citizen] Population  in all Current Cities. +1 [ICON_Housing] Housing in all cities. [NEWLINE][NEWLINE]Must be built adjacent to an Aqueduct district.</Text>
-		</Row>
-		<Row Tag="LOC_BUILDING_SCENARIO_POTALA_PALACE_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_SCENARIO_POTALA_PALACE_DESCRIPTION">
 			<Text>+1 Wildcard policy slot[NEWLINE][NEWLINE]Must be built on a Hill.</Text>
-		</Row>
+		</Replace>
 		<!-- China-->
-		<Row Tag="LOC_CITY_NAME_SCENARIO_KAIFENG">
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SCENARIO_KAIFENG">
 			<Text>Kaifeng</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_SCENARIO_LINAN">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SCENARIO_LINAN">
 			<Text>Lin'an</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_SCENARIO_QUANZHOU">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SCENARIO_QUANZHOU">
 			<Text>Quanzhou</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_SCENARIO_CHONGQING">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SCENARIO_CHONGQING">
 			<Text>Chongqing</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_SCENARIO_CHANGAN">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SCENARIO_CHANGAN">
 			<Text>Chang'an</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_SCENARIO_PANYU">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SCENARIO_PANYU">
 			<Text>Panyu</Text>
-		</Row>
+		</Replace>
 		<!-- Chola-->
-		<Row Tag="LOC_CITY_NAME_SCENARIO_ANURADHAPURA">
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SCENARIO_ANURADHAPURA">
 			<Text>Anuradhapura</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_SCENARIO_VENGI">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SCENARIO_VENGI">
 			<Text>Vengi</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_SCENARIO_BANAVASI">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SCENARIO_BANAVASI">
 			<Text>Banavasi</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_SCENARIO_KADARAM">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SCENARIO_KADARAM">
 			<Text>Kadaram</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_SCENARIO_PEGU">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SCENARIO_PEGU">
 			<Text>Pegu</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_SCENARIO_MA_NAKKAVARAM">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SCENARIO_MA_NAKKAVARAM">
 			<Text>Ma-Nakkavaram</Text>
-		</Row>
+		</Replace>
 		<!-- Ghaznavid-->
-		<Row Tag="LOC_CITY_NAME_SCENARIO_GHAZNA">
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SCENARIO_GHAZNA">
 			<Text>Ghazna</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_SCENARIO_LAHORE">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SCENARIO_LAHORE">
 			<Text>Lahore</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_SCENARIO_BALKH">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SCENARIO_BALKH">
 			<Text>Balkh</Text>
-		</Row>
+		</Replace>
 		<!-- Pala-->
-		<Row Tag="LOC_CITY_NAME_SCENARIO_BIKRAMPUR">
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SCENARIO_BIKRAMPUR">
 			<Text>Bikrampur</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_SCENARIO_PATALIPUTRA">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SCENARIO_PATALIPUTRA">
 			<Text>Pataliputra</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_SCENARIO_KANNAUJ">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SCENARIO_KANNAUJ">
 			<Text>Kannauj</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_SCENARIO_DURJAYA">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SCENARIO_DURJAYA">
 			<Text>Durjaya</Text>
-		</Row>
+		</Replace>
 		<!-- Tufan-->
-		<Row Tag="LOC_CITY_NAME_SCENARIO_LHASA">
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SCENARIO_LHASA">
 			<Text>Lhasa</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_SCENARIO_QAMDO">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SCENARIO_QAMDO">
 			<Text>Qamdo</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_SCENARIO_BURANG">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SCENARIO_BURANG">
 			<Text>Burang</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_SCENARIO_XINING">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SCENARIO_XINING">
 			<Text>Xining</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_SCENARIO_NAGQU">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SCENARIO_NAGQU">
 			<Text>Nagqu</Text>
-		</Row>
+		</Replace>
 		<!-- City States-->
-		<Row Tag="LOC_CITY_NAME_SCENARIO_DALI">
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SCENARIO_DALI">
 			<Text>Dali</Text>
-		</Row>
-		<Row Tag="LOC_CIVILIZATION_SCENARIO_DALI_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_SCENARIO_DALI_DESCRIPTION">
 			<Text>Dali city-state</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_SCENARIO_DELHI">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SCENARIO_DELHI">
 			<Text>Delhi</Text>
-		</Row>
-		<Row Tag="LOC_CIVILIZATION_SCENARIO_DELHI_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_SCENARIO_DELHI_DESCRIPTION">
 			<Text>Delhi city-state</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_SCENARIO_GAOCHANG">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SCENARIO_GAOCHANG">
 			<Text>Gaochang</Text>
-		</Row>
-		<Row Tag="LOC_CIVILIZATION_SCENARIO_GAOCHANG_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_SCENARIO_GAOCHANG_DESCRIPTION">
 			<Text>Gaochang city-state</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_SCENARIO_GOA">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SCENARIO_GOA">
 			<Text>Goa</Text>
-		</Row>
-		<Row Tag="LOC_CIVILIZATION_SCENARIO_GOA_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_SCENARIO_GOA_DESCRIPTION">
 			<Text>Goa city-state</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_SCENARIO_HEIAN">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SCENARIO_HEIAN">
 			<Text>Heian</Text>
-		</Row>
-		<Row Tag="LOC_CIVILIZATION_SCENARIO_HEIAN_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_SCENARIO_HEIAN_DESCRIPTION">
 			<Text>Heian city-state</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_SCENARIO_KAESONG">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SCENARIO_KAESONG">
 			<Text>Kaesong</Text>
-		</Row>
-		<Row Tag="LOC_CIVILIZATION_SCENARIO_KAESONG_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_SCENARIO_KAESONG_DESCRIPTION">
 			<Text>Kaesong city-state</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_SCENARIO_KASHGAR">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SCENARIO_KASHGAR">
 			<Text>Kashgar</Text>
-		</Row>
-		<Row Tag="LOC_CIVILIZATION_SCENARIO_KASHGAR_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_SCENARIO_KASHGAR_DESCRIPTION">
 			<Text>Kashgar city-state</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_SCENARIO_KHOTAN">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SCENARIO_KHOTAN">
 			<Text>Khotan</Text>
-		</Row>
-		<Row Tag="LOC_CIVILIZATION_SCENARIO_KHOTAN_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_SCENARIO_KHOTAN_DESCRIPTION">
 			<Text>Khotan city-state</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_SCENARIO_KUCHA">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SCENARIO_KUCHA">
 			<Text>Kucha</Text>
-		</Row>
-		<Row Tag="LOC_CIVILIZATION_SCENARIO_KUCHA_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_SCENARIO_KUCHA_DESCRIPTION">
 			<Text>Kucha city-state</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_SCENARIO_LAMPHUN">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SCENARIO_LAMPHUN">
 			<Text>Lamphun</Text>
-		</Row>
-		<Row Tag="LOC_CIVILIZATION_SCENARIO_LAMPHUN_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_SCENARIO_LAMPHUN_DESCRIPTION">
 			<Text>Lamphun city-state</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_SCENARIO_LAMURI">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SCENARIO_LAMURI">
 			<Text>Lamuri</Text>
-		</Row>
-		<Row Tag="LOC_CIVILIZATION_SCENARIO_LAMURI_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_SCENARIO_LAMURI_DESCRIPTION">
 			<Text>Lamuri city-state</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_SCENARIO_MALABANG">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SCENARIO_MALABANG">
 			<Text>Malabang</Text>
-		</Row>
-		<Row Tag="LOC_CIVILIZATION_SCENARIO_MALABANG_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_SCENARIO_MALABANG_DESCRIPTION">
 			<Text>Malabang city-state</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_SCENARIO_PAGAN">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SCENARIO_PAGAN">
 			<Text>Pagan</Text>
-		</Row>
-		<Row Tag="LOC_CIVILIZATION_SCENARIO_PAGAN_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_SCENARIO_PAGAN_DESCRIPTION">
 			<Text>Pagan city-state</Text>
-		</Row>
-		<Row Tag="LOC_CIVILIZATION_SCENARIO_PALEMBANG_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_SCENARIO_PALEMBANG_DESCRIPTION">
 			<Text>Palembang city-state</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_SCENARIO_SAMARKAND">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SCENARIO_SAMARKAND">
 			<Text>Samarkand</Text>
-		</Row>
-		<Row Tag="LOC_CIVILIZATION_SCENARIO_SAMARKAND_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_SCENARIO_SAMARKAND_DESCRIPTION">
 			<Text>Samarkand city-state</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_SCENARIO_SOMNATH">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SCENARIO_SOMNATH">
 			<Text>Somnath</Text>
-		</Row>
-		<Row Tag="LOC_CIVILIZATION_SCENARIO_SOMNATH_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_SCENARIO_SOMNATH_DESCRIPTION">
 			<Text>Somnath city-state</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_SCENARIO_THANG_LONG">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SCENARIO_THANG_LONG">
 			<Text>Thăng Long</Text>
-		</Row>
-		<Row Tag="LOC_CIVILIZATION_SCENARIO_THANG_LONG_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_SCENARIO_THANG_LONG_DESCRIPTION">
 			<Text>Thăng Long city-state</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_SCENARIO_TEMASEK">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SCENARIO_TEMASEK">
 			<Text>Temasek</Text>
-		</Row>
-		<Row Tag="LOC_CIVILIZATION_SCENARIO_TEMASEK_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_SCENARIO_TEMASEK_DESCRIPTION">
 			<Text>Temasek city-state</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_SCENARIO_TONDO">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SCENARIO_TONDO">
 			<Text>Tondo</Text>
-		</Row>
-		<Row Tag="LOC_CIVILIZATION_SCENARIO_TONDO_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_SCENARIO_TONDO_DESCRIPTION">
 			<Text>Tondo city-state</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_SCENARIO_TURPAN">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SCENARIO_TURPAN">
 			<Text>Turpan</Text>
-		</Row>
-		<Row Tag="LOC_CIVILIZATION_SCENARIO_TURPAN_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_SCENARIO_TURPAN_DESCRIPTION">
 			<Text>Turpan city-state</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_SCENARIO_UJJAIN">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SCENARIO_UJJAIN">
 			<Text>Ujjain</Text>
-		</Row>
-		<Row Tag="LOC_CIVILIZATION_SCENARIO_UJJAIN_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_SCENARIO_UJJAIN_DESCRIPTION">
 			<Text>Ujjain city-state</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_SCENARIO_VIJAYA">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SCENARIO_VIJAYA">
 			<Text>Vijaya</Text>
-		</Row>
-		<Row Tag="LOC_CIVILIZATION_SCENARIO_VIJAYA_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_SCENARIO_VIJAYA_DESCRIPTION">
 			<Text>Vijaya city-state</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_SCENARIO_XINGQING">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SCENARIO_XINGQING">
 			<Text>Xingqing</Text>
-		</Row>
-		<Row Tag="LOC_CIVILIZATION_SCENARIO_XINGQING_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_SCENARIO_XINGQING_DESCRIPTION">
 			<Text>Xingqing city-state</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_SCENARIO_ZHONGJING">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_SCENARIO_ZHONGJING">
 			<Text>Zhongjing</Text>
-		</Row>
-		<Row Tag="LOC_CIVILIZATION_SCENARIO_ZHONGJING_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVILIZATION_SCENARIO_ZHONGJING_DESCRIPTION">
 			<Text>Zhongjing city-state</Text>
-		</Row>
-		<Row Tag="LOC_PEDIA_CITYSTATES_PAGEGROUP_SCENARIO_MARITIME_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PEDIA_CITYSTATES_PAGEGROUP_SCENARIO_MARITIME_NAME">
 			<Text>Maritime</Text>
-		</Row>
+		</Replace>
 		<!-- City States Traits-->
-		<Row Tag="LOC_MINOR_CIV_SCENARIO_TRADE_TRAIT_DESCRIPTION">
+		<Replace Language='en_US' Tag="LOC_MINOR_CIV_SCENARIO_TRADE_TRAIT_DESCRIPTION">
 			<Text>{LOC_MINOR_CIV_SMALL_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_TRADE_TRAIT_SMALL_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_MEDIUM_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_TRADE_TRAIT_MEDIUM_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_LARGE_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_TRADE_TRAIT_LARGE_INFLUENCE_BONUS}</Text>
-		</Row>
-		<Row Tag="LOC_MINOR_CIV_TRADE_TRAIT_SMALL_INFLUENCE_BONUS">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MINOR_CIV_TRADE_TRAIT_SMALL_INFLUENCE_BONUS">
 			<Text>+2 [ICON_Production] Production in the [ICON_Capital] Capital when producing units</Text>
-		</Row>
-		<Row Tag="LOC_MINOR_CIV_TRADE_TRAIT_MEDIUM_INFLUENCE_BONUS">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MINOR_CIV_TRADE_TRAIT_MEDIUM_INFLUENCE_BONUS">
 			<Text>+2 [ICON_Production] Production in every Commercial Hub district when producing units.</Text>
-		</Row>
-		<Row Tag="LOC_MINOR_CIV_TRADE_TRAIT_LARGE_INFLUENCE_BONUS">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MINOR_CIV_TRADE_TRAIT_LARGE_INFLUENCE_BONUS">
 			<Text>Additional +2 [ICON_Production] Production in every Commercial Hub district when producing units.</Text>
-		</Row>
-		<Row Tag="LOC_MINOR_CIV_SCENARIO_CULTURAL_TRAIT_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MINOR_CIV_SCENARIO_CULTURAL_TRAIT_DESCRIPTION">
 			<Text>{LOC_MINOR_CIV_SMALL_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_CULTURAL_TRAIT_SMALL_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_MEDIUM_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_CULTURAL_TRAIT_MEDIUM_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_LARGE_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_CULTURAL_TRAIT_LARGE_INFLUENCE_BONUS}</Text>
-		</Row>
-		<Row Tag="LOC_MINOR_CIV_CULTURAL_TRAIT_SMALL_INFLUENCE_BONUS">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MINOR_CIV_CULTURAL_TRAIT_SMALL_INFLUENCE_BONUS">
 			<Text>+2 [ICON_CULTURE] Culture in the [ICON_Capital] Capital.</Text>
-		</Row>
-		<Row Tag="LOC_MINOR_CIV_CULTURAL_TRAIT_MEDIUM_INFLUENCE_BONUS">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MINOR_CIV_CULTURAL_TRAIT_MEDIUM_INFLUENCE_BONUS">
 			<Text>+2 [ICON_CULTURE] Culture in every City Center district.</Text>
-		</Row>
-		<Row Tag="LOC_MINOR_CIV_CULTURAL_TRAIT_LARGE_INFLUENCE_BONUS">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MINOR_CIV_CULTURAL_TRAIT_LARGE_INFLUENCE_BONUS">
 			<Text>Additional +2 [ICON_CULTURE] Culture in every City Center district.</Text>
-		</Row>
-		<Row Tag="LOC_MINOR_CIV_SCENARIO_MARITIME_TRAIT_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MINOR_CIV_SCENARIO_MARITIME_TRAIT_NAME">
 			<Text>Maritime City-State</Text>
-		</Row>
-		<Row Tag="LOC_MINOR_CIV_SCENARIO_MARITIME_TRAIT_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MINOR_CIV_SCENARIO_MARITIME_TRAIT_DESCRIPTION">
 			<Text>{LOC_MINOR_CIV_SMALL_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_SCENARIO_MARITIME_TRAIT_SMALL_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_MEDIUM_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_SCENARIO_MARITIME_TRAIT_MEDIUM_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_LARGE_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_SCENARIO_MARITIME_TRAIT_LARGE_INFLUENCE_BONUS}</Text>
-		</Row>
-		<Row Tag="LOC_MINOR_CIV_SCENARIO_MARITIME_TRAIT_SMALL_INFLUENCE_BONUS">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MINOR_CIV_SCENARIO_MARITIME_TRAIT_SMALL_INFLUENCE_BONUS">
 			<Text>+2 [ICON_FOOD] Food in the [ICON_Capital] Capital.</Text>
-		</Row>
-		<Row Tag="LOC_MINOR_CIV_SCENARIO_MARITIME_TRAIT_MEDIUM_INFLUENCE_BONUS">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MINOR_CIV_SCENARIO_MARITIME_TRAIT_MEDIUM_INFLUENCE_BONUS">
 			<Text>+2 [ICON_FOOD] Food in every Harbor district.</Text>
-		</Row>
-		<Row Tag="LOC_MINOR_CIV_SCENARIO_MARITIME_TRAIT_LARGE_INFLUENCE_BONUS">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MINOR_CIV_SCENARIO_MARITIME_TRAIT_LARGE_INFLUENCE_BONUS">
 			<Text>Additional +2 [ICON_FOOD] Food in every Harbor district.</Text>
-		</Row>
-		<Row Tag="LOC_MINOR_CIV_SCENARIO_INDUSTRIAL_TRAIT_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MINOR_CIV_SCENARIO_INDUSTRIAL_TRAIT_DESCRIPTION">
 			<Text>{LOC_MINOR_CIV_SMALL_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_INDUSTRIAL_TRAIT_SMALL_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_MEDIUM_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_INDUSTRIAL_TRAIT_MEDIUM_INFLUENCE_BONUS}[NEWLINE]{LOC_MINOR_CIV_LARGE_INFLUENCE_ENVOYS} {LOC_MINOR_CIV_INDUSTRIAL_TRAIT_LARGE_INFLUENCE_BONUS}</Text>
-		</Row>
-		<Row Tag="LOC_MINOR_CIV_INDUSTRIAL_TRAIT_SMALL_INFLUENCE_BONUS">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MINOR_CIV_INDUSTRIAL_TRAIT_SMALL_INFLUENCE_BONUS">
 			<Text>+2 [ICON_Production] Production in the [ICON_Capital] Capital when producing wonders, buildings, and districts.</Text>
-		</Row>
-		<Row Tag="LOC_MINOR_CIV_INDUSTRIAL_TRAIT_MEDIUM_INFLUENCE_BONUS">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MINOR_CIV_INDUSTRIAL_TRAIT_MEDIUM_INFLUENCE_BONUS">
 			<Text>+2 [ICON_Production] Production in every Aqueduct district when producing wonders, buildings, and districts.</Text>
-		</Row>
-		<Row Tag="LOC_MINOR_CIV_INDUSTRIAL_TRAIT_LARGE_INFLUENCE_BONUS">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MINOR_CIV_INDUSTRIAL_TRAIT_LARGE_INFLUENCE_BONUS">
 			<Text>Additional +2 [ICON_Production] Production in every Aqueduct district when producing wonders, buildings and districts.</Text>
-		</Row>
-		<Row Tag="LOC_MINOR_CIV_SCENARIO_DALI_TRAIT_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MINOR_CIV_SCENARIO_DALI_TRAIT_NAME">
 			<Text>Dali Suzerain Bonus</Text>
-		</Row>
-		<Row Tag="LOC_MINOR_CIV_SCENARIO_DELHI_TRAIT_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MINOR_CIV_SCENARIO_DELHI_TRAIT_NAME">
 			<Text>Delhi Suzerain Bonus</Text>
-		</Row>
-		<Row Tag="LOC_MINOR_CIV_SCENARIO_GAOCHANG_TRAIT_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MINOR_CIV_SCENARIO_GAOCHANG_TRAIT_NAME">
 			<Text>Gaochang Suzerain Bonus</Text>
-		</Row>
-		<Row Tag="LOC_MINOR_CIV_SCENARIO_GOA_TRAIT_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MINOR_CIV_SCENARIO_GOA_TRAIT_NAME">
 			<Text>Goa Suzerain Bonus</Text>
-		</Row>
-		<Row Tag="LOC_MINOR_CIV_SCENARIO_HEIAN_TRAIT_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MINOR_CIV_SCENARIO_HEIAN_TRAIT_NAME">
 			<Text>Heian Suzerain Bonus</Text>
-		</Row>
-		<Row Tag="LOC_MINOR_CIV_SCENARIO_KAESONG_TRAIT_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MINOR_CIV_SCENARIO_KAESONG_TRAIT_NAME">
 			<Text>Kaesong Suzerain Bonus</Text>
-		</Row>
-		<Row Tag="LOC_MINOR_CIV_SCENARIO_KASHGAR_TRAIT_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MINOR_CIV_SCENARIO_KASHGAR_TRAIT_NAME">
 			<Text>Kashgar Suzerain Bonus</Text>
-		</Row>
-		<Row Tag="LOC_MINOR_CIV_SCENARIO_KHOTAN_TRAIT_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MINOR_CIV_SCENARIO_KHOTAN_TRAIT_NAME">
 			<Text>Khotan Suzerain Bonus</Text>
-		</Row>
-		<Row Tag="LOC_MINOR_CIV_SCENARIO_KUCHA_TRAIT_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MINOR_CIV_SCENARIO_KUCHA_TRAIT_NAME">
 			<Text>Kucha Suzerain Bonus</Text>
-		</Row>
-		<Row Tag="LOC_MINOR_CIV_SCENARIO_LAMPHUN_TRAIT_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MINOR_CIV_SCENARIO_LAMPHUN_TRAIT_NAME">
 			<Text>Lamphun Suzerain Bonus</Text>
-		</Row>
-		<Row Tag="LOC_MINOR_CIV_SCENARIO_LAMURI_TRAIT_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MINOR_CIV_SCENARIO_LAMURI_TRAIT_NAME">
 			<Text>Lamuri Suzerain Bonus</Text>
-		</Row>
-		<Row Tag="LOC_MINOR_CIV_SCENARIO_MALABANG_TRAIT_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MINOR_CIV_SCENARIO_MALABANG_TRAIT_NAME">
 			<Text>Malabang Suzerain Bonus</Text>
-		</Row>
-		<Row Tag="LOC_MINOR_CIV_SCENARIO_PAGAN_TRAIT_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MINOR_CIV_SCENARIO_PAGAN_TRAIT_NAME">
 			<Text>Pagan Suzerain Bonus</Text>
-		</Row>
-		<Row Tag="LOC_MINOR_CIV_SCENARIO_PALEMBANG_TRAIT_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MINOR_CIV_SCENARIO_PALEMBANG_TRAIT_NAME">
 			<Text>Palembang Suzerain Bonus</Text>
-		</Row>
-		<Row Tag="LOC_MINOR_CIV_SCENARIO_SAMARKAND_TRAIT_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MINOR_CIV_SCENARIO_SAMARKAND_TRAIT_NAME">
 			<Text>Samarkand Suzerain Bonus</Text>
-		</Row>
-		<Row Tag="LOC_MINOR_CIV_SCENARIO_SOMNATH_TRAIT_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MINOR_CIV_SCENARIO_SOMNATH_TRAIT_NAME">
 			<Text>Somnath Suzerain Bonus</Text>
-		</Row>
-		<Row Tag="LOC_MINOR_CIV_SCENARIO_THANG_LONG_TRAIT_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MINOR_CIV_SCENARIO_THANG_LONG_TRAIT_NAME">
 			<Text>Thăng Long Suzerain Bonus</Text>
-		</Row>
-		<Row Tag="LOC_MINOR_CIV_SCENARIO_TEMASEK_TRAIT_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MINOR_CIV_SCENARIO_TEMASEK_TRAIT_NAME">
 			<Text>Temasek Suzerain Bonus</Text>
-		</Row>
-		<Row Tag="LOC_MINOR_CIV_SCENARIO_TONDO_TRAIT_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MINOR_CIV_SCENARIO_TONDO_TRAIT_NAME">
 			<Text>Tondo Suzerain Bonus</Text>
-		</Row>
-		<Row Tag="LOC_MINOR_CIV_SCENARIO_TURPAN_TRAIT_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MINOR_CIV_SCENARIO_TURPAN_TRAIT_NAME">
 			<Text>Turpan Suzerain Bonus</Text>
-		</Row>
-		<Row Tag="LOC_MINOR_CIV_SCENARIO_UJJAIN_TRAIT_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MINOR_CIV_SCENARIO_UJJAIN_TRAIT_NAME">
 			<Text>Ujjain Suzerain Bonus</Text>
-		</Row>
-		<Row Tag="LOC_MINOR_CIV_SCENARIO_VIJAYA_TRAIT_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MINOR_CIV_SCENARIO_VIJAYA_TRAIT_NAME">
 			<Text>Vijaya Suzerain Bonus</Text>
-		</Row>
-		<Row Tag="LOC_MINOR_CIV_SCENARIO_XINGQING_TRAIT_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MINOR_CIV_SCENARIO_XINGQING_TRAIT_NAME">
 			<Text>Xingqing Suzerain Bonus</Text>
-		</Row>
-		<Row Tag="LOC_MINOR_CIV_SCENARIO_ZHONGJING_TRAIT_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MINOR_CIV_SCENARIO_ZHONGJING_TRAIT_NAME">
 			<Text>Zhongjing Suzerain Bonus</Text>
-		</Row>
-		<Row Tag="LOC_MINOR_CIV_SCENARIO_BANDAR_BRUNEI_TRAIT_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MINOR_CIV_SCENARIO_BANDAR_BRUNEI_TRAIT_DESCRIPTION">
 			<Text>Your districts on or next to Coast tiles provide +2 [ICON_FAITH] Faith.</Text>
-		</Row>
-		<Row Tag="LOC_MINOR_CIV_SCENARIO_DALI_TRAIT_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MINOR_CIV_SCENARIO_DALI_TRAIT_DESCRIPTION">
 			<Text>+1 [ICON_Amenities] Amenity in cities with a Commercial Hub district.</Text>
-		</Row>
-		<Row Tag="LOC_MINOR_CIV_SCENARIO_DELHI_TRAIT_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MINOR_CIV_SCENARIO_DELHI_TRAIT_DESCRIPTION">
 			<Text>Your [ICON_TradeRoute] Trade Routes to any city-state provide +2 [ICON_FAITH] Faith for every specialty district in the origin city.</Text>
-		</Row>
-		<Row Tag="LOC_MINOR_CIV_SCENARIO_GAOCHANG_TRAIT_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MINOR_CIV_SCENARIO_GAOCHANG_TRAIT_DESCRIPTION">
 			<Text>+1 [ICON_Amenities] Amenity in cities with a Commercial Hub district.</Text>
-		</Row>
-		<Row Tag="LOC_MINOR_CIV_SCENARIO_GOA_TRAIT_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MINOR_CIV_SCENARIO_GOA_TRAIT_DESCRIPTION">
 			<Text>Your districts on or next to Coast tiles provide +2 [ICON_FAITH] Faith.</Text>
-		</Row>
-		<Row Tag="LOC_MINOR_CIV_SCENARIO_HEIAN_TRAIT_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MINOR_CIV_SCENARIO_HEIAN_TRAIT_DESCRIPTION">
 			<Text>Your districts on or next to Coast tiles provide +2 [ICON_FAITH] Faith.</Text>
-		</Row>
-		<Row Tag="LOC_MINOR_CIV_SCENARIO_KAESONG_TRAIT_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MINOR_CIV_SCENARIO_KAESONG_TRAIT_DESCRIPTION">
 			<Text>Your [ICON_TradeRoute] Trade Routes to any city-state provide +2 [ICON_FAITH] Faith for every specialty district in the origin city.</Text>
-		</Row>
-		<Row Tag="LOC_MINOR_CIV_SCENARIO_KASHGAR_TRAIT_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MINOR_CIV_SCENARIO_KASHGAR_TRAIT_DESCRIPTION">
 			<Text>Your [ICON_TradeRoute] Trade Routes to foreign cities earn +1 [ICON_FAITH] Faith for each Luxury resource at the destination.</Text>
-		</Row>
-		<Row Tag="LOC_MINOR_CIV_SCENARIO_KHOTAN_TRAIT_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MINOR_CIV_SCENARIO_KHOTAN_TRAIT_DESCRIPTION">
 			<Text>+1 [ICON_Amenities] Amenity in cities with a Commercial Hub district.</Text>
-		</Row>
-		<Row Tag="LOC_MINOR_CIV_SCENARIO_KUCHA_TRAIT_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MINOR_CIV_SCENARIO_KUCHA_TRAIT_DESCRIPTION">
 			<Text>Your [ICON_TradingPost] Trading Posts in foreign cities provide +1 [ICON_CULTURE] Culture to your [ICON_TradeRoute] Trade Routes passing through or going to the city.</Text>
-		</Row>
-		<Row Tag="LOC_MINOR_CIV_SCENARIO_LAMPHUN_TRAIT_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MINOR_CIV_SCENARIO_LAMPHUN_TRAIT_DESCRIPTION">
 			<Text>Your Bonus resources behave like Luxury resources, providing 1 [ICON_Amenities] Amenity per type.</Text>
-		</Row>
-		<Row Tag="LOC_MINOR_CIV_SCENARIO_LAMURI_TRAIT_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MINOR_CIV_SCENARIO_LAMURI_TRAIT_DESCRIPTION">
 			<Text>Your [ICON_TradeRoute] Trade Routes to any city-state provide +2 [ICON_FAITH] Faith for every specialty district in the origin city.</Text>
-		</Row>
-		<Row Tag="LOC_MINOR_CIV_SCENARIO_MALABANG_TRAIT_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MINOR_CIV_SCENARIO_MALABANG_TRAIT_DESCRIPTION">
 			<Text>Your [ICON_TradeRoute] Trade Routes to any city-state provide +2 [ICON_FAITH] Faith for every specialty district in the origin city.</Text>
-		</Row>
-		<Row Tag="LOC_MINOR_CIV_SCENARIO_PAGAN_TRAIT_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MINOR_CIV_SCENARIO_PAGAN_TRAIT_DESCRIPTION">
 			<Text>Your [ICON_TradeRoute] Trade Routes to any city-state provide +2 [ICON_FAITH] Faith for every specialty district in the origin city.</Text>
-		</Row>
-		<Row Tag="LOC_MINOR_CIV_SCENARIO_PALEMBANG_TRAIT_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MINOR_CIV_SCENARIO_PALEMBANG_TRAIT_DESCRIPTION">
 			<Text>+1 [ICON_Amenities] Amenity in cities with a Commercial Hub district.</Text>
-		</Row>
-		<Row Tag="LOC_MINOR_CIV_SCENARIO_SAMARKAND_TRAIT_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MINOR_CIV_SCENARIO_SAMARKAND_TRAIT_DESCRIPTION">
 			<Text>+1 [ICON_Amenities] Amenity in cities with a Commercial Hub district.</Text>
-		</Row>
-		<Row Tag="LOC_MINOR_CIV_SCENARIO_SOMNATH_TRAIT_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MINOR_CIV_SCENARIO_SOMNATH_TRAIT_DESCRIPTION">
 			<Text>Your [ICON_TradeRoute] Trade Routes to any city-state provide +2 [ICON_FAITH] Faith for every specialty district in the origin city.</Text>
-		</Row>
-		<Row Tag="LOC_MINOR_CIV_SCENARIO_THANG_LONG_TRAIT_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MINOR_CIV_SCENARIO_THANG_LONG_TRAIT_DESCRIPTION">
 			<Text>Your districts on or next to Coast tiles provide +2 [ICON_FAITH] Faith.</Text>
-		</Row>
-		<Row Tag="LOC_MINOR_CIV_SCENARIO_TEMASEK_TRAIT_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MINOR_CIV_SCENARIO_TEMASEK_TRAIT_DESCRIPTION">
 			<Text>Your Bonus resources behave like Luxury resources, providing 1 [ICON_Amenities] Amenity per type.</Text>
-		</Row>
-		<Row Tag="LOC_MINOR_CIV_SCENARIO_TONDO_TRAIT_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MINOR_CIV_SCENARIO_TONDO_TRAIT_DESCRIPTION">
 			<Text>Your districts on or next to Coast tiles provide +2 [ICON_FAITH] Faith.</Text>
-		</Row>
-		<Row Tag="LOC_MINOR_CIV_SCENARIO_TURPAN_TRAIT_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MINOR_CIV_SCENARIO_TURPAN_TRAIT_DESCRIPTION">
 			<Text>Your [ICON_TradeRoute] Trade Routes to any city-state provide +2 [ICON_FAITH] Faith for every specialty district in the origin city.</Text>
-		</Row>
-		<Row Tag="LOC_MINOR_CIV_SCENARIO_UJJAIN_TRAIT_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MINOR_CIV_SCENARIO_UJJAIN_TRAIT_DESCRIPTION">
 			<Text>Your Bonus resources behave like Luxury resources, providing 1 [ICON_Amenities] Amenity per type.</Text>
-		</Row>
-		<Row Tag="LOC_MINOR_CIV_SCENARIO_VIJAYA_TRAIT_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MINOR_CIV_SCENARIO_VIJAYA_TRAIT_DESCRIPTION">
 			<Text>Your [ICON_TradeRoute] Trade Routes to any city-state provide +2 [ICON_FAITH] Faith for every specialty district in the origin city.</Text>
-		</Row>
-		<Row Tag="LOC_MINOR_CIV_SCENARIO_XINGQING_TRAIT_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MINOR_CIV_SCENARIO_XINGQING_TRAIT_DESCRIPTION">
 			<Text>Your Bonus resources behave like Luxury resources, providing 1 [ICON_Amenities] Amenity per type.</Text>
-		</Row>
-		<Row Tag="LOC_MINOR_CIV_SCENARIO_ZHONGJING_TRAIT_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MINOR_CIV_SCENARIO_ZHONGJING_TRAIT_DESCRIPTION">
 			<Text>Your [ICON_TradingPost] Trading Posts in foreign cities provide +1 [ICON_CULTURE] Culture to your [ICON_TradeRoute] Trade Routes passing through or going to the city.</Text>
-		</Row>
+		</Replace>
 		<!-- Civics-->
-		<Row Tag="LOC_CIVIC_SCENARIO_PAPERMAKING_NAME">
+		<Replace Language='en_US' Tag="LOC_CIVIC_SCENARIO_PAPERMAKING_NAME">
 			<Text>Papermaking</Text>
-		</Row>
-		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_LONGDESC_PRINTING">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_SCENARIO_LONGDESC_PRINTING">
 			<Text>Logs to paper. Paper to pages. Pages to books. Books to minds. Minds to souls.</Text>
-		</Row>
-		<Row Tag="LOC_CIVIC_SCENARIO_COMPASS_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVIC_SCENARIO_COMPASS_NAME">
 			<Text>Compass</Text>
-		</Row>
-		<Row Tag="LOC_CIVIC_SCENARIO_CELESTIAL_NAVIGATION_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVIC_SCENARIO_CELESTIAL_NAVIGATION_DESCRIPTION">
 			<Text>+2 [ICON_Movement] Movement for embarked units.</Text>
-		</Row>
-		<Row Tag="LOC_CIVIC_SCENARIO_FUTURE_CIVIC_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIVIC_SCENARIO_FUTURE_CIVIC_DESCRIPTION">
 			<Text>Can be completed multiple times, increasing your [ICON_Envoy] Envoys.</Text>
-		</Row>
-		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_LONGDESC_GUILDS">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_SCENARIO_LONGDESC_GUILDS">
 			<Text>As our cities flourish, like-minded people come together in prosperity.</Text>
-		</Row>
-		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_ENGINEERING">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_SCENARIO_ENGINEERING">
 			<Text>Build 3 Temples.</Text>
-		</Row>
-		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_LONGDESC_ENGINEERING">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_SCENARIO_LONGDESC_ENGINEERING">
 			<Text>A standardized cubit has value in the secular world, too.</Text>
-		</Row>
-		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_THEOLOGY">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_SCENARIO_THEOLOGY">
 			<Text>Own 3 Missionaries.</Text>
-		</Row>
-		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_LONGDESC_THEOLOGY">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_SCENARIO_LONGDESC_THEOLOGY">
 			<Text>As we send out Missionaries, we find need for orthodox belief.</Text>
-		</Row>
-		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_MACHINERY">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_SCENARIO_MACHINERY">
 			<Text>Build 2 Aqueducts.</Text>
-		</Row>
-		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_LONGDESC_MACHINERY">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_SCENARIO_LONGDESC_MACHINERY">
 			<Text>"Imagine a water wheel," say our Engineers, "but driving almost anything!"</Text>
-		</Row>
-		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_FEUDALISM">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_SCENARIO_FEUDALISM">
 			<Text>Grow a city to 14 population.</Text>
-		</Row>
-		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_LONGDESC_FEUDALISM">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_SCENARIO_LONGDESC_FEUDALISM">
 			<Text>Our cities contain multitudes. Let us codify the obligations from kings to commoners.</Text>
-		</Row>
-		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_PAPERMAKING">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_SCENARIO_PAPERMAKING">
 			<Text>Maintain 3 [ICON_TradeRoute] Trade Routes.</Text>
-		</Row>
-		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_LONGDESC_PAPERMAKING">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_SCENARIO_LONGDESC_PAPERMAKING">
 			<Text>Surely there is a better way to keep caravan records than scribing on potsherds?</Text>
-		</Row>
-		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_CIVIL_SERVICE">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_SCENARIO_CIVIL_SERVICE">
 			<Text>At one time be Suzerain of 3 city-states.</Text>
-		</Row>
-		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_LONGDESC_CIVIL_SERVICE">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_SCENARIO_LONGDESC_CIVIL_SERVICE">
 			<Text>What if you could delegate Delegations to a legion of secretaries? </Text>
-		</Row>
-		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_BANKING">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_SCENARIO_BANKING">
 			<Text>Build 3 Markets.</Text>
-		</Row>
-		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_LONGDESC_BANKING">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_SCENARIO_LONGDESC_BANKING">
 			<Text>The path to heaven may be finer than gold, but gold is almost as rewarding.</Text>
-		</Row>
-		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_COMPASS">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_SCENARIO_COMPASS">
 			<Text>Build 3 Lighthouses.</Text>
-		</Row>
-		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_LONGDESC_COMPASS">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_SCENARIO_LONGDESC_COMPASS">
 			<Text>A mariner dreams of sailing guided by an unseen lighthouse of heaven.</Text>
-		</Row>
-		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_DIVINE_RIGHT">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_SCENARIO_DIVINE_RIGHT">
 			<Text>Have 15 cities following your Religion.</Text>
-		</Row>
-		<Row Tag="LOC_BOOST_TRIGGER_SCENARIO_LONGDESC_DIVINE_RIGHT">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BOOST_TRIGGER_SCENARIO_LONGDESC_DIVINE_RIGHT">
 			<Text>What better evidence of the rightness of your faith than the eyes of so many upon you?</Text>
-		</Row>
+		</Replace>
 		<!-- Districts-->
-		<Row Tag="LOC_DISTRICT_SCENARIO_RIVER_CULTURE">
+		<Replace Language='en_US' Tag="LOC_DISTRICT_SCENARIO_RIVER_CULTURE">
 			<Text>+{1_num} [ICON_CULTURE] Culture from the adjacent River.</Text>
-		</Row>
-		<Row Tag="LOC_DISTRICT_SCENARIO_HARBOR_CULTURE">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DISTRICT_SCENARIO_HARBOR_CULTURE">
 			<Text>+{1_num} [ICON_CULTURE] Culture from the adjacent Harbor district.</Text>
-		</Row>
-		<Row Tag="LOC_DISTRICT_SCENARIO_CITY_CENTER_CULTURE">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DISTRICT_SCENARIO_CITY_CENTER_CULTURE">
 			<Text>+{1_num} [ICON_CULTURE] Culture from the adjacent City Center district.</Text>
-		</Row>
-		<Row Tag="LOC_DISTRICT_SCENARIO_DISTRICT_CULTURE">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DISTRICT_SCENARIO_DISTRICT_CULTURE">
 			<Text>+{1_num} [ICON_CULTURE] Culture from the adjacent {1_Num : plural 1?district; other?districts;}.</Text>
-		</Row>
-		<Row Tag="LOC_DISTRICT_SCENARIO_SEARESOURCE_CULTURE">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DISTRICT_SCENARIO_SEARESOURCE_CULTURE">
 			<Text>+{1_num} [ICON_CULTURE] Culture from the adjacent sea {1_Num : plural 1?resource; other?resources;}.</Text>
-		</Row>
+		</Replace>
 		<!-- Governments-->
-		<Row Tag="LOC_GOVT_INHERENT_BONUS_SCENARIO_MONARCHY_DESCRIPTION">
+		<Replace Language='en_US' Tag="LOC_GOVT_INHERENT_BONUS_SCENARIO_MONARCHY_DESCRIPTION">
 			<Text>Capital receives +3 [ICON_FAITH] Faith, +1 [ICON_CULTURE] Culture, +1 [ICON_PRODUCTION] Production, and +1 [ICON_FOOD] Food yields .</Text>
-		</Row>
-		<Row Tag="LOC_GOVERNMENT_SCENARIO_THALASSOCRACY_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVERNMENT_SCENARIO_THALASSOCRACY_NAME">
 			<Text>Thalassocracy</Text>
-		</Row>
-		<Row Tag="LOC_GOVT_INHERENT_BONUS_SCENARIO_THALASSOCRACY_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVT_INHERENT_BONUS_SCENARIO_THALASSOCRACY_DESCRIPTION">
 			<Text>+1 [ICON_FAITH] Faith for each Fishing Boat.</Text>
-		</Row>
-		<Row Tag="LOC_GOVT_INHERENT_BONUS_SCENARIO_THEOCRACY_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVT_INHERENT_BONUS_SCENARIO_THEOCRACY_DESCRIPTION">
 			<Text>All Religious units gain the Martyr ability which grants a [ICON_GreatWork_Relic] Relic if this unit dies in Theological Combat.</Text>
-		</Row>
+		</Replace>
 		<!-- Improvements-->
-		<Row Tag="LOC_IMPROVEMENT_SCENARIO_CAMP_DESCRIPTION">
+		<Replace Language='en_US' Tag="LOC_IMPROVEMENT_SCENARIO_CAMP_DESCRIPTION">
 			<Text>Unlocks the Builder ability to construct Camps.[NEWLINE][NEWLINE]+1 [ICON_FOOD] Food. Can only be built on valid resources.[NEWLINE][NEWLINE]If built on Luxury resources, the city will gain use of that resource.</Text>
-		</Row>
-		<Row Tag="LOC_IMPROVEMENT_SCENARIO_MINE_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_IMPROVEMENT_SCENARIO_MINE_DESCRIPTION">
 			<Text>Unlocks the Builder ability to construct Mines.[NEWLINE][NEWLINE]+1 [ICON_Production] Production. -1 Appeal. Can be built on hills or valid resources.[NEWLINE][NEWLINE]If built on Luxury resources, the city will gain use of that resource.</Text>
-		</Row>
-		<Row Tag="LOC_IMPROVEMENT_SCENARIO_PASTURE_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_IMPROVEMENT_SCENARIO_PASTURE_DESCRIPTION">
 			<Text>Unlocks the Builder ability to construct Pastures.[NEWLINE][NEWLINE]+1 [ICON_Production] Production. Can only be built on valid resources.[NEWLINE][NEWLINE]If built on Luxury resources, the city will gain use of that resource.</Text>
-		</Row>
-		<Row Tag="LOC_IMPROVEMENT_SCENARIO_PLANTATION_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_IMPROVEMENT_SCENARIO_PLANTATION_DESCRIPTION">
 			<Text>Unlocks the Builder ability to construct Plantations.[NEWLINE][NEWLINE]+1 [ICON_FOOD] Food.  Can only be built on valid resources.[NEWLINE][NEWLINE]If built on Luxury resources, the city will gain use of that resource.</Text>
-		</Row>
-		<Row Tag="LOC_IMPROVEMENT_SCENARIO_KAMPUNG_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_IMPROVEMENT_SCENARIO_KAMPUNG_DESCRIPTION">
 			<Text>Unlocks the Builder ability to construct a Kampung.[NEWLINE][NEWLINE]+1 [ICON_PRODUCTION] Production and +1 [ICON_Housing] Housing. +1 [ICON_FOOD] Food for each adjacent Fishing Boat. Must be placed on a Coast or Lake tile adjacent to a sea resource.</Text>
-		</Row>
+		</Replace>
 		<!-- Policies-->
-		<Row Tag="LOC_POLICY_SCENARIO_URBAN_PLANNING_DESCRIPTION">
+		<Replace Language='en_US' Tag="LOC_POLICY_SCENARIO_URBAN_PLANNING_DESCRIPTION">
 			<Text>+1 [ICON_FAITH] Faith in all cities.</Text>
-		</Row>
-		<Row Tag="LOC_POLICY_SCENARIO_CARAVANSARIES_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_SCENARIO_CARAVANSARIES_DESCRIPTION">
 			<Text>+1 [ICON_FAITH] Faith from international [ICON_TradeRoute] Trade Routes.</Text>
-		</Row>
-		<Row Tag="LOC_POLICY_SCENARIO_NOBLE_PATH_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_SCENARIO_NOBLE_PATH_NAME">
 			<Text>Noble Path</Text>
-		</Row>
-		<Row Tag="LOC_POLICY_SCENARIO_NOBLE_PATH_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_SCENARIO_NOBLE_PATH_DESCRIPTION">
 			<Text>+1 [ICON_FAITH] Faith from domestic [ICON_TradeRoute] Trade Routes.</Text>
-		</Row>
-		<Row Tag="LOC_POLICY_SCENARIO_CORVEE_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_SCENARIO_CORVEE_DESCRIPTION">
 			<Text>+15% [ICON_Production] Production toward wonders.</Text>
-		</Row>
-		<Row Tag="LOC_POLICY_SCENARIO_DEVOTION_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_SCENARIO_DEVOTION_NAME">
 			<Text>Devotion</Text>
-		</Row>
-		<Row Tag="LOC_POLICY_SCENARIO_DEVOTION_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_SCENARIO_DEVOTION_DESCRIPTION">
 			<Text>+25% [ICON_Production] Production toward religous units.</Text>
-		</Row>
-		<Row Tag="LOC_POLICY_SCENARIO_RAJ_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_SCENARIO_RAJ_DESCRIPTION">
 			<Text>+6 [ICON_Faith] Faith from each each city-state you are Suzerain of.</Text>
-		</Row>
-		<Row Tag="LOC_POLICY_SCENARIO_MERITOCRACY_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_SCENARIO_MERITOCRACY_DESCRIPTION">
 			<Text>Each city receives +1 [ICON_FAITH] Faith for each specialty district it constructs.</Text>
-		</Row>
-		<Row Tag="LOC_POLICY_SCENARIO_MERCHANT_CONFEDERATION_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_SCENARIO_MERCHANT_CONFEDERATION_DESCRIPTION">
 			<Text>+1 [ICON_FAITH] Faith from each of your [ICON_Envoy] Envoys at city-states.</Text>
-		</Row>
-		<Row Tag="LOC_POLICY_SCENARIO_CHARITY_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_SCENARIO_CHARITY_NAME">
 			<Text>Charity</Text>
-		</Row>
-		<Row Tag="LOC_POLICY_SCENARIO_QUECHANG_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_SCENARIO_QUECHANG_NAME">
 			<Text>Quechang</Text>
-		</Row>
-		<Row Tag="LOC_POLICY_SCENARIO_QUECHANG_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_SCENARIO_QUECHANG_DESCRIPTION">
 			<Text>+100% [ICON_PRODUCTION] Production yield from Commercial Hub district buildings.</Text>
-		</Row>
-		<Row Tag="LOC_POLICY_SCENARIO_TRADE_CONFEDERATION_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_SCENARIO_TRADE_CONFEDERATION_DESCRIPTION">
 			<Text>+3 [ICON_FAITH] Faith from all [ICON_TradeRoute] Trade Routes.</Text>
-		</Row>
-		<Row Tag="LOC_POLICY_SCENARIO_JUNK_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_SCENARIO_JUNK_NAME">
 			<Text>Junk</Text>
-		</Row>
-		<Row Tag="LOC_POLICY_SCENARIO_JUNK_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_SCENARIO_JUNK_DESCRIPTION">
 			<Text>Doubles [ICON_FOOD] Food and  [ICON_PRODUCTION] Production yields from Harbor district buildings.</Text>
-		</Row>
-		<Row Tag="LOC_POLICY_SCENARIO_FESTIVALS_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_SCENARIO_FESTIVALS_NAME">
 			<Text>Festivals</Text>
-		</Row>
+		</Replace>
 		<!-- Projects-->
-		<Row Tag="LOC_PROJECT_SCENARIO_ENHANCE_DISTRICT_HARBOR_DESCRIPTION">
+		<Replace Language='en_US' Tag="LOC_PROJECT_SCENARIO_ENHANCE_DISTRICT_HARBOR_DESCRIPTION">
 			<Text>District-based project which provides [ICON_CULTURE] Culture every turn.</Text>
-		</Row>
-		<Row Tag="LOC_PROJECT_SCENARIO_ENHANCE_DISTRICT_COMMERCIAL_HUB_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROJECT_SCENARIO_ENHANCE_DISTRICT_COMMERCIAL_HUB_DESCRIPTION">
 			<Text>District-based project which provides [ICON_CULTURE] Culture every turn.</Text>
-		</Row>
-		<Row Tag="LOC_PROJECT_SCENARIO_ENHANCE_DISTRICT_HOLY_SITE_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROJECT_SCENARIO_ENHANCE_DISTRICT_HOLY_SITE_DESCRIPTION">
 			<Text>District-based project which provides a large amount of [ICON_FAITH] Faith every turn</Text>
-		</Row>
+		</Replace>
 		<!-- Religion-->
-		<Row Tag="LOC_RELIGION_SCENARIO_CUSTOM1_NAME">
+		<Replace Language='en_US' Tag="LOC_RELIGION_SCENARIO_CUSTOM1_NAME">
 			<Text>Shaivism</Text>
-		</Row>
-		<Row Tag="LOC_RELIGION_SCENARIO_CUSTOM2_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_RELIGION_SCENARIO_CUSTOM2_NAME">
 			<Text>Hindu Dharma</Text>
-		</Row>
-		<Row Tag="LOC_RELIGION_SCENARIO_CUSTOM3_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_RELIGION_SCENARIO_CUSTOM3_NAME">
 			<Text>Theravada Buddhism</Text>
-		</Row>
-		<Row Tag="LOC_RELIGION_SCENARIO_CUSTOM4_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_RELIGION_SCENARIO_CUSTOM4_NAME">
 			<Text>Mahayana Buddhism</Text>
-		</Row>
-		<Row Tag="LOC_RELIGION_SCENARIO_CUSTOM5_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_RELIGION_SCENARIO_CUSTOM5_NAME">
 			<Text>Vajrayana Buddhism</Text>
-		</Row>
-		<Row Tag="LOC_BELIEF_SCENARIO_GOD_OF_THE_OPEN_SKY_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_SCENARIO_GOD_OF_THE_OPEN_SKY_DESCRIPTION">
 			<Text>+2 [ICON_FOOD] Food from Pastures.</Text>
-		</Row>
-		<Row Tag="LOC_BELIEF_SCENARIO_STONE_CIRCLES_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_SCENARIO_STONE_CIRCLES_DESCRIPTION">
 			<Text>+2 [ICON_Faith] Faith and +2 [ICON_Production] Production from Quarries.</Text>
-		</Row>
-		<Row Tag="LOC_BELIEF_SCENARIO_DANA_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_SCENARIO_DANA_NAME">
 			<Text>Dāna</Text>
-		</Row>
-		<Row Tag="LOC_BELIEF_SCENARIO_DANA_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_SCENARIO_DANA_DESCRIPTION">
 			<Text>Granaries each provide +3 [ICON_FAITH] Faith. +1 [ICON_Amenities] Amenitiy to to each City.</Text>
-		</Row>
-		<Row Tag="LOC_BELIEF_SCENARIO_NUSANTARA_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_SCENARIO_NUSANTARA_DESCRIPTION">
 			<Text>Coast and Lake tiles provide a minor adjacency bonus for Holy Site districts.</Text>
-		</Row>
-		<Row Tag="LOC_BELIEF_SCENARIO_LINGA_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_SCENARIO_LINGA_NAME">
 			<Text>Linga</Text>
-		</Row>
-		<Row Tag="LOC_BELIEF_SCENARIO_LINGA_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_SCENARIO_LINGA_DESCRIPTION">
 			<Text>May purchase Commercial Hub and Harbor district buildings with [ICON_Faith] Faith.</Text>
-		</Row>
-		<Row Tag="LOC_BELIEF_SCENARIO_VAJRAYANA_STUPA_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_SCENARIO_VAJRAYANA_STUPA_NAME">
 			<Text>Vajrayana Stupa</Text>
-		</Row>
-		<Row Tag="LOC_BELIEF_SCENARIO_VAJRAYANA_STUPA_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_SCENARIO_VAJRAYANA_STUPA_DESCRIPTION">
 			<Text>Allows construction of Stupas (+3 [ICON_Faith] Faith, +1 [ICON_Amenities] Amenity) Unlocked with Printing.</Text>
-		</Row>
-		<Row Tag="LOC_BELIEF_SCENARIO_MAHAYANA_STUPA_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_SCENARIO_MAHAYANA_STUPA_NAME">
 			<Text>Mahayana Stupa</Text>
-		</Row>
-		<Row Tag="LOC_BELIEF_SCENARIO_MAHAYANA_STUPA_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_SCENARIO_MAHAYANA_STUPA_DESCRIPTION">
 			<Text>Allows construction of Stupas (+3 [ICON_Faith] Faith, +1 [ICON_Amenities] Amenity). Unlocked with Printing.</Text>
-		</Row>
-		<Row Tag="LOC_BELIEF_SCENARIO_STEWARDSHIP_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_SCENARIO_STEWARDSHIP_DESCRIPTION">
 			<Text>Each Commercial Hub or Harbor district in a city following this Religion provides +1 [ICON_FAITH] Faith.</Text>
-		</Row>
-		<Row Tag="LOC_BELIEF_SCENARIO_KAMPUNG_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_SCENARIO_KAMPUNG_DESCRIPTION">
 			<Text>Your Builders can now make Kampung improvements. Unlocked with Guilds.</Text>
-		</Row>
-		<Row Tag="LOC_BELIEF_SCENARIO_MOSQUE_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_SCENARIO_MOSQUE_DESCRIPTION">
 			<Text>Allows construction of Mosques (+3 [ICON_Faith] Faith). Missionary and Monk units +1 Spread. Unlocked with Printing.</Text>
-		</Row>
-		<Row Tag="LOC_BELIEF_SCENARIO_PAGODA_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_SCENARIO_PAGODA_DESCRIPTION">
 			<Text>Allows construction of Pagodas (+3 [ICON_Faith] Faith). Priest units +1 Remove Heresy and Guru +1 Heal Charge. Unlocked with Printing.</Text>
-		</Row>
-		<Row Tag="LOC_BELIEF_SCENARIO_WAT_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_SCENARIO_WAT_DESCRIPTION">
 			<Text>Allows construction of Wats (+3 [ICON_Faith] Faith, +1 [ICON_Housing] Housing). Unlocked with Printing.</Text>
-		</Row>
-		<Row Tag="LOC_BELIEF_SCENARIO_HOLY_ORDER_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_SCENARIO_HOLY_ORDER_DESCRIPTION">
 			<Text>Missionaries and Monks are 30% cheaper to purchase.</Text>
-		</Row>
-		<Row Tag="LOC_BELIEF_SCENARIO_YOGA_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_SCENARIO_YOGA_NAME">
 			<Text>Yoga</Text>
-		</Row>
-		<Row Tag="LOC_BELIEF_SCENARIO_YOGA_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_SCENARIO_YOGA_DESCRIPTION">
 			<Text>May purchase civilian units with [ICON_Faith] Faith.</Text>
-		</Row>
+		</Replace>
 		<!-- Route-->
-		<Row Tag="LOC_ROUTE_SCENARIO_ANCIENT_ROAD_DESCRIPTION">
+		<Replace Language='en_US' Tag="LOC_ROUTE_SCENARIO_ANCIENT_ROAD_DESCRIPTION">
 			<Text>Placed at the beginning of the scenario. Improves [ICON_Movement] Movement speed of any unit moving from one road tile to another.</Text>
-		</Row>
-		<Row Tag="LOC_ROUTE_SCENARIO_MEDIEVAL_ROAD_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ROUTE_SCENARIO_MEDIEVAL_ROAD_DESCRIPTION">
 			<Text>Placed at the beginning of the scenario. Improves [ICON_Movement] Movement speed of any unit moving from one road tile to another.</Text>
-		</Row>
+		</Replace>
 		<!-- Scoring-->
-		<Row Tag="LOC_SCENARIO_CATEGORY_SCENARIO_FOLLOWERS_NAME">
+		<Replace Language='en_US' Tag="LOC_SCENARIO_CATEGORY_SCENARIO_FOLLOWERS_NAME">
 			<Text>Followers Following Religion</Text>
-		</Row>
-		<Row Tag="LOC_SCENARIO_CATEGORY_SCENARIO_FOREIGN_CITIES_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_CATEGORY_SCENARIO_FOREIGN_CITIES_NAME">
 			<Text>Foreign Cities Following Religion</Text>
-		</Row>
-		<Row Tag="LOC_SCENARIO_CATEGORY_SCENARIO_FAITH_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_CATEGORY_SCENARIO_FAITH_NAME">
 			<Text>Faith Per Turn</Text>
-		</Row>
-		<Row Tag="LOC_INDONESIAKHMER_SCENARIO_WORLD_RANKING_1">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_INDONESIAKHMER_SCENARIO_WORLD_RANKING_1">
 			<Text>Special Scenario Rules:</Text>
-		</Row>
-		<Row Tag="LOC_INDONESIAKHMER_SCENARIO_WORLD_RANKING_2">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_INDONESIAKHMER_SCENARIO_WORLD_RANKING_2">
 			<Text>No Technology Tree, Gold, Diplomacy, Tourism, or Science. Culture borders are fixed. Features cannot be removed.</Text>
-		</Row>
-		<Row Tag="LOC_INDONESIAKHMER_SCENARIO_WORLD_RANKING_3">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_INDONESIAKHMER_SCENARIO_WORLD_RANKING_3">
 			<Text>All Religious units start with 1 promotion and can be trained.</Text>
-		</Row>
-		<Row Tag="LOC_INDONESIAKHMER_SCENARIO_WORLD_RANKING_4">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_INDONESIAKHMER_SCENARIO_WORLD_RANKING_4">
 			<Text>Only one City-State Suzerain Bonus adds additional Yields or [ICON_Amenities] Amenities of each City-State type.</Text>
-		</Row>
-		<Row Tag="LOC_INDONESIAKHMER_SCENARIO_WORLD_RANKING_5">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_INDONESIAKHMER_SCENARIO_WORLD_RANKING_5">
 			<Text>Traders do not create roads.</Text>
-		</Row>
-		<Row Tag="LOC_INDONESIAKHMER_SCENARIO_WORLD_RANKING_6">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_INDONESIAKHMER_SCENARIO_WORLD_RANKING_6">
 			<Text>Points are received from:</Text>
-		</Row>
-		<Row Tag="LOC_INDONESIAKHMER_SCENARIO_WORLD_RANKING_7">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_INDONESIAKHMER_SCENARIO_WORLD_RANKING_7">
 			<Text>Followers of your Religion: {1_Followers} {1_Followers: plural 1?Point; other?Points;} for every follower of this Religion.</Text>
-		</Row>
-		<Row Tag="LOC_INDONESIAKHMER_SCENARIO_WORLD_RANKING_8">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_INDONESIAKHMER_SCENARIO_WORLD_RANKING_8">
 			<Text>Foreign Cities:{2_Cities} {2_Cities : plural 1?Point; other?Points;} for all foreign cities following this Religion.</Text>
-		</Row>
-		<Row Tag="LOC_INDONESIAKHMER_SCENARIO_WORLD_RANKING_9">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_INDONESIAKHMER_SCENARIO_WORLD_RANKING_9">
 			<Text>Faith: {1_Faith} {2_Faith : plural 1?Point; other?Points;} for every [ICON_FAITH] Faith per [ICON_TURN] Turn.</Text>
-		</Row>
-		<Row Tag="LOC_INDONESIAKHMER_SCENARIO_WORLD_RANKING_10">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_INDONESIAKHMER_SCENARIO_WORLD_RANKING_10">
 			<Text>When you send an [ICON_ENVOY] Envoy to a City-State it adds 300 Religious pressure to that City-State.</Text>
-		</Row>
+		</Replace>
 		<!-- Slots-->
-		<Row Tag="LOC_SLOT_SCENARIO_RELIGIOUS_NAME">
+		<Replace Language='en_US' Tag="LOC_SLOT_SCENARIO_RELIGIOUS_NAME">
 			<Text>Religious</Text>
-		</Row>
+		</Replace>
 		<!-- Units-->
-		<Row Tag="LOC_UNIT_SCENARIO_BUILDER_DESCRIPTION">
+		<Replace Language='en_US' Tag="LOC_UNIT_SCENARIO_BUILDER_DESCRIPTION">
 			<Text>May create tile improvements or Harvest some resources. Builders can be used 3 times. This can be increased through policies.</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_SCENARIO_TRADER_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNIT_SCENARIO_TRADER_DESCRIPTION">
 			<Text>May make and maintain a single [ICON_TradeRoute] Trade Route.</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_SCENARIO_PRIEST_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNIT_SCENARIO_PRIEST_NAME">
 			<Text>Priest</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_SCENARIO_MONK_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNIT_SCENARIO_MONK_NAME">
 			<Text>Monk</Text>
-		</Row>
-		<Row Tag="LOC_UI_RELIGION_PRIEST_TT">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UI_RELIGION_PRIEST_TT">
 			<Text>Priests may eliminate the presence of other Religions in their territory, and initiate theological combat with units of other Religions.</Text>
-		</Row>
-		<Row Tag="LOC_UI_RELIGION_MONK_TT">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UI_RELIGION_MONK_TT">
 			<Text>Monks may convert [ICON_Citizen] Citizens to their Religion and initiate theological combat with units of other Religions.</Text>
-		</Row>
+		</Replace>
 		<!-- Unit Promotion Classes-->
-		<Row Tag="LOC_PROMOTION_CLASS_SCENARIO_MISSIONARY_NAME">
+		<Replace Language='en_US' Tag="LOC_PROMOTION_CLASS_SCENARIO_MISSIONARY_NAME">
 			<Text>Religious Missionary</Text>
-		</Row>
-		<Row Tag="LOC_PROMOTION_CLASS_SCENARIO_PRIEST_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_CLASS_SCENARIO_PRIEST_NAME">
 			<Text>Religious Priest</Text>
-		</Row>
-		<Row Tag="LOC_PROMOTION_CLASS_SCENARIO_MONK_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_CLASS_SCENARIO_MONK_NAME">
 			<Text>Religious Monk</Text>
-		</Row>
-		<Row Tag="LOC_PROMOTION_CLASS_SCENARIO_GURU_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_CLASS_SCENARIO_GURU_NAME">
 			<Text>Religious Guru</Text>
-		</Row>
+		</Replace>
 		<!-- Unit Promotions-->
-		<Row Tag="LOC_PROMOTION_SCENARIO_WALK_ON_WATER_NAME">
+		<Replace Language='en_US' Tag="LOC_PROMOTION_SCENARIO_WALK_ON_WATER_NAME">
 			<Text>Walk on Water</Text>
-		</Row>
-		<Row Tag="LOC_PROMOTION_SCENARIO_WALK_ON_WATER_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_SCENARIO_WALK_ON_WATER_DESCRIPTION">
 			<Text>No penalty to [ICON_Movement] Movement when moving from sea or river.</Text>
-		</Row>
-		<Row Tag="LOC_PROMOTION_SCENARIO_TRAVELER_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_SCENARIO_TRAVELER_NAME">
 			<Text>Traveler</Text>
-		</Row>
-		<Row Tag="LOC_PROMOTION_SCENARIO_TRAVELER_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_SCENARIO_TRAVELER_DESCRIPTION">
 			<Text>Faster [ICON_Movement] Movement in Woods, Rainforest, Hills, or Marsh.</Text>
-		</Row>
-		<Row Tag="LOC_PROMOTION_SCENARIO_PROPAGATOR_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_SCENARIO_PROPAGATOR_NAME">
 			<Text>Propagator</Text>
-		</Row>
-		<Row Tag="LOC_PROMOTION_SCENARIO_PROPAGATOR_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_SCENARIO_PROPAGATOR_DESCRIPTION">
 			<Text>+2 [ICON_Movement] Movement.</Text>
-		</Row>
-		<Row Tag="LOC_PROMOTION_SCENARIO_PRACTITIONER_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_SCENARIO_PRACTITIONER_NAME">
 			<Text>Practitioner</Text>
-		</Row>
-		<Row Tag="LOC_PROMOTION_SCENARIO_PRACTITIONER_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_SCENARIO_PRACTITIONER_DESCRIPTION">
 			<Text>+10 [ICON_Religion] Religious Strength in Theological Combat when in foreign territory.</Text>
-		</Row>
-		<Row Tag="LOC_PROMOTION_SCENARIO_GARRISON_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_SCENARIO_GARRISON_DESCRIPTION">
 			<Text>+10 [ICON_Religion] Religious Strength in Theological Combat when occupying a district.</Text>
-		</Row>
-		<Row Tag="LOC_PROMOTION_SCENARIO_ORATOR_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_SCENARIO_ORATOR_DESCRIPTION">
 			<Text>Can Remove Heresy 2 extra times.</Text>
-		</Row>
-		<Row Tag="LOC_PROMOTION_SCENARIO_ALCHEMIST_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_SCENARIO_ALCHEMIST_NAME">
 			<Text>Alchemist</Text>
-		</Row>
-		<Row Tag="LOC_PROMOTION_SCENARIO_ALCHEMIST_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_SCENARIO_ALCHEMIST_DESCRIPTION">
 			<Text>+7 [ICON_Religion] Religious Strength in Theological Combat when defending  in Woods, Rainforest, Hills, or Marsh.</Text>
-		</Row>
-		<Row Tag="LOC_PROMOTION_SCENARIO_INTERPRETER_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_SCENARIO_INTERPRETER_NAME">
 			<Text>Interpreter</Text>
-		</Row>
-		<Row Tag="LOC_PROMOTION_SCENARIO_INTERPRETER_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_SCENARIO_INTERPRETER_DESCRIPTION">
 			<Text>Gain 75 [ICON_FAITH] Faith if this unit converts a city to your Religion for the first time.</Text>
-		</Row>
-		<Row Tag="LOC_PROMOTION_SCENARIO_SANGHA_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_SCENARIO_SANGHA_NAME">
 			<Text>Sangha</Text>
-		</Row>
-		<Row Tag="LOC_PROMOTION_SCENARIO_SANGHA_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_SCENARIO_SANGHA_DESCRIPTION">
 			<Text>2x flanking bonus.</Text>
-		</Row>
-		<Row Tag="LOC_PROMOTION_SCENARIO_GUIDE_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_SCENARIO_GUIDE_NAME">
 			<Text>Guide</Text>
-		</Row>
-		<Row Tag="LOC_PROMOTION_SCENARIO_GUIDE_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_SCENARIO_GUIDE_DESCRIPTION">
 			<Text>+1 [ICON_Movement] Movement to Religious units at the start of the turn within 2 tiles.</Text>
-		</Row>
-		<Row Tag="LOC_PROMOTION_SCENARIO_SAGE_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_SCENARIO_SAGE_NAME">
 			<Text>Sage</Text>
-		</Row>
-		<Row Tag="LOC_PROMOTION_SCENARIO_SAGE_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_SCENARIO_SAGE_DESCRIPTION">
 			<Text>+10  [ICON_Religion] Religious Strength in Theological Combat to Religious units within 2 tiles.</Text>
-		</Row>
-		<Row Tag="LOC_PROMOTION_SCENARIO_TEACHER_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_SCENARIO_TEACHER_NAME">
 			<Text>Teacher</Text>
-		</Row>
-		<Row Tag="LOC_PROMOTION_SCENARIO_TEACHER_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_SCENARIO_TEACHER_DESCRIPTION">
 			<Text>This unit operates as a Medic, providing extra healing to units within 1 tile.</Text>
-		</Row>
-		<Row Tag="LOC_PROMOTION_SCENARIO_MASTER_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_SCENARIO_MASTER_NAME">
 			<Text>Master</Text>
-		</Row>
-		<Row Tag="LOC_PROMOTION_SCENARIO_MASTER_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROMOTION_SCENARIO_MASTER_DESCRIPTION">
 			<Text>+1 Heal Charge.</Text>
-		</Row>
-		<Row Tag="LOC_SCENARIO_SAGE_COMBAT_STRENGTH_AOE_RELIGIOUS_MODIFIER">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_SAGE_COMBAT_STRENGTH_AOE_RELIGIOUS_MODIFIER">
 			<Text>+10  [ICON_Religion] Religious Strength in Theological Combat  from the Guru unit's Sage Promotion</Text>
-		</Row>
-		<Row Tag="LOC_SCENARIO_SAGE_COMBAT_STRENGTH_AOE_RELIGIOUS">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_SAGE_COMBAT_STRENGTH_AOE_RELIGIOUS">
 			<Text>+10  [ICON_Religion] Religious Strength in Theological Combat to Religious units within 2 tiles.</Text>
-		</Row>
-		<Row Tag="LOC_SCENARIO_GUIDE_MOVEMENT_AOE_RELIGIOUS">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SCENARIO_GUIDE_MOVEMENT_AOE_RELIGIOUS">
 			<Text>+1 [ICON_Movement] Movement to Religious units at the start of the turn within 2 tiles.</Text>
-		</Row>
-		<Row Tag="LOC_CITY_STATES_SCENARIO_TYPE_MARITIME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_STATES_SCENARIO_TYPE_MARITIME">
 			<Text>Maritime</Text>
-		</Row>
+		</Replace>
 		<!--Citizen Names-->
-		<Row Tag="LOC_CITIZEN_SCENARIO_TUFAN_MALE_1">
+		<Replace Language='en_US' Tag="LOC_CITIZEN_SCENARIO_TUFAN_MALE_1">
 			<Text>Norbu</Text>
-		</Row>
-		<Row Tag="LOC_CITIZEN_SCENARIO_TUFAN_MALE_2">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_SCENARIO_TUFAN_MALE_2">
 			<Text>Phuntsok</Text>
-		</Row>
-		<Row Tag="LOC_CITIZEN_SCENARIO_TUFAN_MALE_3">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_SCENARIO_TUFAN_MALE_3">
 			<Text>Rabten</Text>
-		</Row>
-		<Row Tag="LOC_CITIZEN_SCENARIO_TUFAN_MALE_4">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_SCENARIO_TUFAN_MALE_4">
 			<Text>Tashi</Text>
-		</Row>
-		<Row Tag="LOC_CITIZEN_SCENARIO_TUFAN_MALE_5">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_SCENARIO_TUFAN_MALE_5">
 			<Text>Wangchuk</Text>
-		</Row>
-		<Row Tag="LOC_CITIZEN_SCENARIO_TUFAN_FEMALE_1">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_SCENARIO_TUFAN_FEMALE_1">
 			<Text>Dawa</Text>
-		</Row>
-		<Row Tag="LOC_CITIZEN_SCENARIO_TUFAN_FEMALE_2">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_SCENARIO_TUFAN_FEMALE_2">
 			<Text>Jungney</Text>
-		</Row>
-		<Row Tag="LOC_CITIZEN_SCENARIO_TUFAN_FEMALE_3">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_SCENARIO_TUFAN_FEMALE_3">
 			<Text>Pema</Text>
-		</Row>
-		<Row Tag="LOC_CITIZEN_SCENARIO_TUFAN_FEMALE_4">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_SCENARIO_TUFAN_FEMALE_4">
 			<Text>Rinchen</Text>
-		</Row>
-		<Row Tag="LOC_CITIZEN_SCENARIO_TUFAN_FEMALE_5">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITIZEN_SCENARIO_TUFAN_FEMALE_5">
 			<Text>Tsering</Text>
-		</Row>
-		<Row Tag="LOC_GOVT_NO_MILITARY_SLOTS">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVT_NO_MILITARY_SLOTS">
 			<Text>No Religious Policy slots are provided by this government.</Text>
-		</Row>
-		<Row Tag="LOC_GOVT_FILTER_MILITARY">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVT_FILTER_MILITARY">
 			<Text>Religious</Text>
-		</Row>
-		<Row Tag="LOC_GOVT_POLICY_TYPE_MILITARY">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVT_POLICY_TYPE_MILITARY">
 			<Text>Religious Policies</Text>
-		</Row>
+		</Replace>
 		<!-- Victories -->
-		<Row Tag="LOC_INDONESIAKHMER_SCENARIO_ENDGAME_RANKING_LEADER_1_NAME">
+		<Replace Language='en_US' Tag="LOC_INDONESIAKHMER_SCENARIO_ENDGAME_RANKING_LEADER_1_NAME">
 			<Text>Arahant</Text>
-		</Row>
-		<Row Tag="LOC_INDONESIAKHMER_SCENARIO_ENDGAME_RANKING_LEADER_2_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_INDONESIAKHMER_SCENARIO_ENDGAME_RANKING_LEADER_2_NAME">
 			<Text>Anāgāmi</Text>
-		</Row>
-		<Row Tag="LOC_INDONESIAKHMER_SCENARIO_ENDGAME_RANKING_LEADER_3_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_INDONESIAKHMER_SCENARIO_ENDGAME_RANKING_LEADER_3_NAME">
 			<Text>Sakadagami</Text>
-		</Row>
-		<Row Tag="LOC_INDONESIAKHMER_SCENARIO_ENDGAME_RANKING_LEADER_4_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_INDONESIAKHMER_SCENARIO_ENDGAME_RANKING_LEADER_4_NAME">
 			<Text>Sotāpanna</Text>
-		</Row>
-		<Row Tag="LOC_INDONESIAKHMER_SCENARIO_ENDGAME_RANKING_LEADER_5_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_INDONESIAKHMER_SCENARIO_ENDGAME_RANKING_LEADER_5_NAME">
 			<Text>Puthujjana</Text>
-		</Row>
-		<Row Tag="LOC_INDONESIAKHMER_SCENARIO_ENDGAME_RANKING_LEADER_1_QUOTE">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_INDONESIAKHMER_SCENARIO_ENDGAME_RANKING_LEADER_1_QUOTE">
 			<Text>Enlightenment Achieved</Text>
-		</Row>
-		<Row Tag="LOC_INDONESIAKHMER_SCENARIO_ENDGAME_RANKING_LEADER_2_QUOTE">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_INDONESIAKHMER_SCENARIO_ENDGAME_RANKING_LEADER_2_QUOTE">
 			<Text>A Non-Returner to the Physical World</Text>
-		</Row>
-		<Row Tag="LOC_INDONESIAKHMER_SCENARIO_ENDGAME_RANKING_LEADER_3_QUOTE">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_INDONESIAKHMER_SCENARIO_ENDGAME_RANKING_LEADER_3_QUOTE">
 			<Text>A Once-Returner to the Physical World</Text>
-		</Row>
-		<Row Tag="LOC_INDONESIAKHMER_SCENARIO_ENDGAME_RANKING_LEADER_4_QUOTE">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_INDONESIAKHMER_SCENARIO_ENDGAME_RANKING_LEADER_4_QUOTE">
 			<Text>A Stream-Enterer towards the Path of Enlightenment</Text>
-		</Row>
-		<Row Tag="LOC_INDONESIAKHMER_SCENARIO_ENDGAME_RANKING_LEADER_5_QUOTE">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_INDONESIAKHMER_SCENARIO_ENDGAME_RANKING_LEADER_5_QUOTE">
 			<Text>An Ordinary Person</Text>
-		</Row>
-	</EnglishText>
+		</Replace>
+	</LocalizedText>
 </GameData>

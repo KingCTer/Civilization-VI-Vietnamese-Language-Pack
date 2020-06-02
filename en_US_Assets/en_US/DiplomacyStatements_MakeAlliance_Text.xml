@@ -1,95 +1,95 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
 <GameData>
-	<BaseGameText>
+	<LocalizedText>
 
 		<!-- AI accepts from human -->
-		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_ALLIANCE_FROM_HUMAN_ANY_ANY">
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_MAKE_ALLIANCE_FROM_HUMAN_ANY_ANY">
 			<Text>We are pleased to accept your offer of an alliance.</Text>
-		</Row>
+		</Replace>
 
 		<!-- AI Rejects from human -->
-		<Row Tag="LOC_DIPLO_REJECT_MAKE_ALLIANCE_FROM_HUMAN_ANY_ANY">
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_MAKE_ALLIANCE_FROM_HUMAN_ANY_ANY">
 			<Text>We are not interested at this time.</Text>
-		</Row>
+		</Replace>
 
 		<!-- AI Requests an alliance from human -->
-		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_ANY_ANY">
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_ANY_ANY">
 			<Text>Would you like to form an alliance?</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_MVEMBA_ANY">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_MVEMBA_ANY">
 			<Text>Would you like to form an alliance?</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ANY">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_CATHERINE_DE_MEDICI_ANY">
 			<Text>Would you like to form an alliance?</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_CLEOPATRA_ANY">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_CLEOPATRA_ANY">
 			<Text>I choose my allies carefully, and I have found you worthy.</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_BARBAROSSA_ANY">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_BARBAROSSA_ANY">
 			<Text>Would you like to form an alliance?</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_GANDHI_ANY">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_GANDHI_ANY">
 			<Text>Would you like to form an alliance?</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_GILGAMESH_ANY">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_GILGAMESH_ANY">
 			<Text>Would you like to form an alliance?</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_GORGO_ANY">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_GORGO_ANY">
 			<Text>Would you like to form an alliance?</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_HARDRADA_ANY">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_HARDRADA_ANY">
 			<Text>Would you like to form an alliance?</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_HOJO_ANY">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_HOJO_ANY">
 			<Text>You have been a friend to our empire. I would be honored if you would join me in an alliance.</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_PEDRO_ANY">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_PEDRO_ANY">
 			<Text>Would you like to form an alliance?</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_PERICLES_ANY">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_PERICLES_ANY">
 			<Text>Would you like to form an alliance?</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_PETER_GREAT_ANY">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_PETER_GREAT_ANY">
 			<Text>Would you like to form an alliance?</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_PHILIP_II_ANY">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_PHILIP_II_ANY">
 			<Text>Would you like to form an alliance?</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_QIN_ANY">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_QIN_ANY">
 			<Text>Would you like to form an alliance?</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_SALADIN_ANY">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_SALADIN_ANY">
 			<Text>Would you like to form an alliance?</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_T_ROOSEVELT_ANY">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_T_ROOSEVELT_ANY">
 			<Text>You have earned my respect. Shall we form an alliance?</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_TOMYRIS_ANY">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_TOMYRIS_ANY">
 			<Text>Would you like to form an alliance?</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_TRAJAN_ANY">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_TRAJAN_ANY">
 			<Text>Would you like to form an alliance?</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_VICTORIA_ANY">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_VICTORIA_ANY">
 			<Text>Would you like to form an alliance?</Text>
-		</Row>
+		</Replace>
 		
 		<!-- Human accepts AI requests, AI responds -->
-		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_ALLIANCE_FROM_AI_LEADER_ANY_ANY">
+		<Replace Language='en_US' Tag="LOC_DIPLO_ACCEPT_MAKE_ALLIANCE_FROM_AI_LEADER_ANY_ANY">
 			<Text>Wonderful.</Text>
-		</Row>
+		</Replace>
 
 		<!-- Human rejects AI requests, AI responds -->
-		<Row Tag="LOC_DIPLO_REJECT_MAKE_ALLIANCE_FROM_AI_LEADER_ANY_ANY">
+		<Replace Language='en_US' Tag="LOC_DIPLO_REJECT_MAKE_ALLIANCE_FROM_AI_LEADER_ANY_ANY">
 			<Text>That is unfortunate.</Text>
-		</Row>
+		</Replace>
 
-		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_CHOICE_NEGATIVE">
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_ALLIANCE_CHOICE_NEGATIVE">
 			<Text>Sorry, but we just can't commit to an alliance at this time.</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_CHOICE_POSITIVE">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MAKE_ALLIANCE_CHOICE_POSITIVE">
 			<Text>We'd be happy to let the world know we have an alliance.</Text>
-		</Row>
-	</BaseGameText>
+		</Replace>
+	</LocalizedText>
 </GameData>

@@ -1,141 +1,141 @@
 <!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Anton Strenger (Firaxis Games) -->
 <GameData>
-	<EnglishText>
+	<LocalizedText>
 		<!--New for XP2-->
-		<Row Tag="LOC_BUILDING_FLOOD_BARRIER_NAME">
+		<Replace Language='en_US' Tag="LOC_BUILDING_FLOOD_BARRIER_NAME">
 			<Text>Flood Barrier</Text>
-		</Row>
-		<Row Tag="LOC_BUILDING_FLOOD_BARRIER_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_FLOOD_BARRIER_DESCRIPTION">
 			<Text>Protects Coastal Lowland tiles in this city from flooding. Initial build cost and per turn maintenance are variable based on the number of Coastal Lowlands in this city and the current sea level. If constructed after some of a city's tiles have been flooded, those tiles can be repaired in full. Submerged tiles however are never recoverable.[NEWLINE][NEWLINE]Must be built in a city with one or more Coastal Lowland tiles. Will not be pillaged if the city is captured.</Text>
-		</Row>
-		<Row Tag="LOC_BUILDING_FLOOD_BARRIER_ALT_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_FLOOD_BARRIER_ALT_DESCRIPTION">
 			<Text>Protects Coastal Lowland tiles in this city from flooding. Initial build cost and per turn maintenance are variable based on the number of Coastal Lowlands in this city and the current sea level. If constructed after some of a city's tiles have been flooded, those tiles can be repaired in full. Submerged tiles however are never recoverable.[NEWLINE][NEWLINE]Must be built in a city with one or more Coastal Lowland tiles. Will not be pillaged if the city is captured. Military Engineers can spend a charge to complete 20% of a Flood Barrier's production.</Text>
-		</Row>
-		<Row Tag="LOC_BUILDING_HYDROELECTRIC_DAM_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_HYDROELECTRIC_DAM_NAME">
 			<Text>Hydroelectric Dam</Text>
-		</Row>
-		<Row Tag="LOC_BUILDING_HYDROELECTRIC_DAM_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_HYDROELECTRIC_DAM_DESCRIPTION">
 			<Text>Provides the city +6 [ICON_Power] Power from renewable water sources.</Text>
-		</Row>
-		<Row Tag="LOC_BUILDING_COAL_POWER_PLANT_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_COAL_POWER_PLANT_NAME">
 			<Text>Coal Power Plant</Text>
-		</Row>
-		<Row Tag="LOC_BUILDING_COAL_POWER_PLANT_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_COAL_POWER_PLANT_DESCRIPTION">
 			<Text>Automatically converts any amount of [ICON_RESOURCE_COAL] Coal into [ICON_Power] Power for cities within 6 tiles that need it each turn, at the rate of:[NEWLINE][ICON_Bullet]1 [ICON_RESOURCE_COAL] Coal [ICON_PowerRight] 4 [ICON_Power] Power[NEWLINE][ICON_Bullet]Heavy CO2 into the atmosphere</Text>
-		</Row>
-		<Row Tag="LOC_BUILDING_FOSSIL_FUEL_POWER_PLANT_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_FOSSIL_FUEL_POWER_PLANT_NAME">
 			<Text>Oil Power Plant</Text>
-		</Row>
-		<Row Tag="LOC_BUILDING_FOSSIL_FUEL_POWER_PLANT_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_FOSSIL_FUEL_POWER_PLANT_DESCRIPTION">
 			<Text>Automatically converts any amount of [ICON_RESOURCE_OIL] Oil into [ICON_Power] Power for cities within 6 tiles that need it each turn, at the rate of:[NEWLINE][ICON_Bullet]1 [ICON_RESOURCE_OIL] Oil [ICON_PowerRight] 4 [ICON_Power] Power[NEWLINE][ICON_Bullet]Moderate CO2 into the atmosphere[NEWLINE]Its [ICON_Production] Production bonus is extended to all City Centers within 6 tiles that do not already have a bonus from a Power Plant building.</Text>
-		</Row>
+		</Replace>
 		<!--Wonders-->
-		<Row Tag="LOC_BUILDING_GREAT_BATH_NAME">
+		<Replace Language='en_US' Tag="LOC_BUILDING_GREAT_BATH_NAME">
 			<Text>Great Bath</Text>
 			<Gender>Masculine:the</Gender>
-		</Row>
-		<Row Tag="LOC_BUILDING_GREAT_BATH_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_GREAT_BATH_DESCRIPTION">
 			<Text>The Floodplains tiles along the river containing the Great Bath are now immune to Flood damage (though [ICON_FOOD] Food and [ICON_PRODUCTION] Production bonuses from flooding drop by 50%). Floodplains tiles belonging to this city gain +1 [ICON_FAITH] Faith for each time Flood damage is mitigated.[NEWLINE][NEWLINE]Must be built on a Floodplains tile.</Text>
-		</Row>
-		<Row Tag="LOC_BUILDING_MEENAKSHI_TEMPLE_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_MEENAKSHI_TEMPLE_NAME">
 			<Text>Meenakshi Temple</Text>
 			<Gender>Masculine:the</Gender>
-		</Row>
-		<Row Tag="LOC_BUILDING_MEENAKSHI_TEMPLE_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_MEENAKSHI_TEMPLE_DESCRIPTION">
 			<Text>Grants 2 Gurus. Gurus are 30% cheaper to purchase. Religious units adjacent to Gurus receive +5 [ICON_Religion] Religious Strength in Theological Combat and +1 [ICON_Movement] Movement. Must be built adjacent to a Holy Site and you must have founded a Religion.</Text>
-		</Row>
-		<Row Tag="LOC_BUILDING_UNIVERSITY_SANKORE_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_UNIVERSITY_SANKORE_NAME">
 			<Text>University of Sankore</Text>
 			<Gender>Masculine:the</Gender>
-		</Row>
-		<Row Tag="LOC_BUILDING_UNIVERSITY_SANKORE_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_UNIVERSITY_SANKORE_DESCRIPTION">
 			<Text>Other Civilizations' [ICON_TradeRoute] Trade Routes to this city provide +1 [ICON_SCIENCE] Science and +1 [ICON_GOLD] Gold for them. +2 [ICON_SCIENCE] Science for every [ICON_TradeRoute] Trade Route to this city. Domestic [ICON_TradeRoute] Trade Routes give an additional +1 [ICON_FAITH] Faith to this city.[NEWLINE][NEWLINE]Must be built on the Desert or Desert Hills, and adjacent to a Campus district with a University.</Text>
-		</Row>
-		<Row Tag="LOC_BUILDING_MACHU_PICCHU_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_MACHU_PICCHU_NAME">
 			<Text>Machu Picchu</Text>
 			<Gender>Masculine:no_article</Gender>
-		</Row>
-		<Row Tag="LOC_BUILDING_MACHU_PICCHU_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_MACHU_PICCHU_DESCRIPTION">
 			<Text>Mountain tiles provide a standard adjacency bonus to Commercial Hub, Theater Square, and Industrial Zone districts in all cities.[NEWLINE][NEWLINE]Must be built on a Mountain tile that does not contain a Volcano.</Text>
-		</Row>
-		<Row Tag="LOC_BUILDING_ORSZAGHAZ_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_ORSZAGHAZ_NAME">
 			<Text>Országház</Text>
 			<Gender>Masculine:no_article</Gender>
-		</Row>
-		<Row Tag="LOC_BUILDING_ORSZAGHAZ_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_ORSZAGHAZ_DESCRIPTION">
 			<Text>+100% [ICON_Favor] Diplomatic Favor per turn from starting a turn as Suzerain of a City-State.[NEWLINE][NEWLINE]Must be built on a River.</Text>
-		</Row>
-		<Row Tag="LOC_BUILDING_PANAMA_CANAL_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_PANAMA_CANAL_NAME">
 			<Text>Panama Canal</Text>
 			<Gender>Masculine:the</Gender>
-		</Row>
-		<Row Tag="LOC_BUILDING_PANAMA_CANAL_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_PANAMA_CANAL_DESCRIPTION">
 			<Text>Upon completion 1 or 2 adjacent Canal districts are automatically constructed. The Canal wonder tile can now be crossed by naval units. [ICON_TradeRoute] Trade Routes traveling through it can multiply the [ICON_Gold] Gold they get from districts at their destination.[NEWLINE][NEWLINE]Must be built on a flat land tile where there are two adjacent tiles directly across the build tile from one another that meet the following criteria: one adjacent tile must be able to legally hold a Canal district connecting into the Panama Canal construction tile; the other must be either a city, a water tile, or be another tile that can hold a connecting Canal.</Text>
-		</Row>
-		<Row Tag="LOC_BUILDING_GOLDEN_GATE_BRIDGE_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_GOLDEN_GATE_BRIDGE_NAME">
 			<Text>Golden Gate Bridge</Text>
 			<Gender>Masculine:the</Gender>
-		</Row>
-		<Row Tag="LOC_BUILDING_GOLDEN_GATE_BRIDGE_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_GOLDEN_GATE_BRIDGE_DESCRIPTION">
 			<Text>Land units can cross without needing to embark. Acts as Modern Road and creates Modern Roads (if not present) in land tiles on either end. City gains +3 [ICON_Amenities] Amenities. All tiles in this city +4 Appeal. +100% [ICON_Tourism] Tourism from improvements and National Parks in this city. [ICON_TradeRoute] Trade Routes traveling through it can multiply the [ICON_Gold] Gold they get from districts at their destination.[NEWLINE][NEWLINE]Must be built on a Coast tile. The bridge must run straight across the hex between two land tiles directly opposite one another. At least one water tile must be present on both the left and right sides of the bridge.</Text>
-		</Row>
-		<Row Tag="LOC_BUILDING_JEBEL_BARKAL_EXPANSION2_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_JEBEL_BARKAL_EXPANSION2_DESCRIPTION">
 			<Text>Awards 6 [ICON_RESOURCE_IRON] Iron per turn. Provides +4 [ICON_Faith] Faith to all your cities that are within 6 tiles.[NEWLINE][NEWLINE]Must be built on Desert (Hills) terrain.</Text>
-		</Row>
+		</Replace>
 		<!-- Other balance changes -->
-		<Row Tag="LOC_BUILDING_BIG_BEN_DESCRIPTION">
+		<Replace Language='en_US' Tag="LOC_BUILDING_BIG_BEN_DESCRIPTION">
 			<Text>+1 Economic policy slot.  +50% [ICON_Gold] Gold. [NEWLINE][NEWLINE]Must be built next to a River adjacent to a Commercial Hub district with a Bank.</Text>
-		</Row>
-		<Row Tag="LOC_BUILDING_MAHABODHI_TEMPLE_EXPANSION2_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_MAHABODHI_TEMPLE_EXPANSION2_DESCRIPTION">
 			<Text>+2 Diplomatic Victory Points and grants 2 Apostles when built.[NEWLINE][NEWLINE]Must be built on Woods adjacent to a Holy Site district with a Temple, and you must have founded a Religion.</Text>
-		</Row>
-		<Row Tag="LOC_BUILDING_STATUE_LIBERTY_EXPANSION2_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_STATUE_LIBERTY_EXPANSION2_DESCRIPTION">
 			<Text>+4 Diplomatic Victory Points when built. All your cities within 6 tiles are always 100% Loyal. [NEWLINE][NEWLINE]Must be built on the Coast, adjacent to land and a Harbor district.</Text>
-		</Row>
-		<Row Tag="LOC_BUILDING_POTALA_PALACE_EXPANSION2_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_POTALA_PALACE_EXPANSION2_DESCRIPTION">
 			<Text>+1 Diplomatic policy slot.  +1 Diplomatic Victory point.[NEWLINE][NEWLINE]Must be built on a Hill adjacent to a Mountain.</Text>
-		</Row>
-		<Row Tag="LOC_BUILDING_AIRPORT_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_AIRPORT_DESCRIPTION">
 			<Text>+50% combat experience for air units trained in this city. +1 air unit slot in Aerodrome district. Allows the ability to airlift land units between Aerodrome districts with Airports after the Rapid Deployment civic is unlocked.</Text>
-		</Row>
-		<Row Tag="LOC_BUILDING_HANGAR_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_HANGAR_DESCRIPTION">
 			<Text>+25% combat experience for air units trained in this city. +1 air unit slot in Aerodrome district.</Text>
-		</Row>
-		<Row Tag="LOC_BUILDING_POWER_PLANT_EXPANSION2_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_POWER_PLANT_EXPANSION2_NAME">
 			<Text>Nuclear Power Plant</Text>
-		</Row>
-		<Row Tag="LOC_BUILDING_POWER_PLANT_EXPANSION2_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_POWER_PLANT_EXPANSION2_DESCRIPTION">
 			<Text>Automatically converts any amount of [ICON_RESOURCE_URANIUM] Uranium into [ICON_Power] Power for cities within 6 tiles that need it each turn, at the rate of:[NEWLINE][ICON_Bullet]1 [ICON_RESOURCE_URANIUM] Uranium [ICON_PowerRight] 16 [ICON_Power] Power[NEWLINE][ICON_Bullet]Miniscule CO2 into the atmosphere[NEWLINE]Once built, as a Nuclear Power Plant ages, there is an increased chance for a Nuclear Accident to occur. Its [ICON_Production] Production and [ICON_Science] Science bonus is extended to all City Centers within 6 tiles that do not already have a bonus from a Power Plant building.</Text>
-		</Row>
-		<Row Tag="LOC_BUILDING_BIG_BEN_EXPANSION2_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_BIG_BEN_EXPANSION2_DESCRIPTION">
 			<Text>+1 Economic policy slot[NEWLINE][NEWLINE]Immediately after construction [ICON_GOLD] Gold in treasury is increased by 50%. Must be built next to a River adjacent to a Commercial Hub district with a Bank.</Text>
-		</Row>
-		<Row Tag="LOC_BUILDING_BARRACKS_EXPANSION2_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_BARRACKS_EXPANSION2_DESCRIPTION">
 			<Text>+25% combat experience for all melee and ranged land units trained in this city.[NEWLINE]Strategic Resource Stockpiles increased +10 (on Standard Speed).[NEWLINE][NEWLINE]May not be built in an Encampment district that already has a Stable.</Text>
-		</Row>
-		<Row Tag="LOC_BUILDING_STABLE_EXPANSION2_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_STABLE_EXPANSION2_DESCRIPTION">
 			<Text>+25% combat experience for all cavalry class units trained in this city.[NEWLINE]Strategic Resource Stockpiles increased +10 (on Standard Speed).[NEWLINE][NEWLINE]May not be built in an Encampment district that already has a Barracks.</Text>
-		</Row>
-		<Row Tag="LOC_BUILDING_ARMORY_EXPANSION2_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_ARMORY_EXPANSION2_DESCRIPTION">
 			<Text>+25% combat experience for all land units trained in this city.[NEWLINE]Strategic Resource Stockpiles increased +10 (on Standard Speed).</Text>
-		</Row>
-		<Row Tag="LOC_BUILDING_MILITARY_ACADEMY_EXPANSION2_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_MILITARY_ACADEMY_EXPANSION2_DESCRIPTION">
 			<Text>+25% combat experience for all land units trained in this city.[NEWLINE]Strategic Resource Stockpiles increased +10 (on Standard Speed).[NEWLINE]Allows Corps and Armies to be trained directly. Corps and Army training costs reduced 25%.</Text>
-		</Row>
-		<Row Tag="LOC_BUILDING_FACTORY_EXPANSION2_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_FACTORY_EXPANSION2_DESCRIPTION">
 			<Text>Its [ICON_Production] Production bonus is extended to all City Centers within 6 tiles that do not already have a bonus from this building type.</Text>
-		</Row>
-		<Row Tag="LOC_BUILDING_CASTLE_EXPANSION2_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_CASTLE_EXPANSION2_DESCRIPTION">
 			<Text>Increases the strength of your outer defenses. Provides 2 [ICON_TOURISM] Tourism after advancing to the Conservation Civic. This city is not affected by Battering Rams.</Text>
-		</Row>
-		<Row Tag="LOC_BUILDING_STAR_FORT_EXPANSION2_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_STAR_FORT_EXPANSION2_DESCRIPTION">
 			<Text>Raises the strength of your outer defenses to the highest possible level. Provides 3 [ICON_TOURISM] Tourism after advancing to the Conservation Civic. This city is not affected by Siege Towers or Battering Rams.</Text>
-		</Row>
-		<Row Tag="LOC_BUILDING_LIGHTHOUSE_EXPANSION2_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_LIGHTHOUSE_EXPANSION2_DESCRIPTION">
 			<Text>+25% combat experience for all naval units trained in this city. +1 [ICON_FOOD] Food on all Coast tiles for this city. +2 [ICON_HOUSING] Housing if this city is adjacent to coast. +1 [ICON_TradeRoute] Trade Route capacity, if this city does not yet have a Market building.</Text>
-		</Row>
-		<Row Tag="LOC_BUILDING_SHIPYARD_EXPANSION2_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_SHIPYARD_EXPANSION2_DESCRIPTION">
 			<Text>+25% combat experience for all naval units trained in this city. Bonus [ICON_Production] Production equal to the adjacency bonus of the Harbor district. +1 [ICON_PRODUCTION] Production on all unimproved Coast and Lake tiles for this city. </Text>
-		</Row>
-	</EnglishText>
+		</Replace>
+	</LocalizedText>
 </GameData>

@@ -1,62 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameData>
-	<EnglishText>
+	<LocalizedText>
 		<!--Agenda Names-->
-		<Row Tag="LOC_AGENDA_BILLIONAIRE_NAME">
+		<Replace Language='en_US' Tag="LOC_AGENDA_BILLIONAIRE_NAME">
 			<Text>Billionaire</Text>
-		</Row>
-		<Row Tag="LOC_AGENDA_CHEOMSEONGDAE_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_AGENDA_CHEOMSEONGDAE_NAME">
 			<Text>Cheomseongdae</Text>
-		</Row>
-		<Row Tag="LOC_AGENDA_FLOWER_OF_SCOTLAND_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_AGENDA_FLOWER_OF_SCOTLAND_NAME">
 			<Text>Flower of Scotland</Text>
-		</Row>
-		<Row Tag="LOC_AGENDA_HORSE_LORD_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_AGENDA_HORSE_LORD_NAME">
 			<Text>Horse Lord</Text>
-		</Row>
-		<Row Tag="LOC_AGENDA_HORN_CHEST_LOINS_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_AGENDA_HORN_CHEST_LOINS_NAME">
 			<Text>Horn, Chest, Loins</Text>
-		</Row>
-		<Row Tag="LOC_AGENDA_IRON_CONFEDERACY_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_AGENDA_IRON_CONFEDERACY_NAME">
 			<Text>Iron Confederacy</Text>
-		</Row>
-		<Row Tag="LOC_AGENDA_MAURYA_EMPIRE_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_AGENDA_MAURYA_EMPIRE_NAME">
 			<Text>Maurya Empire</Text>
-		</Row>
-		<Row Tag="LOC_AGENDA_NARIKALA_FORTRESS_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_AGENDA_NARIKALA_FORTRESS_NAME">
 			<Text>Narikala Fortress</Text>
-		</Row>
-		<Row Tag="LOC_AGENDA_SPIRIT_OF_TUCAPEL_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_AGENDA_SPIRIT_OF_TUCAPEL_NAME">
 			<Text>Spirit of Tucapel</Text>
-		</Row>
+		</Replace>
 
 		<!--Agenda Description-->
-		<Row Tag="LOC_AGENDA_BILLIONAIRE_DESCRIPTION">
+		<Replace Language='en_US' Tag="LOC_AGENDA_BILLIONAIRE_DESCRIPTION">
 			<Text>Tries to maximize [ICON_TradeRoute] Trade Routes. Likes civilizations that trade with her, dislikes those who do not.</Text>
-		</Row>
-		<Row Tag="LOC_AGENDA_CHEOMSEONGDAE_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_AGENDA_CHEOMSEONGDAE_DESCRIPTION">
 			<Text>Tries to build up [ICON_Science] Science, and likes civilizations that also focus on [ICON_Science] Science. Dislikes those with low [ICON_SCIENCE] Science.</Text>
-		</Row>
-		<Row Tag="LOC_AGENDA_FLOWER_OF_SCOTLAND_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_AGENDA_FLOWER_OF_SCOTLAND_DESCRIPTION">
 			<Text>Will not attack neighbors unless they break a promise to him. Likes those who do not war with neighbors, dislikes those who do.</Text>
-		</Row>
-		<Row Tag="LOC_AGENDA_HORSE_LORD_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_AGENDA_HORSE_LORD_DESCRIPTION">
 			<Text>Wants to build the world's most dominant cavalry force. Likes those who do not compete in cavalry. Dislikes those who rival him in cavalry strength.</Text>
-		</Row>
-		<Row Tag="LOC_AGENDA_HORN_CHEST_LOINS_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_AGENDA_HORN_CHEST_LOINS_DESCRIPTION">
 			<Text>Tries to use as many corps and armies as possible and respects civilizations who follow his lead. Does not like civilizations who can't create corps or don't use them.</Text>
-		</Row>
-		<Row Tag="LOC_AGENDA_IRON_CONFEDERACY_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_AGENDA_IRON_CONFEDERACY_DESCRIPTION">
 			<Text>Tries to form multiple alliances and respects those who do likewise. Dislikes those with few alliances.</Text>
-		</Row>
-		<Row Tag="LOC_AGENDA_MAURYA_EMPIRE_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_AGENDA_MAURYA_EMPIRE_DESCRIPTION">
 			<Text>Tries to conquer neighboring civilizations, and likes civilizations that are not his neighbors (yet). Does not like his neighbors.</Text>
-		</Row>
-		<Row Tag="LOC_AGENDA_NARIKALA_FORTRESS_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_AGENDA_NARIKALA_FORTRESS_DESCRIPTION">
 			<Text>Tries to put high-level walls around her cities and respects civilizations who follow her lead. Does not like civilizations who fail to fortify their cities.</Text>
-		</Row>
-		<Row Tag="LOC_AGENDA_SPIRIT_OF_TUCAPEL_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_AGENDA_SPIRIT_OF_TUCAPEL_DESCRIPTION">
 			<Text>Tries to create and maintain a high degree of cultural loyalty. Dislikes civilizations that lose cities by failing to maintain the loyalty of their people, likes those that gain cities through loyalty.</Text>
-		</Row>
-	</EnglishText>
+		</Replace>
+	</LocalizedText>
 </GameData>

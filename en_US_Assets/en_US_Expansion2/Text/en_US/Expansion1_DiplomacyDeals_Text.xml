@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
 <GameData>
-	<EnglishText>
-		<Row Tag="LOC_DIPLOACTION_THIRD_PARTY_WAR_NAME">
+	<LocalizedText>
+		<Replace Language='en_US' Tag="LOC_DIPLOACTION_THIRD_PARTY_WAR_NAME">
 			<Text>Join Ongoing War</Text>
-		</Row>
-		<Row Tag="LOC_DIPLOACTION_THIRD_PARTY_WAR_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOACTION_THIRD_PARTY_WAR_DESCRIPTION">
 			<Text>Join another player's war against a target civilization.</Text>
-		</Row>
-		<Row Tag="LOC_DIPLOACTION_DECLARE_GOLDEN_AGE_WAR_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOACTION_DECLARE_GOLDEN_AGE_WAR_NAME">
 			<Text>Declare Golden Age War</Text>
-		</Row>
-		<Row Tag="LOC_DIPLOACTION_DECLARE_WAR_OF_RETRIBUTION_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOACTION_DECLARE_WAR_OF_RETRIBUTION_NAME">
 			<Text>Declare War of Retribution</Text>
-		</Row>
-		<Row Tag="LOC_DIPLOACTION_DECLARE_IDEOLOGICAL_WAR_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOACTION_DECLARE_IDEOLOGICAL_WAR_NAME">
 			<Text>Declare Ideological War</Text>
-		</Row>
-		<Row Tag="LOC_DIPLOACTION_ALLIANCE_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOACTION_ALLIANCE_DESCRIPTION">
 			<Text>Establish an Alliance with a Declared Friend. Allies may not go to war, automatically have Open Borders, automatically form a Defensive Pact, and each receives a Casus Belli on an aggressor civilization if one of their allies loses a city.</Text>
-		</Row>
-	</EnglishText>
+		</Replace>
+	</LocalizedText>
 </GameData>

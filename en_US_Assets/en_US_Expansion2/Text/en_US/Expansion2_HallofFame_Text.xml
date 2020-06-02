@@ -1,44 +1,44 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameData>
-	<EnglishText>
+	<LocalizedText>
 		<!-- Stats -->
-		<Row Tag="LOC_HOF_STAT_DIPLOMATIC_FAVOR">
+		<Replace Language='en_US' Tag="LOC_HOF_STAT_DIPLOMATIC_FAVOR">
 			<Text>Diplomatic Favor</Text>
-		</Row>
-		<Row Tag="LOC_HOF_STAT_SCIENCE_VP">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_HOF_STAT_SCIENCE_VP">
 			<Text>Light Years Traveled</Text>
-		</Row>
-		<Row Tag="LOC_HOF_STAT_DIPLOMATIC_VP">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_HOF_STAT_DIPLOMATIC_VP">
 			<Text>Diplomatic Victory Points Earned</Text>
-		</Row>
-		<Row Tag="LOC_HOF_STAT_CO2">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_HOF_STAT_CO2">
 			<Text>CO2 Emitted</Text>
-		</Row>
+		</Replace>
 		<!-- Reports -->
-		<Row Tag="LOC_HOF_REPORTS_DIPLOMATIC_FAVOR">
+		<Replace Language='en_US' Tag="LOC_HOF_REPORTS_DIPLOMATIC_FAVOR">
 			<Text>Diplomatic Favor</Text>
-		</Row>
-		<Row Tag="LOC_HOF_REPORTS_SCIENCE_VP">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_HOF_REPORTS_SCIENCE_VP">
 			<Text>Light Years Traveled</Text>
-		</Row>
-		<Row Tag="LOC_HOF_REPORTS_DIPLOMATIC_VP">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_HOF_REPORTS_DIPLOMATIC_VP">
 			<Text>Diplomatic Victory Points</Text>
-		</Row>
-		<Row Tag="LOC_HOF_REPORTS_CO2">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_HOF_REPORTS_CO2">
 			<Text>CO2 Emitted</Text>
-		</Row>
+		</Replace>
 		<!-- Graphs -->
-		<Row Tag="LOC_HOF_GRAPH_DIPLOMATIC_FAVOR">
+		<Replace Language='en_US' Tag="LOC_HOF_GRAPH_DIPLOMATIC_FAVOR">
 			<Text>Player Diplomatic Favor</Text>
-		</Row>
-		<Row Tag="LOC_HOF_GRAPH_SCIENCE_VP">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_HOF_GRAPH_SCIENCE_VP">
 			<Text>Light Years Traveled</Text>
-		</Row>
-		<Row Tag="LOC_HOF_GRAPH_DIPLOMATIC_VP">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_HOF_GRAPH_DIPLOMATIC_VP">
 			<Text>Diplomatic Victory Points Earned</Text>
-		</Row>
-		<Row Tag="LOC_HOF_GRAPH_CO2">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_HOF_GRAPH_CO2">
 			<Text>CO2 Emitted</Text>
-		</Row>
-	</EnglishText>
+		</Replace>
+	</LocalizedText>
 </GameData>

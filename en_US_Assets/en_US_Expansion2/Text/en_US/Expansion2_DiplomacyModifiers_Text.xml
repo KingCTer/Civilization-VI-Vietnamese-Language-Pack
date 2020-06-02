@@ -1,58 +1,58 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
 <GameData>
-	<BaseGameText>
+	<LocalizedText>
 		<!-- Standard modifiers -->
-		<Row Tag="LOC_DIPLO_MODIFIER_SAPA_INCA_LOW_MOUNTAIN_CITIES">
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_SAPA_INCA_LOW_MOUNTAIN_CITIES">
 			<Text>Pachacuti is pleased you have few cities near Mountains</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_MODIFIER_SAPA_INCA_HIGH_MOUNTAIN_CITIES">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_SAPA_INCA_HIGH_MOUNTAIN_CITIES">
 			<Text>Pachacuti is displeased because you have many cities near Mountains</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_MODIFIER_SICILIAN_WARS_LOW_COASTAL_CITES">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_SICILIAN_WARS_LOW_COASTAL_CITES">
 			<Text>Dido is pleased you have few coastal cities</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_MODIFIER_SICILIAN_WARS_HIGH_COASTAL_CITIES">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_SICILIAN_WARS_HIGH_COASTAL_CITIES">
 			<Text>Dido is displeased because you have many coastal cities</Text>
-		</Row>
-    <Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_EXPANSIONIST">
+		</Replace>
+    <Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_EXPANSIONIST">
       <Text>They like Empires that claim a lot of land, and dislike those that do not</Text>
-    </Row>
-    <Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_GREAT_WHITE_FLEET">
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_GREAT_WHITE_FLEET">
       <Text>They like Empires with significant navies</Text>
-    </Row>
-    <Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_FLAT_EARTHER">
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_FLAT_EARTHER">
       <Text>They dislike those who try to leave the Earth</Text>
-    </Row>
-    <Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_HIGH_FAVOR">
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_HIGH_FAVOR">
       <Text>They do not like you competing so actively for Favor</Text>
-    </Row>
-    <Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_LOW_FAVOR">
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_LOW_FAVOR">
       <Text>They are happy you are not earning much Favor</Text>
-    </Row>
-    <Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_HIGH_TOURISM">
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_HIGH_TOURISM">
       <Text>They are unhappy that your Tourism is so strong</Text>
-    </Row>
-    <Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_LOW_TOURISM">
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_LOW_TOURISM">
       <Text>They are pleased you are not competing in Tourism</Text>
-    </Row>
-    <Row Tag="LOC_DIPLO_MODIFIER_INTOLERANT_SAME">
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_INTOLERANT_SAME">
       <Text>They are happy you share a religion</Text>
-    </Row>
-    <Row Tag="LOC_DIPLO_MODIFIER_INTOLERANT_ENCROACHING">
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_INTOLERANT_ENCROACHING">
       <Text>They are angry that your religion is present in their empire</Text>
-    </Row>
-    <Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_HIGH_DIPLOVP">
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_HIGH_DIPLOVP">
       <Text>They are angry that you are getting closer to a Diplomatic Victory</Text>
-    </Row>
-    <Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_LOW_DIPLOVP">
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_LOW_DIPLOVP">
       <Text>They are pleased you are not a threat for Diplomatic Victory</Text>
-    </Row>
-    <Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_HIGH_PILLAGE">
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_HIGH_PILLAGE">
       <Text>They are pleased to see another civilization who enjoys pillaging</Text>
-    </Row>
-    <Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_LOW_PILLAGE">
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_LOW_PILLAGE">
       <Text>They would like to see you pillage opponents more often</Text>
-    </Row>
-	</BaseGameText>
+    </Replace>
+	</LocalizedText>
 </GameData>

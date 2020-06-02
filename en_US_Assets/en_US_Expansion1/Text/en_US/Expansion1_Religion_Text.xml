@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameData>
-	<EnglishText>
-		<Row Tag="LOC_BELIEF_PAPAL_PRIMACY_DESCRIPTION">
+	<LocalizedText>
+		<Replace Language='en_US' Tag="LOC_BELIEF_PAPAL_PRIMACY_DESCRIPTION">
 			<Text>When you send an [ICON_ENVOY] Envoy to a City-State it adds 200 Religious pressure to that City-State.</Text>
-		</Row>
-		<Row Tag="LOC_BELIEF_GODDESS_OF_FESTIVALS_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_GODDESS_OF_FESTIVALS_DESCRIPTION">
 			<Text>+1 [ICON_Food] Food from [ICON_RESOURCE_WINE] Wine, [ICON_RESOURCE_INCENSE] Incense, [ICON_RESOURCE_COCOA] Cocoa,  [ICON_RESOURCE_TOBACCO] Tobacco, [ICON_RESOURCE_OLIVES] Olives, [ICON_RESOURCE_COFFEE] Coffee, and [ICON_RESOURCE_TEA] Tea Plantations.</Text>
-		</Row>
-	</EnglishText>
+		</Replace>
+	</LocalizedText>
 </GameData>

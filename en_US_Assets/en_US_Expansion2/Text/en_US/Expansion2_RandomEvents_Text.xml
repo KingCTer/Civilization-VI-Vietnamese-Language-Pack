@@ -1,276 +1,276 @@
 <!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
 <GameData>
-	<EnglishText>
+	<LocalizedText>
 		<!--River Flooding-->
-		<Row Tag="LOC_RANDOM_EVENT_FLOOD_MODERATE_NAME">
+		<Replace Language='en_US' Tag="LOC_RANDOM_EVENT_FLOOD_MODERATE_NAME">
 			<Text>Moderate Flood</Text>
-		</Row>
-		<Row Tag="LOC_RANDOM_EVENT_FLOOD_MODERATE_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_RANDOM_EVENT_FLOOD_MODERATE_DESCRIPTION">
 			<Text>Rising waters overflow the banks of the river and spill into the land beyond.</Text>
-		</Row>
-		<Row Tag="LOC_RANDOM_EVENT_FLOOD_MAJOR_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_RANDOM_EVENT_FLOOD_MAJOR_NAME">
 			<Text>Major Flood</Text>
-		</Row>
-		<Row Tag="LOC_RANDOM_EVENT_FLOOD_MAJOR_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_RANDOM_EVENT_FLOOD_MAJOR_DESCRIPTION">
 			<Text>Surging, murky water rushes over the land around the river during an intense flood.</Text>
-		</Row>
-		<Row Tag="LOC_RANDOM_EVENT_FLOOD_1000_YEAR_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_RANDOM_EVENT_FLOOD_1000_YEAR_NAME">
 			<Text>1000 Year Flood</Text>
-		</Row>
-		<Row Tag="LOC_RANDOM_EVENT_FLOOD_1000_YEAR_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_RANDOM_EVENT_FLOOD_1000_YEAR_DESCRIPTION">
 			<Text>The river bursts its banks, and rising water covers the land for miles around. Not for a thousand years has the river flooded to such an extent!</Text>
-		</Row>
+		</Replace>
 		<!--Eruptions-->
-		<Row Tag="LOC_RANDOM_EVENT_KILIMANJARO_GENTLE_NAME">
+		<Replace Language='en_US' Tag="LOC_RANDOM_EVENT_KILIMANJARO_GENTLE_NAME">
 			<Text>Gentle Eruption</Text>
-		</Row>
-		<Row Tag="LOC_RANDOM_EVENT_KILIMANJARO_GENTLE_DESCRIPTION]">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_RANDOM_EVENT_KILIMANJARO_GENTLE_DESCRIPTION]">
 			<Text>People and animals view the rising column of ash from Kilimanjaro from miles around, and wonder at the Earth’s fury.</Text>
-		</Row>
-		<Row Tag="LOC_RANDOM_EVENT_KILIMANJARO_CATASTROPHIC_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_RANDOM_EVENT_KILIMANJARO_CATASTROPHIC_NAME">
 			<Text>Catastrophic Eruption</Text>
-		</Row>
-		<Row Tag="LOC_RANDOM_EVENT_KILIMANJARO_CATASTROPHIC_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_RANDOM_EVENT_KILIMANJARO_CATASTROPHIC_DESCRIPTION">
 			<Text>Kilimanjaro roars, and a plume of smoke and ash jets into the sky, as people and animals flee in terror!</Text>
-		</Row>
-		<Row Tag="LOC_RANDOM_EVENT_EYJAFJALLAJOKULL_CATASTROPHIC_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_RANDOM_EVENT_EYJAFJALLAJOKULL_CATASTROPHIC_NAME">
 			<Text>Catastrophic Eruption</Text>
-		</Row>
-		<Row Tag="LOC_RANDOM_EVENT_EYJAFJALLAJOKULL_CATASTROPHIC_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_RANDOM_EVENT_EYJAFJALLAJOKULL_CATASTROPHIC_DESCRIPTION">
 			<Text>People must go far out of their way to avoid the huge plume of ash that erupts from Eyjafjallajökull.</Text>
-		</Row>
-		<Row Tag="LOC_RANDOM_EVENT_EYJAFJALLAJOKULL_MEGACOLOSSAL_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_RANDOM_EVENT_EYJAFJALLAJOKULL_MEGACOLOSSAL_NAME">
 			<Text>Megacolossal Eruption</Text>
-		</Row>
-		<Row Tag="LOC_RANDOM_EVENT_EYJAFJALLAJOKULL_MEGACOLOSSAL_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_RANDOM_EVENT_EYJAFJALLAJOKULL_MEGACOLOSSAL_DESCRIPTION">
 			<Text>Eyjafjallajökull tears open a rift in the earth, as if the goddess Hel herself were escaping from the netherworld!</Text>
-		</Row>
-		<Row Tag="LOC_RANDOM_EVENT_VESUVIUS_MEGACOLOSSAL_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_RANDOM_EVENT_VESUVIUS_MEGACOLOSSAL_NAME">
 			<Text>Megacolossal Eruption</Text>
-		</Row>
-		<Row Tag="LOC_RANDOM_EVENT_VESUVIUS_MEGACOLOSSAL_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_RANDOM_EVENT_VESUVIUS_MEGACOLOSSAL_DESCRIPTION">
 			<Text>Citizens scream in terror and flee towards safety as the pyroclastic wave crashes down the flanks of Vesuvius!</Text>
-		</Row>
-		<Row Tag="LOC_RANDOM_EVENT_VOLCANO_GENTLE_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_RANDOM_EVENT_VOLCANO_GENTLE_NAME">
 			<Text>Gentle Eruption</Text>
-		</Row>
-		<Row Tag="LOC_RANDOM_EVENT_VOLCANO_GENTLE_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_RANDOM_EVENT_VOLCANO_GENTLE_DESCRIPTION">
 			<Text>People gaze skyward in concern, watching smoke rise from a once-quiet volcano.</Text>
-		</Row>
-		<Row Tag="LOC_RANDOM_EVENT_VOLCANO_CATASTROPHIC_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_RANDOM_EVENT_VOLCANO_CATASTROPHIC_NAME">
 			<Text>Catastrophic Eruption</Text>
-		</Row>
-		<Row Tag="LOC_RANDOM_EVENT_VOLCANO_CATASTROPHIC_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_RANDOM_EVENT_VOLCANO_CATASTROPHIC_DESCRIPTION">
 			<Text>People living near the volcano flee as lava and ash blankets the surrounding land.</Text>
-		</Row>
-		<Row Tag="LOC_RANDOM_EVENT_VOLCANO_MEGACOLOSSAL_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_RANDOM_EVENT_VOLCANO_MEGACOLOSSAL_NAME">
 			<Text>Megacolossal Eruption</Text>
-		</Row>
-		<Row Tag="LOC_RANDOM_EVENT_VOLCANO_MEGACOLOSSAL_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_RANDOM_EVENT_VOLCANO_MEGACOLOSSAL_DESCRIPTION">
 			<Text>People flee in terror as pyroclastic flows lash the slopes of the volcano and jets of smoke pour into the sky!</Text>
-		</Row>
+		</Replace>
 		<!--Rising Sea Levels Flooding-->
-		<Row Tag="LOC_COASTAL_LOWLAND_1M_NAME">
+		<Replace Language='en_US' Tag="LOC_COASTAL_LOWLAND_1M_NAME">
 			<Text>Coastal Lowland: 1 Meter</Text>
-		</Row>
-		<Row Tag="LOC_COASTAL_LOWLAND_1M_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_COASTAL_LOWLAND_1M_DESCRIPTION">
 			<Text>This is the first land that floods when sea levels rise.</Text>
-		</Row>
-		<Row Tag="LOC_COASTAL_LOWLAND_2M_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_COASTAL_LOWLAND_2M_NAME">
 			<Text>Coastal Lowland: 2 Meters</Text>
-		</Row>
-		<Row Tag="LOC_COASTAL_LOWLAND_2M_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_COASTAL_LOWLAND_2M_DESCRIPTION">
 			<Text>This land will flood when sea levels rise a second time.</Text>
-		</Row>
-		<Row Tag="LOC_COASTAL_LOWLAND_3M_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_COASTAL_LOWLAND_3M_NAME">
 			<Text>Coastal Lowland: 3 Meters</Text>
-		</Row>
-		<Row Tag="LOC_COASTAL_LOWLAND_3M_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_COASTAL_LOWLAND_3M_DESCRIPTION">
 			<Text>This will be the last land affected by rising sea levels.</Text>
-		</Row>
-		<Row Tag="LOC_COASTAL_LOWLAND_FLOODED">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_COASTAL_LOWLAND_FLOODED">
 			<Text>(Flooded)</Text>
-		</Row>
-		<Row Tag="LOC_COASTAL_LOWLAND_SUBMERGED">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_COASTAL_LOWLAND_SUBMERGED">
 			<Text>(Submerged)</Text>
-		</Row>
-		<Row Tag="LOC_RANDOM_EVENT_SEA_LEVEL_RISE1_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_RANDOM_EVENT_SEA_LEVEL_RISE1_NAME">
 			<Text>Climate Change Phase I</Text>
-		</Row>
-		<Row Tag="LOC_RANDOM_EVENT_SEA_LEVEL_RISE2_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_RANDOM_EVENT_SEA_LEVEL_RISE2_NAME">
 			<Text>Climate Change Phase II</Text>
-		</Row>
-		<Row Tag="LOC_RANDOM_EVENT_SEA_LEVEL_RISE3_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_RANDOM_EVENT_SEA_LEVEL_RISE3_NAME">
 			<Text>Climate Change Phase III</Text>
-		</Row>
-		<Row Tag="LOC_RANDOM_EVENT_SEA_LEVEL_RISE4_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_RANDOM_EVENT_SEA_LEVEL_RISE4_NAME">
 			<Text>Climate Change Phase IV</Text>
-		</Row>
-		<Row Tag="LOC_RANDOM_EVENT_SEA_LEVEL_RISE5_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_RANDOM_EVENT_SEA_LEVEL_RISE5_NAME">
 			<Text>Climate Change Phase V</Text>
-		</Row>
-		<Row Tag="LOC_RANDOM_EVENT_SEA_LEVEL_RISE6_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_RANDOM_EVENT_SEA_LEVEL_RISE6_NAME">
 			<Text>Climate Change Phase VI</Text>
-		</Row>
-		<Row Tag="LOC_RANDOM_EVENT_SEA_LEVEL_RISE7_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_RANDOM_EVENT_SEA_LEVEL_RISE7_NAME">
 			<Text>Climate Change Phase VII</Text>
-		</Row>
-		<Row Tag="LOC_RANDOM_EVENT_SEA_LEVEL_RISE1_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_RANDOM_EVENT_SEA_LEVEL_RISE1_DESCRIPTION">
 			<Text>0.5</Text>
-		</Row>
-		<Row Tag="LOC_RANDOM_EVENT_SEA_LEVEL_RISE2_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_RANDOM_EVENT_SEA_LEVEL_RISE2_DESCRIPTION">
 			<Text>1.0</Text>
-		</Row>
-		<Row Tag="LOC_RANDOM_EVENT_SEA_LEVEL_RISE3_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_RANDOM_EVENT_SEA_LEVEL_RISE3_DESCRIPTION">
 			<Text>1.5</Text>
-		</Row>
-		<Row Tag="LOC_RANDOM_EVENT_SEA_LEVEL_RISE4_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_RANDOM_EVENT_SEA_LEVEL_RISE4_DESCRIPTION">
 			<Text>2.0</Text>
-		</Row>
-		<Row Tag="LOC_RANDOM_EVENT_SEA_LEVEL_RISE5_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_RANDOM_EVENT_SEA_LEVEL_RISE5_DESCRIPTION">
 			<Text>2.5</Text>
-		</Row>
-		<Row Tag="LOC_RANDOM_EVENT_SEA_LEVEL_RISE6_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_RANDOM_EVENT_SEA_LEVEL_RISE6_DESCRIPTION">
 			<Text>3.0</Text>
-		</Row>
-		<Row Tag="LOC_RANDOM_EVENT_SEA_LEVEL_RISE7_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_RANDOM_EVENT_SEA_LEVEL_RISE7_DESCRIPTION">
 			<Text>3.5</Text>
-		</Row>
-    <Row Tag="LOC_RANDOM_EVENT_SEA_LEVEL_RISE4_LONG_DESCRIPTION">
+		</Replace>
+    <Replace Language='en_US' Tag="LOC_RANDOM_EVENT_SEA_LEVEL_RISE4_LONG_DESCRIPTION">
       <Text>Storms and Floods no longer improve fertility.</Text>
-    </Row>
-    <Row Tag="LOC_RANDOM_EVENT_SEA_LEVEL_RISE5_LONG_DESCRIPTION">
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_RANDOM_EVENT_SEA_LEVEL_RISE5_LONG_DESCRIPTION">
       <Text>Storms and Droughts passing over a tile begin to remove bonus fertility added earlier in the game.</Text>
-    </Row>
-    <Row Tag="LOC_RANDOM_EVENT_SEA_LEVEL_RISE6_LONG_DESCRIPTION">
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_RANDOM_EVENT_SEA_LEVEL_RISE6_LONG_DESCRIPTION">
       <Text>Storms and Droughts passing over a tile regularly remove bonus fertility added earlier in the game.</Text>
-    </Row>
-    <Row Tag="LOC_RANDOM_EVENT_SEA_LEVEL_RISE7_LONG_DESCRIPTION">
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_RANDOM_EVENT_SEA_LEVEL_RISE7_LONG_DESCRIPTION">
       <Text>Storms and Droughts passing over a tile quite often remove bonus fertility added earlier in the game.</Text>
-    </Row>
+    </Replace>
 		<!--Storms-->
-		<Row Tag="LOC_RANDOM_EVENT_BLIZZARD_SIGNIFICANT_NAME">
+		<Replace Language='en_US' Tag="LOC_RANDOM_EVENT_BLIZZARD_SIGNIFICANT_NAME">
 			<Text>Significant Blizzard</Text>
-		</Row>
-		<Row Tag="LOC_RANDOM_EVENT_BLIZZARD_SIGNIFICANT_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_RANDOM_EVENT_BLIZZARD_SIGNIFICANT_DESCRIPTION">
 			<Text>An icy wind sweeps blanketing snow across the landscape, as living creatures huddle in their dens.</Text>
-		</Row>
-		<Row Tag="LOC_RANDOM_EVENT_BLIZZARD_CRIPPLING_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_RANDOM_EVENT_BLIZZARD_CRIPPLING_NAME">
 			<Text>Crippling Blizzard</Text>
-		</Row>
-		<Row Tag="LOC_RANDOM_EVENT_BLIZZARD_CRIPPLING_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_RANDOM_EVENT_BLIZZARD_CRIPPLING_DESCRIPTION">
 			<Text>The howling wind and lashing snow turn sky and land white. Familiar forms disappear beneath frozen mounds.</Text>
-		</Row>
-		<Row Tag="LOC_RANDOM_EVENT_DUST_STORM_GRADIENT_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_RANDOM_EVENT_DUST_STORM_GRADIENT_NAME">
 			<Text>Gradient Dust Storm</Text>
-		</Row>
-		<Row Tag="LOC_RANDOM_EVENT_DUST_STORM_GRADIENT_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_RANDOM_EVENT_DUST_STORM_GRADIENT_DESCRIPTION">
 			<Text>The sun is an angry orange disc in a hazy sky as people scurry about their business, cloth wrapped around noses and mouths.</Text>
-		</Row>
-		<Row Tag="LOC_RANDOM_EVENT_DUST_STORM_HABOOB_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_RANDOM_EVENT_DUST_STORM_HABOOB_NAME">
 			<Text>Haboob Dust Storm</Text>
-		</Row>
-		<Row Tag="LOC_RANDOM_EVENT_DUST_STORM_HABOOB_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_RANDOM_EVENT_DUST_STORM_HABOOB_DESCRIPTION">
 			<Text>From far off people see the approaching wall of driven sand, and scatter to seek safety before the scouring wind!</Text>
-		</Row>
-		<Row Tag="LOC_RANDOM_EVENT_TORNADO_FAMILY_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_RANDOM_EVENT_TORNADO_FAMILY_NAME">
 			<Text>Tornado Family</Text>
-		</Row>
-		<Row Tag="LOC_RANDOM_EVENT_TORNADO_FAMILY_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_RANDOM_EVENT_TORNADO_FAMILY_DESCRIPTION">
 			<Text>A tornado slowly descends from a summer storm, and people seek refuge.</Text>
-		</Row>
-		<Row Tag="LOC_RANDOM_EVENT_TORNADO_OUTBREAK_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_RANDOM_EVENT_TORNADO_OUTBREAK_NAME">
 			<Text>Tornado Outbreak</Text>
-		</Row>
-		<Row Tag="LOC_RANDOM_EVENT_TORNADO_OUTBREAK_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_RANDOM_EVENT_TORNADO_OUTBREAK_DESCRIPTION">
 			<Text>A fast-moving line of storms gallop across the darkening summer sky, with tornadoes ominously forming beneath. </Text>
-		</Row>
-		<Row Tag="LOC_RANDOM_EVENT_HURRICANE_CAT_4_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_RANDOM_EVENT_HURRICANE_CAT_4_NAME">
 			<Text>Category-4 Hurricane</Text>
-		</Row>
-		<Row Tag="LOC_RANDOM_EVENT_HURRICANE_CAT_4_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_RANDOM_EVENT_HURRICANE_CAT_4_DESCRIPTION">
 			<Text>Pelting rain and a howling gale mark the arrival of a mighty hurricane.</Text>
-		</Row>
-		<Row Tag="LOC_RANDOM_EVENT_HURRICANE_CAT_5_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_RANDOM_EVENT_HURRICANE_CAT_5_NAME">
 			<Text>Category-5 Hurricane</Text>
-		</Row>
-		<Row Tag="LOC_RANDOM_EVENT_HURRICANE_CAT_5_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_RANDOM_EVENT_HURRICANE_CAT_5_DESCRIPTION">
 			<Text>The wind screams, the torrents of rain fall, and the waves drive inexorably ashore. Little can stand where this hurricane passes!</Text>
-		</Row>
-    <Row Tag="LOC_RANDOM_EVENT_DROUGHT_MAJOR_NAME">
+		</Replace>
+    <Replace Language='en_US' Tag="LOC_RANDOM_EVENT_DROUGHT_MAJOR_NAME">
       <Text>Major Drought</Text>
-    </Row>
-    <Row Tag="LOC_RANDOM_EVENT_DROUGHT_MAJOR_DESCRIPTION">
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_RANDOM_EVENT_DROUGHT_MAJOR_DESCRIPTION">
       <Text>Locusts whirr and dust stirs in the hot wind. The land is parched by drought.</Text>
-    </Row>
-    <Row Tag="LOC_RANDOM_EVENT_DROUGHT_EXTREME_NAME">
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_RANDOM_EVENT_DROUGHT_EXTREME_NAME">
       <Text>Withering Drought</Text>
-    </Row>
-    <Row Tag="LOC_RANDOM_EVENT_DROUGHT_EXTREME_DESCRIPTION">
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_RANDOM_EVENT_DROUGHT_EXTREME_DESCRIPTION">
       <Text>A merciless sun beats down on the drought-stricken and withered earth. No rain has fallen, and the skies promise no relief.</Text>
-    </Row>
+    </Replace>
     <!--Random Event Effect Strings-->
-		<Row Tag="LOC_RANDOM_EVENT_PROP_DAMAGE_FERTILITY">
+		<Replace Language='en_US' Tag="LOC_RANDOM_EVENT_PROP_DAMAGE_FERTILITY">
 			<Text>+ May add fertility to tiles it passes over[NEWLINE]- May damage improvements or districts</Text>
-		</Row>
-		<Row Tag="LOC_RANDOM_EVENT_ALL_DAMAGE_FERTILITY">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_RANDOM_EVENT_ALL_DAMAGE_FERTILITY">
 			<Text>+ May add fertility to tiles it passes over[NEWLINE]- May damage improvements or districts[NEWLINE]- May damage units or reduce city populations</Text>
-		</Row>
-		<Row Tag="LOC_RANDOM_EVENT_PROP_DAMAGE_NO_FERTILITY">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_RANDOM_EVENT_PROP_DAMAGE_NO_FERTILITY">
 			<Text>- May damage improvements or districts</Text>
-		</Row>
-		<Row Tag="LOC_RANDOM_EVENT_ALL_DAMAGE_NO_FERTILITY">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_RANDOM_EVENT_ALL_DAMAGE_NO_FERTILITY">
 			<Text>- May damage improvements or districts[NEWLINE]- May damage units or reduce city populations</Text>
-		</Row>
-		<Row Tag="LOC_RANDOM_EVENT_PROP_NAVAL_DAMAGE_FERTILITY">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_RANDOM_EVENT_PROP_NAVAL_DAMAGE_FERTILITY">
 			<Text>+ May add fertility to tiles it passes over[NEWLINE]- May damage improvements or districts[NEWLINE]- May damage naval units</Text>
-		</Row>
-    <Row Tag="LOC_RANDOM_EVENT_DROUGHT_DAMAGE">
+		</Replace>
+    <Replace Language='en_US' Tag="LOC_RANDOM_EVENT_DROUGHT_DAMAGE">
       <Text>- Will drop [ICON_Food] Food by 1 per tile if the city has no Aqueduct, Dam, or Stepwell.[NEWLINE]- May destroy or pillage Farms, Camps, Pastures, and Plantations.</Text>
-    </Row>
+    </Replace>
     <!--Deforestation-->
-		<Row Tag="LOC_DEFORESTATION_LIGHT_NAME">
+		<Replace Language='en_US' Tag="LOC_DEFORESTATION_LIGHT_NAME">
 			<Text>Light</Text>
-		</Row>
-		<Row Tag="LOC_DEFORESTATION_EXPECTED_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DEFORESTATION_EXPECTED_NAME">
 			<Text>Expected</Text>
-		</Row>
-		<Row Tag="LOC_DEFORESTATION_HEAVY_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DEFORESTATION_HEAVY_NAME">
 			<Text>Heavy</Text>
-		</Row>
-		<Row Tag="LOC_DEFORESTATION_EXTREME_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DEFORESTATION_EXTREME_NAME">
 			<Text>Extreme</Text>
-		</Row>
-		<Row Tag="LOC_DEFORESTATION_LIGHT_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DEFORESTATION_LIGHT_DESCRIPTION">
 			<Text>Removal of Marsh, Woods, and Rainforest features from the planet has been minimal to date.</Text>
-		</Row>
-		<Row Tag="LOC_DEFORESTATION_EXPECTED_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DEFORESTATION_EXPECTED_DESCRIPTION">
 			<Text>Removal of Marsh, Woods, and Rainforest features from the planet has proceeded at the expected pace.</Text>
-		</Row>
-		<Row Tag="LOC_DEFORESTATION_HEAVY_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DEFORESTATION_HEAVY_DESCRIPTION">
 			<Text>Removal of Marsh, Woods, and Rainforest features from the planet has been considerable to date.</Text>
-		</Row>
-		<Row Tag="LOC_DEFORESTATION_EXTREME_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DEFORESTATION_EXTREME_DESCRIPTION">
 			<Text>Removal of Marsh, Woods, and Rainforest features from the planet has been extensive.</Text>
-		</Row>
+		</Replace>
 		<!--Nuclear Accidents-->
-		<Row Tag="LOC_RANDOM_EVENT_NUCLEAR_ACCIDENT_MINOR_NAME">
+		<Replace Language='en_US' Tag="LOC_RANDOM_EVENT_NUCLEAR_ACCIDENT_MINOR_NAME">
 			<Text>Radioactive Steam Venting</Text>
-		</Row>
-		<Row Tag="LOC_RANDOM_EVENT_NUCLEAR_ACCIDENT_MAJOR_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_RANDOM_EVENT_NUCLEAR_ACCIDENT_MAJOR_NAME">
 			<Text>Major Radiation Leak</Text>
-		</Row>
-		<Row Tag="LOC_RANDOM_EVENT_NUCLEAR_ACCIDENT_CATASTROPHIC_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_RANDOM_EVENT_NUCLEAR_ACCIDENT_CATASTROPHIC_NAME">
 			<Text>Nuclear Meltdown</Text>
-		</Row>
-		<Row Tag="LOC_RANDOM_EVENT_NUCLEAR_ACCIDENT_MINOR_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_RANDOM_EVENT_NUCLEAR_ACCIDENT_MINOR_DESCRIPTION">
 			<Text>Engineers in the Nuclear Power Plant control room work feverishly to contain a spreading leak. They have already prevented a worse outcome, but the situation is still serious.</Text>
-		</Row>
-		<Row Tag="LOC_RANDOM_EVENT_NUCLEAR_ACCIDENT_MAJOR_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_RANDOM_EVENT_NUCLEAR_ACCIDENT_MAJOR_DESCRIPTION">
 			<Text>Alarms sound at the Nuclear Power Plant! Jets of steam rise from cracks in the reactor and dosimeters click and whir as radiation blankets the area.</Text>
-		</Row>
-		<Row Tag="LOC_RANDOM_EVENT_NUCLEAR_ACCIDENT_CATASTROPHIC_DESCRIPTION">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_RANDOM_EVENT_NUCLEAR_ACCIDENT_CATASTROPHIC_DESCRIPTION">
 			<Text>An ominous explosion thunders, and a dark plume rises above the Nuclear Power Plant. One by one, the wailing of sirens becomes a shrieking chorus, as hellish lumps of burning fuel begin to rain down. </Text>
-		</Row>
-	</EnglishText>
+		</Replace>
+	</LocalizedText>
 </GameData>

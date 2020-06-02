@@ -1,68 +1,68 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
 <GameData>
-	<BaseGameText>
+	<LocalizedText>
 		<!-- Human Declares War -->
-		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_DIDO_ANY">
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_DIDO_ANY">
 			<Text>War? Are you a fool? Your cities will suffer the fate of Epirus and Saguntum.</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_ELEANOR_ENGLAND_ANY">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_ELEANOR_ENGLAND_ANY">
 			<Text>I regret that we must now go to war with each other—but I regret it only a little.</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_ELEANOR_FRANCE_ANY">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_ELEANOR_FRANCE_ANY">
 			<Text>I regret that we must now go to war with each other—but I regret it only a little.</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_KRISTINA_ANY">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_KRISTINA_ANY">
 			<Text>Sweden will chastise those who threaten the world. Prepare yourself for war.</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_KUPE_ANY">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_KUPE_ANY">
 			<Text>Look at the big civ leader over there with the war declaration! Great job, mate. Really shows off how hard you are.</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_LAURIER_ANY">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_LAURIER_ANY">
 			<Text>As we can reach no peaceful resolution with you Canada must turn, with reluctance, to war.</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_MANSA_MUSA_ANY">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_MANSA_MUSA_ANY">
 			<Text>Enough! My forbearance ends here! We must have war between us, instead of a false peace.</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_MATTHIAS_CORVINUS_ANY">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_MATTHIAS_CORVINUS_ANY">
 			<Text>Surely you had to know that one day there would be war between us.</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_PACHACUTI_ANY">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_PACHACUTI_ANY">
 			<Text>Now is the time for war. Hear the stamp of our warriors—warriors with the hearts of the puma.</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_SULEIMAN_ANY">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_SULEIMAN_ANY">
 			<Text>Good. The world shall witness the incontestable might of my armies and the glory of the Empire.</Text>
-		</Row>
+		</Replace>
 		<!-- AI Declares War -->
-		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_DIDO_ANY">
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_DIDO_ANY">
 			<Text>Now we have war between us. Look to the seas—already the horizon is crowded with the sails of my fleets.</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ELEANOR_ENGLAND_ANY">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ELEANOR_ENGLAND_ANY">
 			<Text>I see weak lands, led by a weak ruler. You see my armies massing to overthrow you.</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ELEANOR_FRANCE_ANY">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ELEANOR_FRANCE_ANY">
 			<Text>I see weak lands, led by a weak ruler. You see my armies massing to overthrow you.</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_KRISTINA_ANY">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_KRISTINA_ANY">
 			<Text>Sweden will do her part to push back the evils of the world. Art is one way to do this—war with you is another.</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_KUPE_ANY">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_KUPE_ANY">
 			<Text>You choose death! Your people wail and moan! The pillars of your houses shake, all your lands are shaking!</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_LAURIER_ANY">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_LAURIER_ANY">
 			<Text>As an unstinting malignancy defines your relationship to Canada, we have no recourse than war.</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_MANSA_MUSA_ANY">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_MANSA_MUSA_ANY">
 			<Text>Your transgressions are as deep as oceans. O God, grant that I may chastise this one!</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_MATTHIAS_CORVINUS_ANY">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_MATTHIAS_CORVINUS_ANY">
 			<Text>Your insolence has provoked this war, and I shall be happy to lead the Black Army to victory over you.</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_PACHACUTI_ANY">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_PACHACUTI_ANY">
 			<Text>Let there be war between us! I will wrestle your lands away, and rule your subjects with strength.</Text>
-		</Row>
-		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_SULEIMAN_ANY">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_SULEIMAN_ANY">
 			<Text>Your continued insolence and failure to recognize my preeminence leads us to war.</Text>
-		</Row>
-	</BaseGameText>
+		</Replace>
+	</LocalizedText>
 </GameData>

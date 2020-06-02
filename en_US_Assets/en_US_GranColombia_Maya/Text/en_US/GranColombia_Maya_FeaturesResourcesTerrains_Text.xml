@@ -1,75 +1,75 @@
 <GameData>
-	<EnglishText>
+	<LocalizedText>
     <!-- Features-->
-    <Row Tag="LOC_FEATURE_BERMUDA_TRIANGLE_NAME">
+    <Replace Language='en_US' Tag="LOC_FEATURE_BERMUDA_TRIANGLE_NAME">
       <Text>Bermuda Triangle</Text>
-    </Row>
-    <Row Tag="LOC_FEATURE_BERMUDA_TRIANGLE_DESCRIPTION">
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_FEATURE_BERMUDA_TRIANGLE_DESCRIPTION">
       <Text>Three tile natural wonder. Provides +5 [ICON_Science] Science to adjacent tiles. Units that enter it are teleported to an ocean far away, but naval units that do so earn the ability 'Mysterious Currents' (+1 [ICON_Movement] Movement).</Text>
-    </Row>
-    <Row Tag="LOC_FEATURE_BERMUDA_TRIANGLE_QUOTE">
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_FEATURE_BERMUDA_TRIANGLE_QUOTE">
       <Text>"There is, one knows not what sweet mystery about this sea, whose gently awful stirrings seem to speak of some hidden soul beneath … for here, millions of mixed shades and shadows, drowned dreams, somnambulisms, reveries; all that we call lives and souls, lie dreaming, dreaming, still."[NEWLINE]– Herman Melville</Text>
-    </Row>
-    <Row Tag="LOC_FEATURE_FOUNTAIN_OF_YOUTH_NAME">
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_FEATURE_FOUNTAIN_OF_YOUTH_NAME">
       <Text>Fountain of Youth</Text>
-    </Row>
-    <Row Tag="LOC_FEATURE_FOUNTAIN_OF_YOUTH_DESCRIPTION">
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_FEATURE_FOUNTAIN_OF_YOUTH_DESCRIPTION">
       <Text>One tile natural wonder. Provides +4 [ICON_Science] Science, +4 [ICON_Faith] Faith, and Fresh Water. Land combat units that enter it receive the ability 'Water of Life' (+10 HP healing in any territory).</Text>
-    </Row>
-    <Row Tag="LOC_FEATURE_FOUNTAIN_OF_YOUTH_QUOTE">
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_FEATURE_FOUNTAIN_OF_YOUTH_QUOTE">
       <Text>"Chyavana, desirous of obtaining beauty, quickly entered into the water. The twin Aswins also, O King, sank into the sheet of water. And the next moment, they all came out … in surpassingly beautiful forms, and young."[NEWLINE]- Anonymous</Text>
-    </Row>
-    <Row Tag="LOC_FEATURE_PAITITI_NAME">
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_FEATURE_PAITITI_NAME">
       <Text>Païtiti</Text>
-    </Row>
-    <Row Tag="LOC_FEATURE_PAITITI_DESCRIPTION">
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_FEATURE_PAITITI_DESCRIPTION">
       <Text>Three tile impassable natural wonder. Provides +3 [ICON_Gold] Gold and +2 [ICON_Culture] Culture to adjacent tiles. Major adjacency bonus to Theater Square and Commercial Hub districts.</Text>
-    </Row>
-    <Row Tag="LOC_FEATURE_PAITITI_QUOTE">
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_FEATURE_PAITITI_QUOTE">
       <Text>"Hidden in the glorious wildness like unmined gold."[NEWLINE]- John Muir</Text>
-    </Row>
-    <Row Tag="LOC_DISTRICT_PAITITI_CULTURE">
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_DISTRICT_PAITITI_CULTURE">
       <Text>+{1_num} [ICON_CULTURE] Culture from the adjacent natural wonder Païtiti.</Text>
-    </Row>
-    <Row Tag="LOC_DISTRICT_PAITITI_GOLD">
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_DISTRICT_PAITITI_GOLD">
       <Text>+{1_num} [ICON_GOLD] Gold from the adjacent natural wonder Païtiti.</Text>
-    </Row>
-    <Row Tag="LOC_FEATURE_BURNING_FOREST_NAME" >
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_FEATURE_BURNING_FOREST_NAME" >
       <Text>Burning Woods</Text>
-    </Row>
-    <Row Tag="LOC_FEATURE_BURNING_FOREST_DESCRIPTION">
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_FEATURE_BURNING_FOREST_DESCRIPTION">
       <Text>Woods engulfed in flame.</Text>
-    </Row>
-    <Row Tag="LOC_FEATURE_BURNT_FOREST_NAME" >
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_FEATURE_BURNT_FOREST_NAME" >
       <Text>Burnt Woods</Text>
-    </Row>
-    <Row Tag="LOC_FEATURE_BURNT_FOREST_DESCRIPTION">
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_FEATURE_BURNT_FOREST_DESCRIPTION">
       <Text>Woods regrowing after a fire.</Text>
-    </Row>
-    <Row Tag="LOC_FEATURE_BURNING_JUNGLE_NAME" >
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_FEATURE_BURNING_JUNGLE_NAME" >
       <Text>Burning Rainforest</Text>
-    </Row>
-    <Row Tag="LOC_FEATURE_BURNING_JUNGLE_DESCRIPTION">
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_FEATURE_BURNING_JUNGLE_DESCRIPTION">
       <Text>A rainforest engulfed in flame.</Text>
-    </Row>
-    <Row Tag="LOC_FEATURE_BURNT_JUNGLE_NAME" >
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_FEATURE_BURNT_JUNGLE_NAME" >
       <Text>Burnt Rainforest</Text>
-    </Row>
-    <Row Tag="LOC_FEATURE_BURNT_JUNGLE_DESCRIPTION">
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_FEATURE_BURNT_JUNGLE_DESCRIPTION">
       <Text>A rainforest regrowing after a fire.</Text>
-    </Row>
-    <Row Tag="LOC_FEATURE_COMET_LAKE_NAME" >
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_FEATURE_COMET_LAKE_NAME" >
       <Text>Impact Zone</Text>
-    </Row>
-    <Row Tag="LOC_FEATURE_COMET_LAKE_DESCRIPTION">
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_FEATURE_COMET_LAKE_DESCRIPTION">
       <Text>A comet crushed whatever was previously here.</Text>
-    </Row>
+    </Replace>
 		<!-- Resources-->
-		<Row Tag="LOC_RESOURCE_MAIZE_NAME">
+		<Replace Language='en_US' Tag="LOC_RESOURCE_MAIZE_NAME">
 			<Text>Maize</Text>
-		</Row>
-		<Row Tag="LOC_RESOURCE_HONEY_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_RESOURCE_HONEY_NAME">
 			<Text>Honey</Text>
-		</Row>
-	</EnglishText>
+		</Replace>
+	</LocalizedText>
 </GameData>

@@ -1,59 +1,59 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameData>
-	<EnglishText>
-		<Row Tag="LOC_DIPLOACTION_ALLIANCE_LEVEL">
+	<LocalizedText>
+		<Replace Language='en_US' Tag="LOC_DIPLOACTION_ALLIANCE_LEVEL">
 			<Text>Level {1_Level}</Text>
-		</Row>
-		<Row Tag="LOC_DIPLOACTION_INTEL_REPORT_ALLIANCE">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOACTION_INTEL_REPORT_ALLIANCE">
 			<Text>Intel Report: Alliance</Text>
-		</Row>
-		<Row Tag="LOC_DIPLOACTION_ALLIANCE_TAB_TOOLTIP">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOACTION_ALLIANCE_TAB_TOOLTIP">
 			<Text>View your current and future Alliance possibilities and effects with this leader.</Text>
-		</Row>
-		<Row Tag="LOC_DIPLOACTION_ALLIANCE_TAB_TURNS_TO_LEVEL">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOACTION_ALLIANCE_TAB_TURNS_TO_LEVEL">
 			<Text>{1_CurrentTurns} / {2_TurnsToLevel}</Text>
-		</Row>
-		<Row Tag="LOC_DIPLOACTION_CURRENT_ALLIANCE">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOACTION_CURRENT_ALLIANCE">
 			<Text>Current Alliance:</Text>
-		</Row>
-		<Row Tag="LOC_DIPLOACTION_BENEFITS_NEXT_LEVEL">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOACTION_BENEFITS_NEXT_LEVEL">
 			<Text>Benefits Added Next Level:</Text>
-		</Row>
-		<Row Tag="LOC_DIPLOACTION_BENEFITS_CURRENT_LEVEL">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOACTION_BENEFITS_CURRENT_LEVEL">
 			<Text>Available Alliances:</Text>
-		</Row>
-		<Row Tag="LOC_DIPLOACTION_NO_CURRENT_ALLIANCE">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOACTION_NO_CURRENT_ALLIANCE">
 			<Text>You do not currently have an alliance with this player.</Text>
-		</Row>
-		<Row Tag="LOC_DIPLOACTION_EXPIRES_IN_X_TURNS">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOACTION_EXPIRES_IN_X_TURNS">
 			<Text>(Expires in [ICON_TURN] {1_Turns} Turns)</Text>
-		</Row>
-		<Row Tag="LOC_DIPLOMACY_OVERVIEW_EMERGENCIES">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_OVERVIEW_EMERGENCIES">
 			<Text>View the Emergencies that you are in with this leader.</Text>
-		</Row>
-		<Row Tag="LOC_DIPLOMACY_EMERGENCIES_TARGET_YOU">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_EMERGENCIES_TARGET_YOU">
 			<Text>Targeting you:</Text>
-		</Row>
-		<Row Tag="LOC_DIPLOMACY_EMERGENCIES_PARTICIPATING_YOU">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_EMERGENCIES_PARTICIPATING_YOU">
 			<Text>Participating with you:</Text>
-		</Row>
-		<Row Tag="LOC_DIPLOACTION_INTEL_REPORT_EMERGENCY">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOACTION_INTEL_REPORT_EMERGENCY">
 			<Text>Intel Report: Emergency</Text>
-		</Row>
-		<Row Tag="LOC_DIPLOACTION_EMERGENCY_TAB_TOOLTIP">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOACTION_EMERGENCY_TAB_TOOLTIP">
 			<Text>Emergency</Text>
-		</Row>
-		<Row Tag="LOC_DIPLOMACY_AT_WAR_WITH_CS">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_AT_WAR_WITH_CS">
 			<Text>[COLOR_RED]You are at war with this City-State</Text>
-		</Row>
-		<Row Tag="LOC_DIPLOMACY_MAX_ALLIANCE_POINTS">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_MAX_ALLIANCE_POINTS">
 			<Text>MAX</Text>
-		</Row>
-		<Row Tag="LOC_DIPLOMACY_NEED_ALLIANCE_TO_GAIN_POINTS_TT">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_NEED_ALLIANCE_TO_GAIN_POINTS_TT">
 			<Text>[COLOR_RED]Alliance Points are only earned while in an active Alliance[ENDCOLOR][NEWLINE]{1_CityDetails}</Text>
-		</Row>
-		<Row Tag="LOC_DIPLOMACY_ALLIANCE_FLAG_TT">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_ALLIANCE_FLAG_TT">
 			<Text>{1_AllianceType}[NEWLINE]Level {2_AllianceLevel}</Text>
-		</Row>
-	</EnglishText>
+		</Replace>
+	</LocalizedText>
 </GameData>

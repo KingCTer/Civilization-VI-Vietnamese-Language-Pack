@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameData>
-	<FrontEndText>
-		<Row Tag="LOC_CREDITS_BACK_BUTTON">
+	<LocalizedText>
+		<Replace Language='en_US' Tag="LOC_CREDITS_BACK_BUTTON">
 			<Text>Back</Text>
-		</Row>
-		<Row Tag="LOC_CREDITS_BASEGAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CREDITS_BASEGAME">
 			<Text>Base Game</Text>
-		</Row>
-		<Row Tag="LOC_CREDITS">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CREDITS">
 			<Text>
 [3]CREDITS
 
@@ -1837,6 +1837,6 @@
 [2]3D Art Assets
 [3]Gameshastra Solutions Private Limited
 			</Text>
-		</Row>
-	</FrontEndText>
+		</Replace>
+	</LocalizedText>
 </GameData>

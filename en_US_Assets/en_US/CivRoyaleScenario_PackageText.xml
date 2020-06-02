@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <GameData>
-	<EnglishText>	
+	<LocalizedText>	
 		<!-- Scenario Package -->
-		<Row Tag="LOC_CIV_ROYALE_MOD_TITLE">
+		<Replace Language='en_US' Tag="LOC_CIV_ROYALE_MOD_TITLE">
 			<Text>Multiplayer Scenario: Red Death (Battle Royale)</Text>
-		</Row>
-		<Row Tag="LOC_CIV_ROYALE_MOD_TEASER">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIV_ROYALE_MOD_TEASER">
 			<Text>In this multiplayer scenario, you need to survive the other factions who are fighting for space on the last colony ship, as well as the planet itself. Rounds typically last from 20-45 minutes depending on the game size.</Text>
-		</Row>	
-		<Row Tag="LOC_CIV_ROYALE_MOD_DESCRIPTION_BASIC">
+		</Replace>	
+		<Replace Language='en_US' Tag="LOC_CIV_ROYALE_MOD_DESCRIPTION_BASIC">
 			<Text>Our leaders have failed us. The Red Death comes for us all. Our old civilization could not stand the test of time. [NEWLINE][NEWLINE]Our only hope lies in a single colony ship waiting in orbit for the last survivors of this world. We can remotely pilot the lander, but the other factions are jamming our signal. The only way we will survive is for us to eliminate the other factions.[NEWLINE][NEWLINE]Welcome to the last civilization of this world.</Text>
-		</Row>
-		<Row Tag="LOC_CIV_ROYALE_MOD_DESCRIPTION_TUTORIAL">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CIV_ROYALE_MOD_DESCRIPTION_TUTORIAL">
 			<Text>Our leaders have failed us. The Red Death comes for us all. Our old civilization could not stand the test of time.[NEWLINE][NEWLINE]Our only hope lies in a single colony ship waiting in orbit for the last survivors of this world. We can remotely pilot the lander, but the other factions are jamming our signal. The only way we will survive is for us to eliminate the other factions.[NEWLINE][NEWLINE]Welcome to the last civilization of this world.[NEWLINE][NEWLINE][SIZE_20]Tactical Intel[SIZE_16][NEWLINE][ICON_Bullet]We lose if our Civilians are dead.[NEWLINE][ICON_Bullet]Search City Ruins, Raider Outposts, and Supply Drops for additional units and supplies.[NEWLINE][ICON_Bullet]Raider Outposts and Supply Drops have better supplies.[NEWLINE][ICON_Bullet]The Red Death is advancing in stages and getting progressively stronger.[NEWLINE][ICON_Bullet]The Red Death's progress and intensity is tracked on the top bar.[NEWLINE][ICON_Bullet]All water sources are toxic to our units.[NEWLINE][ICON_Bullet]You know what to do.</Text>
-		</Row>
-	</EnglishText>
+		</Replace>
+	</LocalizedText>
 </GameData>

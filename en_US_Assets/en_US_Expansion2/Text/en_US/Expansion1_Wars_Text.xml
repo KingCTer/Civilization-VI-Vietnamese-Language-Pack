@@ -1,17 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <GameData>
-	<EnglishText>
-		<Row Tag="LOC_GOLDEN_AGE_NAME">
+	<LocalizedText>
+		<Replace Language='en_US' Tag="LOC_GOLDEN_AGE_NAME">
 			<Text>Golden Age War</Text>
-		</Row>
-		<Row Tag="LOC_EMERGENCY_WAR_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_EMERGENCY_WAR_NAME">
 			<Text>Emergency War</Text>
-		</Row>
-		<Row Tag="LOC_WAR_OF_RETRIBUTION_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WAR_OF_RETRIBUTION_NAME">
 			<Text>War Of Retribution</Text>
-		</Row>
-		<Row Tag="LOC_IDEOLOGICAL_WAR_NAME">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_IDEOLOGICAL_WAR_NAME">
 			<Text>Ideological War</Text>
-		</Row>
-	</EnglishText>
+		</Replace>
+	</LocalizedText>
 </GameData>

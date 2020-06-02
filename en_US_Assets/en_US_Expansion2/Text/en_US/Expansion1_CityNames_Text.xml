@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameData>
-	<EnglishText>
+	<LocalizedText>
 		<!-- City States -->
-		<Row Tag="LOC_CITY_NAME_ANTIOCH">
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_ANTIOCH">
 			<Text>Antioch</Text>
-		</Row>
-		<Row Tag="LOC_CITY_NAME_BABYLON">
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_BABYLON">
 			<Text>Babylon</Text>
-		</Row>
-	</EnglishText>
+		</Replace>
+	</LocalizedText>
 </GameData>
