@@ -72,6 +72,18 @@
 		</Criteria>
 		<!-- SID MEIER'S CIVILIZATION VI - NEW FRONTIER PASS -->
 		<!-- New Frontier Pack 1: MAYA & GRAN COLOMBIA PACK -->
+		<Criteria id="GranColombiaMaya" any="1">
+			<LeaderPlayable>Players:StandardPlayers::LEADER_SIMON_BOLIVAR,Players:StandardPlayers::LEADER_LADY_SIX_SKY,StandardPlayers::LEADER_SIMON_BOLIVAR,StandardPlayers::LEADER_LADY_SIX_SKY,Players:Expansion1_Players::LEADER_SIMON_BOLIVAR,Players:Expansion2_Players::LEADER_LADY_SIX_SKY,Players:Expansion2_Players::LEADER_SIMON_BOLIVAR,Players:Expansion2_Players::LEADER_LADY_SIX_SKY</LeaderPlayable>
+			<RuleSetInUse>RULESET_STANDARD,RULESET_EXPANSION_1,RULESET_EXPANSION_2</RuleSetInUse>
+		</Criteria>
+		<Criteria id="GranColombiaMaya_Mode_Expansion2">
+			<RuleSetInUse>RULESET_EXPANSION_2</RuleSetInUse>
+			<ConfigurationValueMatches>
+				<Group>Game</Group>
+				<ConfigurationId>GAMEMODE_APOCALYPSE</ConfigurationId>
+				<Value>1</Value>
+			</ConfigurationValueMatches>
+		</Criteria>
 		<!-- New Frontier Pack 2 -->
 		<!-- New Frontier Pack 3 -->
 		<!-- New Frontier Pack 4 -->
@@ -288,7 +300,21 @@
 				<LoadOrder>100</LoadOrder>
 			</Properties>
 			<File>vi_VI_DLC/vi_VI_CivRoyaleScenario/CivRoyaleScenario_ConfigText.xml</File>
-		</UpdateText>					
+		</UpdateText>
+		<!-- New Frontier Pack 1: MAYA & GRAN COLOMBIA PACK -->
+		<UpdateText id="FrontEnd_GranColombia_Settings">
+			<Properties>
+				<LoadOrder>100</LoadOrder>
+			</Properties>
+			<File>vi_VI_DLC/vi_VI_GranColombia_Maya/GranColombia_Maya_ConfigText.xml</File>
+			<File>vi_VI_DLC/vi_VI_GranColombia_Maya/GranColombia_Maya_PackageText.xml</File>
+		</UpdateText>
+		<!-- New Frontier Pack 2 -->
+		<!-- New Frontier Pack 3 -->
+		<!-- New Frontier Pack 4 -->
+		<!-- New Frontier Pack 5 -->
+		<!-- New Frontier Pack 6 -->
+		<!-- SID MEIER'S CIVILIZATION VI - NEW FRONTIER PASS -->				
 	</FrontEndActions>
 	<!-- these are loaded when starting to play a game -->
 	<InGameActions>
@@ -615,7 +641,42 @@
 			</Properties>
 			<File>vi_VI_DLC/vi_VI_CivRoyaleScenario/CivRoyaleScenario_ConfigText.xml</File>
 			<File>vi_VI_DLC/vi_VI_CivRoyaleScenario/CivRoyaleScenario_Text.xml</File>
-		</UpdateText>				
+		</UpdateText>	
+		<!-- SID MEIER'S CIVILIZATION VI - NEW FRONTIER PASS -->
+		<!-- New Frontier Pack 1: MAYA & GRAN COLOMBIA PACK -->
+		<UpdateText id="InGame_GranColombiaMaya" criteria="GranColombiaMaya">
+			<Properties>
+				<LoadOrder>100</LoadOrder>
+			</Properties>
+			<File>vi_VI_DLC/vi_VI_GranColombia_Maya/GranColombia_Maya_AdvisorText_MODE.xml</File>
+			<File>vi_VI_DLC/vi_VI_GranColombia_Maya/GranColombia_Maya_CitizenNames_Text.xml</File>
+			<File>vi_VI_DLC/vi_VI_GranColombia_Maya/GranColombia_Maya_CityNames_Text.xml</File>
+			<File>vi_VI_DLC/vi_VI_GranColombia_Maya/GranColombia_Maya_Civilopedia_Text.xml</File>
+			<File>vi_VI_DLC/vi_VI_GranColombia_Maya/GranColombia_Maya_Civilopedia_Text_MODE.xml</File>
+			<File>vi_VI_DLC/vi_VI_GranColombia_Maya/GranColombia_Maya_ConfigText.xml</File>
+			<File>vi_VI_DLC/vi_VI_GranColombia_Maya/GranColombia_Maya_Diplomacy_Text.xml</File>
+			<File>vi_VI_DLC/vi_VI_GranColombia_Maya/GranColombia_Maya_FeaturesResourcesTerrains_Text.xml</File>
+			<File>vi_VI_DLC/vi_VI_GranColombia_Maya/GranColombia_Maya_Improvements_Text.xml</File>
+			<File>vi_VI_DLC/vi_VI_GranColombia_Maya/GranColombia_Maya_InGameText_MODE.xml</File>
+			<File>vi_VI_DLC/vi_VI_GranColombia_Maya/GranColombia_Maya_Leaders_Text.xml</File>
+			<File>vi_VI_DLC/vi_VI_GranColombia_Maya/GranColombia_Maya_NamedPlaces_Text.xml</File>
+			<File>vi_VI_DLC/vi_VI_GranColombia_Maya/GranColombia_Maya_Notifications_Text.xml</File>
+			<File>vi_VI_DLC/vi_VI_GranColombia_Maya/GranColombia_Maya_PackageText.xml</File>
+			<File>vi_VI_DLC/vi_VI_GranColombia_Maya/GranColombia_Maya_RandomEvents_Text.xml</File>
+			<File>vi_VI_DLC/vi_VI_GranColombia_Maya/GranColombia_Maya_Units_Text.xml</File>
+		</UpdateText>
+		<UpdateText id="InGame_GranColombiaMaya_MODE" criteria="GranColombiaMaya_Mode_Expansion2">
+			<Properties>
+				<LoadOrder>100</LoadOrder>
+			</Properties>
+			<File>vi_VI_DLC/vi_VI_GranColombia_Maya/GranColombia_Maya_Units_Text_MODE.xml</File>
+		</UpdateText>
+		<!-- New Frontier Pack 2 -->
+		<!-- New Frontier Pack 3 -->
+		<!-- New Frontier Pack 4 -->
+		<!-- New Frontier Pack 5 -->
+		<!-- New Frontier Pack 6 -->
+		<!-- SID MEIER'S CIVILIZATION VI - NEW FRONTIER PASS -->			
 	</InGameActions>
 	<!-- Mod Infomation Text -->
 	<LocalizedText>
@@ -882,5 +943,30 @@
 		<File>vi_VI_DLC/vi_VI_BlackDeathScenario/BlackDeathScenario_GameplayText.xml</File>
 		<File>vi_VI_DLC/vi_VI_CivRoyaleScenario/CivRoyaleScenario_ConfigText.xml</File>
 		<File>vi_VI_DLC/vi_VI_CivRoyaleScenario/CivRoyaleScenario_Text.xml</File>
+		<!-- SID MEIER'S CIVILIZATION VI - NEW FRONTIER PASS -->
+		<!-- New Frontier Pack 1: MAYA & GRAN COLOMBIA PACK -->
+		<File>vi_VI_DLC/vi_VI_GranColombia_Maya/GranColombia_Maya_AdvisorText_MODE.xml</File>
+		<File>vi_VI_DLC/vi_VI_GranColombia_Maya/GranColombia_Maya_CitizenNames_Text.xml</File>
+		<File>vi_VI_DLC/vi_VI_GranColombia_Maya/GranColombia_Maya_CityNames_Text.xml</File>
+		<File>vi_VI_DLC/vi_VI_GranColombia_Maya/GranColombia_Maya_Civilopedia_Text.xml</File>
+		<File>vi_VI_DLC/vi_VI_GranColombia_Maya/GranColombia_Maya_Civilopedia_Text_MODE.xml</File>
+		<File>vi_VI_DLC/vi_VI_GranColombia_Maya/GranColombia_Maya_ConfigText.xml</File>
+		<File>vi_VI_DLC/vi_VI_GranColombia_Maya/GranColombia_Maya_Diplomacy_Text.xml</File>
+		<File>vi_VI_DLC/vi_VI_GranColombia_Maya/GranColombia_Maya_FeaturesResourcesTerrains_Text.xml</File>
+		<File>vi_VI_DLC/vi_VI_GranColombia_Maya/GranColombia_Maya_Improvements_Text.xml</File>
+		<File>vi_VI_DLC/vi_VI_GranColombia_Maya/GranColombia_Maya_InGameText_MODE.xml</File>
+		<File>vi_VI_DLC/vi_VI_GranColombia_Maya/GranColombia_Maya_Leaders_Text.xml</File>
+		<File>vi_VI_DLC/vi_VI_GranColombia_Maya/GranColombia_Maya_NamedPlaces_Text.xml</File>
+		<File>vi_VI_DLC/vi_VI_GranColombia_Maya/GranColombia_Maya_Notifications_Text.xml</File>
+		<File>vi_VI_DLC/vi_VI_GranColombia_Maya/GranColombia_Maya_PackageText.xml</File>
+		<File>vi_VI_DLC/vi_VI_GranColombia_Maya/GranColombia_Maya_RandomEvents_Text.xml</File>
+		<File>vi_VI_DLC/vi_VI_GranColombia_Maya/GranColombia_Maya_Units_Text.xml</File>
+		<File>vi_VI_DLC/vi_VI_GranColombia_Maya/GranColombia_Maya_Units_Text_MODE.xml</File>
+		<!-- New Frontier Pack 2 -->
+		<!-- New Frontier Pack 3 -->
+		<!-- New Frontier Pack 4 -->
+		<!-- New Frontier Pack 5 -->
+		<!-- New Frontier Pack 6 -->
+		<!-- SID MEIER'S CIVILIZATION VI - NEW FRONTIER PASS -->
 	</Files>
 </Mod>
