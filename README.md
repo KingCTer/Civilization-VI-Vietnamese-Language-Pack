@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://civilization.com/">
-        <img src="https://raw.githubusercontent.com/KingCTer/Civilization-VI-Vietnamese-Language-Pack/master/CivilizationVI_GatheringStorm.png">
+        <img src="https://github.com/KingCTer/Civilization-VI-Vietnamese-Language-Pack/blob/master/gitcontent/CivilizationVI_GatheringStorm.png?raw=true">
     </a>
 </p>
 
@@ -28,3 +28,21 @@ Giải nén file ZIP vào thư mục `Mods`.
 Sau khi giải nén sẽ có cấu trúc như sau:
 
 ![InstallWithZIP](/gitcontent/InstallWithZIP.png)
+
+
+## Cài đặt bằng git và dòng lệnh (Git Bash trong Windows)
+
+Nếu bạn chưa cài đặt Git, thì hãy [Tải Git!](Https://git-scm.com/doad) (Có thể cài đặt với cài đặt mặc định.)
+
+1. Mở CMD (hoặc Git Bash)
+2. Điều hướng đến thư mục người dùng Civil 6: 
+
+        cd "Documents\My Games\Sid Meier's Civilization VI\Mods"
+
+3. Bây giờ Nhận gói ngôn ngữ này với lệnh:
+
+        git Clone https://github.com/KingCTer/Civilization-VI-Vietnamese-Language-Pack
+
+    Bằng cách đi tới thư mục `Civilization-VI-Vietnamese-Language-Pack`, bạn có thể cập nhật lên phiên bản mới nhất của gói ngôn ngữ bằng lệnh sau:
+
+        git pull
