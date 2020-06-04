@@ -15,7 +15,7 @@
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_CITY_CONVERTED">
 			<Text>Chúng ta đã Cải Giáo thành phố của họ</Text>
-		</Replace>	
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_CULTURE_BOMBED">
 			<Text>Chúng ta đã dội bom văn hóa vào một trong những thành phố của họ</Text>
 		</Replace>
@@ -103,6 +103,12 @@
 		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_OPEN_BORDERS">
 			<Text>Tự do đi lại</Text>
 		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_GAVE_OPEN_BORDERS">
+      		<Text>Bạn đã mở biên giới</Text>
+    	</Replace>
+    	<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_RECEIVED_OPEN_BORDERS">
+      		<Text>Bạn đã nhận được biên giới mở</Text>
+    	</Replace>
 		<Replace Language='en_US' Tag="LOC_DIPLO_MODIFIER_RESIDENT_EMBASSY">
 			<Text>Chúng ta thành lập đại sứ quán thường trú</Text>
 		</Replace>

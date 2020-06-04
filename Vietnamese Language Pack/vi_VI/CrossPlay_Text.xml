@@ -17,9 +17,9 @@
 		<Replace Language='en_US' Tag="LOC_MULTIPLAYER_CROSSPLAY_GAME_TT">
 			<Text>Chơi trò chơi nhiều người chơi trên internet với người dùng trên các nền tảng khác.</Text>
 		</Replace>
-    <Replace Language='en_US' Tag="LOC_MULTIPLAYER_CROSSPLAY_NEW_GAME_TT">
-      <Text>Chế độ nhiều người chơi mới: Chơi trò chơi nhiều người chơi trên internet với người dùng trên các nền tảng khác.</Text>
-    </Replace>
+    	<Replace Language='en_US' Tag="LOC_MULTIPLAYER_CROSSPLAY_NEW_GAME_TT">
+      		<Text>Chế độ nhiều người chơi mới: Chơi trò chơi nhiều người chơi trên internet với người dùng trên các nền tảng khác.</Text>
+    	</Replace>
 		<Replace Language='en_US' Tag="LOC_MULTIPLAYER_CROSSPLAY_GAME_OFFLINE_TT">
 			<Text>Các trò chơi PC Play hợp nhất không khả dụng trong khi các máy chủ của Unified Play đang ngoại tuyến.</Text>
 		</Replace>

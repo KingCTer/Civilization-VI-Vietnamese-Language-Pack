@@ -3,27 +3,48 @@
   <LocalizedText>
     <!-- Main menu text -->
     <Replace Language='en_US' Tag="LOC_BENCHMARK_GRAPHICS">
-      <Text>Graphics Benchmark</Text>
+      <Text>Đồ họa</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_BENCHMARK_EXP2_GRAPHICS">
+      <Text>Đồ họa Cơn bão ập đến</Text>
     </Replace>
     <Replace Language='en_US' Tag="LOC_BENCHMARK_AI">
-      <Text>AI Benchmark</Text>
+      <Text>AI</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_BENCHMARK_EXP2_AI">
+      <Text>AI Cơn bão ập đến</Text>
     </Replace>
     <Replace Language='en_US' Tag="LOC_BENCHMARK_GRAPHICS_TT">
-      <Text>Measure graphics performance on your computer</Text>
+      <Text>Đo hiệu năng đồ họa trên máy tính của bạn.</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_BENCHMARK_EXP2_GRAPHICS_TT">
+      <Text>Một điểm chuẩn để đo hiệu suất đồ họa trên máy tính của bạn.</Text>
     </Replace>
     <Replace Language='en_US' Tag="LOC_BENCHMARK_AI_TT">
-      <Text>Measure AI and turn-processing performance on your computer</Text>
+      <Text>Đo AI và hiệu suất xử lý lần lượt trên máy tính của bạn.</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_BENCHMARK_EXP2_AI_TT">
+      <Text>Một điểm chuẩn để đo AI và hiệu suất xử lý lần lượt trên máy tính của bạn.</Text>
+    </Replace>
+		<Replace Language='en_US' Tag="LOC_BENCHMARK_AI_TT_ERROR">
+			<Text>[COLOR_RED]Gói văn minh Aztec phải được bật để thực hiện điểm chuẩn này.[ENDCOLOR]</Text>
+		</Replace>
+    <Replace Language='en_US' Tag="LOC_BENCHMARK_EXP2_AI_TT_ERROR">
+      <Text>[COLOR_RED]Mở rộng Cơn bão ập đến phải được bật để thực hiện điểm chuẩn này.[ENDCOLOR]</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_BENCHMARK_EXP2_GRAPHICS_TT_ERROR">
+      <Text>[COLOR_RED]Mở rộng Cơn bão ập đến phải được bật để thực hiện điểm chuẩn này.[ENDCOLOR]</Text>
     </Replace>
 
     <!-- Benchmarking UI text -->
     <Replace Language='en_US' Tag="LOC_BENCHMARK_TIME">
-      <Text>Time:</Text>
+      <Text>Thời gian:</Text>
     </Replace>
     <Replace Language='en_US' Tag="LOC_BENCHMARK_TURN">
       <Text>Turn:</Text>
     </Replace>
     <Replace Language='en_US' Tag="LOC_BENCHMARK_AVG_TURN_TIME">
-      <Text>Average Turn Time:</Text>
+      <Text>Thời gian Turn trung bình:</Text>
     </Replace>
   </LocalizedText>
 </GameData>

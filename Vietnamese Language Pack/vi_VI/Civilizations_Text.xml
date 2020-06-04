@@ -11,6 +11,7 @@
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVILIZATION_BARBARIAN_DESCRIPTION">
 			<Text>Đế chế Man Di</Text>
+			<Plurality>2</Plurality>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVILIZATION_BRAZIL_DESCRIPTION">
 			<Text>Đế chế Brazil</Text>
@@ -138,83 +139,83 @@
 		</Replace>
 		<!-- Adjectives -->
 		<Replace Language='en_US' Tag="LOC_CIVILIZATION_AMERICA_ADJECTIVE">
-			<Text>American</Text>
+			<Text>Người Mỹ</Text>
 			<Gender>Masculine:an</Gender>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVILIZATION_ARABIA_ADJECTIVE">
-			<Text>Arabian</Text>
+			<Text>Người Ả Rập</Text>
 			<Gender>Masculine:an</Gender>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVILIZATION_BARBARIAN_ADJECTIVE">
-			<Text>Barbarian</Text>
+			<Text>Man rợ</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVILIZATION_BRAZIL_ADJECTIVE">
-			<Text>Brazilian</Text>
+			<Text>Người Brazil</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVILIZATION_CHINA_ADJECTIVE">
-			<Text>Chinese</Text>
+			<Text>Người Trung Quốc</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVILIZATION_EGYPT_ADJECTIVE">
-			<Text>Egyptian</Text>
+			<Text>Người Ai Cập</Text>
 			<Gender>Masculine:an</Gender>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVILIZATION_ENGLAND_ADJECTIVE">
-			<Text>English</Text>
+			<Text>Người Anh</Text>
 			<Gender>Masculine:an</Gender>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVILIZATION_FRANCE_ADJECTIVE">
-			<Text>French</Text>
+			<Text>Người Pháp</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVILIZATION_GERMANY_ADJECTIVE">
-			<Text>German</Text>
+			<Text>Người Đức</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVILIZATION_GREECE_ADJECTIVE">
-			<Text>Greek</Text>
+			<Text>Người Hy Lạp</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVILIZATION_INDIA_ADJECTIVE">
-			<Text>Indian</Text>
+			<Text>Người Ấn Độ</Text>
 			<Gender>Masculine:an</Gender>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVILIZATION_JAPAN_ADJECTIVE">
-			<Text>Japanese</Text>
+			<Text>Người Nhật</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVILIZATION_KONGO_ADJECTIVE">
-			<Text>Kongolese</Text>
+			<Text>Người Congo</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVILIZATION_NORWAY_ADJECTIVE">
-			<Text>Norwegian</Text>
+			<Text>Người Na Uy</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVILIZATION_ROME_ADJECTIVE">
-			<Text>Roman</Text>
+			<Text>Người Rome</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVILIZATION_RUSSIA_ADJECTIVE">
-			<Text>Russian</Text>
+			<Text>Người Nga</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVILIZATION_SCYTHIA_ADJECTIVE">
-			<Text>Scythian</Text>
+			<Text>Người Scyth</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVILIZATION_SPAIN_ADJECTIVE">
-			<Text>Spanish</Text>
+			<Text>Người Tây Ban Nha</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVILIZATION_SUMERIA_ADJECTIVE">
-			<Text>Sumerian</Text>
+			<Text>Người Sumer</Text>
 			<Gender>Masculine:an</Gender>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVILIZATION_AMSTERDAM_ADJECTIVE">
-			<Text>Amsterdamer</Text>
+			<Text>Người Amsterdam</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVILIZATION_BANDAR_BRUNEI_ADJECTIVE">
-			<Text>Bandar Bruneian</Text>
+			<Text>Ban-đa Xê-ri Bê-ga-oan</Text>
 			<Gender>Masculine:an</Gender>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVILIZATION_BRUSSELS_ADJECTIVE">
-			<Text>Brussels</Text>
+			<Text>Brúc-xen</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVILIZATION_BUENOS_AIRES_ADJECTIVE">
 			<Text>Buenos Aires</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVILIZATION_CARTHAGE_ADJECTIVE">
-			<Text>Carthaginian</Text>
+			<Text>Carthage cổ đại</Text>
 			<Gender>Masculine:an</Gender>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVILIZATION_GENEVA_ADJECTIVE">
@@ -224,20 +225,20 @@
 			<Text>Hattusa</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVILIZATION_HONG_KONG_ADJECTIVE">
-			<Text>Hongkongese</Text>
+			<Text>Người Hồng Kông</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVILIZATION_JAKARTA_ADJECTIVE">
 			<Text>Jakartan</Text>
 			<Gender>Masculine:an</Gender>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVILIZATION_JERUSALEM_ADJECTIVE">
-			<Text>Jerusalem</Text>
+			<Text>Giê-ru-xa-lem</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVILIZATION_KABUL_ADJECTIVE">
-			<Text>Kabul</Text>
+			<Text>Ka-bun</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVILIZATION_KANDY_ADJECTIVE">
-			<Text>Kandyan</Text>
+			<Text>Người Kandy</Text>
 			<Gender>Masculine:an</Gender>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVILIZATION_KUMASI_ADJECTIVE">

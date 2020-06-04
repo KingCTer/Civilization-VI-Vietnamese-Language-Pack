@@ -3,13 +3,13 @@
 	<LocalizedText>
 		<!-- Next Game button for CivRoyale endgame screen. -->
 		<Replace Language='en_US' Tag="LOC_GAME_MENU_QUICK_JOIN">
-			<Text>Next Game</Text>
+			<Text>Trò chơi tiếp theo</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_GAME_MENU_QUICK_JOIN_TOOLTIP">
-			<Text>Quick Join into a new Red Death game (Battle Royale)!</Text>
+			<Text>Tham gia nhanh vào một trò chơi Cái chết đỏ mới (Battle Royale)!</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_GAME_MENU_HOW_TO_PLAY">
-			<Text>How to play</Text>
+			<Text>Cách chơi</Text>
 		</Replace>	
 		
 		<!-- Do not put any more text in this file! -->

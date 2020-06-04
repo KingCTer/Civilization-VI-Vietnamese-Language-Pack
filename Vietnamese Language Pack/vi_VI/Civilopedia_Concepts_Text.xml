@@ -214,7 +214,7 @@
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_PEDIA_CONCEPTS_PAGE_CITIES_9_CHAPTER_CONTENT_PARA_8">
 			<Text>Nghệ sĩ làm việc trong khu nghệ thuật và cung cấp +2 [ICON_Culture] Văn minh.</Text>
-		</Replace>	
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_PEDIA_CONCEPTS_PAGEGROUP_WORLD_NAME">
 			<Text>Thế Giới</Text>
 		</Replace>
@@ -378,7 +378,7 @@
 			<Text>Địa hình có thể gây bất lợi cho trận chiến; hãy chắc chắn không chiến đấu trên vùng lũ và đầm lầy vì sẽ gây những tác động tiêu cực đến sức phòng thủ của bạn. Nếu thấy mình trên địa hình không thể phòng thủ, và cảm thấy mình không thể đánh bại quân địch trong trận chiến, có lẽ việc xây dựng một vài pháo đài sẽ giúp đẩy lùi quân địch. Luôn nhớ tấn công kẻ địch bằng cả hai cánh, đó là điểm yếu nhất và sẽ mang lại lợi thế rất lớn! Sử dụng lực lượng quân sự giàu kinh nghiệm cùng với sự bố trí hợp lý trên địa hình và sự có mặt của Đại Tướng Quân sẽ đảm bảo chiến thắng!</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_7_CHAPTER_CONTENT_PARA_4">
-			<Text>Flanking and Support bonuses: Outmaneuvering the enemy as well as making sure units in the field are supported by their counterparts is important in order to insure victory in the field. In Civilization VI we simulate this with the Flanking and Support bonuses. Once a player has completed the Military Tradition civic, their military is considered advanced enough in order to benefit from these bonuses.[NEWLINE][NEWLINE]Flanking: If an enemy melee unit is surrounded by 2 or more adjacent friendly melee units during an attack, it is considered flanked, granting a +2 combat bonus to the melee attacker for each additional flanking melee unit.[NEWLINE][NEWLINE]Support: When defending against an enemy melee attack, a defending unit can gain a +2 combat bonus for every adjacent friendly unit.</Text>
+			<Text>Phần thưởng sườn và hỗ trợ: Xuất sắc hơn kẻ thù cũng như đảm bảo các đơn vị trong lĩnh vực được hỗ trợ bởi các đối tác của họ là rất quan trọng để đảm bảo chiến thắng trong lĩnh vực này. Trong Civilization VI, chúng tôi mô phỏng điều này với phần thưởng Flanking và Support. Khi một người chơi đã hoàn thành công dân Truyền thống quân sự, quân đội của họ được coi là đủ tiến bộ để được hưởng lợi từ những phần thưởng này. , nó được coi là sườn, cấp phần thưởng chiến đấu +2 cho kẻ tấn công cận chiến cho mỗi đơn vị cận chiến bổ sung. [NEWLINE] [NEWLINE] mỗi đơn vị thân thiện liền kề.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_PEDIA_CONCEPTS_PAGE_COMBAT_8_CHAPTER_CONTENT_TITLE">
 			<Text>Kinh nghiệm và Huân chương</Text>
@@ -520,13 +520,13 @@
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_PEDIA_CONCEPTS_PAGE_CULTURE_5_CHAPTER_CONTENT_TITLE">
 			<Text>Đánh Bom Văn Hóa</Text>
-		</Replace>		
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_PEDIA_CONCEPTS_PAGE_CULTURE_5_CHAPTER_CONTENT_PARA_1">
 			<Text>Dội bom văn hoá là hành động cho phép giành quyền kiểm soát các vùng lãnh thổ từ người chơi khác và thêm chúng vào đế chế của mình, ngay cả khi thuộc sở hữu của người chơi khác. Để đạt được theo cách này bạn phải mở rộng thành phố của mình thêm 3 ô. Vùng lãnh thổ này bao gồm Đặc Khu hoặc Kỳ Quan không thuộc hành động Dội Bom Văn Hóa. Các Đặc Khu hoặc Kỳ Quan chưa hoàn thành sẽ được chuyển quyền sở hữu, nhưng công trình đang xây dựng này sẽ bị phá dỡ.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_PEDIA_CONCEPTS_PAGE_CULTURE_5_CHAPTER_CONTENT_PARA_2">
 			<Text>Dội bom văn hóa thường bị giới hạn bởi những khả năng đặc biệt của các nền văn minh, như Úc hoặc Ba Lan. Tham khảo mục này để biết thêm chi tiết về cách kích hoạt Dội bom văn hóa.</Text>
-		</Replace>		
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_PEDIA_CONCEPTS_PAGEGROUP_GOLD_NAME">
 			<Text>Vàng và Kinh tế</Text>
 		</Replace>
@@ -609,10 +609,10 @@
 			<Text>Thẩm giáo là một khả năng đặc biệt phải được mở khóa bằng Thẩm Tra của Tông đồ. Bạn chỉ cần áp dụng khả năng này một lần duy nhất; một khi bạn đã bắt đầu Thẩm Tra, nó sẽ không bao giờ kết thúc! Sau đó bạn có thể mua Thẩm Giáo ở các thành phố theo tôn giáo của các Tông tồ và đặt ra Thẩm Tra bằng [ICON_Faith] Đức Tin. Thẩm Giáo không giúp truyền bá tôn giáo tốt hơn, thay vì phải loại bỏ các tôn giáo khác trong một thành phố người dùng sở hữu. Họ có thể tham gia chiến đấu chống lại các đơn vị tôn giáo khác.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_PEDIA_CONCEPTS_PAGE_FAITH_6_CHAPTER_CONTENT_PARA_5">
-			<Text>Gurus serve as Religious support units, providing healing to the Religious units nearby. When it expends a healing charge, the Guru heals itself and all adjacent units of the same religion.</Text>
+			<Text>Đạo sư phục vụ như các đơn vị hỗ trợ tôn giáo, cung cấp sự chữa lành cho các đơn vị tôn giáo gần đó. Khi nó tiêu tốn một khoản phí chữa bệnh, Đạo sư tự chữa lành và tất cả các đơn vị lân cận của cùng một tôn giáo.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_PEDIA_CONCEPTS_PAGE_FAITH_6_CHAPTER_CONTENT_PARA_6">
-			<Text>Religion can also spread through [ICON_TradeRoute] Trade Routes. Whenever a [ICON_TradeRoute] Trade Route is created between two cities, there is an exchange of Religion between those two cities. The origin city has greater outgoing religious pressure, but there is still pressure that comes back from the endpoint city. This information will appear in the menu with the [ICON_TradeRoute] Trade Route yield when choosing where to send a Trader. </Text>
+			<Text>Tôn giáo cũng có thể lan truyền qua [ICON_TradeRoute] Đường buôn bán. Bất cứ khi nào một [ICON_TradeRoute] Tuyến thương mại được tạo ra giữa hai thành phố, có sự trao đổi tôn giáo giữa hai thành phố đó. Thành phố nguồn gốc có áp lực tôn giáo lớn hơn, nhưng vẫn có áp lực từ thành phố điểm cuối. Thông tin này sẽ xuất hiện trong menu với [ICON_TradeRoute] Lợi nhuận của Trade khi chọn nơi gửi Trader. </Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_PEDIA_CONCEPTS_PAGE_FAITH_7_CHAPTER_CONTENT_TITLE">
 			<Text>Chiến tranh Thần học</Text>
@@ -630,7 +630,7 @@
 			<Text>Đơn vị tôn giáo có thể chữa lành bất cứ thiệt hại nào bằng cách đứng gần hoặc ở trong một thánh địa của chính Tôn Giáo đấy.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_PEDIA_CONCEPTS_PAGE_FAITH_7_CHAPTER_CONTENT_PARA_5">
-			<Text>Religious units are also vulnerable to attack from combat units. Condemn Heretic is an action that combat units may take against them when on the same tile, and works similarly to plundering a Trade Route.</Text>
+			<Text>Các đơn vị tôn giáo cũng dễ bị tấn công từ các đơn vị chiến đấu. Lên án Heretic là một hành động mà các đơn vị chiến đấu có thể chống lại họ khi ở trên cùng một ô, và hoạt động tương tự như cướp bóc một Tuyến đường Thương mại.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_PEDIA_CONCEPTS_PAGEGROUP_DIPLO_NAME">
 			<Text>Ngoại Giao</Text>
@@ -723,19 +723,19 @@
 			<Text>Sau khi nghiên cứu hành chính Ngoại Thương, tính năng Tham Chiến sẽ được đề xuất giữa các người chơi mà đã nghiên cứu Ngoại thương. Nếu bạn đồng ý hoặc gửi yêu cầu tham chiến, bạn hoặc người chơi khác sẽ ngay lập tức gây chiến tranh với người chơi được chọn làm mục tiêu như trong thỏa thuận.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_15_CHAPTER_CONTENT_TITLE">
-			<Text>Territory</Text>
+			<Text>Lãnh thổ</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_15_CHAPTER_CONTENT_PARA_1">
-			<Text>Diplomatic Territory is divided into 3 types:</Text>
+			<Text>Lãnh thổ ngoại giao được chia thành 3 loại:</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_15_CHAPTER_CONTENT_PARA_2">
-			<Text>Friendly: Territory owned by your civilization. Friendly territory can also be established by becoming allies with a major civilization, or by becoming the Suzerain of a city-state. Units will heal faster in territory that is friendly to them, as well as take advantage of special abilities and policies associated with friendly territory. Units must be in friendly territory in order to be upgraded.</Text>
+			<Text>Thân thiện: Lãnh thổ thuộc sở hữu của nền văn minh của bạn. Lãnh thổ thân thiện cũng có thể được thiết lập bằng cách trở thành đồng minh với một nền văn minh lớn, hoặc bằng cách trở thành Suzerain của một quốc gia thành phố. Các đơn vị sẽ chữa lành nhanh hơn trong lãnh thổ thân thiện với họ, cũng như tận dụng các khả năng và chính sách đặc biệt liên quan đến lãnh thổ thân thiện. Các đơn vị phải ở trong lãnh thổ thân thiện để được nâng cấp.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_15_CHAPTER_CONTENT_PARA_3">
-			<Text>Neutral: Territory that is not currently owned by a civilization or city state. This territory may be claimed by a civilization or a city state, through expansion of city borders or by founding a new city there. With the exception of the Fort and Airstrip improvements, players are not allowed to construct items in neutral territory.</Text>
+			<Text>Trung lập: Lãnh thổ hiện không thuộc sở hữu của một nền văn minh hoặc quốc gia thành phố. Lãnh thổ này có thể được tuyên bố bởi một nền văn minh hoặc một quốc gia thành phố, thông qua việc mở rộng biên giới thành phố hoặc bằng cách thành lập một thành phố mới ở đó. Ngoại trừ các cải tiến của Fort và Airstrip, người chơi không được phép xây dựng các vật phẩm trong lãnh thổ trung lập.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_15_CHAPTER_CONTENT_PARA_4">
-			<Text>Rival: Territory that is owned by another civilization or city-state. Players cannot move into a rivalâ€™s territory without first establishing Open Borders with that civilization. Unit healing is lowest in rival territory.</Text>
+			<Text>Đối thủ: Lãnh thổ thuộc sở hữu của một nền văn minh hoặc quốc gia thành phố khác. Người chơi không thể di chuyển vào lãnh thổ đối thủ mà không cần thiết lập Biên giới mở với nền văn minh đó. Đơn vị chữa bệnh là thấp nhất trong lãnh thổ đối thủ.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_3_CHAPTER_CONTENT_TITLE">
 			<Text>Biện minh chiến tranh</Text>
@@ -774,7 +774,7 @@
 			<Text>Gián điệp không di chuyển giống như các đơn vị khác. Họ nhảy từ thành phố này đến thành phố khác bằng đường trên không, đường thủy, đường bộ hoặc đi bộ, mỗi kiểu mất một lượng thời gian riêng. Một khi được thiết lập tại một thành phố, gián điệp có thể được gửi đến một đặc khu cụ thể và bắt đầu nhiệm vụ. Các nhiệm vụ bao gồm đánh cắp các thành tựu công nghệ, tạo ra các đơn vị nổi dậy, hoặc đơn giản là tăng khả năng ngoại giao. Từng nhiệm vụ mất một khoảng thời gian nhất định, và sẽ có kết quả khác nhau. Gián điệp của bạn có thể bị giết hoặc bị bắt giữ, hoặc anh ta thất bại trong nhiệm vụ nhưng hoàn toàn không bị phát hiện, có thể không bị phát hiện cũng đã là thành công trong nhiệm vụ.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_PEDIA_CONCEPTS_PAGE_DIPLO_5_CHAPTER_CONTENT_PARA_3">
-			<Text>Every civilization can produce 5 Spies. Play as Catherine to earn the ability to produce 6.</Text>
+			<Text>Mỗi nền văn minh có thể sản xuất 5 điệp viên. Vào vai Catherine để kiếm được khả năng sản xuất 6.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_PEDIA_CONCEPTS_PAGEGROUP_CITYSTATES_NAME">
 			<Text>Thành phố tự trị</Text>
@@ -870,7 +870,7 @@
 			<Text>Trên đất liền, [ICON_TradeRoute] Tuyến đường thương mại có thể hoạt động trong phạm vi 15 ô. Khi người chơi nghiên cứu công nghệ cho phép lên tàu ra biển, Thương gia cũng có thể di chuyển trên nước. Trên nước thì phạm vi này là 30 ô. Nếu bạn có một [ICON_TradingPost] Trạm Thông Thương trong thành phố, Thương gia có thể nghỉ chân và cho phép đi đến vùng đất mới xa hơn. Nếu không họ phải dừng lại thành phố đó.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_PEDIA_CONCEPTS_PAGE_TRADE_3_CHAPTER_CONTENT_PARA_2">
-			<Text>Changing between land and water can only be done at a City Center or Harbor district, and the allowance does not carry over.</Text>
+			<Text>Thay đổi giữa đất và nước chỉ có thể được thực hiện tại Trung tâm thành phố hoặc quận Harbor, và trợ cấp không được thực hiện.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_PEDIA_CONCEPTS_PAGE_TRADE_4_CHAPTER_CONTENT_TITLE">
 			<Text>Trạm thông thương</Text>
@@ -879,7 +879,7 @@
 			<Text>Trạm thông thương giúp mở rộng mạng lưới thương mại và giúp sinh lợi hơn. Không chỉ giúp họ đến được các đích đến xa hơn, mà họ cũng cung cấp các điểm thưởng cho bất kỳ [ICON_TradeRoute] Tuyến đường thương mại họ đi qua (ngay cả khi đó không phải là đích đến). Khi người chơi sở hữu một trạm thông thương trong thành phố, và bất kỳ ai sở hữu thành phố đó, [ICON_TradeRoute] Tuyến đường thương mại sẽ “làm mới” điểm [ICON_Movement] Di chuyển của họ để họ tiếp tục đi đến các điểm đến kế tiếp. Trạm thông thương chỉ được đặt một lần ở thành phố nằm trên [ICON_TradeRoute] Tuyến đường thương mại hoặc thành phố nằm ở cuối tuyến đường, các trạm thông thương sẽ thuộc về người chơi sở hữu[ICON_TradeRoute] Tuyến đường thương mại.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_PEDIA_CONCEPTS_PAGE_TRADE_4_CHAPTER_CONTENT_PARA_2">
-			<Text>Your [ICON_TradeRoute] Trade Routes can “refuel” their [ICON_Movement] Movement range in any city that has one of your [ICON_TradingPost] Trading Posts, allowing them to reach further destinations. If the city belongs to another player, the [ICON_TradingPost] Trading Post also makes the [ICON_TradeRoute] Trade Route more valuable, providing +1 [ICON_Gold] Gold for its income.</Text>
+			<Text>Các tuyến giao dịch [ICON_TradeRoute] của bạn có thể cung cấp nhiên liệu cho phạm vi di chuyển [ICON_Movement] của họ ở bất kỳ thành phố nào có một trong các Tuyến giao dịch [ICON_TradingPost] của bạn, cho phép họ đến các điểm đến xa hơn. Nếu thành phố thuộc về người chơi khác, Tuyến giao dịch [ICON_TradingPost] cũng làm cho Tuyến giao dịch [ICON_TradeRoute] trở nên có giá trị hơn, cung cấp Vàng [ICON_Gold] cho thu nhập của nó.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_PEDIA_CONCEPTS_PAGE_TRADE_5_CHAPTER_CONTENT_TITLE">
 			<Text>Sản lượng của chủ tuyến đường thương mại</Text>
@@ -888,43 +888,43 @@
 			<Text>Một [ICON_TradeRoute] Tuyến đường thương mại cung cấp lợi nhuận mỗi lượt cho thành phố chính, chủ yếu trên các đặc khu nằm trên đường đi của nó. Ví dụ, giao thương với thành phố có Thánh Địa sẽ cung cấp [ICON_Faith] Đức Tin, và giao thương với một thành phố có Khu nghệ thuật sẽ cung cấp [ICON_Culture] Văn minh.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_PEDIA_CONCEPTS_PAGE_TRADE_5_CHAPTER_CONTENT_PARA_2">
-			<Text>It also gets yields based on the path it takes. If it passes through a [ICON_TradingPost] Trading Post you own in a foreign city, it is worth an additional 1 [ICON_Gold] Gold. Long paths which pass through several [ICON_TradingPost] Trading Posts are very valuable.</Text>
+			<Text>Nó cũng nhận được sản lượng dựa trên con đường nó đi. Nếu nó đi qua một Tuyến giao dịch [ICON_TradingPost] mà bạn sở hữu ở một thành phố nước ngoài, thì nó đáng giá thêm 1 [ICON_Gold] Vàng. Các đường dẫn dài đi qua một số [ICON_TradingPost] Tuyến giao dịch rất có giá trị.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_PEDIA_CONCEPTS_PAGE_TRADE_6_CHAPTER_CONTENT_TITLE">
-			<Text>Yields for Cities on Route</Text>
+			<Text>Sản lượng cho các thành phố trên tuyến</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_PEDIA_CONCEPTS_PAGE_TRADE_6_CHAPTER_CONTENT_PARA_1">
-			<Text>A City earns 1 [ICON_Gold] Gold per turn for every [ICON_TradeRoute] Trade Route belonging to another player that routes through its City Center.</Text>
+			<Text>Thành phố kiếm được 1 [ICON_Gold] Vàng mỗi lượt cho mỗi [ICON_TradeRoute] Tuyến giao dịch thuộc về một người chơi khác đi qua Trung tâm thành phố.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_PEDIA_CONCEPTS_PAGEGROUP_GOVT_NAME">
-			<Text>Governments and Policies</Text>
+			<Text>Chính phủ và chính sách</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_PEDIA_CONCEPTS_PAGE_GOVT_1_CHAPTER_CONTENT_TITLE">
-			<Text>Governments</Text>
+			<Text>Chính phủ</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_PEDIA_CONCEPTS_PAGE_GOVT_1_CHAPTER_CONTENT_PARA_1">
-			<Text>Governments allow you to customize your civilization to match your play style by offering different combinations of slots to elect different types of policies, as well as offering distinct bonuses.</Text>
+			<Text>Chính phủ cho phép bạn tùy chỉnh nền văn minh của mình để phù hợp với lối chơi của bạn bằng cách cung cấp các kết hợp vị trí khác nhau để chọn các loại chính sách khác nhau, cũng như cung cấp các phần thưởng riêng biệt.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_PEDIA_CONCEPTS_PAGE_GOVT_1_CHAPTER_CONTENT_PARA_2">
-			<Text>Unlocked through the Civics Tree, the available governments will change as you progress through time. In the beginning, you will have a simple government with only a handful of slots. But as you reach later eras, more slots in different combinations will be unlocked. On top of this, governments have their own special bonuses; the Theocracy government, for instance, will allow you to purchase land units with [ICON_Faith] Đức Tin and offers a discount on [ICON_Faith] Đức Tin purchases when active.</Text>
+			<Text>Được mở khóa thông qua Cây công dân, các chính phủ có sẵn sẽ thay đổi khi bạn tiến bộ theo thời gian. Ban đầu, bạn sẽ có một chính phủ đơn giản chỉ với một số ít vị trí. Nhưng khi bạn đạt đến thời đại sau này, nhiều vị trí trong các kết hợp khác nhau sẽ được mở khóa. Trên hết, các chính phủ có tiền thưởng đặc biệt của riêng họ; Chẳng hạn, chính phủ Thần quyền sẽ cho phép bạn mua các đơn vị đất đai với [ICON_Faith] Faith và giảm giá cho [ICON_Faith] Mua niềm tin khi hoạt động.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_PEDIA_CONCEPTS_PAGE_GOVT_1_CHAPTER_CONTENT_PARA_3">
-			<Text>Finally, all governments have Legacy bonuses based on how long that government was active within your empire. For example, though you may have moved past the Theocracy government, you will receive a Legacy bonus of [ICON_Faith] Đức Tin discounts based on how long that government was active in your empire’s history. You may switch your government at any time, but if you switch to a government you had adopted previously you will incur Anarchy. Anarchy lasts for 2 turns, plus 1 turn for each time you were previously in this government. Anarchy causes you to lose all player-level yields and government bonuses.</Text>
+			<Text>Cuối cùng, tất cả các chính phủ đều có tiền thưởng Di sản dựa trên thời gian chính phủ đó hoạt động trong đế chế của bạn. Ví dụ: mặc dù bạn có thể đã vượt qua chính phủ Thần quyền, bạn sẽ nhận được phần thưởng Di sản của [ICON_Faith] Giảm giá đức tin dựa trên thời gian chính phủ đó hoạt động trong lịch sử Đế chế của bạn. Bạn có thể chuyển đổi chính phủ của bạn bất cứ lúc nào. Nếu bạn chuyển sang một chính phủ được thông qua trước đó, bạn sẽ vào trạng thái Anarchy.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_PEDIA_CONCEPTS_PAGE_GOVT_2_CHAPTER_CONTENT_TITLE">
-			<Text>Policies</Text>
+			<Text>Chính sách</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_PEDIA_CONCEPTS_PAGE_GOVT_2_CHAPTER_CONTENT_PARA_1">
-			<Text>Policies have concrete effects for gameplay. Some increase your cities’ [ICON_Production] Sản phẩm, while others generate more wealth, and still others help create a more effective military. There are no right or wrong policy choices in the game, and one policy may be better for a given circumstance than other, or better suit your personal playing style. Try them out and see.  </Text>
+			<Text>Chính sách có hiệu ứng cụ thể cho trò chơi. Một số tăng thành phố của bạn Sản xuất [ICON_ sản xuất], trong khi những người khác tạo ra sự giàu có hơn, và những người khác giúp tạo ra một quân đội hiệu quả hơn. Không có lựa chọn chính sách đúng hay sai trong trò chơi và một chính sách có thể tốt hơn cho một trường hợp cụ thể so với trường hợp khác hoặc phù hợp hơn với phong cách chơi cá nhân của bạn. Hãy thử chúng và xem.  </Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_PEDIA_CONCEPTS_PAGE_GOVT_2_CHAPTER_CONTENT_PARA_2">
-			<Text>There are 4 types of policies, each of which may be slotted into a corresponding slot in a given government. Slotting these individual policies will give you the benefits described and enhance your game.  </Text>
+			<Text>Có 6 loại chính sách, mỗi loại chính sách có thể được đưa vào một vị trí tương ứng trong một chính phủ nhất định. Phân bổ các chính sách riêng lẻ này sẽ cung cấp cho bạn những lợi ích được mô tả và nâng cao trò chơi của bạn.  </Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_PEDIA_CONCEPTS_PAGE_GOVT_3_CHAPTER_CONTENT_TITLE">
-			<Text>Gaining Policies</Text>
+			<Text>Chính sách đạt được</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_PEDIA_CONCEPTS_PAGE_GOVT_3_CHAPTER_CONTENT_PARA_1">
-			<Text>You can choose to adopt policies once you have gained [ICON_Culture] Văn minh to unlock your first government. Policies will be unlocked as you progress through the Civics Tree, and changing your government will allow you to slot different combinations of policies to better suit your play style. Any time a new government or policy is unlocked from the Civics Tree, you will have the opportunity to reslot or change your government for free. Otherwise, there will be a cost to make these changes.</Text>
+			<Text>Bạn có thể chọn áp dụng các chính sách khi bạn đã đạt được [ICON_CARM] Văn minh để mở khóa chính phủ đầu tiên của bạn. Các chính sách sẽ được mở khóa khi bạn tiến bộ thông qua Cây công dân và việc thay đổi chính phủ của bạn sẽ cho phép bạn đưa ra các kết hợp chính sách khác nhau để phù hợp hơn với lối chơi của mình. Bất cứ khi nào một chính phủ hoặc chính sách mới được mở khóa từ Cây công dân, bạn sẽ có cơ hội gửi lại hoặc thay đổi chính phủ của mình miễn phí. Nếu không, sẽ có một chi phí để thực hiện những thay đổi này.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_PEDIA_CONCEPTS_PAGE_GOVT_4_CHAPTER_CONTENT_TITLE">
 			<Text>Các loại chính sách</Text>
@@ -975,7 +975,7 @@
 			<Text>Mỗi đặc khu, và các kiến trúc trong nó, cung cấp các điểm tương ứng với từng kiểu [ICON_GreatPerson] Vĩ nhân. Tuy mất nhiều thời gian nhưng đây là nguồn điểm ổn định. Các Đặc khu cũng cho phép thành phố sử dụng [ICON_Production] Sản phẩm cho các dự án, mà khi hoàn thành, sẽ cung cấp các điểm [ICON_GreatPerson] Vĩ nhân.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_PEDIA_CONCEPTS_PAGE_GREATPEOPLE_2_CHAPTER_CONTENT_PARA_3">
-			<Text>Players can also spend [ICON_Gold] Gold or [ICON_Faith] Faith to patronize a Great Person, earning that person instantly. The patronage cost is based on how many more [ICON_GreatPerson] Great Person points the player would need to recruit that person normally.</Text>
+			<Text>Người chơi cũng có thể dành [ICON_Gold] Vàng hoặc [ICON_Faith] Niềm tin để bảo trợ một Người vĩ đại, kiếm được người đó ngay lập tức. Chi phí bảo trợ dựa trên số lượng [ICON_GreatPerson] Great Person chỉ người chơi cần tuyển người đó bình thường.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_PEDIA_CONCEPTS_PAGE_GREATPEOPLE_3_CHAPTER_CONTENT_TITLE">
 			<Text>Sử dụng Vĩ Nhân</Text>
@@ -1032,7 +1032,7 @@
 			<Text>Đánh chặn</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_PEDIA_CONCEPTS_PAGE_AIRCOMBAT_5_CHAPTER_CONTENT_PARA_1">
-			<Text>Fighters can be deployed to a location on the map within range where they will patrol the adjacent plots.  If an air unit tries an air strike against a target within the range of an intercepting unit, the interceptor will fire on the attacker and do damage to it.[NEWLINE][NEWLINE]If an attacking aircraft enters the defensive radius of more than one patrolling aircraft, the highest strength aircraft is chosen to intercept. The remaining aircraft act in support of the defense by adding +5 to the strength of the main interceptor.[NEWLINE][NEWLINE]Once combat is resolved with any anti-air ground units and intercepting air units, if the attacking bomber survives, combat is then resolved with the original target. If a fighter is intercepted by another fighter on its way to a ground target, it is forced to only engage the enemy fighter and will not attack the ground target. Bombers do not have this restriction, and will continue to the target if they survives any defending interceptors and anti-air attacks.</Text>
+			<Text>Máy bay chiến đấu có thể được triển khai đến một vị trí trên bản đồ trong phạm vi mà chúng sẽ tuần tra các lô liền kề. Nếu một đơn vị không quân cố gắng không kích vào mục tiêu trong phạm vi của một đơn vị đánh chặn, kẻ đánh chặn sẽ bắn vào kẻ tấn công và gây sát thương cho nó. [NEWLINE] [NEWLINE] Nếu một máy bay tấn công đi vào bán kính phòng thủ nhiều hơn một máy bay tuần tra, máy bay cường độ cao nhất được chọn để đánh chặn. Các máy bay còn lại hành động hỗ trợ phòng thủ bằng cách thêm +5 vào sức mạnh của máy bay đánh chặn chính. [NEWLINE] [NEWLINE] Một khi chiến đấu được giải quyết với bất kỳ đơn vị phòng không mặt đất nào và chặn các đơn vị không quân, nếu máy bay ném bom tấn công sống sót, hãy chiến đấu sau đó được giải quyết với mục tiêu ban đầu. Nếu một máy bay chiến đấu bị chặn bởi một máy bay chiến đấu khác trên đường đến mục tiêu mặt đất, nó buộc phải chỉ giao chiến với kẻ thù và sẽ không tấn công mục tiêu mặt đất. Máy bay ném bom không có hạn chế này và sẽ tiếp tục nhắm mục tiêu nếu chúng sống sót sau bất kỳ cuộc đánh chặn phòng thủ và tấn công phòng không nào.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_PEDIA_CONCEPTS_PAGEGROUP_NUKES_NAME">
 			<Text>Vũ khí hạt nhân</Text>
@@ -1131,7 +1131,7 @@
 			<Text>TEAM DOMINATION VICTORY</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_PEDIA_CONCEPTS_PAGE_VICTORY_2_CHAPTER_CONTENT_PARA_4">
-			<Text>To win a team domination victory, all team members must control their own original [ICON_Capital] capitals while all other players do not.</Text>
+			<Text>Để giành chiến thắng thống trị đội, tất cả các thành viên trong đội phải kiểm soát thủ đô [ICON_Capital] ban đầu của chính họ trong khi tất cả những người chơi khác thì không.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_PEDIA_CONCEPTS_PAGE_VICTORY_3_CHAPTER_CONTENT_TITLE">
 			<Text>Chiến thắng khoa học</Text>
@@ -1164,7 +1164,7 @@
 			<Text>TEAM SCIENCE VICTORY</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_PEDIA_CONCEPTS_PAGE_VICTORY_3_CHAPTER_CONTENT_PARA_10">
-			<Text>To win a Team Science Victory, an individual team member needs to complete the standard Science Victory requirements.  Requirement completion is not shared.  Teammates are encouraged to cooperate towards a Team Science Victory using Team Shared Research.  See the Teams page.</Text>
+			<Text>Để giành được Chiến thắng Khoa học Đội, một thành viên trong nhóm cần hoàn thành các yêu cầu Tiêu chuẩn Khoa học Chiến thắng. Yêu cầu hoàn thành không được chia sẻ. Đồng đội được khuyến khích hợp tác hướng tới Chiến thắng Khoa học nhóm bằng cách sử dụng Nghiên cứu chia sẻ nhóm. Xem trang Đội.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_PEDIA_CONCEPTS_PAGE_VICTORY_4_CHAPTER_CONTENT_TITLE">
 			<Text>Chiến thắng văn minh</Text>
@@ -1179,7 +1179,7 @@
 			<Text>TEAM CULTURE VICTORY</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_PEDIA_CONCEPTS_PAGE_VICTORY_4_CHAPTER_CONTENT_PARA_4">
-			<Text>To win a Team Culture Victory, an individual team member's [ICON_Tourism] Visiting Tourists must exceed the [ICON_Tourism] Domestic Tourists of all non-team member civilizations.  [ICON_Tourism] Visiting Tourists are not shared between team members.</Text>
+			<Text>Để giành được Chiến thắng về Văn hóa Đội, Khách du lịch tham quan [ICON_Tourism] của một thành viên nhóm phải vượt quá [ICON_Tourism] Khách du lịch nội địa của tất cả các nền văn minh không phải là thành viên của nhóm. [ICON_Tourism] Khách du lịch tham quan không được chia sẻ giữa các thành viên trong nhóm.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_PEDIA_CONCEPTS_PAGE_VICTORY_5_CHAPTER_CONTENT_TITLE">
 			<Text>Chiến thắng tôn giáo</Text>
@@ -1194,7 +1194,7 @@
 			<Text>TEAM RELIGIOUS VICTORY</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_PEDIA_CONCEPTS_PAGE_VICTORY_5_CHAPTER_CONTENT_PARA_4">
-			<Text>To win a Team Religious Victory, Religions founded by the team must be the predominant Religion in every other civilization.  The dominate Religions can be of any combination as long as the Religions were all founded by team members.</Text>
+			<Text>Để giành được Chiến thắng Tôn giáo Đội, Các tôn giáo do nhóm thành lập phải là Tôn giáo chiếm ưu thế trong mọi nền văn minh khác. Các tôn giáo thống trị có thể là bất kỳ sự kết hợp nào miễn là các tôn giáo đều được thành lập bởi các thành viên trong nhóm.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_PEDIA_CONCEPTS_PAGE_VICTORY_6_CHAPTER_CONTENT_TITLE">
 			<Text>Chiến thắng điểm</Text>
@@ -1206,37 +1206,37 @@
 			<Text>TEAM SCORE VICTORY</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_PEDIA_CONCEPTS_PAGE_VICTORY_6_CHAPTER_CONTENT_PARA_3">
-			<Text>When playing as a team, score is calculated as a summation of the team members' individual civilization scores.</Text>
+			<Text>Khi chơi theo đội, điểm số được tính bằng tổng điểm của nền văn minh cá nhân của các thành viên trong đội.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_PEDIA_CONCEPTS_PAGEGROUP_TEAMS_NAME">
 			<Text>Teams</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_PEDIA_CONCEPTS_PAGE_TEAMS_1_CHAPTER_CONTENT_TITLE">
-			<Text>Introduction</Text>
+			<Text>Giới thiệu</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_PEDIA_CONCEPTS_PAGE_TEAMS_1_CHAPTER_CONTENT_PARA_1">
-			<Text>Prior to starting a game, individual civilizations can be placed on teams for a more cooperative experience.  When playing as a team, team members share a variety of gameplay benefits and can win the game collectively.</Text>
+			<Text>Trước khi bắt đầu một trò chơi, các nền văn minh cá nhân có thể được đặt vào các đội để có trải nghiệm hợp tác hơn. Khi chơi theo đội, các thành viên trong nhóm chia sẻ nhiều lợi ích chơi trò chơi và có thể giành chiến thắng chung cuộc.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_PEDIA_CONCEPTS_PAGE_TEAMS_1_CHAPTER_CONTENT_PARA_2">
-			<Text>Team play is currently available in standard multiplayer games and most multiplayer scenarios.</Text>
+			<Text>Chơi theo đội hiện có sẵn trong các trò chơi nhiều người chơi tiêu chuẩn và hầu hết các tình huống nhiều người chơi.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_PEDIA_CONCEPTS_PAGE_TEAMS_2_CHAPTER_CONTENT_TITLE">
 			<Text>Team Diplomatic Relations</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_PEDIA_CONCEPTS_PAGE_TEAMS_2_CHAPTER_CONTENT_PARA_1">
-			<Text>Team members share a permanent diplomatic alliance.  All the standard alliance rules and benefits apply.</Text>
+			<Text>Các thành viên trong nhóm chia sẻ một liên minh ngoại giao thường trực. Tất cả các quy tắc liên minh tiêu chuẩn và lợi ích áp dụng.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_PEDIA_CONCEPTS_PAGE_TEAMS_3_CHAPTER_CONTENT_TITLE">
 			<Text>Team Shared War</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_PEDIA_CONCEPTS_PAGE_TEAMS_3_CHAPTER_CONTENT_PARA_1">
-			<Text>Team members share war status.  If a team member declares war, the declared Casus Belli conditions apply to all team members.</Text>
+			<Text>Tthành viên eam chia sẻ tình trạng chiến tranh. Nếu một thành viên trong nhóm tuyên bố chiến tranh, các điều kiện Casus Belli được tuyên bố sẽ áp dụng cho tất cả các thành viên trong nhóm.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_PEDIA_CONCEPTS_PAGE_TEAMS_4_CHAPTER_CONTENT_TITLE">
 			<Text>Team Shared Research</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_PEDIA_CONCEPTS_PAGE_TEAMS_4_CHAPTER_CONTENT_PARA_1">
-			<Text>Team members partially share research progress. Team members receive a technology boost for every technology possessed by a team member.</Text>
+			<Text>Các thành viên trong nhóm chia sẻ một phần tiến độ nghiên cứu. Các thành viên trong nhóm nhận được sự thúc đẩy công nghệ cho mọi công nghệ được sở hữu bởi một thành viên trong nhóm.</Text>
 		</Replace>
 	</LocalizedText>
 </GameData>

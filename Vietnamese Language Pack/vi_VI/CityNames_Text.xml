@@ -3,7 +3,7 @@
 <GameData>
 	<LocalizedText>
 		<Replace Language='en_US' Tag="LOC_CITY_NAME_BLANK">
-			<Text>City</Text>
+			<Text>Thành phố</Text>
 		</Replace>
 		<!--America-->
 		<Replace Language='en_US' Tag="LOC_CITY_NAME_WASHINGTON">
@@ -343,10 +343,10 @@
 			<Text>Thành Đô</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CITY_NAME_JIAODONG">
-			<Text>Jiaodong</Text>
+			<Text>Sơn Đông</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CITY_NAME_CHANGSHA">
-			<Text>Changsha</Text>
+			<Text>Trường Sa</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CITY_NAME_LONGXI">
 			<Text>Lũng Tây</Text>
@@ -373,10 +373,10 @@
 			<Text>Xiurong</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CITY_NAME_CHEN">
-			<Text>Chen</Text>
+			<Text>Thâm Quyến</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CITY_NAME_XINGZHOU">
-			<Text>Xingzhou</Text>
+			<Text>Tứ Xuyên</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CITY_NAME_QUXIAN">
 			<Text>Cừ</Text>
@@ -539,7 +539,7 @@
 		<Replace Language='en_US' Tag="LOC_CITY_NAME_PLYMOUTH">
 			<Text>Plymouth</Text>
 		</Replace>
-		<Replace Language='en_US' Tag="LOC_CITY_NAME_NEWCASTLE">
+		<Replace Language='en_US' Tag="LOC_CITY_NAME_NEWCASTLE_UPON_TYNE">
 			<Text>Newcastle upon Tyne</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CITY_NAME_BRADFORD">

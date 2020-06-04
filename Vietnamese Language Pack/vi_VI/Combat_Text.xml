@@ -2,18 +2,6 @@
 <!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
 <GameData>
 	<LocalizedText>
-		<Replace Language='en_US' Tag="LOC_GRAMMAR_A_AN">
-			<Text>{1: gender *:an?an {1}; *:the?the {1}; *:no_article?{1}; other?a {1};}</Text>
-		</Replace>
-		<Replace Language='en_US' Tag="LOC_GRAMMAR_A_AN_WITH_ICON">
-			<Text>{1: gender *:an?an {2} {1}; *:the?the {2} {1}; *:no_article?{2} {1}; other?a {2} {1};}</Text>
-		</Replace>
-		<Replace Language='en_US' Tag="LOC_GRAMMAR_UPPER_A_AN">
-			<Text>{1: gender *:an?An {1}; *:the?The {1}; *:no_article?{1}; other?A {1};}</Text>
-		</Replace>
-		<Replace Language='en_US' Tag="LOC_GRAMMAR_UPPER_A_AN_WITH_ICON">
-			<Text>{1: gender *:an?An {2} {1}; *:the?The {2} {1}; *:no_article?{2} {1}; other?A {2} {1};}</Text>
-		</Replace>
 		<Replace Language='en_US' Tag="LOC_CITY_MAKE_RANGED_ATTACK">
 			<Text>Tấn công với thành phố của bạn!</Text>
 		</Replace>
@@ -209,7 +197,7 @@
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_RAZE_CITY_KEEP_EXPLANATION_TRADED">
 			<Text>Giữ thành phố này trong đế chế của bạn.</Text>
-		</Replace>		
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_RAZE_CITY_KEEP_WARMONGER_EXPLANATION">
 			<Text>Hình phạt chiến tranh của việc giữ thành phố bây giờ là: {1_WarmongerLevel}[NEWLINE][NEWLINE]Hình phạt này sẽ được trả lại hoặc x2 vào cuối chiến tranh tùy thuộc vào việc bạn có giữ thành phố đó hay không.</Text>
 		</Replace>

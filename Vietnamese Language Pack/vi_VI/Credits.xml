@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by matthew beach (Firaxis Games) -->
 <GameData>
 	<LocalizedText>
 		<Replace Language='en_US' Tag="LOC_CREDITS_BACK_BUTTON">
-			<Text>Back</Text>
-		</Replace>		
+			<Text>Trở lại</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CREDITS_BASEGAME">
+			<Text>Trò chơi</Text>
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_CREDITS">
 			<Text>
 [3]CREDITS
@@ -15,6 +17,7 @@
 [1]Sid Meier’s Civilization VI
 
 [2]VIỆT HÓA
+[3]King CTer
 [3]Xuân Khánh
 [3]Phúc Võ
 [3]LuongYeuH
@@ -23,7 +26,7 @@
 [3]...
 
 
-[2]TEAM LEADERSHIP
+[2]NHÓM LÃNH ĐẠO
 [3]Lead Designer
 [4]Ed Beach
 
@@ -44,7 +47,7 @@
 
 [i]TechTree_Meter_Done
 
-[2]DESIGN TEAM
+[2]NHÓM THIẾT KẾ
 
 [3]Lead Designer
 [4]Ed Beach
@@ -60,7 +63,7 @@
 
 [i]TechTree_Meter_Done
 
-[2]PRODUCTION TEAM
+[2]ĐỘI SẢN XUẤT
 
 [3]Senior Producer
 [4]Dennis Shirk
@@ -82,16 +85,21 @@
 
 [3]Additional Writing
 [4]Steffen Drees
+[4]Angelica Fuchs
 [4]Carlton Harrison
 [4]Dominic "Bull" Mancuso
 [4]Timothy McCracken
 [4]Peter Murray
 [4]Maurice Suckling
+[4]Charles Webb
 [4]Scott Wittbecker
+
+[3]Special Thanks
+[4]Andrew Alan Johnson
 
 [i]TechTree_Meter_Done
 
-[2]PROGRAMMING TEAM
+[2]NHÓM LẬP TRÌNH
 
 [3]Lead Engineer
 [4]Ken Grey
@@ -162,7 +170,7 @@
 
 [i]TechTree_Meter_Done
 
-[2]ART TEAM
+[2]NHÓM NGHỆ THUẬT
 
 [3]Art Director
 [4]Brian Busatti
@@ -280,7 +288,7 @@
 
 [i]TechTree_Meter_Done
 
-[2]AUDIO
+[2]ÂM THANH
 
 [3]Lead Audio Designer
 [4]Roland Rizzo
@@ -315,7 +323,7 @@
 
 [i]TechTree_Meter_Done
 
-[2]Performers
+[2]Biểu diễn
 
 [3]Prague FILMharmonic Orchestra
 [4]Orchestra conducted by Andy Brick
@@ -533,6 +541,13 @@
 [3]Special Thanks
 [4]Joanne Miller
 [4]Beth Petrovich
+
+[i]TechTree_Meter_Done
+
+[2]MODDING CONTRIBUTIONS
+
+[3]UI
+[4]Bradd Szonye - Map Tacks
 
 [i]TechTree_Meter_Done
 
@@ -776,7 +791,7 @@
 
 [i]TechTree_Meter_Done
 
-[2]my2K TEAM 
+[2]2K Account TEAM 
 
 [3]Lead Software Engineer
 [4]Adam Lupinacci
@@ -1048,12 +1063,15 @@
 [3]Project Lead
 [4]Jason Kolesa
 
+[3]Associate Lead
+[4]Alexander Coffin
+[4]Joshua Vance
+
 [3]Support Leads
 [4]Chris Adams
 [4]Nathan Bell
 
 [3]Senior Testers
-[4]Joshua Vance
 [4]Kayla Mager
 [4]Raynard Moreno
 [4]Brian Reiss
@@ -1079,14 +1097,17 @@
 [4]Kelsey Sissons
 [4]Kiwawn Pearson
 [4]Kristian Garcia
+[4]Kyle Kraemer
 [4]Kyle Lucero
 [4]Mason Gagliardo
 [4]Matthew Finck
 [4]Michael Galo
+[4]Michelle Foley
 [4]Miguel Garcia
 [4]Monique Davis
 [4]Natasha Francois
 [4]Nicholas Giebel
+[4]Nick Bigler
 [4]Preston Chapin-Soriano
 [4]Richard Pugh
 [4]Robb Bryant
@@ -1099,6 +1120,7 @@
 [4]Vanessa Derhousoff
 [4]Victoria Cormier
 [4]Wenceslao Concina
+[4]Wesley Bolin
 [4]Zachary Little
 
 [3]IT Manager 
@@ -1556,7 +1578,7 @@
 [3]Gandhi
 [4]Pawan Shukla
 
-[3]Hardrada
+[3]Harald Hardrada
 [4]Atli Rafn Sigurdsson
 
 [3]Pericles
@@ -1570,6 +1592,24 @@
 
 [3]Jadwiga
 [4]Julia Jakubowska
+
+[3]John Curtin
+[4]Simon Burke
+
+[3]Alexander
+[4]Dimitris Papadopoulos
+
+[3]Cyrus
+[4]Arian Risbaf
+
+[3]Amanitore
+[4]Fatma Abd Elsalam
+
+[3]Gitarja
+[4]Dyah Febriani
+
+[3]Jayavarman VII
+[4]Heng Sarorn
 
 [2]French Cast
 

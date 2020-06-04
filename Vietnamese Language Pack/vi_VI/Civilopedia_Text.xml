@@ -76,12 +76,12 @@
 			<Text>Hướng phát triển</Text>
 		</Replace>
 
-    <!-- Common chapter header -->
-    <Replace Language='en_US' Tag="LOC_PEDIA_PAGE_CHAPTER_INTRO_TITLE">
-      <Text>Giới thiệu</Text>
-    </Replace>
+    	<!-- Common chapter header -->
+    	<Replace Language='en_US' Tag="LOC_PEDIA_PAGE_CHAPTER_INTRO_TITLE">
+      		<Text>Giới thiệu</Text>
+   		 </Replace>
 
-    <!-- Page group text>-->
+    	<!-- Page group text>-->
 		<Replace Language='en_US' Tag="LOC_PEDIA_CITYSTATES_PAGEGROUP_CULTURAL_NAME">
 			<Text>Văn hóa</Text>
 		</Replace>

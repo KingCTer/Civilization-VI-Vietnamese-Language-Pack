@@ -40,9 +40,9 @@
 		<Replace Language='en_US' Tag="LOC_DIPLOMACY_INTEL_TO_LOWER_RELATIONSHIP">
 			<Text>Để [COLOR_Civ6Red]hạ thấp[ENDCOLOR] mối quan hệ:[NEWLINE]</Text>
 		</Replace>
-		<Replace Language='en_US' Tag="LOC_DIPLOMACY_INTEL_AGREEMENTS">
-			<Text>Hiệp định:</Text>
-		</Replace>
+    <Replace Language='en_US' Tag="LOC_DIPLOMACY_INTEL_AGREEMENTS">
+      <Text>Hiệp định:</Text>
+    </Replace>
 		<Replace Language='en_US' Tag="LOC_DIPLOMACY_INTEL_ADGENDAS">
 			<Text>Chương trình nghị sự:</Text>
 		</Replace>
@@ -77,7 +77,7 @@
       <Text>CŨ HƠN</Text>
     </Replace>
     <Replace Language='en_US' Tag="LOC_DIPLOMACY_GOSSIP_ITEM_NONE">
-      <Text>không</Text>
+      <Text>Không</Text>
     </Replace>
     <Replace Language='en_US' Tag="LOC_DIPLOMACY_GOSSIP_ITEM_COUNT">
       <Text>+{1_Value} tin mới</Text>
@@ -128,11 +128,23 @@
     <Replace Language='en_US' Tag="LOC_DIPLOMACY_ADVISOR_NEGATIVE_AGENDA">
       <Text>Chống lại một trong những chương trình nghị sự của họ.</Text>
     </Replace>
+    <Replace Language='en_US' Tag="LOC_DIPLOMACY_ADVISOR_DENOUNCE_THEM">
+      <Text>Tố cáo lãnh đạo này.</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_DIPLOMACY_ADVISOR_REJECT_PROMISE">
+      <Text>Không thực hiện được một lời hứa mà họ đã yêu cầu.</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_DIPLOMACY_ADVISOR_BREAK_PROMISE">
+      <Text>Phá vỡ một lời hứa bạn đã thực hiện với họ.</Text>
+    </Replace>
     <Replace Language='en_US' Tag="LOC_DIPLOMACY_ADVISOR_DENOUNCE_FRIEND">
       <Text>Lăng mạ một người bạn của {1_Civ}.</Text>
     </Replace>
 	<Replace Language='en_US' Tag="LOC_DIPLOMACY_ADVISOR_DECLARE_FRIENDSHIP">
       <Text>Tuyên bố tình hữu nghị với kẻ địch của {1_Civ}.</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_DIPLOMACY_DRAG_BUTTON_TOOLTIP">
+      <Text>Kéo để thay đổi kích thước.</Text>
     </Replace>
 	<Replace Language='en_US' Tag="LOC_DIPLOMACY_MAKE_DEAL_EQUITABLE">
       <Text>Tạo thỏa thuận công bằng.</Text>
@@ -151,10 +163,10 @@
     </Replace>
 	<Replace Language='en_US' Tag="LOC_DIPLOMACY_INTEL_GOSSIP_COLON_TOOLTIP">
       <Text>Xem tất cả tin tức kiếm được cũng như kết quả của mức độ truy cập của bạn.</Text>
-    </Replace>
-	<Replace Language='en_US' Tag="LOC_DIPLOMACY_INTEL_OVERVIEW_COLON_TOOLTIP">
+  </Replace>
+  <Replace Language='en_US' Tag="LOC_DIPLOMACY_INTEL_OVERVIEW_COLON_TOOLTIP">
       <Text>Tổng quan</Text>
-	</Replace>
+  </Replace>
 	<Replace Language='en_US' Tag="LOC_DIPLOMACY_INTEL_ACCESS_LEVEL_COLON_TOOLTIP">
       <Text>Các thông tin quan trọng được phân làm nhiều mức độ. Cần phải có khả năng truy cập để có thể lấy được tin tức.</Text>
     </Replace>
@@ -167,7 +179,7 @@
 	<Replace Language='en_US' Tag="LOC_DIPLOMACY_INTEL_GOVERNMENT_TOOLTIP">
       <Text>Chính phủ hiện hành của nền văn minh này.</Text>
     </Replace>
-	<Replace Language='en_US' Tag="LOC_DIPLOMACY_OVERVIEW_GOSSIP">
+    <Replace Language='en_US' Tag="LOC_DIPLOMACY_OVERVIEW_GOSSIP">
       <Text>Tin tức</Text>
     </Replace>
     <Replace Language='en_US' Tag="LOC_DIPLOMACY_OVERVIEW_ACCESS_LEVEL">
@@ -200,18 +212,17 @@
     <Replace Language='en_US' Tag="LOC_DIPLOMACY_INTEL_REPORT_RELATIONSHIP">
       <Text>Báo cáo : Mối quan hệ</Text>
     </Replace>
-	
-	<Replace Language='en_US' Tag="LOC_GOVERNMENT_ANARCHY_TURNS">
-		<Text>Vô chính phủ ({1_num} lượt)</Text>
+    <Replace Language='en_US' Tag="LOC_GOVERNMENT_ANARCHY_TURNS">
+      <Text>Vô chính phủ ({1_num} lượt)</Text>
     </Replace>
-	<Replace Language='en_US' Tag="LOC_DIPLOMACY_GOVERNMENT_NONE">
-		<Text>Không</Text>
-	</Replace>
-	<Replace Language='en_US' Tag="LOC_DIPLOMACY_DENOUNCED_TOOLTIP">
-		<Text>{1_CivName} đã tố cáo những hành động tà ác của {2_CivName}.</Text>
-	</Replace>
-	<Replace Language='en_US' Tag="LOC_DIPLOMACY_DECLARED_FRIENDSHIP_TOOLTIP">
-		<Text>{1_CivName} đã tuyên bố tình bạn của họ với {2_CivName}. [Hơn {3_RemainingTurns} lượt]</Text>
-	</Replace>
+    <Replace Language='en_US' Tag="LOC_DIPLOMACY_GOVERNMENT_NONE">
+		  <Text>Không</Text>
+	  </Replace>
+	  <Replace Language='en_US' Tag="LOC_DIPLOMACY_DENOUNCED_TOOLTIP">
+		  <Text>{1_CivName} đã tố cáo những hành động tà ác của {2_CivName}.</Text>
+	  </Replace>
+	  <Replace Language='en_US' Tag="LOC_DIPLOMACY_DECLARED_FRIENDSHIP_TOOLTIP">
+		  <Text>{1_CivName} đã tuyên bố tình bạn của họ với {2_CivName}. [Hơn {3_RemainingTurns} lượt]</Text>
+	  </Replace>
   </LocalizedText>
 </GameData>

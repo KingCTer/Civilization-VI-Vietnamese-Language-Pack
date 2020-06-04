@@ -20,7 +20,7 @@
 		<Replace Language='en_US' Tag="LOC_BUILDING_FACTORY_DESCRIPTION">
 			<Text>Thưởng cho tất cả thành phố trung tâm trong vòng 6 ô. Thưởng này chỉ áp dụng một lần cho một thành phố, và các bản sao của công trình đó trong vòng 6 ô của một thành phố trung tâm không cung cấp thưởng thêm.</Text>
 		</Replace>
-		<Replace Language='en_US' Tag="LOC_BUILDING_FILM_STUDIO_DESCRIPTION"> 
+		<Replace Language='en_US' Tag="LOC_BUILDING_FILM_STUDIO_DESCRIPTION">
 			<Text>Kiến trúc đặc biệt của Mỹ. +100% thúc đẩy [ICON_Tourism] Du lịch từ thành phố này đối với nền văn minh khác trong thời hiện đại.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_BUILDING_HANGAR_DESCRIPTION">
@@ -181,5 +181,5 @@
 		<Replace Language='en_US' Tag="LOC_BUILDING_THEMINGBONUS_FULL_MUSEUM">
 			<Text>x2 thưởng chủ đề khi bảo tàng hết chỗ.</Text>
 		</Replace>
-  </LocalizedText>
+	</LocalizedText>
 </GameData>

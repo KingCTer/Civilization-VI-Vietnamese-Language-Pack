@@ -11,6 +11,12 @@
 		<Replace Language='en_US' Tag="LOC_DIPLOMACY_DEAL_FOR_TURNS">
 			<Text>CHO {1_number} LƯỢT</Text>
 		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_DEAL_FOR_30_TURNS">
+      		<Text>CHO 30 LƯỢT</Text>
+    	</Replace>
+    	<Replace Language='en_US' Tag="LOC_DIPLOMACY_DEAL_ONE_TIME">
+      		<Text>MỘT LẦN NỮA</Text>
+    	</Replace>
 		<Replace Language='en_US' Tag="LOC_DIPLOMACY_DEAL_LUXURY_RESOURCES">
 			<Text>TÀI NGUYÊN QUÝ</Text>
 		</Replace>
@@ -55,6 +61,12 @@
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_DIPLOMACY_DEAL_REFUSE_DEMAND">
 			<Text>Từ chối yêu cầu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_DEAL_ACCEPT_GIFT">
+			<Text>Nhận quà</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLOMACY_DEAL_REFUSE_GIFT">
+			<Text>Từ chối Quà tặng</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_DIPLOMACY_DEAL_GIFT_DEAL">
 			<Text>Tặng quà</Text>
@@ -141,6 +153,15 @@
 		<Replace Language='en_US' Tag="LOC_DEAL_CITY_DISTRICTS_TOOLTIP">
 			<Text>Đặc Khu:</Text>
 		</Replace>
+		<Replace Language='en_US' Tag="LOC_DEAL_CITY_RESOURCES_TOOLTIP">
+			<Text>Tài nguyên:</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DEAL_CITY_GREAT_WORKS_TOOLTIP">
+			<Text>Những công việc tuyệt vời:</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DEAL_ITEM_TRANSFERRED_WITH_CITY_TOOLTIP">
+			<Text>Được thử thách với {1_CityName}</Text>
+		</Replace>		
 		<!-- Diplomactic Actions -->
 		<Replace Language='en_US' Tag="LOC_DIPLOACTION_RESIDENT_EMBASSY_NAME">
 			<Text>Đại sứ quán</Text>
@@ -300,46 +321,88 @@
 			<Text>Chọn Công Nghệ</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_DIPLOMACY_DEAL_SELECT_ALLIANCE">
-		  <Text>Chọn Đồng Minh</Text>
+			<Text>Chọn Đồng Minh</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_DIPLOMACY_DEAL_SELECT_TARGET">
-		  <Text>Chọn Mục Tiêu</Text>
+		  	<Text>Chọn Mục Tiêu</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_DIPLOMACY_DEAL_HOW_MANY">
-		  <Text>Bao nhiêu</Text>
+		  	<Text>Bao nhiêu</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_DIPLO_DEAL_LEADER_GIFT">
-		  <Text>Ta sẽ nhận lấy món quà này</Text>
+		  	<Text>Ta sẽ nhận lấy món quà này</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_DIPLO_DEAL_LEADER_GIFT_EFFECT">
-		  <Text>Món quà sẽ cải thiện mối quan hệ</Text>
+		  	<Text>Món quà sẽ cải thiện mối quan hệ</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_DIPLO_DEAL_LEADER_DEMAND">
-		  <Text>Ta thích thương lượng.</Text>
+		  	<Text>Ta thích thương lượng.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_DIPLO_DEAL_LEADER_DEMAND_EFFECT">
-		  <Text>Tạo thỏa thuận sẽ làm tổn hại mối quan hệ</Text>
+		  	<Text>Tạo thỏa thuận sẽ làm tổn hại mối quan hệ</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_DIPLO_DEAL_UNFAIR">
-		  <Text>Ta không thể chấp nhận, đây là một thỏa thuận không công bằng.</Text>
+		  	<Text>Ta không thể chấp nhận, đây là một thỏa thuận không công bằng.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_DIPLO_DEAL_WHAT_WOULD_YOU_GIVE_ME_TOOLTIP">
-		  <Text>Hỏi lãnh đạo này muốn thêm gì vào lời đề nghị.[NEWLINE]Nó sẽ chỉ thêm những thứ để cân bằng thỏa thuận đôi bên.</Text>
+		  	<Text>Hỏi lãnh đạo này muốn thêm gì vào lời đề nghị.[NEWLINE]Nó sẽ chỉ thêm những thứ để cân bằng thỏa thuận đôi bên.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_DIPLO_DEAL_UNACCEPTABLE_DEAL">
-		  <Text>Không thể chấp nhận đề nghị này trong bất kỳ trường hợp nào.</Text>
+		  	<Text>Không thể chấp nhận đề nghị này trong bất kỳ trường hợp nào.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_DIPLO_DEAL_UNACCEPTABLE_ITEM_TOOLTIP">
-		  <Text>Chặn thỏa thuận</Text>
+		  	<Text>Chặn thỏa thuận</Text>
 		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DEAL_REMOVE_ITEM">
+      		<Text>Xóa item khỏi thỏa thuận</Text>
+    	</Replace>
 		<Replace Language='en_US' Tag="LOC_DIPLO_DEAL_LEADER_EQUALIZE_SUCCEEDED">
-			<Text>How about this?</Text>
+			<Text>Còn cái này thì sao?</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_DIPLO_DEAL_LEADER_EQUALIZE_FAILED">
-			<Text>I'm not willing to trade that</Text>
+			<Text>Tôi không sẵn sàng đánh đổi điều đó</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_DIPLO_DEAL_LEADER_GIFT_EQUALIZE_FAILED">
-			<Text>I have nothing I'm willing to trade for that</Text>
+			<Text>Tôi không có gì tôi sẵn sàng đánh đổi điều đó</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DEAL_LEADER_TRADE_REFUSED_FRIENDLY_1">
+			<Text>Có lẽ trong tương lai chúng ta sẽ tìm thấy một thỏa thuận dễ chịu?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DEAL_LEADER_TRADE_REFUSED_FRIENDLY_2">
+			<Text>Co thể luc khac?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DEAL_LEADER_TRADE_REFUSED_FRIENDLY_3">
+			<Text>Tôi ngạc nhiên khi chúng tôi không thể đi đến một thỏa thuận.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DEAL_LEADER_TRADE_REFUSED_NEUTRAL_1">
+			<Text>Thật là xấu hổ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DEAL_LEADER_TRADE_REFUSED_NEUTRAL_2">
+			<Text>Tôi không dám đề nghị cao hơn nữa.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DEAL_LEADER_TRADE_REFUSED_NEUTRAL_3">
+			<Text>Thật đáng tiếc biết bao.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DEAL_LEADER_TRADE_REFUSED_AGGRESSIVE_1">
+			<Text>Kho báu nào tốt nếu bạn không sử dụng nó?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DEAL_LEADER_TRADE_REFUSED_AGGRESSIVE_2">
+			<Text>Bằng cách này hay cách khác, bạn sẽ cho tôi những gì tôi muốn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DEAL_LEADER_TRADE_REFUSED_AGGRESSIVE_3">
+			<Text>Tôi chấp nhận lời từ chối của bạn - ngay bây giờ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DEAL_EXPAND_CATEGORY">
+			<Text>Mở rộng danh mục thỏa thuận.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DEAL_COLLAPSE_CATEGORY">
+			<Text>Sụp đổ hạng mục thỏa thuận.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DEAL_EXPAND_CITY_INFO">
+			<Text>Mở rộng thông tin thành phố.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DEAL_COLLAPSE_CITY_INFO">
+			<Text>Thu gọn thông tin thành phố.</Text>
 		</Replace>
 	</LocalizedText>
 </GameData>
