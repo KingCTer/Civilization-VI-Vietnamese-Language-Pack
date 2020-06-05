@@ -335,7 +335,7 @@
 			<Text>Thành phố này +{Amount} Sức Hấp Dẫn cho mỗi ô đất sở hữu.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_GREATPERSON_EXTRA_REGIONAL_BUILDING_RANGE">
-			<Text>Các tòa nhà trong Đặc Khu đạt xa hơn {Amount} {Amount : plural 1?ô; other?ô;}.</Text>
+			<Text>Các kiến trúc trong Đặc Khu đạt xa hơn {Amount} {Amount : plural 1?ô; other?ô;}.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_GREATPERSON_EXTRA_REGIONAL_BUILDING_PRODUCTION">
 			<Text>Các kiến trúc trong Đặc Khu này +{Amount} [ICON_Production] Sản phẩm.</Text>

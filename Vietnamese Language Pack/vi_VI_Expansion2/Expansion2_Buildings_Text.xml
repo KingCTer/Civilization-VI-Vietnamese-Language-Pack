@@ -84,13 +84,13 @@
 		</Replace>
 		<!-- Other balance changes -->
 		<Replace Language='en_US' Tag="LOC_BUILDING_BIG_BEN_DESCRIPTION">
-			<Text>+1 Economic policy slot.  +50% [ICON_Gold] Gold. [NEWLINE][NEWLINE]Must be built next to a River adjacent to a Commercial Hub district with a Bank.</Text>
+			<Text>+1 Economic policy slot.  +50% [ICON_Gold] Gold.[NEWLINE][NEWLINE]Must be built next to a River adjacent to a Commercial Hub district with a Bank.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_BUILDING_MAHABODHI_TEMPLE_EXPANSION2_DESCRIPTION">
 			<Text>+2 Diplomatic Victory Points and grants 2 Apostles when built.[NEWLINE][NEWLINE]Must be built on Woods adjacent to a Holy Site district with a Temple, and you must have founded a Religion.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_BUILDING_STATUE_LIBERTY_EXPANSION2_DESCRIPTION">
-			<Text>+4 Diplomatic Victory Points when built. All your cities within 6 tiles are always 100% Loyal. [NEWLINE][NEWLINE]Must be built on the Coast, adjacent to land and a Harbor district.</Text>
+			<Text>+4 Diplomatic Victory Points when built. All your cities within 6 tiles are always 100% Loyal.[NEWLINE][NEWLINE]Must be built on the Coast, adjacent to land and a Harbor district.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_BUILDING_POTALA_PALACE_EXPANSION2_DESCRIPTION">
 			<Text>+1 Diplomatic policy slot.  +1 Diplomatic Victory point.[NEWLINE][NEWLINE]Must be built on a Hill adjacent to a Mountain.</Text>

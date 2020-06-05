@@ -38,718 +38,718 @@
 			<Text>“Thung lũng Yosmite, với tôi, luôn luôn là một buổi bình minh, một kỳ quan lấp lánh ánh vàng và xanh lá trong một dinh thự rộng bằng đá.”[NEWLINE]– Ansel Adams</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_POTTERY_QUOTE_1">
-			<Text>“Không ai làm ướt đất sét rồi bỏ đi cả, làm như thể là nó sẽ có cơ hội trở thành những viên gạch một cách may mắn vậy.” [NEWLINE]- Plutarch</Text>
+			<Text>“Không ai làm ướt đất sét rồi bỏ đi cả, làm như thể là nó sẽ có cơ hội trở thành những viên gạch một cách may mắn vậy.”[NEWLINE]- Plutarch</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_POTTERY_QUOTE_2">
-			<Text>“Tôi nghĩ đất sét sẽ rất hạnh phúc trong bàn tay một người thợ giỏi.” [NEWLINE]– Janet Fitch</Text>
+			<Text>“Tôi nghĩ đất sét sẽ rất hạnh phúc trong bàn tay một người thợ giỏi.”[NEWLINE]– Janet Fitch</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_ANIMAL_HUSBANDRY_QUOTE_1">
-			<Text>"Nếu không có con chó nào trên Thiên Đàng, thì khi tôi chết tôi muốn đến nơi nào mà chúng đã tới." [NEWLINE]- Will Rogers</Text>
+			<Text>"Nếu không có con chó nào trên Thiên Đàng, thì khi tôi chết tôi muốn đến nơi nào mà chúng đã tới."[NEWLINE]- Will Rogers</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_ANIMAL_HUSBANDRY_QUOTE_2">
-			<Text>“Tôi thích lũ lợn. Đám chó thì trông cậy vào ta. Lũ mèo thì coi thường ta. Chỉ có lũ lợn đối xử với ta bình đẳng.” [NEWLINE]- Winston S. Churchill</Text>
+			<Text>“Tôi thích lũ lợn. Đám chó thì trông cậy vào ta. Lũ mèo thì coi thường ta. Chỉ có lũ lợn đối xử với ta bình đẳng.”[NEWLINE]- Winston S. Churchill</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_MINING_QUOTE_1">
-			<Text>"Ai xứng đáng được tán dương hơn người vợ của một thợ mỏ than.” [NEWLINE]– Merle Travis</Text>
+			<Text>"Ai xứng đáng được tán dương hơn người vợ của một thợ mỏ than.”[NEWLINE]– Merle Travis</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_MINING_QUOTE_2">
-			<Text>"Khi bạn nhận ra mình đang kẹt trong một cái hố, đừng đào nữa." [NEWLINE]- Will Rogers</Text>
+			<Text>"Khi bạn nhận ra mình đang kẹt trong một cái hố, đừng đào nữa."[NEWLINE]- Will Rogers</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_SAILING_QUOTE_1">
-			<Text>"Tàu lớn thì có thể ra khơi xa hơn nữa, nhưng thuyền nhỏ thì chỉ nên giữ gần bờ thôi." [NEWLINE]-Benjamin Franklin</Text>
+			<Text>"Tàu lớn thì có thể ra khơi xa hơn nữa, nhưng thuyền nhỏ thì chỉ nên giữ gần bờ thôi."[NEWLINE]-Benjamin Franklin</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_SAILING_QUOTE_2">
-			<Text>"Cuộc sống trên bờ không hẳn là vô vị đối với tôi. Nhưng sống trên biển vẫn tốt hơn." [NEWLINE]– Sir Francis Drake</Text>
+			<Text>"Cuộc sống trên bờ không hẳn là vô vị đối với tôi. Nhưng sống trên biển vẫn tốt hơn."[NEWLINE]– Sir Francis Drake</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_ASTROLOGY_QUOTE_1">
-			<Text>"Tôi không tin vào Chiêm Tinh Học; Tôi thuộc cung Nhân Mã và chúng tôi rất không dễ bị thuyết phục." [NEWLINE]– Arthur C. Clarke</Text>
+			<Text>"Tôi không tin vào Chiêm Tinh Học; Tôi thuộc cung Nhân Mã và chúng tôi rất không dễ bị thuyết phục."[NEWLINE]– Arthur C. Clarke</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_ASTROLOGY_QUOTE_2">
-			<Text>"Một nhà vật lý học mà không biết gì về chiêm tinh thì đừng nên tự gọi mình là một nhà vật lý học." [NEWLINE]- Hippocrates</Text>
+			<Text>"Một nhà vật lý học mà không biết gì về chiêm tinh thì đừng nên tự gọi mình là một nhà vật lý học."[NEWLINE]- Hippocrates</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_IRRIGATION_QUOTE_1">
-			<Text>"Hàng nghìn người đã sống mà không cần tình yêu, nhưng không một ai sống mà không cần nước." [NEWLINE]-W. H. Auden</Text>
+			<Text>"Hàng nghìn người đã sống mà không cần tình yêu, nhưng không một ai sống mà không cần nước."[NEWLINE]-W. H. Auden</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_IRRIGATION_QUOTE_2">
-			<Text>“Một người đủ bản lĩnh để chèo lái lâm nghiệp hay thuỷ lợi cho một đất nước không hề ít vinh dự hơn người đã chinh phục được nó.” [NEWLINE]– Sir John Thomson</Text>
+			<Text>“Một người đủ bản lĩnh để chèo lái lâm nghiệp hay thuỷ lợi cho một đất nước không hề ít vinh dự hơn người đã chinh phục được nó.”[NEWLINE]– Sir John Thomson</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_ARCHERY_QUOTE_1">
-			<Text>"Tôi bắn một mũi tên lên trời, nó rơi xuống mặt đất, tôi không biết nó ở đâu." [NEWLINE]– Henry Wadsworth Longfellow</Text>
+			<Text>"Tôi bắn một mũi tên lên trời, nó rơi xuống mặt đất, tôi không biết nó ở đâu."[NEWLINE]– Henry Wadsworth Longfellow</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_ARCHERY_QUOTE_2">
-			<Text>"Cầu cho lũ quỷ dữ cảm thấy lo sợ khi mũi tên của bạn đang trên đường đến mục tiêu." [NEWLINE]– George Carlin</Text>
+			<Text>"Cầu cho lũ quỷ dữ cảm thấy lo sợ khi mũi tên của bạn đang trên đường đến mục tiêu."[NEWLINE]– George Carlin</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_WRITING_QUOTE_1">
-			<Text>"Viết lách nghĩa là chia sẻ. Nó là nhu cầu thiết yếu của con người khi muốn chia sẻ mọi thứ - suy nghĩ, ý tưởng, ý kiến." [NEWLINE]– Paulo Coelho</Text>
+			<Text>"Viết lách nghĩa là chia sẻ. Nó là nhu cầu thiết yếu của con người khi muốn chia sẻ mọi thứ - suy nghĩ, ý tưởng, ý kiến."[NEWLINE]– Paulo Coelho</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_WRITING_QUOTE_2">
-			<Text>"Viết rất dễ. Tất cả những gì bạn cần làm là gạch bỏ những từ sai." [NEWLINE]-Mark Twain</Text>
+			<Text>"Viết rất dễ. Tất cả những gì bạn cần làm là gạch bỏ những từ sai."[NEWLINE]-Mark Twain</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_MASONRY_QUOTE_1">
-			<Text>"Mỗi người chúng ta đang khắc một viên đá, dựng một cây cột, hoặc cắt một miếng kính màu trong công trường của một thứ gì đó to lớn hơn cả bản thân chúng ta." [NEWLINE]– Adrienne Clarkson</Text>
+			<Text>"Mỗi người chúng ta đang khắc một viên đá, dựng một cây cột, hoặc cắt một miếng kính màu trong công trường của một thứ gì đó to lớn hơn cả bản thân chúng ta."[NEWLINE]– Adrienne Clarkson</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_MASONRY_QUOTE_2">
-			<Text>"Khi chiến tranh đang lật đổ những bức tượng, và những cuộc đánh lộn ra khỏi tầm kiểm soát." [NEWLINE]– William Shakespeare</Text>
+			<Text>"Khi chiến tranh đang lật đổ những bức tượng, và những cuộc đánh lộn ra khỏi tầm kiểm soát."[NEWLINE]– William Shakespeare</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_BRONZE_WORKING_QUOTE_1">
-			<Text>"Đồng thì phản chiếu hình dáng, rượu thì phản chiếu tinh thần." [NEWLINE]– Aeschylus</Text>
+			<Text>"Đồng thì phản chiếu hình dáng, rượu thì phản chiếu tinh thần."[NEWLINE]– Aeschylus</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_BRONZE_WORKING_QUOTE_2">
-			<Text>"Tôi cũng khá hứng thú trong việc tạo ra những di sản trường tồn...vì đồng thau sẽ tồn tại hàng nghìn năm." [NEWLINE]- Richard MacDonald</Text>
+			<Text>"Tôi cũng khá hứng thú trong việc tạo ra những di sản trường tồn...vì đồng thau sẽ tồn tại hàng nghìn năm."[NEWLINE]- Richard MacDonald</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_THE_WHEEL_QUOTE_1">
-			<Text>"Đôi khi bánh xe xoay rất chậm, nhưng nó vẫn xoay." [NEWLINE]– Lorne Michaels</Text>
+			<Text>"Đôi khi bánh xe xoay rất chậm, nhưng nó vẫn xoay."[NEWLINE]– Lorne Michaels</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_THE_WHEEL_QUOTE_2">
-			<Text>"Đừng sáng chết một cái bánh xe khác, đơn giản chỉ cần căn chỉnh lại nó." [NEWLINE]– Anthony D’Angelo</Text>
+			<Text>"Đừng sáng chết một cái bánh xe khác, đơn giản chỉ cần căn chỉnh lại nó."[NEWLINE]– Anthony D’Angelo</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_CELESTIAL_NAVIGATION_QUOTE_1">
-			<Text>"Và tất những gì tôi yêu cầu là một con tàu cột buồm và một ngôi sao để dẫn đường cho cô ấy." [NEWLINE]– John Masefield</Text>
+			<Text>"Và tất những gì tôi yêu cầu là một con tàu cột buồm và một ngôi sao để dẫn đường cho cô ấy."[NEWLINE]– John Masefield</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_CELESTIAL_NAVIGATION_QUOTE_2">
-			<Text>"Hãy đặt sự theo đuổi của bạn trên những vì sao, không phải ánh đèn của ngọn hải đăng." [NEWLINE]– Omar Bradley</Text>
+			<Text>"Hãy đặt sự theo đuổi của bạn trên những vì sao, không phải ánh đèn của ngọn hải đăng."[NEWLINE]– Omar Bradley</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_CURRENCY_QUOTE_1">
-			<Text>"Giàu có không phải có nhiều của cải, mà là có ít mong muốn." [NEWLINE]- Epictetus</Text>
+			<Text>"Giàu có không phải có nhiều của cải, mà là có ít mong muốn."[NEWLINE]- Epictetus</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_CURRENCY_QUOTE_2">
-			<Text>"Tiền, nếu nó không đem lại hạnh phúc cho bạn, chí ít cũng giúp bạn buồn rầu trong thoải mái." [NEWLINE] – Helen Gurley Brown</Text>
+			<Text>"Tiền, nếu nó không đem lại hạnh phúc cho bạn, chí ít cũng giúp bạn buồn rầu trong thoải mái."[NEWLINE]– Helen Gurley Brown</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_HORSEBACK_RIDING_QUOTE_1">
-			<Text>"Không có thời gian nào trong cuộc sống lãng phí như là lúc trên yên xe." [NEWLINE]– Winston Churchill</Text>
+			<Text>"Không có thời gian nào trong cuộc sống lãng phí như là lúc trên yên xe."[NEWLINE]– Winston Churchill</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_HORSEBACK_RIDING_QUOTE_2">
-			<Text>"Một người đàn ông trên lưng ngựa thì tinh thần cũng như thể chất lớn hơn một người chân trần." [NEWLINE]– John Steinbeck</Text>
+			<Text>"Một người đàn ông trên lưng ngựa thì tinh thần cũng như thể chất lớn hơn một người chân trần."[NEWLINE]– John Steinbeck</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_IRON_WORKING_QUOTE_1">
-			<Text>"Chúa trời đã tạo ra chúng ta từ sắt. Sau đó ngài đốt lửa lên và rèn một vài người trong chúng ta thành thép." [NEWLINE]– Marie Osmond</Text>
+			<Text>"Chúa trời đã tạo ra chúng ta từ sắt. Sau đó ngài đốt lửa lên và rèn một vài người trong chúng ta thành thép."[NEWLINE]– Marie Osmond</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_IRON_WORKING_QUOTE_2">
-			<Text>"Cái gì cũng có giới hạn của nó - sắt thép không thể tôi luyện để trở thành vàng." [NEWLINE]– Mark Twain</Text>
+			<Text>"Cái gì cũng có giới hạn của nó - sắt thép không thể tôi luyện để trở thành vàng."[NEWLINE]– Mark Twain</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_SHIPBUILDING_QUOTE_1">
-			<Text>"Tôi không thể tưởng tượng bất kỳ điều kiện gì khiến con tàu bị đắm... Đóng tàu hiện đại đã đi xa hơn." [NEWLINE]– Capt. E.J. Smith, RMS Titanic</Text>
+			<Text>"Tôi không thể tưởng tượng bất kỳ điều kiện gì khiến con tàu bị đắm... Đóng tàu hiện đại đã đi xa hơn."[NEWLINE]– Capt. E.J. Smith, RMS Titanic</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_SHIPBUILDING_QUOTE_2">
-			<Text>"Khoảng cách giữa một người thủy thủ và sự bất tử chỉ bằng một tấm ván." [NEWLINE] – Thomas Gibbons</Text>
+			<Text>"Khoảng cách giữa một người thủy thủ và sự bất tử chỉ bằng một tấm ván."[NEWLINE]– Thomas Gibbons</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_MATHEMATICS_QUOTE_1">
-			<Text>"Không có toán học, bạn không thể làm được gì. Mọi thứ xung quanh bạn đều là toán học. Mọi thứ xung quanh bạn đều là những con số." [NEWLINE]– Shakuntala Devi</Text>
+			<Text>"Không có toán học, bạn không thể làm được gì. Mọi thứ xung quanh bạn đều là toán học. Mọi thứ xung quanh bạn đều là những con số."[NEWLINE]– Shakuntala Devi</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_MATHEMATICS_QUOTE_2">
-			<Text>"Nếu tôi có cơ hội được học lại từ đầu, tôi sẽ nghe lời chỉ bảo của Plato và bắt đầu với toán học." [NEWLINE]– Galileo Galilei</Text>
+			<Text>"Nếu tôi có cơ hội được học lại từ đầu, tôi sẽ nghe lời chỉ bảo của Plato và bắt đầu với toán học."[NEWLINE]– Galileo Galilei</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_CONSTRUCTION_QUOTE_1">
-			<Text>"Sáng tạo bằng trái tim; xây dựng bằng tâm trí." [NEWLINE]– Criss Jami</Text>
+			<Text>"Sáng tạo bằng trái tim; xây dựng bằng tâm trí."[NEWLINE]– Criss Jami</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_CONSTRUCTION_QUOTE_2">
-			<Text>"Những khối sáng tạo nên vũ trụ là lửa, nước, đá sỏi, và nhựa dẻo." [NEWLINE]– Dave Barry</Text>
+			<Text>"Những khối sáng tạo nên vũ trụ là lửa, nước, đá sỏi, và nhựa dẻo."[NEWLINE]– Dave Barry</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_ENGINEERING_QUOTE_1">
-			<Text>"Phép thuật đối với một người là kỹ thuật đối với người kia." [NEWLINE]– Robert Heinlein</Text>
+			<Text>"Phép thuật đối với một người là kỹ thuật đối với người kia."[NEWLINE]– Robert Heinlein</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_ENGINEERING_QUOTE_2">
-			<Text>"Một người bình thường tin sằng cái gì không hư, không sửa. Kĩ sư cho rằng cái gì không hư, thì nó chưa đủ những tính năng cần thiết." [NEWLINE]– Scott Adams</Text>
+			<Text>"Một người bình thường tin sằng cái gì không hư, không sửa. Kĩ sư cho rằng cái gì không hư, thì nó chưa đủ những tính năng cần thiết."[NEWLINE]– Scott Adams</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_MILITARY_TACTICS_QUOTE_1">
-			<Text>"Chiến thuật nghĩa là làm những gì bạn có thể với những gì bạn có." [NEWLINE]– Saul Alinsky</Text>
+			<Text>"Chiến thuật nghĩa là làm những gì bạn có thể với những gì bạn có."[NEWLINE]– Saul Alinsky</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_MILITARY_TACTICS_QUOTE_2">
-			<Text>"Chiến lược cần sự suy nghĩ; chiến thuật cần sự quan sát." [NEWLINE]– Max Euwe</Text>
+			<Text>"Chiến lược cần sự suy nghĩ; chiến thuật cần sự quan sát."[NEWLINE]– Max Euwe</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_APPRENTICESHIP_QUOTE_1">
-			<Text>"Chúng ta đều là những tên học việc trong một công việc thủ công mà không ai có thể trở thành bậc thầy." [NEWLINE]– Ernest Hemingway</Text>
+			<Text>"Chúng ta đều là những tên học việc trong một công việc thủ công mà không ai có thể trở thành bậc thầy."[NEWLINE]– Ernest Hemingway</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_APPRENTICESHIP_QUOTE_2">
-			<Text>"Thật không dễ dàng để đào tạo một người học việc. Hai thằng đệ của tôi là điển hình và hay khó chịu." [NEWLINE]– Lemony Snicket</Text>
+			<Text>"Thật không dễ dàng để đào tạo một người học việc. Hai thằng đệ của tôi là điển hình và hay khó chịu."[NEWLINE]– Lemony Snicket</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_STIRRUPS_QUOTE_1">
-			<Text>"Một vài phát minh cực kỳ đơn giản giống như bàn đạp ngựa, nhưng một vài thì lại là chất xúc tác ảnh hưởng đến lịch sử." [NEWLINE]– Lynn White Jr.</Text>
+			<Text>"Một vài phát minh cực kỳ đơn giản giống như bàn đạp ngựa, nhưng một vài thì lại là chất xúc tác ảnh hưởng đến lịch sử."[NEWLINE]– Lynn White Jr.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_STIRRUPS_QUOTE_2">
-			<Text>“Dù cho gần như giữa bàn đạp và đất mẹ, chỉ cần con thành tâm cầu tha thứ, con vẫn sẽ được khoan dung.” [NEWLINE]– William Camden</Text>
+			<Text>“Dù cho gần như giữa bàn đạp và đất mẹ, chỉ cần con thành tâm cầu tha thứ, con vẫn sẽ được khoan dung.”[NEWLINE]– William Camden</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_MACHINERY_QUOTE_1">
-			<Text>"Tôi tưởng tượng cả thế giới là một cỗ máy khổng lồ. Máy móc thì không bao giờ cần bất kỳ phụ tùng thay thế nào, bạn biết đấy. Đi kèm theo chúng là một khoản tiền khổng lồ mà chúng cần." [NEWLINE]– Hugo Cabret</Text>
+			<Text>"Tôi tưởng tượng cả thế giới là một cỗ máy khổng lồ. Máy móc thì không bao giờ cần bất kỳ phụ tùng thay thế nào, bạn biết đấy. Đi kèm theo chúng là một khoản tiền khổng lồ mà chúng cần."[NEWLINE]– Hugo Cabret</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_MACHINERY_QUOTE_2">
-			<Text>"Hãy nhớ con người cũng có thể bị hỏng hóc, không phải chỉ có máy móc mới bị." [NEWLINE]– Gregory Benford</Text>
+			<Text>"Hãy nhớ con người cũng có thể bị hỏng hóc, không phải chỉ có máy móc mới bị."[NEWLINE]– Gregory Benford</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_EDUCATION_QUOTE_1">
-			<Text>"Mục đích của giáo dục là thay thế một cái đầu rỗng bằng một lý trí ham học hỏi." [NEWLINE]– Malcolm Forbes</Text>
+			<Text>"Mục đích của giáo dục là thay thế một cái đầu rỗng bằng một lý trí ham học hỏi."[NEWLINE]– Malcolm Forbes</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_EDUCATION_QUOTE_2">
-			<Text>"Dấu hiệu của người có học là việc có thể tận hưởng một tư tưởng mà không cần phải đồng ý với nó." [NEWLINE]- Aristotle</Text>
+			<Text>"Dấu hiệu của người có học là việc có thể tận hưởng một tư tưởng mà không cần phải đồng ý với nó."[NEWLINE]- Aristotle</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_MILITARY_ENGINEERING_QUOTE_1">
-			<Text>"Phá hủy - Xây dựng - Chiến đấu." [NEWLINE]– Motto of the U.S. 16th Engineer Brigade</Text>
+			<Text>"Phá hủy - Xây dựng - Chiến đấu."[NEWLINE]– Motto of the U.S. 16th Engineer Brigade</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_MILITARY_ENGINEERING_QUOTE_2">
-			<Text>"Khoa học càng can thiệp vào chiến tranh, thì càng cần nhiều kỹ sư trong lĩnh vực quận sự hơn nữa; chiến tranh càng về lâu thì sẽ không bao giờ đủ đặc công tại bất kỳ thời điểm nào." [NEWLINE]– Bernard Montgomery</Text>
+			<Text>"Khoa học càng can thiệp vào chiến tranh, thì càng cần nhiều kỹ sư trong lĩnh vực quận sự hơn nữa; chiến tranh càng về lâu thì sẽ không bao giờ đủ đặc công tại bất kỳ thời điểm nào."[NEWLINE]– Bernard Montgomery</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_CASTLES_QUOTE_1">
-			<Text>"Đất đá cản lối ta đi? Ta giữ tất cả. Với chúng ta sẽ xây cả một lâu đài." [NEWLINE]– Nemo Nox</Text>
+			<Text>"Đất đá cản lối ta đi? Ta giữ tất cả. Với chúng ta sẽ xây cả một lâu đài."[NEWLINE]– Nemo Nox</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_CASTLES_QUOTE_2">
-			<Text>"Nếu bạn nhìn thấy một tòa lâu đài trong sương khói, bạn phải đến đó để được gặp một giấc mơ phi thường." [NEWLINE]– Mehmet Murat Ildan</Text>
+			<Text>"Nếu bạn nhìn thấy một tòa lâu đài trong sương khói, bạn phải đến đó để được gặp một giấc mơ phi thường."[NEWLINE]– Mehmet Murat Ildan</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_CARTOGRAPHY_QUOTE_1">
-			<Text>"Nếu hành động của bạn truyền cảm hứng cho người khác biết mộng mơ nhiều hơn, học hỏi nhiều hơn, làm nhiều hơn và trở nên lớn lao hơn, bạn là thợ vẽ bản đồ." [NEWLINE]– John Quincy Adams</Text>
+			<Text>"Nếu hành động của bạn truyền cảm hứng cho người khác biết mộng mơ nhiều hơn, học hỏi nhiều hơn, làm nhiều hơn và trở nên lớn lao hơn, bạn là thợ vẽ bản đồ."[NEWLINE]– John Quincy Adams</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_CARTOGRAPHY_QUOTE_2">
-			<Text>"Không phải mọi kẻ lang thang đều lạc đường." [NEWLINE]– J.R.R. Tolkien</Text>
+			<Text>"Không phải mọi kẻ lang thang đều lạc đường."[NEWLINE]– J.R.R. Tolkien</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_MASS_PRODUCTION_QUOTE_1">
-			<Text>"Mọi người đều có thể có một chiếc Model T với bất kỳ màu sắc - chỉ cần màu đen là được." [NEWLINE]– Henry Ford</Text>
+			<Text>"Mọi người đều có thể có một chiếc Model T với bất kỳ màu sắc - chỉ cần màu đen là được."[NEWLINE]– Henry Ford</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_MASS_PRODUCTION_QUOTE_2">
-			<Text>"Cái gì có thể dán nhãn, đóng gói, sản xuất hàng loạt thì đều không phải là sự thật hay nghệ thuật." [NEWLINE]– Marty Rubin</Text>
+			<Text>"Cái gì có thể dán nhãn, đóng gói, sản xuất hàng loạt thì đều không phải là sự thật hay nghệ thuật."[NEWLINE]– Marty Rubin</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_BANKING_QUOTE_1">
-			<Text>"Nếu bạn nợ một ngân hàng 100 đô la, đó là lỗi của bạn. Nếu bạn nợ ngân hàng 100 triệu đô la, đó là lỗi của ngân hàng." [NEWLINE]– J. Paul Getty</Text>
+			<Text>"Nếu bạn nợ một ngân hàng 100 đô la, đó là lỗi của bạn. Nếu bạn nợ ngân hàng 100 triệu đô la, đó là lỗi của ngân hàng."[NEWLINE]– J. Paul Getty</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_BANKING_QUOTE_2">
-			<Text>"Tôi đã thấy một nhà băng nói rằng 'Nhà băng mở cửa 24h', nhưng tôi không hề có đủ thời gian." [NEWLINE]– Steven Wright</Text>
+			<Text>"Tôi đã thấy một nhà băng nói rằng 'Nhà băng mở cửa 24h', nhưng tôi không hề có đủ thời gian."[NEWLINE]– Steven Wright</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_GUNPOWDER_QUOTE_1">
-			<Text>"Cách thực sự để sử dụng thuốc súng là làm cho tất cả đàn ông đều cao." [NEWLINE]– Thomas Carlyle</Text>
+			<Text>"Cách thực sự để sử dụng thuốc súng là làm cho tất cả đàn ông đều cao."[NEWLINE]– Thomas Carlyle</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_GUNPOWDER_QUOTE_2">
-			<Text>"Con người là một quân đội thú vật, vinh quang trong thuốc súng, và yêu các cuộc diễu hành." [NEWLINE]– Philip Bailey</Text>
+			<Text>"Con người là một quân đội thú vật, vinh quang trong thuốc súng, và yêu các cuộc diễu hành."[NEWLINE]– Philip Bailey</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_PRINTING_QUOTE_1">
-			<Text>"Bút viết có thể không mạnh hơn kiếm, nhưng sách báo thì nặng hơn vũ khí công thành. Chỉ một vài từ cũng có thể thay đổi tất cả." [NEWLINE]– Terry Pratchett</Text>
+			<Text>"Bút viết có thể không mạnh hơn kiếm, nhưng sách báo thì nặng hơn vũ khí công thành. Chỉ một vài từ cũng có thể thay đổi tất cả."[NEWLINE]– Terry Pratchett</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_PRINTING_QUOTE_2">
-			<Text>"Thuốc súng đã làm gì cho chiến tranh, máy đánh chữ cũng làm điều tương tự với trí óc." [NEWLINE]- Wendell Phillips</Text>
+			<Text>"Thuốc súng đã làm gì cho chiến tranh, máy đánh chữ cũng làm điều tương tự với trí óc."[NEWLINE]- Wendell Phillips</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_SQUARE_RIGGING_QUOTE_1">
-			<Text>"Có rất ít người sẵn sàng tiếp cận mọi thứ của tự nhiên, nhưng một con thuyền thì lúc nào cũng thế." [NEWLINE]– Allan Villiers</Text>
+			<Text>"Có rất ít người sẵn sàng tiếp cận mọi thứ của tự nhiên, nhưng một con thuyền thì lúc nào cũng thế."[NEWLINE]– Allan Villiers</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_SQUARE_RIGGING_QUOTE_2">
-			<Text>"Không phải cánh buồm cao chót vót, mà chính là cơn gió vô hình đã di chuyển con thuyền." [NEWLINE]– English Proverb</Text>
+			<Text>"Không phải cánh buồm cao chót vót, mà chính là cơn gió vô hình đã di chuyển con thuyền."[NEWLINE]– English Proverb</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_ASTRONOMY_QUOTE_1">
-			<Text>"Thiên Văn Học buộc những tâm hồn hướng lên cao và dẫn chúng ta từ thế giới này sang thế giới khác." [NEWLINE]- Plato</Text>
+			<Text>"Thiên Văn Học buộc những tâm hồn hướng lên cao và dẫn chúng ta từ thế giới này sang thế giới khác."[NEWLINE]- Plato</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_ASTRONOMY_QUOTE_2">
-			<Text>"Thiên Văn Học sẽ thú vị hơn khi bạn không phải là nhà thiên văn." [NEWLINE]– Brian May</Text>
+			<Text>"Thiên Văn Học sẽ thú vị hơn khi bạn không phải là nhà thiên văn."[NEWLINE]– Brian May</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_METAL_CASTING_QUOTE_1">
-			<Text>"Đầu tiên Hephaestus tạo nên tấm khiên vĩ đại và to lớn... Và ông ta rèn lên tấm khiên hai thành phố cao quý." [NEWLINE]– Homer</Text>
+			<Text>"Đầu tiên Hephaestus tạo nên tấm khiên vĩ đại và to lớn... Và ông ta rèn lên tấm khiên hai thành phố cao quý."[NEWLINE]– Homer</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_METAL_CASTING_QUOTE_2">
-			<Text>"Đừng đánh giá ai đó cho đến khi bạn bước vào lò rèn của anh ta và làm việc bằng cây búa của anh ấy." [NEWLINE]– Rick Riordan</Text>
+			<Text>"Đừng đánh giá ai đó cho đến khi bạn bước vào lò rèn của anh ta và làm việc bằng cây búa của anh ấy."[NEWLINE]– Rick Riordan</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_SIEGE_TACTICS_QUOTE_1">
-			<Text>"Công thành là hạ sách. Bao vây thành chỉ dùng như là kế sách cuối cùng." [NEWLINE]– Sun Tzu</Text>
+			<Text>"Công thành là hạ sách. Bao vây thành chỉ dùng như là kế sách cuối cùng."[NEWLINE]– Sun Tzu</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_SIEGE_TACTICS_QUOTE_2">
-			<Text>"Tất cả những thứ lãng mạn nhất đều nở rộ giữa những cuộc công thành." [NEWLINE]– Miles Cameron</Text>
+			<Text>"Tất cả những thứ lãng mạn nhất đều nở rộ giữa những cuộc công thành."[NEWLINE]– Miles Cameron</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_INDUSTRIALIZATION_QUOTE_1">
-			<Text>"Tôi nghĩ loài người đã mắc một sai lầm lớn vào lúc bắt đầu của cuộc Cách Mạng Công Nghiệp, chúng ta nhảy nhót lên vì những thứ cơ khí. Mọi người sẽ cảm thấy sáng tạo khi làm việc bằng chính đôi tay của họ." [NEWLINE]– Andre Norton</Text>
+			<Text>"Tôi nghĩ loài người đã mắc một sai lầm lớn vào lúc bắt đầu của cuộc Cách Mạng Công Nghiệp, chúng ta nhảy nhót lên vì những thứ cơ khí. Mọi người sẽ cảm thấy sáng tạo khi làm việc bằng chính đôi tay của họ."[NEWLINE]– Andre Norton</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_INDUSTRIALIZATION_QUOTE_2">
-			<Text>"Những từ khóa của một nền kinh tế bạo lực là đô thị hóa, công nghiệp hóa, tập trung hóa, hiệu suất, số lượng, tốc độ." [NEWLINE]– E.F. Schumacher</Text>
+			<Text>"Những từ khóa của một nền kinh tế bạo lực là đô thị hóa, công nghiệp hóa, tập trung hóa, hiệu suất, số lượng, tốc độ."[NEWLINE]– E.F. Schumacher</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_SCIENTIFIC_THEORY_QUOTE_1">
-			<Text>“Những tuyên bố không thể được kiểm chứng, những khẳng định không thể phản bác đều chắc chắn vô giá trị, cho dù chúng có thể truyền cảm hứng cho chúng ta hoặc làm cho ta ngạc nhiên đến đâu.” [NEWLINE]– Carl Sagan</Text>
+			<Text>“Những tuyên bố không thể được kiểm chứng, những khẳng định không thể phản bác đều chắc chắn vô giá trị, cho dù chúng có thể truyền cảm hứng cho chúng ta hoặc làm cho ta ngạc nhiên đến đâu.”[NEWLINE]– Carl Sagan</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_SCIENTIFIC_THEORY_QUOTE_2">
-			<Text>"Nếu thực tế không phù hợp với lý thuyết, hãy thay đổi thực tế." [NEWLINE]– Albert Einstein</Text>
+			<Text>"Nếu thực tế không phù hợp với lý thuyết, hãy thay đổi thực tế."[NEWLINE]– Albert Einstein</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_BALLISTICS_QUOTE_1">
-			<Text>"Chỉ có một thứ để phỏng đoán điều gì đã xảy ra, nhưng chúng ta không thể suy đoán được cho đến khi nào điều đó xảy ra..." [NEWLINE]– John Hansen</Text>
+			<Text>"Chỉ có một thứ để phỏng đoán điều gì đã xảy ra, nhưng chúng ta không thể suy đoán được cho đến khi nào điều đó xảy ra..."[NEWLINE]– John Hansen</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_BALLISTICS_QUOTE_2">
-			<Text>"Hãy quỳ xuống và cầu nguyện. Tôi không hề biết đến họ. Liệu có vị thần bảo hộ khỏi đạn hoặc cung tên chưa?" [NEWLINE]– Adam Savage</Text>
+			<Text>"Hãy quỳ xuống và cầu nguyện. Tôi không hề biết đến họ. Liệu có vị thần bảo hộ khỏi đạn hoặc cung tên chưa?"[NEWLINE]– Adam Savage</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_MILITARY_SCIENCE_QUOTE_1">
-			<Text>"Cho dù chiến thuật có đẹp thế nào, thì bạn cũng nên thường xuyên nhìn vào kết quả." [NEWLINE]– Winston Churchill</Text>
+			<Text>"Cho dù chiến thuật có đẹp thế nào, thì bạn cũng nên thường xuyên nhìn vào kết quả."[NEWLINE]– Winston Churchill</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_MILITARY_SCIENCE_QUOTE_2">
-			<Text>"Không ai bắt đầu một cuộc chiến tranh - hoặc thứ gì đó giống như vậy, không có giác quan nào của anh ta bị bắt phải làm như vậy - mà không cần phải rửa sạch tâm trí những gì sẽ đạt được bởi chiến tranh và cách mà anh ta dự định thực hiện." [NEWLINE]– Karl von Clausewitz</Text>
+			<Text>"Không ai bắt đầu một cuộc chiến tranh - hoặc thứ gì đó giống như vậy, không có giác quan nào của anh ta bị bắt phải làm như vậy - mà không cần phải rửa sạch tâm trí những gì sẽ đạt được bởi chiến tranh và cách mà anh ta dự định thực hiện."[NEWLINE]– Karl von Clausewitz</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_STEAM_POWER_QUOTE_1">
-			<Text>"Rất đáng tranh cãi rằng liệu loài người đã tiến bộ bởi sự dẫn dắt của khoa học vượt ra ngoài biên giới động cơ hơi nước." [NEWLINE]– Winston Churchill</Text>
+			<Text>"Rất đáng tranh cãi rằng liệu loài người đã tiến bộ bởi sự dẫn dắt của khoa học vượt ra ngoài biên giới động cơ hơi nước."[NEWLINE]– Winston Churchill</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_STEAM_POWER_QUOTE_2">
-			<Text>"Khoa học nợ động cơ hơi nước hơn là động cơ hơi nước nợ khoa học" [NEWLINE]– Lawrence Henderson</Text>
+			<Text>"Khoa học nợ động cơ hơi nước hơn là động cơ hơi nước nợ khoa học"[NEWLINE]– Lawrence Henderson</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_SANITATION_QUOTE_1">
-			<Text>"Không có cuộc đổi mới nào trong vòng 200 năm qua mà có thể cứu nhiều sự sống cũng như cải thiện sức khỏe hơn cuộc kích hoạt cách mạng vệ sinh với việc sáng tạo ra nhà vệ sinh." [NEWLINE]– Sylvia Burwell</Text>
+			<Text>"Không có cuộc đổi mới nào trong vòng 200 năm qua mà có thể cứu nhiều sự sống cũng như cải thiện sức khỏe hơn cuộc kích hoạt cách mạng vệ sinh với việc sáng tạo ra nhà vệ sinh."[NEWLINE]– Sylvia Burwell</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_SANITATION_QUOTE_2">
-			<Text>"Ngoài vấn đề vệ sinh, y tế, giáo dục, rượu, trật tự công cộng, đường xá, hệ thống nước sạch, và sức khỏe cộng đồng... thì người La Mã đã làm được gì cho chúng ta?" [NEWLINE]– Graham Chapman</Text>
+			<Text>"Ngoài vấn đề vệ sinh, y tế, giáo dục, rượu, trật tự công cộng, đường xá, hệ thống nước sạch, và sức khỏe cộng đồng... thì người La Mã đã làm được gì cho chúng ta?"[NEWLINE]– Graham Chapman</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_ECONOMICS_QUOTE_1">
-			<Text>"Kinh tế học là môn học không tôn trọng ước muốn của con người cho lắm." [NEWLINE]– Nikita Khrushchev</Text>
+			<Text>"Kinh tế học là môn học không tôn trọng ước muốn của con người cho lắm."[NEWLINE]– Nikita Khrushchev</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_ECONOMICS_QUOTE_2">
-			<Text>"Tôi và bạn có thể đi lại bằng đường bộ hoặc đường sắt nhưng những nhà kinh tế đi lại trên cả hạ tầng." [NEWLINE]- Margaret Thatcher</Text>
+			<Text>"Tôi và bạn có thể đi lại bằng đường bộ hoặc đường sắt nhưng những nhà kinh tế đi lại trên cả hạ tầng."[NEWLINE]- Margaret Thatcher</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_RIFLING_QUOTE_1">
-			<Text>"Hành động có giá trị hơn lời nói." [NEWLINE]– Craig Roberts</Text>
+			<Text>"Hành động có giá trị hơn lời nói."[NEWLINE]– Craig Roberts</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_RIFLING_QUOTE_2">
-			<Text>"Đừng bao giờ chỉ trích một tay súng cho đến khi bạn bước đi hàng dặm bằng đôi giày của anh ta. Bằng cách đó, anh ta sẽ đi chân trần và bạn sẽ biến mất khỏi tầm bắn của anh ta." [NEWLINE]– The 2nd Target Company</Text>
+			<Text>"Đừng bao giờ chỉ trích một tay súng cho đến khi bạn bước đi hàng dặm bằng đôi giày của anh ta. Bằng cách đó, anh ta sẽ đi chân trần và bạn sẽ biến mất khỏi tầm bắn của anh ta."[NEWLINE]– The 2nd Target Company</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_FLIGHT_QUOTE_1">
-			<Text>“Một khi đã nếm cảm giác bay lượn trên không trung, dù người có ở dưới đất, thì tâm của ngươi cũng chỉ hướng về bầu trời, lúc nào cũng như thể ngươi đang hòa vào nó, và sẽ rất khó khăn nếu muốn quay về như cũ.” [NEWLINE]– Leonardo da Vinci</Text>
+			<Text>“Một khi đã nếm cảm giác bay lượn trên không trung, dù người có ở dưới đất, thì tâm của ngươi cũng chỉ hướng về bầu trời, lúc nào cũng như thể ngươi đang hòa vào nó, và sẽ rất khó khăn nếu muốn quay về như cũ.”[NEWLINE]– Leonardo da Vinci</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_FLIGHT_QUOTE_2">
-			<Text>"Nếu bạn có thể đi bộ sau khi hạ cánh đó là lần hạ cánh tốt. Nếu bạn dùng máy bay vào hôm sau, thì đó là lần hạ cánh tuyệt vời." [NEWLINE]– Chuck Yeager</Text>
+			<Text>"Nếu bạn có thể đi bộ sau khi hạ cánh đó là lần hạ cánh tốt. Nếu bạn dùng máy bay vào hôm sau, thì đó là lần hạ cánh tuyệt vời."[NEWLINE]– Chuck Yeager</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_REPLACEABLE_PARTS_QUOTE_1">
-			<Text>"Để một động cơ chạy nhịp nhàng và dễ tiên liệu, các bộ phận của nó phải đúng tiêu chuẩn và dễ thay thế." [NEWLINE]– Charles Eisenstein</Text>
+			<Text>"Để một động cơ chạy nhịp nhàng và dễ tiên liệu, các bộ phận của nó phải đúng tiêu chuẩn và dễ thay thế."[NEWLINE]– Charles Eisenstein</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_REPLACEABLE_PARTS_QUOTE_2">
-			<Text>"Nhiều người trong chúng ta chăm lo cho cái xe hơi còn hơn cả cơ thể mình, tuy nhiên cái xe thì có nhiều bộ phận thay thế được." [NEWLINE]– B.J. Palmer</Text>
+			<Text>"Nhiều người trong chúng ta chăm lo cho cái xe hơi còn hơn cả cơ thể mình, tuy nhiên cái xe thì có nhiều bộ phận thay thế được."[NEWLINE]– B.J. Palmer</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_STEEL_QUOTE_1">
-			<Text>"Loại thép tốt nhất không phải lúc nào cũng sáng nhất." [NEWLINE]– Joe Abercrombie</Text>
+			<Text>"Loại thép tốt nhất không phải lúc nào cũng sáng nhất."[NEWLINE]– Joe Abercrombie</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_STEEL_QUOTE_2">
-			<Text>"Có ba thứ siêu bền: thép, kim cương, và nhận biết được bản thân." [NEWLINE]– Benjamin Franklin</Text>
+			<Text>"Có ba thứ siêu bền: thép, kim cương, và nhận biết được bản thân."[NEWLINE]– Benjamin Franklin</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_ELECTRICITY_QUOTE_1">
-			<Text>"Nếu không có điện, thì tất cả chúng ta sẽ xem tivi bằng đèn cầy." [NEWLINE]– George Gobel</Text>
+			<Text>"Nếu không có điện, thì tất cả chúng ta sẽ xem tivi bằng đèn cầy."[NEWLINE]– George Gobel</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_ELECTRICITY_QUOTE_2">
-			<Text>"Benjamin Franklin đã phát minh ra điện, nhưng người làm ra máy đo lường mới làm ra tiền." [NEWLINE]– Earl Wilson</Text>
+			<Text>"Benjamin Franklin đã phát minh ra điện, nhưng người làm ra máy đo lường mới làm ra tiền."[NEWLINE]– Earl Wilson</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_RADIO_QUOTE_1">
-			<Text>"Một thế giới không có Radio thì là một thế giới điếc." [NEWLINE]– Ernest Yeboah</Text>
+			<Text>"Một thế giới không có Radio thì là một thế giới điếc."[NEWLINE]– Ernest Yeboah</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_RADIO_QUOTE_2">
-			<Text>"Radio là rạp hát của tinh thần; còn tivi là rạp hát của vô thức." [NEWLINE]– Steve Allen</Text>
+			<Text>"Radio là rạp hát của tinh thần; còn tivi là rạp hát của vô thức."[NEWLINE]– Steve Allen</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_CHEMISTRY_QUOTE_1">
-			<Text>"Hóa học là mặt tối của vật lý." [NEWLINE]– Peter Reiss</Text>
+			<Text>"Hóa học là mặt tối của vật lý."[NEWLINE]– Peter Reiss</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_CHEMISTRY_QUOTE_2">
 			<Text>"Các nhà hóa học thường không bao giờ nói lắp. Sẽ rất khó xử nếu họ làm vậy, có thể thấy rằng họ có thời gian để học nói những từ như methylethylamylophenylium." =))[NEWLINE]– Sir William Crookes</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_COMBUSTION_QUOTE_1">
-			<Text>"Những chiếc xe đã không tiên tiến mà nhiều kể từ khi chúng tôi còn nhỏ. Khi bạn đốt nhiên liệu, nó vẫn là động cơ khí đốt." [NEWLINE]– Dana Brunetti</Text>
+			<Text>"Những chiếc xe đã không tiên tiến mà nhiều kể từ khi chúng tôi còn nhỏ. Khi bạn đốt nhiên liệu, nó vẫn là động cơ khí đốt."[NEWLINE]– Dana Brunetti</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_COMBUSTION_QUOTE_2">
-			<Text>"Tôi đã luôn luôn được coi là sự thay thế của động cơ đốt trong cho các con ngựa đã đánh dấu một cột mốc rất ảm đạm trong sự tiến bộ của nhân loại." [NEWLINE]– Winston Churchill</Text>
+			<Text>"Tôi đã luôn luôn được coi là sự thay thế của động cơ đốt trong cho các con ngựa đã đánh dấu một cột mốc rất ảm đạm trong sự tiến bộ của nhân loại."[NEWLINE]– Winston Churchill</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_ADVANCED_FLIGHT_QUOTE_1">
-			<Text>"Chắc rồi, máy bay phản lực đang trở nên nhanh và rẻ hơn, nhưng hãy xem những thú vui gì bị mất và những gì chúng ta phải trả cho cuộc đua về hiệu suất." [NEWLINE]– Ginger Rogers</Text>
+			<Text>"Chắc rồi, máy bay phản lực đang trở nên nhanh và rẻ hơn, nhưng hãy xem những thú vui gì bị mất và những gì chúng ta phải trả cho cuộc đua về hiệu suất."[NEWLINE]– Ginger Rogers</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_ADVANCED_FLIGHT_QUOTE_2">
-			<Text>"Thật đáng tranh cãi rằng loài người đã được nâng cao nhờ sự phát triển của khoa học vượt qua máy hơi nước." [NEWLINE]– George Winters</Text>
+			<Text>"Thật đáng tranh cãi rằng loài người đã được nâng cao nhờ sự phát triển của khoa học vượt qua máy hơi nước."[NEWLINE]– George Winters</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_ROCKETRY_QUOTE_1">
-			<Text>"Công nghệ tên lửa đã được thần thoại hóa một cách nghiêm trọng những khó khăn thật sự của nó." [NEWLINE]– John Carmack</Text>
+			<Text>"Công nghệ tên lửa đã được thần thoại hóa một cách nghiêm trọng những khó khăn thật sự của nó."[NEWLINE]– John Carmack</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_ROCKETRY_QUOTE_2">
-			<Text>"Khi bạn phóng một quả tên lửa, bạn không thực sự bay trên nó. Bạn giống như bị treo trên nó hơn." [NEWLINE]– Michael P. Anderson</Text>
+			<Text>"Khi bạn phóng một quả tên lửa, bạn không thực sự bay trên nó. Bạn giống như bị treo trên nó hơn."[NEWLINE]– Michael P. Anderson</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_ADVANCED_BALLISTICS_QUOTE_1">
-			<Text>"Can đảm không có học thức là vô dụng khi đối mặt với những viên đạn của giáo dục." [NEWLINE]– George Patton</Text>
+			<Text>"Can đảm không có học thức là vô dụng khi đối mặt với những viên đạn của giáo dục."[NEWLINE]– George Patton</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_ADVANCED_BALLISTICS_QUOTE_2">
-			<Text>"Nhắm vào mặt trăng. Nếu trật, bạn có thể bắn trúng một ngôi sao." [NEWLINE]– W. Clement Stone</Text>
+			<Text>"Nhắm vào mặt trăng. Nếu trật, bạn có thể bắn trúng một ngôi sao."[NEWLINE]– W. Clement Stone</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_COMBINED_ARMS_QUOTE_1">
-			<Text>"Chiến đấu vì một cái gì đó tốt hơn sống vô nghĩa." [NEWLINE]- George S. Patton</Text>
+			<Text>"Chiến đấu vì một cái gì đó tốt hơn sống vô nghĩa."[NEWLINE]- George S. Patton</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_COMBINED_ARMS_QUOTE_2">
-			<Text>"Thứ khó lường nhất trong chiến tranh chính là con người." [NEWLINE]- B.H. Liddell Hart.</Text>
+			<Text>"Thứ khó lường nhất trong chiến tranh chính là con người."[NEWLINE]- B.H. Liddell Hart.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_PLASTICS_QUOTE_1">
-			<Text>"Trong hệ thống phân cấp của nội dung thi ca chủ yếu, chất liệu nhựa như là loại chất liệu bị thất sủng, bị lạc lõng giữa sự đa dạng của cao su và sự cứng rắn của kim loại." [NEWLINE]– Roland Barthes</Text>
+			<Text>"Trong hệ thống phân cấp của nội dung thi ca chủ yếu, chất liệu nhựa như là loại chất liệu bị thất sủng, bị lạc lõng giữa sự đa dạng của cao su và sự cứng rắn của kim loại."[NEWLINE]– Roland Barthes</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_PLASTICS_QUOTE_2">
-			<Text>“Không gì trên thế giới này là vĩnh cửu. Có lẽ ngoại trừ nhựa.” [NEWLINE]– Patricia Dunn</Text>
+			<Text>“Không gì trên thế giới này là vĩnh cửu. Có lẽ ngoại trừ nhựa.”[NEWLINE]– Patricia Dunn</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_COMPUTERS_QUOTE_1">
-			<Text>“Con người phạm sai lầm cũng bình thường, máy tính gặp sai sót mới là thảm họa.” [NEWLINE]– Paul R. Ehrlich</Text>
+			<Text>“Con người phạm sai lầm cũng bình thường, máy tính gặp sai sót mới là thảm họa.”[NEWLINE]– Paul R. Ehrlich</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_COMPUTERS_QUOTE_2">
-			<Text>"Mặt sáng của máy tính đó là chúng sẽ làm theo lời của bạn nhưng đó cũng là mặt tối của nó." [NEWLINE]– Ted Nelson</Text>
+			<Text>"Mặt sáng của máy tính đó là chúng sẽ làm theo lời của bạn nhưng đó cũng là mặt tối của nó."[NEWLINE]– Ted Nelson</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_NUCLEAR_FISSION_QUOTE_1">
-			<Text>"Nếu bạn tiếp tục chạy đua vũ trang hạt nhân, thì tất cả những việc bạn làm đó là tạo ra đống đổ nát." [NEWLINE]– Winston Churchill</Text>
+			<Text>"Nếu bạn tiếp tục chạy đua vũ trang hạt nhân, thì tất cả những việc bạn làm đó là tạo ra đống đổ nát."[NEWLINE]– Winston Churchill</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_NUCLEAR_FISSION_QUOTE_2">
-			<Text>"Tránh xa vũ khí nguyên tử." [NEWLINE]- E. Y. Harburg</Text>
+			<Text>"Tránh xa vũ khí nguyên tử."[NEWLINE]- E. Y. Harburg</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_SYNTHETIC_MATERIALS_QUOTE_1">
-			<Text>"Có quá nhiều đồ nhựa trong nền văn hóa này đến mức mà da báo vinyl cũng trở thành chất tổng hợp bị đe dọa tuyệt chủng." [NEWLINE]– Lily Tomlin</Text>
+			<Text>"Có quá nhiều đồ nhựa trong nền văn hóa này đến mức mà da báo vinyl cũng trở thành chất tổng hợp bị đe dọa tuyệt chủng."[NEWLINE]– Lily Tomlin</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_SYNTHETIC_MATERIALS_QUOTE_2">
-			<Text>"Không có sự tha thứ nào cho polyester. Với vật chất này, cả chúa trời và quỷ satan thỏa hiệp với nhau." [NEWLINE]– Joe Hill</Text>
+			<Text>"Không có sự tha thứ nào cho polyester. Với vật chất này, cả chúa trời và quỷ satan thỏa hiệp với nhau."[NEWLINE]– Joe Hill</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_TELECOMMUNICATIONS_QUOTE_1">
-			<Text>"Mr.Watson... Lại đây... Tôi muốn gặp ông." [NEWLINE]- Alexander Graham Bell</Text>
+			<Text>"Mr.Watson... Lại đây... Tôi muốn gặp ông."[NEWLINE]- Alexander Graham Bell</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_TELECOMMUNICATIONS_QUOTE_2">
-			<Text>"Vấn đề đơn lẻ lớn nhất trong giao tiếp đó là sự ảo tưởng chi phối." [NEWLINE]– George Bernard Shaw</Text>
+			<Text>"Vấn đề đơn lẻ lớn nhất trong giao tiếp đó là sự ảo tưởng chi phối."[NEWLINE]– George Bernard Shaw</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_SATELLITES_QUOTE_1">
-			<Text>"Một vệ tinh thì không có lương tâm." [NEWLINE]– Edward R. Murrow</Text>
+			<Text>"Một vệ tinh thì không có lương tâm."[NEWLINE]– Edward R. Murrow</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_SATELLITES_QUOTE_2">
-			<Text>"Hiện tại có khoảng 31 vệ tinh đang lượn khắp thế giới chẳng có gì để làm ngoài việc giúp bạn tìm đường đến cửa hàng tạp hóa." [NEWLINE]– Ed Burnette</Text>
+			<Text>"Hiện tại có khoảng 31 vệ tinh đang lượn khắp thế giới chẳng có gì để làm ngoài việc giúp bạn tìm đường đến cửa hàng tạp hóa."[NEWLINE]– Ed Burnette</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_GUIDANCE_SYSTEMS_QUOTE_1">
-			<Text>"Nếu bạn mãi không đổi hướng, bạn sẽ đến nơi mà bạn hướng đến." [NEWLINE]– Lao Tzu</Text>
+			<Text>"Nếu bạn mãi không đổi hướng, bạn sẽ đến nơi mà bạn hướng đến."[NEWLINE]– Lao Tzu</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_GUIDANCE_SYSTEMS_QUOTE_2">
-			<Text>"Tôi thích xem mẹ tôi cãi nhau với cái GPS trên đường về nhà." [NEWLINE]– Isabelle Fuhrman</Text>
+			<Text>"Tôi thích xem mẹ tôi cãi nhau với cái GPS trên đường về nhà."[NEWLINE]– Isabelle Fuhrman</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_LASERS_QUOTE_1">
-			<Text>"Khi Chúa nói, 'Hãy để ánh sáng xuất hiện', hẳn ngài muốn ám chỉ đến thứ ánh sáng hội tụ một cách hoàn hảo." [NEWLINE]– Charles Townes</Text>
+			<Text>"Khi Chúa nói, 'Hãy để ánh sáng xuất hiện', hẳn ngài muốn ám chỉ đến thứ ánh sáng hội tụ một cách hoàn hảo."[NEWLINE]– Charles Townes</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_LASERS_QUOTE_2">
-			<Text>"Tôi là một người rất tin vào laser - Tôi thực sự tin chúng là sóng của tương lai." [NEWLINE]– Courteney Cox</Text>
+			<Text>"Tôi là một người rất tin vào laser - Tôi thực sự tin chúng là sóng của tương lai."[NEWLINE]– Courteney Cox</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_COMPOSITES_QUOTE_1">
-			<Text>"Tất cả những thứ vật chất dường như được cấu tạo từ các hạt cứng và rắn... kết hợp đa dạng với sự Hình Thành đầu tiên dưới sự chỉ dạy của một Đấng Thông Thái." [NEWLINE]– Isaac Newton</Text>
+			<Text>"Tất cả những thứ vật chất dường như được cấu tạo từ các hạt cứng và rắn... kết hợp đa dạng với sự Hình Thành đầu tiên dưới sự chỉ dạy của một Đấng Thông Thái."[NEWLINE]– Isaac Newton</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_COMPOSITES_QUOTE_2">
-			<Text>"Thật hiển nhiên rằng trong khi khoa học đang vật vã để đem Thiên Đường xuống Trái Đất thì một vài người đang sử dụng chính những nguyên liệu đó để tạo nên Địa Ngục." [NEWLINE]– Herbert Hoover</Text>
+			<Text>"Thật hiển nhiên rằng trong khi khoa học đang vật vã để đem Thiên Đường xuống Trái Đất thì một vài người đang sử dụng chính những nguyên liệu đó để tạo nên Địa Ngục."[NEWLINE]– Herbert Hoover</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_STEALTH_TECHNOLOGY_QUOTE_1">
-			<Text>"Tôi có thể nói tàng hình là một sức mạnh thú vị khi bạn muốn biết đi vòng quanh thế giới mà không bị nhìn thấy là như thế nào." [NEWLINE]- Kevin Bacon</Text>
+			<Text>"Tôi có thể nói tàng hình là một sức mạnh thú vị khi bạn muốn biết đi vòng quanh thế giới mà không bị nhìn thấy là như thế nào."[NEWLINE]- Kevin Bacon</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_STEALTH_TECHNOLOGY_QUOTE_2">
-			<Text>“Trong nghệ thuật và giấc mơ thì bạn có thể từ bỏ. Còn trong cuộc sống bạn có thể giải quyết theo hướng cân bằng và kín đáo.” [NEWLINE]– Patti Smith</Text>
+			<Text>“Trong nghệ thuật và giấc mơ thì bạn có thể từ bỏ. Còn trong cuộc sống bạn có thể giải quyết theo hướng cân bằng và kín đáo.”[NEWLINE]– Patti Smith</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_ROBOTICS_QUOTE_1">
-			<Text>“Điều vĩ đại tiếp theo, rất lý thú và hấp dẫn là đem đến mọi người sự tự động hoá trong cuộc sống.” [NEWLINE]– Colin Angle</Text>
+			<Text>“Điều vĩ đại tiếp theo, rất lý thú và hấp dẫn là đem đến mọi người sự tự động hoá trong cuộc sống.”[NEWLINE]– Colin Angle</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_ROBOTICS_QUOTE_2">
 			<Text>"Tôi sẽ trở lại ngay."</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_NANOTECHNOLOGY_QUOTE_1">
-			<Text>"Nếu công nghệ là động cơ cho sự thay đổi, thì công nghệ nano là nhiên liệu cho tương lai của nhân loại." [NEWLINE]– Natasha Vita-More</Text>
+			<Text>"Nếu công nghệ là động cơ cho sự thay đổi, thì công nghệ nano là nhiên liệu cho tương lai của nhân loại."[NEWLINE]– Natasha Vita-More</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_NANOTECHNOLOGY_QUOTE_2">
-			<Text>"Nhiều, rất nhiều quy luật đã bị bẻ cong bởi sự xuất hiện của công nghệ nano... Điều này đã sinh ra nhiều thứ tốt đẹp, đồng thời, nhiều thứ tệ hại." [NEWLINE]– Matt Spire</Text>
+			<Text>"Nhiều, rất nhiều quy luật đã bị bẻ cong bởi sự xuất hiện của công nghệ nano... Điều này đã sinh ra nhiều thứ tốt đẹp, đồng thời, nhiều thứ tệ hại."[NEWLINE]– Matt Spire</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_FUTURE_TECH_QUOTE_1">
-			<Text>"Không có điều gì giống như giấc mơ về việc xây dựng tương lai." [NEWLINE]– Victor Hugo</Text>
+			<Text>"Không có điều gì giống như giấc mơ về việc xây dựng tương lai."[NEWLINE]– Victor Hugo</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_FUTURE_TECH_QUOTE_2">
-			<Text>"Mặc dù tương lai có vẻ còn rất xa phía trước, thực ra nó đã bắt đầu ngay từ bây giờ." [NEWLINE]– Mattie Stepanek</Text>
+			<Text>"Mặc dù tương lai có vẻ còn rất xa phía trước, thực ra nó đã bắt đầu ngay từ bây giờ."[NEWLINE]– Mattie Stepanek</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_NUCLEAR_FUSION_QUOTE_1">
-			<Text>"Tôi ủng hộ ý tưởng hạn chế năng lượng hạt nhân. Mặt trời nằm cách chúng ta 93 triệu dặm đang cung cấp năng lượng tổng hợp rất tốt, và miễn phí. Năng lượng hạt nhân ở Trái đất, trong các lò phản ứng thực sự không tốt chút nào." [NEWLINE]– Joe Romm</Text>
+			<Text>"Tôi ủng hộ ý tưởng hạn chế năng lượng hạt nhân. Mặt trời nằm cách chúng ta 93 triệu dặm đang cung cấp năng lượng tổng hợp rất tốt, và miễn phí. Năng lượng hạt nhân ở Trái đất, trong các lò phản ứng thực sự không tốt chút nào."[NEWLINE]– Joe Romm</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_NUCLEAR_FUSION_QUOTE_2">
-			<Text>"Khi chúng ta ngước lên bầu trời đêm và ngắm nhìn các ngôi sao, mọi thứ chúng ta thấy đều tỏa sáng nhờ những vụ nổ phản ứng hạt nhân từ rất xa." [NEWLINE]– Carl Sagan</Text>
+			<Text>"Khi chúng ta ngước lên bầu trời đêm và ngắm nhìn các ngôi sao, mọi thứ chúng ta thấy đều tỏa sáng nhờ những vụ nổ phản ứng hạt nhân từ rất xa."[NEWLINE]– Carl Sagan</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVIC_CODE_OF_LAWS_QUOTE_1">
-			<Text>"Điều này thật không khôn ngoan nhưng nhà cầm quyền mới là người làm ra Luật." [NEWLINE]– Thomas Hobbes</Text>
+			<Text>"Điều này thật không khôn ngoan nhưng nhà cầm quyền mới là người làm ra Luật."[NEWLINE]– Thomas Hobbes</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVIC_CODE_OF_LAWS_QUOTE_2">
-			<Text>"Con người là cao quý nhất so với tất cả các loài động vật khác; nhưng nếu không có luật pháp và công lý, con người lại là loài xấu xa nhất." [NEWLINE]– Aristotle</Text>
+			<Text>"Con người là cao quý nhất so với tất cả các loài động vật khác; nhưng nếu không có luật pháp và công lý, con người lại là loài xấu xa nhất."[NEWLINE]– Aristotle</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVIC_CRAFTSMANSHIP_QUOTE_1">
-			<Text>"Thiếu đi người thợ lành nghề, cảm hứng sáng tạo chỉ là một cây sậy rung lắc trước gió." [NEWLINE] – Johannes Brahms</Text>
+			<Text>"Thiếu đi người thợ lành nghề, cảm hứng sáng tạo chỉ là một cây sậy rung lắc trước gió."[NEWLINE]– Johannes Brahms</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVIC_CRAFTSMANSHIP_QUOTE_2">
-			<Text>"Kỹ năng thiếu đi trí tưởng tượng chính là sự lành nghề và nó đã tạo ra nhiều dụng cụ có ích cho chúng ta, ví dụ như chiếc giỏ mây đi picnic." [NEWLINE]– Tom Stoppard</Text>
+			<Text>"Kỹ năng thiếu đi trí tưởng tượng chính là sự lành nghề và nó đã tạo ra nhiều dụng cụ có ích cho chúng ta, ví dụ như chiếc giỏ mây đi picnic."[NEWLINE]– Tom Stoppard</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVIC_FOREIGN_TRADE_QUOTE_1">
-			<Text>"Tất cả các quốc gia đều tồn tại dựa trên sự trao đổi." [NEWLINE]– Adam Smith</Text>
+			<Text>"Tất cả các quốc gia đều tồn tại dựa trên sự trao đổi."[NEWLINE]– Adam Smith</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVIC_FOREIGN_TRADE_QUOTE_2">
-			<Text>"Tôi cho rằng đó là khía cạnh tích cực của thương mại. Cả thế giới cùng hội nhập với nhau." [NEWLINE]– Isabel Hoving</Text>
+			<Text>"Tôi cho rằng đó là khía cạnh tích cực của thương mại. Cả thế giới cùng hội nhập với nhau."[NEWLINE]– Isabel Hoving</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVIC_MILITARY_TRADITION_QUOTE_1">
-			<Text>"Lòng dũng cảm là người duy nhất biết bạn đang lo sợ." [NEWLINE]— Colonel David Hackworth</Text>
+			<Text>"Lòng dũng cảm là người duy nhất biết bạn đang lo sợ."[NEWLINE]— Colonel David Hackworth</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVIC_MILITARY_TRADITION_QUOTE_2">
-			<Text>"Tôi không coi nhẹ giá trị của kiến thức quân đội, nhưng nếu người ta thực hiện chiến tranh theo kiểu cấp dưới phục tùng mệnh lệnh cấp trên tuyệt đối, họ sẽ thất bại." [NEWLINE]– Ulysses S. Grant</Text>
+			<Text>"Tôi không coi nhẹ giá trị của kiến thức quân đội, nhưng nếu người ta thực hiện chiến tranh theo kiểu cấp dưới phục tùng mệnh lệnh cấp trên tuyệt đối, họ sẽ thất bại."[NEWLINE]– Ulysses S. Grant</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVIC_STATE_WORKFORCE_QUOTE_1">
-			<Text>"Một nền kinh tế mạnh được bắt đầu với một lực lượng lao động tốt và có kiến thức." [NEWLINE]– Bill Owens</Text>
+			<Text>"Một nền kinh tế mạnh được bắt đầu với một lực lượng lao động tốt và có kiến thức."[NEWLINE]– Bill Owens</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVIC_STATE_WORKFORCE_QUOTE_2">
-			<Text>"Việc có một lực lượng lao động hạnh phúc và gắn bó cũng quan trọng như việc doanh thu có lãi vậy." [NEWLINE]– Vern Dosch</Text>
+			<Text>"Việc có một lực lượng lao động hạnh phúc và gắn bó cũng quan trọng như việc doanh thu có lãi vậy."[NEWLINE]– Vern Dosch</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVIC_EARLY_EMPIRE_QUOTE_1">
-			<Text>"Hãy nhìn về quá khứ, với sự thăng trầm của những triều đại khác nhau, và bạn sẽ có thể tiên đoán được tương lai." [NEWLINE]- Marcus Aurelius</Text>
+			<Text>"Hãy nhìn về quá khứ, với sự thăng trầm của những triều đại khác nhau, và bạn sẽ có thể tiên đoán được tương lai."[NEWLINE]- Marcus Aurelius</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVIC_EARLY_EMPIRE_QUOTE_2">
-			<Text>"Điều hòa không khí là thứ xa xỉ nó đã hạ bệ đế chế La Mã. Với điều hòa không khí thì cửa sổ phải được đóng; vì thế họ không thể nghe thấy tiếng của quân man di đang đến."[NEWLINE] – Garrison Keillor</Text>
+			<Text>"Điều hòa không khí là thứ xa xỉ nó đã hạ bệ đế chế La Mã. Với điều hòa không khí thì cửa sổ phải được đóng; vì thế họ không thể nghe thấy tiếng của quân man di đang đến."[NEWLINE]– Garrison Keillor</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVIC_MYSTICISM_QUOTE_1">
-			<Text>"Điều thần bí là một sai lầm của một biểu tượng ngẫu nhiên và đơn lẻ cho vạn vật." [NEWLINE]– Ralph Waldo Emerson</Text>
+			<Text>"Điều thần bí là một sai lầm của một biểu tượng ngẫu nhiên và đơn lẻ cho vạn vật."[NEWLINE]– Ralph Waldo Emerson</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVIC_MYSTICISM_QUOTE_2">
-			<Text>"Tôi muốn nói rằng tôi thực hành thuyết thần bí về chiến đấu. Tôi chắc chắn với những thứ mà tôi không thật sự hiểu biết." [NEWLINE]– Rob Bell</Text>
+			<Text>"Tôi muốn nói rằng tôi thực hành thuyết thần bí về chiến đấu. Tôi chắc chắn với những thứ mà tôi không thật sự hiểu biết."[NEWLINE]– Rob Bell</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVIC_GAMES_RECREATION_QUOTE_1">
-			<Text>“Nếu thức ăn là điều cần thiết nhất để sống thì thư giãn sẽ là điều cần thiết thứ hai.” [NEWLINE]– Edward Bellamy</Text>
+			<Text>“Nếu thức ăn là điều cần thiết nhất để sống thì thư giãn sẽ là điều cần thiết thứ hai.”[NEWLINE]– Edward Bellamy</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVIC_GAMES_RECREATION_QUOTE_2">
-			<Text>“Nếu một người không thể tìm cho chính mình thời gian nghĩ ngơi thì trước sau gì cũng tìm đến đau đớn vì bệnh tật.” [NEWLINE]– John Wanamaker</Text>
+			<Text>“Nếu một người không thể tìm cho chính mình thời gian nghĩ ngơi thì trước sau gì cũng tìm đến đau đớn vì bệnh tật.”[NEWLINE]– John Wanamaker</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVIC_POLITICAL_PHILOSOPHY_QUOTE_1">
-			<Text>“Chính trị là nghệ thuật của sự khả thi, sự khả đạt - nghệ thuật của điều tốt đẹp nhất.” [NEWLINE]– Otto von Bismarck</Text>
+			<Text>“Chính trị là nghệ thuật của sự khả thi, sự khả đạt - nghệ thuật của điều tốt đẹp nhất.”[NEWLINE]– Otto von Bismarck</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVIC_POLITICAL_PHILOSOPHY_QUOTE_2">
-			<Text>“Chia để trị, một phương châm khôn ngoan. Đoàn kết và dẫn lối, một phương châm tốt hơn.” [NEWLINE]– Johann Wolfgang von Goethe</Text>
+			<Text>“Chia để trị, một phương châm khôn ngoan. Đoàn kết và dẫn lối, một phương châm tốt hơn.”[NEWLINE]– Johann Wolfgang von Goethe</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVIC_DRAMA_POETRY_QUOTE_1">
-			<Text>"Những bài thơ im lặng hoàn toàn một cách bí mật về chủ đề các quan lớn." [NEWLINE]- G. K. Chesterton</Text>
+			<Text>"Những bài thơ im lặng hoàn toàn một cách bí mật về chủ đề các quan lớn."[NEWLINE]- G. K. Chesterton</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVIC_DRAMA_POETRY_QUOTE_2">
-			<Text>"Cả thế giới là một sân khấu, và tất cả mọi người chỉ là người diễn." [NEWLINE]– William Shakespeare</Text>
+			<Text>"Cả thế giới là một sân khấu, và tất cả mọi người chỉ là người diễn."[NEWLINE]– William Shakespeare</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVIC_MILITARY_TRAINING_QUOTE_1">
-			<Text>"Nếu giết chóc là bẩm sinh, thì tại sao con người phải tập luyện nó?" [NEWLINE]– Joan Baez</Text>
+			<Text>"Nếu giết chóc là bẩm sinh, thì tại sao con người phải tập luyện nó?"[NEWLINE]– Joan Baez</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVIC_MILITARY_TRAINING_QUOTE_2">
-			<Text>"Những ai can thiệp vào những mối tranh chấp đều phải trả giá bằng chính máu của họ." [NEWLINE]- John Gay</Text>
+			<Text>"Những ai can thiệp vào những mối tranh chấp đều phải trả giá bằng chính máu của họ."[NEWLINE]- John Gay</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVIC_DEFENSIVE_TACTICS_QUOTE_1">
-			<Text>"Phòng ngự tốt ách sẽ giành chiến thắng trong tấn công." [NEWLINE]– Tôn Vũ</Text>
+			<Text>"Phòng ngự tốt ách sẽ giành chiến thắng trong tấn công."[NEWLINE]– Tôn Vũ</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVIC_DEFENSIVE_TACTICS_QUOTE_2">
-			<Text>"Phòng ngự chính là tinh hoa." [NEWLINE]– Adam Smith</Text>
+			<Text>"Phòng ngự chính là tinh hoa."[NEWLINE]– Adam Smith</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVIC_RECORDED_HISTORY_QUOTE_1">
-			<Text>"Tôi đã trải qua biết bao điều tồi tệ trong cuộc đời, một trong những điều đó chắc chắn xảy ra." [NEWLINE]- Mark Twain</Text>
+			<Text>"Tôi đã trải qua biết bao điều tồi tệ trong cuộc đời, một trong những điều đó chắc chắn xảy ra."[NEWLINE]- Mark Twain</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVIC_RECORDED_HISTORY_QUOTE_2">
-			<Text>"Lịch sử là phiên bản mà con người quyết định chấp nhận của những sự kiện trong quá khứ." [NEWLINE]– Napoleon Bonaparte</Text>
+			<Text>"Lịch sử là phiên bản mà con người quyết định chấp nhận của những sự kiện trong quá khứ."[NEWLINE]– Napoleon Bonaparte</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVIC_THEOLOGY_QUOTE_1">
-			<Text>“Chúng tôi không thể lý giải chính xác tôn giáo mà không có thần học, không thể đo lường chính xác vũ trụ mà không có toán học, hoặc không thể xác định nguyên tố mà không có hóa học.” [NEWLINE]– John Hall</Text>
+			<Text>“Chúng tôi không thể lý giải chính xác tôn giáo mà không có thần học, không thể đo lường chính xác vũ trụ mà không có toán học, hoặc không thể xác định nguyên tố mà không có hóa học.”[NEWLINE]– John Hall</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVIC_THEOLOGY_QUOTE_2">
-			<Text>"Con người gánh chịu nhiều thứ chỉ vì họ quá nghiêm trọng hóa những gì Chúa làm cho vui" [NEWLINE]– Alan W. Watts</Text>
+			<Text>"Con người gánh chịu nhiều thứ chỉ vì họ quá nghiêm trọng hóa những gì Chúa làm cho vui"[NEWLINE]– Alan W. Watts</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVIC_NAVAL_TRADITION_QUOTE_1">
-			<Text>"Hải quân mạnh không phải để kích động chiến tranh. Nó là để bảo đảm tốt nhất cho hòa bình." [NEWLINE] – Theodore Roosevelt</Text>
+			<Text>"Hải quân mạnh không phải để kích động chiến tranh. Nó là để bảo đảm tốt nhất cho hòa bình."[NEWLINE]– Theodore Roosevelt</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVIC_NAVAL_TRADITION_QUOTE_2">
-			<Text>"Hải quân chứa cả truyền thống và tương lai - và ta nhìn với sự tự hào và tự tin trên cả hai hướng." [NEWLINE]– Arleigh Burke</Text>
+			<Text>"Hải quân chứa cả truyền thống và tương lai - và ta nhìn với sự tự hào và tự tin trên cả hai hướng."[NEWLINE]– Arleigh Burke</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVIC_FEUDALISM_QUOTE_1">
-			<Text>“Trong thời dân chủ, những phiếu bầu của bạn được tính, ở thời phong kiến thì là vị bá tước của bạn bầu.” [NEWLINE]– Mogens Jallberg</Text>
+			<Text>“Trong thời dân chủ, những phiếu bầu của bạn được tính, ở thời phong kiến thì là vị bá tước của bạn bầu.”[NEWLINE]– Mogens Jallberg</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVIC_FEUDALISM_QUOTE_2">
-			<Text>“Sự thúc đẩy của Chế độ phong kiến đã dẫn đến sự phát triển của áo giáp sắt, đến cuối cùng, một chiến binh sẽ giống như con armadillo.” [NEWLINE]Armadilo là thú có mai, linh vật Word Cup 2014[NEWLINE]– John Boyle O’Reilly</Text>
+			<Text>“Sự thúc đẩy của Chế độ phong kiến đã dẫn đến sự phát triển của áo giáp sắt, đến cuối cùng, một chiến binh sẽ giống như con armadillo.”[NEWLINE]Armadilo là thú có mai, linh vật Word Cup 2014[NEWLINE]– John Boyle O’Reilly</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVIC_CIVIL_SERVICE_QUOTE_1">
-			<Text>"Nó toàn giấy và nghi thức, toàn bộ hệ thống dịch vụ dân sự như một pháo đài được xây bởi giấy tờ, hình thức và băng keo đỏ." [NEWLINE] – Alexander Ostrovsky</Text>
+			<Text>"Nó toàn giấy và nghi thức, toàn bộ hệ thống dịch vụ dân sự như một pháo đài được xây bởi giấy tờ, hình thức và băng keo đỏ."[NEWLINE]– Alexander Ostrovsky</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVIC_CIVIL_SERVICE_QUOTE_2">
-			<Text>"Người nộp thuế - đó là một người làm việc cho chính phủ liên bang, chứ không phải đi kiểm tra công vụ." [NEWLINE] - Ronald Reagan</Text>
+			<Text>"Người nộp thuế - đó là một người làm việc cho chính phủ liên bang, chứ không phải đi kiểm tra công vụ."[NEWLINE]- Ronald Reagan</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVIC_MERCENARIES_QUOTE_1">
-			<Text>“Trong thời bình họ bị bóc lột bởi lính đánh thuê; trong chiến tranh thì bởi kẻ thù.” [NEWLINE]– Niccolo Machiavelli</Text>
+			<Text>“Trong thời bình họ bị bóc lột bởi lính đánh thuê; trong chiến tranh thì bởi kẻ thù.”[NEWLINE]– Niccolo Machiavelli</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVIC_MERCENARIES_QUOTE_2">
-			<Text>“Là một lính đánh thuê, mặc dù... Này, chúng ta chỉ cần đi đến nơi nào có tiền và rắc rối.” [NEWLINE]– Howard Tayler</Text>
+			<Text>“Là một lính đánh thuê, mặc dù... Này, chúng ta chỉ cần đi đến nơi nào có tiền và rắc rối.”[NEWLINE]– Howard Tayler</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVIC_MEDIEVAL_FAIRES_QUOTE_1">
-			<Text>“Tất cả những gì lấp lánh chưa chắc phải là vàng, dù bạn thường nghe người ta nói thế.” [NEWLINE]– William Shakespeare</Text>
+			<Text>“Tất cả những gì lấp lánh chưa chắc phải là vàng, dù bạn thường nghe người ta nói thế.”[NEWLINE]– William Shakespeare</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVIC_MEDIEVAL_FAIRES_QUOTE_2">
-			<Text>“Có những người rất trung thực, những người không nghĩ rằng họ đã có một món hời, trừ khi họ đã lừa một thương gia.” [NEWLINE]– Anatole France</Text>
+			<Text>“Có những người rất trung thực, những người không nghĩ rằng họ đã có một món hời, trừ khi họ đã lừa một thương gia.”[NEWLINE]– Anatole France</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVIC_GUILDS_QUOTE_1">
-			<Text>"Mỗi ông bố nên để những đứa con trai của mình học về thương mại hoặc những ngành nghề hữu ích khác, vì một ngày nào đó vận may thay đổi... thì chúng vẫn có thể bương trải cho cuộc sống." [NEWLINE]– Phineas T. Barnum</Text>
+			<Text>"Mỗi ông bố nên để những đứa con trai của mình học về thương mại hoặc những ngành nghề hữu ích khác, vì một ngày nào đó vận may thay đổi... thì chúng vẫn có thể bương trải cho cuộc sống."[NEWLINE]– Phineas T. Barnum</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVIC_GUILDS_QUOTE_2">
-			<Text>"Chúng ta không thể đi truy nã Hội Trộm Cướp. Ý tôi là, chúng ta sẽ phải mất cả ngày mất!" [NEWLINE]– Terry Pratchett</Text>
+			<Text>"Chúng ta không thể đi truy nã Hội Trộm Cướp. Ý tôi là, chúng ta sẽ phải mất cả ngày mất!"[NEWLINE]– Terry Pratchett</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVIC_DIVINE_RIGHT_QUOTE_1">
-			<Text>“Ta kết luận dùng châm ngôn của thần học để nói về ưu điểm của vị vua, đó là sự báng bổ đến Chúa Trời... vì vậy ta phải tranh luận những gì một vị vua có thể được làm.” [NEWLINE]– King James I</Text>
+			<Text>“Ta kết luận dùng châm ngôn của thần học để nói về ưu điểm của vị vua, đó là sự báng bổ đến Chúa Trời... vì vậy ta phải tranh luận những gì một vị vua có thể được làm.”[NEWLINE]– King James I</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVIC_DIVINE_RIGHT_QUOTE_2">
-			<Text>"Những người phụ nữ kỳ lạ nằm dưới hồ đưa gươm cho ai không phải là nền tảng của một thể chế chính phủ... Ông không thể mong chờ có được quyền hành pháp tối cao chỉ vì 'một con mụ nào đó dưới nước thảy gươm cho ông!" [NEWLINE]– Monty Python</Text>
+			<Text>"Những người phụ nữ kỳ lạ nằm dưới hồ đưa gươm cho ai không phải là nền tảng của một thể chế chính phủ... Ông không thể mong chờ có được quyền hành pháp tối cao chỉ vì 'một con mụ nào đó dưới nước thảy gươm cho ông!"[NEWLINE]– Monty Python</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVIC_EXPLORATION_QUOTE_1">
-			<Text>"Ngày mà chúng ta ngừng khám phá là ngày chúng ta cam kết sống trong một thế giới trì trệ, không có sự tò mò, không có sự mơ mộng." [NEWLINE]– Neil deGrasse Tyson</Text>
+			<Text>"Ngày mà chúng ta ngừng khám phá là ngày chúng ta cam kết sống trong một thế giới trì trệ, không có sự tò mò, không có sự mơ mộng."[NEWLINE]– Neil deGrasse Tyson</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVIC_EXPLORATION_QUOTE_2">
-			<Text>“Chúng tôi sẽ bắt đầu thăm dò và tìm hiểu những gì diễn ra ngay khi đến nơi. Chúng tôi sẽ không ngừng thăm dò, và sẽ kết thúc tốt đẹp tất cả mọi cuộc thăm dò.” [NEWLINE]– T.S. Eliot</Text>
+			<Text>“Chúng tôi sẽ bắt đầu thăm dò và tìm hiểu những gì diễn ra ngay khi đến nơi. Chúng tôi sẽ không ngừng thăm dò, và sẽ kết thúc tốt đẹp tất cả mọi cuộc thăm dò.”[NEWLINE]– T.S. Eliot</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVIC_HUMANISM_QUOTE_1">
-			<Text>"Bốn đặc trưng của nhân đạo là sự hiếu kỳ, một trí óc tự do, niềm tin vào khẩu vị tốt, và niềm tin vào con người" [NEWLINE]– E.M. Forster</Text>
+			<Text>"Bốn đặc trưng của nhân đạo là sự hiếu kỳ, một trí óc tự do, niềm tin vào khẩu vị tốt, và niềm tin vào con người"[NEWLINE]– E.M. Forster</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVIC_HUMANISM_QUOTE_2">
-			<Text>"Bạn không được đánh mất niềm tin vào nhân loại. Nhân loại giống như đại dương; nếu một vài giọt nước nhiễm bẩn, chúng không làm bẩn cả đại dương." [NEWLINE] - Mahatma Gandhi</Text>
+			<Text>"Bạn không được đánh mất niềm tin vào nhân loại. Nhân loại giống như đại dương; nếu một vài giọt nước nhiễm bẩn, chúng không làm bẩn cả đại dương."[NEWLINE]- Mahatma Gandhi</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVIC_DIPLOMATIC_SERVICE_QUOTE_1">
-			<Text>"Trong ngoại giao luôn có hai loại vấn đề: loại ít nghiêm trọng và loại nghiêm trọng. Loại ít nghiêm trọng sẽ tự biến mất, còn loại nghiêm trọng thì bạn chẳng thể làm gì với nó được." [NEWLINE]– Patrick McGuinness</Text>
+			<Text>"Trong ngoại giao luôn có hai loại vấn đề: loại ít nghiêm trọng và loại nghiêm trọng. Loại ít nghiêm trọng sẽ tự biến mất, còn loại nghiêm trọng thì bạn chẳng thể làm gì với nó được."[NEWLINE]– Patrick McGuinness</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVIC_DIPLOMATIC_SERVICE_QUOTE_2">
-			<Text>"Nhà ngoại giao là người đàn ông luôn nhớ ngày sinh của phụ nữ nhưng không bao giờ nhớ tuổi cô ấy." [NEWLINE]– Robert Frost</Text>
+			<Text>"Nhà ngoại giao là người đàn ông luôn nhớ ngày sinh của phụ nữ nhưng không bao giờ nhớ tuổi cô ấy."[NEWLINE]– Robert Frost</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVIC_REFORMED_CHURCH_QUOTE_1">
-			<Text>"Tôi không thích việc phó thác bản thân vào Thiên đàng và Địa ngục, bạn thấy đó, tôi có nhiều bạn ở cả hai nơi." [NEWLINE]- Mark Twain</Text>
+			<Text>"Tôi không thích việc phó thác bản thân vào Thiên đàng và Địa ngục, bạn thấy đó, tôi có nhiều bạn ở cả hai nơi."[NEWLINE]- Mark Twain</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVIC_REFORMED_CHURCH_QUOTE_2">
-			<Text>“Ba nhân tố vĩ đại của nến văn minh hiện đại là: thuốc súng, in ấn, và đạo Tin Lành.” [NEWLINE]– Thomas Carlyle</Text>
+			<Text>“Ba nhân tố vĩ đại của nến văn minh hiện đại là: thuốc súng, in ấn, và đạo Tin Lành.”[NEWLINE]– Thomas Carlyle</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVIC_MERCANTILISM_QUOTE_1">
-			<Text>"Tuy nhiên, trong nền kinh tế thị trường, mỗi cá nhân có một số cơ hội thoát khỏi quyền lực của nhà nước." [NEWLINE]– Peter Berger</Text>
+			<Text>"Tuy nhiên, trong nền kinh tế thị trường, mỗi cá nhân có một số cơ hội thoát khỏi quyền lực của nhà nước."[NEWLINE]– Peter Berger</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVIC_MERCANTILISM_QUOTE_2">
-			<Text>"Được chứng kiến một nền kinh tế phi thị trường, tôi chợt hiểu ra rằng những gì tôi thích ở một nền kinh tế thị trường tốt hơn nhiều." [NEWLINE]– Esther Dyson</Text>
+			<Text>"Được chứng kiến một nền kinh tế phi thị trường, tôi chợt hiểu ra rằng những gì tôi thích ở một nền kinh tế thị trường tốt hơn nhiều."[NEWLINE]– Esther Dyson</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVIC_THE_ENLIGHTENMENT_QUOTE_1">
-			<Text>"Những ý kiến mới luôn bị nghi ngờ, và thường bị phản đối không bởi lý do nào khác ngoài việc chúng chưa được phổ biến." [NEWLINE]– John Locke</Text>
+			<Text>"Những ý kiến mới luôn bị nghi ngờ, và thường bị phản đối không bởi lý do nào khác ngoài việc chúng chưa được phổ biến."[NEWLINE]– John Locke</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVIC_THE_ENLIGHTENMENT_QUOTE_2">
-			<Text>“Bất cứ điều gì đối lập với bản chất là trái ngược với lý do, và bất cứ điều gì đối lập với lý do là lố bịch.” [NEWLINE]– Baruch Spinoza</Text>
+			<Text>“Bất cứ điều gì đối lập với bản chất là trái ngược với lý do, và bất cứ điều gì đối lập với lý do là lố bịch.”[NEWLINE]– Baruch Spinoza</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVIC_COLONIALISM_QUOTE_1">
-			<Text>"Hãy nhớ rằng, dù là chính trị, chủ nghĩa thực dân, chủ nghĩa đế quốc hay là chiến tranh đều có nguồn gốc từ con người mà ra." [NEWLINE]– Vilayanur Ramachandran</Text>
+			<Text>"Hãy nhớ rằng, dù là chính trị, chủ nghĩa thực dân, chủ nghĩa đế quốc hay là chiến tranh đều có nguồn gốc từ con người mà ra."[NEWLINE]– Vilayanur Ramachandran</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVIC_COLONIALISM_QUOTE_2">
-			<Text>"Ở chủ nghĩa thực dân, các Quy Tắc Hợp Lý được thi hành rộng rãi trong xã hội. Thế nhưng ai có thể thi hành nó với các địa chủ chứ?" [NEWLINE]– Anthony Burgess</Text>
+			<Text>"Ở chủ nghĩa thực dân, các Quy Tắc Hợp Lý được thi hành rộng rãi trong xã hội. Thế nhưng ai có thể thi hành nó với các địa chủ chứ?"[NEWLINE]– Anthony Burgess</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVIC_CIVIL_ENGINEERING_QUOTE_1">
-			<Text>"Sự tiến bộ tạo nên những con đường thẳng, nhưng những con đường quanh co gập ghềnh mới là đường của những thiên tài." [NEWLINE]– William Blake</Text>
+			<Text>"Sự tiến bộ tạo nên những con đường thẳng, nhưng những con đường quanh co gập ghềnh mới là đường của những thiên tài."[NEWLINE]– William Blake</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVIC_CIVIL_ENGINEERING_QUOTE_2">
-			<Text>"Khi con người cố gắng thiết kế, tạo ra một thứ gì đó, một lỗi thường gặp hết sức rõ ràng là do đánh giá thấp sự ngây thơ, ngu ngốc của bản thân." [NEWLINE]– Douglas Adams</Text>
+			<Text>"Khi con người cố gắng thiết kế, tạo ra một thứ gì đó, một lỗi thường gặp hết sức rõ ràng là do đánh giá thấp sự ngây thơ, ngu ngốc của bản thân."[NEWLINE]– Douglas Adams</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVIC_NATIONALISM_QUOTE_1">
-			<Text>"Chủ nghĩa dân tộc là thứ gây nguy hiểm cho dân tộc, chứ không phải con đường nào khác." [NEWLINE]– Ernest Gellner</Text>
+			<Text>"Chủ nghĩa dân tộc là thứ gây nguy hiểm cho dân tộc, chứ không phải con đường nào khác."[NEWLINE]– Ernest Gellner</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVIC_NATIONALISM_QUOTE_2">
-			<Text>"Bản chất con người; biểu hiện qua tính bầy đàn và chủ nghĩa dân tộc, tạo ra động lực thúc đẩy sự phát triển của máy móc trong quá trình tiến hóa của con người." [NEWLINE]– Arthur Keith</Text>
+			<Text>"Bản chất con người; biểu hiện qua tính bầy đàn và chủ nghĩa dân tộc, tạo ra động lực thúc đẩy sự phát triển của máy móc trong quá trình tiến hóa của con người."[NEWLINE]– Arthur Keith</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVIC_OPERA_BALLET_QUOTE_1">
-			<Text>"Opera là khi một người đàn ông bị đâm vào sau lưng, thay vì chảy máu, thì anh ta hát." [NEWLINE]- Robert Benchley</Text>
+			<Text>"Opera là khi một người đàn ông bị đâm vào sau lưng, thay vì chảy máu, thì anh ta hát."[NEWLINE]- Robert Benchley</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVIC_OPERA_BALLET_QUOTE_2">
-			<Text>"Nó (Ba lê) là một môn nghệ thuật đòi hỏi sử dụng sức mạnh một cách tinh tế và sự nhạy bén nắm bắt thời điểm." [NEWLINE]– Ayn Rand</Text>
+			<Text>"Nó (Ba lê) là một môn nghệ thuật đòi hỏi sử dụng sức mạnh một cách tinh tế và sự nhạy bén nắm bắt thời điểm."[NEWLINE]– Ayn Rand</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVIC_NATURAL_HISTORY_QUOTE_1">
-			<Text>"Nếu tôi được chỉ định ở vào lúc Khởi Nguyên của vạn vật, tôi sẽ đưa ra vài gợi ý có ích để tạo ra một vũ trụ tốt đẹp hơn." [NEWLINE]- Nelson Algren</Text>
+			<Text>"Nếu tôi được chỉ định ở vào lúc Khởi Nguyên của vạn vật, tôi sẽ đưa ra vài gợi ý có ích để tạo ra một vũ trụ tốt đẹp hơn."[NEWLINE]- Nelson Algren</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVIC_NATURAL_HISTORY_QUOTE_2">
-			<Text>“Trong tất cả tác phẩm về lịch sử của tự nhiên, chúng tôi không ngừng tìm kiếm những chi tiết sự thích nghi tuyệt vời của động vật trong chuỗi thức ăn, thói quen của chúng, và cả nơi chúng được tìm thấy.” [NEWLINE]– Alfred Wallace</Text>
+			<Text>“Trong tất cả tác phẩm về lịch sử của tự nhiên, chúng tôi không ngừng tìm kiếm những chi tiết sự thích nghi tuyệt vời của động vật trong chuỗi thức ăn, thói quen của chúng, và cả nơi chúng được tìm thấy.”[NEWLINE]– Alfred Wallace</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVIC_SCORCHED_EARTH_QUOTE_1">
-			<Text>"Chiến tranh là địa ngục." [NEWLINE]– William Tecumseh Sherman</Text>
+			<Text>"Chiến tranh là địa ngục."[NEWLINE]– William Tecumseh Sherman</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVIC_SCORCHED_EARTH_QUOTE_2">
-			<Text>"Tôi chỉ hiểu về tình bạn hoặc tiêu thổ." [NEWLINE]– Roger Ailes</Text>
+			<Text>"Tôi chỉ hiểu về tình bạn hoặc tiêu thổ."[NEWLINE]– Roger Ailes</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVIC_URBANIZATION_QUOTE_1">
-			<Text>“Đó là cách mạng công nghiệp và sự phát triển tập trung đô thị dẫn theo cảm giác không nói lên lời.” [NEWLINE]– Vint Cerf</Text>
+			<Text>“Đó là cách mạng công nghiệp và sự phát triển tập trung đô thị dẫn theo cảm giác không nói lên lời.”[NEWLINE]– Vint Cerf</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVIC_URBANIZATION_QUOTE_2">
-			<Text>“Tôi thích các thành phố bởi mọi thứ đều to lớn, cả cái đẹp và cái xấu.” [NEWLINE]– Joseph Brodsky</Text>
+			<Text>“Tôi thích các thành phố bởi mọi thứ đều to lớn, cả cái đẹp và cái xấu.”[NEWLINE]– Joseph Brodsky</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVIC_CAPITALISM_QUOTE_1">
-			<Text>“Điểm cố hữu của chủ nghĩa tư bản là sự chia sẻ không đồng đều niềm hạnh phúc; Điểm cố hữu của chủ nghĩa xã hội là sự chia sẻ đồng đều niềm khốn khó.” [NEWLINE]– Winston Churchill</Text>
+			<Text>“Điểm cố hữu của chủ nghĩa tư bản là sự chia sẻ không đồng đều niềm hạnh phúc; Điểm cố hữu của chủ nghĩa xã hội là sự chia sẻ đồng đều niềm khốn khó.”[NEWLINE]– Winston Churchill</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVIC_CAPITALISM_QUOTE_2">
-			<Text>"Hãy luôn cố gắng làm chủ tiền bạc, vì nếu bạn không đủ sức làm chủ tiền bạc, tiền bạc có thể làm chủ chính bạn." [NEWLINE]- Damon Runyon</Text>
+			<Text>"Hãy luôn cố gắng làm chủ tiền bạc, vì nếu bạn không đủ sức làm chủ tiền bạc, tiền bạc có thể làm chủ chính bạn."[NEWLINE]- Damon Runyon</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVIC_CONSERVATION_QUOTE_1">
-			<Text>“Nước và không khí, hai điều mà sự sống cần, đã và đang trở thành bãi rác của nhân loại.” [NEWLINE]– Jacques Yves Cousteau</Text>
+			<Text>“Nước và không khí, hai điều mà sự sống cần, đã và đang trở thành bãi rác của nhân loại.”[NEWLINE]– Jacques Yves Cousteau</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVIC_CONSERVATION_QUOTE_2">
-			<Text>"Đốn hạ rừng nhiệt đới để phát triển kinh tế cũng giống như việc đốt một bức họa thời Phục Hưng để nấu một bữa ăn." [NEWLINE]– Edward Wilson</Text>
+			<Text>"Đốn hạ rừng nhiệt đới để phát triển kinh tế cũng giống như việc đốt một bức họa thời Phục Hưng để nấu một bữa ăn."[NEWLINE]– Edward Wilson</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVIC_MASS_MEDIA_QUOTE_1">
-			<Text>“Hiệu ứng của phương tiện truyền thông không phải là để khơi gợi niềm tin, mà là để duy trì sự hăng hái của người dân.” [NEWLINE]– Christopher Lasch</Text>
+			<Text>“Hiệu ứng của phương tiện truyền thông không phải là để khơi gợi niềm tin, mà là để duy trì sự hăng hái của người dân.”[NEWLINE]– Christopher Lasch</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVIC_MASS_MEDIA_QUOTE_2">
-			<Text>"Nếu không đọc báo, bạn sẽ thiếu thông tin. Nếu đọc báo, bạn sẽ bị nhồi nhét những thông tin sai sự thật." [NEWLINE]-Mark Twain</Text>
+			<Text>"Nếu không đọc báo, bạn sẽ thiếu thông tin. Nếu đọc báo, bạn sẽ bị nhồi nhét những thông tin sai sự thật."[NEWLINE]-Mark Twain</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVIC_MOBILIZATION_QUOTE_1">
-			<Text>“Khi chuẩn bị cho chiến tranh, những người cai trị ba hoa rất nhiều về hòa bình cho đến khi hoàn tất mọi sự huy động.” [NEWLINE]– Stefan Zweig</Text>
+			<Text>“Khi chuẩn bị cho chiến tranh, những người cai trị ba hoa rất nhiều về hòa bình cho đến khi hoàn tất mọi sự huy động.”[NEWLINE]– Stefan Zweig</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVIC_MOBILIZATION_QUOTE_2">
-			<Text>"Để lên tinh thần cho người dân, các chính phủ cần có kẻ thù...nếu họ không có một kẻ thù thật sự, họ sẽ tạo ra chúng để làm chúng ta dao động." [NEWLINE]– Thích Nhất Hạnh</Text>
+			<Text>"Để lên tinh thần cho người dân, các chính phủ cần có kẻ thù...nếu họ không có một kẻ thù thật sự, họ sẽ tạo ra chúng để làm chúng ta dao động."[NEWLINE]– Thích Nhất Hạnh</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVIC_NUCLEAR_PROGRAM_QUOTE_1">
-			<Text>"Phát minh ra sức mạnh nguyên tử đã thay đổi mọi thứ ngoại trừ lối suy nghĩ của chúng ta... giải pháp cho vấn để dối trá của nhân loại. Nếu chỉ có tôi biết điều này, thì tôi nên trở thành người làm đồng hồ." [NEWLINE]– Albert Einstein</Text>
+			<Text>"Phát minh ra sức mạnh nguyên tử đã thay đổi mọi thứ ngoại trừ lối suy nghĩ của chúng ta... giải pháp cho vấn để dối trá của nhân loại. Nếu chỉ có tôi biết điều này, thì tôi nên trở thành người làm đồng hồ."[NEWLINE]– Albert Einstein</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVIC_NUCLEAR_PROGRAM_QUOTE_2">
-			<Text>"Tôi nghĩ rằng những đứa trẻ ở thời đại hạt nhân rất yếu trong mặt tình yêu. Khó có thể yêu, khi bạn đang giằng bản thân vì tác động." [NEWLINE]– Martin Amis</Text>
+			<Text>"Tôi nghĩ rằng những đứa trẻ ở thời đại hạt nhân rất yếu trong mặt tình yêu. Khó có thể yêu, khi bạn đang giằng bản thân vì tác động."[NEWLINE]– Martin Amis</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVIC_IDEOLOGY_QUOTE_1">
-			<Text>“Điếu đó đã được chứng minh không có chế độ, hay sự tàn bạo, có thể tồn tại mà không có một ý thức hệ nào.” [NEWLINE]– Joe Slovo</Text>
+			<Text>“Điếu đó đã được chứng minh không có chế độ, hay sự tàn bạo, có thể tồn tại mà không có một ý thức hệ nào.”[NEWLINE]– Joe Slovo</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVIC_IDEOLOGY_QUOTE_2">
-			<Text>“Một cách chậm rãi, ý tưởng dẫn đến tư tưởng, tư tưởng dẫn đến chính sách từ đó dẫn tới hành động.” [NEWLINE]– Nandan Nilekani</Text>
+			<Text>“Một cách chậm rãi, ý tưởng dẫn đến tư tưởng, tư tưởng dẫn đến chính sách từ đó dẫn tới hành động.”[NEWLINE]– Nandan Nilekani</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVIC_SUFFRAGE_QUOTE_1">
-			<Text>“Tại sao phụ nữ bị đối xử khác biệt? Phụ nữ đi bầu cử là một thành công, mặc dù mọi điều phản đối làm cho họ khổ sở.” [NEWLINE]– Victoria Woodhull</Text>
+			<Text>“Tại sao phụ nữ bị đối xử khác biệt? Phụ nữ đi bầu cử là một thành công, mặc dù mọi điều phản đối làm cho họ khổ sở.”[NEWLINE]– Victoria Woodhull</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVIC_SUFFRAGE_QUOTE_2">
-			<Text>“Đàn ông, quyền của họ, không gì cao hơn được nữa; phụ nữ, quyền của họ, chẳng có gì thấp bé hơn.” [NEWLINE]– Susan B. Anthony</Text>
+			<Text>“Đàn ông, quyền của họ, không gì cao hơn được nữa; phụ nữ, quyền của họ, chẳng có gì thấp bé hơn.”[NEWLINE]– Susan B. Anthony</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVIC_TOTALITARIANISM_QUOTE_1">
-			<Text>“Chỉ có đám đông và tầng lớp thống trị bị thu hút bởi những hấp dẫn của chế độ độc tài. Quần chúng đã chiến thắng nó bởi sự tuyên truyền.” [NEWLINE]– Hannah Arendt</Text>
+			<Text>“Chỉ có đám đông và tầng lớp thống trị bị thu hút bởi những hấp dẫn của chế độ độc tài. Quần chúng đã chiến thắng nó bởi sự tuyên truyền.”[NEWLINE]– Hannah Arendt</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVIC_TOTALITARIANISM_QUOTE_2">
-			<Text>"Cái kết cuối của mọi tư tưởng là chế độ toàn trị." [NEWLINE]– Tom Robbins</Text>
+			<Text>"Cái kết cuối của mọi tư tưởng là chế độ toàn trị."[NEWLINE]– Tom Robbins</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVIC_CLASS_STRUGGLE_QUOTE_1">
-			<Text>"Đây là tầng lớp chiến tranh, được thôi, nhưng nó là đẳng cấp của tôi, tầng lớp giàu có, điều đó gây nên chiến tranh... và chúng tôi đang chiến thắng."[NEWLINE] – Warren Buffett</Text>
+			<Text>"Đây là tầng lớp chiến tranh, được thôi, nhưng nó là đẳng cấp của tôi, tầng lớp giàu có, điều đó gây nên chiến tranh... và chúng tôi đang chiến thắng."[NEWLINE]– Warren Buffett</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVIC_CLASS_STRUGGLE_QUOTE_2">
-			<Text>“Đấu tranh giai cấp tất yếu dẫn đến chuyên chính vô sản.” [NEWLINE]– Karl Marx</Text>
+			<Text>“Đấu tranh giai cấp tất yếu dẫn đến chuyên chính vô sản.”[NEWLINE]– Karl Marx</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVIC_COLD_WAR_QUOTE_1">
-			<Text>“Từ Stettin ở Baltic đến Trieste ở Adriatic, một tấm màn sắt đã buông xuống khắp đại lục.” [NEWLINE]– Winston Churchill</Text>
+			<Text>“Từ Stettin ở Baltic đến Trieste ở Adriatic, một tấm màn sắt đã buông xuống khắp đại lục.”[NEWLINE]– Winston Churchill</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVIC_COLD_WAR_QUOTE_2">
-			<Text>"Chiến tranh lạnh thì không chấm dứt, nó đang được đốt bằng sức nóng chết người" [NEWLINE]– Richard Nixon</Text>
+			<Text>"Chiến tranh lạnh thì không chấm dứt, nó đang được đốt bằng sức nóng chết người"[NEWLINE]– Richard Nixon</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVIC_PROFESSIONAL_SPORTS_QUOTE_1">
-			<Text>"Nếu chiến thắng không phải là tất cả, thì tại sao bọn họ lại tiếp tục để đạt được nó?"[NEWLINE] – Vince Lombardi</Text>
+			<Text>"Nếu chiến thắng không phải là tất cả, thì tại sao bọn họ lại tiếp tục để đạt được nó?"[NEWLINE]– Vince Lombardi</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVIC_PROFESSIONAL_SPORTS_QUOTE_2">
-			<Text>"Thể thao không xây dựng nên tính cách. Chúng bọc lộ nó." [NEWLINE]- Heywood Broun</Text>
+			<Text>"Thể thao không xây dựng nên tính cách. Chúng bọc lộ nó."[NEWLINE]- Heywood Broun</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVIC_CULTURAL_HERITAGE_QUOTE_1">
-			<Text>"Một người không có kiến thức về lịch sử, nguồn gốc và văn hóa thì giống như cây không có rễ." [NEWLINE]– Marcus Garvey</Text>
+			<Text>"Một người không có kiến thức về lịch sử, nguồn gốc và văn hóa thì giống như cây không có rễ."[NEWLINE]– Marcus Garvey</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVIC_CULTURAL_HERITAGE_QUOTE_2">
-			<Text>"Bạn không tình cờ gặp di sản của mình. Nó ở ngay đó, chỉ là đang chờ đợi để được khám phá và chia sẻ." [NEWLINE]– Robbie Robertson</Text>
+			<Text>"Bạn không tình cờ gặp di sản của mình. Nó ở ngay đó, chỉ là đang chờ đợi để được khám phá và chia sẻ."[NEWLINE]– Robbie Robertson</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVIC_RAPID_DEPLOYMENT_QUOTE_1">
-			<Text>"Một kế hoạch tốt được thực hiện ngay bây giờ tốt hơn rất nhiều một kế hoạch hoàn hảo mà được thi triển vào tuần sau." [NEWLINE]- George S. Patton</Text>
+			<Text>"Một kế hoạch tốt được thực hiện ngay bây giờ tốt hơn rất nhiều một kế hoạch hoàn hảo mà được thi triển vào tuần sau."[NEWLINE]- George S. Patton</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVIC_RAPID_DEPLOYMENT_QUOTE_2">
-			<Text>"Đừng nghĩ đến việc bẻ lái, cứ đâm thẳng vào chúng." [NEWLINE]- Horatio Nelson</Text>
+			<Text>"Đừng nghĩ đến việc bẻ lái, cứ đâm thẳng vào chúng."[NEWLINE]- Horatio Nelson</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVIC_SPACE_RACE_QUOTE_1">
-			<Text>"Chúng ta chọn du hành lên mặt trăng trong thập kỷ này và thực hiện nhiều điều khác nữa, không phải vì chúng dễ, mà bởi vì chúng khó." [NEWLINE]– John F. Kennedy</Text>
+			<Text>"Chúng ta chọn du hành lên mặt trăng trong thập kỷ này và thực hiện nhiều điều khác nữa, không phải vì chúng dễ, mà bởi vì chúng khó."[NEWLINE]– John F. Kennedy</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVIC_SPACE_RACE_QUOTE_2">
-			<Text>"NASA chi hàng tỷ đô-la để phát minh ra bút bi viết trên không gian. Người Nga thì cần dùng cây bút chì" [NEWLINE]– Will Chabot</Text>
+			<Text>"NASA chi hàng tỷ đô-la để phát minh ra bút bi viết trên không gian. Người Nga thì cần dùng cây bút chì"[NEWLINE]– Will Chabot</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVIC_GLOBALIZATION_QUOTE_1">
-			<Text>"Người ta nói rằng chống lại sự toàn cầu hóa cũng giống như chống lại trọng lực."[NEWLINE] – Kofi Annan</Text>
+			<Text>"Người ta nói rằng chống lại sự toàn cầu hóa cũng giống như chống lại trọng lực."[NEWLINE]– Kofi Annan</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVIC_GLOBALIZATION_QUOTE_2">
-			<Text>"Một ngày nào đó sẽ không còn những biên giới, ranh giới, cờ hiệu và quốc gia và giấy thông hành duy nhất sẽ là con tim." [NEWLINE]– Carlos Santana</Text>
+			<Text>"Một ngày nào đó sẽ không còn những biên giới, ranh giới, cờ hiệu và quốc gia và giấy thông hành duy nhất sẽ là con tim."[NEWLINE]– Carlos Santana</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVIC_SOCIAL_MEDIA_QUOTE_1">
-			<Text>"Tất cả những thứ quan trọng của tôi sẽ không chia sẻ với bạn đầu tiên." [NEWLINE]-Jane Austen</Text>
+			<Text>"Tất cả những thứ quan trọng của tôi sẽ không chia sẻ với bạn đầu tiên."[NEWLINE]-Jane Austen</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVIC_SOCIAL_MEDIA_QUOTE_2">
-			<Text>“Phân thâm từ không tập trung bởi sự lơ đãng!”[NEWLINE] – T.S. Eliot</Text>
+			<Text>“Phân thâm từ không tập trung bởi sự lơ đãng!”[NEWLINE]– T.S. Eliot</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVIC_FUTURE_CIVIC_QUOTE_1">
-			<Text>"Bạn không thể lên kế hoạch cho tương lai khi dựa vào quá khứ." [NEWLINE]-Edmund Burke</Text>
+			<Text>"Bạn không thể lên kế hoạch cho tương lai khi dựa vào quá khứ."[NEWLINE]-Edmund Burke</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVIC_FUTURE_CIVIC_QUOTE_2">
-			<Text>“Tôi không bao giờ nghĩ về tương lai. Nó sẽ đến sớm thôi.”[NEWLINE] –Albert Einstein</Text>
+			<Text>“Tôi không bao giờ nghĩ về tương lai. Nó sẽ đến sớm thôi.”[NEWLINE]–Albert Einstein</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_GREATWORK_BHASA_1_QUOTE">
 			<Text>Anh ta như sấm sét giáng xuống những ngọn núi oai hùng,[NEWLINE]như đại bàng thống lĩnh các loài chim, như sư tử chúa tể muôn thú,[NEWLINE]Sự chết chóc, trong hình dạng con người.</Text>
@@ -812,7 +812,7 @@
 			<Text>Điều cần thiết cho người sáng lập ra nền cộng hòa, và thiết lập các luật lệ vào nó, để giả định các tội ác của con người, và luôn luôn sẵn sàng đưa dã tâm vào trong tâm hồn của họ mỗi khi có cơ hội.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_GREATWORK_SHAKESPEARE_1_QUOTE">
-			<Text>Ô, lời thề không phải của trăng, trăng không kiên định,[NEWLINE] Là chu kỳ vòng quay quỹ đạo,[NEWLINE]Sợ rằng tình yêu thay đổi giống như trăng.</Text>
+			<Text>Ô, lời thề không phải của trăng, trăng không kiên định,[NEWLINE]Là chu kỳ vòng quay quỹ đạo,[NEWLINE]Sợ rằng tình yêu thay đổi giống như trăng.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_GREATWORK_SHAKESPEARE_2_QUOTE">
 			<Text>Tồn tại, hay không tồn tại? Đó chính là câu hỏi—[NEWLINE]Dù cho tâm trí luôn cao thượng[NEWLINE]Cung và tên kết thúc số phận,[NEWLINE]Hãy nắm chặt tay đương đầu với khó khăn,[NEWLINE]Bởi ganh đua, hãy kết thúc nó?</Text>
@@ -827,13 +827,13 @@
 			<Text>Những ước mơ, những giấc mơ! Nó đã đi đâu rồi? Nó đã từng ngọt ngào biết bao.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_GREATWORK_PUSHKIN_2_QUOTE">
-			<Text>Như một số thẩm phán trong bộ cánh xám văn phòng,[NEWLINE]Ông ấy điềm tĩnh khi suy ngẫm [NEWLINE]Và bất công, cùng với sự lãnh đạm khi lưu ý[NEWLINE]Xấu xa và tốt lành, và hiểu biết không phải phẫn nộ cũng không phải thương xót.</Text>
+			<Text>Như một số thẩm phán trong bộ cánh xám văn phòng,[NEWLINE]Ông ấy điềm tĩnh khi suy ngẫm[NEWLINE]Và bất công, cùng với sự lãnh đạm khi lưu ý[NEWLINE]Xấu xa và tốt lành, và hiểu biết không phải phẫn nộ cũng không phải thương xót.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_GREATWORK_POE_1_QUOTE">
 			<Text>Tên côn đồ! Tôi hét lên, "Không thể che giấu nữa! Tôi xin thừa nhận! –nước mắt rớt lên sàn nhà! Ở đây, ở đây! --Tim đập liên hồi vì tôi ghê tởm chính mình!"</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_GREATWORK_POE_2_QUOTE">
-			<Text>Khi tôi mơ màng, gần như sắp ngủ, đột nhiên có ai đến,[NEWLINE]Một cách nhẹ nhàng ở cửa phòng tôi. [NEWLINE]“‘Có khách viếng thăm,” tôi càu nhàu,”Hãy gõ cửa phòng tôi—[NEWLINE]Hãy làm như vậy và không gì khác.”</Text>
+			<Text>Khi tôi mơ màng, gần như sắp ngủ, đột nhiên có ai đến,[NEWLINE]Một cách nhẹ nhàng ở cửa phòng tôi.[NEWLINE]“‘Có khách viếng thăm,” tôi càu nhàu,”Hãy gõ cửa phòng tôi—[NEWLINE]Hãy làm như vậy và không gì khác.”</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_GREATWORK_AUSTEN_1_QUOTE">
 			<Text>"Phụ nữ có trí tưởng tượng biến hóa nhanh chóng vô cùng, nó dễ dàng chuyển từ trạng thái ngưỡng mộ thành tình yêu, rồi lại nhảy tới hôn nhân chỉ trong một tích tắc."</Text>
@@ -863,7 +863,7 @@
 			<Text>Chú chim sà xuống bậc thềm—[NEWLINE]Chú không biết là tôi quan sát—[NEWLINE]Chú chỉ biết thức ăn đang đợi[NEWLINE]Và hãy ăn đi, chú chim non.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_GREATWORK_DICKINSON_2_QUOTE">
-			<Text>Với những ai thành công [NEWLINE]Thành công là điều ngọt ngào nhất.[NEWLINE]Để hiểu được mỹ tửu[NEWLINE]Cần có người làm ra.</Text>
+			<Text>Với những ai thành công[NEWLINE]Thành công là điều ngọt ngào nhất.[NEWLINE]Để hiểu được mỹ tửu[NEWLINE]Cần có người làm ra.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_GREATWORK_TOLSTOY_1_QUOTE">
 			<Text>“Pierre đã đúng khi ông nói rằng con người phải tin vào khả năng của hạnh phúc để đạt được hạnh phúc, và bây giờ tôi tin vào điều đó. Hãy để kẻ chết chôn kẻ chết, nhưng khi tôi còn sống, tôi phải sống và sống hạnh phúc.”</Text>
@@ -926,7 +926,7 @@
 			<Text>"Có đến bảy kỳ quan trên thế giới, và việc khám phá ra Đội quân đất nung, có thể nói, đây là điều kỳ diệu thứ tám."[NEWLINE]– Jacques Chirac</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_BUILDING_ALHAMBRA_QUOTE">
-			<Text>“Mọi thứ ở đây xuất hiện như thể được tính toán để truyền cảm hứng cho những xúc cảm tốt đẹp và hạnh phúc, mọi thứ ở đây thật trang nhã và ấn tượng.”[NEWLINE] - Washington Irving</Text>
+			<Text>“Mọi thứ ở đây xuất hiện như thể được tính toán để truyền cảm hứng cho những xúc cảm tốt đẹp và hạnh phúc, mọi thứ ở đây thật trang nhã và ấn tượng.”[NEWLINE]- Washington Irving</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_BUILDING_CRISTO_REDENTOR_QUOTE">
 			<Text>"Như vậy, các tác phẩm điêu khắc dùng để cho mọi người một suy nghĩ - 'Tất cả mọi thứ đang nằm trong tay của Chúa.'"[NEWLINE]– Sergey Semenov</Text>
@@ -938,7 +938,7 @@
 			<Text>“Dòng nước được dẫn lên nơi cao nhất bằng những bậc thang, và ở bên cạnh là cơ chế luân chuyển nước, nhờ sự phân chia rõ ràng này, khu vườn liên tục được cấp nước từ sông Euphrates.”[NEWLINE]– Strabo</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_BUILDING_FORBIDDEN_CITY_QUOTE">
-			<Text>“Toàn bộ cung điện được xây dựng dọc theo một trục trung tâm, trục của nơi đây, tất cả mọi thứ từ bốn hướng khởi đầu từ điểm trung tâm này chính biểu trưng cho cung điện.”[NEWLINE] - Jeffrey Riegel</Text>
+			<Text>“Toàn bộ cung điện được xây dựng dọc theo một trục trung tâm, trục của nơi đây, tất cả mọi thứ từ bốn hướng khởi đầu từ điểm trung tâm này chính biểu trưng cho cung điện.”[NEWLINE]- Jeffrey Riegel</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_BUILDING_HERMITAGE_QUOTE">
 			<Text>“Bảo tàng lịch sữ là tiền tuyến cho cuộc chiến đấu cho nền văn minh, giữa thiện và ác - trong mọi hoàn cảnh, nó là cuộc chiến giữa văn minh và ngu muội.”[NEWLINE]– Mikhail Piotrovsky, Director of the State Hermitage</Text>
@@ -953,7 +953,7 @@
 			<Text>“Ngọn hải đăng này là trung tâm của mọi ánh nhìn.”[NEWLINE]– Henry David Thoreau</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_BUILDING_SYDNEY_OPERA_HOUSE_QUOTE">
-			<Text>"Một vở nhạc kịch bắt đầu từ trước khi màn được kéo lên và kết thúc sau khi màn được hạ xuống. Điều đó bắt đầu trong trí tưởng tượng của tôi, nó trở thành cuộc sống của tôi, và đó vẫn là một phần trong cuộc sống của tôi khi tôi đã rời khỏi nhà hát "[NEWLINE] - Maria Callas</Text>
+			<Text>"Một vở nhạc kịch bắt đầu từ trước khi màn được kéo lên và kết thúc sau khi màn được hạ xuống. Điều đó bắt đầu trong trí tưởng tượng của tôi, nó trở thành cuộc sống của tôi, và đó vẫn là một phần trong cuộc sống của tôi khi tôi đã rời khỏi nhà hát "[NEWLINE]- Maria Callas</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_BUILDING_GREAT_ZIMBABWE_QUOTE">
 			<Text>“Vua Solomon đã ban tặng cho Nữ hoàng xứ Sheba tất cả những điều cô mong muốn và yêu cầu; hơn thế nữa nhà vua đã ban cho cô kho tàng hoàng gia của mình. Vì thế, cô và tôi tớ của mình quay trở lại và sau đó trở về đất nước của mình.””[NEWLINE]– 1 Kings, 10:13</Text>
@@ -968,7 +968,7 @@
 			<Text>“Trong suốt chiều dài lịch sử, chỉ có 3 người có thể khiến sân vận động Maracana im lặng đó là: Giáo Hoàng, Frank Sinatra, và tôi.”[NEWLINE]– Alcides Ghiggia, Cầu thủ Uruguayan</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_BUILDING_VENETIAN_ARSENAL_QUOTE">
-			<Text>“Chính quyền Venice đã khắc lên vũ khí của họ dòng chữ này: ‘Hạnh phúc của thành phố chính là trong thời thái bình hãy nghĩ về chiến tranh.’”[NEWLINE] - Robert Burton</Text>
+			<Text>“Chính quyền Venice đã khắc lên vũ khí của họ dòng chữ này: ‘Hạnh phúc của thành phố chính là trong thời thái bình hãy nghĩ về chiến tranh.’”[NEWLINE]- Robert Burton</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_BUILDING_RUHR_VALLEY_QUOTE">
 			<Text>“Trái tim công nghiệp của nước Đức đã ngừng đập. Hầu như không ai làm việc; hầu như tất cả đều trốn tránh. Vì dân cư của vùng Ruhr ... đã nhận được trợ cấp từ mọi nơi trên đất nước.”[NEWLINE]– Adam Fergusson</Text>
@@ -977,7 +977,7 @@
 			<Text>“Ở một góc nhộn nhịp của thành phố Bihar Ấn Độ, trong màn sương bụi, có một nơi huyền diệu làm người ta liên tưởng như là trung tâm của Phật giáo.”[NEWLINE]– Hướng dẫn viên, Bodh Gaya</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_BUILDING_HAGIA_SOPHIA_QUOTE">
-			<Text>“Đó là một đài tưởng niệm thật đẹp và quan trọng và là một kho tàng văn hóa quốc tế... Trừ phi và cho đến khi nó được chia sẻ bởi cả hai tôn giáo trong sự hòa hợp - sẽ là một ý tưởng lớn - đó sẽ là một biểu tượng muôn thưở mà cả hai tôn giáo đã chung tay làm cho nó tốt đẹp.” [NEWLINE]– Ljubo Vujovic</Text>
+			<Text>“Đó là một đài tưởng niệm thật đẹp và quan trọng và là một kho tàng văn hóa quốc tế... Trừ phi và cho đến khi nó được chia sẻ bởi cả hai tôn giáo trong sự hòa hợp - sẽ là một ý tưởng lớn - đó sẽ là một biểu tượng muôn thưở mà cả hai tôn giáo đã chung tay làm cho nó tốt đẹp.”[NEWLINE]– Ljubo Vujovic</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_BUILDING_GREAT_LIBRARY_QUOTE">
 			<Text>“Chúng ta có thể đi khắp nơi các ngăn xếp cồng kềnh của Thư viện Alexandria, nơi mà tất cả trí tưởng tượng và kiến thức được tập hợp; chúng ta có thể nhận ra sự hủy diệt của nó cảnh báo rằng tất cả những thứ chúng ta thu thập sẽ mất.”[NEWLINE]– Alberto Manguel</Text>

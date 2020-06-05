@@ -83,5 +83,24 @@
 		<Replace Language='en_US' Tag="LOC_TRAIT_LEADER_FALL_BABYLON_EXPANSION1_DESCRIPTION">
 			<Text>+2 [ICON_Movement] Di chuyển cho 10 lượt đầu sau khi tuyên bố chiến tranh bất ngờ với một nền văn minh lớn. +5 Trung thành mỗi lượt trong các thành phố đã chiếm với một đơn vị đồn trú. Tuyên bố chiến tranh bất ngờ chỉ được tính như một Chiến tranh chính thức cho mục đích gây chiến và mệt mỏi chiến tranh.</Text>
 		</Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_LEADER_HELLENISTIC_FUSION_EXPANSION1_DESCRIPTION">
+			<Text>Khi chinh phục một thành phố không phải là Thành phố Tự do, sẽ nhận một [ICON_TechBoosted] Eureka cho mỗi Encampment hoặc Campus trong thành phố bị chinh phục và [ICON_CivicBoosted] Cảm hứng cho mỗi Thánh địa hoặc Quảng trường Nhà hát.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_HYPASPIST_DESCRIPTION">
+			<Text>+5 [ICON_Strength] Sức mạnh chiến đấu khi bao vây quận.[NEWLINE][ICON_Bullet] +50% Tiền thưởng hỗ trợ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_HETAIROI_DESCRIPTION">
+			<Text>+5 [ICON_Strength] Sức mạnh chiến đấu khi tiếp giáp với một đại tướng.[NEWLINE][ICON_Bullet] +5 Điểm chung tuyệt vời khi tiêu diệt một đơn vị kẻ thù.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_BASILIKOI_TRAINED_UNIT_XP_DESCRIPTION">
+			<Text>+25% kinh nghiệm chiến đấu từ Basilikoi Paides.</Text>
+		</Replace>
+		<!-- Expansion 2 -->
+		<Replace Language='en_US' Tag="LOC_TRAIT_LEADER_FALL_BABYLON_EXPANSION2_DESCRIPTION">
+			<Text>+2 [ICON_Movement] Phong trào trong 10 lượt đầu tiên sau khi tuyên bố Cuộc chiến bất ngờ đối với một nền văn minh lớn. +5 Mức độ trung thành mỗi lượt tại các thành phố bị chiếm đóng với đơn vị đồn trú. Tuyên bố một cuộc chiến bất ngờ chỉ được tính là một cuộc chiến chính thức cho các mục đích của [ICON_STAT_GRIEVANCE] Khiếu nại và hâm nóng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_BASILIKOI_PAIDES_EXPANSION2_DESCRIPTION">
+			<Text>Một tòa nhà độc đáo của georgon. +25% kinh nghiệm chiến đấu cho tất cả các đơn vị cận chiến, tầm xa và Hetairoi được đào tạo tại thành phố này. Kiếm được [ICON_SCIENCE] Khoa học bằng 25% chi phí của đơn vị khi một đơn vị phi dân sự được tạo ra ở thành phố này.[NEWLINE][NEWLINE]Kho dự trữ tài nguyên chiến lược tăng +10 (trên Tốc độ tiêu chuẩn). được xây dựng trong một quận Encampment đã có Ổn định.</Text>
+		</Replace>
 	</LocalizedText>
 </GameData>

@@ -93,10 +93,10 @@
 		<Replace Language='en_US' Tag="LOC_ABILITY_BERSERKER_MOVEMENT_NAME">
 			<Text>Kẻ điên Na Uy di chuyển</Text>
 		</Replace>
-    <Replace Language='en_US' Tag="LOC_ABILITY_LONGSHIP_MOVEMENT_NAME">
-      <Text>Thuyền dài Viking di chuyển</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_ABILITY_PRIZE_SHIPS_NAME">
+		<Replace Language='en_US' Tag="LOC_ABILITY_LONGSHIP_MOVEMENT_NAME">
+			<Text>Thuyền dài Viking di chuyển</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_PRIZE_SHIPS_NAME">
 			<Text>Cướp thuyền</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_ABILITY_CAPTIVE_WORKERS_NAME">
@@ -208,6 +208,9 @@
 		<Replace Language='en_US' Tag="LOC_ABILITY_UNOBSTRUCTED_VIEW_DESCRIPTION">
 			<Text>Tầm nhìn không bị cản trở bởi địa hình.</Text>
 		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_OBSERVATION_STRENGTH_BONUS_DESCRIPTION">
+			<Text>Cấp phạm vi +1 [ICON_Range] cho các đơn vị lớp Siege trong vòng 1 hex.</Text>
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_ABILITY_OLIGARCHY_MELEE_BUFF_DESCRIPTION">
 			<Text>+4 [ICON_Strength] Sức mạnh từ chính phủ Thiểu số chính trị.</Text>
 		</Replace>
@@ -235,6 +238,9 @@
 		<Replace Language='en_US' Tag="LOC_ABILITY_COASTAL_RAID_DESCRIPTION">
 			<Text>Hải quân cận chiến của Harald Hardrada có thể cướp bóc các kiến trúc và công trình trên vùng đất ven biển.</Text>
 		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_MELEE_COASTAL_RAID_NAME_DESCRIPTION">
+			<Text>Có thể cướp bóc các tòa nhà và cải tiến và bắt các đơn vị dân sự trên vùng đất ven biển. (Hardrada)</Text>
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_ABILITY_BYPASS_COMBAT_UNIT_DESCRIPTION">
 			<Text>Hỗ trợ đơn vị tấn công trực tiếp kể cả nếu họ đang trong đoàn hộ tống với một đơn vị chiến đấu.</Text>
 		</Replace>
@@ -250,10 +256,10 @@
 		<Replace Language='en_US' Tag="LOC_ABILITY_BERSERKER_MOVEMENT_DESCRIPTION">
 			<Text>+2 [ICON_Movement] Di chuyển nếu đơn vị này bắt đầu trên lãnh thổ địch.</Text>
 		</Replace>
-    <Replace Language='en_US' Tag="LOC_ABILITY_LONGSHIP_MOVEMENT_DESCRIPTION">
-      <Text>+1 [ICON_Movement] Di chuyển trong vùng bờ biển.</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_ABILITY_PRIZE_SHIPS_DESCRIPTION">
+		<Replace Language='en_US' Tag="LOC_ABILITY_LONGSHIP_MOVEMENT_DESCRIPTION">
+			<Text>+1 [ICON_Movement] Di chuyển trong vùng bờ biển.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_PRIZE_SHIPS_DESCRIPTION">
 			<Text>Có thể bắt kẻ địch bại trận bằng tàu hải quân.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_ABILITY_CAPTIVE_WORKERS_DESCRIPTION">
@@ -301,18 +307,133 @@
 		<Replace Language='en_US' Tag="LOC_ABILITY_SAMURAI_DESCRIPTION">
 			<Text>Đơn vị này không bị giảm sức mạnh khi bị thương.</Text>
 		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_BARRACKS_TRAINED_UNIT_XP_DESCRIPTION">
+			<Text>+25% kinh nghiệm kiếm được từ doanh trại</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_STABLE_TRAINED_UNIT_XP_DESCRIPTION">
+			<Text>+25% kinh nghiệm kiếm được từ Trại ngựa</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_ARMORY_TRAINED_UNIT_XP_DESCRIPTION">
+			<Text>+25% kinh nghiệm kiếm được từ Kho vũ khí</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_MILITARY_ACADEMY_TRAINED_UNIT_XP_DESCRIPTION">
+			<Text>+25% kinh nghiệm kiếm được từ Học viện quân sự</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_LIGHTHOUSE_TRAINED_UNIT_XP_DESCRIPTION">
+			<Text>+5% kinh nghiệm kiếm được từ Hải đăng</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_SHIPYARD_TRAINED_UNIT_XP_DESCRIPTION">
+			<Text>+5% kinh nghiệm kiếm được từ xưởng đóng tàu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_SEAPORT_TRAINED_UNIT_XP_DESCRIPTION">
+			<Text>+5% kinh nghiệm kiếm được từ cảng biển</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_HANGAR_TRAINED_AIRCRAFT_XP_DESCRIPTION">
+			<Text>+5% kinh nghiệm kiếm được từ Hangar</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_AIRPORT_TRAINED_AIRCRAFT_XP_DESCRIPTION">
+			<Text>+50% kinh nghiệm kiếm được từ sân bay</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_ROYAL_NAVY_DOCKYARD_MOVEMENT_BONUS_DESCRIPTION">
+			<Text>+1 [ICON_Movement] Di Chuyển từ Xưởng hải quân Hoàng gia.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_ROMAN_LEGION_BUILD_DESCRIPTION">
+			<Text>Có thể xây dựng Pháo đài La Mã cải tiến độc đáo.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_GREAT_LIGHTHOUSE_MOVEMENT_DESCRIPTION">
+			<Text>+1 [ICON_Movement] Di Chuyển từ Ngọn hải đăng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_GREAT_LIGHTHOUSE_EMBARKED_MOVEMENT_DESCRIPTION">
+			<Text>+1 Embarked [ICON_Movement] Di Chuyển từ Ngọn hải đăng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_RANGED_ATTACK_DISTRICT_DEBUFF_DESCRIPTION">
+			<Text>[COLOR_RED]-17 [ICON_Ranged][ENDCOLOR]Phạm vi sức mạnh so với các quận và các đơn vị hải quân.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_BOMBARD_ATTACK_UNIT_DEBUFF_DESCRIPTION">
+			<Text>[COLOR_RED]-17 [ICON_Bombard][ENDCOLOR]Sức mạnh của Đơn vị Ném bom so với các đơn vị khác.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_AIR_FIGHTER_ATTACK_DISTRICT_DEBUFF_DESCRIPTION">
+			<Text>[COLOR_RED]-17 [ICON_Ranged][ENDCOLOR]Phạm vi sức mạnh so với đặc khu.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_AIR_BOMBER_ATTACK_UNIT_DEBUFF_DESCRIPTION">
+			<Text>[COLOR_RED]-17 [ICON_Bombard][ENDCOLOR]Sức mạnh của Đơn vị Ném bom so với các đơn vị khác.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_ANTI_AIR_COVER_DESCRIPTION">
+			<Text>Cung cấp phòng thủ từ các cuộc tấn công trên không lên đến 1 hex.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PREVIEW_MONTEZUMA_COMBAT_BONUS_PER_LUXURY_DESCRIPTION">
+			<Text>+{1_Amount} [ICON_Sturdy] Sức mạnh chiến đấu từ xa xỉ. (Montezuma)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_PHILIP_II_COMBAT_BONUS_OTHER_RELIGION_DESCRIPTION">
+			<Text>+4 [ICON_Strength] Sức mạnh chiến đấu so với các đơn vị của một tôn giáo khác. (Philip II)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_BARBAROSSA_COMBAT_BONUS_VS_CITY_STATES_DESCRIPTION">
+			<Text>+7 [ICON_Strength] Sức mạnh chiến đấu so với thành phố tự trị. (Barbarossa)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_ROOSEVELT_COMBAT_BONUS_HOME_CONTINENT_DESCRIPTION">
+			<Text>+5 [ICON_Strength] Sức mạnh chiến đấu trên lục địa nhà. (Roosevelt)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_TOMYRIS_BONUS_VS_WOUNDED_UNITS_DESCRIPTION">
+			<Text>+5 [ICON_Strength] Sức mạnh chiến đấu so với các đơn vị bị thương. (Tomyris)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_TOMYRIS_HEAL_AFTER_DEFEATING_UNIT_DESCRIPTION">
+			<Text>+30 [ICON_Damaged] Sức khỏe sau khi đánh bại một đơn vị kẻ thù. (Tomyris)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_KNARR_IGNORE_EMBARK_DISEMBARK_COST_DESCRIPTION">
+			<Text>Bỏ qua chi phí di chuyển bổ sung từ bắt đầu và lên xuống. (Knarr)</Text>
+		</Replace>
+		<!--Great People Assigned-->
+		<Replace Language='en_US' Tag="LOC_ABILITY_RAJENDRA_CHOLA_PLUNDER_BONUS_DESCRIPTION">
+			<Text>+40% Phần thưởng cho các tuyến đường thương mại. (Rajendra Chola)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_FRANCIS_DRAKE_PLUNDER_BONUS_DESCRIPTION">
+			<Text>+50% Phần thưởng cho các tuyến thương mại. (Francis Drake)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_CHING_SHIH_PLUNDER_BONUS_DESCRIPTION">
+			<Text>+60% Phần thưởng cho các tuyến thương mại. (Ching Shih)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_CLANCY_FERNANDO_BONUS_EXPERIENCE_DESCRIPTION">
+			<Text>+200% kinh nghiệm kiếm được từ chiến đấu. (Clancy Fernando)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_HORATIO_NELSON_FLANKING_BONUS_DESCRIPTION">
+			<Text>+50% Phòng ngự. (Horatio Nelson)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_LASKARINA_BOUBOULINA_BONUS_EXPERIENCE_DESCRIPTION">
+			<Text>+50% Kinh nghiệm kiếm được từ chiến đấu. (Laskarina Bouboulina)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_SERGEY_GORSHKOV_BONUS_EXPERIENCE_DESCRIPTION">
+			<Text>+100% Kinh nghiệm kiếm được từ chiến đấu (Sergey Gorshkov)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_GEORGY_ZHUKOV_FLANKING_BONUS_DESCRIPTION">
+			<Text>+50% Phòng ngự. (Georgy Zhukov)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_JOHN_MONASH_BONUS_EXPERIENCE_DESCRIPTION">
+			<Text>+75 Kinh nghiệm kiếm được từ chiến đấu. (John Monash)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_VIJAYA_WIMALARATNE_BONUS_EXPERIENCE_DESCRIPTION">
+			<Text>+100 Kinh nghiệm kiếm được từ chiến đấu. (Vijaya Wimalaratne)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_HOJO_TOKIMUNE_COASTAL_COMBAT_BONUS_DESCRIPTION">
+			<Text>+5 [ICON_Strength] Sức mạnh chiến đấu khi chiến đấu trên đất liền ven biển. (Hojo Tokimune)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_HOJO_TOKIMUNE_SHALLOW_WATER_COMBAT_BONUS_DESCRIPTION">
+			<Text>+5 [ICON_Strength] Sức mạnh chiến đấu khi chiến đấu ở vùng nước nông. (Hojo Tokimune)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_MONTEZUMA_COMBAT_BONUS_PER_LUXURY_DESCRIPTION">
+			<Text>+1 [ICON_Strength] Sức mạnh chiến đấu cho mỗi sở hữu sang trọng độc đáo.</Text>
+		</Replace>
 		<!-- Combat preview description -->
 		<Replace Language='en_US' Tag="LOC_COMBAT_DIFFICULTY_SCALING">
-			<Text>+{Amount} thưởng do khó khăn.</Text>
+			<Text>+{Amount} [ICON_Strength] thưởng do khó khăn.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_ABILITY_ANTI_CAVALRY_MODIFIER_DESCRIPTION">
-			<Text>+10 chống kỵ binh</Text>
+			<Text>+10 [ICON_Strength] chống kỵ binh</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_ABILITY_ANTI_FIGHTER_AIRCRAFT_MODIFIER_DESCRIPTION">
-			<Text>+5 chống chiến đấu cơ</Text>
+			<Text>+5 [ICON_Strength] chống chiến đấu cơ</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_ABILITY_HEAVY_CHARIOT_MODIFIER_DESCRIPTION">
-			<Text>+1 điểm di chuyển khi bắt đầu trên địa hình mở.</Text>
+			<Text>+1 [ICON_Movement] điểm di chuyển khi bắt đầu trên địa hình mở.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_ABILITY_IGNORE_TERRAIN_COST_MODIFIER_DESCRIPTION">
 			<Text>Tất cả địa hình chỉ mất 1 [ICON_Movement] Di chuyển.</Text>
@@ -321,7 +442,7 @@
 			<Text>Không ảnh hưởng bởi kiểm soát khu vực.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_ABILITY_LIGHT_CHARIOT_MODIFIER_DESCRIPTION">
-			<Text>+2 điểm di chuyển khi bắt đầu trên địa hình mở.</Text>
+			<Text>+2 [ICON_Movement] điểm di chuyển khi bắt đầu trên địa hình mở.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_ABILITY_NO_MOVE_AND_SHOOT_MODIFIER_DESCRIPTION">
 			<Text>Không thể di chuyển sau tấn công.</Text>

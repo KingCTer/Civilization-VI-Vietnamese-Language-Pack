@@ -719,10 +719,10 @@
 			<Text>Sea Level rises +{1_Num} meters</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CLIMATE_TILES_AT_OR_BELOW_FLOOD_TOOLTIP">
-			<Text>[NEWLINE]Lowland tiles will flood at or below:[NEWLINE] {1_Name}</Text>
+			<Text>[NEWLINE]Lowland tiles will flood at or below:[NEWLINE]{1_Name}</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CLIMATE_TILES_AT_OR_BELOW_SUBMERGE_TOOLTIP">
-			<Text>[NEWLINE]Lowland tiles will be submerged at or below:[NEWLINE] {1_Name}</Text>
+			<Text>[NEWLINE]Lowland tiles will be submerged at or below:[NEWLINE]{1_Name}</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CLIMATE_POLAR_ICE_MELT_TOOLTIP">
 			<Text>Polar Ice Melt {1_Num}%</Text>

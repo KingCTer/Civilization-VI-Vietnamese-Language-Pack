@@ -511,7 +511,7 @@
 			<Text>KẾT THÚC LƯỢT</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_META_19_BODY">
-			<Text>Bởi vì Chiến Binh của ngài đã sử dụng hết số điểm [ICON_Movement] Di Chuyển, họ đã hành động xong hết lượt.[NEWLINE][NEWLINE] Sản Phẩm và nhiệm vụ nghiên cứu của ngài vẫn đang trong tiến trình, vì vậy không còn quyết định nào cần chọn nữa.</Text>
+			<Text>Bởi vì Chiến Binh của ngài đã sử dụng hết số điểm [ICON_Movement] Di Chuyển, họ đã hành động xong hết lượt.[NEWLINE][NEWLINE]Sản Phẩm và nhiệm vụ nghiên cứu của ngài vẫn đang trong tiến trình, vì vậy không còn quyết định nào cần chọn nữa.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_META_19b_BODY">
 			<Text>Nhấn Lượt Tiếp Theo lần nữa.</Text>
@@ -895,7 +895,7 @@
 			<Text>Chăn Nuôi cho phép xây dựng Bãi Chăn và Trại trong thành phố.[NEWLINE][NEWLINE]Đồ Đồng cho phép quân đội mở khóa Dựng Trại đào tạo Giáo Sĩ.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_META_86_BODY">
-			<Text>Một số tòa nhà chỉ có thể xây trên Đặc Khu. Thư Viện là một kiến trúc trong Khu Tri Thức. Khi toàn tất Khu Tri Thức, chúng ta có thể xây Thư Viện.</Text>
+			<Text>Một số kiến trúc chỉ có thể xây trên Đặc Khu. Thư Viện là một kiến trúc trong Khu Tri Thức. Khi toàn tất Khu Tri Thức, chúng ta có thể xây Thư Viện.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_META_87_HEAD">
 			<Text>XÂY THƯ VIỆN</Text>
@@ -904,7 +904,7 @@
 			<Text>Click CHỌN SẢN PHẨM để bắt đầu xây THƯ VIỆN.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_META_88_BODY">
-			<Text>Chúc mừng!!![NEWLINE]Ngài đã chiến thắng trò chơi đầu tiên của mình trong Civilization. [NEWLINE][NEWLINE]Bây giờ ngài đã sẵn sàng đương đầu với những thử thách và nhiệm vụ lớn hơn, khám phá thế giới, gặp những nền văn minh mới lần đầu tiên, và đạt được chiến thắng theo cách của ngài.</Text>
+			<Text>Chúc mừng!!![NEWLINE]Ngài đã chiến thắng trò chơi đầu tiên của mình trong Civilization.[NEWLINE][NEWLINE]Bây giờ ngài đã sẵn sàng đương đầu với những thử thách và nhiệm vụ lớn hơn, khám phá thế giới, gặp những nền văn minh mới lần đầu tiên, và đạt được chiến thắng theo cách của ngài.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_META_89_BODY">
 			<Text>Khi trong tham chiến với một nền văn minh khác, tốt nhất là có đủ số lượng đơn vị chiến đấu, vừa để bảo vệ thành trì cũng như chiến đấu ở ngoài nước.</Text>
@@ -1027,7 +1027,7 @@
 			<Text>Mỗi thành phố tạo ra các sản lượng ở mỗi lượt. Chúng được lấy từ các ô lục giác trong biên giới.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_META_107_BODY">
-			<Text>[ICON_Food] Thực phẩm và [ICON_Production] Sản phẩm là hai trong số sản lượng.[NEWLINE][NEWLINE] [ICON_Food] Thực phẩm phát triển thì tăng [ICON_Citizen] Dân số. [NEWLINE][NEWLINE] [ICON_Production] Sản phẩm sử dụng để sản xuất đơn vị, xây dựng khu vực và kiến trúc... Có [ICON_Production] Sản phẩm nhiều thì có thể xây dựng mọi thứ nhanh hơn.</Text>
+			<Text>[ICON_Food] Thực phẩm và [ICON_Production] Sản phẩm là hai trong số sản lượng.[NEWLINE][NEWLINE][ICON_Food] Thực phẩm phát triển thì tăng [ICON_Citizen] Dân số.[NEWLINE][NEWLINE][ICON_Production] Sản phẩm sử dụng để sản xuất đơn vị, xây dựng khu vực và kiến trúc... Có [ICON_Production] Sản phẩm nhiều thì có thể xây dựng mọi thứ nhanh hơn.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_META_108_BODY">
 			<Text>Tuy nhiên, mỗi ô lục giác cần phải được làm hoạt động bởi [ICON_Citizen] Dân số để tạo ra sản lượng.[NEWLINE][NEWLINE]Mỗi [ICON_Citizen] Dân số có thể làm việc với một ô trong phạm vi biên giới.</Text>
@@ -1195,7 +1195,7 @@
 			<Text>Để chiến thắng một ván chơi trong Civilization, ngài cần tiêu diệt tất cả nền văn minh khác trên thế giới. Có nhiều cách để đạt được điều này. Hầu hết ván đấu sẽ kết thúc vào năm 2050 hoặc sau một số lượt đi nhất định. Nếu chưa có người chơi nào đạt được chiến thắng bằng các cách trên, điểm số sẽ đánh giá người chiến thắng. Điểm số được tính như một thước đo cho các thành tựu của người chơi trên mọi lĩnh vực bằng sự nỗ lực của họ.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_META_119_BODY">
-			<Text>Trang thái của mỗi điều kiện chiến thắng có trong BẢNG XẾP HẠNG THẾ GIỚI. [NEWLINE][NEWLINE]Mở nó ngay.</Text>
+			<Text>Trang thái của mỗi điều kiện chiến thắng có trong BẢNG XẾP HẠNG THẾ GIỚI.[NEWLINE][NEWLINE]Mở nó ngay.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_META_119a_HEAD">
 			<Text>BẢNG XẾP HẠNG THẾ GIỚI</Text>

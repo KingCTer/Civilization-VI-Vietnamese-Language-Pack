@@ -138,7 +138,7 @@
 			<Text>Nhận miễn phí một đơn vị khi chiếm một thành phố có Cung Điện hoặc Kỳ Quan khi Alexander nằm trong một ô, như sau:</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_ALEXANDER_SCENARIO_WORLD_RANKING_5">
-			<Text>[NEWLINE][ICON_Bullet]Athens: 2 Lính xiên Greek[NEWLINE][ICON_Bullet]Babylon: 1 Bắn tên[NEWLINE][ICON_Bullet]Halicarnassus: 1 Thuyền buồm[NEWLINE][ICON_Bullet]Marakanda: 1 Tiễn mã Saka[NEWLINE][ICON_Bullet]Memphis: 1 Tiễn mã Ai Cập[NEWLINE][ICON_Bullet]Parsa: 2 Lính [NEWLINE][ICON_Bullet]Patala: 1 Voi Ấn Độ</Text>
+			<Text>[NEWLINE][ICON_Bullet]Athens: 2 Lính xiên Greek[NEWLINE][ICON_Bullet]Babylon: 1 Bắn tên[NEWLINE][ICON_Bullet]Halicarnassus: 1 Thuyền buồm[NEWLINE][ICON_Bullet]Marakanda: 1 Tiễn mã Saka[NEWLINE][ICON_Bullet]Memphis: 1 Tiễn mã Ai Cập[NEWLINE][ICON_Bullet]Parsa: 2 Lính[NEWLINE][ICON_Bullet]Patala: 1 Voi Ấn Độ</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_ALEXANDER_SCENARIO_WORLD_RANKING_6">
 			<Text>Những thành phố còn lại để chinh phục: {1_Cities}</Text>

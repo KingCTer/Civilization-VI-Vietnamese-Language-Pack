@@ -3,15 +3,15 @@
 <GameData>
 	<LocalizedText>
 		<!-- Types -->
-    <Replace Language='en_US' Tag="LOC_BELIEF_NAME">
-      <Text>Tín ngưỡng</Text>
-    </Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_NAME">
+			<Text>Tín ngưỡng</Text>
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_BUILDING_NAME">
 			<Text>Kiến trúc</Text>
 		</Replace>
-    <Replace Language='en_US' Tag="LOC_BUILDING_NAME_REPLACES">
-      <Text>Kiến trúc (thay thế {1_BuildingName})</Text>
-    </Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_NAME_REPLACES">
+			<Text>Kiến trúc (thay thế {1_BuildingName})</Text>
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVIC_NAME">
 			<Text>Hành chính</Text>
 		</Replace>
@@ -54,15 +54,15 @@
 		<Replace Language='en_US' Tag="LOC_UNIT_NAME">
 			<Text>Đơn vị</Text>
 		</Replace>
-    <Replace Language='en_US' Tag="LOC_UNIT_NAME_REPLACES">
-      <Text>Đơn vị (thay thế {1_UnitName})</Text>
-    </Replace>
+		<Replace Language='en_US' Tag="LOC_UNIT_NAME_REPLACES">
+			<Text>Đơn vị (thay thế {1_UnitName})</Text>
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_WONDER_NAME">
 			<Text>Kỳ quan</Text>
 		</Replace>
-    <Replace Language='en_US' Tag="LOC_WONDER_NAME_REPLACES">
-      <Text>Kỳ quan (thay thế {1_WonderName})</Text>
-    </Replace>
+		<Replace Language='en_US' Tag="LOC_WONDER_NAME_REPLACES">
+			<Text>Kỳ quan (thay thế {1_WonderName})</Text>
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_NATURAL_WONDER_NAME">
 			<Text>Kỳ quan thiên nhiên</Text>
 		</Replace>
@@ -73,7 +73,7 @@
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_BUILDING_ALHAMBRA_NAME">
 			<Text>Pháo đài Alhambra</Text>
-      <Gender>Masculine:the</Gender>
+			<Gender>Masculine:the</Gender>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_BUILDING_AMPHITHEATER_NAME">
 			<Text>Đấu trường La Mã</Text>
@@ -95,18 +95,18 @@
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_BUILDING_BIG_BEN_NAME">
 			<Text>Tháp Big Ben</Text>
-      <Gender>Masculine:no_article</Gender>
+			<Gender>Masculine:no_article</Gender>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_BUILDING_BOLSHOI_THEATRE_NAME">
 			<Text>Nhà hát Bolshoi</Text>
-      <Gender>Masculine:the</Gender>
+			<Gender>Masculine:the</Gender>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_BUILDING_BROADCAST_CENTER_NAME">
 			<Text>Đài phát thanh</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_BUILDING_BROADWAY_NAME">
 			<Text>Sân khấu Broadway</Text>
-      <Gender>Masculine:no_article</Gender>
+			<Gender>Masculine:no_article</Gender>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_BUILDING_BUILDINGS">
 			<Text>Kiến trúc</Text>
@@ -119,32 +119,32 @@
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_BUILDING_CHICHEN_ITZA_NAME">
 			<Text>Di tích Chichen Itza</Text>
-      <Gender>Masculine:no_article</Gender>
+			<Gender>Masculine:no_article</Gender>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_BUILDING_COLOSSEUM_NAME">
 			<Text>Đấu trường Colosseum</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_BUILDING_COLOSSUS_NAME">
 			<Text>Tượng khổng lồ</Text>
-      <Gender>Masculine:the</Gender>
+			<Gender>Masculine:the</Gender>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_BUILDING_CRISTO_REDENTOR_NAME">
 			<Text>Tượng Chúa Kitô Cứu Thế</Text>
-      <Gender>Masculine:no_article</Gender>
+			<Gender>Masculine:no_article</Gender>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_BUILDING_DAR_E_MEHR_NAME">
 			<Text>Dar-e Mehr</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_BUILDING_EIFFEL_TOWER_NAME">
 			<Text>Tháp Eiffel</Text>
-      <Gender>Masculine:the</Gender>
+			<Gender>Masculine:the</Gender>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_BUILDING_ELECTRONICS_FACTORY_NAME">
 			<Text>Nhà máy điện tử</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_BUILDING_ESTADIO_DO_MARACANA_NAME">
 			<Text>Sân vận động Maracanã</Text>
-      <Gender>Masculine:the</Gender>
+			<Gender>Masculine:the</Gender>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_BUILDING_FACTORY_NAME">
 			<Text>Nhà máy</Text>
@@ -154,36 +154,36 @@
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_BUILDING_FORBIDDEN_CITY_NAME">
 			<Text>Tử Cấm Thành</Text>
-      <Gender>Masculine:the</Gender>
+			<Gender>Masculine:the</Gender>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_BUILDING_GRANARY_NAME">
 			<Text>Kho thóc</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_BUILDING_GREAT_LIBRARY_NAME">
 			<Text>Thư viện Alexandria</Text>
-      <Gender>Masculine:the</Gender>
+			<Gender>Masculine:the</Gender>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_BUILDING_GREAT_LIGHTHOUSE_NAME">
 			<Text>Hải đăng Alexandria</Text>
-      <Gender>Masculine:the</Gender>
+			<Gender>Masculine:the</Gender>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_BUILDING_GREAT_ZIMBABWE_NAME">
 			<Text>Di tích Great Zimbabwe</Text>
-      <Gender>Masculine:the</Gender>
+			<Gender>Masculine:the</Gender>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_BUILDING_GURDWARA_NAME">
 			<Text>Thánh đường Sikh</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_BUILDING_HAGIA_SOPHIA_NAME">
 			<Text>Thánh đường hồi giáo</Text>
-      <Gender>Masculine:no_article</Gender>
+			<Gender>Masculine:no_article</Gender>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_BUILDING_HANGAR_NAME">
 			<Text>Xưởng máy bay</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_BUILDING_HANGING_GARDENS_NAME">
 			<Text>Vườn treo Babylon</Text>
-      <Gender>Masculine:the</Gender>
+			<Gender>Masculine:the</Gender>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_BUILDING_HERMITAGE_NAME">
 			<Text>Bảo tàng Ermitazh</Text>
@@ -202,7 +202,7 @@
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_BUILDING_MAHABODHI_TEMPLE_NAME">
 			<Text>Chùa Mahabodhi</Text>
-      <Gender>Masculine:the</Gender>
+			<Gender>Masculine:the</Gender>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_BUILDING_MARKET_NAME">
 			<Text>Chợ</Text>
@@ -218,7 +218,7 @@
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_BUILDING_MONT_ST_MICHEL_NAME">
 			<Text>Di sản Mont St. Michel</Text>
-      <Gender>Masculine:no_article</Gender>
+			<Gender>Masculine:no_article</Gender>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_BUILDING_MONUMENT_NAME">
 			<Text>Đài tưởng niệm</Text>
@@ -239,7 +239,7 @@
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_BUILDING_ORACLE_NAME">
 			<Text>Đền thờ Oracle</Text>
-      <Gender>Masculine:an</Gender>
+			<Gender>Masculine:an</Gender>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_BUILDING_OXFORD_UNIVERSITY_NAME">
 			<Text>Đại học Oxford</Text>
@@ -252,25 +252,25 @@
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_BUILDING_PETRA_NAME">
 			<Text>Di tích Petra</Text>
-      <Gender>Masculine:no_article</Gender>
+			<Gender>Masculine:no_article</Gender>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_BUILDING_POTALA_PALACE_NAME">
 			<Text>Cung điện Potala</Text>
-      <Gender>Masculine:no_article</Gender>
+			<Gender>Masculine:no_article</Gender>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_BUILDING_POWER_PLANT_NAME">
 			<Text>Nhà máy điện</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_BUILDING_PYRAMIDS_NAME">
 			<Text>Kim tự tháp</Text>
-      <Gender>Masculine:the</Gender>
+			<Gender>Masculine:the</Gender>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_BUILDING_RESEARCH_LAB_NAME">
 			<Text>Viện nghiên cứu</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_BUILDING_RUHR_VALLEY_NAME">
 			<Text>Thung lũng Ruhr</Text>
-      <Gender>Masculine:no_article</Gender>
+			<Gender>Masculine:no_article</Gender>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_BUILDING_SEAPORT_NAME">
 			<Text>Hải cảng</Text>
@@ -320,7 +320,7 @@
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_BUILDING_TERRACOTTA_ARMY_NAME">
 			<Text>Đội quân đất nung</Text>
-      <Gender>Masculine:the</Gender>
+			<Gender>Masculine:the</Gender>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_BUILDING_UNIVERSITY_NAME">
 			<Text>Trường đại học</Text>
@@ -717,8 +717,8 @@
 			<Text>Nena</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CONTINENT_NORTH_AMERICA_DESCRIPTION">
-      		<Text>Bắc Mỹ</Text>
-   		</Replace>
+			<Text>Bắc Mỹ</Text>
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_CONTINENT_NOVOPANGAEA_DESCRIPTION">
 			<Text>Novopangaea</Text>
 		</Replace>
@@ -726,8 +726,8 @@
 			<Text>Nuna</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CONTINENT_OCEANIA_DESCRIPTION">
-      		<Text>Đại Dương</Text>
-    	</Replace>
+			<Text>Đại Dương</Text>
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_CONTINENT_PANGAEA_DESCRIPTION">
 			<Text>Pangaea</Text>
 		</Replace>
@@ -744,8 +744,8 @@
 			<Text>Siberia</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CONTINENT_SOUTH_AMERICA_DESCRIPTION">
-      		<Text>Nam Mỹ</Text>
-    	</Replace>
+			<Text>Nam Mỹ</Text>
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_CONTINENT_TERRA_AUSTRALIS_DESCRIPTION">
 			<Text>Úc Địa</Text>
 		</Replace>
@@ -937,11 +937,26 @@
 		<Replace Language='en_US' Tag="LOC_MAP_ISLAND_PLATES">
 			<Text>Island Plates</Text>
 		</Replace>
+		<Replace Language='en_US' Tag="LOC_MAP_LAKES">
+			<Text>Hồ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MAP_MIRROR">
+			<Text>Mirror</Text>
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_MAP_PANGAEA">
 			<Text>Pangaea</Text>
 		</Replace>
+		<Replace Language='en_US' Tag="LOC_MAP_SEVEN_SEAS">
+			<Text>Bảy đại dương</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MAP_SMALL_CONTINENTS">
+			<Text>Lục địa nhỏ</Text>
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_MAP_SHUFFLE">
 			<Text>Trộn lẫn</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MAP_TERRA">
+			<Text>Đất</Text>
 		</Replace>
 		<!-- Map Sizes -->
 		<Replace Language='en_US' Tag="LOC_MAP_SIZE">
@@ -1700,7 +1715,7 @@
 			<Text>Nấm mồ</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_IMPROVEMENT_MISSION_NAME">
-			<Text>Tòa nhà truyền giáo</Text>
+			<Text>Kiến trúc truyền giáo</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_IMPROVEMENT_ROMAN_FORT_NAME">
 			<Text>Pháo đài La Mã</Text>
@@ -1983,7 +1998,7 @@
 			<Text>Chia sẻ nhà thờ</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_POLICY_SKYSCRAPERS_NAME">
-			<Text>Tòa nhà chọc trời</Text>
+			<Text>Kiến trúc chọc trời</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_POLICY_SPORTS_MEDIA_NAME">
 			<Text>Thể thao đại chúng</Text>
@@ -2639,6 +2654,27 @@
 		<Replace Language='en_US' Tag="LOC_TERRAIN_OUTOFPLAY_NAME">
 			<Text>Ô trống</Text>
 		</Replace>
+		<Replace Language='en_US' Tag="LOC_TERRAIN_CLASS_GRASS_NAME">
+			<Text>Lớp cỏ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TERRAIN_CLASS_MOUNTAIN_NAME">
+			<Text>Lớp núi</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TERRAIN_CLASS_PLAINS_NAME">
+			<Text>Lớp đồng bằng</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TERRAIN_CLASS_DESERT_NAME">
+			<Text>Lớp sa mạc</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TERRAIN_CLASS_TUNDRA_NAME">
+			<Text>Lớp lãnh nguyên</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TERRAIN_CLASS_SNOW_NAME">
+			<Text>Lớp tuyết</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TERRAIN_CLASS_WATER_NAME">
+			<Text>Lớp nước</Text>
+		</Replace>
 		<!-- Units -->
 		<Replace Language='en_US' Tag="LOC_UNIT_AIRCRAFT_CARRIER_NAME">
 			<Text>Tàu sân bay</Text>
@@ -2776,11 +2812,11 @@
 		<Replace Language='en_US' Tag="LOC_UNIT_GREAT_MUSICIAN_NAME">
 			<Text>Nhạc sĩ vĩ đại</Text>
 		</Replace>
-		<Replace Language='en_US' Tag="LOC_UNIT_HEAVY_CHARIOT_NAME">
-			<Text>Chiến xa hạng nặng</Text>
-		</Replace>
 		<Replace Language='en_US' Tag="LOC_UNIT_GURU_NAME">
 			<Text>Đại Tu Sĩ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNIT_HEAVY_CHARIOT_NAME">
+			<Text>Chiến xa hạng nặng</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_UNIT_HELICOPTER_NAME">
 			<Text>Trực thăng</Text>
@@ -2991,6 +3027,8 @@
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVILIZATION_AZTEC_NAME">
 			<Text>Aztec</Text>
+      <Gender>Masculine:the</Gender>
+      <Plurality>2</Plurality>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_LEADER_MONTEZUMA_NAME">
 			<Text>Montezuma</Text>

@@ -1665,10 +1665,10 @@
 			<Text>Áp lực từ các [ICON_Citizen] Công dân gần đó</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CULTURAL_IDENTITY_POPULATION_PRESSURE_TOOLTIP_MAJOR_CIVS">
-			<Text>Khoảng từ +20 đến -20, dựa trên sự so sánh áp lực đến từ các Công dân lân cận thuộc chủ sở hữu của thành phố và các Công dân lân cận thuộc một nền văn minh khác.[NEWLINE][ICON_Bullet]1 Áp lực mỗi [ICON_Citizen] Công dân bình thường[NEWLINE] [ICON_BULLET] Tăng trong [ICON_Capital] Thủ đô[NEWLINE][ICON_BULLET]Có thể bị ảnh hưởng bởi Thời Vàng son, Thời Đen tối tối, và dự án Bánh mì và Rạp riếc của thành phố[NEWLINE][ICON_BULLET]Cũng áp dụng cho các thành phố khác trong vòng 9 ô, nhưng hiệu quả trên mỗi ô giảm 10%</Text>
+			<Text>Khoảng từ +20 đến -20, dựa trên sự so sánh áp lực đến từ các Công dân lân cận thuộc chủ sở hữu của thành phố và các Công dân lân cận thuộc một nền văn minh khác.[NEWLINE][ICON_Bullet]1 Áp lực mỗi [ICON_Citizen] Công dân bình thường[NEWLINE][ICON_BULLET] Tăng trong [ICON_Capital] Thủ đô[NEWLINE][ICON_BULLET]Có thể bị ảnh hưởng bởi Thời Vàng son, Thời Đen tối tối, và dự án Bánh mì và Rạp riếc của thành phố[NEWLINE][ICON_BULLET]Cũng áp dụng cho các thành phố khác trong vòng 9 ô, nhưng hiệu quả trên mỗi ô giảm 10%</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CULTURAL_IDENTITY_POPULATION_PRESSURE_TOOLTIP_MINOR_CIVS">
-			<Text>Khoảng từ +20 đến -20, dựa trên sự so sánh áp lực đến từ các Công dân lân cận thuộc chủ sở hữu của thành phố và các Công dân lân cận thuộc một nền văn minh khác.[NEWLINE][ICON_Bullet]1 Áp lực mỗi [ICON_Citizen] Công dân bình thường[NEWLINE] [ICON_BULLET] Tăng trong [ICON_Capital] Thủ đô</Text>
+			<Text>Khoảng từ +20 đến -20, dựa trên sự so sánh áp lực đến từ các Công dân lân cận thuộc chủ sở hữu của thành phố và các Công dân lân cận thuộc một nền văn minh khác.[NEWLINE][ICON_Bullet]1 Áp lực mỗi [ICON_Citizen] Công dân bình thường[NEWLINE][ICON_BULLET] Tăng trong [ICON_Capital] Thủ đô</Text>
 		</Replace>
 		<!-- Dedications-->
 		<Replace Language='en_US' Tag="LOC_TECH_BOOST_DEDICATION_NOTIFICATION">

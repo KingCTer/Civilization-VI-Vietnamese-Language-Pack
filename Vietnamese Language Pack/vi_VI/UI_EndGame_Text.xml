@@ -23,10 +23,10 @@
 		<Replace Language='en_US' Tag="LOC_UI_ENDGAME_REPLAY">
 			<Text>BIỂU ĐỒ</Text>
 		</Replace>
-    <Replace Language='en_US' Tag="LOC_UI_ENDGAME_CHAT">
-      <Text>TRÒ CHUYỆN</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UI_ENDGAME_NUMBERING_FORMAT">
+		<Replace Language='en_US' Tag="LOC_UI_ENDGAME_CHAT">
+			<Text>TRÒ CHUYỆN</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UI_ENDGAME_NUMBERING_FORMAT">
 			<Text>{1_number}.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_UI_ENDGAME_POP_SCORE">
@@ -35,7 +35,6 @@
 		<Replace Language='en_US' Tag="LOC_UI_ENDGAME_LEADER_NAME">
 			<Text>Tên Lãnh Đạo</Text>
 		</Replace>
-
 		<!-- Rankings -->
 		<Replace Language='en_US' Tag="LOC_UI_ENDGAME_RANKING_STATEMENT">
 			<Text>Bạn đã đạt đến cấp của {1_LeaderName}</Text>
@@ -166,12 +165,10 @@
 		<Replace Language='en_US' Tag="LOC_UI_ENDGAME_RANKING_LEADER_21_QUOTE">
 			<Text>Nếu chúng ta không thành công, chúng ta đặt may rủi vào thất bại.</Text>
 		</Replace>
-
 		<!-- Replay -->
 		<Replace Language='en_US' Tag="LOC_UI_ENDGAME_REPLAY_NOGRAPHDATA">
 			<Text>Không Có Biểu Đồ</Text>
 		</Replace>
-
 		<!-- Graph Data Sets -->
 		<Replace Language='en_US' Tag="LOC_REPLAYDATASET_CULTURE_NAME">
 			<Text>Văn Minh mỗi lượt</Text>

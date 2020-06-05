@@ -137,6 +137,12 @@
 		<Replace Language='en_US' Tag="LOC_BELIEF_GODDESS_OF_THE_HARVEST_NAME">
 			<Text>Nữ Thần Vụ Mùa</Text>
 		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_CITY_PATRON_GODDESS_NAME">
+			<Text>Nữ thần bảo trợ thành phố</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_EARTH_GODDESS_NAME">
+			<Text>Nữ thần Trái Đất</Text>
+		</Replace>
 		<!--2. WORSHIP BELIEFS-->
 		<Replace Language='en_US' Tag="LOC_BELIEF_CATHEDRAL_NAME">
 			<Text>Thánh Đường</Text>
@@ -196,6 +202,9 @@
 		<!--4. FOUNDER BELIEFS-->
 		<Replace Language='en_US' Tag="LOC_BELIEF_CHURCH_PROPERTY_NAME">
 			<Text>Tài Sản Của Thánh Đường</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_CROSS_CULTURAL_DIALOGUE_NAME">
+			<Text>Đối thoại xuyên văn hóa</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_BELIEF_LAY_MINISTRY_NAME">
 			<Text>Thánh Chức Không Chuyên</Text>
@@ -398,6 +407,9 @@
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_BELIEF_PILGRIMAGE_DESCRIPTION">
 			<Text>+2 [ICON_Faith] Đức Tin cho mỗi thành phố theo đạo tôn giáo này ở trong nền văm minh khác và các thành phố tự trị.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BELIEF_RELIGIOUS_UNITY_DESCRIPTION">
+			<Text>+1 [ICON_Envoy] Đặc phái viên tại mỗi Bang thành phố khi lần đầu tiên chấp nhận Tôn giáo này, ngoài bất kỳ phái viên nào từ nhiệm vụ của Bang-Thành phố.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_BELIEF_STEWARDSHIP_DESCRIPTION">
 			<Text>Mỗi khu tri thức hoặc Khu thương mại ở trong thành phố theo đạo tôn giáo này cung cấp +1 [ICON_Science] Khoa học hoặc +1 [ICON_Gold] Vàng tương ứng.</Text>

@@ -33,7 +33,7 @@
 			<Text>- May damage advanced units and improvements, [ICON_POWER] Power related buildings, Campus Districts, Industrial Zone Districts, and Spaceport Districts.</Text>
 		</Replace>
     <Replace Language='en_US' Tag="LOC_RANDOM_EVENT_FIRE_EFFECT_DESCRIPTION">
-      <Text>+ Causes the forest to regrow with improved yields [NEWLINE]- Damages units and improvements</Text>
+      <Text>+ Causes the forest to regrow with improved yields[NEWLINE]- Damages units and improvements</Text>
     </Replace>
     <Replace Language='en_US' Tag="LOC_RANDOM_EVENT_METEOR_SHOWER_EFFECT_DESCRIPTION">
       <Text>+ Places an improvement which players may collect by bringing any unit to the tile.  Doing so grants an advanced unit</Text>

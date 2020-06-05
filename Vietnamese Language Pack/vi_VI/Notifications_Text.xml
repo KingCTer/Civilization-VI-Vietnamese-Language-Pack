@@ -69,6 +69,9 @@
 		<Replace Language='en_US' Tag="LOC_NOTIFICATION_CLAIM_GREAT_PERSON_MESSAGE">
 			<Text>Chiêu mộ Vĩ nhân</Text>
 		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_CLAIM_GREAT_PERSON_SUMMARY">
+			<Text>Bạn đã kiếm được một Vĩ nhân, và cần phải chọn chấp nhận họ hay truyền lại cho họ.</Text>
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_NOTIFICATION_GIVE_INFLUENCE_TOKEN_MESSAGE">
 			<Text>Gửi phái đoàn</Text>
 		</Replace>
@@ -114,6 +117,12 @@
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_NOTIFICATION_UNIT_RETREAT_FROM_OCCUPATION">
 			<Text>Kẻ địch đã ép buộc {1_UnitName} của bạn phải rút lui.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_UNIT_LOST_TO_RADIATION_POISONING">
+			<Text>Bạn đã mất {1_UnitName} do nhiễm độc phóng xạ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_UNIT_LOST_TO_WATER_DAMAGE">
+			<Text>Bạn đã mất {1_UnitName} do ngộ độc nước.</Text>
 		</Replace>
 		<!-- Diplomacy Notifications-->
 		<Replace Language='en_US' Tag="LOC_NOTIFICATION_DECLARE_WAR_MESSAGE">
@@ -457,6 +466,24 @@
 		<Replace Language='en_US' Tag="LOC_NOTIFICATION_PLAYER_MOD_STATUS_TT">
 			<Text>{1_playerName} đang tải Mod yêu cầu để chơi ván game này. ({2 : number}/{3 : number})</Text>
 		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_HOST_MIGRATION">
+			<Text>Di chuyển máy chủ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_HOST_MIGRATION_TT">
+			<Text>Trò chơi đang chuyển sang một máy chủ trò chơi mới. Trò chơi sẽ tiếp tục trong thời gian ngắn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_HOST_CHANGED">
+			<Text>Máy chủ di chuyển</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_HOST_CHANGED_TT">
+			<Text>{1_playerName} là máy chủ lưu trữ trò chơi mới.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_PLAYBYCLOUD_YOURTURN">
+			<Text>Chơi theo đám mây</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_PLAYBYCLOUD_YOURTURN_TT">
+			<Text>Đến lượt bạn chơi trò chơi Play By Cloud. ({1_cloudGameName})</Text>
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_NOTIFCATION_HOST_MIGRATION">
 			<Text>Chuyển chủ phòng</Text>
 		</Replace>
@@ -509,6 +536,18 @@
 		<Replace Language='en_US' Tag="LOC_NOTIFICATION_CIVIC_BOOST_SUMMARY">
 			<Text>Thúc đẩy hành chính: {1_Name}!</Text>
 		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_TECH_DISCOVERED_MESSAGE">
+			<Text>Đã phát hiện {1_Name}</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_TECH_DISCOVERED_SUMMARY">
+			<Text>Bạn đã khám phá {1_Name}!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_CIVIC_DISCOVERED_MESSAGE">
+			<Text>Đã phát hiện {1_Name}</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NOTIFICATION_CIVIC_DISCOVERED_SUMMARY">
+			<Text>Bạn đã khám phá {1_Name}!</Text>
+		</Replace>
 		<!-- Great Work Notifications -->
 		<Replace Language='en_US' Tag="LOC_NOTIFICATION_RELIC_CREATED_MESSAGE">
 			<Text>Tạo Di Tích</Text>
@@ -547,6 +586,12 @@
 		<Replace Language='en_US' Tag="LOC_NOTIFICATION_BARBARIANS_SIGHTED_SUMMARY">
 			<Text>Phát hiện quân man di đang tiếp cận thành phố {1_CityName}.</Text>
 		</Replace>
+    <Replace Language='en_US' Tag="LOC_NOTIFICATION_NEW_BARBARIAN_CAMP_MESSAGE">
+      <Text>Tiền đồn man di mới</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_NOTIFICATION_NEW_BARBARIAN_CAMP_SUMMARY">
+      <Text>Chúng tôi đã nhận được tin đồn rằng một bộ tộc man di mới đã chuyển đến một khu vực gần đó.</Text>
+    </Replace>
 		<!-- Victory Notifications -->
 		<Replace Language='en_US' Tag="LOC_NOTIFICATION_MY_DOMINANT_CULTURE_MESSAGE">
 			<Text>Bạn Chiếm Ưu Thế Văn Minh</Text>
@@ -637,7 +682,7 @@
 			<Text>Thu hồi sản phẩm</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_NOTIFICATION_WONDER_FAILED_SUMMARY">
-		  <Text>Bạn đã không thể hoàn thành kỳ quan thế giới {1_WonderName}. Tuy nhiên {2_Production} [ICON_Production] Sản phẩm đã được thu hồi từ việc nỗ lực và thưởng cho thành phố {3_CityName}.</Text>
+			<Text>Bạn đã không thể hoàn thành kỳ quan thế giới {1_WonderName}. Tuy nhiên {2_Production} [ICON_Production] Sản phẩm đã được thu hồi từ việc nỗ lực và thưởng cho thành phố {3_CityName}.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_NOTIFICATION_CITY_LOST_MESSAGE">
 			<Text>Thành Phố Đã Bị Chiếm</Text>

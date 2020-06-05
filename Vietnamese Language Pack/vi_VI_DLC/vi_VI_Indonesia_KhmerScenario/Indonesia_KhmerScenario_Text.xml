@@ -22,7 +22,7 @@
 			<Text>Thưởng 2 dân cư ngẫu nhiên khi hoàn thành. Tất cả đơn vị Nhà Truyền giáo và Nhà Sư mới được đào tạo đều nhận +1 Truyền bá.[NEWLINE][NEWLINE]Phải được xây dựng trên Rừng hoặc Rừng Nhiệt đới.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_BUILDING_SCENARIO_ANGKOR_WAT_DESCRIPTION">
-			<Text>Khi xây dựng kỳ quan nhận được +3 [ICON_ENVOY] Phái viên và +1 [ICON_Citizen] Dân cư trong tất cả các thành phố. +1 [ICON_Housing] Nhà ở cho tất cả các thành phố. [NEWLINE][NEWLINE]Phải được xây dựng liền kề với một quận có công trình Thuỷ lợi.</Text>
+			<Text>Khi xây dựng kỳ quan nhận được +3 [ICON_ENVOY] Phái viên và +1 [ICON_Citizen] Dân cư trong tất cả các thành phố. +1 [ICON_Housing] Nhà ở cho tất cả các thành phố.[NEWLINE][NEWLINE]Phải được xây dựng liền kề với một quận có công trình Thuỷ lợi.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_BUILDING_SCENARIO_POTALA_PALACE_DESCRIPTION">
 			<Text>+1 Ô đặt thẻ chính sách[NEWLINE][NEWLINE]Phải được xây dựng trên Đồi.</Text>

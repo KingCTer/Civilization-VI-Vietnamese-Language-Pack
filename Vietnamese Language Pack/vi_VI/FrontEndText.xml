@@ -98,7 +98,7 @@
 		<Replace Language='en_US' Tag="LOC_MAIN_MENU_TUTORIAL">
 			<Text>Hướng dẫn chơi</Text>
 		</Replace>
-		<!-- Load / Save Menus -->
+		<!-- Load/Save Menus -->
 		<Replace Language='en_US' Tag="LOC_DELETE_BUTTON">
 			<Text>Xóa</Text>
 		</Replace>
@@ -335,7 +335,7 @@
 		</Replace>
 		<!-- Multiplayer PlayByCloud End Turn Error Popup -->
 		<Replace Language='en_US' Tag="LOC_GAME_CLOUD_END_TURN_FAILED">
-			<Text>Trò chơi không thể xử lý lượt chơi của bạn do lỗi. Kiểm tra kết nối internet của bạn và thử lại. [NEWLINE] Mã lỗi: {1_ErrorCode}</Text>
+			<Text>Trò chơi không thể xử lý lượt chơi của bạn do lỗi. Kiểm tra kết nối internet của bạn và thử lại.[NEWLINE]Mã lỗi: {1_ErrorCode}</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_GAME_CLOUD_END_TURN_FAILED_TITLE">
 			<Text>Kết thúc lượt không thành công</Text>
@@ -1604,7 +1604,7 @@
 		<Replace Language='en_US' Tag="LOC_SETUP_TUTORIAL_LEADER_2">
 			<Text>Gilgamesh của đế chế Sumerian rộng lớn và là một người chinh phạt được kính trọng.</Text>
 		</Replace>
-		<!-- Loading Screen / Dawn of man -->
+		<!-- Loading Screen/Dawn of man -->
 		<Replace Language='en_US' Tag="LOC_LOADING_DOMAIN_LAND">
 			<Text>Đơn vị mặt đất đặc biệt</Text>
 		</Replace>
@@ -1940,7 +1940,7 @@
 			<Text>Mở Steam Store để mua Sid Meier's Civilization VI</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_DEMO_COMPLETE_CONTENT">
-			<Text>Xin chúc mừng! Bạn đã thực hiện những bước đầu tiên để xây dựng một nền văn minh để đứng trước thử thách của thời gian. Bạn sẽ tiếp tục kiểm tra bản thân chống lại các nhà lãnh đạo vĩ đại nhất của lịch sử? Dân tộc của bạn có thể phát triển văn hóa? Khoa học của bạn khai sáng? Đức tin của bạn truyền cảm hứng? Quân đội của bạn thống trị? [NEWLINE][NEWLINE] Bạn sẽ lãnh đạo như thế nào trong Sid Meier xông Civilization VI? Tiếp tục hành trình ngay bây giờ. [NEWLINE][NEWLINE] Build. Chinh phục. Truyền cảm hứng.</Text>
+			<Text>Xin chúc mừng! Bạn đã thực hiện những bước đầu tiên để xây dựng một nền văn minh để đứng trước thử thách của thời gian. Bạn sẽ tiếp tục kiểm tra bản thân chống lại các nhà lãnh đạo vĩ đại nhất của lịch sử? Dân tộc của bạn có thể phát triển văn hóa? Khoa học của bạn khai sáng? Đức tin của bạn truyền cảm hứng? Quân đội của bạn thống trị?[NEWLINE][NEWLINE]Bạn sẽ lãnh đạo như thế nào trong Sid Meier xông Civilization VI? Tiếp tục hành trình ngay bây giờ.[NEWLINE][NEWLINE]Build. Chinh phục. Truyền cảm hứng.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_DEMO_COMPLETE_MAIN_MENU">
 			<Text>Mất dần vào lịch sử</Text>

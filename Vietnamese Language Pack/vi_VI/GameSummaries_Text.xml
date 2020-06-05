@@ -2,13 +2,13 @@
 <GameData>
 	<LocalizedText>
 		<Replace Language='en_US' Tag="LOC_HOF_GRAPH_CITY_BUILDINGS">
-			<Text>Tòa nhà thành phố</Text>
+			<Text>Kiến trúc thành phố</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HOF_GRAPH_CITY_CULTURE">
 			<Text>Văn hóa thành phố</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HOF_GRAPH_CITY_DISTRICTS">
-			<Text>Quận thành phố</Text>
+			<Text>Đặc khu thành phố</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HOF_GRAPH_CITY_FAITH">
 			<Text>Đức tin thành phố</Text>
@@ -41,7 +41,7 @@
 			<Text>Người dã man bị giết</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HOF_GRAPH_PLAYER_BUILDINGS">
-			<Text>Tòa nhà xây dựng</Text>
+			<Text>Kiến trúc xây dựng</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HOF_GRAPH_PLAYER_CITIES_CAPTURED">
 			<Text>Thành phố bị khống chế</Text>
@@ -62,7 +62,7 @@
 			<Text>Văn hóa người chơi</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HOF_GRAPH_PLAYER_DISTRICTS">
-			<Text>Quận Xây dựng</Text>
+			<Text>Đặc khu Xây dựng</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HOF_GRAPH_PLAYER_FAITH">
 			<Text>Đức tin Người chơi</Text>
@@ -119,10 +119,10 @@
 			<Text>Tình trạng thành phố</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HOF_REPORTS_CITY_STATUS_BUILDINGS">
-			<Text>Các tòa nhà</Text>
+			<Text>Các kiến trúc</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HOF_REPORTS_CITY_STATUS_DISTRICTS">
-			<Text>Quận</Text>
+			<Text>Đặc khu</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HOF_REPORTS_CITY_STATUS_INITIAL_COLUMN">
 			<Text>Thành phố</Text>

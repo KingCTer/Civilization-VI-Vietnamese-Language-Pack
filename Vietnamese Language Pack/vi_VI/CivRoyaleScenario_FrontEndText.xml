@@ -12,7 +12,7 @@
 			<Text>[ICON_Exclamation] Tham gia Cái chết đỏ</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_MULTIPLAYER_MATCHMAKE_CIVROYALE_TT">
-			<Text>Tự động tìm và tham gia trò chơi Cái chết đỏ. [NEWLINE][NEWLINE]Cái chết đỏ là phần chơi của Civilization VI trên chế độ Battle Royale. Chơi như những người sống sót ganh đua cho chiếc vé duy nhất ra khỏi một hành tinh sắp chết.</Text>
+			<Text>Tự động tìm và tham gia trò chơi Cái chết đỏ.[NEWLINE][NEWLINE]Cái chết đỏ là phần chơi của Civilization VI trên chế độ Battle Royale. Chơi như những người sống sót ganh đua cho chiếc vé duy nhất ra khỏi một hành tinh sắp chết.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_MULTIPLAYER_MATCHMAKE_CIVROYALE_OFFLINE_TT">
 			<Text>Trò chơi Cái chết đỏ không có sẵn trong khi Steam đang ngoại tuyến.</Text>

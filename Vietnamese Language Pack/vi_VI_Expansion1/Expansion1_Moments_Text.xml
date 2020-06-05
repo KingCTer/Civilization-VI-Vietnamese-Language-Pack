@@ -1279,7 +1279,7 @@
 			<Text>Yêu cầu Miễn phí</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_MOMENT_CATEGORY_SCIENTIFIC_BONUS_GOLDEN_AGE">
-			<Text>Yêu cầu Miễn phí Thời Vàng son:[NEWLINE] [ICON_TechBoosted] Eureka cung cấp thêm 10% chi phí công nghệ. Các quận có Khu Thương mại và Hải cảng [ICON_GOLD] Vàng nằm liền kề cung cấp thưởng [ICON_Science] Khoa học.</Text>
+			<Text>Yêu cầu Miễn phí Thời Vàng son:[NEWLINE][ICON_TechBoosted] Eureka cung cấp thêm 10% chi phí công nghệ. Các quận có Khu Thương mại và Hải cảng [ICON_GOLD] Vàng nằm liền kề cung cấp thưởng [ICON_Science] Khoa học.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_MOMENT_CATEGORY_SCIENTIFIC_BONUS_NORMAL_AGE">
 			<Text>Thưởng cống hiến Yêu cầu Miễn phí:[NEWLINE]Tăng +1 Điểm Thời đại mỗi khi bạn kích hoạt một [ICON_TechBoosted] Eureka. +1 Điểm Thời đại để xây dựng tòa nhà cung cấp Khoa học như là một sản lượng cơ bản.</Text>

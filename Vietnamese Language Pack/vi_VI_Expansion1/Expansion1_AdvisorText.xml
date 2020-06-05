@@ -78,7 +78,7 @@
 			<Text>Thời điểm đã đến để lựa chọn những thành tựu để lưu lại trong dòng lịch sử của chúng ta. Điều này sẽ truyền cảm hứng cho người dân của chúng ta tiếp tục hướng tới con đường mà bạn lựa chọn.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TUTORIAL_PRIDE_MOMENT_TRIGGERED">
-			<Text>Nền văn minh của chúng ta đã đạt được một số điều lịch sử, xứng đáng được ăn mừng và tưởng niệm cho nhiều thế hệ. Những thành tựu này giúp nền văn minh của chúng ta đạt được Thời Vàng son - và tránh được Thời Đen tối. [NEWLINE][NEWLINE]Mỗi Thời điểm Lịch sử này sẽ làm tăng Điểm Thời đại của chúng ta. Điểm Thời đại của chúng ta sẽ xác định Thời kỳ chúng ta sẽ có được trong phần chơi tiếp theo, vì vậy chúng ta nên tìm ra các Thời điểm Lịch sử này khi có thể.</Text>
+			<Text>Nền văn minh của chúng ta đã đạt được một số điều lịch sử, xứng đáng được ăn mừng và tưởng niệm cho nhiều thế hệ. Những thành tựu này giúp nền văn minh của chúng ta đạt được Thời Vàng son - và tránh được Thời Đen tối.[NEWLINE][NEWLINE]Mỗi Thời điểm Lịch sử này sẽ làm tăng Điểm Thời đại của chúng ta. Điểm Thời đại của chúng ta sẽ xác định Thời kỳ chúng ta sẽ có được trong phần chơi tiếp theo, vì vậy chúng ta nên tìm ra các Thời điểm Lịch sử này khi có thể.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TUTORIAL_GOV_DISTRICT_1">
 			<Text>Chúng ta đã sẵn sàng để xây dựng một khu vực quốc gia! Chỉ có thể xây dựng một lần trong đế chế của chúng ta vì vậy hãy lựa chọn vị trí của nó một cách thật cẩn thận.</Text>
@@ -90,7 +90,7 @@
 			<Text>Các tòa nhà trong quận mới của bạn kỷ niệm tới chính phủ hiện tại của bạn tại thời điểm nó được xây dựng, hãy tạo ra một chính sách bổ sung để ảnh hưởng lên chính phủ.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TUTORIAL_GOV_DISTRICT_2a">
-			<Text>Tôi đề nghị chúng ta nên xây dựng một tòa nhà chính phủ để kỷ niệm và củng cố chính phủ hiện tại của chúng ta? [NEWLINE][NEWLINE]Mỗi lần chúng ta xây dựng tòa nhà chính phủ mới, sẽ mở khóa Chính sách Kế thừa dựa trên chính phủ hiện tại đang chọn của chúng ta. Các Chính sách Kế thừa này là những nhắc nhở mạnh mẽ về quá khứ của người dân chúng của chúng ta để chúng ta có thể chuyển tiếp sang các chính phủ khác trong tương lai.</Text>
+			<Text>Tôi đề nghị chúng ta nên xây dựng một tòa nhà chính phủ để kỷ niệm và củng cố chính phủ hiện tại của chúng ta?[NEWLINE][NEWLINE]Mỗi lần chúng ta xây dựng tòa nhà chính phủ mới, sẽ mở khóa Chính sách Kế thừa dựa trên chính phủ hiện tại đang chọn của chúng ta. Các Chính sách Kế thừa này là những nhắc nhở mạnh mẽ về quá khứ của người dân chúng của chúng ta để chúng ta có thể chuyển tiếp sang các chính phủ khác trong tương lai.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TUTORIAL_GOV_DISTRICT_3">
 			<Text>Cục quốc gia của bạn đã mở khóa một chính sách mới. Xem xét việc lựa chọn các chính sách mới khi được mở khóa.</Text>

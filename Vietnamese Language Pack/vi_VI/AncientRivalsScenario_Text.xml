@@ -6,14 +6,14 @@
 			<Text>Kẻ thù cổ xưa</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_ANCIENT_RIVALS_RULESET_TEASER">
-			<Text>Tại lượt chơi cuối cùng, chiến thắng giành cho người chơi nào có các điều kiện sau. Các mối liên hệ được giải quyết dựa trên điểm số. [NEWLINE][ICON_Bullet]Nghiên cứu toàn bộ cây hành chính.[NEWLINE][ICON_Bullet]Khám phá toàn bộ bản đồ.[NEWLINE][ICON_Bullet] Kẻ thống trị cổ xưa - cướp toàn bộ các ô đất.[NEWLINE][ICON_Bullet]Kỳ quan của thế giới cổ đại - Sở hữu hầu hết các kỳ quan.</Text>
+			<Text>Tại lượt chơi cuối cùng, chiến thắng giành cho người chơi nào có các điều kiện sau. Các mối liên hệ được giải quyết dựa trên điểm số.[NEWLINE][ICON_Bullet]Nghiên cứu toàn bộ cây hành chính.[NEWLINE][ICON_Bullet]Khám phá toàn bộ bản đồ.[NEWLINE][ICON_Bullet] Kẻ thống trị cổ xưa - cướp toàn bộ các ô đất.[NEWLINE][ICON_Bullet]Kỳ quan của thế giới cổ đại - Sở hữu hầu hết các kỳ quan.</Text>
 		</Replace>
 		<!-- Victories  -->
 		<Replace Language='en_US' Tag="LOC_ANCIENT_RIVALS_VICTORY_TITLE">
 			<Text>Kẻ thù cổ xưa</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_ANCIENT_RIVALS_VICTORY_DESC">
-			<Text>Tại lượt chơi cuối cùng, chiến thắng giành cho người chơi nào có các điều kiện sau. Các mối liên hệ được giải quyết dựa trên điểm số. [NEWLINE][ICON_Bullet]Nghiên cứu toàn bộ cây hành chính.[NEWLINE][ICON_Bullet]Khám phá toàn bộ bản đồ.[NEWLINE][ICON_Bullet] Kẻ thống trị cổ xưa - cướp toàn bộ các ô đất.[NEWLINE][ICON_Bullet]Kỳ quan của thế giới cổ đại - Sở hữu hầu hết các kỳ quan.[NEWLINE]</Text>
+			<Text>Tại lượt chơi cuối cùng, chiến thắng giành cho người chơi nào có các điều kiện sau. Các mối liên hệ được giải quyết dựa trên điểm số.[NEWLINE][ICON_Bullet]Nghiên cứu toàn bộ cây hành chính.[NEWLINE][ICON_Bullet]Khám phá toàn bộ bản đồ.[NEWLINE][ICON_Bullet] Kẻ thống trị cổ xưa - cướp toàn bộ các ô đất.[NEWLINE][ICON_Bullet]Kỳ quan của thế giới cổ đại - Sở hữu hầu hết các kỳ quan.[NEWLINE]</Text>
 		</Replace>	
 
 		<!-- Victories -->
@@ -29,7 +29,7 @@
 			<Text>Mở rộng tầm nhìn của bạn đồng thời truyền bá văn minh trong quá trình khám phá này và văn hóa - dựa trên kịch bản được thiết lập trong thời kỳ cổ đại. Kéo dài 50 lượt.</Text>
 		</Replace>	
 		<Replace Language='en_US' Tag="LOC_ANCIENT_RIVALS_MOD_DESCRIPTION">
-			<Text>Điều kiện chiến thắng[NEWLINE]Tại lượt chơi cuối cùng, chiến thắng giành cho người chơi nào có các điều kiện sau. Các mối liên hệ được giải quyết dựa trên điểm số. [NEWLINE][ICON_Bullet]Nghiên cứu toàn bộ cây hành chính.[NEWLINE][ICON_Bullet]Khám phá toàn bộ bản đồ.[NEWLINE][ICON_Bullet] Kẻ thống trị cổ xưa - cướp toàn bộ các ô đất.[NEWLINE][ICON_Bullet]Kỳ quan của thế giới cổ đại - Sở hữu hầu hết các kỳ quan.[NEWLINE]</Text>
+			<Text>Điều kiện chiến thắng[NEWLINE]Tại lượt chơi cuối cùng, chiến thắng giành cho người chơi nào có các điều kiện sau. Các mối liên hệ được giải quyết dựa trên điểm số.[NEWLINE][ICON_Bullet]Nghiên cứu toàn bộ cây hành chính.[NEWLINE][ICON_Bullet]Khám phá toàn bộ bản đồ.[NEWLINE][ICON_Bullet] Kẻ thống trị cổ xưa - cướp toàn bộ các ô đất.[NEWLINE][ICON_Bullet]Kỳ quan của thế giới cổ đại - Sở hữu hầu hết các kỳ quan.[NEWLINE]</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_AR_GAME_TURN_LIMIT_REACHED_PROGRESS">
 			<Text>Giới Hạn Lượt {ElapsedTurns}/{MinGameTurn} {StatusIcon}</Text>

@@ -4,7 +4,7 @@
 	<LocalizedText>
 		<!--Leader Names-->
 		<Replace Language='en_US' Tag="LOC_REPRESENTATIVE">
-			<Text>đại diện</Text>
+			<Text>một đại diện</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_LEADER_BARBAROSSA_NAME">
 			<Text>Frederick Barbarossa</Text>

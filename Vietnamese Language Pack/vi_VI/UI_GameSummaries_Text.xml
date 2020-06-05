@@ -5,145 +5,145 @@
 			<Text>Hall of Fame</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_GAMESUMMARY_OVERVIEW">
-			<Text>Overview</Text>
+			<Text>Tổng quat</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_GAMESUMMARY_HISTORY">
-			<Text>History</Text>
+			<Text>Lịch sử</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_GAMESUMMARY_MAP">
-			<Text>Map</Text>
+			<Text>Bản đồ</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_GAMESUMMARY_GRAPHS">
-			<Text>Graphs</Text>
+			<Text>Đồ thị</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_GAMESUMMARY_REPORTS">
-			<Text>Reports</Text>
+			<Text>Báo cáo</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_GAMESUMMARY_VICTORY">
-			<Text>VICTORY!</Text>
+			<Text>CHIẾN THẮNG!</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_GAMESUMMARY_DEFEAT">
-			<Text>[COLOR_RED]DEFEAT[ENDCOLOR]</Text>
+			<Text>[COLOR_RED]THẤT BẠI[ENDCOLOR]</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_GAMESUMMARY_YOU">
-			<Text>You</Text>
+			<Text>Bạn</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_GAMESUMMARY_NOBODY_WON">
-			<Text>Nobody Won</Text>
+			<Text>Không ai thắng</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_GAMESUMMARY_TURNS">
-			<Text>[ICON_TURN] {1_Turns} turns</Text>
+			<Text>[ICON_TURN] {1_Turns} lượt</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_GAMESUMMARY_ERA_STARTED">
-			<Text>Started in {1_EraName}</Text>
+			<Text>Bắt đầu vào {1_EraName}</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_GAMESUMMARY_LAST_PLAYED">
-			<Text>Last Played {1_Time: datetime short}</Text>
+			<Text>Lần chơi cuối {1_Time: datetime short}</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_GAMESUMMARY_CONTEXT">
 			<Text>{1_PlayerName}</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_GAMESUMMARY_CONTEXT_GLOBAL">
-			<Text>Overall</Text>
+			<Text>Nhìn chung</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_GAMESUMMARY_CONTEXT_LOCAL">
-			<Text>{1_PlayerName} (You)</Text>
+			<Text>{1_PlayerName} (Bạn)</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_GAMESUMMARY_CONTEXT_LOCAL_WINNER">
-			<Text>{1_PlayerName} (You - Winner)</Text>
+			<Text>{1_PlayerName} (Bạn - Người chiến thắng)</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_GAMESUMMARY_CONTEXT_WINNER">
-			<Text>{1_PlayerName} (Winner)</Text>
+			<Text>{1_PlayerName} (Người chiến thắng)</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_GAMESUMMARY_VICTORYPROGRESS_COUNT">
-			<Text>Achieved {1_Count} times.</Text>
+			<Text>Đạt được {1_Count} lần.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_GAMESUMMARY_VICTORYPROGRESS_LEADER">
-			<Text>Most recently achieved as {1_LeaderName}.</Text>
+			<Text>Gần đây nhất đạt được là {1_LeaderName}.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_GAMESUMMARY_LEADERPROGRESS_PLAYCOUNT">
-			<Text>Played {1_Num} games.</Text>
+			<Text>Đã chơi các trò chơi {1_Num}.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_GAMESUMMARY_LEADERPROGRESS_WINCOUNT">
-			<Text>Won {1_NumVictories} out of {2_NumPlayed} games.</Text>
+			<Text>Đã thắng {1_NumVictories} trong số các trò chơi {2_NumPlayed}.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_GAMESUMMARY_LEADERPROGRESS_VICTORY">
-			<Text>Most recently won a {1_Victory}.</Text>
+			<Text>Gần đây nhất đã giành được {1_Victory}.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_GAMESUMMARY_UNKNOWN">
-			<Text>Unknown</Text>
+			<Text>không xác định</Text>
 		</Replace>	
 		<Replace Language='en_US' Tag="LOC_GAMESUMMARY_HIGHLIGHTS">
-			<Text>Highlights</Text>
+			<Text>Điểm nổi bật</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_GAMESUMMARY_PLAYERS">
-			<Text>Players</Text>
+			<Text>Người chơi</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_GAMESUMMARY_VICTORYPROGRESS">
-			<Text>Victory Progress</Text>
+			<Text>Tiến bộ chiến thắng</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_GAMESUMMARY_LEADERPROGRESS">
-			<Text>Leader Progress</Text>
+			<Text>Lãnh đạo tiến bộ</Text>
 		</Replace>	
 		<Replace Language='en_US' Tag="LOC_GAMESUMMARY_HISTORY_SCORE">
-			<Text>Score</Text>
+			<Text>Điểm</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_GAMESUMMARY_HISTORY_YOU">
-			<Text>You</Text>
+			<Text>Bạn</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_GAMESUMMARY_HISTORY_RESULTS">
-			<Text>Results</Text>
+			<Text>Các kết quả</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_GAMESUMMARY_HISTORY_VICTORY">
-			<Text>Victory</Text>
+			<Text>Chiến thắng</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_GAMESUMMARY_HISTORY_SETTINGS">
-			<Text>Settings</Text>
+			<Text>Cài đặt</Text>
 		</Replace>
 	
 		<Replace Language='en_US' Tag="LOC_GAMESUMMARY_VIEWDETAILS">
-			<Text>Game Details</Text>
+			<Text>Chi tiết trò chơi</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_GAMESUMMARY_DELETE_GAME">
-			<Text>Delete Game</Text>
+			<Text>Xóa trò chơi</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_GAMESUMMARY_DELETE_GAME_PROMPT">
-			<Text>Are you sure you wish to delete this game?</Text>
+			<Text>Bạn có chắc chắn muốn xóa trò chơi này?</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_GAMESUMMARY_DELETE_GAME_TOOLTIP">
-			<Text>This will remove the game from the Hall of Fame and will adjust any relevent statistics and leader/victory progress.</Text>
+			<Text>Điều này sẽ xóa trò chơi khỏi Hall of Fame và sẽ điều chỉnh mọi thống kê liên quan và tiến trình lãnh đạo/chiến thắng.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_GAMESUMMARY_LOADCONFIGURATION">
-			<Text>Load Configuration</Text>
+			<Text>Tải cấu hình</Text>
 		</Replace>	
 		
 		<Replace Language='en_US' Tag="LOC_GAMESUMMARY_NOREPORTDATA">
-			<Text>No Report Data</Text>
+			<Text>Không có dữ liệu báo cáo</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_GAMESUMMARY_NOGRAPHDATA">
-			<Text>No Graph Data</Text>
+			<Text>Không có dữ liệu đồ thị</Text>
 		</Replace>
 		
 		<Replace Language='en_US' Tag="LOC_GAMESUMMARY_CATEGORY_GENERAL">
-			<Text>General</Text>
+			<Text>Chung</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_GAMESUMMARY_CATEGORY_COMBAT">
-			<Text>Combat</Text>
+			<Text>Chiến đấu</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_GAMESUMMARY_CATEGORY_PROSPERITY">
-			<Text>Prosperity</Text>
+			<Text>Sự phồn thịnh</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_GAMESUMMARY_CATEGORY_DIPLOMACY">
-			<Text>Diplomacy</Text>
+			<Text>Ngoại giao</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_GAMESUMMARY_CATEGORY_DISCOVERY">
-			<Text>Discovery</Text>
+			<Text>Khám phá</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_GAMESUMMARY_CATEGORY_RELIGION">
-			<Text>Religion</Text>
+			<Text>Tôn giáo</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_GAMESUMMARY_CATEGORY_EXTRA">
-			<Text>Extra</Text>
+			<Text>Thêm</Text>
 		</Replace>
 
 	</LocalizedText>

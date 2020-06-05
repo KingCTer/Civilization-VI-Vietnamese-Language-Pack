@@ -153,7 +153,7 @@
       <Text>Mở khoá khả năng của Thợ Xây để xây dựng Alcázar.[NEWLINE][NEWLINE]+2 [ICON_Culture] Văn hoá. Đơn vị chiếm đóng nhận được +4 [ICON_Strength] Sức phòng thủ, và tự động tăng thêm 2 lượt khi phòng thủ. Không thể xây thêm một Alcázar khác bên cạnh.</Text>
     </Replace>
     <Replace Language='en_US' Tag="LOC_IMPROVEMENT_MONASTERY_DESCRIPTION">
-      <Text>Mở khoá khả năng của Thợ Xây để xây dựng Tu Viện.[NEWLINE][NEWLINE] +2 [ICON_Faith] Đức tin. +15 HP hồi phục cho đơn vị tôn giáo trong vùng không chịu tấn công ở lượt này. Không thể xây thêm một Tu Viện khác bên cạnh.</Text>
+      <Text>Mở khoá khả năng của Thợ Xây để xây dựng Tu Viện.[NEWLINE][NEWLINE]+2 [ICON_Faith] Đức tin. +15 HP hồi phục cho đơn vị tôn giáo trong vùng không chịu tấn công ở lượt này. Không thể xây thêm một Tu Viện khác bên cạnh.</Text>
     </Replace>
 	</LocalizedText>
 </GameData>

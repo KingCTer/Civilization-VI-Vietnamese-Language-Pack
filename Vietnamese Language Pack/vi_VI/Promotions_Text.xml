@@ -324,25 +324,25 @@
 		</Replace>
 		<!--Warrior Monk-->
 		<Replace Language='en_US' Tag="LOC_PROMOTION_MONK_SHADOW_STRIKE_NAME">
-			<Text>Shadow Strike</Text>
+			<Text>Bóng tối tấn công</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_PROMOTION_MONK_TWILIGHT_VEIL_NAME">
-			<Text>Twilight Veil</Text>
+			<Text>Hoàng hôn</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_PROMOTION_MONK_EXPLODING_PALMS_NAME">
-			<Text>Exploding Palms</Text>
+			<Text>Nổ lòng bàn tay</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_PROMOTION_MONK_DISCIPLES_NAME">
-			<Text>Disciples</Text>
+			<Text>Đệ tử</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_PROMOTION_MONK_SWEEPING_WIND_NAME">
-			<Text>Sweeping Wind</Text>
+			<Text>Gió quét</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_PROMOTION_MONK_DANCING_CRANE_NAME">
-			<Text>Dancing Crane</Text>
+			<Text>Cẩu nhảy</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_PROMOTION_MONK_COBRA_STRIKE_NAME">
-			<Text>Cobra Strike</Text>
+			<Text>Rắn hổ mang</Text>
 		</Replace>
 		<!--Spy-->
 		<Replace Language='en_US' Tag="LOC_PROMOTION_SPY_TECHNOLOGIST_NAME">

@@ -32,7 +32,7 @@
 			<Text>New Disasters</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_PEDIA_CONCEPTS_PAGE_MEGADISASTERS_CHAPTER_NEW_DISASTERS_PARA_1">
-			<Text>Two new disasters are exclusive to the Apocalypse game mode: [NEWLINE][ICON_BULLET] Solar Flares: Across the world, solar radiation bombards the planet, damaging power-related buildings and improvements, pillaging certain districts, and damaging late-game units [NEWLINE][ICON_BULLET] Comet Strikes: A comet crashes into the planet, destroying everything in its path, even cities</Text>
+			<Text>Two new disasters are exclusive to the Apocalypse game mode:[NEWLINE][ICON_BULLET] Solar Flares: Across the world, solar radiation bombards the planet, damaging power-related buildings and improvements, pillaging certain districts, and damaging late-game units[NEWLINE][ICON_BULLET] Comet Strikes: A comet crashes into the planet, destroying everything in its path, even cities</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_PEDIA_CONCEPTS_PAGE_MEGADISASTERS_CHAPTER_END_OF_WORLD_TITLE">
 			<Text>End of the World</Text>

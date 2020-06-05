@@ -1064,7 +1064,7 @@
 			<Text>Tiện nghi từ Công trình:</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HUD_CITY_AMENITIES_FROM_DISTRICTS">
-			<Text>Tiện ích từ các huyện:</Text>
+			<Text>Tiện ích từ các đặc khu:</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HUD_CITY_AMENITIES_FROM_NATURAL_WONDERS">
 			<Text>Các tiện ích từ Kỳ quan thiên nhiên:</Text>
@@ -1510,7 +1510,7 @@
 			<Text>Kiến trúc này yêu cầu kiến trúc {1_Building}.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_BUILDING_CONSTRUCT_REQUIRES_TWO_BUILDINGS">
-			<Text>Tòa nhà này yêu cầu {LOC_GRAMMAR_A_AN &lt;&lt; {1_Building}} or  {LOC_GRAMMAR_A_AN &lt;&lt; {2_BuildingTheSecond}}.</Text>
+			<Text>Kiến trúc này yêu cầu {LOC_GRAMMAR_A_AN &lt;&lt; {1_Building}} or  {LOC_GRAMMAR_A_AN &lt;&lt; {2_BuildingTheSecond}}.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_BUILDING_CONSTRUCT_REQUIRES_THREE_BUILDINGS">
 			<Text>Kiến trúc này yêu cầu kiến trúc {1_Building}, {2_BuildingTheSecond}, hoặc {3_BuildingTheThird}.</Text>
@@ -1661,7 +1661,7 @@
 			<Text>Thành phố này hiện không sản xuất bất cứ thứ gì.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_PRODUCTION_PANEL_SCROLL_TO_BUILDINGS">
-			<Text>Di chuyển đến các tòa nhà và quận</Text>
+			<Text>Di chuyển đến các kiến trúc và quận</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_PRODUCTION_PANEL_SCROLL_TO_WONDERS">
 			<Text>Di chuyển đến Kỳ quan</Text>
@@ -2106,7 +2106,7 @@
 			<Text>Một kỳ quan thế giới đã được tạo!</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HUD_POPUP_WORLD_WONDER_FINISHED">
-			<Text>Nền văn minh của ngài hoàn thành việc xây dựng [NEWLINE]{1_BuildingName}</Text>
+			<Text>Nền văn minh của ngài hoàn thành việc xây dựng[NEWLINE]{1_BuildingName}</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HUD_POPUP_WORLD_WONDER_ANOTHER_PLAYER">
 			<Text>{1_buildingName}[NEWLINE]đã được xây dựng bởi {2_OwnerName}.</Text>
@@ -3628,10 +3628,10 @@
 			<Text>Mức độ truy cập [ICON_VisSecret] MỞ để xem Chương trình nghị sự ẩn.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_DECLARE_WAR">
-			<Text>Mẹ ngươi là một con chuột và cha ngươi có mùi Cây cơm cháy.[NEWLINE] Chúng ta bây giờ đang trong chiến trang.</Text>
+			<Text>Mẹ ngươi là một con chuột và cha ngươi có mùi Cây cơm cháy.[NEWLINE]Chúng ta bây giờ đang trong chiến trang.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_REFUSE_PEACE">
-			<Text>Đến cuối cùng thì, ta đánh nhau với ngươi; [NEWLINE]Từ dưới Địa Ngục, ta đâm vào ngươi;[NEWLINE]Vì căm ghét, ta phun hơi thở cuối cùng của ta vào ngươi. [NEWLINE]Nói một cách khác, không.</Text>
+			<Text>Đến cuối cùng thì, ta đánh nhau với ngươi;[NEWLINE]Từ dưới Địa Ngục, ta đâm vào ngươi;[NEWLINE]Vì căm ghét, ta phun hơi thở cuối cùng của ta vào ngươi.[NEWLINE]Nói một cách khác, không.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_ACCEPT_WAR">
 			<Text>Thích thì chiến.</Text>
@@ -4088,7 +4088,7 @@
 			<Text>Khả năng thu hút [COLOR:ResCultureLabelCS]DU KHÁCH NƯỚC NGOÀI[ENDCOLOR] của bạn đến với nền văn minh là một công thức được tính bởi hiệu số của sản lượng [ICON_Culture] Văn minh của bạn với số lượng [COLOR:ResCultureLabelCS]DU KHÁCH TRONG NƯỚC[ENDCOLOR] của nền văn minh mà bạn đang cố gắng thu hút.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_WORLD_RANKINGS_CULTURE_VICTORY_DETAILS">
-			<Text>Để chiến thắng [COLOR:ResCultureLabelCS]VĂN MINH[ENDCOLOR], bạn phải thu hút [COLOR:ResCultureLabelCS]DU KHÁCH NƯỚC NGOÀI[ENDCOLOR] bằng cách tạo ra lượng lớn [ICON_Culture] Văn minh và [ICON_Tourism] Du lịch. Chiến thắng có được khi bạn thu hút [COLOR:ResCultureLabelCS]DU KHÁCH NƯỚC NGOÀI [ENDCOLOR] tới nền văn minh của bạn nhiều hơn [COLOR:ResCultureLabelCS]DU KHÁCH TRONG NƯỚC[ENDCOLOR] ở nhà của các nền văn minh khác.</Text>
+			<Text>Để chiến thắng [COLOR:ResCultureLabelCS]VĂN MINH[ENDCOLOR], bạn phải thu hút [COLOR:ResCultureLabelCS]DU KHÁCH NƯỚC NGOÀI[ENDCOLOR] bằng cách tạo ra lượng lớn [ICON_Culture] Văn minh và [ICON_Tourism] Du lịch. Chiến thắng có được khi bạn thu hút [COLOR:ResCultureLabelCS]DU KHÁCH NƯỚC NGOÀI[ENDCOLOR] tới nền văn minh của bạn nhiều hơn [COLOR:ResCultureLabelCS]DU KHÁCH TRONG NƯỚC[ENDCOLOR] ở nhà của các nền văn minh khác.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_WORLD_RANKINGS_CULTURE_DETAILS_DOMESTIC_TOURISTS">
 			<Text>[COLOR:ResCultureLabelCS]DU KHÁCH TRONG NƯỚC[ENDCOLOR] là khách du lịch từ nền văn minh của bạn đang rất vui vẻ hưởng thụ trong biên giới.</Text>
@@ -5132,16 +5132,16 @@
 			<Text>Tất cả một mình</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_PARTIALSCREEN_CITYSTATES_TOOLTIP">
-			<Text>Thành phố tự trị [NEWLINE][NEWLINE] Xem tất cả các quốc gia thành phố bạn đã gặp, quản lý các đặc phái viên [ICON_Envoy] của bạn và xem xét mọi phần thưởng kiếm được.</Text>
+			<Text>Thành phố tự trị[NEWLINE][NEWLINE]Xem tất cả các quốc gia thành phố bạn đã gặp, quản lý các đặc phái viên [ICON_Envoy] của bạn và xem xét mọi phần thưởng kiếm được.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_PARTIALSCREEN_DIPLOMACY_TOOLTIP">
-			<Text>Ngoại giao [NEWLINE][NEWLINE] Xem thông tin về các nền văn minh khác mà bạn đã gặp, quản lý các mối quan hệ của bạn và thực hiện các giao dịch.</Text>
+			<Text>Ngoại giao[NEWLINE][NEWLINE]Xem thông tin về các nền văn minh khác mà bạn đã gặp, quản lý các mối quan hệ của bạn và thực hiện các giao dịch.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_PARTIALSCREEN_WORLDRANKINGS_TOOLTIP">
-			<Text>Xếp hạng thế giới [NEWLINE][NEWLINE] Xem Bảng xếp hạng thế giới để xem bạn đang làm tốt như thế nào và bạn cần làm gì để giành chiến thắng.</Text>
+			<Text>Xếp hạng thế giới[NEWLINE][NEWLINE]Xem Bảng xếp hạng thế giới để xem bạn đang làm tốt như thế nào và bạn cần làm gì để giành chiến thắng.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_PARTIALSCREEN_ESPIONAGE_TOOLTIP">
-			<Text>Gián điệp [NEWLINE][NEWLINE] Xem và quản lý gián điệp của bạn.</Text>
+			<Text>Gián điệp[NEWLINE][NEWLINE]Xem và quản lý gián điệp của bạn.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_PARTIALSCREEN_REPORTS_TOOLTIP">
 			<Text>Danh sách báo cáo.</Text>
@@ -5162,7 +5162,7 @@
       <Text>Tài nguyên</Text>
     </Replace>
 		<Replace Language='en_US' Tag="LOC_PARTIALSCREEN_TRADEROUTES_TOOLTIP">
-			<Text>Tổng quan về lộ trình giao dịch [NEWLINE][NEWLINE] Xem và quản lý [ICON_TradeRoute] Tuyến giao dịch của bạn.</Text>
+			<Text>Tổng quan về lộ trình giao dịch[NEWLINE][NEWLINE]Xem và quản lý [ICON_TradeRoute] Tuyến giao dịch của bạn.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HUD_PRODUCTION_COST">
 			<Text>Giá</Text>
@@ -6015,7 +6015,7 @@
 			<Text>{1_TourismInfo}Du khách được thêm bởi các kiến trúc hoặc Vĩ Nhân: +{2_DistrictTourism} [ICON_Tourism] Du lịch[NEWLINE]</Text>
 		</Replace>
     <Replace Language='en_US' Tag="LOC_TOURISM_LENS_DISTRICT_YIELDS_TOOLTIP">
-      <Text>{1_TourismInfo}Du lịch thêm theo năng suất của huyện: +{2_DistrictTourism} [ICON_Tourism] Tourism[NEWLINE]</Text>
+      <Text>{1_TourismInfo}Du lịch thêm theo năng suất của đặc khu: +{2_DistrictTourism} [ICON_Tourism] Tourism[NEWLINE]</Text>
     </Replace>
 		<Replace Language='en_US' Tag="LOC_TOURISM_LENS_GREAT_WORK_LINE_TOOLTIP">
 			<Text>{1_TourismInfo}Du khách từ Thành Tựu Vĩ Đại trong {2_BuildingName}, +{3_GreatWorkTourism} [ICON_Tourism] Du lịch[NEWLINE]</Text>
@@ -6068,7 +6068,7 @@
 			<Text>Hết giờ</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_DEMO_DIALOG_TEXT">
-			<Text>Bạn đã thực hiện những bước đầu tiên để xây dựng một nền văn minh sẽ đứng trước thử thách của thời gian. Bạn sẽ tiếp tục kiểm tra bản thân chống lại các nhà lãnh đạo vĩ đại nhất của lịch sử? Văn hóa nhân dân của bạn có thể phát triển? Khoa học của bạn khai sáng? Đức tin của bạn truyền cảm hứng? Quân đội của bạn thống trị? Làm thế nào bạn sẽ lãnh đạo trong Sid Meier's Civilization VI? Tiếp tục hành trình của bạn ngay bây giờ. [NEWLINE] [NEWLINE] Build.Conquer.Inspire.</Text>
+			<Text>Bạn đã thực hiện những bước đầu tiên để xây dựng một nền văn minh sẽ đứng trước thử thách của thời gian. Bạn sẽ tiếp tục kiểm tra bản thân chống lại các nhà lãnh đạo vĩ đại nhất của lịch sử? Văn hóa nhân dân của bạn có thể phát triển? Khoa học của bạn khai sáng? Đức tin của bạn truyền cảm hứng? Quân đội của bạn thống trị? Làm thế nào bạn sẽ lãnh đạo trong Sid Meier's Civilization VI? Tiếp tục hành trình của bạn ngay bây giờ.[NEWLINE][NEWLINE]Build.Conquer.Inspire.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_DEMO_DIALOG_BUY">
 			<Text>Đạt được sự vĩ đại</Text>
@@ -6331,7 +6331,7 @@
 			<Text>Bấm để mở rộng danh sách</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HUD_GOSSIP_DISMISS_DETAILS">
-			<Text>Nhấp vào tin đồn để loại bỏ nó. [NEWLINE]Lịch sử tin đồn có thể được xem trong các báo cáo.</Text>
+			<Text>Nhấp vào tin đồn để loại bỏ nó.[NEWLINE]Lịch sử tin đồn có thể được xem trong các báo cáo.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HUD_STATUSMESSAGE_DISMISS_DETAILS">
 			<Text>Bấm vào tin nhắn để loại bỏ nó.</Text>

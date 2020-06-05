@@ -697,7 +697,7 @@
 			<Text>Đơn vị đặc biệt của Scythia: Tiễn mã Saka</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_MISSION_NAME">
-			<Text>Công trình đặc biệt của Tây Ban Nha: Tòa nhà truyền giáo</Text>
+			<Text>Công trình đặc biệt của Tây Ban Nha: Kiến trúc truyền giáo</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_UNIT_SPANISH_CONQUISTADOR_NAME">
 			<Text>Đơn vị đặc biệt của Tây Ban Nha: Kẻ chinh phục</Text>

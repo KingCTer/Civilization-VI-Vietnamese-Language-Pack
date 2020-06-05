@@ -59,7 +59,7 @@
 			<Text>Thợ xây đã có thể xây Nấm mồ, kiến trúc đặc biệt của Scythia.[NEWLINE][NEWLINE]+1 [ICON_Faith] Đức Tin. +1 [ICON_Gold] Vàng. +1 [ICON_Faith] Đức Tin cho mỗi Bãi Chăn liền kề. Không thể xây trên đồi.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_IMPROVEMENT_MISSION_DESCRIPTION">
-			<Text>Thợ xây đã có thể xây Tòa nhà truyền giáo, kiến trúc đặc biệt của Tây Ban Nha.[NEWLINE][NEWLINE]+2 [ICON_Faith] Đức Tin. +2 [ICON_Faith] Đức Tin nếu trên vùng đất khác lục địa có [ICON_Capital] Thủ Đô của bạn. +2 [ICON_Science] Khoa học nếu xây gần Khu tri thức.</Text>
+			<Text>Thợ xây đã có thể xây Kiến trúc truyền giáo, kiến trúc đặc biệt của Tây Ban Nha.[NEWLINE][NEWLINE]+2 [ICON_Faith] Đức Tin. +2 [ICON_Faith] Đức Tin nếu trên vùng đất khác lục địa có [ICON_Capital] Thủ Đô của bạn. +2 [ICON_Science] Khoa học nếu xây gần Khu tri thức.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_IMPROVEMENT_ROMAN_FORT_DESCRIPTION">
 			<Text>Mở khóa Lính Lê Dương La Mã xể xây Pháo đài La Mã, kiến trúc đặc biệt của La Mã.[NEWLINE][NEWLINE]Đơn vị chiếm giữ nhận +4 [ICON_Strength] Phòng thủ, và tự động gán 2 lượt cho Cố Thủ.</Text>

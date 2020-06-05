@@ -77,7 +77,10 @@
 		<Replace Language='en_US' Tag="LOC_WORLD_FAITH_INCREASE_FLOATER">
 			<Text>+{1_Num}</Text>
 		</Replace>
-		<!-- Damage Message -->
+    <Replace Language='en_US' Tag="LOC_WORLD_FAITH_DECREASE_FLOATER">
+      <Text>{1_Num} [ICON_Faith] [COLOR_RED]MẤT[ENDCOLOR]</Text>
+    </Replace>
+    <!-- Damage Message -->
 		<Replace Language='en_US' Tag="LOC_WORLD_UNIT_DAMAGE_DECREASE_FLOATER">
 			<Text>[COLOR_GREEN]+{1_Num}[ENDCOLOR]</Text>
 		</Replace>
@@ -93,23 +96,40 @@
 		</Replace>
 		<!-- Production Yield Message -->
 		<Replace Language='en_US' Tag="LOC_WORLD_PRODUCTION_INCREASE_FLOATER">
-			<Text>[COLOR_FLOAT_PRODUCTION]+{1_Num}[ENDCOLOR]</Text>
+			<Text>[COLOR_FLOAT_PRODUCTION]+{1_Num} [ICON_Production][ENDCOLOR]</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_WORLD_PRODUCTION_DECREASE_FLOATER">
-			<Text>[COLOR_RED]{1_Num}[ENDCOLOR]</Text>
+			<Text>[COLOR_FLOAT_PRODUCTION]{1_Num}[ICON_Production][ENDCOLOR] [COLOR_RED]LOST[ENDCOLOR]</Text>
 		</Replace>
 		<!-- Food Yield Message -->
 		<Replace Language='en_US' Tag="LOC_WORLD_FOOD_INCREASE_FLOATER">
-			<Text>[COLOR_FLOAT_FOOD]+{1_Num}[ENDCOLOR]</Text>
+			<Text>[COLOR_FLOAT_FOOD]+{1_Num} [ICON_Food][ENDCOLOR]</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_WORLD_FOOD_DECREASE_FLOATER">
-			<Text>[COLOR_RED]{1_Num}[ENDCOLOR]</Text>
-		</Replace>
+      <Text>[COLOR_FLOAT_FOOD]{1_Num} [ICON_Food][ENDCOLOR] [COLOR_RED]LOST[ENDCOLOR]</Text>
+    </Replace>
 		<!-- Gold Yield Message -->
 		<Replace Language='en_US' Tag="LOC_WORLD_GOLD_INCREASE_FLOATER">
-			<Text>[COLOR_FLOAT_GOLD]+{1_Num}[ENDCOLOR]</Text>
+			<Text>[COLOR_FLOAT_GOLD]+{1_Num} [ICON_Gold][ENDCOLOR]</Text>
 		</Replace>
-		<!-- Civilian-->
+    <Replace Language='en_US' Tag="LOC_WORLD_GOLD_DECREASE_FLOATER">
+      <Text>[COLOR_FLOAT_GOLD]{1_Num} [ICON_Gold][ENDCOLOR] [COLOR_RED]LOST[ENDCOLOR]</Text>
+    </Replace>
+    <!-- Science Yield Message -->
+    <Replace Language='en_US' Tag="LOC_WORLD_SCIENCE_INCREASE_FLOATER">
+      <Text>[COLOR_FLOAT_SCIENCE]+{1_Num} [ICON_Science][ENDCOLOR]</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_WORLD_SCIENCE_DECREASE_FLOATER">
+      <Text>[COLOR_FLOAT_SCIENCE]{1_Num} [ICON_Science][ENDCOLOR] [COLOR_RED]LOST[ENDCOLOR]</Text>
+    </Replace>
+    <!-- Gold Yield Message -->
+    <Replace Language='en_US' Tag="LOC_WORLD_CULTURE_INCREASE_FLOATER">
+      <Text>[COLOR_FLOAT_CULTURE]+{1_Num} [ICON_Culture][ENDCOLOR]</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_WORLD_CULTURE_DECREASE_FLOATER">
+      <Text>[COLOR_FLOAT_CULTURE]{1_Num} [ICON_Culture][ENDCOLOR] [COLOR_RED]LOST[ENDCOLOR]</Text>
+    </Replace>
+    <!-- Civilian-->
 		<Replace Language='en_US' Tag="LOC_UNIT_SETTLER_DESCRIPTION">
 			<Text>Có thể tạo thành phố mới. Mỗi thành phố mới sẽ cho 1 [ICON_Citizen] Dân số khi hoàn thành.</Text>
 		</Replace>
@@ -406,5 +426,8 @@
 		<Replace Language='en_US' Tag="LOC_UNIT_BRAZILIAN_MINAS_GERAES_DESCRIPTION">
 			<Text>Đơn vị thời công nghiệp thay thế Chiến Hạm của Brazil. Mạnh hơn Chiến Hạm. Mở khóa bởi Chủ nghĩa dân tộc.</Text>
 		</Replace>
+    <Replace Language='en_US' Tag="LOC_UNIT_UNIT_TYPE_NAME_SUFFIX">
+      <Text> ({1_UnitTypeName})</Text>
+    </Replace>
 	</LocalizedText>
 </GameData>

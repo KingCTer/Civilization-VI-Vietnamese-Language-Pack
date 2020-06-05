@@ -3,15 +3,15 @@
 <GameData>
 	<LocalizedText>
 		<Replace Language='en_US' Tag="TXT_KEY_MY2K">
-			<Text>my2K</Text>
+			<Text>Tài khoản 2K</Text>
 		</Replace>		
 		
 		<!-- String needed for MY2K but not (yet) provided by the server system... -->
 		<Replace Language='en_US' Tag="TXT_KEY_MY2K_ADDITION_SIGN_UP_TITLE">
-			<Text>Đăng ký my2K</Text>
+			<Text>Đăng ký Tài khoản 2K</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="TXT_KEY_MY2K_ADDITION_CREATE_NEW_USER_MESSAGE">
-		  <Text>Để đăng ký my2K, làm ơn nhập địa chỉ email hợp lệ vào ô bên dưới. Một Email xác thực sẽ được gửi đến địa chỉ này để hoàn tất việc xác nhận.</Text>
+			<Text>Để đăng ký 2K, làm ơn nhập địa chỉ email hợp lệ vào ô bên dưới. Một Email xác thực sẽ được gửi đến địa chỉ này để hoàn tất việc xác nhận.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="TXT_KEY_MY2K_ADDITION_LOGOUT_TITLE">
 			<Text>Đăng xuất</Text>
@@ -62,7 +62,7 @@
 			<Text>Thông báo đăng nhập im lặng</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="TXT_KEY_MY2K_ADDITION_SILENT_LOGIN_FAILURE_MESSAGE">
-			<Text>Bạn cần đăng nhập thủ công vào m2K.</Text>
+			<Text>Bạn cần đăng nhập thủ công vào 2K.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="TXT_KEY_MY2K_ADDITION_CONNECTION_RESTORED">
 			<Text>Kết nối được khôi phục</Text>
@@ -83,7 +83,7 @@
       <Text>Liên kết tài khoản</Text>
     </Replace>
 		<Replace Language='en_US' Tag="TXT_KEY_MY2K_ADDITION_UNLINK_ACCOUNT">
-			<Text>Bạn có chắc muốn hủy liên kết my2k? Bạn có thể quản lý tài khoản hoặc xem xét các chính sách riêng tư và phát luật tại www.2k.com.</Text>
+			<Text>Bạn có chắc muốn hủy liên kết 2K? Bạn có thể quản lý tài khoản hoặc xem xét các chính sách riêng tư và phát luật tại www.2k.com.</Text>
 		</Replace>
     <Replace Language='en_US' Tag="TXT_KEY_MY2K_MODE_ANONYMOUS">
       <Text>Offline</Text>
@@ -94,6 +94,11 @@
     <Replace Language='en_US' Tag="TXT_KEY_MY2K_MODE_LINKED_OFFLINE">
       <Text>Đã liên kết - Offline</Text>
     </Replace>
-
+	<Replace Language='en_US' Tag="TXT_KEY_MY2K_MODE_UNLINKED_TOOLTIP">
+      <Text>Đăng ký Tài khoản 2K để mở khóa phần thưởng Mèo trinh sát (yêu cầu khởi động lại trò chơi) và bật lưu trữ đám mây đa nền tảng để bạn có thể bắt đầu trò chơi của mình trên Steam và tiếp tục trên các nền tảng khác. Ngoài ra, bạn sẽ nhận được tin tức mới nhất về Văn minh Sid Meier!</Text>
+    </Replace>
+	<Replace Language='en_US' Tag="TXT_KEY_MY2K_MODE_LINKED_TOOLTIP">
+      <Text>Tài khoản 2K được liên kết. Tiết kiệm đám mây đa nền tảng được kích hoạt. Phần thưởng Mèo trinh sát đã được mở khóa (xem trong phần bổ sung nội dung khác).</Text>
+    </Replace>
   </LocalizedText>
 </GameData>

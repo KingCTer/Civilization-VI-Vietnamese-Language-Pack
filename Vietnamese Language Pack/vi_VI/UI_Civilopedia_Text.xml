@@ -46,7 +46,7 @@
 		<Replace Language='en_US' Tag="LOC_UI_PEDIA_BELIEF_CLASS">
 			<Text>Loại tín ngưỡng</Text>
 		</Replace>
-    		<Replace Language='en_US' Tag="LOC_UI_PEDIA_PROMOTION_CLASS">
+		<Replace Language='en_US' Tag="LOC_UI_PEDIA_PROMOTION_CLASS">
 			<Text>Loại huân chương</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_UI_PEDIA_TRAITS">
@@ -124,18 +124,18 @@
 		<Replace Language='en_US' Tag="LOC_UI_PEDIA_BOMBARD_STRENGTH">
 			<Text>Pháo binh</Text>
 		</Replace>
-    <Replace Language='en_US' Tag="LOC_UI_PEDIA_RELIGIOUS_STRENGTH">
-      <Text>Tôn giáo</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UI_PEDIA_ANTIAIR_STRENGTH">
-      <Text>Phòng không</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UI_PEDIA_SPREAD_CHARGES">
-      <Text>lần Truyền Đạo</Text>
-    </Replace>
+		<Replace Language='en_US' Tag="LOC_UI_PEDIA_RELIGIOUS_STRENGTH">
+			<Text>Tôn giáo</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UI_PEDIA_ANTIAIR_STRENGTH">
+			<Text>Phòng không</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UI_PEDIA_SPREAD_CHARGES">
+			<Text>lần Truyền Đạo</Text>
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_UI_PEDIA_RANGE">
 			<Text>Tầm xa</Text>
-		</Replace>	
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_UI_PEDIA_REPLACED_BY">
 			<Text>Thay thế bởi</Text>
 		</Replace>
@@ -154,18 +154,18 @@
 		<Replace Language='en_US' Tag="LOC_UI_PEDIA_USAGE_UNLOCKS_UNITS">
 			<Text>Mở khóa đơn vị</Text>
 		</Replace>
-    <Replace Language='en_US' Tag="LOC_UI_PEDIA_USAGE_CAN_CONSTRUCT">
-      <Text>Có thể xây dựng</Text>
-    </Replace>
+		<Replace Language='en_US' Tag="LOC_UI_PEDIA_USAGE_CAN_CONSTRUCT">
+			<Text>Có thể xây dựng</Text>
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_UI_PEDIA_PLACEMENT">
 			<Text>Vị tri</Text>
 		</Replace>
-    <Replace Language='en_US' Tag="LOC_UI_PEDIA_ADJACENCY">
-      <Text>Liền kề</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UI_PEDIA_EXCLUSIVE_WITH">
-      <Text>Độc quyền với</Text>
-    </Replace>
+		<Replace Language='en_US' Tag="LOC_UI_PEDIA_ADJACENCY">
+			<Text>Liền kề</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UI_PEDIA_EXCLUSIVE_WITH">
+			<Text>Độc quyền với</Text>
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_UI_PEDIA_PLACEMENT_ADJ_TO_COAST">
 			<Text>Phải trên bờ biển, gần kề đất liền</Text>
 		</Replace>
@@ -178,9 +178,9 @@
 		<Replace Language='en_US' Tag="LOC_UI_PEDIA_ADJACENCY_BONUS">
 			<Text>Thưởng liền kề</Text>
 		</Replace>
-    <Replace Language='en_US' Tag="LOC_UI_PEDIA_CITIZEN_YIELDS">
-      <Text>Sản lượng công dân (mỗi công dân)</Text>
-    </Replace>
+		<Replace Language='en_US' Tag="LOC_UI_PEDIA_CITIZEN_YIELDS">
+			<Text>Sản lượng công dân (mỗi công dân)</Text>
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_UI_PEDIA_TRADE_YIELDS">
 			<Text>Sản lượng thương mại</Text>
 		</Replace>
@@ -205,12 +205,12 @@
 		<Replace Language='en_US' Tag="LOC_UI_PEDIA_UNIQUE_ABILITY">
 			<Text>Năng lực đặc biệt</Text>
 		</Replace>
-	    <Replace Language='en_US' Tag="LOC_UI_PEDIA_PROMOTIONS">
-	      <Text>Huân chương</Text>
-	    </Replace>
-	    <Replace Language='en_US' Tag="LOC_UI_PEDIA_PROJECTS">
-	      <Text>Dự án</Text>
-	    </Replace>
+		<Replace Language='en_US' Tag="LOC_UI_PEDIA_PROMOTIONS">
+			<Text>Huân chương</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UI_PEDIA_PROJECTS">
+			<Text>Dự án</Text>
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_UI_PEDIA_CITY_STATE_TYPE">
 			<Text>Loại thành phố</Text>
 		</Replace>
@@ -219,6 +219,18 @@
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_UI_PEDIA_CREATED_BY">
 			<Text>Tạo bởi</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UI_PEDIA_ESPIONAGE_MISSIONS">
+			<Text>Nhiệm vụ gián điệp</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TYPE_TRAIT_TURNS">
+			<Text>Lượt: {1_Name} (Standard Speed)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TYPE_TRAIT_BASE_PROBABILITY">
+			<Text>Xác suất cơ sở: {1_Name}%</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TYPE_TRAIT_TARGET_DISTRICT">
+			<Text>Quận mục tiêu: {1_Name}</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_UI_PEDIA_IMPROVED_BY">
 			<Text>Khai thác bởi</Text>
@@ -229,59 +241,62 @@
 		<Replace Language='en_US' Tag="LOC_UI_PEDIA_REQUIRES">
 			<Text>Yêu cầu: {1_Name}</Text>
 		</Replace>
+		<Replace Language='en_US' Tag="LOC_UI_PEDIA_VALID_RESOURCES">
+			<Text>Tài nguyên hợp lệ</Text>
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_UI_PEDIA_GREATPERSON_ACTION">
 			<Text>{1_ActionName} ({2_ChargeAmount} {2_ChargeAmount : plural 1?lần; other?lần;})</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_UI_PEDIA_GREAT_WORKS">
 			<Text>Thành tựu vĩ đại</Text>
 		</Replace>
-    <Replace Language='en_US' Tag="LOC_UI_PEDIA_TERRAIN_MOUNTAINS">
-      <Text>Núi</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UI_PEDIA_TERRAIN_HILLS">
-      <Text>Đồi</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UI_PEDIA_TERRAIN_WATER">
-      <Text>Nước</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UI_PEDIA_TERRAIN_SHALLOW_WATER">
-      <Text>Nước cạn</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UI_PEDIA_TERRAIN_IMPASSABLE">
-      <Text>Không thể đi qua</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UI_PEDIA_ABILITY_INACTIVE">
-      <Text>Không hoạt động</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UI_PEDIA_ABILITY_INACTIVE_DESC">
-      <Text>Yêu cầu đặc biệt phải được đáp ứng để kích hoạt. Xem mô tả để biết thêm chi tiết.</Text>
-    </Replace>
-	  <Replace Language='en_US' Tag="LOC_UI_PEDIA_MADE_REMOVED_IF">
-      <Text>Loại bỏ nếu trò chơi bắt đầu sau thời đại</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UI_PEDIA_PLACEMENT_REQUIRES_ADJACENT_RIVER">
-      <Text>Phải cạnh sông</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UI_PEDIA_PLACEMENT_REQUIRES_ADJACENT_MOUNTAIN">
-      <Text>Phải cạnh núi</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UI_PEDIA_PLACEMENT_REQUIRES_COAST">
-      <Text>Phải xây trên bờ biển</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UI_PEDIA_PLACEMENT_REQUIRES_LAKE">
-      <Text>Phải xây trên hồ</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UI_PEDIA_PLACEMENT_REQUIRES_NOT_LAKE">
-      <Text>Không thể xây trên hồ</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UI_PEDIA_REQUIRES_FOUND_RELIGION">
-      <Text>Phải sáng lập một tôn giáo</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_UI_PEDIA_REQUIRED_BUILDINGS_OR">
-      <Text>Kiến trúc (bất kỳ)</Text>
-    </Replace>
-	<Replace Language='en_US' Tag="LOC_UI_PEDIA_MOVEMENT_CHANGE">
-	  <Text>[ICON_Movement] Thay đổi Di chuyển: {1_Amount}</Text>
-	</Replace>
+		<Replace Language='en_US' Tag="LOC_UI_PEDIA_TERRAIN_MOUNTAINS">
+			<Text>Núi</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UI_PEDIA_TERRAIN_HILLS">
+			<Text>Đồi</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UI_PEDIA_TERRAIN_WATER">
+			<Text>Nước</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UI_PEDIA_TERRAIN_SHALLOW_WATER">
+			<Text>Nước cạn</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UI_PEDIA_TERRAIN_IMPASSABLE">
+			<Text>Không thể đi qua</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UI_PEDIA_ABILITY_INACTIVE">
+			<Text>Không hoạt động</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UI_PEDIA_ABILITY_INACTIVE_DESC">
+			<Text>Yêu cầu đặc biệt phải được đáp ứng để kích hoạt. Xem mô tả để biết thêm chi tiết.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UI_PEDIA_MADE_REMOVED_IF">
+			<Text>Loại bỏ nếu trò chơi bắt đầu sau thời đại</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UI_PEDIA_PLACEMENT_REQUIRES_ADJACENT_RIVER">
+			<Text>Phải cạnh sông</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UI_PEDIA_PLACEMENT_REQUIRES_ADJACENT_MOUNTAIN">
+			<Text>Phải cạnh núi</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UI_PEDIA_PLACEMENT_REQUIRES_COAST">
+			<Text>Phải xây trên bờ biển</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UI_PEDIA_PLACEMENT_REQUIRES_LAKE">
+			<Text>Phải xây trên hồ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UI_PEDIA_PLACEMENT_REQUIRES_NOT_LAKE">
+			<Text>Không thể xây trên hồ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UI_PEDIA_REQUIRES_FOUND_RELIGION">
+			<Text>Phải sáng lập một tôn giáo</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UI_PEDIA_REQUIRED_BUILDINGS_OR">
+			<Text>Kiến trúc (bất kỳ)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UI_PEDIA_MOVEMENT_CHANGE">
+			<Text>[ICON_Movement] Thay đổi Di chuyển: {1_Amount}</Text>
+		</Replace>
 	</LocalizedText>
 </GameData>
