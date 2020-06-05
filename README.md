@@ -41,7 +41,7 @@ Nếu bạn chưa cài đặt Git, thì hãy [Tải Git!](Https://git-scm.com/do
 
 3. Bây giờ Nhận gói ngôn ngữ này với lệnh:
 
-        git Clone https://github.com/KingCTer/Civilization-VI-Vietnamese-Language-Pack
+        git clone https://github.com/KingCTer/Civilization-VI-Vietnamese-Language-Pack
 
     Bằng cách đi tới thư mục `Civilization-VI-Vietnamese-Language-Pack`, bạn có thể cập nhật lên phiên bản mới nhất của gói ngôn ngữ bằng lệnh sau:
 
