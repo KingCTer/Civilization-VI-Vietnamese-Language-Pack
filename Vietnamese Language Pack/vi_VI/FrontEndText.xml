@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by matthew beach (Firaxis Games) -->
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Edward Beach (Firaxis Games) -->
 <GameData>
 	<LocalizedText>
 		<!-- Generic -->
@@ -1194,7 +1194,6 @@
 		<Replace Language='en_US' Tag="LOC_RANDOM_CIVILIZATION">
 			<Text>Nền văn minh ngẫu nhiên</Text>
 		</Replace>
-		
 		<Replace Language='en_US' Tag="LOC_SETUP_ERROR_NO_DUPLICATE_LEADERS">
 			<Text>Không trùng người lãnh đạo</Text>
 		</Replace>
@@ -1425,7 +1424,6 @@
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_MAP_ISLAND_PLATES_DESCRIPTION">
 			<Text>Một quần đảo khác nhau từ nhỏ đến lớn.</Text>
-		</Replace>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_MAP_LAKES_DESCRIPTION">
 			<Text>Một thế giới không có đại dương, chỉ có hồ và biển nội địa.</Text>
@@ -1813,7 +1811,7 @@
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_MAINMENU_MULTIPLAYER_TT">
 			<Text>Có thể tạo trận Internet, LAN và Host hoặc tham gia Game ở đây.</Text>
-		</Replace>	
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_MAINMENU_GAME_OPTIONS_TT">
 			<Text>Tùy chọn đồ họa, âm thanh, điều khiển.</Text>
 		</Replace>
