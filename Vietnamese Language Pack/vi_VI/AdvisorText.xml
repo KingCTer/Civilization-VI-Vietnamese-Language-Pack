@@ -1207,10 +1207,10 @@
 			<Text>Mục TỔNG QUAN cho cái nhìn sơ lược về các loại chiến thắng cũng như thứ hạng các người chơi khác.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_META_121_BODY">
-			<Text>Những tab còn lại cho ngài nhiều chi tiết hơn về mỗi hạng mục của bảng xếp hạng.[NEWLINE] [NEWLINE]Đóng bảng khi ngài đã sẵn sàng đi tiếp.</Text>
+			<Text>Những tab còn lại cho ngài nhiều chi tiết hơn về mỗi hạng mục của bảng xếp hạng.[NEWLINE][NEWLINE]Đóng bảng khi ngài đã sẵn sàng đi tiếp.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_META_122_BODY">
-			<Text>PPhần còn lại của hướng dẫn này sẽ giúp ngài đạt được Chiến Thắng Thống Trị đầu tiên của mình.[NEWLINE][NEWLINE]Mục tiêu của Chiến Thắng Thống Trị là nền văn minh của ngài trở thành [ICON_Capital] Thủ Đô cuối cùng.[NEWLINE][NEWLINE]Trong hướng dẫn này, điều đó có nghĩa là ngài sẽ phải dùng quân sự của mình để chiếm lĩnh [ICON_Capital] Thủ Đô của đối thủ, trong khi ngăn chặn họ chiếm của ngài.[NEWLINE][NEWLINE]Ngài đạt được điều này bằng cách nào là tùy ngài. Tuy nhiên, chúng tôi đã cung cấp cho ngài ba mục tiêu không bắt buộc mà, nếu hoàn tất, sẽ rất có ích cho ngài để đạt được nó.</Text>
+			<Text>Phần còn lại của hướng dẫn này sẽ giúp ngài đạt được Chiến Thắng Thống Trị đầu tiên của mình.[NEWLINE][NEWLINE]Mục tiêu của Chiến Thắng Thống Trị là nền văn minh của ngài trở thành [ICON_Capital] Thủ Đô cuối cùng.[NEWLINE][NEWLINE]Trong hướng dẫn này, điều đó có nghĩa là ngài sẽ phải dùng quân sự của mình để chiếm lĩnh [ICON_Capital] Thủ Đô của đối thủ, trong khi ngăn chặn họ chiếm của ngài.[NEWLINE][NEWLINE]Ngài đạt được điều này bằng cách nào là tùy ngài. Tuy nhiên, chúng tôi đã cung cấp cho ngài ba mục tiêu không bắt buộc mà, nếu hoàn tất, sẽ rất có ích cho ngài để đạt được nó.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_META_123_BODY">
 			<Text>Nếu ngài chưa chắc chắn về một vấn đề nào đó, hoặc ngài muốn tìm hiểu kỹ hơn về bất kỳ thứ gì trong phần Hướng dẫn này, ngài có thể tìm thấy ở mục Civilopedia.</Text>

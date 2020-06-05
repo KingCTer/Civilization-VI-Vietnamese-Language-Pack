@@ -112,37 +112,37 @@
 			<Text>Cảm ơn.</Text>
 		</Replace>
 
-    <Replace Language='en_US' Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_LEADER_ANY_ANY">
-      <Text>Ta biết rằng ngài thật xấu hổ khi sử dụng gián điệp chống lại ta. Hãy loại bỏ gián điệp của ngài!</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_HUMAN_RESPONSE_POSITIVE_ANY_ANY">
-      <Text>Cảm ơn.</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_HUMAN_RESPONSE_NEGATIVE_ANY_ANY">
-      <Text>Ta sẽ ghi nhớ sự sỉ nhục này. Ngươi có thể chắc chắn điều đó!</Text>
-    </Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_LEADER_ANY_ANY">
+			<Text>Ta biết rằng ngài thật xấu hổ khi sử dụng gián điệp chống lại ta. Hãy loại bỏ gián điệp của ngài!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_HUMAN_RESPONSE_POSITIVE_ANY_ANY">
+			<Text>Cảm ơn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_HUMAN_RESPONSE_NEGATIVE_ANY_ANY">
+			<Text>Ta sẽ ghi nhớ sự sỉ nhục này. Ngươi có thể chắc chắn điều đó!</Text>
+		</Replace>
 
-    <Replace Language='en_US' Tag="LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_LEADER_ANY_ANY">
-      <Text>Nền văn hóa của chúng ta không phải để cướp bóc. Hãy ra khỏi vùng đất của ta!</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_HUMAN_RESPONSE_POSITIVE_ANY_ANY">
-      <Text>Cảm ơn.</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_HUMAN_RESPONSE_NEGATIVE_ANY_ANY">
-      <Text>Nếu ngài không thể tôn trọng vùng đất của ta, ta cũng sẽ không tôn trọng ngài.</Text>
-    </Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_LEADER_ANY_ANY">
+			<Text>Nền văn hóa của chúng ta không phải để cướp bóc. Hãy ra khỏi vùng đất của ta!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_HUMAN_RESPONSE_POSITIVE_ANY_ANY">
+			<Text>Cảm ơn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_HUMAN_RESPONSE_NEGATIVE_ANY_ANY">
+			<Text>Nếu ngài không thể tôn trọng vùng đất của ta, ta cũng sẽ không tôn trọng ngài.</Text>
+		</Replace>
 
-    <Replace Language='en_US' Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_LEADER_ANY_ANY">
-      <Text>Tôn giáo khác không được chào đón. Ta yêu cầu loại bỏ ngay lập tức.</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_HUMAN_RESPONSE_POSITIVE_ANY_ANY">
-      <Text>Cảm ơn.</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_HUMAN_RESPONSE_NEGATIVE_ANY_ANY">
-      <Text>Ta đảm bảo sẽ có hậu quả cho việc này, không bây giờ thì lúc khác.</Text>
-    </Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_LEADER_ANY_ANY">
+			<Text>Tôn giáo khác không được chào đón. Ta yêu cầu loại bỏ ngay lập tức.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_HUMAN_RESPONSE_POSITIVE_ANY_ANY">
+			<Text>Cảm ơn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_HUMAN_RESPONSE_NEGATIVE_ANY_ANY">
+			<Text>Ta đảm bảo sẽ có hậu quả cho việc này, không bây giờ thì lúc khác.</Text>
+		</Replace>
 
-    <!-- Human Choices -->
+    	<!-- Human Choices -->
 		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_DONT_SETTLE_NEAR_ME_CHOICE_NEGATIVE">
 			<Text>Dân di cư của ta sẽ làm những gì họ muốn!</Text>
 		</Replace>
@@ -157,45 +157,45 @@
 			<Text>Quân đội của ta chỉ đi ngang qua.</Text>
 		</Replace>
 
-    <Replace Language='en_US' Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_CHOICE_NEGATIVE">
-      <Text>Ta không thể hứa.</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_CHOICE_POSITIVE">
-      <Text>Ta xin lỗi, ta sẽ chấm dứt các hoạt động.</Text>
-    </Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_CHOICE_NEGATIVE">
+			<Text>Ta không thể hứa.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_STOP_SPYING_ON_ME_CHOICE_POSITIVE">
+			<Text>Ta xin lỗi, ta sẽ chấm dứt các hoạt động.</Text>
+		</Replace>
 
-    <Replace Language='en_US' Tag="LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_CHOICE_NEGATIVE">
-      <Text>Ngài không thể thay đổi chủ quyền lịch sử. Ta sẽ đào những gì ta muốn.</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_CHOICE_POSITIVE">
-      <Text>Xin lỗi, ta sẽ chuyển nhà khảo cổ đi nơi khác.</Text>
-    </Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_CHOICE_NEGATIVE">
+			<Text>Ngài không thể thay đổi chủ quyền lịch sử. Ta sẽ đào những gì ta muốn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_STOP_DIGGING_UP_ARTIFACTS_CHOICE_POSITIVE">
+			<Text>Xin lỗi, ta sẽ chuyển nhà khảo cổ đi nơi khác.</Text>
+		</Replace>
 
-    <Replace Language='en_US' Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_CHOICE_NEGATIVE">
-      <Text>Nếu đó là ý của chúa thì làm sao ta dám chống lại?</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_CHOICE_POSITIVE">
-      <Text>Ta xin lỗi, ta nghĩ mọi người chào đón ta. Ta đã nhầm.</Text>
-    </Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_CHOICE_NEGATIVE">
+			<Text>Nếu đó là ý của chúa thì làm sao ta dám chống lại?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_STOP_CONVERTING_MY_CITIES_CHOICE_POSITIVE">
+			<Text>Ta xin lỗi, ta nghĩ mọi người chào đón ta. Ta đã nhầm.</Text>
+		</Replace>
     
-    <!-- Confirmation of War -->
-    <Replace Language='en_US' Tag="LOC_DIPLO_WARNING_DECLARE_WAR_FROM_UNIT_ATTACK_INFO">
-      <Text>Động thái này sẽ bắt đầu chiến tranh với {1_CivName}!</Text>
-	</Replace>
-	<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_DECLARE_WAR_FROM_UNIT_ATTACK_INFO_MULTIPLE">
-		<Text>Thực hiện lượt di chuyển này sẽ bắt đầu chiến tranh với:</Text>
-	</Replace>
-	<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_STRIKE_OWN_TERRITORY">
-	  <Text>Thực hiện động thái này là sẽ tự đánh vào lãnh thổ của bạn.</Text>
-	</Replace>
-	<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_STRIKE_AFFECTS_ALLY">
-	  <Text>Làm cho cuộc tấn công này sẽ gây hậu quả với một trong những đồng minh.</Text>
-	</Replace>
-	<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_BLIND_ATTACK">
-	  <Text>Tấn công một cách mù quáng sẽ dẫn đến nhiều hậu quả khôn lường.</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_DIPLO_WARNING_DECLARE_WAR_FROM_UNIT_ATTACK_CONFIRMATION">
-      <Text>Bạn có chắc muốn làm điều này?</Text>
-    </Replace>
+		<!-- Confirmation of War -->
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_DECLARE_WAR_FROM_UNIT_ATTACK_INFO">
+			<Text>Động thái này sẽ bắt đầu chiến tranh với {1_CivName}!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_DECLARE_WAR_FROM_UNIT_ATTACK_INFO_MULTIPLE">
+			<Text>Thực hiện lượt di chuyển này sẽ bắt đầu chiến tranh với:</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_STRIKE_OWN_TERRITORY">
+			<Text>Thực hiện động thái này là sẽ tự đánh vào lãnh thổ của bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_STRIKE_AFFECTS_ALLY">
+			<Text>Làm cho cuộc tấn công này sẽ gây hậu quả với một trong những đồng minh.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_BLIND_ATTACK">
+			<Text>Tấn công một cách mù quáng sẽ dẫn đến nhiều hậu quả khôn lường.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_DECLARE_WAR_FROM_UNIT_ATTACK_CONFIRMATION">
+			<Text>Bạn có chắc muốn làm điều này?</Text>
+		</Replace>
 	</LocalizedText>
 </GameData>

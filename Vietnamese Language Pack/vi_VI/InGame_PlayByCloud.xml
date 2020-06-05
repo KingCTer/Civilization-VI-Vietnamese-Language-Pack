@@ -6,29 +6,29 @@
 			<Text>COMMITTING TURN</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_ACTION_PANEL_CLOUD_TURN_UPLOADING_TOOLTIP">
-			<Text>Your turn is uploading to the cloud. Exiting the game may result in lost progress.</Text>
+			<Text>Đến lượt bạn đang tải lên đám mây. Thoát khỏi trò chơi có thể dẫn đến mất tiến độ.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_ACTION_PANEL_CLOUD_TURN_UPLOADED">
 			<Text>EXITING</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_ACTION_PANEL_CLOUD_TURN_UPLOADED_TOOLTIP">
-			<Text>Your turn has been uploaded to the cloud. Returning to the main menu.</Text>
+			<Text>Đến lượt bạn đã được tải lên đám mây. Quay trở lại menu chính.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_ACTION_PANEL_END_TURN_ASK_ME_TITLE">
 			<Text>Cloud Turn Committed</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_ACTION_PANEL_END_TURN_ASK_ME_TEXT">
-			<Text>Your turn has been committed to the cloud. Your progress has been saved. What do you want to do now? This option is changeable in game options.</Text>
+			<Text>Đến lượt bạn đã được cam kết với đám mây. Tiến độ của bạn đã được lưu. Bây giờ bạn muốn làm gì? Tùy chọn này có thể thay đổi trong các tùy chọn trò chơi.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_REMEMBER_MY_CHOICE">
-			<Text>Remember My Choice</Text>
+			<Text>Hãy nhớ sự lựa chọn của tôi</Text>
 		</Replace>
 		<!-- ==================== Your Turn Notification Popup ==================== -->
 		<Replace Language='en_US' Tag="LOC_PBC_NOTIFY_POPUP_YOUR_TURN_TITLE">
 			<Text>Your Play By Cloud Turn</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_PBC_NOTIFY_POPUP_YOUR_TURN_BODY">
-			<Text>It is your turn in the Play By Cloud game:[NEWLINE]{1_gameName}[NEWLINE][NEWLINE]If you join the match now, any unsaved progress will be lost.</Text>
+			<Text>It is your turn in the Play By Cloud game:[NEWLINE]{1_gameName}[NEWLINE][NEWLINE]Nếu bạn tham gia trận đấu ngay bây giờ, mọi tiến trình chưa được lưu sẽ bị mất.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_PBC_NOTIFY_JOIN_MATCH">
 			<Text>Join Match</Text>
@@ -38,10 +38,10 @@
 			<Text>Play By Cloud Game Over</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_PBC_NOTIFY_POPUP_UNSEEN_COMPLETE_BODY">
-			<Text>Your game has ended in the Play By Cloud game:[NEWLINE]{1_gameName}[NEWLINE][NEWLINE]If you view results now, any unsaved progress will be lost.</Text>
+			<Text>Your game has ended in the Play By Cloud game:[NEWLINE]{1_gameName}[NEWLINE][NEWLINE]Nếu bạn xem kết quả ngay bây giờ, mọi tiến trình chưa lưu sẽ bị mất.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_PBC_NOTIFY_VIEW_RESULTS">
-			<Text>View Results</Text>
+			<Text>Xem Kết quả</Text>
 		</Replace>
 	</LocalizedText>
 </GameData>

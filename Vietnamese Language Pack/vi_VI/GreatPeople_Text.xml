@@ -66,6 +66,9 @@
 		<Replace Language='en_US' Tag="LOC_GREATPERSON_ACTION_USAGE_NO_MILITARY_UNIT">
 			<Text>Kích hoạt trên một ô với đơn vị dân sự.</Text>
 		</Replace>
+		<Replace Language='en_US' Tag="LOC_GREATPERSON_ACTION_USAGE_ON_MILITARY_LAND_UNIT_WITHIN_RANGE">
+      		<Text>Kích hoạt trên một đơn vị đất quân sự trong các ô {1_Distance}.</Text>
+    	</Replace>
 		<Replace Language='en_US' Tag="LOC_GREATPERSON_ACTION_USAGE_ON_OR_ADJACENT_TO_FEATURE">
 			<Text>Kích hoạt trên hoặc bên cạnh ô {1_FeatureName}.</Text>
 		</Replace>
@@ -122,7 +125,7 @@
 			<Text>Thúc đẩy công nghệ Máy tính.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_GREATPERSON_1MODERNTECHBOOST">
-			<Text>Thúc đẩy cho {Amount} {Amount : plural 1?công nghệ; other?công nghệ;} ngẫu nhiên từ thời Hiện đại.</Text>
+			<Text>Triggers the [ICON_TechBoosted] Eureka moment for {Amount} random {Amount : plural 1?technology; other?technologies;} from the Modern era.</Text>
 		</Replace>
 		<!-- Generals -->
 		<Replace Language='en_US' Tag="LOC_GREATPERSON_COMBAT_STRENGTH_AOE_LAND_MODIFIER">
@@ -130,6 +133,12 @@
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_GREATPERSON_COMBAT_STRENGTH_AOE_SEA_MODIFIER">
 			<Text>+5 [ICON_Strength] Sức mạnh từ Đại Đô Đốc.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_GREAT_GENERAL_MOVEMENT_DESCRIPTION">
+			<Text>+1 [ICON_Movement] Di chuyển từ Đại Tướng Quâ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ABILITY_GREAT_ADMIRAL_MOVEMENT_DESCRIPTION">
+			<Text>+1 [ICON_Movement] Di chuyển từ Đại Đô Đốc.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_GREATPERSON_COMBAT_STRENGTH_AOE_CLASSICAL_LAND">
 			<Text>+5 [ICON_Strength] Sức mạnh và +1 [ICON_Movement] Di chuyển cho các đơn vị mặt đất thời kỳ Cổ đại và Trung cổ trong vòng 2 ô.</Text>
@@ -291,7 +300,7 @@
 		<Replace Language='en_US' Tag="LOC_GREATPERSON_CLANCY_FERNANDO_ACTIVE">
 			<Text>Nhận 1 huân chương và +200% EXP cho một đơn vị hải quân.</Text>
 		</Replace>
-		<!-- Engineers --> 
+		<!-- Engineers -->
 		<Replace Language='en_US' Tag="LOC_GREATPERSON_EXTRA_DISTRICT_CAPACITY">
 			<Text>Cho phép xây thêm một Đặc Khu có giới hạn dân số nhiều hơn.</Text>
 		</Replace>

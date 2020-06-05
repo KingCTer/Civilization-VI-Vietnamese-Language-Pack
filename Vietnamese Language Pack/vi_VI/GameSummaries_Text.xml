@@ -2,220 +2,220 @@
 <GameData>
 	<LocalizedText>
 		<Replace Language='en_US' Tag="LOC_HOF_GRAPH_CITY_BUILDINGS">
-			<Text>City Buildings</Text>
+			<Text>Tòa nhà thành phố</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HOF_GRAPH_CITY_CULTURE">
-			<Text>City Culture</Text>
+			<Text>Văn hóa thành phố</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HOF_GRAPH_CITY_DISTRICTS">
-			<Text>City Districts</Text>
+			<Text>Quận thành phố</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HOF_GRAPH_CITY_FAITH">
-			<Text>City Faith</Text>
+			<Text>Đức tin thành phố</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HOF_GRAPH_CITY_FOOD">
-			<Text>City Food</Text>
+			<Text>Thức phẩm thành phố</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HOF_GRAPH_CITY_GOLD">
-			<Text>City Gold</Text>
+			<Text>Vàng thành phố</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HOF_GRAPH_CITY_POPULATION">
-			<Text>City Population</Text>
+			<Text>Dân số thành phố</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HOF_GRAPH_CITY_PRODUCTION">
-			<Text>City Production</Text>
+			<Text>Sản xuất thành phố</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HOF_GRAPH_CITY_SCIENCE">
-			<Text>City Science</Text>
+			<Text>Khoa học thành phố</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HOF_GRAPH_CITY_TOURISM">
-			<Text>City Tourism</Text>
+			<Text>Du lịch thành phố</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HOF_GRAPH_CITY_WONDERS">
-			<Text>City Wonders</Text>
+			<Text>Kỳ quan thành phố</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HOF_GRAPH_PLAYER_BARBARIAN_CAMPS">
-			<Text>Barbarian Camps Cleared</Text>
+			<Text>Trại dã man bị xóa bỏ</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HOF_GRAPH_PLAYER_BARBARIAN_KILLS">
-			<Text>Barbarians Killed</Text>
+			<Text>Người dã man bị giết</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HOF_GRAPH_PLAYER_BUILDINGS">
-			<Text>Buildings Constructed</Text>
+			<Text>Tòa nhà xây dựng</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HOF_GRAPH_PLAYER_CITIES_CAPTURED">
-			<Text>Cities Captured</Text>
+			<Text>Thành phố bị khống chế</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HOF_GRAPH_PLAYER_CITIES_FOUNDED">
-			<Text>Cities Founded</Text>
+			<Text>Thành phố được thành lập</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HOF_GRAPH_PLAYER_CITIES_LOST">
-			<Text>Cities Lost</Text>
+			<Text>Thành phố bị mất</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HOF_GRAPH_PLAYER_CIVICS">
 			<Text>Civics Acquired</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HOF_GRAPH_PLAYER_COMBATS">
-			<Text>Number of Combats</Text>
+			<Text>Số lượng kết hợp</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HOF_GRAPH_PLAYER_CULTURE">
-			<Text>Player Culture</Text>
+			<Text>Văn hóa người chơi</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HOF_GRAPH_PLAYER_DISTRICTS">
-			<Text>Districts Constructed</Text>
+			<Text>Quận Xây dựng</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HOF_GRAPH_PLAYER_FAITH">
-			<Text>Player Faith</Text>
+			<Text>Đức tin Người chơi</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HOF_GRAPH_PLAYER_GOLD">
-			<Text>Player Gold</Text>
+			<Text>Vàng Người chơi</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HOF_GRAPH_PLAYER_GOODY_HUTS">
-			<Text>Tribal Villages Discovered</Text>
+			<Text>Phát hiện làng bộ lạc</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HOF_GRAPH_PLAYER_GREAT_PEOPLE">
-			<Text>Great People Earned</Text>
+			<Text>Vĩ nhân kiếm được</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HOF_GRAPH_PLAYER_NATURAL_WONDERS">
-			<Text>Natural Wonders Discovered</Text>
+			<Text>Khám phá những kỳ quan thiên nhiên</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HOF_GRAPH_PLAYER_NUKES">
-			<Text>Nukes Launched</Text>
+			<Text>Phóng Hạt nhân</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HOF_GRAPH_PLAYER_SCIENCE">
-			<Text>Player Science</Text>
+			<Text>Khoa học Người chơi</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HOF_GRAPH_PLAYER_SCORE">
-			<Text>Player Score</Text>
+			<Text>Điểm Người chơi</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HOF_GRAPH_PLAYER_TECHS">
-			<Text>Technologies Acquired</Text>
+			<Text>Công nghệ có được</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HOF_GRAPH_PLAYER_UNITS_KILLED">
-			<Text>Units Killed</Text>
+			<Text>Đơn vị giết chết</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HOF_GRAPH_PLAYER_UNITS_LOST">
-			<Text>Units Lost</Text>
+			<Text>Đơn vị bị mất</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HOF_GRAPH_PLAYER_WARS_DECLARED">
-			<Text>Wars Declared</Text>
+			<Text>Tuyên bố Chiến tranh</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HOF_GRAPH_PLAYER_WARS_RECEIVED">
-			<Text>War Declarations Received</Text>
+			<Text>Chấp nhận Chiến tranh</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HOF_GRAPH_PLAYER_WONDERS">
-			<Text>Wonders Constructed</Text>
+			<Text>Kỳ quan xây dựng</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HOF_GRAPH_RELIGION_BELIEFS">
-			<Text>Religious Beliefs</Text>
+			<Text>Tín ngưỡng tôn giáo</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HOF_GRAPH_RELIGION_CITIES">
-			<Text>Religious Cities</Text>
+			<Text>Thành phố tôn giáo</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HOF_GRAPH_RELIGION_FOLLOWERS">
-			<Text>Religious Followers</Text>
+			<Text>Tín đồ tôn giáo</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HOF_REPORTS_CITY_STATUS">
-			<Text>City Status</Text>
+			<Text>Tình trạng thành phố</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HOF_REPORTS_CITY_STATUS_BUILDINGS">
-			<Text>Buildings</Text>
+			<Text>Các tòa nhà</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HOF_REPORTS_CITY_STATUS_DISTRICTS">
-			<Text>Districts</Text>
+			<Text>Quận</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HOF_REPORTS_CITY_STATUS_INITIAL_COLUMN">
-			<Text>City</Text>
+			<Text>Thành phố</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HOF_REPORTS_CITY_STATUS_POPULATION">
-			<Text>Population</Text>
+			<Text>Dân số</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HOF_REPORTS_CITY_STATUS_TURN_FOUNDED">
-			<Text>Turn Founded</Text>
+			<Text>Thành lập</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HOF_REPORTS_CITY_STATUS_WONDERS">
-			<Text>Wonders</Text>
+			<Text>Kỳ quan</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HOF_REPORTS_CITY_YIELDS">
-			<Text>City Yields</Text>
+			<Text>Năng suất thành phố</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HOF_REPORTS_CITY_YIELDS_CULTURE">
-			<Text>Culture</Text>
+			<Text>Văn hóa</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HOF_REPORTS_CITY_YIELDS_FAITH">
-			<Text>Faith</Text>
+			<Text>Đức tin</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HOF_REPORTS_CITY_YIELDS_FOOD">
-			<Text>Food</Text>
+			<Text>Thực phẩm</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HOF_REPORTS_CITY_YIELDS_GOLD">
-			<Text>Gold</Text>
+			<Text>Vàng</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HOF_REPORTS_CITY_YIELDS_INITIAL_COLUMN">
-			<Text>City</Text>
+			<Text>Thành phố</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HOF_REPORTS_CITY_YIELDS_PRODUCTION">
-			<Text>Production</Text>
+			<Text>Sản xuất</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HOF_REPORTS_CITY_YIELDS_SCIENCE">
-			<Text>Science</Text>
+			<Text>Khoa học</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HOF_REPORTS_CITY_YIELDS_TOURISM">
-			<Text>Tourism</Text>
+			<Text>Du lịch</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HOF_REPORTS_GOVERNMENTS">
-			<Text>Governments</Text>
+			<Text>Chính phủ</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HOF_REPORTS_GOVERNMENTS_INITIAL_COLUMN">
-			<Text>Government</Text>
+			<Text>Chính quyền</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HOF_REPORTS_GOVERNMENTS_TURNS_ACTIVE">
-			<Text>Turns Active</Text>
+			<Text>Bật hoạt động</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HOF_REPORTS_RELIGIONS">
-			<Text>Religions</Text>
+			<Text>Tôn giáo</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HOF_REPORTS_RELIGIONS_BELIEFS">
-			<Text>Beliefs</Text>
+			<Text>Đức tin</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HOF_REPORTS_RELIGIONS_CITIES">
-			<Text>Cities</Text>
+			<Text>Các thành phố</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HOF_REPORTS_RELIGIONS_FOLLOWERS">
-			<Text>Followers</Text>
+			<Text>Người theo dõi</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HOF_REPORTS_RELIGIONS_FOUNDER">
-			<Text>Founder</Text>
+			<Text>Người sáng lập</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HOF_REPORTS_RELIGIONS_HOLY_CITY">
-			<Text>Holy City</Text>
+			<Text>Thành phố linh thiêng</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HOF_REPORTS_RELIGIONS_INITIAL_COLUMN">
-			<Text>Religion</Text>
+			<Text>Tôn giáo</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HOF_REPORTS_RELIGIONS_TURN_FOUNDED">
-			<Text>Turn Founded</Text>
+			<Text>Thành lập</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HOF_REPORTS_UNITS">
-			<Text>Units</Text>
+			<Text>Các đơn vị</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HOF_REPORTS_UNITS_INITIAL_COLUMN">
-			<Text>Unit</Text>
+			<Text>Đơn vị</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HOF_REPORTS_UNITS_KILLS">
-			<Text>Kills</Text>
+			<Text>Giết chết</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HOF_REPORTS_UNITS_LOST">
-			<Text>Lost</Text>
+			<Text>Mất</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HOF_REPORTS_UNITS_TRAINED">
-			<Text>Trained</Text>
+			<Text>Đào tạo</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HOF_STAT_BARBARIANS_KILLED">
-			<Text>Barbarians Killed</Text>
+			<Text>Người dã man bị giết chết</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HOF_STAT_BARBARIAN_CAMPS">
-			<Text>Barbarian Camps Cleared</Text>
+			<Text>Trại dã man bị xóa bỏ</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HOF_STAT_CITIES_CAPTURED">
 			<Text>Cities Conquered</Text>
@@ -236,49 +236,49 @@
 			<Text>Battles Fought</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HOF_STAT_FAVORITE_GOVERNMENT">
-			<Text>Favorite Government</Text>
+			<Text>Chính phủ yêu thích</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HOF_STAT_FAVORITE_GOVERNMENT_ANNOTATION">
 			<Text>Active for a combined {Amount: plural 1?{Amount} turn;other?{Amount} turns;}.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HOF_STAT_FAVORITE_UNIT">
-			<Text>Favorite Unit</Text>
+			<Text>Đơn vị yêu thích</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HOF_STAT_FAVORITE_UNIT_ANNOTATION">
-			<Text>{Amount: plural 1?{Amount} unit;other?{Amount} units;} trained</Text>
+			<Text>{Amount: plural 1?{Amount} unit;other?{Amount} units;} đào tạo</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HOF_STAT_GOODY_HUTS">
-			<Text>Tribal Villages Discovered</Text>
+			<Text>Phát hiện làng bộ lạc</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HOF_STAT_GOVERNMENT">
-			<Text>Government</Text>
+			<Text>Chính quyền</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HOF_STAT_GREAT_PEOPLE">
-			<Text>Great People Earned</Text>
+			<Text>Vĩ nhân kiếm được</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HOF_STAT_LARGEST_CITY">
-			<Text>Largest City</Text>
+			<Text>Thành phố lớn nhất</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HOF_STAT_LARGEST_CITY_ANNOTATION">
 			<Text>{Amount: plural 1?{Amount} citizen;other?{Amount} citizens;}</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HOF_STAT_NATURAL_WONDERS">
-			<Text>Natural Wonders Discovered</Text>
+			<Text>Khám phá những kỳ quan thiên nhiên</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HOF_STAT_NUKES">
-			<Text>Nuclear Missile Launches</Text>
+			<Text>Phóng Tên lửa hạt nhân</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HOF_STAT_POPULAR_RELIGION">
-			<Text>Most Followed Religion</Text>
+			<Text>Tôn giáo được theo dõi nhiều nhất</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HOF_STAT_POPULAR_RELIGION_ANNOTATION">
 			<Text>{Amount: plural 1?{Amount} follower;other?{Amount} followers;}.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HOF_STAT_RELGIONS_FOUNDED">
-			<Text>Religions Founded</Text>
+			<Text>Các tôn giáo thành lập</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HOF_STAT_STRONGEST_UNIT">
-			<Text>Strongest Unit</Text>
+			<Text>Đơn vị mạnh nhất</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HOF_STAT_STRONGEST_UNIT_ANNOTATION">
 			<Text>Killed {Amount: plural 1?{Amount} unit;other?{Amount} units;}.</Text>
@@ -287,31 +287,31 @@
 			<Text>Techs Acquired</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HOF_STAT_TECH_BOOSTS">
-			<Text>Techs Boosted</Text>
+			<Text>Công nghệ tăng cường</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HOF_STAT_UNITS_KILLED">
-			<Text>Units Killed</Text>
+			<Text>Đơn vị giết chết</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HOF_STAT_UNITS_LOST">
-			<Text>Units Lost</Text>
+			<Text>Đơn vị bị mất</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HOF_STAT_UNITS_TRAINED">
-			<Text>Units Trained</Text>
+			<Text>Đơn vị được đào tạo</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HOF_STAT_WARS_DECLARED">
-			<Text>Wars Declared</Text>
+			<Text>Tuyên bố Chiến tranh </Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HOF_STAT_WARS_RECEIVED">
-			<Text>Wars Received</Text>
+			<Text>Chấp nhận Chiến tranh</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HOF_STAT_WEAKEST_UNIT">
-			<Text>Weakest Unit</Text>
+			<Text>Đơn vị yếu nhất</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HOF_STAT_WEAKEST_UNIT_ANNOTATION">
-			<Text>{Amount: plural 1?{Amount} unit;other?{Amount} units;} lost.</Text>
+			<Text>{Amount: plural 1?{Amount} unit;other?{Amount} units;} mất đi.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HOF_STAT_WONDERS">
-			<Text>Wonders Built</Text>
+			<Text>Kỳ quan được xây dựng</Text>
 		</Replace>
 	</LocalizedText>
 </GameData>

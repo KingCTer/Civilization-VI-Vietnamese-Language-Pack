@@ -3,30 +3,30 @@
 <GameData>
 	<LocalizedText>
 		<Replace Language='en_US' Tag="LOC_EPIC_MULTIPLAYER_MATCHMAKE_CIVROYALE_OFFLINE_TT">
-			<Text>Red Death games are not available while Epic is offline.</Text>
+			<Text>Trò chơi Cái chết đỏ không có sẵn trong khi Epic đang ngoại tuyến.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_EPIC_PBC_OVERVIEW_DESC">
 			<Text>
-				Play By Cloud is an asynchronous multiplayer format where all players take their turns on a common savegame, which is stored on a hosted server. This is a more modern version of “passing the savegame,” which was the ancient practice of sharing a floppy disk with a common save file between friends (if you are unfamiliar with the concept of a “floppy disk,” please ask a respected adult of venerable age).[NEWLINE][NEWLINE]A Play By Cloud game may last a long time (on the order of days or weeks) as each player takes his or her turn at a time that is convenient to them. You will receive notifications when it is your turn to play. You may see an Epic notification if Epic is active, or you may use the webhooks. Webhooks are a generic message format that the technically-inclined can integrate into other messaging services, email, or Internet of Things devices.[NEWLINE][NEWLINE]In asynchronous multiplayer, it is considered courteous to take your turn at your earliest possible convenience to keep the game moving. In ancient times, players were morally obligated to protect the floppy disk from corruption, with unscrupulous players resorting to “losing” the savegame when in an untenable situation. Play By Cloud eliminates such rascally behavior.
+				Chơi theo đám mây là một định dạng nhiều người chơi không đồng bộ, trong đó tất cả người chơi lần lượt vào một trò chơi lưu trữ chung, được lưu trữ trên một máy chủ được lưu trữ. Đây là một phiên bản hiện đại hơn của việc chuyển qua trò chơi lưu trữ, đó là cách thực hành cổ xưa về việc chia sẻ đĩa mềm với một tệp lưu chung giữa bạn bè (nếu bạn không quen với khái niệm về đĩa mềm, bạn hãy hỏi một người lớn đáng kính của tuổi đáng kính).[NEWLINE][NEWLINE]Trò chơi Chơi theo đám mây có thể tồn tại rất lâu (theo thứ tự ngày hoặc tuần) khi mỗi người chơi thay phiên nhau vào thời điểm thuận tiện cho họ. Bạn sẽ nhận được thông báo khi đến lượt chơi. Bạn có thể thấy thông báo Epic nếu Epic đang hoạt động hoặc bạn có thể sử dụng webhooks. Webhooks là một định dạng tin nhắn chung mà người có khuynh hướng kỹ thuật có thể tích hợp vào các dịch vụ nhắn tin, email hoặc thiết bị Internet of Things khác.[NEWLINE][NEWLINE]Trong chế độ nhiều người chơi không đồng bộ, việc thay phiên nhau sớm nhất có thể được coi là lịch sự để giữ cho trò chơi được di chuyển. Vào thời cổ đại, người chơi có nghĩa vụ về mặt đạo đức để bảo vệ đĩa mềm khỏi tham nhũng, với những người chơi vô đạo đức phải dùng đến trò thua của trò chơi Save khi chơi trong tình huống không thể cứu vãn. Chơi theo đám mây loại bỏ hành vi đê tiện như vậy.
 			</Text>
 		</Replace>		
 		<Replace Language='en_US' Tag="LOC_EPIC_MULTIPLAYER_INTERNET_GAME_OFFLINE_TT">
-			<Text>Internet games are not available while Epic is offline.</Text>
+			<Text>Trò chơi Internet không có sẵn trong khi Epic đang ngoại tuyến.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_EPIC_INVITE_BUTTON_TT">
-			<Text>Invite friends from your Epic friends list to this game.</Text>
+			<Text>Mời bạn bè từ danh sách bạn bè Epic của bạn vào trò chơi này.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_EPIC_FRIEND_ACTION_PROFILE">
-			<Text>Epic Profile</Text>
+			<Text>Hồ sơ Epic</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_EPIC_PRIVATE_GAME_DESC">
-			<Text>Private games are not shown in the multiplayer lobby.  A private game is only accessable thru a game invite or the Epic friends list.  This setting does not apply to Local Network games.</Text>
+			<Text>Trò chơi riêng tư không được hiển thị trong sảnh nhiều người chơi. Một trò chơi riêng tư chỉ có thể truy cập thông qua một lời mời trò chơi hoặc danh sách bạn bè Epic. Cài đặt này không áp dụng cho các trò chơi Mạng cục bộ.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="EPIC_PLAYERACTION_FRIENDREQUEST_TOOLTIP">
-			<Text>Add this player as a friend on Epic.</Text>
+			<Text>Thêm người chơi này như một người bạn trên Epic.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="TXT_KEY_EPIC_MY2K_MODE_UNLINKED_TOOLTIP">
-		  <Text>Sign up for a 2K Account to unlock the Scout Cat reward (requires game restart) and enable cross-platform cloud saves so you can start your game on Epic and continue it on other platforms. Additionally, you’ll receive the latest Sid Meier’s Civilization news!</Text>
+		  <Text>Đăng ký Tài khoản 2K để mở khóa phần thưởng Scout Cat (yêu cầu khởi động lại trò chơi) và bật lưu trữ đám mây đa nền tảng để bạn có thể bắt đầu trò chơi của mình trên Epic và tiếp tục trên các nền tảng khác. Ngoài ra, bạn sẽ nhận được tin tức mới nhất về Sid Meier!</Text>
 		</Replace>
 	</LocalizedText>
 </GameData>

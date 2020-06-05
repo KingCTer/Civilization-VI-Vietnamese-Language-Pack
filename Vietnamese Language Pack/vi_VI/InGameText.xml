@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
-<!-- edited with Visual Studio 2015 by Tronster (Firaxis Games) -->
 <GameData>
 	<LocalizedText>
 		<Replace Language='en_US' Tag="LOC_NOT_IMPLEMENTED">
@@ -256,6 +254,18 @@
 		<Replace Language='en_US' Tag="LOC_GAME_MENU_RETIRE_TOOLTIP">
 			<Text>Rúi lui khỏi Game.</Text>
 		</Replace>
+		<Replace Language='en_US' Tag="LOC_GAME_MENU_PBC_DELETE">
+			<Text>Xóa trò chơi</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GAME_MENU_PBC_DELETE_TOOLTIP">
+			<Text>Xóa trò chơi Play By Cloud này. Điều này sẽ kết thúc trò chơi này cho tất cả người chơi.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GAME_MENU_PBC_QUIT">
+			<Text>Thoát khỏi trò chơi</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GAME_MENU_PBC_QUIT_TOOLTIP">
+			<Text>Thoát khỏi trò chơi Play By Cloud này. Bạn sẽ mất tiến bộ của bạn và bị loại khỏi trò chơi này.</Text>
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_GAME_MENU_EXIT_TO_MAIN">
 			<Text>Thoát tới Menu chính</Text>
 		</Replace>
@@ -280,11 +290,11 @@
 		<Replace Language='en_US' Tag="LOC_GAME_MENU_EXIT_WARNING">
 			<Text>Có chắc muốn thoát?</Text>
 		</Replace>
+		<Replace Language='en_US' Tag="LOC_GAME_MENU_QUIT_TITLE">
+			<Text>Thoát khỏi trò chơi</Text>
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_GAME_MENU_QUIT_WARNING">
 			<Text>Có chắc muốn thoát?</Text>
-		</Replace>
-		<Replace Language='en_US' Tag="LOC_GAME_MENU_RESTART_WARNING">
-			<Text>Có chắc muốn bắt đầu lại?</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_GAME_MENU_SHUTDOWN_WARNING">
 			<Text>Bạn có chắc là muốn tắt Sid Meier's Civilization VI?</Text>
@@ -294,6 +304,39 @@
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_GAME_MENU_RETIRE_WARNING">
 			<Text>Có chắc muốn rút lui?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GAME_MENU_RESTART_WARNING">
+			<Text>Bạn có chắc chắn muốn khởi động lại?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GAME_MENU_PBC_DELETE_WARNING">
+			<Text>Bạn có chắc chắn muốn xóa trò chơi nhiều người chơi này? Điều này sẽ kết thúc trò chơi này cho tất cả người chơi.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GAME_MENU_PBC_QUIT_WARNING">
+			<Text>Bạn có chắc chắn muốn thoát khỏi trò chơi nhiều người chơi này? Bạn sẽ mất tiến bộ của bạn và bị loại khỏi trò chơi này.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GAME_MENU_QUITING_GAME_STARTED">
+			<Text>Thoát trò chơi ...</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GAME_MENU_QUITING_GAME_FAIL">
+			<Text>Lỗi trong khi thoát trò chơi.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GAME_MENU_QUITING_GAME_FAIL_ACCEPT">
+			<Text>OK</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GAME_MENU_QUITING_GAME_SUCCESS">
+			<Text>Bạn đã bỏ cuộc chơi. Quay trở lại menu chính.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GAME_MENU_DELETE_GAME_STARTED">
+			<Text>Xóa trò chơi ...</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GAME_MENU_DELETE_GAME_FAIL">
+			<Text>Lỗi trong khi xóa trò chơi.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GAME_MENU_DELETE_GAME_FAIL_ACCEPT">
+			<Text>OK</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GAME_MENU_DELETE_GAME_SUCCESS">
+			<Text>Trò chơi đã bị xóa. Quay trở lại menu chính.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_COMMON_DIALOG_YES_BUTTON_CAPTION">
 			<Text>CÓ</Text>
@@ -488,7 +531,7 @@
 			<Text>Bạn có chắc?</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HUD_UNIT_PANEL_DAMAGE">
-			<Text>Damage</Text>
+			<Text>Hư hại</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HUD_UNIT_PANEL_CHARGES">
 			<Text>lần</Text>
@@ -559,9 +602,15 @@
 		<Replace Language='en_US' Tag="LOC_HUD_UNIT_PANEL_VS">
 			<Text>VS</Text>
 		</Replace>
+		<Replace Language='en_US' Tag="LOC_HUD_UNIT_PANEL_LINKED">
+			<Text>LIÊN KẾT</Text>
+    	</Replace>
 		<Replace Language='en_US' Tag="LOC_HUD_UNIT_PANEL_WATER_AVAILABILITY_GUIDE">
 			<Text>NƯỚC CÓ SẴN</Text>
 		</Replace>
+		<Replace Language='en_US' Tag="LOC_HUD_UNIT_PANEL_SETTLING_LOCATION_GUIDE">
+      		<Text>HƯỚNG DẪN THIẾT LẬP VỊ TRÍ</Text>
+    	</Replace>
 		<Replace Language='en_US' Tag="LOC_HUD_UNIT_PANEL_TOOLTIP_FRESH_WATER">
 			<Text>Nước ngọt</Text>
 		</Replace>
@@ -571,6 +620,9 @@
 		<Replace Language='en_US' Tag="LOC_HUD_UNIT_PANEL_TOOLTIP_NO_WATER">
 			<Text>Không nước</Text>
 		</Replace>
+		<Replace Language='en_US' Tag="LOC_HUD_UNIT_PANEL_TOOLTIP_VALID_LOCATION">
+      		<Text>Địa điểm giải quyết hợp lệ</Text>
+    	</Replace>
 		<Replace Language='en_US' Tag="LOC_HUD_UNIT_PANEL_TOOLTIP_TOO_CLOSE_TO_CITY">
 			<Text>Quá gần thành phố hoặc bị chắn bởi địa hình</Text>
 		</Replace>
@@ -995,10 +1047,10 @@
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HUD_CITY_AMENITIES_FROM_LUXURIES">
 			<Text>Tiện Nghi từ Tài Nguyên Quý:</Text>
-		</Replace>		
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_HUD_CITY_AMENITIES_FROM_CITY_STATES">
 			<Text>Tiện nghi từ thành phố tự trị:</Text>
-		</Replace>		
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_HUD_CITY_AMENITIES_FROM_RELIGION">
 			<Text>Tiện Nghi từ Tôn Giáo:</Text>
 		</Replace>
@@ -1010,6 +1062,15 @@
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HUD_CITY_AMENITIES_FROM_IMPROVEMENTS">
 			<Text>Tiện nghi từ Công trình:</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_HUD_CITY_AMENITIES_FROM_DISTRICTS">
+			<Text>Tiện ích từ các huyện:</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_HUD_CITY_AMENITIES_FROM_NATURAL_WONDERS">
+			<Text>Các tiện ích từ Kỳ quan thiên nhiên:</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_HUD_CITY_AMENITIES_FROM_TRAITS">
+			<Text>Tiện ích từ Đặc điểm:</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HUD_CITY_AMENITIES_LOST_FROM_WAR_WEARINESS">
 			<Text>Tiện nghi từ chiến tranh dai dẳng:</Text>
@@ -1079,6 +1140,9 @@
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HUD_CITY_FOOD_CONSUMPTION">
 			<Text>Tiêu thụ Thực Phẩm</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_HUD_CITY_FOOD_NEEDED_FOR_GROWTH">
+			<Text>Thực phẩm cần thiết để tăng dân số</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HUD_CITY_FOOD_PER_TURN">
 			<Text>Thực Phẩm/lượt</Text>
@@ -1244,7 +1308,7 @@
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HUD_CITY_RELIGION_NO_CITIZENS">
 			<Text>Không có Tín Đồ Tôn Giáo trong thành phố tại thời điểm này.</Text>
-		</Replace>		
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_HUD_CITY_RELIGIOUS_CITIZENS">
 			<Text>Tôn Giáo Công Dân</Text>
 		</Replace>
@@ -1371,6 +1435,15 @@
 		<Replace Language='en_US' Tag="LOC_HUD_MINIMAP_TOOLTIP">
 			<Text>Click để chuyển Camera.</Text>
 		</Replace>
+		<Replace Language='en_US' Tag="LOC_HUD_MINIMAP_OWNER_TOOLTIP">
+			<Text>Sở hữu: {1_PlayerName}</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MINIMAP_UNCLAIMED_TOOLTIP">
+			<Text>Lãnh thổ không có người nhận</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MINIMAP_FOG_OF_WAR_TOOLTIP">
+			<Text>Lãnh thổ chưa được khám phá</Text>
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_ACTION_PANEL_NEEDS_BELIEF_TOOLTIP">
 			<Text>Đã mở khóa một Tín Ngưỡng mới cho Tôn Giáo của bạn.</Text>
 		</Replace>
@@ -1389,6 +1462,43 @@
 		<Replace Language='en_US' Tag="LOC_HUD_CITY_WILL_NOT_COMPLETE">
 			<Text>Sản phẩm mỗi lượt quá thấp để hoàn thành.</Text>
 		</Replace>
+		<Replace Language='en_US' Tag="LOC_HUD_RIBBON_SCORE">
+			<Text>Điểm tổng thể (được sử dụng trong một tie ở cuối trò chơi)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_HUD_RIBBON_STRENGTH">
+			<Text>Sức mạnh quân sự</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_HUD_RIBBON_SCIENCE">
+			<Text>Khoa học mỗi lượt</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_HUD_RIBBON_CULTURE">
+			<Text>Văn hóa mỗi lượt</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_HUD_RIBBON_GOLD">
+			<Text>Cân bằng vàng</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_HUD_RIBBON_FAITH">
+			<Text>Cân bằng đức tin</Text>
+		</Replace>
+    <Replace Language='en_US' Tag="LOC_HUD_RIBBON_REDDEATH_ELIMINATED">
+      <Text>Được tuyên bố bởi cái chết đỏ</Text>
+    </Replace>
+		<Replace Language='en_US' Tag="LOC_HUD_RIBBON_MODE_STATS_ALWAYS_HIDE">
+			<Text>Luôn ẩn số liệu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_HUD_RIBBON_MODE_STATS_HIDE">
+			<Text>Ẩn số liệu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_HUD_RIBBON_MODE_STATS_ALWAYS_SHOW">
+			<Text>Luôn hiển thị số liệu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PLAYERNAME_AUTOPLAY_OBSERVER">
+			<Text>AutoPlay Observer</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PLAYERNAME_UNKNOWN">
+			<Text>không xác định</Text>
+		</Replace>
+
 		<!-- ==================== Production Menu (for cities) ==================== -->
 		<Replace Language='en_US' Tag="LOC_BUILDING_CONSTRUCT_NO_SUITABLE_LOCATION">
 			<Text>Không có vị trí thích hợp để đặt công trình này.</Text>
@@ -1399,8 +1509,17 @@
 		<Replace Language='en_US' Tag="LOC_BUILDING_CONSTRUCT_REQUIRES_BUILDING">
 			<Text>Kiến trúc này yêu cầu kiến trúc {1_Building}.</Text>
 		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_CONSTRUCT_REQUIRES_TWO_BUILDINGS">
+			<Text>Tòa nhà này yêu cầu {LOC_GRAMMAR_A_AN &lt;&lt; {1_Building}} or  {LOC_GRAMMAR_A_AN &lt;&lt; {2_BuildingTheSecond}}.</Text>
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_BUILDING_CONSTRUCT_REQUIRES_THREE_BUILDINGS">
 			<Text>Kiến trúc này yêu cầu kiến trúc {1_Building}, {2_BuildingTheSecond}, hoặc {3_BuildingTheThird}.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_CONSTRUCT_REQUIRE_WALL_REPAIR">
+			<Text>{1_Building} phải được sửa chữa.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_CONSTRUCT_TURNS_UNTIL_CAN_BE_REPAIRED">
+			<Text>{1_Building} có thể sửa chữa trong {2_Turns} [ICON_Turn] {2_Turns : plural 1?turn; other?turns;}.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_BUILDING_CONSTRUCT_IS_OCCUPIED">
 			<Text>Đặc Khu bị chiếm bởi kẻ địch.</Text>
@@ -1429,12 +1548,25 @@
 		<Replace Language='en_US' Tag="LOC_DISTRICT_REPAIR_LOCATION_CONTAMINATED">
 			<Text>Bị ô nhiễm, không thể sửa.</Text>
 		</Replace>
+		<Replace Language='en_US' Tag="LOC_DISTRICT_REPAIR_MISSING_PREREQ_TECH">
+			<Text>Không thể sửa chữa, yêu cầu Công nghệ: {1_TechName}.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DISTRICT_REPAIR_MISSING_PREREQ_CIVIC">
+			<Text>Không thể sửa chữa, yêu cầu Civic: {1_CivicName}.</Text>
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_DISTRICT_ZONE_ALREADY_BEING_BUILT">
 			<Text>Một phần xây dựng {1_District} trong {2_CityName} phải được hoàn thành (hoặc phá hủy) trước khi bạn có thể bắt đầu {3_District} khác.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_DISTRICT_ZONE_CONFIRM_POPUP">
 			<Text>Bạn muốn xây Đặc Khu ở đây?</Text>
 		</Replace>
+		<Replace Language='en_US' Tag="LOC_FOUND_CITY_CONFIRM_POPUP">
+      		<Text>Bạn có muốn tìm một thành phố ở đây?</Text>
+    	</Replace>
+    	<Replace Language='en_US' Tag="LOC_FOUND_CITY_WILL_REMOVE_FEATURE">
+			<Text>Nó sẽ xóa {1_Feature} trên ô này.</Text>
+		</Replace>
+    <!-- TODO: Add reason strings here -->
 		<Replace Language='en_US' Tag="LOC_DISTRICT_ZONE_CONFIRM_DISTRICT_POPUP">
 			<Text>Bạn muốn xây {1_DistrictName} ở đây?</Text>
 		</Replace>
@@ -1522,18 +1654,45 @@
 		<Replace Language='en_US' Tag="LOC_PROJECT_ADVANCE_LOCATION_OCCUPIED_BY_ENEMY">
 			<Text>Vị trí dự án yêu cầu bị kẻ địch chiếm giữ.</Text>
 		</Replace>
+		<Replace Language='en_US' Tag="LOC_PROJECT_FAILED_RESOURCE_REQUIREMENT">
+			<Text>Dự án này yêu cầu {1_ResourceName} để tiến lên.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PRODUCTION_MANAGER_NO_CURRENT_PRODUCTION">
+			<Text>Thành phố này hiện không sản xuất bất cứ thứ gì.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PRODUCTION_PANEL_SCROLL_TO_BUILDINGS">
+			<Text>Di chuyển đến các tòa nhà và quận</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PRODUCTION_PANEL_SCROLL_TO_WONDERS">
+			<Text>Di chuyển đến Kỳ quan</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PRODUCTION_PANEL_SCROLL_TO_UNITS">
+			<Text>Di chuyển đến Đơn vị</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PRODUCTION_PANEL_SCROLL_TO_PROJECTS">
+			<Text>Di chuyển đến dự án</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PRODUCTION_PANEL_MULTI_QUEUE">
+			<Text>Multi-Queue</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PRODUCTION_PANEL_QUEUE_WITH_COUNT">
+			<Text>Queue ({1_QueueSize})</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PRODUCTION_PANEL_TRASH_TOOLTIP">
+			<Text>Thả các hàng đợi ở đây để loại bỏ.</Text>
+		</Replace>
 		<!-- ==================== Leader Viewer Debug ==================== -->
 		<Replace Language='en_US' Tag="LOC_LEADER_VIEWER_BACK">
-			<Text>Back To Game</Text>
+			<Text>Quay lại trò chơi</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_LEADER_VIEWER_TOGGLE_FALLBACK">
-			<Text>Toggle Fall-back Mode</Text>
+			<Text>Chuyển đổi chế độ dự phòng</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_LEADER_VIEWER_RENDER_FALLBACK">
-			<Text>Render Fall-back Images</Text>
+			<Text>Kết xuất hình ảnh dự phòng</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_LEADER_VIEWER_FRAME_TIME">
-			<Text>Frame Time:</Text>
+			<Text>Khung thời gian:</Text>
 		</Replace>
 		<!-- ==================== Leader Screen ==================== -->
 		<Replace Language='en_US' Tag="LOC_LEADER_SCREEN_GREETING">
@@ -1563,7 +1722,7 @@
 			<Text>BENCHMARKING</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_BENCHMARK_RESULTS_TITLE">
-			<Text>BENCHMARKING RESULTS</Text>
+			<Text>BENCHMARKING KẾT QUẢ</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_BENCHMARK_FRAME">
 			<Text>Current Frame:</Text>
@@ -1587,7 +1746,7 @@
 			<Text>Frame Time Graph</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_BENCHMARK_AVERAGE">
-			<Text>Average:</Text>
+			<Text>Trung bình:</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_BENCHMARK_FILE">
 			<Text>File:</Text>
@@ -1731,7 +1890,7 @@
 			<Text>Mở Bách Khoa Toàn Thư Civilopedia.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TOP_PANEL_CURRENT_DATE">
-			<Text>2100 AD</Text>
+			<Text>2100 sau công nguyên</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TOP_PANEL_CURRENT_TURN">
 			<Text>Lượt</Text>
@@ -1802,9 +1961,15 @@
 		<Replace Language='en_US' Tag="LOC_HUD_OWNER_LENS">
 			<Text>Chính trị</Text>
 		</Replace>
-    <Replace Language='en_US' Tag="LOC_HUD_TOURISM_LENS">
-      <Text>Du lịch</Text>
-    </Replace>
+		<Replace Language='en_US' Tag="LOC_HUD_TOURISM_LENS">
+			<Text>Du lịch</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_HUD_EMPIRE_LENS">
+      		<Text>Đế chế</Text>
+    	</Replace>
+    	<Replace Language='en_US' Tag="LOC_HUD_POWER_LENS">
+      		<Text>Quyền lực</Text>
+    	</Replace>
 		<Replace Language='en_US' Tag="LOC_HUD_RELIGION_LENS_TOOLTIP">
 			<Text>Hiển thị sự phân bố tôn giáo.</Text>
 		</Replace>
@@ -1823,11 +1988,47 @@
 		<Replace Language='en_US' Tag="LOC_HUD_OWNER_LENS_TOOLTIP">
 			<Text>Hiển thị người chủ của mỗi ô đất.</Text>
 		</Replace>
-    <Replace Language='en_US' Tag="LOC_HUD_TOURISM_LENS_TOOLTIP">
-      <Text>Hiển thị số khách du lịch trong mỗi ô.</Text>
-    </Replace>
+		<Replace Language='en_US' Tag="LOC_HUD_TOURISM_LENS_TOOLTIP">
+			<Text>Hiển thị số khách du lịch trong mỗi ô.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_HUD_EMPIRE_LENS_TOOLTIP">
+      		<Text>Hiển thị biên giới thành phố của bạn, địa điểm quận và kề.</Text>
+    	</Replace>
+    	<Replace Language='en_US' Tag="LOC_HUD_POWER_LENS_TOOLTIP">
+      		<Text>Hiển thị các nguồn năng lượng trong các thành phố của bạn cùng với phạm vi quyền lực trong khu vực.</Text>
+    	</Replace>
 		<Replace Language='en_US' Tag="LOC_HUD_MAP_OPTIONS">
 			<Text>Tùy chọn bản đồ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_HUD_MAP_SEARCH">
+			<Text>Tìm kiếm bản đồ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_HUD_MAP_SEARCH_IN_PROGRESS">
+			<Text>Đang tìm kiếm...</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_HUD_MAP_SEARCH_UPDATING">
+			<Text>Đang cập nhật ...</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_HUD_MAP_SEARCH_WAITING_FOR_TURN">
+			<Text>Chờ đến lượt tiếp theo ...</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_HUD_MAP_SEARCH_RESULTS">
+			<Text>{1_Count : plural 1?Found {1_Count} result; other?Found {1_Count} results;}</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_HUD_MAP_SEARCH_BEGIN_SEARCH">
+			<Text>TÌM KIẾM</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_HUD_MAP_SEARCH_CLEAR_SEARCH">
+			<Text>CLEAR</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_HUD_MAP_SEARCH_NO_SEARCH_TERMS_TOOLTIP">
+			<Text>Không thể tìm kiếm mà không có ít nhất một thuật ngữ tìm kiếm.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_HUD_MAP_SEARCH_TOOLTIP">
+			<Text>Điều khoản tìm kiếm[NEWLINE]Kết quả tìm kiếm sẽ chứa TẤT CẢ các thuật ngữ được nhập tại đây.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_HUD_MAP_SEARCH_FILTER_TOOLTIP">
+			<Text>Bộ lọc tìm kiếm[NEWLINE]Kết quả tìm kiếm sẽ chứa KHÔNG của các thuật ngữ được nhập tại đây.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HUD_CIVICS_ENABLES">
 			<Text>Bật</Text>
@@ -1922,6 +2123,43 @@
 		<Replace Language='en_US' Tag="LOC_HUD_POPUP_PROJECT_CREATED_BY_UNKNOWN">
 			<Text>Một người chơi không rõ đến gần với Chiến thắng Khoa Học.</Text>
 		</Replace>
+		<!-- Map Search Terms -->
+		<Replace Language='en_US' Tag="LOC_HUD_MAP_SEARCH_TERMS_MOUNTAIN">
+			<Text>Núi</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_HUD_MAP_SEARCH_TERMS_HILL">
+			<Text>Đồi núi</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_HUD_MAP_SEARCH_TERMS_WATER">
+			<Text>Nước</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_HUD_MAP_SEARCH_TERMS_FEATURE">
+			<Text>Đặc tính</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_HUD_MAP_SEARCH_TERMS_IMPROVEMENT">
+			<Text>Cải thiện</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_HUD_MAP_SEARCH_TERMS_OWNED">
+			<Text>Sở hữu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_HUD_MAP_SEARCH_TERMS_UNCLAIMED">
+			<Text>Không Sở hữu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_HUD_MAP_SEARCH_TERMS_PILLAGED">
+			<Text>Cướp bóc</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_HUD_MAP_SEARCH_TERMS_NATIONAL_PARK">
+			<Text>Công viên quốc gia</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_HUD_MAP_SEARCH_TERMS_UNDER_CONSTRUCTION">
+			<Text>Đang xây dựng</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_HUD_MAP_SEARCH_TERMS_CONTAMINATION">
+			<Text>Ô nhiễm</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_HUD_MAP_SEARCH_TERMS_SPECIALIST">
+			<Text>Chuyên gia</Text>
+		</Replace>
 		<!-- Boost Text -->
 		<Replace Language='en_US' Tag="LOC_BOOST_TO_BOOST">
 			<Text>Để Thúc Đẩy:</Text>
@@ -1954,6 +2192,9 @@
 		<Replace Language='en_US' Tag="LOC_TECH_BOOST_CAPTURED_CITY">
 			<Text>Bạn có được hiểu biết về khoa học mới từ thành phố đã chiếm đóng này.</Text>
 		</Replace>
+		<Replace Language='en_US' Tag="LOC_TECH_BOOST_TRADING_POST">
+      		<Text>Thương nhân của bạn mang ý tưởng mới từ những vùng đất xa xôi.</Text>
+    	</Replace>
 		<Replace Language='en_US' Tag="LOC_TECH_BOOST_COMPLETE">
 			<Text>Nghiên cứu {1_techString} vừa hoàn tất!</Text>
 		</Replace>
@@ -2115,6 +2356,9 @@
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HIDE_CHAT_PANEL_UNREAD_MESSAGES">
 			<Text>Khung Chat ([ICON_New]{1_Number})</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PLAY_BY_CLOUD_PANEL">
+			<Text>Play By Cloud Panel</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_WORLD_TRACKER_CHOOSE_CIVIC">
 			<Text>Chọn Hành Chính</Text>
@@ -2281,7 +2525,7 @@
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_GOVT_NEED_FAITH">
 			<Text>Ngài cần {1_Faith} [ICON_FaithLarge] Đức tin</Text>
-			</Replace>
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_GOVT_NEED_GOLD">
 			<Text>Ngài cần {1_Gold} [ICON_GoldLarge] Vàng</Text>
 		</Replace>
@@ -2330,21 +2574,21 @@
 		<Replace Language='en_US' Tag="LOC_GOVT_CIVIC_REQUIRED">
 			<Text>Mở khóa khi hành chính {1_CivicName} hoàn tất.</Text>
 		</Replace>
-    <Replace Language='en_US' Tag="LOC_GOVT_NO_WILDCARD_SLOTS">
-      <Text>Không có slot Chính sách bất ngờ được cung cấp bởi chính phủ này.</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_GOVT_NO_MILITARY_SLOTS">
-      <Text>Không có slot chính sách quân sự được cung cấp bởi chính phủ này.</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_GOVT_NO_DIPLOMACY_SLOTS">
-      <Text>Không có slot chính sách ngoại giao được cung cấp bởi chính phủ này.</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_GOVT_NO_ECONOMIC_SLOTS">
-      <Text>Không có slot chính sách kinh tế được cung cấp bởi chính phủ này.</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_GOVT_NO_LEGACY_BONUS">
-      <Text>Thưởng kế thừa là những lợi ích đã học hỏi được từ các hệ thống chính phủ khác nhau. Nó là phần thưởng được tích lũy theo thời gian.</Text>
-    </Replace>
+		<Replace Language='en_US' Tag="LOC_GOVT_NO_WILDCARD_SLOTS">
+			<Text>Không có slot Chính sách bất ngờ được cung cấp bởi chính phủ này.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVT_NO_MILITARY_SLOTS">
+			<Text>Không có slot chính sách quân sự được cung cấp bởi chính phủ này.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVT_NO_DIPLOMACY_SLOTS">
+			<Text>Không có slot chính sách ngoại giao được cung cấp bởi chính phủ này.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVT_NO_ECONOMIC_SLOTS">
+			<Text>Không có slot chính sách kinh tế được cung cấp bởi chính phủ này.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOVT_NO_LEGACY_BONUS">
+			<Text>Thưởng kế thừa là những lợi ích đã học hỏi được từ các hệ thống chính phủ khác nhau. Nó là phần thưởng được tích lũy theo thời gian.</Text>
+		</Replace>
 		<!-- ==================== Unit Operations ==================== -->
 		<Replace Language='en_US' Tag="LOC_UNITOPERATION_BUILD_DISTRICT">
 			<Text>Xây Đặc Khu</Text>
@@ -2646,6 +2890,9 @@
 		<Replace Language='en_US' Tag="LOC_UNITOPERATION_CANNOT_DESIGNATE_PARK">
 			<Text>Phải là một Công Viên Quốc Gia hợp lệ.</Text>
 		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITOPERATION_EXECUTE_SCRIPT_DESCRIPTION">
+			<Text>Hoạt động đặc biệt</Text>
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_UNITCOMMAND_WAKE_DESCRIPTION">
 			<Text>Thức dậy</Text>
 		</Replace>
@@ -2757,6 +3004,9 @@
 		<Replace Language='en_US' Tag="LOC_UNITCOMMAND_ACTIVATE_GREAT_PERSON_REQUIRES_ON_MISSING_BUILDING">
 			<Text>Phải trong thành phố không có {1_BuildingName}.</Text>
 		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITCOMMAND_ACTIVATE_GREAT_PERSON_REQUIRES_NEARBY_VALID_UNIT">
+      		<Text>Phải trong vòng 2 hình lục giác của một đơn vị hợp lệ.</Text>
+    	</Replace>
 		<Replace Language='en_US' Tag="LOC_UNITCOMMAND_DISTRICT_PRODUCTION_DESCRIPTION">
 			<Text>Thêm sản phẩm cho Đặc Khu.</Text>
 		</Replace>
@@ -2807,6 +3057,9 @@
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_UNITCOMMAND_HARVEST_WONDER_DETAILS">
 			<Text>Kỳ quan thế giới này đã được xây dựng bởi nền văn minh khác, vì vậy chúng ta không thể hoàn thành nó. Nhưng chúng ta có thể lấy lại tài nguyên thô, cung cấp cho thành phố {1_ProductionAmont} [ICON_Production] Sản phẩm.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNITCOMMAND_EXECUTE_SCRIPT_DESCRIPTION">
+			<Text>Hành động đặc biệt</Text>
 		</Replace>
 		<!-- ==================== National Park Text ==================== -->
 		<Replace Language='en_US' Tag="LOC_NATIONAL_PARK_NAME">
@@ -2927,12 +3180,15 @@
 		<Replace Language='en_US' Tag="LOC_TOOLTIP_UNLOCKS">
 			<Text>Mở khóa:</Text>
 		</Replace>
+		<Replace Language='en_US' Tag="LOC_TOOLTIP_BUILDING_CITIZEN_YIELDS_HEADER">
+      		<Text>Năng suất công dân (mỗi công dân trong quận này):</Text>
+    	</Replace>
 		<Replace Language='en_US' Tag="LOC_TOOLTIP_DISTRICT_CITIZEN_YIELDS_HEADER">
 			<Text>Mỗi công dân:</Text>
 		</Replace>
-    <Replace Language='en_US' Tag="LOC_TOOLTIP_UNLOCKS_DIPLOMACY">
-      <Text>Ngoại giao: {1_DiplomacyAction}</Text>
-    </Replace>
+		<Replace Language='en_US' Tag="LOC_TOOLTIP_UNLOCKS_DIPLOMACY">
+			<Text>Ngoại giao: {1_DiplomacyAction}</Text>
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_TOOLTIP_UNLOCKS_GOVERNMENT">
 			<Text>Chính phủ: {1_GovernmentName}</Text>
 		</Replace>
@@ -3086,6 +3342,9 @@
 		<Replace Language='en_US' Tag="LOC_TOOLTIP_ARTIFACT_RESOURCE">
 			<Text>Tài nguyên cổ vật</Text>
 		</Replace>
+		<Replace Language='en_US' Tag="LOC_TOOLTIP_BONUS_STRATEGIC">
+      		<Text>Tài nguyên chiến lược</Text>
+    	</Replace>
 		<Replace Language='en_US' Tag="LOC_TOOLTIP_ARTIFACT_RESOURCE_DETAILS">
 			<Text>Gửi một nhà khảo cổ để khai quật [ICON_GreatWork_Artifact] Cổ vật, sẽ cung cấp [ICON_Culture] Văn minh và [ICON_Tourism] Du lịch khi quay trở về thành phố.</Text>
 		</Replace>
@@ -3103,6 +3362,9 @@
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TOOLTIP_RIVER">
 			<Text>Sông</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TOOLTIP_CLIFF">
+			<Text>Vách đá</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TOOLTIP_IMPROVEMENT_RECOMMENDATION">
 			<Text>Đề xuất công trình: {1_ImprovementName}</Text>
@@ -3159,11 +3421,26 @@
 		<Replace Language='en_US' Tag="LOC_TYPE_TRAIT_BONUS_YIELD">
 			<Text>{1_Amount: number +#,###;-#,###} {2_YieldIcon} {3_YieldName} (yêu cầu {4_TechOrCivicName})</Text>
 		</Replace>
+		<Replace Language='en_US' Tag="LOC_TYPE_TRAIT_TOURISM_BONUS_APPEAL">
+      		<Text>{1_Amount: number +#,###;-#,###}% [ICON_TOURISM] Du lịch từ Kháng cáo (yêu cầu {4_TechOrCivicName})</Text>
+    	</Replace>
+    	<Replace Language='en_US' Tag="LOC_TYPE_TRAIT_TOURISM_BONUS_YIELD">
+      		<Text>{1_Amount: number +#,###;-#,###}% [ICON_TOURISM] Du lịch từ {2_YieldIcon} {3_YieldName} (đòi hỏi {4_TechOrCivicName})</Text>
+    	</Replace>
+    	<Replace Language='en_US' Tag="LOC_TYPE_TRAIT_TOURISM_BONUS_APPEAL_NO_REQUIREMENT">
+      		<Text>{1_Amount: number +#,###;-#,###}% [ICON_TOURISM] Du lịch từ kháng cáo</Text>
+    	</Replace>
+    	<Replace Language='en_US' Tag="LOC_TYPE_TRAIT_TOURISM_BONUS_YIELD_NO_REQUIREMENT">
+      		<Text>{1_Amount: number +#,###;-#,###}% [ICON_TOURISM] Du lịch từ {2_YieldIcon} {3_YieldName}</Text>
+    	</Replace>
 		<Replace Language='en_US' Tag="LOC_TYPE_TRAIT_HAPPINESS">
 			<Text>{1_Num: number +#;-#}[ICON_Amenities] Tiện nghi (trên mỗi thành phố)</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TYPE_TRAIT_HOUSING">
 			<Text>{1_Amount: number +#,###.#;-#,###.#} [ICON_Housing] Nhà ở</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TYPE_TRAIT_HOUSING_WITH_REQUIREMENT">
+			<Text>{1_Amount: number +#,###.#;-#,###.#} [ICON_Housing] Nhà ở (yêu cầu {2_TechOrCivicName})</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TYPE_TRAIT_AIRSLOTS">
 			<Text>Sức chứa máy bay: {1_Amount}</Text>
@@ -3179,6 +3456,9 @@
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TYPE_TRAIT_WEAPONSLOTS">
 			<Text>Sức chứa vũ khí: {1_Amount}</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TYPE_TRAIT_AMENITY">
+			<Text>{1_Amount: number +#,###;-#,###} [ICON_Amenities] {1_Amount : plural 1?Amenity; other?Amenities;}</Text>>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TYPE_TRAIT_AMENITY_ENTERTAINMENT">
 			<Text>{1_Amount: number +#,###;-#,###} [ICON_Amenities] {1_Amount : plural 1?Tiện nghi; other?Tiện nghi;} từ giải trí</Text>>
@@ -3216,11 +3496,23 @@
 		<Replace Language='en_US' Tag="LOC_TYPE_TRAIT_BUILDING_DISTRICT_COPY">
 			<Text>Thưởng {1_ToYieldIcon} {2_ToYieldName} bằng với thưởng {3_FromYieldIcon} {4_FromYieldName} liền kề Đặc Khu này.</Text>
 		</Replace>
+		<Replace Language='en_US' Tag="LOC_TYPE_TRAIT_ADJACENT_BONUS_ONCE">
+      		<Text>{1_Amount: number +#,###.#;-#,###.#} {2_YieldIcon} {3_YieldName} for having an adjacent {5_AdjacentObject} tile.</Text>
+    	</Replace>
+		<Replace Language='en_US' Tag="LOC_TYPE_TRAIT_ADJACENT_AMENITY_BONUS_ONCE">
+			<Text>{1_Amount: number +#,###.#;-#,###.#} [ICON_Amenities] {1_Amount : plural 1?Amenity; other?Amenities;} for having an adjacent {2_AdjacentObject} tile.</Text>
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_TYPE_TRAIT_ADJACENT_BONUS">
 			<Text>{1_Amount: number +#,###.#;-#,###.#} {2_YieldIcon} {3_YieldName} cho mỗi một {5_AdjacentObject} liền kề.</Text>
 		</Replace>
+		<Replace Language='en_US' Tag="LOC_TYPE_TRAIT_ADJACENT_AMENITY_BONUS">
+			<Text>{1_Amount: number +#,###.#;-#,###.#} [ICON_Amenities] {1_Amount : plural 1?Amenity; other?Amenities;} from each adjacent {2_AdjacentObject} tile.</Text>
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_TYPE_TRAIT_ADJACENT_BONUS_PER">
 			<Text>{1_Amount: number +#,###.#;-#,###.#} {2_YieldIcon} {3_YieldName} cho mỗi {4_Count} {5_AdjacentObject} liền kề.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TYPE_TRAIT_ADJACENT_AMENITY_BONUS_PER">
+			<Text>{1_Amount: number +#,###.#;-#,###.#} [ICON_Amenities] {1_Amount : plural 1?Amenity; other?Amenities;} from every {2_Count} adjacent {3_AdjacentObject} tiles.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TYPE_TRAIT_ADJACENT_BONUS_REQUIRES_TECH_OR_CIVIC">
 			<Text>Yêu cầu {1_TechOrCivicName}.</Text>
@@ -3249,6 +3541,18 @@
 		<Replace Language='en_US' Tag="LOC_TYPE_TRAIT_ADJACENT_OBJECT_NATURAL_WONDER">
 			<Text>kỳ quan thiên nhiên</Text>
 		</Replace>
+		<Replace Language='en_US' Tag="LOC_TOOLTIP_BONUS">
+      		<Text>stra</Text>
+    	</Replace>
+    	<Replace Language='en_US' Tag="LOC_TYPE_TRAIT_PILLAGE_AWARD">
+      		<Text>Pillage Award: {1_AwardIcon} {2_AwardText}</Text>
+    	</Replace>
+    	<Replace Language='en_US' Tag="LOC_TYPE_TRAIT_PILLAGE_AWARD_NO_ICON">
+    		<Text>Pillage Award: {1_AwardText}</Text>
+    	</Replace>
+    	<Replace Language='en_US' Tag="LOC_TYPE_TRAIT_PILLAGE_AWARD_HEALING">
+      		<Text>Healing</Text>
+    	</Replace>
 		<!-- ==================== Calendar Text ==================== -->
 		<Replace Language='en_US' Tag="LOC_TIME_AD">
 			<Text>{1_Date: number #} SCN</Text>
@@ -3541,6 +3845,9 @@
 		<Replace Language='en_US' Tag="LOC_UI_RELIGION_FOUND_PANTHEON">
 			<Text>Tìm thấy vị thần này</Text>
 		</Replace>
+		<Replace Language='en_US' Tag="LOC_UI_RELIGION_RESELECT_PANTHEON">
+      		<Text>Chọn lại Pantheon</Text>
+    	</Replace>
 		<Replace Language='en_US' Tag="LOC_UI_RELIGION_FOUND_RELIGION">
 			<Text>Sáng lập tôn giáo này</Text>
 		</Replace>
@@ -3972,6 +4279,12 @@
 		<Replace Language='en_US' Tag="LOC_WORLD_RANKINGS_VICTORY_DISABLED">
 			<Text>Chưa hoàn thành chiến thắng</Text>
 		</Replace>
+		<Replace Language='en_US' Tag="LOC_WORLD_RANKINGS_CULTURAL_VICTORY_TURNS">
+      		<Text>Chiến thắng: [ICON_Turn] {1_Turns}</Text>
+    	</Replace>
+    	<Replace Language='en_US' Tag="LOC_WORLD_RANKINGS_CULTURAL_VICTORY_TURNS_TT">
+      		<Text>Người chơi này sẽ đạt được Chiến thắng văn hóa trong {1_Turns: số nhiều 1? {1_Turns} lần lượt; khác? {1_Turns} lượt;}.</Text>
+    	</Replace>
 		<!-- ==================== Scoring Categories ==================== -->
 		<Replace Language='en_US' Tag="LOC_CATEGORY_CIVICS_NAME">
 			<Text>Hành chính</Text>
@@ -4034,6 +4347,13 @@
 		<Replace Language='en_US' Tag="LOC_RESEARCH_COMPLETE_UNLOCKED_BY_TECH">
 			<Text>Mở khóa bởi công nghệ ({1_Amount}):</Text>
 		</Replace>
+		<!-- ==================== Event Popup ==================== -->
+    	<Replace Language='en_US' Tag="LOC_EVENT_POPUP_UNLOCKED">
+      		<Text>UNLOCKED:</Text>
+    	</Replace>
+    	<Replace Language='en_US' Tag="LOC_EVENT_POPUP_CHOICE_UNLOCKS">
+      		<Text>{1_Choice} UNLOCKS:</Text>
+    	</Replace>
 		<!-- ==================== City State Partial SCreen ==================== -->
 		<Replace Language='en_US' Tag="LOC_CITY_STATES_ADD_AN_ENVOY">
 			<Text>Thêm một [ICON_Envoy] Phái đoàn giữa nền văn minh của bạn và thành phố tự trị này.</Text>
@@ -4350,6 +4670,12 @@
 			<Text>Người chơi không rõ</Text>
 		</Replace>
 		<!-- ==================== Chat Panel Text ==================== -->
+		<Replace Language='en_US' Tag="LOC_CLICK_TO_DRAG">
+      		<Text>Nhấp và giữ để kéo</Text>
+    	</Replace>
+    	<Replace Language='en_US' Tag="LOC_COLLAPSE_AND_RESET">
+      		<Text>Thu gọn và đặt lại bảng trò chuyện</Text>
+    	</Replace>
 		<Replace Language='en_US' Tag="LOC_DIPLO_TO_ALL">
 			<Text>Tới Tất Cả</Text>
 		</Replace>
@@ -4391,6 +4717,9 @@
 			<Text>Click trái để xem điểm gim.</Text>
 		</Replace>
 		<!-- ==================== Pause Panel Text ==================== -->
+		<Replace Language='en_US' Tag="LOC_GAME_PAUSED_TITLE">
+			<Text>Tạm dừng trò chơi!</Text>
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_GAME_PAUSED_BY">
 			<Text>Game bị dừng bởi {1_PlayerName}</Text>
 		</Replace>
@@ -4654,6 +4983,12 @@
 		<Replace Language='en_US' Tag="LOC_ROUTECHOOSER_NO_BENEFITS_FROM_ROUTE">
 			<Text>Không có lợi ích từ tuyến đường.</Text>
 		</Replace>
+		<Replace Language='en_US' Tag="LOC_ROUTECHOOSER_BONUS_ICON_TOOLTIP">
+      		<Text>Sản lượng thưởng được cung cấp bởi gạch nước, Đường sắt, Kênh, Đường hầm Núi hoặc Bài giao dịch dọc theo tuyến đường này.</Text>
+    	</Replace>
+    	<Replace Language='en_US' Tag="LOC_ROUTECHOOSER_TRADING_POST_TOOLTIP">
+      		<Text>Bạn đã thành lập một bài giao dịch tại thành phố này.</Text>
+    	</Replace>
 		<Replace Language='en_US' Tag="LOC_ROUTECHOOSER_YIELD_SOURCE_DISTRICTS">
 			<Text>{1_YieldAmount} {2_YieldIconString} {3_YieldName} từ Đặc Khu trong {4_CityName}.</Text>
 		</Replace>
@@ -4797,19 +5132,37 @@
 			<Text>Tất cả một mình</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_PARTIALSCREEN_CITYSTATES_TOOLTIP">
-			<Text>THÀNH PHỐ TỰ TRỊ</Text>
+			<Text>Thành phố tự trị [NEWLINE][NEWLINE] Xem tất cả các quốc gia thành phố bạn đã gặp, quản lý các đặc phái viên [ICON_Envoy] của bạn và xem xét mọi phần thưởng kiếm được.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_PARTIALSCREEN_DIPLOMACY_TOOLTIP">
-			<Text>NGOẠI GIAO</Text>
+			<Text>Ngoại giao [NEWLINE][NEWLINE] Xem thông tin về các nền văn minh khác mà bạn đã gặp, quản lý các mối quan hệ của bạn và thực hiện các giao dịch.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_PARTIALSCREEN_WORLDRANKINGS_TOOLTIP">
-			<Text>BẢNG XẾP HẠNG THẾ GIỚI</Text>
+			<Text>Xếp hạng thế giới [NEWLINE][NEWLINE] Xem Bảng xếp hạng thế giới để xem bạn đang làm tốt như thế nào và bạn cần làm gì để giành chiến thắng.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_PARTIALSCREEN_ESPIONAGE_TOOLTIP">
-			<Text>GIÁN ĐIỆP</Text>
+			<Text>Gián điệp [NEWLINE][NEWLINE] Xem và quản lý gián điệp của bạn.</Text>
 		</Replace>
+		<Replace Language='en_US' Tag="LOC_PARTIALSCREEN_REPORTS_TOOLTIP">
+			<Text>Danh sách báo cáo.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PARTIALSCREEN_REPORTS_CITY_STATUS">
+			<Text>Tình trạng thành phố</Text>
+		</Replace>
+    <Replace Language='en_US' Tag="LOC_PARTIALSCREEN_REPORTS_NOTIFICATIONS">
+      <Text>Thông báo</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_PARTIALSCREEN_REPORTS_GOSSIP">
+      <Text>Gossip</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_PARTIALSCREEN_REPORTS_YIELDS">
+      <Text>Sản lượng</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_PARTIALSCREEN_REPORTS_RESOURCES">
+      <Text>Tài nguyên</Text>
+    </Replace>
 		<Replace Language='en_US' Tag="LOC_PARTIALSCREEN_TRADEROUTES_TOOLTIP">
-			<Text>TUYẾN ĐƯỜNG THƯƠNG MẠI</Text>
+			<Text>Tổng quan về lộ trình giao dịch [NEWLINE][NEWLINE] Xem và quản lý [ICON_TradeRoute] Tuyến giao dịch của bạn.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HUD_PRODUCTION_COST">
 			<Text>Giá</Text>
@@ -4836,6 +5189,84 @@
 			<Text>VĨ NHÂN</Text>
 		</Replace>
 		<!-- ==================== REPORTS =================== -->
+				<Replace Language='en_US' Tag="LOC_REPORTS_LIST_EMPIRE">
+			<Text>Đế chế:</Text>
+		</Replace>
+    <Replace Language='en_US' Tag="LOC_HUD_REPORTS_PRIORITY">
+      <Text>Sự ưu tiên</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_HUD_REPORTS_PLAYER_FILTER_ALL">
+      <Text>Tất cả</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_HUD_REPORTS_FILTER_ALL">
+      <Text>[ICON_GOSSIP_ALL] Tất cả</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_HUD_REPORTS_FILTER_DIPLOMACY">
+      <Text>[ICON_GOSSIP_DIPLOMACY] Ngoại giao</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_HUD_REPORTS_FILTER_MILITARY">
+      <Text>[ICON_GOSSIP_MILITARY] Quân đội</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_HUD_REPORTS_FILTER_DISCOVER">
+      <Text>[ICON_GOSSIP_DISCOVER] Khám phá</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_HUD_REPORTS_FILTER_ESPIONAGE">
+      <Text>[ICON_GOSSIP_ESPIONAGE] Gián điệp</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_HUD_REPORTS_FILTER_SCIENCE">
+      <Text>[ICON_GOSSIP_SCIENCE] Khoa học</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_HUD_REPORTS_FILTER_RELIGION">
+      <Text>[ICON_GOSSIP_RELIGION] Tôn giáo</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_HUD_REPORTS_FILTER_CULTURE">
+      <Text>[ICON_GOSSIP_CULTURE] Văn hóa</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_HUD_REPORTS_FILTER_GREATPERSON">
+      <Text>[ICON_GOSSIP_GREATPERSON] Vĩ nhân</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_HUD_REPORTS_FILTER_VICTORY">
+      <Text>[ICON_GOSSIP_VICTORY] Chiến thắng</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_HUD_REPORTS_FILTER_SETTLEMENT">
+      <Text>[ICON_GOSSIP_SETTLEMENT] Giải quyết</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_HUD_REPORTS_FILTER_CITY">
+      <Text>[ICON_GOSSIP_CITY] Thành phố</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_HUD_REPORTS_FILTER_BARBARIAN">
+      <Text>[ICON_GOSSIP_BARBARIAN] Man di</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_HUD_REPORTS_DATE">
+      <Text>Ngày</Text>
+    </Replace>
+	<Replace Language='en_US' Tag="LOC_HUD_REPORTS_TURN">
+      <Text>Lượt</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_HUD_REPORTS_LEADER">
+      <Text>Lãnh đạo</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_HUD_REPORTS_GOSSIP_TYPE">
+      <Text>Kiểu</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_REPORTS_NOTIFICATION_ICON">
+      <Text>Thông báo</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_REPORTS_NOTIFICATION_DESCRIPTION">
+      <Text>Miêu tả</Text>
+    </Replace>
+		<Replace Language='en_US' Tag="LOC_REPORTS_LIST_GLOBAL">
+			<Text>Toàn cầu:</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GLOBAL_RESOURCES_TITLE">
+			<Text>Báo cáo tài nguyên toàn cầu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GLOBAL_OVERVIEW_TITLE">
+			<Text>Báo cáo tổng quan toàn cầu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_REPORTS_LIST_OVERVIEW">
+			<Text>Tổng quat</Text>
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_HUD_REPORTS_AMOUNT">
 			<Text>Số lượng</Text>
 		</Replace>
@@ -4892,13 +5323,13 @@
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HUD_REPORTS_HEADER_FOOD">
 			<Text>Thực phẩm</Text>
-		</Replace>		
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_HUD_REPORTS_HEADER_UNITNAME">
 			<Text>Tên đơn vị</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HUD_REPORTS_HEADER_UNITCOUNT">
 			<Text>Số đơn vị</Text>
-		</Replace>		
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_HUD_REPORTS_HEADER_GOLD">
 			<Text>Vàng</Text>
 		</Replace>
@@ -4941,6 +5372,9 @@
 		<Replace Language='en_US' Tag="LOC_HUD_REPORTS_HEADER_AMENITIES">
 			<Text>Tiện nghi</Text>
 		</Replace>
+		<Replace Language='en_US' Tag="LOC_HUD_REPORTS_CITY_AMENITIES">
+			<Text>{1_Amount} {1_Amount: plural 1?City; other?Cities;}</Text>
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_HUD_REPORTS_HEADER_CITIZEN_HAPPINESS">
 			<Text>Hạnh phúc</Text>
 		</Replace>
@@ -4964,6 +5398,9 @@
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HUD_REPORTS_STATUS_RAZED">
 			<Text>San phẳng</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_HUD_REPORTS_STATUS_ACCELERATED">
+			<Text>Tăng tốc</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HUD_REPORTS_STATUS_NORMAL">
 			<Text>Bình thường</Text>
@@ -5025,6 +5462,12 @@
 		<Replace Language='en_US' Tag="LOC_HUD_REPORTS_TAB_CITY_STATUS">
 			<Text>Trạng thái thành phố</Text>
 		</Replace>
+	<Replace Language='en_US' Tag="LOC_HUD_REPORTS_TAB_NOTIFICATIONS">
+      <Text>Thông báo</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_HUD_REPORTS_TAB_GOSSIP">
+      <Text>Gossip</Text>
+    </Replace>
 		<Replace Language='en_US' Tag="LOC_HUD_REPORTS_TAB_RESOURCES">
 			<Text>Tài nguyên</Text>
 		</Replace>
@@ -5106,6 +5549,108 @@
 		<Replace Language='en_US' Tag="LOC_REPORTS_NUMBER_OF_TURNS">
 			<Text>cho {1_Turns} lượt</Text>
 		</Replace>
+		<Replace Language='en_US' Tag="LOC_REPORTS_STRATEGIC_RESOURCES">
+			<Text>Tài nguyên chiến lược</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_REPORTS_LUXURY_RESOURCES">
+			<Text>Tài nguyên cao cấp</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_REPORTS_POWER_RESOURCES">
+			<Text>Tài nguyên năng lượng</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_REPORTS_ARTIFACTS">
+			<Text>Cổ vật</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_REPORTS_OTHER_RESOURCES">
+			<Text>Các nguồn lực khác</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_REPORTS_BONUS_RESOURCES">
+			<Text>Tài nguyên tiền thưởng</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_REPORTS_SHOW_CITYSTATES">
+			<Text>Hiển thị thành phố tự trị</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_REPORTS_CITIES">
+			<Text>Các thành phố</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_REPORTS_HIDE_CITYSTATES">
+			<Text>Ẩn thành phố tự trị</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_REPORTS_SHOW_MY_CIV">
+			<Text>Hiện nền văn minh của tôi</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_REPORTS_HIDE_MY_CIV">
+			<Text>Ẩn nền văn minh của tôi</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_REPORTS_SHOW_OWNED_BY_ME">
+			<Text>Hiển thị tài nguyên tôi sở hữu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_REPORTS_HIDE_OWNED_BY_ME">
+			<Text>Ẩn thị tài nguyên tôi sở hữu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_REPORTS_SHOW_ONLY_NOT_OWNED">
+			<Text>Chỉ hiển thị các tài nguyên tôi không sở hữu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_REPORTS_ORDER_CIVS_BY">
+			<Text>Đặt hàng văn minh bằng cách</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_REPORTS_ORDER_AMOUNT">
+			<Text>Số tiền</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_REPORTS_ORDER_PLAYER">
+			<Text>Người chơi</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_REPORTS_ORDER_PLAYER_SLOT">
+			<Text>Player Slot</Text>
+		</Replace>		
+		<Replace Language='en_US' Tag="LOC_REPORTS_SORT_BY">
+			<Text>Sắp xếp theo</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_REPORTS_SORT_NAME">
+			<Text>Tên</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_REPORTS_SORT_TYPE">
+			<Text>Kiểu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_REPORTS_SORT_SCARCITY">
+			<Text>Sự khan hiếm</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_REPORTS_SORT_BY_RESOURCE_NAME">
+			<Text>Sắp xếp theo tên tài nguyên</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_REPORTS_SORT_BY_RESOURCE_TYPE">
+			<Text>Sắp xếp theo loại tài nguyên</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_REPORTS_SORT_BY_RESOURCE_SCARCITY">
+			<Text>Sắp xếp theo sự khan hiếm</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_REPORTS_ALIGN_LEADERS">
+			<Text>Lãnh đạo</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_REPORTS_ALIGN_LEADERS_TOOLTIP">
+			<Text>Bố trí mỗi nhà lãnh đạo ở cùng một vị trí cho mỗi hàng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_REPORTS_SELECT_TO_TRADE">
+			<Text>Chọn để giao dịch với [1_LeaderName]</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_REPORTS_CIVS_NO_RESOURCES">
+			<Text>Bạn không nhận thức được các nền văn minh sở hữu tài nguyên.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_REPORTS_CIVS_NO_LUXURY_RESOURCES">
+			<Text>Bạn không nhận thức được các nền văn minh sở hữu tài nguyên xa xỉ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_REPORTS_CIVS_NO_STRATEGIC_RESOURCES">
+			<Text>Bạn không nhận thức được các nền văn minh sở hữu tài nguyên chiến lược.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_REPORTS_CIVS_NO_POWER_RESOURCES">
+			<Text>Bạn không nhận thức được các nền văn minh sở hữu tài nguyên quyền lực.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_REPORTS_CIVS_NO_OTHER_RESOURCES">
+			<Text>Bạn không nhận thức được các nền văn minh sở hữu các tài nguyên khác.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_REPORTS_CIVS_NO_POSSESS_RESOURCE">
+			<Text>Bạn không biết về bất kỳ nền văn minh nào sở hữu tài nguyên này.</Text>
+		</Replace>
 		<!-- Player Yields ToolTips -->
 		<Replace Language='en_US' Tag="LOC_PLAYER_YIELD_SCIENCE_FROM_ANARCHY">
 			<Text>Không có Khoa học do hỗn loạn.</Text>
@@ -5130,10 +5675,10 @@
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_PLAYER_YIELD_SCIENCE_MODIFIER_FROM_TRIBUTARIES">
 			<Text>{Value : number +#;-#}% ({ActualValue : number +#.#;-#.#}) từ thành phố tự trị của bạn</Text>
-		</Replace>	
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_PLAYER_YIELD_SCIENCE_MODIFIER_FROM_EARNED_GREAT_PEOPLE">
 			<Text>{Value : number +#;-#}% ({ActualValue : number +#.#;-#.#}) từ thành phố tự trị của bạn</Text>
-		</Replace>	
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_PLAYER_YIELD_CULTURE_FROM_ANARCHY">
 			<Text>Không có Văn minh do hỗn loạn.</Text>
 		</Replace>
@@ -5157,7 +5702,7 @@
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_PLAYER_YIELD_CULTURE_MODIFIER_FROM_TRIBUTARIES">
 			<Text>{Value : number +#;-#}% ({ActualValue : number +#.#;-#.#}) từ thành phố tự trị của bạn</Text>
-		</Replace>		
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_PLAYER_YIELD_CULTURE_MODIFIER_FROM_EARNED_GREAT_PEOPLE">
 			<Text>{Value : number +#;-#}% ({ActualValue : number +#.#;-#.#}) từ thành phố tự trị của bạn</Text>
 		</Replace>
@@ -5202,7 +5747,7 @@
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_PLAYER_YIELD_GOLD_MODIFIER_FROM_EARNED_GREAT_PEOPLE">
 			<Text>{Value : number +#;-#}% ({ActualValue : number +#.#;-#.#}) từ thành phố tự trị của bạn</Text>
-		</Replace>		
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_PLAYER_YIELD_GOLD_MAINTENANCE_FROM_BUILDINGS">
 			<Text>{Value : number -#.#;+#.#} từ Kiến Trúc</Text>
 		</Replace>
@@ -5262,7 +5807,7 @@
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_PLAYER_YIELD_FAITH_MODIFIER_FROM_EARNED_GREAT_PEOPLE">
 			<Text>{Value : number +#;-#}% ({ActualValue : number +#.#;-#.#}) từ thành phố tự trị của bạn</Text>
-		</Replace>	
+		</Replace>
 		<!-- City Yields ToolTips -->
 		<Replace Language='en_US' Tag="LOC_CITY_YIELD_FROM_BUILDINGS_TOOLTIP">
 			<Text>{Value : number +#.#;-#.#} từ {1_BuildingName}</Text>
@@ -5312,12 +5857,18 @@
 		<Replace Language='en_US' Tag="LOC_CITY_YIELD_FROM_RELIGIOUS_FOLLOWERS_TOOLTIP">
 			<Text>{Value : number +#;-#}% ({ActualValue : number +#.#;-#.#}) từ việc có {1} Tín Đồ Tôn Giáo</Text>
 		</Replace>
+	<Replace Language='en_US' Tag="LOC_CITY_YIELD_FROM_FAITH">
+      <Text>{Value : number +#.#;-#.#} từ đức tin</Text>
+    </Replace>
 		<Replace Language='en_US' Tag="LOC_CITY_YIELD_FROM_PASSING_TRADE_ROUTES_TOOLTIP">
 			<Text>{Value : number +#.##;-#.##} từ tuyến đường nước ngoài băng qua</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CITY_YIELD_FROM_INCOMING_TRADE_ROUTES_TOOLTIP">
 			<Text>{Value : number +#.#;-#.#} từ tuyến đường thương mại đến</Text>
 		</Replace>
+	<Replace Language='en_US' Tag="LOC_CITY_YIELD_FROM_MAJOR_TRADE_PARTNERS_TOOLTIP">
+      <Text>{Value : number +#.#;-#.#} từ số nền văn minh thành phố này có các tuyến đường thương mại đến</Text>
+    </Replace>
 		<Replace Language='en_US' Tag="LOC_CITY_YIELD_FROM_OUTGOING_TRADE_ROUTES_TOOLTIP">
 			<Text>{Value : number +#.#;-#.#} từ tuyến đường thương mại đi</Text>
 		</Replace>
@@ -5463,6 +6014,9 @@
 		<Replace Language='en_US' Tag="LOC_TOURISM_LENS_GREAT_PEOPLE_LINE_TOOLTIP">
 			<Text>{1_TourismInfo}Du khách được thêm bởi các kiến trúc hoặc Vĩ Nhân: +{2_DistrictTourism} [ICON_Tourism] Du lịch[NEWLINE]</Text>
 		</Replace>
+    <Replace Language='en_US' Tag="LOC_TOURISM_LENS_DISTRICT_YIELDS_TOOLTIP">
+      <Text>{1_TourismInfo}Du lịch thêm theo năng suất của huyện: +{2_DistrictTourism} [ICON_Tourism] Tourism[NEWLINE]</Text>
+    </Replace>
 		<Replace Language='en_US' Tag="LOC_TOURISM_LENS_GREAT_WORK_LINE_TOOLTIP">
 			<Text>{1_TourismInfo}Du khách từ Thành Tựu Vĩ Đại trong {2_BuildingName}, +{3_GreatWorkTourism} [ICON_Tourism] Du lịch[NEWLINE]</Text>
 		</Replace>
@@ -5511,19 +6065,19 @@
 		</Replace>
 		<!-- Demo popup text -->
 		<Replace Language='en_US' Tag="LOC_DEMO_DIALOG_TITLE">
-			<Text>End of Time</Text>
+			<Text>Hết giờ</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_DEMO_DIALOG_TEXT">
-			<Text>You have taken the first steps towards building a Civilization that will stand the test of time. Will you continue to test yourself against the greatest leaders of history? Can your people's culture flourish? Your science enlighten? Your faith inspire? Your military dominate? How will you lead in Sid Meier's Civilization VI? Continue your journey now.[NEWLINE][NEWLINE]Build.Conquer.Inspire.</Text>
+			<Text>Bạn đã thực hiện những bước đầu tiên để xây dựng một nền văn minh sẽ đứng trước thử thách của thời gian. Bạn sẽ tiếp tục kiểm tra bản thân chống lại các nhà lãnh đạo vĩ đại nhất của lịch sử? Văn hóa nhân dân của bạn có thể phát triển? Khoa học của bạn khai sáng? Đức tin của bạn truyền cảm hứng? Quân đội của bạn thống trị? Làm thế nào bạn sẽ lãnh đạo trong Sid Meier's Civilization VI? Tiếp tục hành trình của bạn ngay bây giờ. [NEWLINE] [NEWLINE] Build.Conquer.Inspire.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_DEMO_DIALOG_BUY">
-			<Text>Achieve Greatness</Text>
+			<Text>Đạt được sự vĩ đại</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_DEMO_DIALOG_BUY_TT">
-			<Text>Buy It Now</Text>
+			<Text>Mua ngay</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_DEMO_DIALOG_EXIT">
-			<Text>Fade into History</Text>
+			<Text>Mất dần vào lịch sử</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_DEMO_DIALOG_EXIT_TT">
 			<Text>Main Menu</Text>
@@ -5581,6 +6135,209 @@
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_WORLDBUILDER_TEXT_TAG">
 			<Text>Thẻ Tag</Text>
+		</Replace>
+		<!-- Settlement recommendations-->
+		<Replace Language='en_US' Tag="LOC_HUD_ADVISOR_SAYS">
+			<Text>Cố vấn nói</Text>
+		</Replace>
+		<!-- Settlement recommendations tooltips (old unused)-->
+		<Replace Language='en_US' Tag="LOC_SETTLEMENT_RECOMMENDATION_TOTAL_YIELD">
+			<Text>KHU VỰC</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SETTLEMENT_RECOMMENDATION_INNER_YIELD">
+			<Text>INNER RING YIELD</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SETTLEMENT_RECOMMENDATION_FRESH_WATER">
+			<Text>FRESH WATER</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SETTLEMENT_RECOMMENDATION_NEW_RESOURCES">
+			<Text>NEW RESOURCES</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SETTLEMENT_RECOMMENDATION_COAST">
+			<Text>COAST</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SETTLEMENT_RECOMMENDATION_RESOURCES">
+			<Text>EARLY-GAME RESOURCES</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SETTLEMENT_RECOMMENDATION_LUXURY_RESOURCES">
+			<Text>RESOURCES</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SETTLEMENT_RECOMMENDATION_STRATEGIC_RESOURCES">
+			<Text>RESOURCES</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SETTLEMENT_RECOMMENDATION_FEATURES">
+			<Text>SPECIFIC FEATURES</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SETTLEMENT_RECOMMENDATION_FOREIGN_CONTINENT">
+			<Text>FOREIGN CONTINENT</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SETTLEMENT_RECOMMENDATION_NEAREST_CITY">
+			<Text>NEAREST CITY</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SETTLEMENT_RECOMMENDATION_DANGER">
+			<Text>unused</Text>
+		</Replace>
+		<!-- Settlement recommendations tooltips - POOR-->
+		<Replace Language='en_US' Tag="LOC_SETTLEMENT_RECOMMENDATION_POOR_TOTAL_YIELD">
+			<Text>Sản lượng kém trong 3 ô</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SETTLEMENT_RECOMMENDATION_POOR_INNER_YIELD">
+			<Text>Sản lượng kém liền kề với trang web này</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SETTLEMENT_RECOMMENDATION_POOR_FRESH_WATER">
+			<Text>Không có nước ngọt tại chỗ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SETTLEMENT_RECOMMENDATION_POOR_NEW_RESOURCES">
+			<Text>Ít tài nguyên mới ở đây</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SETTLEMENT_RECOMMENDATION_POOR_COAST">
+			<Text>Trang web là nội địa</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SETTLEMENT_RECOMMENDATION_POOR_RESOURCES">
+			<Text>Ngựa, Sắt, Niter giới hạn nhìn thấy ở đây</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SETTLEMENT_RECOMMENDATION_POOR_STRATEGIC_RESOURCES">
+			<Text>Vài thứ xa xỉ hay chiến lược gần đó</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SETTLEMENT_RECOMMENDATION_POOR_FEATURES">
+			<Text>Không có tính năng quan trọng gần đó</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SETTLEMENT_RECOMMENDATION_POOR_FOREIGN_CONTINENT">
+			<Text>Không có lợi cho lục địa mới</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SETTLEMENT_RECOMMENDATION_POOR_NEAREST_CITY">
+			<Text>Thành phố thân thiện khác</Text>
+		</Replace>
+		<!-- Settlement recommendations tooltips - GOOD-->
+		<Replace Language='en_US' Tag="LOC_SETTLEMENT_RECOMMENDATION_GOOD_TOTAL_YIELD">
+			<Text>Sản lượng mạnh trong 3 ô</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SETTLEMENT_RECOMMENDATION_GOOD_INNER_YIELD">
+			<Text>Sản lượng mạnh liền kề với trang web này</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SETTLEMENT_RECOMMENDATION_GOOD_FRESH_WATER">
+			<Text>Trang web này có nước ngọt</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SETTLEMENT_RECOMMENDATION_GOOD_NEW_RESOURCES">
+			<Text>Có khả năng đạt được tài nguyên mới</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SETTLEMENT_RECOMMENDATION_GOOD_COAST">
+			<Text>Trang web là trên bờ biển</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SETTLEMENT_RECOMMENDATION_GOOD_RESOURCES">
+			<Text>Ngựa, Sắt hoặc Niter gần đó</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SETTLEMENT_RECOMMENDATION_GOOD_STRATEGIC_RESOURCES">
+			<Text>Những thứ xa xỉ và chiến lược mới gần đó</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SETTLEMENT_RECOMMENDATION_GOOD_FEATURES">
+			<Text>Các tính năng có lợi gần đó</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SETTLEMENT_RECOMMENDATION_GOOD_FOREIGN_CONTINENT">
+			<Text>Mong muốn giải quyết một lục địa mới</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SETTLEMENT_RECOMMENDATION_GOOD_NEAREST_CITY">
+			<Text>Gần một trang web thân thiện</Text>
+		</Replace>
+    <!-- Production Queue -->
+    <Replace Language='en_US' Tag="LOC_PRODUCTION_PANEL_SHOW_QUEUE">
+      <Text>Show Queue ({1_QueueSize})</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_PRODUCTION_PANEL_HIDE_QUEUE">
+      <Text>Hide Queue ({1_QueueSize})</Text>
+    </Replace>
+		<Replace Language='en_US' Tag="LOC_PRODUCTION_PANEL_LOCK_SHOW_QUEUE">
+			<Text>Khóa hàng đợi để luôn hiển thị.</Text>
+		</Replace>
+    <Replace Language='en_US' Tag="LOC_PRODUCTION_PANEL_UNLOCK_AUTOHIDE_QUEUE">
+      <Text>Mở khóa để tự động ẩn hàng đợi khi đóng bảng sản xuất.</Text>
+    </Replace>
+		<Replace Language='en_US' Tag="LOC_PRODUCTION_PANEL_TOGGLE_AUTOHIDE_QUEUE">
+      <Text>Toggle auto-hide queue</Text>
+    </Replace>			
+    <Replace Language='en_US' Tag="LOC_PRODUCTION_PANEL_REMOVE_ITEM">
+      <Text>Remove</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_PRODUCTION_PANEL_MOVE_LEFT_ITEM">
+      <Text>Move Left</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_PRODUCTION_PANEL_MOVE_RIGHT_ITEM">
+      <Text>Move Right</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_PRODUCTION_PANEL_BUTTON_TEXT">
+      <Text>Manager</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_PRODUCTION_PANEL_BUILDINGS_TOOLTIP">
+      <Text>Districts and Buildings</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_PRODUCTION_PANEL_WONDERS_TOOLTIP">
+      <Text>Wonders</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_PRODUCTION_PANEL_UNITS_TOOLTIP">
+      <Text>Units</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_PRODUCTION_PANEL_PROJECTS_TOOLTIP">
+      <Text>Projects</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_PRODUCTION_MANAGER_TITLE">
+      <Text>Production Manager</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_PRODUCTION_MANAGER_SORT_BY">
+      <Text>Sort By: {1_SortType}</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_PRODUCTION_MANAGER_FILTER_FOUNDING">
+      <Text>Founding</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_PRODUCTION_MANAGER_FILTER_NAME">
+      <Text>Name</Text>
+    </Replace>
+    <Replace Language='en_US' Tag="LOC_PRODUCTION_MANAGER_FILTER_POPULATION">
+      <Text>Population</Text>
+    </Replace>
+		<Replace Language='en_US' Tag="LOC_PRODUCTION_QUEUE_BEHAVIOR_TT">
+			<Text>Use the options menu to change the default show/hide behavior of the production queue.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_HUD_FULLSCREEN_MAP">
+      <Text>Show Fullscreen Map</Text>
+    </Replace>
+		<Replace Language='en_US' Tag="LOC_HUD_VIEW_PAST_GOSSIP">
+			<Text>View Past Gossip</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_HUD_VIEW_GOSSIP">
+			<Text>View Gossip</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_HUD_VIEW_PAST_RUMORS">
+			<Text>View Past Rumors</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_HUD_VIEW_RUMORS">
+			<Text>View Rumors</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_HUD_TURN">
+			<Text>Turn</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_HUD_RUMOR">
+			<Text>Rumor</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_HUD_GOSSIP">
+			<Text>Gossip</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_HUD_GOSSIP_CLOSE">
+			<Text>Close</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_HUD_COLLAPSE_LIST">
+			<Text>Bấm để thu gọn danh sách</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_HUD_EXPAND_LIST">
+			<Text>Bấm để mở rộng danh sách</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_HUD_GOSSIP_DISMISS_DETAILS">
+			<Text>Nhấp vào tin đồn để loại bỏ nó. [NEWLINE]Lịch sử tin đồn có thể được xem trong các báo cáo.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_HUD_STATUSMESSAGE_DISMISS_DETAILS">
+			<Text>Bấm vào tin nhắn để loại bỏ nó.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_UNIT_PANEL_ABILITIES_HEADER">
+			<Text>Khả năng:</Text>
 		</Replace>
 	</LocalizedText>
 </GameData>

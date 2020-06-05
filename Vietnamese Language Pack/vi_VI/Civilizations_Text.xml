@@ -147,7 +147,7 @@
 			<Gender>Masculine:an</Gender>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVILIZATION_BARBARIAN_ADJECTIVE">
-			<Text>Man rợ</Text>
+			<Text>Man di</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVILIZATION_BRAZIL_ADJECTIVE">
 			<Text>Người Brazil</Text>

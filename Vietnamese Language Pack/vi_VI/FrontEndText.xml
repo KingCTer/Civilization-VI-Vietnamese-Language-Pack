@@ -47,9 +47,9 @@
 		<Replace Language='en_US' Tag="LOC_PLAY_CIVILIZATION_6">
 			<Text>Chơi luôn</Text>
 		</Replace>
-    	<Replace Language='en_US' Tag="LOC_SINGLE_PLAYER">
+		<Replace Language='en_US' Tag="LOC_SINGLE_PLAYER">
       		<Text>Chơi đơn</Text>
-    	</Replace>
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_PLAY_MULTIPLAYER">
 			<Text>Chơi nhiều người</Text>
 		</Replace>
@@ -62,6 +62,9 @@
 		<Replace Language='en_US' Tag="LOC_LOAD_MAP">
 			<Text>Tải bản đồ</Text>
 		</Replace>
+		<Replace Language='en_US' Tag="LOC_LOAD_TILED">
+			<Text>Nhập bản đồ từ Trình chỉnh sửa</Text>
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_OPEN_DIRECTORY">
 			<Text>Mở</Text>
 		</Replace>
@@ -73,6 +76,12 @@
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_MAIN_MENU_MODS">
 			<Text>Mods</Text>			
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MAIN_MENU_MODS_AND_DLC">
+			<Text>Mods và DLC</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MAIN_MENU_MODS_AND_DLC_TT">
+			<Text>Sửa đổi và nội dung có thể tải xuống để mở rộng và nâng cao Civilization VI.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_MAIN_MENU_MY2K_LOGIN">
 			<Text>Đăng nhập My2K</Text>
@@ -101,6 +110,15 @@
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_STEAMCLOUD">
 			<Text>Đám mây</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_2K_CLOUD">
+			<Text>Đám mây đa nền tảng</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_STANDARD_CLOUD_SAVES_HELP">
+			<Text>Lưu trữ đám mây tiêu chuẩn - tương thích với các phiên bản Civilization VI của PC, Mac và Linux</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_2K_CLOUD_SAVES_HELP">
+			<Text>Lưu trữ đám mây đa nền tảng - tương thích với các nền tảng được hỗ trợ (Yêu cầu kích hoạt tài khoản 2K trên Menu chính)</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_NO_SAVED_GAMES">
 			<Text>Không có Save</Text>
@@ -141,26 +159,25 @@
 		<Replace Language='en_US' Tag="LOC_SAVE_WAITING_FOR_CLOUD_SAVE_LIST_TOOLTIP">
 			<Text>Chờ danh sách save từ đám mây.</Text>
 		</Replace>
-
 		<Replace Language='en_US' Tag="LOC_CONFIRM_TITLE_TXT">
 			<Text>Xác nhận ghi đè</Text>
 		</Replace>
-    <Replace Language='en_US' Tag="LOC_CONFIRM_DELETE_TITLE_TXT">
-      <Text>Xác nhận xóa</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_CONFIRM_CHOICE">
-      <Text>Chắc không?</Text>
-    </Replace>
+		<Replace Language='en_US' Tag="LOC_CONFIRM_DELETE_TITLE_TXT">
+			<Text>Xác nhận xóa</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CONFIRM_CHOICE">
+			<Text>Chắc không?</Text>
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_CONFIRM_EXIT_TXT">
 			<Text>Có chắc thoát game không?</Text>
 		</Replace>
-    <Replace Language='en_US' Tag="LOC_CONFIRM_TXT">
+		<Replace Language='en_US' Tag="LOC_CONFIRM_TXT">
 			<Text>Nó sẽ xóa vĩnh viễn Save. Có chắc làm điều này không?</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CONFIRM_TITLE_LOAD_TXT">
 			<Text>Xác nhận tải file</Text>
 		</Replace>
-        <Replace Language='en_US' Tag="LOC_CONFIRM_LOAD_TXT">
+		<Replace Language='en_US' Tag="LOC_CONFIRM_LOAD_TXT">
 			<Text>Sẽ mất quá trình chơi chưa Save. Có chắc làm điều này không?</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_OVERWRITE_TXT">
@@ -218,58 +235,79 @@
 			<Text>KHÔNG DỮ LIỆU BẢN ĐỒ</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_LOADSAVE_TUNER_ACTIVE_TITLE">
-			<Text>Tuner Active:</Text>
+			<Text>Bộ điều chỉnh hoạt động:</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_LOADSAVE_QUICK_SAVE">
 			<Text>(Save nhanh)</Text>
 		</Replace>
-    <!-- Advanced Game Setup -->
-		 <Replace Language='en_US' Tag="LOC_NETWORK_NAME_TT">
+		<!-- Advanced Game Setup -->
+		<Replace Language='en_US' Tag="LOC_NETWORK_NAME_TT">
 			<Text>Tên mạng[NEWLINE]Đây là tên sẽ xuất hiện cho người chơi khác thấy.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_NUMBER_OF_CIVILIZATIONS">
 			<Text>Số nền văn minh</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_PLAYERS">
-		  <Text>Người chơi</Text>
+			<Text>Người chơi</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TEAM">
-			<Text>Team|Teams</Text>
+			<Text>Đội|Đội</Text>
 			<Plurality>1|2</Plurality>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TEAM_GENERIC_NAME">
-			<Text>Team {1_Number}</Text>
+			<Text>Đội {1_Number}</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TEAM_UNKNOWN_NAME">
-			<Text>Unknown Team</Text>
+			<Text>Đội không xác định</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_BACK">
-		  <Text>Quay lại</Text>
+			<Text>Quay lại</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_GAME_HANDICAP">
-		  <Text>Độ khó</Text>
+			<Text>Độ khó</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_OPTIONS">
+			<Text>Tùy chọn</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_MAP_OPTIONS">
-		  <Text>Tùy chọn bản đồ</Text>
+			<Text>Tùy chọn bản đồ</Text>
 		</Replace>
 		<!-- Multiplayer Game Abandoned Popup -->
 		<Replace Language='en_US' Tag="LOC_GAME_ABANDONED_KICKED">
 			<Text>Bạn đã bị kick.</Text>
 		</Replace>
+		<Replace Language='en_US' Tag="LOC_GAME_ABANDONED_KICKED_TITLE">
+			<Text>Kicked!</Text>
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_GAME_ABANDONED_HOST_LOSTED">
 			<Text>Kết nối đến Host bị mất.</Text>
 		</Replace>
+		<Replace Language='en_US' Tag="LOC_GAME_ABANDONED_HOST_LOSTED_TITLE">
+			<Text>Mất kết nối máy chủ</Text>
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_GAME_ABANDONED_ROOM_FULL">
-			<Text>Phòng đầy.</Text>
+			<Text>Trò chơi có số lượng người chơi tối đa.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GAME_ABANDONED_ROOM_FULL_TITLE">
+			<Text>Trò chơi đầy</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_GAME_ABANDONED_VERSION_MISMATCH">
 			<Text>Khác version với Host.</Text>
 		</Replace>
+		<Replace Language='en_US' Tag="LOC_GAME_ABANDONED_VERSION_MISMATCH_TITLE">
+			<Text>Phiên bản không phù hợp</Text>
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_GAME_ABANDONED_MOD_ERROR">
 			<Text>Không thể áp dụng nội dung bổ sung.</Text>
 		</Replace>
+		<Replace Language='en_US' Tag="LOC_GAME_ABANDONED_MOD_ERROR_TITLE">
+			<Text>Lỗi Mod</Text>
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_GAME_ABANDONED_MOD_MISSING">
 			<Text>Nội dung thêm là bắt buộc nhưng chưa được mua hoặc cài đặt.[NEWLINE]Nội dung:[NEWLINE]</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GAME_ABANDONED_MOD_MISSING_TITLE">
+			<Text>Mod Missing</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_GAME_ABANDONED_MOD_ACCESS_DENIED">
 			<Text>Steam Workshop từ chối truy cập nội dung yêu cầu.[NEWLINE]Nội dung:[NEWLINE]</Text>
@@ -280,8 +318,27 @@
 		<Replace Language='en_US' Tag="LOC_GAME_ABANDONED_CONNECTION_LOST">
 			<Text>Mất kết nối.</Text>
 		</Replace>
+		<Replace Language='en_US' Tag="LOC_GAME_ABANDONED_CONNECTION_LOST_TITLE">
+			<Text>Mất kết nối</Text>
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_GAME_ABANDONED_JOIN_FAILED">
 			<Text>Lỗi phiên kết nối.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GAME_ABANDONED_JOIN_FAILED_TITLE">
+			<Text>Tham gia thất bại</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GAME_ABANDONED_MATCH_DELETED">
+			<Text>Chủ nhà đã xóa trò chơi.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GAME_ABANDONED_MATCH_DELETED_TITLE">
+			<Text>Đã xóa trò chơi</Text>
+		</Replace>
+		<!-- Multiplayer PlayByCloud End Turn Error Popup -->
+		<Replace Language='en_US' Tag="LOC_GAME_CLOUD_END_TURN_FAILED">
+			<Text>Trò chơi không thể xử lý lượt chơi của bạn do lỗi. Kiểm tra kết nối internet của bạn và thử lại. [NEWLINE] Mã lỗi: {1_ErrorCode}</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GAME_CLOUD_END_TURN_FAILED_TITLE">
+			<Text>Kết thúc lượt không thành công</Text>
 		</Replace>
 		<!-- Multiplayer Select Screen-->
 		<Replace Language='en_US' Tag="LOC_MULTIPLAYER_DEFAULT_GAME_NAME">
@@ -296,9 +353,9 @@
 		<Replace Language='en_US' Tag="LOC_MULTIPLAYER_INTERNET_GAME">
 			<Text>Internet</Text>
 		</Replace>
-    <Replace Language='en_US' Tag="LOC_MULTIPLAYER_INTERNET_GAME_OFFLINE">
-      <Text>[ICON_CheckFail] Internet</Text>
-    </Replace>
+		<Replace Language='en_US' Tag="LOC_MULTIPLAYER_INTERNET_GAME_OFFLINE">
+			<Text>[ICON_CheckFail] Internet</Text>
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_MULTIPLAYER_INTERNET_GAME_TT">
 			<Text>Chơi nhiều người trên Internet.</Text>
 		</Replace>
@@ -346,14 +403,23 @@
 		<Replace Language='en_US' Tag="LOC_MULTIPLAYER_END_GAME">
 			<Text>XÓA</Text>
 		</Replace>
+		<Replace Language='en_US' Tag="LOC_MULTIPLAYER_ENDING_GAME_TITLE">
+			<Text>Xóa trò chơi</Text>
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_MULTIPLAYER_ENDING_GAME_PROMPT">
 			<Text>Đang kết thúc Game...</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MULTIPLAYER_ENDING_GAME_FAIL_TITLE">
+			<Text>Xóa lỗi</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_MULTIPLAYER_ENDING_GAME_FAIL">
 			<Text>Lỗi trong khi kết thúc Game.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_MULTIPLAYER_ENDING_GAME_FAIL_ACCEPT">
 			<Text>Ok</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MULTIPLAYER_GAME_LAUNCH_FAILED_TITLE">
+			<Text>Lỗi khởi chạy</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_MULTIPLAYER_GAME_LAUNCH_FAILED">
 			<Text>Game đã lỗi để chạy.</Text>
@@ -363,6 +429,15 @@
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_MULTIPLAYER_JOIN_GAME">
 			<Text>Tham gia</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MULTIPLAYER_JOIN_GAME_TT">
+			<Text>Tham gia một trò chơi nhiều người chơi hiện có.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MULTIPLAYER_JOIN_CODE">
+			<Text>Sử dụng mã tham gia</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MULTIPLAYER_JOIN_CODE_TT">
+			<Text>Tham gia một trò chơi nhiều người chơi hiện có bằng cách sử dụng Mã tham gia.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_MISC_BACK">
 			<Text>Quay lại</Text>
@@ -439,6 +514,9 @@
 		<Replace Language='en_US' Tag="LOC_MULTIPLAYER_LOBBY_MODS">
 			<Text>Nội dung thêm</Text>
 		</Replace>
+		<Replace Language='en_US' Tag="LOC_MULTIPLAYER_LOBBY_GAMEMODES_OFFICIAL">
+      		<Text>Chế độ trò chơi chính thức:</Text>
+    	</Replace>
 		<Replace Language='en_US' Tag="LOC_MULTIPLAYER_LOBBY_MODS_OFFICIAL">
 			<Text>Nội dung chính chủ:</Text>
 		</Replace>
@@ -458,129 +536,129 @@
 			<Text>Sai</Text>
 		</Replace>
 	<!-- Options -->
-    <Replace Language='en_US' Tag="LOC_CONFIRM_KEY_BINDING">
-      <Text>Xác nhận gán phím</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_CONFIRM">
-      <Text>Xác nhận</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_OPTIONS_GAME">
-      <Text>TRÒ CHƠI</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_OPTIONS_GRAPHICS">
-      <Text>ĐỒ HỌA</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_OPTIONS_AUDIO">
-      <Text>ÂM THANH</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_OPTIONS_LANGUAGE">
-      <Text>NGÔN NGỮ</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_OPTIONS_INTERFACE">
-      <Text>GIAO DIỆN</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_OPTIONS_KEY_BINDINGS">
-      <Text>ĐIỀU KHIỂN</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_OPTIONS_APPLICATION">
-      <Text>ỨNG DỤNG</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_OPTIONS_GAME_OPTIONS">
-      <Text>TÙY CHỌN GAME</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_OPTIONS_GRAPHICS_OPTIONS">
-      <Text>TÙY CHỌN ĐỒ HỌA</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_OPTIONS_AUDIO_OPTIONS">
-      <Text>TÙY CHỌN ÂM THANH</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_OPTIONS_LANGUAGE_OPTIONS">
-      <Text>TÙY CHỌN NGÔN NGỮ</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_OPTIONS_INTERFACE_OPTIONS">
-      <Text>TÙY CHỌN GIAO DIỆN</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_OPTIONS_KEY_BINDINGS_OPTIONS">
-      <Text>TÙY CHỌN ĐIỀU KHIỂN</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_OPTIONS_QUICK_COMBAT">
-      <Text>Combat nhanh:</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_OPTIONS_QUICK_MOVEMENT">
-      <Text>Di chuyển nhanh:</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_OPTIONS_AUTO_END_TURN">
-      <Text>Tự kết thúc lượt:</Text>
-    </Replace>
-	<Replace Language='en_US' Tag="LOC_OPTIONS_CITY_RANGE_ATTACK">
-		<Text>Lượt chặn thành phố tấn công tầm xa:</Text>
-	</Replace>
-	<Replace Language='en_US' Tag="LOC_OPTIONS_CITY_RANGE_ATTACK_TOOLTIP">
-		<Text>Khi bật, thành phố tấn công tầm xa bị chặn lượt.</Text>
-	</Replace>
-    <Replace Language='en_US' Tag="LOC_OPTIONS_TIME_OF_DAY">
-      <Text>Thời gian của ngày:</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_OPTIONS_TUNER">
-      <Text>Tắt thành tựu:</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_OPTIONS_TUTORIAL">
-      <Text>Cố vấn:</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_OPTIONS_TURNS_BETWEEN_AUTOSAVES">
-      <Text>Tự động lưu giữa các lượt:</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_OPTIONS_AUTOSAVES_TO_KEEP">
-      <Text>Số tự động lưu được giữ:</Text>
-    </Replace>
-	<Replace Language='en_US' Tag="LOC_OPTIONS_LAN_PLAYER_NAME">
-		<Text>Tên người chơi mạng LAN:</Text>
-	</Replace>
-	<Replace Language='en_US' Tag="LOC_OPTIONS_AUTO_DOWNLOAD_ADDITIONAL_CONTENT">
-		<Text>Auto Download Additional Content:</Text>
-	</Replace>
-	<Replace Language='en_US' Tag="LOC_OPTIONS_AUTO_DOWNLOAD_ADDITIONAL_CONTENT_TOOLTIP">
-		<Text>Automatically download community made additional content when it is required to join a multiplayer game.</Text>
-	</Replace>
-	<Replace Language='en_US' Tag="LOC_OPTIONS_STEAM_CONTROLLER_MESSAGE">
-      <Text>Steam Controller cấu hình trong Steam. Phím ESC, chuột trái và phải không thể đảo ngược và gán phím.</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_OPTIONS_BIND_HEADER_PRIMARY">
-      <Text>Phím chính</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_OPTIONS_BIND_HEADER_ALT">
-      <Text>Phím phụ</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_OPTIONS_APPLICATION_OPTIONS">
-      <Text>TÙY CHỌN ỨNG DỤNG</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_OPTIONS_SPOKEN_LANGUAGE">
-      <Text>Ngôn ngữ nói:</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_OPTIONS_STRATEGIC_VIEW_START">
-      <Text>Bắt đầu trong góc nhìn chiến thuật:</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_OPTIONS_DISPLAY_LANGUAGE">
-      <Text>Ngôn ngữ hiển thị:</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_OPTIONS_MASTER_VOLUME">
-      <Text>Chính:</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_OPTIONS_MUSIC_VOLUME">
-      <Text>Nhạc:</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_OPTIONS_EFFECTS_VOLUME">
-      <Text>Hiệu ứng:</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_OPTIONS_AMBIENT_VOLUME">
-      <Text>Âm thanh xung quanh:</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_OPTIONS_SPEECH_VOLUME">
-      <Text>Nói:</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_OPTIONS_MUTE_FOCUS">
-      <Text>Tắt tiếng khi cửa sổ này không mở:</Text>
-    </Replace>
+		<Replace Language='en_US' Tag="LOC_CONFIRM_KEY_BINDING">
+			<Text>Xác nhận gán phím</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CONFIRM">
+			<Text>Xác nhận</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_OPTIONS_GAME">
+			<Text>TRÒ CHƠI</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_OPTIONS_GRAPHICS">
+			<Text>ĐỒ HỌA</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_OPTIONS_AUDIO">
+			<Text>ÂM THANH</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_OPTIONS_LANGUAGE">
+			<Text>NGÔN NGỮ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_OPTIONS_INTERFACE">
+			<Text>GIAO DIỆN</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_OPTIONS_KEY_BINDINGS">
+			<Text>ĐIỀU KHIỂN</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_OPTIONS_APPLICATION">
+			<Text>ỨNG DỤNG</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_OPTIONS_GAME_OPTIONS">
+			<Text>TÙY CHỌN GAME</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_OPTIONS_GRAPHICS_OPTIONS">
+			<Text>TÙY CHỌN ĐỒ HỌA</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_OPTIONS_AUDIO_OPTIONS">
+			<Text>TÙY CHỌN ÂM THANH</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_OPTIONS_LANGUAGE_OPTIONS">
+			<Text>TÙY CHỌN NGÔN NGỮ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_OPTIONS_INTERFACE_OPTIONS">
+			<Text>TÙY CHỌN GIAO DIỆN</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_OPTIONS_KEY_BINDINGS_OPTIONS">
+			<Text>TÙY CHỌN ĐIỀU KHIỂN</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_OPTIONS_QUICK_COMBAT">
+			<Text>Combat nhanh:</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_OPTIONS_QUICK_MOVEMENT">
+			<Text>Di chuyển nhanh:</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_OPTIONS_AUTO_END_TURN">
+			<Text>Tự kết thúc lượt:</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_OPTIONS_CITY_RANGE_ATTACK">
+			<Text>Lượt chặn thành phố tấn công tầm xa:</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_OPTIONS_CITY_RANGE_ATTACK_TOOLTIP">
+			<Text>Khi bật, thành phố tấn công tầm xa bị chặn lượt.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_OPTIONS_TIME_OF_DAY">
+			<Text>Thời gian của ngày:</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_OPTIONS_TUNER">
+			<Text>Tắt thành tựu:</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_OPTIONS_TUTORIAL">
+			<Text>Cố vấn:</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_OPTIONS_TURNS_BETWEEN_AUTOSAVES">
+			<Text>Tự động lưu giữa các lượt:</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_OPTIONS_AUTOSAVES_TO_KEEP">
+			<Text>Số tự động lưu được giữ:</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_OPTIONS_LAN_PLAYER_NAME">
+			<Text>Tên người chơi mạng LAN:</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_OPTIONS_AUTO_DOWNLOAD_ADDITIONAL_CONTENT">
+			<Text>Tự động tải xuống nội dung bổ sung:</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_OPTIONS_AUTO_DOWNLOAD_ADDITIONAL_CONTENT_TOOLTIP">
+			<Text>Tự động tải xuống nội dung bổ sung do cộng đồng thực hiện khi cần tham gia trò chơi nhiều người chơi.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_OPTIONS_STEAM_CONTROLLER_MESSAGE">
+			<Text>Steam Controller cấu hình trong Steam. Phím ESC, chuột trái và phải không thể đảo ngược và gán phím.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_OPTIONS_BIND_HEADER_PRIMARY">
+			<Text>Phím chính</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_OPTIONS_BIND_HEADER_ALT">
+			<Text>Phím phụ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_OPTIONS_APPLICATION_OPTIONS">
+			<Text>TÙY CHỌN ỨNG DỤNG</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_OPTIONS_SPOKEN_LANGUAGE">
+			<Text>Ngôn ngữ nói:</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_OPTIONS_STRATEGIC_VIEW_START">
+			<Text>Bắt đầu trong góc nhìn chiến thuật:</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_OPTIONS_DISPLAY_LANGUAGE">
+			<Text>Ngôn ngữ hiển thị:</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_OPTIONS_MASTER_VOLUME">
+			<Text>Chính:</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_OPTIONS_MUSIC_VOLUME">
+			<Text>Nhạc:</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_OPTIONS_EFFECTS_VOLUME">
+			<Text>Hiệu ứng:</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_OPTIONS_AMBIENT_VOLUME">
+			<Text>Âm thanh xung quanh:</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_OPTIONS_SPEECH_VOLUME">
+			<Text>Nói:</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_OPTIONS_MUTE_FOCUS">
+			<Text>Tắt tiếng khi cửa sổ này không mở:</Text>
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_OPTIONS_CLEAR">
 			<Text>Xóa bỏ</Text>
 		</Replace>
@@ -604,14 +682,26 @@
 		<Replace Language='en_US' Tag="LOC_MULTIPLAYER_CONNECTING_TO_PLAYERS">
 			<Text>Đang kết nối tới các người chơi...</Text>
 		</Replace>
+		<Replace Language='en_US' Tag="LOC_MULTIPLAYER_MATCHMAKING">
+			<Text>Tìm một trò chơi ...</Text>
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_MP_ROOM_FULL">
 			<Text>Phòng đầy.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MP_ROOM_FULL_TITLE">
+			<Text>Trò chơi đầy</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_MP_JOIN_FAILED">
 			<Text>Lỗi phiên kết nối.</Text>
 		</Replace>
+		<Replace Language='en_US' Tag="LOC_MP_JOIN_FAILED_TITLE">
+			<Text>Tham gia thất bại</Text>
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_MP_ROOM_GAME_STARTED">
 			<Text>Game đã bắt đầu.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MP_ROOM_GAME_STARTED_TITLE">
+			<Text>Tham gia thất bại</Text>
 		</Replace>
 		<!-- Multiplayer Staging Room Screen -->
 		<Replace Language='en_US' Tag="LOC_MP_SWAP_PLAYER">
@@ -636,10 +726,10 @@
 			<Text>Sẵn sàng?</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_MP_GAME_SUMMARY_GAME_SETTINGS">
-			<Text>Game Settings</Text>
+			<Text>Cài đặt trò chơi</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_MP_GAME_SUMMARY_ADDITIONAL_CONTENT">
-			<Text>Additional Content</Text>
+			<Text>Nội dung bổ sung</Text>
 		</Replace>
 		<!-- Multiplayer Status Strings -->
 		<Replace Language='en_US' Tag="LOC_READY_LABEL">
@@ -653,7 +743,13 @@
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_INVALID_SLOT_MAP_SIZE_TT">
 			<Text>Slot người chơi này không khả dụng với kích thước bản đồ hiện tại. Host tăng kích thước bản đồ hoặc đổi chỗ cho slot người chơi hợp lệ.</Text>
-		</Replace>		
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_INVALID_SLOT_HUMAN_REQUIRED">
+			<Text>[COLOR:StagingStatus_Invalid]Cần người chơi[ENDCOLOR]</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_INVALID_SLOT_HUMAN_REQUIRED_TT">
+			<Text>Khe người chơi này cần người chơi chiếm đóng để bắt đầu trò chơi.</Text>
+		</Replace>
 		<!-- Multiplayer Status Strings END -->
 		<Replace Language='en_US' Tag="LOC_JOIN">
 			<Text>Tham gia!</Text>
@@ -709,20 +805,26 @@
 		<Replace Language='en_US' Tag="LOC_CREATE_NEW_TEAM">
 			<Text>Mới</Text>
 		</Replace>
-    <Replace Language='en_US' Tag="LOC_MULTIPLAYER_TEAM_HEADER">
-      <Text>Team</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_MULTIPLAYER_DIFFICULTY_HEADER">
-      <Text>Độ khó</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_MULTIPLAYER_READY_HEADER">
-      <Text>Sẵn sàng?</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_MULTIPLAYER_CIV_LEADER_HEADER">
-      <Text>Nền văn minh và lãnh đạo</Text>
-    </Replace>
+		<Replace Language='en_US' Tag="LOC_MULTIPLAYER_TEAM_HEADER">
+			<Text>Đội</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MULTIPLAYER_DIFFICULTY_HEADER">
+			<Text>Độ khó</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MULTIPLAYER_READY_HEADER">
+			<Text>Sẵn sàng?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MULTIPLAYER_CIV_LEADER_HEADER">
+			<Text>Nền văn minh và lãnh đạo</Text>
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_GAMESTART_COUNTDOWN_FORMAT">
 			<Text>Game đang bắt đầu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_READY_COUNTDOWN_FORMAT">
+			<Text>Chuẩn bị</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WAITING_FOR_PLAYERS_COUNTDOWN_FORMAT">
+			<Text>Chờ đợi người chơi</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HOTSEAT_DEFAULT_PLAYER_NAME">
 			<Text>Người chơi</Text>
@@ -816,10 +918,10 @@
 		</Replace>
 		<!-- Edit Hotseat Player Popup -->
 		<Replace Language='en_US' Tag="LOC_HOTSEAT_EDIT_PLAYER_TT">
-			<Text>Edit Hot Seat Player.</Text>
+			<Text>Chỉnh sửa ghế nóng.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HOTSEAT_EDIT_PLAYER">
-			<Text>Edit Hot Seat Player</Text>
+			<Text>Chỉnh sửa ghế nóng</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HOTSEAT_PLAYER_NAME">
 			<Text>Tên người chơi:</Text>
@@ -852,6 +954,15 @@
 		<Replace Language='en_US' Tag="LOC_MP_PLAYER_NOT_MOD_READY">
 			<Text>Người chơi không có Mod yêu cầu cho Game này.</Text>
 		</Replace>
+		<Replace Language='en_US' Tag="LOC_MP_PLAYER_NOT_MOD_READY_SUMMARY">
+			<Text>[COLOR:ConnectionStatus_NotModReady]Mods Missing[ENDCOLOR]</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MP_PLAYER_RESYNCING">
+			<Text>Trình phát đang tải lại để sửa lỗi không đồng bộ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MP_PLAYER_RESYNCING_SUMMARY">
+			<Text>[COLOR:ConnectionStatus_Resyncing]Tái đồng bộ[ENDCOLOR]</Text>
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_TIME_MILLISECONDS">
 			<Text>ms</Text>
 		</Replace>
@@ -860,22 +971,22 @@
 		</Replace>
 		<!-- Friend Actions  -->
 		<Replace Language='en_US' Tag="LOC_FRIEND_ACTION_PROFILE">
-			<Text>Steam Profile</Text>
+			<Text>Hồ sơ Steam</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_FRIEND_ACTION_PROFILE_TT">
-			<Text>View this friend's profile page.</Text>
+			<Text>Xem trang hồ sơ của người bạn này.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_FRIEND_ACTION_CHAT">
-			<Text>Send Message</Text>
+			<Text>Gửi tin nhắn</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_FRIEND_ACTION_CHAT_TT">
-			<Text>Send a message to this friend.</Text>
+			<Text>Gửi tin nhắn cho người bạn này.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_FRIEND_ACTION_INVITE">
-			<Text>Invite to Game</Text>
+			<Text>Mời tham gia trò chơi</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_FRIEND_ACTION_INVITE_TT">
-			<Text>Invite this friend to play.</Text>
+			<Text>Mời bạn này chơi.</Text>
 		</Replace>
 		<!-- Friend Status  -->
 		<Replace Language='en_US' Tag="LOC_PRESENCE_ONLINE">
@@ -902,12 +1013,18 @@
 		<Replace Language='en_US' Tag="LOC_PRESENCE_IN_GAME_HOTSEAT">
 			<Text>[COLOR:ConnectionStatus_Connected]Multiplayer (Hot Seat)[ENDCOLOR]</Text>
 		</Replace>
+		<Replace Language='en_US' Tag="LOC_PRESENCE_IN_GAME_PLAYBYCLOUD">
+			<Text>[COLOR:ConnectionStatus_Connected]Multiplayer (Play By Cloud)[ENDCOLOR]</Text>
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_PRESENCE_INVITED_ONLINE">
 			<Text>[COLOR:ConnectionStatus_Connected]Đã mời[ENDCOLOR]</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_PRESENCE_INVITED_OFFLINE">
 			<Text>[COLOR:ButtonCS]Đã mời[ENDCOLOR]</Text>
 		</Replace>
+		<Replace Language='en_US' Tag="LOC_PRESENCE_WORLD_BUILDER">
+      		<Text>[COLOR:ConnectionStatus_Connected]Thế giới xây dựng[ENDCOLOR]</Text>
+    	</Replace>
 		<!-- Player Connection EVents -->
 		<Replace Language='en_US' Tag="LOC_MP_PLAYER_CONNECTED_CHAT">
 			<Text>Đã kết nối</Text>
@@ -969,6 +1086,12 @@
 		<Replace Language='en_US' Tag="LOC_SETUP_MAP_SIZE">
 			<Text>Kích thước bản đồ</Text>
 		</Replace>
+		<Replace Language='en_US' Tag="LOC_SETUP_MODE_SELECT">
+      		<Text>Chế độ trò chơi</Text>
+    	</Replace>
+    	<Replace Language='en_US' Tag="LOC_SETUP_NO_GAME_MODES">
+      		<Text>Không có chế độ trò chơi có sẵn.</Text>
+    	</Replace>
 		<Replace Language='en_US' Tag="LOC_DELETE_AI">
 			<Text>Xóa</Text>
 		</Replace>
@@ -978,18 +1101,21 @@
 		<Replace Language='en_US' Tag="LOC_SETUP_VICTORY_CONDITIONS">
 			<Text>Điều kiện chiến thắng</Text>
 		</Replace>
+		<Replace Language='en_US' Tag="LOC_SETUP_GAME_MODES">
+			<Text>Chế độ trò chơi</Text>
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_ADVANCED_OPTIONS">
 			<Text>Cài đặt nâng cao</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_EDIT_BUTTON">
 			<Text>Thoát</Text>
 		</Replace>
-    <Replace Language='en_US' Tag="LOC_SETUP_ADD_PLAYER">
-      <Text>Thêm người chơi</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_SETUP_ADD_PLAYER_TT">
-      <Text>Thêm người chơi vào game.</Text>
-    </Replace>
+		<Replace Language='en_US' Tag="LOC_SETUP_ADD_PLAYER">
+			<Text>Thêm người chơi</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SETUP_ADD_PLAYER_TT">
+			<Text>Thêm người chơi vào game.</Text>
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_SETUP_ADD_AI_PLAYER">
 			<Text>Thêm máy</Text>
 		</Replace>
@@ -1001,6 +1127,42 @@
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_SETUP_RESTORE_DEFAULT_TT">
 			<Text>Khôi phục tất cả về giá trị mặc định.</Text>
+		</Replace>
+				<Replace Language='en_US' Tag="LOC_SETUP_MAP_MAP_SELECT">
+			<Text>Chọn bản đồ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SETUP_MAP_CREATE_GAME_SELECT_MAP">
+			<Text>Chọn bản đồ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SETUP_MAP_SELECT_MAP">
+			<Text>Chọn bản đồ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SETUP_MAP_OFFICIAL_MAPS">
+			<Text>Bản đồ chính thức</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SETUP_MAP_FIRAXIS_MAPS">
+			<Text>Bản đồ Firaxis</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SETUP_MAP_FIRAXIS_MAPS_TOOLTIP">
+			<Text>Chỉ hiển thị bản đồ chính thức được thực hiện bởi Firaxis.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SETUP_MAP_WORLD_BUILDER_MAPS">
+			<Text>Bản đồ xây dựng thế giới</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SETUP_MAP_WORLD_BUILDER_MAPS_TOOLTIP">
+			<Text>Chỉ hiển thị bản đồ World Builder.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SETUP_MAP_ALL_MAPS">
+			<Text>Tất cả bản đồ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SETUP_MAP_ALL_MAPS_TOOLTIP">
+			<Text>Hiển thị tất cả các bản đồ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SETUP_MAP_MAP_INFO">
+			<Text>Thông tin bản đồ</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SETUP_MAP_SELECTED_MAP">
+			<Text>Bản đồ được chọn</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_START_GAME">
 			<Text>Bắt đầu</Text>
@@ -1014,6 +1176,18 @@
 		<Replace Language='en_US' Tag="LOC_WORLD_BUILDER_LOAD">
 			<Text>Tải bản đồ</Text>
 		</Replace>
+				<Replace Language='en_US' Tag="LOC_WORLD_BUILDER_IMPORT">
+			<Text>Nhập bản đồ từ Trình chỉnh sửa</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WORLD_BUILDER_START_NEW_TOOLTIP">
+			<Text>Tạo một bản đồ World Builder trống hoặc được tạo mới để chỉnh sửa.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WORLD_BUILDER_LOAD_TOOLTIP">
+			<Text>Tải bản đồ World Builder đã lưu trước đó.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WORLD_BUILDER_IMPORT_TOOLTIP">
+			<Text>Chuyển đổi tệp bản đồ .TMX có cấu trúc đúng thành bản đồ World Builder.</Text>
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_RANDOM_LEADER">
 			<Text>Người lãnh đạo ngẫu nhiên</Text>
 		</Replace>
@@ -1024,8 +1198,23 @@
 		<Replace Language='en_US' Tag="LOC_SETUP_ERROR_NO_DUPLICATE_LEADERS">
 			<Text>Không trùng người lãnh đạo</Text>
 		</Replace>
+		<Replace Language='en_US' Tag="LOC_SETUP_ERROR_NO_DUPLICATE_CIVILIZATIONS">
+			<Text>Không có nền văn minh trùng lặp</Text>
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_SETUP_ERROR_HUMANS_REQUIRED">
 			<Text>Chờ thêm người</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SETUP_ERROR_HUMANS_REQUIRED_TT">
+			<Text>Không thể bắt đầu trò chơi. Tất cả các vị trí người chơi mở phải được chiếm giữ trước khi trò chơi có thể bắt đầu.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_READY_BLOCKED_READY_COUNTDOWN_TT">
+			<Text>Không thể bắt đầu trò chơi. Chờ đợi Đếm ngược sẵn sàng hoặc đầy đủ, sẵn sàng trò chơi.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_READY_COUNTDOWN_TT">
+			<Text>Bạn sẽ được thiết lập để sẵn sàng vào cuối đếm ngược này. Nhấn vào đây để sẵn sàng ngay bây giờ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_WAITING_FOR_PLAYERS_COUNTDOWN_TT">
+			<Text>Chờ đợi thêm người chơi. Trò chơi sẽ bắt đầu vào cuối đếm ngược hoặc một khi trò chơi có đầy đủ người chơi sẵn sàng.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_SETUP_ERROR_INVALID_OPTION">
 			<Text>Tùy chọn không hợp lệ</Text>
@@ -1033,8 +1222,14 @@
 		<Replace Language='en_US' Tag="LOC_SETUP_ERROR_LEADER_NOT_OWNED">
 			<Text>Không sở hữu</Text>
 		</Replace>
+		<Replace Language='en_US' Tag="LOC_SETUP_PARAMETER_ERROR">
+			<Text>Một hoặc nhiều tùy chọn không hợp lệ.</Text>
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_SETUP_PLAYER_PARAMETER_ERROR">
 			<Text>Tùy chọn của một hoặc nhiều người chơi không hợp lệ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_SETUP_PLAYER_COLOR_COLLISION">
+			<Text>Màu sắc của nền văn minh này có thể xung đột với màu sắc của nền văn minh khác. Bạn có thể chọn một bảng màu thay thế từ danh sách thả xuống nếu bạn muốn.</Text>
 		</Replace>
 		<!-- Configuration Parameters.  Move these to a better location -->
 		<Replace Language='en_US' Tag="LOC_RULESET">
@@ -1077,19 +1272,19 @@
 			<Text>Thời gian mỗi lượt</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_GAME_TURN_TIMER_TIME_TOOLTIP">
-			<Text>Turn time used by the Standard Turn Timer mode (in seconds).</Text>
+			<Text>Thời gian bật được sử dụng bởi chế độ Hẹn giờ bật tiêu chuẩn (tính bằng giây).</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_GAME_TURNPHASE_TYPE">
 			<Text>Chế độ lượt</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_GAME_TURNPHASE_DESC">
-			<Text>Turn mode used by human controlled players in multiplayer.</Text>
+			<Text>Chế độ bật được sử dụng bởi người chơi do con người điều khiển trong nhiều người chơi.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_GAME_SYNC_RANDOM_SEED">
 			<Text>Số tạo Game ngẫu nhiên</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_GAME_SYNC_RANDOM_SEED_TOOLTIP">
-			<Text>The random seed for game rules.</Text>
+			<Text>Hạt giống ngẫu nhiên cho các quy tắc trò chơi.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_MAP_RANDOM_SEED">
 			<Text>Số tạo bản đồ ngẫu nhiên</Text>
@@ -1187,6 +1382,9 @@
 		<Replace Language='en_US' Tag="LOC_MAP_PREDEFINED_START_LOCATIONS_NAME">
 			<Text>Vị trí bắt đầu được xác định trước</Text>
 		</Replace>
+		<Replace Language='en_US' Tag="LOC_MAP_START_POSITION_MIRRORED_NAME">
+      		<Text>Nhân đôi</Text>
+    	</Replace>
 		<Replace Language='en_US' Tag="LOC_MAP_PREDEFINED_START_LOCATIONS_DESCRIPTION">
 			<Text>Sử dụng vị trí bắt đầu đã được xác định trước trên bản đồ.</Text>
 		</Replace>
@@ -1219,15 +1417,31 @@
 		<Replace Language='en_US' Tag="LOC_MAP_INLANDSEA_DESCRIPTION">
 			<Text>Một đại dương lớn ở trung tâm.</Text>
 		</Replace>
+		<Replace Language='en_US' Tag="LOC_MAP_SEVEN_SEAS_DESCRIPTION">
+			<Text>Một số cơ thể lớn của nước được bao quanh bởi đất liền. Quần đảo có thể được tìm thấy trong các vùng biển.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MAP_SMALL_CONTINENTS_DESCRIPTION">
+			<Text>Thế giới sẽ bao gồm một vài vùng đất trung bình và một số hòn đảo nhỏ hơn.</Text>
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_MAP_ISLAND_PLATES_DESCRIPTION">
 			<Text>Một quần đảo khác nhau từ nhỏ đến lớn.</Text>
+		</Replace>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MAP_LAKES_DESCRIPTION">
+			<Text>Một thế giới không có đại dương, chỉ có hồ và biển nội địa.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MAP_MIRROR_DESCRIPTION">
+			<Text>Bản đồ bốn người cân bằng được tạo ngẫu nhiên lý tưởng cho các trận đấu nhiều người chơi cạnh tranh.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_MAP_PANGAEA_DESCRIPTION">
 			<Text>Một mảng đất lớn với xung quanh là đảo</Text>
 		</Replace>
-    <Replace Language='en_US' Tag="LOC_MAP_SHUFFLE_DESCRIPTION">
-      <Text>Bản đồ này sẽ tiết lộ bí mật gì?</Text>
-    </Replace>
+		<Replace Language='en_US' Tag="LOC_MAP_SHUFFLE_DESCRIPTION">
+			<Text>Bản đồ này sẽ tiết lộ bí mật gì?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MAP_TERRA_DESCRIPTION">
+			<Text>Một bản đồ lục địa nơi tất cả các nền văn minh lớn bắt đầu trên lục địa lớn nhất.</Text>
+		</Replace>
 		<!-- Map Size Descriptions -->
 		<Replace Language='en_US' Tag="LOC_MAPSIZE_DUEL_DESCRIPTION">
 			<Text>Cho 2 người chơi.</Text>
@@ -1367,8 +1581,14 @@
 		<Replace Language='en_US' Tag="LOC_MAP_START_POSITION_LEGENDARY_DESCRIPTION">
 			<Text>Ai cũng chơi giỏi, không cần phải giống nhau.</Text>
 		</Replace>
+		<Replace Language='en_US' Tag="LOC_MAP_START_POSITION_MIRRORED_DESCRIPTION">
+      		<Text>Tất cả người chơi bắt đầu ở cùng một vị trí trong góc phần tư bản đồ của họ.</Text>
+    	</Replace>
 		<Replace Language='en_US' Tag="LOC_GAME_START_ERA">
 			<Text>Thời đại bắt đầu</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_KICK_VOTE">
+			<Text>Bỏ phiếu Kick</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_MAP_SCRIPT">
 			<Text>Bản đồ</Text>
@@ -1379,7 +1599,7 @@
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_SETUP_TUTORIAL_DESCRIPTION">
 			<Text>Đây là nơi bắt đầu cuộc hành trình từ khởi đầu khiêm tốn để đến với sự vĩ đại.[NEWLINE][NEWLINE]Bạn sẽ chinh phục thế giới trong những trận đánh lớn hay là kẻ đầu tiên gửi người lên sao Hỏa? Nền văn minh của bạn ảnh hưởng tới toàn cầu như thế nào, hay niềm tin tôn giáo đến tận cùng trái đất?[NEWLINE][NEWLINE]Chỉ có thời gian sẽ...[NEWLINE][NEWLINE]Tất cả nền văn minh vĩ đại đều bắt đầu bởi một người lãnh đạo giỏi. Chọn người lãnh đạo mà bạn muốn chơi ở bên dưới:</Text>
-		</Replace>	
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_SETUP_TUTORIAL_LEADER_1">
 			<Text>Cleopatra của đế chế Ai Cập. Một nền văn minh với các đồng minh mạnh mẽ và thành phố lớn.</Text>
 		</Replace>
@@ -1519,17 +1739,23 @@
 		<Replace Language='en_US' Tag="LOC_TUTORIAL_NEW_TO_CIV_6">
 			<Text>Mới từ Civilization VI</Text>
 		</Replace>
+		<Replace Language='en_US' Tag="LOC_NO_DUPLICATE_CIVILIZATIONS_NAME">
+			<Text>Không có nền văn minh trùng lặp</Text>
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_NO_DUPLICATE_LEADERS_NAME">
 			<Text>Không trùng người lãnh đạo</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_NO_TEAMS_NAME">
-			<Text>No Teams</Text>
+			<Text>Không có đội</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_NO_DUPLICATE_CIVILIZATIONS_DESCRIPTION">
+			<Text>Kích hoạt tùy chọn này ngăn hai hoặc nhiều người chơi chọn cùng một nền văn minh.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_NO_DUPLICATE_LEADERS_DESCRIPTION">
 			<Text>Bật tùy chọn này để hạn chế hai hoặc nhiều người chơi chọn người lãnh đạo giống nhau.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_NO_TEAMS_DESCRIPTION">
-			<Text>Enabling this option disables team play.</Text>
+			<Text>Kích hoạt tùy chọn này sẽ vô hiệu hóa lối chơi của đội.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_LIMIT_TURNS_NAME">
 			<Text>Giới hạn lượt</Text>
@@ -1600,16 +1826,24 @@
 		<Replace Language='en_US' Tag="LOC_MAINMENU_BENCHMARK_TT">
 			<Text>Máy bạn khỏe đến mức nào?</Text>
 		</Replace>
+		<Replace Language='en_US' Tag="LOC_MAINMENU_WORLDBUILDER_TT">
+			<Text>Trình chỉnh sửa bản đồ World Builder.</Text>
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_MAINMENU_CREDITS_TT">
 			<Text>Những người làm ra Civilization VI.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_MAINMENU_EXIT_GAME_TT">
 			<Text>Thoát tới Desktop.</Text>
 		</Replace>
-
+		<Replace Language='en_US' Tag="LOC_MAIN_MENU_HALL_OF_FAME">
+			<Text>Thành tựu - Danh vọng</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MAIN_MENU_HALL_OF_FAME_TT">
+			<Text>Gameplay của bạn có đứng vững trước thử thách của thời gian không?</Text>
+		</Replace>
 		<!-- Copyright screen -->
 		<Replace Language='en_US' Tag="LOC_COPYRIGHT_TEXT">
-			<Text>© 1991-2018 Take-Two Interactive Software, Inc.  Developed by Firaxis Games. 2K, Firaxis Games, Sid Meier's Civilization VI, Sid Meier's Civilization, Civilization, Civ, and their respective logos are trademarks of Take-Two Interactive Software, Inc.  Uses Bink Video. Copyright © 1997-2018 by RAD Game Tools, Inc. Uses Granny Animation. Copyright © 1999-2018 by RAD Game Tools Inc.  Fork Copyright © 2018 Fork Particle, Inc. Sid Meier's Civilization VI uses Havok®. © Copyright 1999 – 2018 Havok.com, Inc. (and its Licensors). All Rights Reserved. See www.havok.com for details. AMD, the AMD Arrow logo, Radeon, Crossfire, and combinations thereof are either registered trademarks or trademarks of Advanced Micro Devices, Inc. in the United States and/or other countries. Microsoft, DirectX, Visual Studio, and Windows are either registered trademarks or trademarks of Microsoft Corporation in the United States and/or other countries. Lua Copyright © 1994-2018 Lua.org, PUC-Rio. All other marks and trademarks are the property of their respective owners.  All rights reserved.  The content of this videogame is fictional and is not intended to represent or depict an actual record of the events, persons or entities in the game's historical setting.</Text>
+			<Text>© 1991 – 2020 Take-Two Interactive Software, Inc. Developed by Firaxis Games. 2K, Firaxis Games, Sid Meier’s Civilization VI, Sid Meier’s Civilization, Civilization, Civ, and their respective logos are trademarks of Take-Two Interactive Software, Inc. Uses Bink Video. Copyright © 1997 – 2020 by RAD Game Tools, Inc. Uses Granny Animation. Copyright © 1999 – 2020 by RAD Game Tools Inc. Powered by WWise © 2006- 2020 Audiokinetic Inc. All rights reserved. Fork Copyright © 2020 Fork Particle, Inc. Sid Meier’s Civilization VI uses Havok®. © 1999 – 2020 Havok.com, Inc. (and its Licensors). All Rights Reserved. See www.havok.com for details. Microsoft, DirectX, Visual Studio, and Windows are either registered trademarks or trademarks of Microsoft Corporation in the United States and/or other countries. Lua Copyright © 1994 – 2020 Lua.org, PUC-Rio. All other marks and trademarks are property of their respective owners. All rights reserved. The content of this videogame is fictional and is not intended to represent or depict an actual record of the events, persons or entities in the game’s historical setting.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_COPYRIGHT_ACCEPT">
 			<Text>Tiếp tục</Text>
@@ -1702,30 +1936,29 @@
 			<Text>Demo</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_MAIN_MENU_DEMO_PURCHASE">
-			<Text>Buy It Now</Text>
+			<Text>Mua ngay</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_MAIN_MENU_DEMO_PURCHASE_TT">
-			<Text>Open Steam Store to purchase Sid Meier's Civilization VI</Text>
+			<Text>Mở Steam Store để mua Sid Meier's Civilization VI</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_DEMO_COMPLETE_CONTENT">
-			<Text>Congratulations! You have taken the first steps towards building a Civilization to stand the test of time. Will you continue to test yourself against the greatest leaders of history? Can your people’s culture flourish? Your science enlighten? Your faith inspire? Your military dominate?[NEWLINE][NEWLINE]How will you lead in Sid Meier’s Civilization VI? Continue the journey now.[NEWLINE][NEWLINE]Build. Conquer. Inspire.</Text>
+			<Text>Xin chúc mừng! Bạn đã thực hiện những bước đầu tiên để xây dựng một nền văn minh để đứng trước thử thách của thời gian. Bạn sẽ tiếp tục kiểm tra bản thân chống lại các nhà lãnh đạo vĩ đại nhất của lịch sử? Dân tộc của bạn có thể phát triển văn hóa? Khoa học của bạn khai sáng? Đức tin của bạn truyền cảm hứng? Quân đội của bạn thống trị? [NEWLINE][NEWLINE] Bạn sẽ lãnh đạo như thế nào trong Sid Meier xông Civilization VI? Tiếp tục hành trình ngay bây giờ. [NEWLINE][NEWLINE] Build. Chinh phục. Truyền cảm hứng.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_DEMO_COMPLETE_MAIN_MENU">
-			<Text>Fade into History</Text>
+			<Text>Mất dần vào lịch sử</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_DEMO_COMPLETE_BUY">
-			<Text>Achieve Greatness</Text>
+			<Text>Đạt được sự vĩ đại</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_ARX_VICTORY_PROGRESS">
-			<Text>{1_CivName} Victory Progress</Text>
+			<Text>{1_CivName} Tiến trình chiến thắng</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_ARX_TOP_5">
 			<Text>Top 5</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_ARX_GOSSIP_LOG">
-			<Text>Gossip Log</Text>
+			<Text>Nhật ký tin đồn</Text>
 		</Replace>
-		
 		<!-- File Errors -->
 		<Replace Language='en_US' Tag="LOC_SERIALIZATION_ERROR_VERSION_MISMATCH">
 			<Text>Save không thể load trong phiên bản game này.</Text>
@@ -1773,17 +2006,77 @@
 			<Text>Một hoặc nhiều gói mở rộng của save đã không được cài đặt.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TEAM_NAME_SELECT_TITLE">
-			<Text>Team Name</Text>
+			<Text>Tên nhóm</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TEAM_NAME_ENTRY_TITLE">
-			<Text>Enter Team Name</Text>
+			<Text>Nhập tên nhóm</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CHOOSE_TEAM_ICON">
-			<Text>Choose Team Icon</Text>
+			<Text>Chọn biểu tượng đội</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_MESSAGE_OF_THE_DAY_HEADING">
-			<Text>Message of the Day:</Text>
+			<Text>Tin nhắn của ngày:</Text>
 		</Replace>
 		<!-- -->
+		<Replace Language='en_US' Tag="LOC_GAME_START_ERROR_DESC">
+			<Text>Có lỗi khi bắt đầu trò chơi.[NEWLINE][NEWLINE]Chúng tôi khuyên bạn nên vô hiệu hóa mọi mod và thử lại.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GAME_START_ERROR_CODE">
+			<Text>Error - {1_ErrorCode}</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GAME_START_VIEW_MODS">
+			<Text>Quản lý Mod</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GAME_START_ERROR_TITLE">
+			<Text>Lỗi bắt đầu trò chơi</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GAME_START_ERROR_UNKNOWN_VERSION">
+			<Text>Phiên bản lưu không tương thích.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GAME_START_ERROR_MOD_CONTENT">
+			<Text>Một hoặc nhiều Mod không tải được nội dung.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GAME_START_ERROR_MOD_CONFIG">
+			<Text>Một hoặc nhiều Mod không thể cấu hình các mục nhập nội dung hoặc cơ sở dữ liệu.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GAME_START_ERROR_MOD_OWNERSHIP">
+			<Text>Một hoặc nhiều Mod chưa được mua.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_GAME_START_ERROR_SCRIPT_PROCESSING">
+			<Text>Một hoặc nhiều tập lệnh khởi động có lỗi. Xem lua.log</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CLOUD_SAVES_REQUIRE_LINKED_ACCOUNT">
+			<Text>Lưu đám mây yêu cầu Tài khoản 2K được liên kết.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CLOUD_SAVES_SERVICE_NOT_CONNECTED">
+			<Text>Dịch vụ lưu trữ đám mây không có sẵn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PAUSEMENU_INFO_OVERVIEW_TOOLTIP">
+			<Text>Thông tin kỹ thuật về trò chơi này:</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PAUSEMENU_INFO_VERSION_TOOLTIP">
+			<Text>Phiên bản: {1_Version}</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PAUSEMENU_INFO_MAP_SEED">
+			<Text>Hạt giống bản đồ: {1_MapSeed}</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PAUSEMENU_INFO_GAME_SEED">
+			<Text>Hạt giống trò chơi: {1_GameSeed}</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PAUSEMENU_INFO_MOUSE_COPY_TOOLTIP">
+			<Text>Nhấp chuột phải để sao chép thông tin.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_PAUSEMENU_INFO_TOUCH_COPY_TOOLTIP">
+			<Text>Giữ trong 5 giây để sao chép thông tin.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOD_SCOUT_CAT_TITLE">
+			<Text>DLC: Mèo trinh sát</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOD_SCOUT_CAT_TEASER">
+			<Text>Thay thế con chó của Hướng đạo bằng một con mèo.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_MOD_SCOUT_CAT_DESCRIPTION">
+			<Text>Đôi khi một người chơi yêu "Hướng đạo" con chó đến mức họ không thể chịu được khi thấy Hướng đạo sinh làm việc rất chăm chỉ trong tự nhiên. Vì vậy, giải pháp rõ ràng là gửi một đống mèo để Scout có thể thư giãn tại làng. Hoặc, nếu bạn là một fan hâm mộ lớn của felines, thì DLC này chỉ đơn giản là đúng sai.</Text>
+		</Replace>
 	</LocalizedText>
 </GameData>

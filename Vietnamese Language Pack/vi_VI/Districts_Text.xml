@@ -110,6 +110,12 @@
 		<Replace Language='en_US' Tag="LOC_DISTRICT_MOUNTAINS_SCIENCE5">
 			<Text>+{1_num} [ICON_Science] Khoa học từ {1_Num : plural 1?Núi; other?Núi;} liền kề.</Text>
 		</Replace>
+		<Replace Language='en_US' Tag="LOC_DISTRICT_FARM">
+      		<Text>+{1_num} [ICON_Science] Khoa học từ trang trại liền kề {1_Num : plural 1?tile; other?tiles;}.</Text>
+    	</Replace>
+    	<Replace Language='en_US' Tag="LOC_DISTRICT_PLANTATION">
+      		<Text>+{1_num} [ICON_Science] Khoa học từ đồn điền liền kề {1_Num : plural 1?tile; other?tiles;}.</Text>
+    	</Replace>
 		<Replace Language='en_US' Tag="LOC_DISTRICT_JUNGLE_SCIENCE">
 			<Text>+{1_num} [ICON_Science] Khoa học từ các ô Rừng nhiệt đới liền kề.</Text>
 		</Replace>

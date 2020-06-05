@@ -108,10 +108,10 @@
 			<Text>{1_CivName} đã đào một cổ vật mới: {2_GreatWork}.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_GOSSIP_BARBARIAN_INVASION_STARTED">
-			<Text>{1_CivName} đang đối mặt với cuộc xâm lược man rợ tại {2_CityName}.</Text>
+			<Text>{1_CivName} đang đối mặt với cuộc xâm lược man di tại {2_CityName}.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_GOSSIP_BARBARIAN_RAID_STARTED">
-			<Text>{1_CivName} đang đối mặt với cuộc đột kích man rợ tại {2_CityName}.</Text>
+			<Text>{1_CivName} đang đối mặt với cuộc đột kích man di tại {2_CityName}.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_GOSSIP_BEACH_RESORT_CREATED">
 			<Text>{1_CivName} nghe nói rằng tắm nắng ở Khu nghỉ dưỡng ven biển bên ngoài {2_CityName} là rất tốt.</Text>
@@ -221,6 +221,9 @@
 		<Replace Language='en_US' Tag="LOC_GOSSIP_RESEARCH_TECH">
 			<Text>{1_CivName} hoàn thành nghiên cứu công nghệ {2_TechName}.</Text>
 		</Replace>
+		<Replace Language='en_US' Tag="LOC_GOSSIP_SPY_CAPTURED">
+      		<Text>{3_SpyPlayer} đã có gián điệp của họ trong {2_CityName} bị bắt bởi {LOC_GRAMMAR_CIVNAME &lt; &lt; {1_CivName}}.</Text>
+    	</Replace>
 		<Replace Language='en_US' Tag="LOC_GOSSIP_SPY_DISRUPT_ROCKETRY_DETECTED">
 			<Text>{1_CivName} có Trạm không gian trong {2_CityName} bị phá hoại bởi gián điệp từ {3_SpyPlayer}.</Text>
 		</Replace>
@@ -297,7 +300,7 @@
 			<Text>Có tin đồn rằng</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_GOSSIP_SOURCE_TECH">
-			<Text>Tiết lộ</Text>
+			<Text>Một bài báo gần đây đã tiết lộ rằng</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_GOSSIP_SOURCE_TRADER">
 			<Text>Thương gia {1_Name} của bạn nghe được rằng</Text>

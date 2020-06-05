@@ -2144,7 +2144,7 @@
 			<Text>Gửi [ICON_TradeRoute] Tuyến đường thương mại</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_QUEST_CLEAR_BARBARIAN_CAMP_NAME">
-			<Text>Phá hủy tiền đồn quân man rợ trong phạm vi 5 ô</Text>
+			<Text>Phá hủy tiền đồn quân man di trong phạm vi 5 ô</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_QUEST_TRAIN_UNIT_TYPE_NAME">
 			<Text>Đào tạo đơn vị</Text>

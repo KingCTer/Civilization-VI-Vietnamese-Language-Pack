@@ -155,5 +155,26 @@
 		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ANY_TERRITORIAL_WAR">
 			<Text>(Tuyên bố chiến tranh mở rộng lãnh thổ)</Text>
 		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ANY_JOINT_FORMAL_WAR">
+			<Text>(Tuyên bố một cuộc chiến chính thức chung chống lại bạn)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ANY_JOINT_HOLY_WAR">
+			<Text>(Tuyên bố một cuộc Chiến tranh Thánh chiến chống lại bạn)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ANY_JOINT_RECONQUEST_WAR">
+			<Text>(Tuyên bố một cuộc chiến tái hợp chung chống lại bạn)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ANY_JOINT_LIBERATION_WAR">
+			<Text>(Tuyên bố một cuộc chiến tranh giải phóng chung chống lại bạn)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ANY_JOINT_PROTECTORATE_WAR">
+			<Text>(Tuyên bố một cuộc chiến bảo vệ chung chống lại bạn)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ANY_JOINT_COLONIAL_WAR">
+			<Text>(Tuyên bố một cuộc chiến thuộc địa chung chống lại bạn)</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ANY_JOINT_TERRITORIAL_WAR">
+			<Text>(Tuyên bố một cuộc chiến tranh mở rộng lãnh thổ chung)</Text>
+		</Replace>
 	</LocalizedText>
 </GameData>

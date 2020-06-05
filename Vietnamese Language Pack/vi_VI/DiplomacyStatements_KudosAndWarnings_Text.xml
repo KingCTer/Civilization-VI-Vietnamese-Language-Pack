@@ -194,6 +194,9 @@
 		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_LEADER_ANY_REASON_AGENDA_PARANOID">
 			<Text>Ta thấy an tâm khi thấy đế chế của ngài chẳng mang lại mối nguy hiểm nào cho ta.</Text>
 		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_KUDO_AGENDA_EXPLANATION">
+      		<Text>[NEWLINE](Bạn đã hài lòng chương trình nghị sự của {Name}, {Agenda})</Text>
+    	</Replace>
 
 		<!-- AI Warnings-->
 		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_EXIT_ANY_ANY">
@@ -384,5 +387,8 @@
 		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_LEADER_ANY_REASON_AGENDA_HIGH_EXPLORATION">
 			<Text>Còn quá nhiều điều để khám phá, và ta sợ rằng mình không thể chấp hành bất kỳ ai đặt điều trước những nhà thám hiểm.</Text>
 		</Replace>
+		<Replace Language='en_US' Tag="LOC_DIPLO_WARNING_AGENDA_EXPLANATION">
+      		<Text>[NEWLINE](Bạn đã vi phạm chương trình nghị sự của {Name}, {Agenda})</Text>
+    	</Replace>
 	</LocalizedText>
 </GameData>
