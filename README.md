@@ -32,7 +32,7 @@ Sau khi giải nén sẽ có cấu trúc như sau:
 
 ## Cài đặt bằng git và dòng lệnh (Git Bash trong Windows)
 
-Nếu bạn chưa cài đặt Git, thì hãy [Tải Git!](Https://git-scm.com/doad) (Có thể cài đặt với cài đặt mặc định.)
+Nếu bạn chưa cài đặt Git, thì hãy [Tải Git!](https://git-scm.com/download) (Có thể cài đặt với cài đặt mặc định.)
 
 1. Mở CMD (hoặc Git Bash)
 2. Điều hướng đến thư mục người dùng Civil 6: 
