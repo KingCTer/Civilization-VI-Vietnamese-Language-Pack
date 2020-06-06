@@ -32,31 +32,31 @@
 
 		<!--Agenda Description-->
 		<Replace Language='en_US' Tag="LOC_AGENDA_BILLIONAIRE_DESCRIPTION">
-			<Text>Tries to maximize [ICON_TradeRoute] Trade Routes. Likes civilizations that trade with her, dislikes those who do not.</Text>
+			<Text>Cố gắng tối đa hóa [ICON_TradeRoute] Các tuyến giao dịch. Thích những nền văn minh buôn bán với cô ấy, không thích những người không thích.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_AGENDA_CHEOMSEONGDAE_DESCRIPTION">
-			<Text>Tries to build up [ICON_Science] Science, and likes civilizations that also focus on [ICON_Science] Science. Dislikes those with low [ICON_SCIENCE] Science.</Text>
+			<Text>Cố gắng xây dựng Khoa học [ICON_Science] và thích các nền văn minh cũng tập trung vào Khoa học [ICON_Science]. Không thích những người có Khoa học [ICON_SCIENCE] thấp.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_AGENDA_FLOWER_OF_SCOTLAND_DESCRIPTION">
-			<Text>Will not attack neighbors unless they break a promise to him. Likes those who do not war with neighbors, dislikes those who do.</Text>
+			<Text>Sẽ không tấn công hàng xóm trừ khi họ thất hứa với anh ta. Thích những người không gây chiến với hàng xóm, không thích những người làm.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_AGENDA_HORSE_LORD_DESCRIPTION">
-			<Text>Wants to build the world's most dominant cavalry force. Likes those who do not compete in cavalry. Dislikes those who rival him in cavalry strength.</Text>
+			<Text>Muốn xây dựng lực lượng kỵ binh thống trị nhất thế giới. Thích những người không cạnh tranh trong kỵ binh. Không thích những người cạnh tranh với anh ta trong sức mạnh của kỵ binh.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_AGENDA_HORN_CHEST_LOINS_DESCRIPTION">
-			<Text>Tries to use as many corps and armies as possible and respects civilizations who follow his lead. Does not like civilizations who can't create corps or don't use them.</Text>
+			<Text>Cố gắng sử dụng càng nhiều quân đoàn và quân đội càng tốt và tôn trọng các nền văn minh đi theo sự lãnh đạo của ông. Không thích những nền văn minh không thể tạo ra quân đoàn hoặc không sử dụng chúng.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_AGENDA_IRON_CONFEDERACY_DESCRIPTION">
-			<Text>Tries to form multiple alliances and respects those who do likewise. Dislikes those with few alliances.</Text>
+			<Text>Cố gắng hình thành nhiều liên minh và tôn trọng những người làm tương tự. Không thích những người có ít liên minh.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_AGENDA_MAURYA_EMPIRE_DESCRIPTION">
-			<Text>Tries to conquer neighboring civilizations, and likes civilizations that are not his neighbors (yet). Does not like his neighbors.</Text>
+			<Text>Cố gắng chinh phục các nền văn minh lân cận, và thích các nền văn minh không phải là hàng xóm của mình (chưa). Không thích hàng xóm của mình.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_AGENDA_NARIKALA_FORTRESS_DESCRIPTION">
-			<Text>Tries to put high-level walls around her cities and respects civilizations who follow her lead. Does not like civilizations who fail to fortify their cities.</Text>
+			<Text>Cố gắng đặt những bức tường cao cấp xung quanh các thành phố của cô và tôn trọng các nền văn minh đi theo cô. Không thích các nền văn minh không củng cố thành phố của họ.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_AGENDA_SPIRIT_OF_TUCAPEL_DESCRIPTION">
-			<Text>Tries to create and maintain a high degree of cultural loyalty. Dislikes civilizations that lose cities by failing to maintain the loyalty of their people, likes those that gain cities through loyalty.</Text>
+			<Text>Cố gắng để tạo và duy trì một mức độ trung thành văn hóa cao. Không thích các nền văn minh mất thành phố bằng cách không duy trì lòng trung thành của người dân, thích những người có được thành phố thông qua lòng trung thành.</Text>
 		</Replace>
 	</LocalizedText>
 </GameData>

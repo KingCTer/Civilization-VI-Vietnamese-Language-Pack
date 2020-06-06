@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
 <GameData>
 	<LocalizedText>
 		<Replace Language='en_US' Tag="LOC_TUTORIAL_GOVERNOR_INTRO">
@@ -74,6 +73,9 @@
 		<Replace Language='en_US' Tag="LOC_TUTORIAL_OVERCOME_DARK_AGE">
 			<Text>Hân hoan đi! Thời Đen tối của chúng ta đã kết thúc, và nền văn minh của chúng ta đang trên con đường hướng tới tương lai tươi sáng hơn. Thời Vàng son tiếp theo của chúng ta sẽ thật vinh quang.</Text>
 		</Replace>
+		<Replace Language='en_US' Tag="LOC_TUTORIAL_DARK_AGE_TO_DARK_AGE">
+			<Text>Đáng buồn thay, chúng ta đã không thể vượt qua Thời kỳ đen tối này. Chúng ta phải củng cố quyết tâm của mình và vượt lên trên thất bại này nếu nền văn minh của chúng ta tồn tại trong thế giới này.</Text>
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_TUTORIAL_PRIDE_MOMENT_COMMEMORATION">
 			<Text>Thời điểm đã đến để lựa chọn những thành tựu để lưu lại trong dòng lịch sử của chúng ta. Điều này sẽ truyền cảm hứng cho người dân của chúng ta tiếp tục hướng tới con đường mà bạn lựa chọn.</Text>
 		</Replace>
@@ -104,114 +106,120 @@
 		<Replace Language='en_US' Tag="LOC_TUTORIAL_GOV_DISTRICT_3c">
 			<Text>Hoàn thành xây dựng tòa nhà này đã gây ảnh hưởng cho các nhà hoạch định chính sách của chúng ta! Nếu chúng ta chọn thiết lập chính sách mới này trong chính phủ của chúng ta, nó có thể giúp ích rất nhiều cho người dân của chúng ta.</Text>
 		</Replace>
-    <Replace Language='en_US' Tag="LOC_TUTORIAL_LOYALTY_PRESSURE">
-      <Text>Bố trí một thành phố mới giúp mở rộng nền văn minh của chúng ta! Với một đế chế lớn hơn một thành phố, điều quan trọng là phải để mắt tới Lòng Trung thành của công dân chúng ta. Nếu Lòng Trung thành giảm, thành phố không có lợi ích gì. Nếu Lòng Trung thành giảm xuống 0, thành phố sẽ tuyên bố độc lập và trở thành một Thành phố Tự do. Điều tương tự này có thể xảy ra với các nền văn minh khác, vì vậy hãy để mắt tới cơ hội gây bất ổn cho người khác và thậm chí có thể giành lấy Thành phố Tự do vào đế chế của bạn![NEWLINE][NEWLINE]Lòng Trung thành chủ yếu bị ảnh hưởng bởi số lượng và quốc tịch của công dân ở trong và ở gần thành phố. Có rất nhiều dân cư của riêng bạn trong vòng 9 ô sẽ cải thiện Lòng Trung thành của bạn ở mỗi lượt. Các dân cư thuộc các nền văn minh khác trong phạm vi 9 ô sẽ làm giảm nó. Các thành phố ở gần nhau, thì hiệu quả càng lớn. Hơn nữa, hiệu quả này được củng cố mạnh mẽ cho nền văn minh trong Thời Vàng son, và yếu dần trong Thời Đen tối.[NEWLINE][NEWLINE]Chỉ định một Thống đốc cho một thành phố, và đảm bảo rằng ở đó có đủ Tiện Nghi, là những cách để đảm bảo Lòng Trung thành các thành phố của bạn.</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_ADVISOR_CITYPANEL_LOYALTY_INTRO">
-      <Text>CẢI THIỆN LÒNG TRUNG THÀNH:</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_ADVISOR_CITYPANEL_MARTIAL_LAW">
-      <Text>[NEWLINE][NEWLINE]Giữ một đơn vị quân đội ở đây, để chống lại hình phạt Chiếm đóng</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_ADVISOR_CITYPANEL_GOVERNOR">
-      <Text>[NEWLINE][NEWLINE]Chỉ định một [ICON_Governor] Thống đốc ở đây</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_ADVISOR_CITYPANEL_AMBASSADOR">
-      <Text>[NEWLINE][NEWLINE]Chỉ định một [ICON_Governor] Thống đốc đã thăng cấp Ngoại giao cho một thành phố trong vòng 9 ô</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_ADVISOR_CITYPANEL_DARK_AGE">
-      <Text>[NEWLINE][NEWLINE]Tránh xa Thời Đen tối trong thời đại tiếp theo của trò chơi, để cho các [ICON_Citizen] Công dân nhận thêm Lòng Trung thành</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_ADVISOR_CITYPANEL_GOLDEN_AGE">
-      <Text>[NEWLINE][NEWLINE]Giành được Thời Vàng son trong thời đại tiếp theo của trò chơi, làm cho các [ICON_Citizen] Công dân của bạn thêm nhiều Lòng trung thành hơn</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_ADVISOR_CITYPANEL_CITY_PLACEMENT">
-      <Text>[NEWLINE][NEWLINE]Tối đa các thành phố của bạn và các [ICON_Citizen] Công dân trong vòng 9 ô, giảm tối đa các thành phố nước ngoài và các [ICON_Citizen] Công dân như vậy trong vòng 9 ô</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_ADVISOR_CITYPANEL_CITY_HAPPINESS">
-      <Text>[NEWLINE][NEWLINE]Làm cho người dân của bạn hạnh phúc hơn bằng cách tăng [ICON_Amenities] Tiện nghi trong thành phố này</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_ADVISOR_CITYPANEL_CITY_STARVATION">
-      <Text>[NEWLINE][NEWLINE]Cung cấp thêm [ICON_Food] để ngăn người dân của bạn khỏi bị đói</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_ADVISOR_CITYPANEL_BREAD_AND_CIRCUSES">
-      <Text>[NEWLINE][NEWLINE]Có một thành phố gần đó thực hiện dự án Bánh mì và Rạp xiếc</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_ADVISOR_CITYPANEL_CULTURAL_ALLIANCE">
-      <Text>[NEWLINE][NEWLINE]Hình thành một Liên minh Văn hoá với một láng giềng để ngăn chặn [ICON_Citizen] Công dân của họ gây ảnh hưởng tiêu cực</Text>
-    </Replace>
-	<!-- Super Advisor Lines -->
-	<Replace Language='en_US' Tag="LOC_TUTORIAL_XP1_INTRO_WELCOME">
-		<Text>Chào mừng đến với Civilization VI: Trỗi dậy và Sụp đổ! Hướng dẫn này sẽ giới thiệu cho bạn các tính năng mới trong bản mở rộng này. Thông tin bổ sung có thể được tìm thấy trong Civilopedia và Cố vấn.</Text>
-	</Replace>
-	<Replace Language='en_US' Tag="LOC_TUTORIAL_XP1_INTRO_ERAS">
-		<Text>Giành được những Khoảnh khắc Lịch sử bằng cách hoàn thành những kỳ tích trong trò chơi. Mỗi Khoảnh khắc sẽ cho bạn một lượng Điểm Thời đại, và được dùng để xem xét Dòng Thời gian của bạn. Điểm Thời đại chỉ ra nền văn minh của bạn đang phát triển như thế nào trong Thời đại hiện tại.</Text>
-	</Replace>
-	<Replace Language='en_US' Tag="LOC_TUTORIAL_XP1_INTRO_ERAS_DETAILS_1">
-		<Text>Những Khoảnh khắc Lịch sử sẽ ghi lại những khoảnh khắc quan trọng trong trò chơi. Có những Khoảnh khắc Lịch sử cho mỗi Thời đại trong trò chơi cả các sự kiện như phá hủy trại của người Man di, bố trí các thành phố mới, khám phá các lục địa mới, tạo Đơn vị quân đặt biệt đầu tiên, hoặc đi vòng quanh thế giới.</Text>
-	</Replace>
-	<Replace Language='en_US' Tag="LOC_TUTORIAL_XP1_INTRO_AGES">
-		<Text>Track how your Era Score is progressing to avoid a Dark Age or earn a Golden Age for your next game era. If you fill the blue meter, you will avoid a Dark Age. If you fill the gold meter, you'll earn a Golden Age. Golden and Dark Ages give you bonuses and can affect the Loyalty of your cities' citizens.Theo dõi Điểm Thời đại của bạn đang tiến triển như thế nào để tránh Thời Đen tối hoặc giành được Thời Vàng son cho thời đại tiếp theo của bạn trong trò chơi. Nếu thước đo màu xanh đầy, bạn sẽ bị Thời Đen tối. Nếu thước đo màu vàng, bạn sẽ được Thời Vàng son. Thời Vàng son và Thời Đen tối cho bạn những khoản điểm thưởng và có thể ảnh hưởng đến Lòng Trung thành của công dân trong thành phố của bạn.</Text>
-	</Replace>
-	<Replace Language='en_US' Tag="LOC_TUTORIAL_XP1_INTRO_AGES_DETAILS">
-		<Text>{LOC_TUTORIAL_XP1_INTRO_AGES_DETAILS_2}[NEWLINE][NEWLINE]{LOC_TUTORIAL_XP1_INTRO_AGES_DETAILS_3}</Text>
-	</Replace>
-	<Replace Language='en_US' Tag="LOC_TUTORIAL_XP1_INTRO_AGES_DETAILS_1">
-		<Text>Theo dõi Điểm Thời đại của bạn đang tiến triển như thế nào để tránh Thời Đen tối hoặc giành được Thời Vàng son cho thời đại tiếp theo của bạn trong trò chơi. Nếu thước đo màu xanh đầy, bạn sẽ bị Thời Đen tối. Nếu thước đo màu vàng, bạn sẽ được Thời Vàng son. Thời Vàng son và Thời Đen tối cho bạn những khoản điểm thưởng và có thể ảnh hưởng đến Lòng Trung thành của công dân trong thành phố của bạn.</Text>
-	</Replace>
-	<Replace Language='en_US' Tag="LOC_TUTORIAL_XP1_INTRO_AGES_DETAILS_2">
-		<Text>Thời Đen tối là giai đoạn khó khăn cho người dân của bạn. Lòng Trung thành giảm có thể dẫn đến các thành phố trong nền văn minh của bạn trở thành các thành phố độc lập, hoặc bị xâm chiếm bởi những người chơi khác và hòa nhập vào nền văn minh của họ. Đừng lo lắng hoặc quá bực bội nếu bạn rơi vào Thời Đen tối vì bạn có cơ hội đạt được Thời Anh hùng. Ngưỡng đi vào Thời Vàng son của bạn sẽ thấp hơn nếu bạn đang ở Thời Đen tối, và nếu vượt qua ngưỡng Thời Vàng son đó, bạn sẽ bước vào giai đoạn Thời Anh hùng. Bạn có thể tiếp cận các Chính sách Xã hội đặc biệt mạnh mẽ.</Text>
-	</Replace>
-	<Replace Language='en_US' Tag="LOC_TUTORIAL_XP1_INTRO_AGES_DETAILS_3">
-		<Text>Thời Vàng son là thời kỳ thịnh vượng nhất của người dân. Không chỉ các thành phố của bạn có nhiều khả năng tồn tại trong nền văn minh của bạn, bạn thậm chí có thể chuyển đổi các thành phố lân cận vào nền văn minh của bạn nữa.</Text>
-	</Replace>
-	<Replace Language='en_US' Tag="LOC_TUTORIAL_XP1_INTRO_LOYALTY">
-		<Text>Lòng Trung thành là thước đo sự tận tụy các [ICON_Citizen] Công dân của bạn trong nền Văn minh. Nếu Lòng Trung thành giảm về 0, thành phố sẽ nổi loạn và trở thành một Thành phố Tự do, mở của cho việc sử dụng quân đội hoặc gây áp lực Lòng Trung thành.</Text>
-	</Replace>
-	<Replace Language='en_US' Tag="LOC_TUTORIAL_XP1_INTRO_LOYALTY_DETAILS">
-		<Text>{LOC_TUTORIAL_XP1_INTRO_LOYALTY_DETAIL_1}[NEWLINE][NEWLINE]{LOC_TUTORIAL_XP1_INTRO_LOYALTY_DETAIL_2}</Text>
-	</Replace>
-	<Replace Language='en_US' Tag="LOC_TUTORIAL_XP1_INTRO_LOYALTY_DETAIL_1">
-		<Text>Có nhiều yếu tố ảnh hưởng đến Lòng Trung thành của một thành phố. Các Thống đốc, Thời Vàng son hay Thời Đen tối, và áp lực Lòng Trung thành từ các thành phố lân cận là các yếu tố lớn nhất, nhưng Lòng Trung thành cũng có thể bị ảnh hưởng bởi lựa chọn của bạn về các chính sách xã hội, hoạt động gián điệp, và sự hiện diện của các đơn vị quân đội.</Text>
-	</Replace>
-	<Replace Language='en_US' Tag="LOC_TUTORIAL_XP1_INTRO_LOYALTY_DETAIL_2">
-		<Text>Nếu bạn có thể giữ Lòng Trung thành của thành phố đó cao hơn các nền văn minh lân cận, bạn có thể rút nó ra khỏi những thành phố của đối thủ, và đưa vào nền văn minh của bạn.</Text>
-	</Replace>
-	<Replace Language='en_US' Tag="LOC_TUTORIAL_XP1_INTRO_GOVERNORS">
-		<Text>[ICON_Governor] Các Thống đốc có thể ổn định Lòng Trung thành của thành phố. [ICON_Governor] Thống đốc cũng có những khả năng đặc biệt để mở khóa thông qua các ô. Đây là những lợi thế đặc biệt trong thành phố nơi [ICON_Governor] Thống đốc được chỉ định.</Text>
-	</Replace>
-	<Replace Language='en_US' Tag="LOC_TUTORIAL_XP1_INTRO_GOVERNORS_DETAILS">
-		<Text>{LOC_TUTORIAL_XP1_INTRO_GOVERNORS_DETAILS_1}[NEWLINE][NEWLINE]{LOC_TUTORIAL_XP1_INTRO_GOVERNORS_DETAILS_2}</Text>
-	</Replace>
-	<Replace Language='en_US' Tag="LOC_TUTORIAL_XP1_INTRO_GOVERNORS_DETAILS_1">
-		<Text>Một [ICON_Governor] Thống đốc có thể làm nhiều điều hơn là gia tăng Lòng Trung thành của một thành phố! Mỗi [ICON_Governor] Thống đốc đều có khả năng đặc biệt, cho phép thành phố mà họ được giao có khả năng mua các Quận bằng Vàng, ngăn chặn thành phố bị vây hãm, hoặc sức mạnh đặc biệt để cải thiện một vùng ở đó.</Text>
-	</Replace>
-	<Replace Language='en_US' Tag="LOC_TUTORIAL_XP1_INTRO_GOVERNORS_DETAILS_2">
-		<Text>Mỗi lần bạn nhận được một Ô Thống đốc, bạn sẽ phải lựa chọn giữa việc thăng cấp một trong những thống đốc hiện tại của mình, hoặc tuyển dụng một [ICON_Governor] Thống đốc mới. Hãy chắc chắn bạn suy nghĩ trước về cách sử dụng [ICON_Governor] Thống đốc của bạn trong trò chơi, và đừng ngại tái chỉ định các [ICON_Governor] Thống đốc tới các thành phố mới!</Text>
-	</Replace>
-	<Replace Language='en_US' Tag="LOC_TUTORIAL_XP1_INTRO_ALLIANCES">
-		<Text>Các liên minh hiện nay đã có mục đích riêng, và mỗi loại cung cấp một lợi thế khác biệt. Theo thời gian, bạn có thể nâng cấp Liên minh để mang lại những lợi ích cao hơn.</Text>
-	</Replace>
-	<Replace Language='en_US' Tag="LOC_TUTORIAL_XP1_INTRO_EMERGENCIES">
-		<Text>Các nền Văn minh có thể kết hợp lại với nhau và tuyên bố Khẩn cấp khi các sự kiện quan trọng xảy ra trong trò chơi, chẳng hạn như một cuộc Tấn công Hạt nhân. Khẩn cấp được tuyên bố bởi các nền văn minh khác chống lại người chơi vi phạm. Có phần thưởng cho bất kỳ bên nào giành chiến thắng trong trường hợp Khẩn cấp.</Text>
-	</Replace>
-	<Replace Language='en_US' Tag="LOC_TUTORIAL_XP1_INTRO_EMERGENCIES_DETAILS_1">
-		<Text>Các Liên minh tập trung vào một khía cạnh đặc biệt của nền văn minh của bạn, như Khoa học, Văn hoá, Đức tin, hay Thương mại. Mỗi Liên minh bắt đầu từ Cấp 1, và có thể được cải thiện đến Cấp 3. Bạn chỉ có thể có một loại Liên minh tại một thời điểm với một nền văn minh khác.</Text>
-	</Replace>
-	<Replace Language='en_US' Tag="LOC_TUTORIAL_XP1_INTRO_EMERGENCIES_DETAILS_2">
-		<Text>Liên minh Cấp 3 rất mạnh. Ví dụ: Liên minh Văn hoá Cấp 3 cung cấp cho bạn một phần Du lịch và Văn hoá mà đồng minh của bạn đang có, và Liên minh Kinh tế Cấp 3 cho phép các đồng minh chia sẻ bất kỳ khoản thưởng Bá chủ nào mà họ sở hữu.</Text>
-	</Replace>
-	<Replace Language='en_US' Tag="LOC_TUTORIAL_XP1_INTRO_EMERGENCIES_DETAILS">
-		<Text>{LOC_TUTORIAL_XP1_INTRO_EMERGENCIES_DETAILS_1}[NEWLINE][NEWLINE]{LOC_TUTORIAL_XP1_INTRO_EMERGENCIES_DETAILS_2}</Text>
-	</Replace>
-	<Replace Language='en_US' Tag="LOC_TUTORIAL_XP1_INTRO_CITYBANNER">
-		<Text>Biểu ngữ Thành phố được cập nhật để cung cấp sự rõ ràng và dễ dàng truy cập vào các thông tin quan trọng. Nhấp vào biểu tượng nền văn minh của bạn để xem thêm thông tin về Lòng Trung thành, hoặc chân dung Thống đốc để quản lý các [ICON_Governor] Thống đốc của bạn.</Text>
-	</Replace>
-	<Replace Language='en_US' Tag="LOC_TUTORIAL_XP1_INTRO_END">
-		<Text>Nền văn minh của bạn sẽ trỗi dậy hay sụp đổ? Bạn sẽ cai trị nền văn minh trong Sid Meier's Civilization VI như thế nào?</Text>
-	</Replace>
-	<Replace Language='en_US' Tag="LOC_TUTORIAL_XP1_INTRO_END_DETAILS_1">
-		<Text>Bạn luôn luôn có thể xem lại thông tin này bằng cách hỏi ý kiến cố vấn, kiểm tra Civilopedia, hoặc mở lại hướng dẫn trong Bảng Tùy Chọn của trò chơi.</Text>
-	</Replace>
+		<Replace Language='en_US' Tag="LOC_TUTORIAL_LOYALTY_PRESSURE">
+			<Text>Bố trí một thành phố mới giúp mở rộng nền văn minh của chúng ta! Với một đế chế lớn hơn một thành phố, điều quan trọng là phải để mắt tới Lòng Trung thành của công dân chúng ta. Nếu Lòng Trung thành giảm, thành phố không có lợi ích gì. Nếu Lòng Trung thành giảm xuống 0, thành phố sẽ tuyên bố độc lập và trở thành một Thành phố Tự do. Điều tương tự này có thể xảy ra với các nền văn minh khác, vì vậy hãy để mắt tới cơ hội gây bất ổn cho người khác và thậm chí có thể giành lấy Thành phố Tự do vào đế chế của bạn![NEWLINE][NEWLINE]Lòng Trung thành chủ yếu bị ảnh hưởng bởi số lượng và quốc tịch của công dân ở trong và ở gần thành phố. Có rất nhiều dân cư của riêng bạn trong vòng 9 ô sẽ cải thiện Lòng Trung thành của bạn ở mỗi lượt. Các dân cư thuộc các nền văn minh khác trong phạm vi 9 ô sẽ làm giảm nó. Các thành phố ở gần nhau, thì hiệu quả càng lớn. Hơn nữa, hiệu quả này được củng cố mạnh mẽ cho nền văn minh trong Thời Vàng son, và yếu dần trong Thời Đen tối.[NEWLINE][NEWLINE]Chỉ định một Thống đốc cho một thành phố, và đảm bảo rằng ở đó có đủ Tiện Nghi, là những cách để đảm bảo Lòng Trung thành các thành phố của bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ADVISOR_CITYPANEL_LOYALTY_INTRO">
+			<Text>CẢI THIỆN LÒNG TRUNG THÀNH:</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ADVISOR_CITYPANEL_MARTIAL_LAW">
+			<Text>[NEWLINE][NEWLINE]Giữ một đơn vị quân đội ở đây, để chống lại hình phạt Chiếm đóng</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ADVISOR_CITYPANEL_GOVERNOR">
+			<Text>[NEWLINE][NEWLINE]Chỉ định một [ICON_Governor] Thống đốc ở đây</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ADVISOR_CITYPANEL_AMBASSADOR">
+			<Text>[NEWLINE][NEWLINE]Chỉ định một [ICON_Governor] Thống đốc đã thăng cấp Ngoại giao cho một thành phố trong vòng 9 ô</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ADVISOR_CITYPANEL_DARK_AGE">
+			<Text>[NEWLINE][NEWLINE]Tránh xa Thời Đen tối trong thời đại tiếp theo của trò chơi, để cho các [ICON_Citizen] Công dân nhận thêm Lòng Trung thành</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ADVISOR_CITYPANEL_GOLDEN_AGE">
+			<Text>[NEWLINE][NEWLINE]Giành được Thời Vàng son trong thời đại tiếp theo của trò chơi, làm cho các [ICON_Citizen] Công dân của bạn thêm nhiều Lòng trung thành hơn</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ADVISOR_CITYPANEL_CITY_PLACEMENT">
+			<Text>[NEWLINE][NEWLINE]Tối đa các thành phố của bạn và các [ICON_Citizen] Công dân trong vòng 9 ô, giảm tối đa các thành phố nước ngoài và các [ICON_Citizen] Công dân như vậy trong vòng 9 ô</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ADVISOR_CITYPANEL_CITY_HAPPINESS">
+			<Text>[NEWLINE][NEWLINE]Làm cho người dân của bạn hạnh phúc hơn bằng cách tăng [ICON_Amenities] Tiện nghi trong thành phố này</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ADVISOR_CITYPANEL_CITY_STARVATION">
+			<Text>[NEWLINE][NEWLINE]Cung cấp thêm [ICON_Food] để ngăn người dân của bạn khỏi bị đói</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ADVISOR_CITYPANEL_BREAD_AND_CIRCUSES">
+			<Text>[NEWLINE][NEWLINE]Có một thành phố gần đó thực hiện dự án Bánh mì và Rạp xiếc</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ADVISOR_CITYPANEL_RELIGIOUS_FOLLOWERS">
+			<Text>[NEWLINE][NEWLINE]Có [ICON_Citizen] Công dân thành phố theo tôn giáo của bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ADVISOR_CITYPANEL_CULTURAL_ALLIANCE">
+			<Text>[NEWLINE][NEWLINE]Hình thành một Liên minh Văn hoá với một láng giềng để ngăn chặn [ICON_Citizen] Công dân của họ gây ảnh hưởng tiêu cực</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="ADVISOR_LINE_LISTENER_81">
+			<Text>Mặc dù người của chúng ta khá giỏi, chúng ta luôn có thể hưởng lợi bằng cách học hỏi từ người khác. Có lẽ chúng ta nên xem xét việc bắt đầu một Liên minh nghiên cứu với một trong những người hàng xóm của chúng ta.</Text>
+		</Replace>
+		<!-- Super Advisor Lines -->
+		<Replace Language='en_US' Tag="LOC_TUTORIAL_XP1_INTRO_WELCOME">
+			<Text>Chào mừng đến với Civilization VI: Trỗi dậy và Sụp đổ! Hướng dẫn này sẽ giới thiệu cho bạn các tính năng mới trong bản mở rộng này. Thông tin bổ sung có thể được tìm thấy trong Civilopedia và Cố vấn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TUTORIAL_XP1_INTRO_ERAS">
+			<Text>Giành được những Khoảnh khắc Lịch sử bằng cách hoàn thành những kỳ tích trong trò chơi. Mỗi Khoảnh khắc sẽ cho bạn một lượng Điểm Thời đại, và được dùng để xem xét Dòng Thời gian của bạn. Điểm Thời đại chỉ ra nền văn minh của bạn đang phát triển như thế nào trong Thời đại hiện tại.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TUTORIAL_XP1_INTRO_ERAS_DETAILS_1">
+			<Text>Những Khoảnh khắc Lịch sử sẽ ghi lại những khoảnh khắc quan trọng trong trò chơi. Có những Khoảnh khắc Lịch sử cho mỗi Thời đại trong trò chơi cả các sự kiện như phá hủy trại của người Man di, bố trí các thành phố mới, khám phá các lục địa mới, tạo Đơn vị quân đặt biệt đầu tiên, hoặc đi vòng quanh thế giới.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TUTORIAL_XP1_INTRO_AGES">
+			<Text>Track how your Era Score is progressing to avoid a Dark Age or earn a Golden Age for your next game era. If you fill the blue meter, you will avoid a Dark Age. If you fill the gold meter, you'll earn a Golden Age. Golden and Dark Ages give you bonuses and can affect the Loyalty of your cities' citizens.Theo dõi Điểm Thời đại của bạn đang tiến triển như thế nào để tránh Thời Đen tối hoặc giành được Thời Vàng son cho thời đại tiếp theo của bạn trong trò chơi. Nếu thước đo màu xanh đầy, bạn sẽ bị Thời Đen tối. Nếu thước đo màu vàng, bạn sẽ được Thời Vàng son. Thời Vàng son và Thời Đen tối cho bạn những khoản điểm thưởng và có thể ảnh hưởng đến Lòng Trung thành của công dân trong thành phố của bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TUTORIAL_XP1_INTRO_AGES_DETAILS">
+			<Text>{LOC_TUTORIAL_XP1_INTRO_AGES_DETAILS_2}[NEWLINE][NEWLINE]{LOC_TUTORIAL_XP1_INTRO_AGES_DETAILS_3}</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TUTORIAL_XP1_INTRO_AGES_DETAILS_1">
+			<Text>Theo dõi Điểm Thời đại của bạn đang tiến triển như thế nào để tránh Thời Đen tối hoặc giành được Thời Vàng son cho thời đại tiếp theo của bạn trong trò chơi. Nếu thước đo màu xanh đầy, bạn sẽ bị Thời Đen tối. Nếu thước đo màu vàng, bạn sẽ được Thời Vàng son. Thời Vàng son và Thời Đen tối cho bạn những khoản điểm thưởng và có thể ảnh hưởng đến Lòng Trung thành của công dân trong thành phố của bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TUTORIAL_XP1_INTRO_AGES_DETAILS_2">
+			<Text>Thời Đen tối là giai đoạn khó khăn cho người dân của bạn. Lòng Trung thành giảm có thể dẫn đến các thành phố trong nền văn minh của bạn trở thành các thành phố độc lập, hoặc bị xâm chiếm bởi những người chơi khác và hòa nhập vào nền văn minh của họ. Đừng lo lắng hoặc quá bực bội nếu bạn rơi vào Thời Đen tối vì bạn có cơ hội đạt được Thời Anh hùng. Ngưỡng đi vào Thời Vàng son của bạn sẽ thấp hơn nếu bạn đang ở Thời Đen tối, và nếu vượt qua ngưỡng Thời Vàng son đó, bạn sẽ bước vào giai đoạn Thời Anh hùng. Bạn có thể tiếp cận các Chính sách Xã hội đặc biệt mạnh mẽ.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TUTORIAL_XP1_INTRO_AGES_DETAILS_3">
+			<Text>Thời Vàng son là thời kỳ thịnh vượng nhất của người dân. Không chỉ các thành phố của bạn có nhiều khả năng tồn tại trong nền văn minh của bạn, bạn thậm chí có thể chuyển đổi các thành phố lân cận vào nền văn minh của bạn nữa.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TUTORIAL_XP1_INTRO_LOYALTY">
+			<Text>Lòng Trung thành là thước đo sự tận tụy các [ICON_Citizen] Công dân của bạn trong nền Văn minh. Nếu Lòng Trung thành giảm về 0, thành phố sẽ nổi loạn và trở thành một Thành phố Tự do, mở của cho việc sử dụng quân đội hoặc gây áp lực Lòng Trung thành.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TUTORIAL_XP1_INTRO_LOYALTY_DETAILS">
+			<Text>{LOC_TUTORIAL_XP1_INTRO_LOYALTY_DETAIL_1}[NEWLINE][NEWLINE]{LOC_TUTORIAL_XP1_INTRO_LOYALTY_DETAIL_2}</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TUTORIAL_XP1_INTRO_LOYALTY_DETAIL_1">
+			<Text>Có nhiều yếu tố ảnh hưởng đến Lòng Trung thành của một thành phố. Các Thống đốc, Thời Vàng son hay Thời Đen tối, và áp lực Lòng Trung thành từ các thành phố lân cận là các yếu tố lớn nhất, nhưng Lòng Trung thành cũng có thể bị ảnh hưởng bởi lựa chọn của bạn về các chính sách xã hội, hoạt động gián điệp, và sự hiện diện của các đơn vị quân đội.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TUTORIAL_XP1_INTRO_LOYALTY_DETAIL_2">
+			<Text>Nếu bạn có thể giữ Lòng Trung thành của thành phố đó cao hơn các nền văn minh lân cận, bạn có thể rút nó ra khỏi những thành phố của đối thủ, và đưa vào nền văn minh của bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TUTORIAL_XP1_INTRO_GOVERNORS">
+			<Text>[ICON_Governor] Các Thống đốc có thể ổn định Lòng Trung thành của thành phố. [ICON_Governor] Thống đốc cũng có những khả năng đặc biệt để mở khóa thông qua các ô. Đây là những lợi thế đặc biệt trong thành phố nơi [ICON_Governor] Thống đốc được chỉ định.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TUTORIAL_XP1_INTRO_GOVERNORS_DETAILS">
+			<Text>{LOC_TUTORIAL_XP1_INTRO_GOVERNORS_DETAILS_1}[NEWLINE][NEWLINE]{LOC_TUTORIAL_XP1_INTRO_GOVERNORS_DETAILS_2}</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TUTORIAL_XP1_INTRO_GOVERNORS_DETAILS_1">
+			<Text>Một [ICON_Governor] Thống đốc có thể làm nhiều điều hơn là gia tăng Lòng Trung thành của một thành phố! Mỗi [ICON_Governor] Thống đốc đều có khả năng đặc biệt, cho phép thành phố mà họ được giao có khả năng mua các Quận bằng Vàng, ngăn chặn thành phố bị vây hãm, hoặc sức mạnh đặc biệt để cải thiện một vùng ở đó.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TUTORIAL_XP1_INTRO_GOVERNORS_DETAILS_2">
+			<Text>Mỗi lần bạn nhận được một Ô Thống đốc, bạn sẽ phải lựa chọn giữa việc thăng cấp một trong những thống đốc hiện tại của mình, hoặc tuyển dụng một [ICON_Governor] Thống đốc mới. Hãy chắc chắn bạn suy nghĩ trước về cách sử dụng [ICON_Governor] Thống đốc của bạn trong trò chơi, và đừng ngại tái chỉ định các [ICON_Governor] Thống đốc tới các thành phố mới!</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TUTORIAL_XP1_INTRO_ALLIANCES">
+			<Text>Các liên minh hiện nay đã có mục đích riêng, và mỗi loại cung cấp một lợi thế khác biệt. Theo thời gian, bạn có thể nâng cấp Liên minh để mang lại những lợi ích cao hơn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TUTORIAL_XP1_INTRO_EMERGENCIES">
+			<Text>Các nền Văn minh có thể kết hợp lại với nhau và tuyên bố Khẩn cấp khi các sự kiện quan trọng xảy ra trong trò chơi, chẳng hạn như một cuộc Tấn công Hạt nhân. Khẩn cấp được tuyên bố bởi các nền văn minh khác chống lại người chơi vi phạm. Có phần thưởng cho bất kỳ bên nào giành chiến thắng trong trường hợp Khẩn cấp.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TUTORIAL_XP1_INTRO_EMERGENCIES_DETAILS_1">
+			<Text>Các Liên minh tập trung vào một khía cạnh đặc biệt của nền văn minh của bạn, như Khoa học, Văn hoá, Đức tin, hay Thương mại. Mỗi Liên minh bắt đầu từ Cấp 1, và có thể được cải thiện đến Cấp 3. Bạn chỉ có thể có một loại Liên minh tại một thời điểm với một nền văn minh khác.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TUTORIAL_XP1_INTRO_EMERGENCIES_DETAILS_2">
+			<Text>Liên minh Cấp 3 rất mạnh. Ví dụ: Liên minh Văn hoá Cấp 3 cung cấp cho bạn một phần Du lịch và Văn hoá mà đồng minh của bạn đang có, và Liên minh Kinh tế Cấp 3 cho phép các đồng minh chia sẻ bất kỳ khoản thưởng Bá chủ nào mà họ sở hữu.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TUTORIAL_XP1_INTRO_EMERGENCIES_DETAILS">
+			<Text>{LOC_TUTORIAL_XP1_INTRO_EMERGENCIES_DETAILS_1}[NEWLINE][NEWLINE]{LOC_TUTORIAL_XP1_INTRO_EMERGENCIES_DETAILS_2}</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TUTORIAL_XP1_INTRO_CITYBANNER">
+			<Text>Biểu ngữ Thành phố được cập nhật để cung cấp sự rõ ràng và dễ dàng truy cập vào các thông tin quan trọng. Nhấp vào biểu tượng nền văn minh của bạn để xem thêm thông tin về Lòng Trung thành, hoặc chân dung Thống đốc để quản lý các [ICON_Governor] Thống đốc của bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TUTORIAL_XP1_INTRO_END">
+			<Text>Nền văn minh của bạn sẽ trỗi dậy hay sụp đổ? Bạn sẽ cai trị nền văn minh trong Sid Meier's Civilization VI như thế nào?</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_TUTORIAL_XP1_INTRO_END_DETAILS_1">
+			<Text>Bạn luôn luôn có thể xem lại thông tin này bằng cách hỏi ý kiến cố vấn, kiểm tra Civilopedia, hoặc mở lại hướng dẫn trong Bảng Tùy Chọn của trò chơi.</Text>
+		</Replace>
 	</LocalizedText>
 </GameData>

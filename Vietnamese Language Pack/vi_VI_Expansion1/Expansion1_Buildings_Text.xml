@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
 <GameData>
 	<LocalizedText>
 		<!-- Government Buildings -->
@@ -10,7 +9,7 @@
 			<Text>Phòng Truyền thống</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_BUILDING_GOV_CONQUEST_NAME">
-			<Text>Ngai vàng Thủ lãnh</Text>
+			<Text>Ngai vàng Thủ lĩnh</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_BUILDING_GOV_FAITH_NAME">
 			<Text>Ngà nguyện Hoàng gia</Text>
@@ -41,6 +40,9 @@
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_BUILDING_GOV_CITYSTATES_DESCRIPTION">
 			<Text>Tác động của Thành phố Tự trị giảm một nửa [ICON_Gold] Vàng.[NEWLINE].Đơn vị thừa hưởng +4 [ICON_Strength] Sức Chiến đấu.[NEWLINE]Thưởng +1[Icon_Governor] Ô Thống đốc.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="GOV_CITYSTATES_LEVIED_COMBAT_STRENGTH_DESCRIPTION">
+			<Text>+4 từ Bộ Ngoại giao</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="GOV_CITYSTATES_COMBAT_STRENGTH_DESCRIPTION">
 			<Text>+4 từ Bộ Ngoại giao</Text>
@@ -78,6 +80,18 @@
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_BUILDING_AQUATICS_CENTER_DESCRIPTION">
 			<Text>Thưởng thêm Tiện nghi cho mỗi thành phố trung tâm trong vòng 9 ô. Điểm thưởng này được áp dụng chỉ một lần cho một thành phố, các bản sao của thành phố này trong vòng 9 ô không cung cấp thêm điểm thưởng. +2 [ICON_Tourism] Du lịch cho mỗi Kỳ quan được xây dựng trong thành phố này hoặc xây gần Bờ biển.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_ARENA_EXPANSION1_DESCRIPTION">
+			<Text>Cung cấp 1 [ICON_TOURISM] Du lịch sau khi tiến tới Khu bảo tồn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_TLACHTLI_EXPANSION1_DESCRIPTION">
+			<Text>Cung cấp 1 [ICON_TOURISM] Du lịch sau khi tiến tới Khu bảo tồn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_ZOO_EXPANSION1_DESCRIPTION">
+			<Text>Phần thưởng [ICON_Amologists] Tiện ích mở rộng đến từng trung tâm thành phố trong vòng 6 ô. Phần thưởng này áp dụng một lần cho một thành phố và nhiều bản sao của tòa nhà này trong 6 ô của trung tâm thành phố không cung cấp phần thưởng bổ sung. +1 [ICON_SCIENCE] Khoa học cho từng khu rừng nhiệt đới và đầm lầy trong thành phố này.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_BUILDING_STADIUM_EXPANSION1_DESCRIPTION">
+			<Text>Phần thưởng [ICON_Amword] Các tiện ích mở rộng đến từng trung tâm thành phố trong vòng 6 ô. Phần thưởng này áp dụng một lần cho một thành phố và nhiều bản sao của tòa nhà này trong 6 ô của trung tâm thành phố không cung cấp phần thưởng bổ sung. +2 [ICON_Tourism] Du lịch nếu dân số thành phố [ICON_CITIZEN] từ 10 trở lên và +5 [ICON_Tourism] Du lịch nếu dân số thành phố [ICON_CITIZEN] là 20 hoặc cao hơn.</Text>
 		</Replace>
 		<!-- Neighborhood Buildings -->
 		<Replace Language='en_US' Tag="LOC_BUILDING_FOOD_MARKET_NAME">

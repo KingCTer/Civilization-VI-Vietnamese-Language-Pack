@@ -1,4 +1,4 @@
-<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<?xml version="1.0" encoding="utf-8"?>
 <GameData>
 	<LocalizedText>
 		<!-- Policy Names -->
@@ -155,6 +155,24 @@
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_POLICY_RAID_EXPANSION1_DESCRIPTION">
 			<Text>Lợi nhuận thu được từ cướp bóc và đột kích ven biển tăng gấp đôi.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_RAID_EXPANSION1_ALT_DESCRIPTION">
+			<Text>Sản lượng thu được từ việc cướp bóc và đột kích ven biển là +50%.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_MILITARY_RESEARCH_EXPANSION1_DESCRIPTION">
+			<Text>Học viện quân sự, cảng biển và tường Phục hưng tạo ra Khoa học +2 [ICON_Science].</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_PUBLIC_TRANSPORT_EXPANSION1_DESCRIPTION">
+			<Text>Nhận 100 [ICON_Gold] Vàng mỗi lần kháng cáo khi thay thế Trang trại bằng khu vực lân cận.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_ECOMMERCE_EXPANSION1_DESCRIPTION">
+			<Text>+2 [ICON_ sản xuất] Sản xuất và +5 [ICON_Gold] Vàng từ tất cả các [ICON_TradeRoute] Tuyến giao dịch.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_TOTAL_WAR_EXPANSION1_DESCRIPTION">
+			<Text>Sản lượng thu được từ các cuộc tấn công cướp bóc và ven biển là +100%. +50% phần thưởng từ việc cướp bóc [ICON_TradeRoute] Các tuyến giao dịch.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_POLICY_TOTAL_WAR_EXPANSION1_ALT_DESCRIPTION">
+			<Text>Sản lượng thu được từ việc cướp bóc, đột kích ven biển và cướp bóc [ICON_TradeRoute] Các tuyến giao dịch là +50%.</Text>
 		</Replace>
 		<!-- Updated from base game -->
 		<Replace Language='en_US' Tag="LOC_CIVIC_MOBILIZATION_DESCRIPTION">

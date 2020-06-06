@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
 <GameData>
 	<LocalizedText>
 		<Replace Language='en_US' Tag="LOC_HUD_CITY_RELIGION_TT">
@@ -8,17 +7,20 @@
 		<Replace Language='en_US' Tag="LOC_CITY_BELONGS_TT">
 			<Text>Thuộc về {1_CivName}</Text>
 		</Replace>
+    <Replace Language='en_US' Tag="LOC_CITY_BELONGS_FREECITY_TT">
+      <Text>Thuộc về một thành phố tự do</Text>
+    </Replace>
 		<Replace Language='en_US' Tag="LOC_CITY_BANNER_TT">
 			<Text>{1_CityName} ({2_CivName})</Text>
 		</Replace>
-		
+
 		<Replace Language='en_US' Tag="LOC_HUD_CITY_GOVERNOR_NO_ID">
 			<Text>Thông tin của chúng tôi cho biết có một [ICON_Governor] Thống đốc đang ở trong thành phố này, nhưng không thể xác định ai hay họ đã thiết lập người đó</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_HUD_CITY_GOVERNOR_NO_TURNS">
 			<Text>Thông tin của chúng tôi cho biết có [ICON_Governor] {1_GovernorName} đang ở trong thành phố này, nhưng không thể xác định nhóm nào đã thiết lập người đó</Text>
 		</Replace>
-		
+
 		<Replace Language='en_US' Tag="LOC_CITY_BANNER_ACTIVE_TRADING">
 			<Text>Bạn sở hữu một Trạm thông Thương ở đây</Text>
 		</Replace>
