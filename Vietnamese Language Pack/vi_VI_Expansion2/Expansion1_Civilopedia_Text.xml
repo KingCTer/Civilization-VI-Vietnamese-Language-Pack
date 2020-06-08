@@ -3,32 +3,32 @@
 	<LocalizedText>
 		<!-- Sections -->
 		<Replace Language='en_US' Tag="LOC_PEDIA_CIVILIZATIONS_LEADERS_TITLE">
-			<Text>Civilizations/Leaders</Text>
+			<Text>Nền Văn Minh/Lãnh Đạo</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_PEDIA_GOVERNORS_TITLE">
-			<Text>Governors</Text>
+			<Text>Thống Đốc</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_PEDIA_MOMENTS_TITLE">
-			<Text>Historic Moments</Text>
+			<Text>Khoảnh khắc lịch sử</Text>
 		</Replace>
 		<!-- Page Groups -->
 		<Replace Language='en_US' Tag="LOC_PEDIA_PAGEGROUP_CIVILIZATIONS_NAME">
-			<Text>Civilizations</Text>
+			<Text>Nền Văn Minh</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_PEDIA_PAGEGROUP_LEADERS_NAME">
-			<Text>Leaders</Text>
+			<Text>Lãnh Đạo</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_PEDIA_GOVERNORS_PAGEGROUP_GOVERNORS_NAME">
-			<Text>Governors</Text>
+			<Text>Thống Đốc</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_PEDIA_GOVERNORS_PAGEGROUP_PROMOTIONS_NAME">
 			<Text>{1_GovernorShortTitle} Titles</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_PEDIA_MOMENTS_PAGEGROUP_MAJOR_NAME">
-			<Text>Major Moments</Text>
+			<Text>Khoảnh khắc chính</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_PEDIA_MOMENTS_PAGEGROUP_MINOR_NAME">
-			<Text>Minor Moments</Text>
+			<Text>Khoảnh khắc nhỏ</Text>
 		</Replace>
 		<!-- Traits -->
 		<Replace Language='en_US' Tag="LOC_UI_PEDIA_TITLES">

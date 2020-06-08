@@ -12,16 +12,16 @@
 			<Text>Sympathizer</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_AGENDA_UNKNOWN_NAME">
-			<Text>Unknown</Text>
+			<Text>Không xác định</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_AGENDA_GOSSIP_DESCRIPTION">
-			<Text>Wants to know everything about everyone through friendship, open borders, delegations and embassies. Does not like civilizations who don't share information.</Text>
+			<Text>Muốn biết mọi thứ về mọi người thông qua tình bạn, biên giới mở, các phái đoàn và đại sứ quán. Không thích những nền văn minh không chia sẻ thông tin.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_AGENDA_SYCOPHANT_DESCRIPTION">
-			<Text>Impressed by any civilization that earns a Golden Age. Dislikes those in Dark Ages.</Text>
+			<Text>Ấn tượng bởi bất kỳ nền văn minh nào đến được Thời Vàng Son. Không thích những người trong thời đại đen tối.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_AGENDA_SYMPATHIZER_DESCRIPTION">
-			<Text>Feels bad for those going through Dark Ages. Dislikes those in Golden Ages.</Text>
+			<Text>Cảm thấy tồi tệ cho những người đi qua thời kỳ đen tối. Không thích những người trong thời vàng son.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_AGENDA_UNKNOWN_DESCRIPTION">
 			<Text>Unknown Agenda.</Text>

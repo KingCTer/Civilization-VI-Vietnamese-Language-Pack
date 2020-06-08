@@ -2,151 +2,151 @@
 <GameData>
 	<LocalizedText>
 		<Replace Language='en_US' Tag="LOC_TUTORIAL_GOVERNOR_INTRO">
-			<Text>As our civic knowledge grows, so do our methods of governance. Furthering this endeavor will allow us to appoint a Governor to strengthen our power in our cities.[NEWLINE][NEWLINE]Governors will greatly improve the Loyalty of the city they are in, and give it bonuses based on what promotions you choose for them. To appoint new Governors - or promote existing ones - we need Governor Titles. Our main source of Governor Titles is to complete particular Civics.</Text>
+			<Text>Khi tri thức công dân của chúng ta phát triển, thì phải thực thi các phương pháp cai trị. Hơn nữa sự nỗ lực này cho phép chúng ta chỉ định một Thống đốc để tăng cường quyền lực trong các thành phố của chúng ta.[NEWLINE][NEWLINE]Các Thống đốc sẽ cải thiện Lòng Trung thành của thành phố mà họ đang ở, và thưởng cho bạn dựa trên những gì bạn chọn khi họ thăng cấp. Chỉ định các Thống đốc mới - hoặc thúc đẩy các khả năng hiện có - chúng ta cần Ô Thống đốc. Nguồn lực chính của Ô Thống đốc là hoàn thành sự kiện trong Công dân.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TUTORIAL_FIRST_GOVERNOR_POINT">
-			<Text>We now have the opportunity to appoint a Governor to our civilization. This Governor will be a powerful and productive asset when assigned to one of our cities. I suggest we choose a candidate as soon as possible.</Text>
+			<Text>Bây giờ chúng ta có cơ hội chỉ định một Thống đốc cho nền văn minh của chúng ta. Thống đốc này có quyền thế và hữu ích khi được chỉ định cho một trong các thành phố của chúng ta. Tôi đề nghị chúng ta nên chọn một ứng cử viên càng sớm càng tốt.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TUTORIAL_SECOND_GOVERNOR_POINT">
-			<Text>Once again we have the opportunity to enhance our powers of governance. We can use it to promote one of our existing Governors, or we can appoint another new Governor to our civilization.</Text>
+			<Text>Một lần nữa chúng ta lại có cơ hội nâng cao năng lực cai trị của mình. Chúng ta có thể sử dụng nó để thăng cấp một trong các Thống đốc hiện tại của chúng ta, hoặc chúng ta có thể chỉ định một Thống đốc mới cho nền văn minh của chúng ta.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TUTORIAL_FIRST_GOVERNOR_ASSIGNMENT">
-			<Text>Our Governor is now on their way to their assigned city. It will take some time for them to become established there. Once established, their talents will come into effect, strengthening our rule there.</Text>
+			<Text>Thống Đốc của chúng ta hiện đang trên đường đến thành phố mà họ được chỉ định. Sẽ mất một thời gian để chỉ định họ ở đó. Một khi được chỉ định, tài năng của họ sẽ có hiệu lực ngay, tăng cường sự cai trị của chúng ta ở đó.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TUTORIAL_CITY_LOSING_LOYALTY">
-			<Text>We are losing loyalty in one of our cities. If this continues, we are in danger of losing control of the city. Sending one of our Governors there will strengthen our rule, and gain the loyalty of the citizens.</Text>
+			<Text>Chúng ta đang đánh mất lòng trung thành ở một trong những thành phố của chúng ta. Nếu vẫn tiếp tục, chúng ta có nguy cơ mất quyền kiểm soát thành phố. Gửi một trong những Thống đốc của chúng ta để tăng cường sự cai trị và giành được sự lòng trung thành của công dân.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TUTORIAL_CITY_LOST_LOYALTY_TO_FOREIGN">
-			<Text>We have completely lost the loyalty of one of our cities, and it has aligned with a foreign power instead. To reclaim it, we must wrest loyalty away from its new owner or bring military force.</Text>
+			<Text>Chúng ta đã hoàn toàn mất đi lòng trung thành một trong những thành phố của chúng ta, và nó đã liên kết với quyền lực ngoại bang để thay thế chúng ta. Để giành lại nó, chúng ta phải giành được lòng trung thành của người chủ mới hoặc dùng quân đội.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TUTORIAL_CITY_LOST_LOYALTY_TO_INDEPENDENT">
-			<Text>We have completely lost the loyalty of one of our cities, and it has declared its independence from us. To reclaim it, we must win back its loyalty or bring military force.</Text>
+			<Text>Chúng ta đã hoàn toàn mất đi lòng trung thành một trong những thành phố của chúng ta, và nó đã tuyên bố sự độc lập của nó tới chúng tôi. Để giành lại nó, chúng ta phải giành lại lòng trung thành của nó hoặc dùng quân đội.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TUTORIAL_CITY_LOST_LOYALTY_TO_INDEPENDENT_THIRD_PARTY">
-			<Text>After a loss in loyalty, a nearby foreign city has declared independence from its former civilization and become a Free City. If we win its loyalty, or bring military force, we could bring it into our own civilization.</Text>
+			<Text>Sau khi mất lòng trung thành, một thành phố nước ngoài gần đó đã tuyên bố độc lập khỏi nền văn minh cũ và trở thành một Thành phố Tự do. Nếu chúng ta giành được lòng trung thành của họ, hoặc dùng quân đội, chúng ta có thể mang nó về nền văn minh của chúng ta.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TUTORIAL_CITY_WON_LOYALTY_FROM_FOREIGN">
-			<Text>A foreign city is no longer loyal to its former owner and has instead pledged its loyalty to us, and has asked to join our great civilization!</Text>
+			<Text>Một thành phố nước ngoài không còn trung thành với người chủ cũ và thay vào đó cam kết trung thành với chúng ta, và nó đã yêu cầu gia nhập nền văn minh vĩ đại của chúng ta!</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TUTORIAL_CITY_WON_LOYALTY_FROM_INDEPENDENT">
-			<Text>An independent city has sworn its loyalty to us and has asked to join our great civilization!</Text>
+			<Text>Một thành phố độc lập đã thề trung thành với chúng ta và yêu cầu gia nhập nền văn minh vĩ đại của chúng ta!</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TUTORIAL_CONQUERED_CITY_LOYALTY">
-			<Text>We have taken a new city into our civilization. In order to keep it, we must maintain the loyalty of its citizens. Sending a Governor here will help to do this.[NEWLINE][NEWLINE]If the occupied city still has Loyalty problems, we can station a military unit in the city to improve Loyalty further. Keep an eye on the Loyalty of our new occupied city, otherwise it may rebel and become a Free City that needs to be retaken.</Text>
+			<Text>Chúng ta đã bắt một thành phố mới vào nền văn minh của chúng ta bằng vũ lực. Để giữ được nó, chúng ta phải duy trì lòng trung thành của công dân. Gửi một Thống đốc ở đây để thực hiện việc này.[NEWLINE][NEWLINE]Nếu thành phố bị chiếm đóng vẫn còn các vấn đề về Lòng trung thành, chúng ta có thể đặt một đơn vị quân đội trong thành phố để cải thiện Lòng Trung thành. Hãy để mắt đến lòng trung thành của thành phố bị chiếm đóng mới của chúng ta, nếu không thì nó có thể nổi dậy và trở thành một Thành phố Tự do khi đó cần phải tái chiếm lại.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TUTORIAL_ALLIANCES_1">
-			<Text>Now that we have friendly relations with a neighbor civilization, it may behoove us to solidify our relationship by making an Alliance.  Not only will this cement our status, but it will provide benefits to both of our civilizations.</Text>
+			<Text>Bây giờ chúng ta đã có mối quan hệ thân thiết với nền văn minh láng giềng, có thể củng cố mối quan hệ giữa chúng ta bằng cách tạo ra một Liên minh. Không chỉ thắt chặt quan hệ giữa chúng ta, mà còn mang lại lợi ích cho cả hai nền văn minh.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TUTORIAL_ALLIANCES_2">
-			<Text>Our Alliances are short-term declarations.  In order to maintain them, we will need to renew our declaration of friendship and propose a new Alliance.  By staying in Alliances, they become more powerful, providing even greater benefits.</Text>
+			<Text>Các Liên minh của chúng ta là các bản tuyên bố ngắn hạn. Để duy trì chúng, chúng ta cần phải tuyên bố làm mới tình hữu nghị và đề xuất một Liên minh mới. Bằng việc ở trong Liên minh, họ trở nên mạnh hơn, mang lại nhiều lợi ích hơn.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TUTORIAL_EMERGENCY_1">
-			<Text>We have the option to join other civilizations against a larger threat, but we must consider carefully.  If we join and succeed, we will be rewarded.  But if we join and fail our mission, the enemy will become stronger.</Text>
+			<Text>Chúng ta có các lựa chọn để tham gia các nền văn minh khác chống lại mối đe dọa lớn hơn, nhưng chúng ta phải xem xét cẩn thận. Nếu chúng ta tham gia và thành công, chúng ta sẽ được đền đáp. Nhưng nếu chúng ta tham gia và thất bại, kẻ địch sẽ trở nên mạnh mẽ hơn.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TUTORIAL_EMERGENCY_2">
-			<Text>We have successfully completed our mission, and have received our rewards.  For now, that should hold back the aggressor, but should they resume such actions, we are now better prepared to stop them.</Text>
+			<Text>Chúng tôi đã hoàn thành nhiệm vụ của mình, và đã nhận được phần thưởng của chúng tôi. Bây giờ, kẻ xâm lược đã bị ngăn chặn, nhưng nếu họ tiếp tục hành động như vậy, chúng ta nên chuẩn bị tốt hơn để ngăn chặn họ.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TUTORIAL_EMERGENCY_3">
-			<Text>We have failed our mission, and next time we are against this enemy, it will be even harder. Perhaps next time, we should consider turning the other way.</Text>
+			<Text>Chúng tôi đã thất bại trong nhiệm vụ của chúng tôi, và lần kế tiếp chúng tôi đang chống lại kẻ địch này, sẽ còn khó khăn hơn nữa. Có lẽ thời gian tới, chúng ta nên xem xét chuyển sang một cách khác.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TUTORIAL_EMERGENCY_4">
-			<Text>Our actions have alarmed the world at large, and other civilizations have joined together to stop us.  We know their objective and must defend ourselves if we wish to remain strong.</Text>
+			<Text>Việc làm của chúng tôi đã báo động cho thế giới nói chung, và các nền văn minh khác đã liên kết lại để ngăn chặn chúng ta. Chúng ta biết mục tiêu của họ là gì và phải tự bảo vệ mình nếu chúng ta muốn duy trì thế mạnh mẽ.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TUTORIAL_EMERGENCY_5">
-			<Text>We have successfully defended ourselves during this time of crisis, and are now stronger for it.  They will think twice before crossing us again!</Text>
+			<Text>Chúng ta đã bảo vệ thành công chính mình trong thời điểm khủng hoảng này, và giờ đây chúng đã mạnh mẽ hơn. Họ sẽ suy nghĩ kỹ trước khi chống lại chúng ta một lần nữa!</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TUTORIAL_EMERGENCY_6">
-			<Text>We have failed to defend ourselves during this time of crisis.  Now, our enemies are empowered and emboldened to defeat us!</Text>
+			<Text>Chúng ta đã thất bại trong việc bảo vệ chính mình trong thời điểm khủng hoảng này. Bây giờ, kẻ địch của chúng ta đã mạnh mẽ hơn và hăng hái để đánh bại chúng ta!</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TUTORIAL_GAME_ERA_CHANGING_SOON">
-			<Text>Civilizations have uncovered new technologies and civics, and soon the world itself will reach the dawn of a new era. Our actions in this era may lead us into a Golden Age for our civilization. Or, perhaps, darker days lie ahead.</Text>
+			<Text>Các nền văn minh đã khám phá ra các công nghệ và công dân mới, và chẳng mấy chốc thế giới của chúng ta sẽ đạt đến một thời đại mới. Hành động của chúng ta trong thời đại này có thể đưa chúng ta vào Thời Vàng son cho nền văn minh của chúng ta. Hoặc, có lẽ, những ngày đen tối đang ở phía trước.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TUTORIAL_GAME_ERA_CHANGED">
-			<Text>History marches forward, and the world has entered a new era. We may see a Golden Age or a Dark Age in our civilization's future, born from the actions of our recent past.</Text>
+			<Text>Lịch sử luôn tiến về phía trước, và thế giới đã bước vào một thời đại mới. Chúng ta có thể nhìn thấy Thời Vàng son hoặc Thời Đen tối trong tương lai nền văn minh của chúng ta, được sinh ra từ những hành động trong quá khứ của chúng ta.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TUTORIAL_ENTER_GOLDEN_AGE">
-			<Text>Great news! Our accomplishments have propelled our civilization into a Golden Age. During this time, our civilization will be stronger and more loyal than ever.</Text>
+			<Text>Tin tốt! Những thành tựu của chúng ta đã thúc đẩy nền văn minh của chúng ta vào Thời Vàng son. Trong thời gian này, nền văn minh của chúng ta sẽ mạnh mẽ hơn và có lòng trung thành cao hơn bao giờ hết.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TUTORIAL_ENTER_DARK_AGE">
-			<Text>We have fallen into a Dark Age. Though our cities will face loyalty challenges, with enough effort, we should be able to rise out of this Dark Age.</Text>
+			<Text>Chúng ta đã rơi vào Thời Đen tối. Mặc dù các thành phố của chúng ta sẽ phải đối mặt với những thách thức về lòng trung thành, với sự nỗ lực, chúng ta sẽ có thể thoát khỏi Thời Đen tối này.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TUTORIAL_OVERCOME_DARK_AGE">
-			<Text>Rejoice! Our Dark Age has ended, and our civilization is on a path towards an even brighter future. Our next Golden Age will be glorious indeed.</Text>
+			<Text>Hân hoan đi! Thời Đen tối của chúng ta đã kết thúc, và nền văn minh của chúng ta đang trên con đường hướng tới tương lai tươi sáng hơn. Thời Vàng son tiếp theo của chúng ta sẽ thật vinh quang.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TUTORIAL_DARK_AGE_TO_DARK_AGE">
-			<Text>Sadly, we have not managed to progress out of this Dark Age. We must strengthen our resolve and rise above this setback if our civilization is to survive in this world.</Text>
+			<Text>Đáng buồn thay, chúng ta đã không thể vượt qua Thời kỳ đen tối này. Chúng ta phải củng cố quyết tâm của mình và vượt lên trên thất bại này nếu nền văn minh của chúng ta tồn tại trong thế giới này.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TUTORIAL_PRIDE_MOMENT_COMMEMORATION">
-			<Text>The time has come to choose which of our accomplishments to commemorate in our history. This will inspire our people to continue to press forward towards a path of your choosing.</Text>
+			<Text>Thời điểm đã đến để lựa chọn những thành tựu để lưu lại trong dòng lịch sử của chúng ta. Điều này sẽ truyền cảm hứng cho người dân của chúng ta tiếp tục hướng tới con đường mà bạn lựa chọn.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TUTORIAL_PRIDE_MOMENT_TRIGGERED">
-			<Text>Our civilization has accomplished something historic, worthy of being celebrated and remembered for generations to come. These accomplishments help our civilization reach a Golden Age - and avoid a Dark Age.[NEWLINE][NEWLINE]Each of these Historic Moments will increase our Era Score. Our Era Score determines which Age we will earn in the next game era, so we should seek out these Historic Moments when possible.</Text>
+			<Text>Nền văn minh của chúng ta đã đạt được một số điều lịch sử, xứng đáng được ăn mừng và tưởng niệm cho nhiều thế hệ. Những thành tựu này giúp nền văn minh của chúng ta đạt được Thời Vàng son - và tránh được Thời Đen tối.[NEWLINE][NEWLINE]Mỗi Thời điểm Lịch sử này sẽ làm tăng Điểm Thời đại của chúng ta. Điểm Thời đại của chúng ta sẽ xác định Thời kỳ chúng ta sẽ có được trong phần chơi tiếp theo, vì vậy chúng ta nên tìm ra các Thời điểm Lịch sử này khi có thể.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TUTORIAL_GOV_DISTRICT_1">
-			<Text>We are now ready to build a national district!  Only one may be built in our empire, so be sure to pick its placement carefully.</Text>
+			<Text>Chúng ta đã sẵn sàng để xây dựng một khu vực quốc gia! Chỉ có thể xây dựng một lần trong đế chế của chúng ta vì vậy hãy lựa chọn vị trí của nó một cách thật cẩn thận.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TUTORIAL_GOV_DISTRICT_1a">
-			<Text>We are now ready to choose where to build our government buildings. We may only zone one of these in our empire, so choose carefully.</Text>
+			<Text>Bây giờ chúng tôi đã sẵn sàng để lựa chọn nơi xây dựng các tòa nhà chính phủ của chúng tôi. Chúng ta chỉ có duy nhất một lần trong đế chế của chúng ta, vì vậy hãy thật cẩn thận.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TUTORIAL_GOV_DISTRICT_2">
-			<Text>Buildings in your new district memorialize your current government at the time of building, granting a policy that complements the government’s effects.</Text>
+			<Text>Các tòa nhà trong quận mới của bạn kỷ niệm tới chính phủ hiện tại của bạn tại thời điểm nó được xây dựng, hãy tạo ra một chính sách bổ sung để ảnh hưởng lên chính phủ.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TUTORIAL_GOV_DISTRICT_2a">
-			<Text>May I suggest that we construct a government building to memorialize and strengthen our current government?[NEWLINE][NEWLINE]Each time we construct a new government building, we unlock a Legacy Policy based on our currently chosen government. These Legacy Policies are powerful reminders of our civic past that we can carry forward into future governments.</Text>
+			<Text>Tôi đề nghị chúng ta nên xây dựng một tòa nhà chính phủ để kỷ niệm và củng cố chính phủ hiện tại của chúng ta?[NEWLINE][NEWLINE]Mỗi lần chúng ta xây dựng tòa nhà chính phủ mới, sẽ mở khóa Chính sách Kế thừa dựa trên chính phủ hiện tại đang chọn của chúng ta. Các Chính sách Kế thừa này là những nhắc nhở mạnh mẽ về quá khứ của người dân chúng của chúng ta để chúng ta có thể chuyển tiếp sang các chính phủ khác trong tương lai.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TUTORIAL_GOV_DISTRICT_3">
-			<Text>Your National Bureau has unlocked a new policy.  Consider slotting it next time policies are unlocked.</Text>
+			<Text>Cục quốc gia của bạn đã mở khóa một chính sách mới. Xem xét việc lựa chọn các chính sách mới khi được mở khóa.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TUTORIAL_GOV_DISTRICT_3a">
-			<Text>Your National Court has unlocked a new policy.  Consider slotting it next time policies are unlocked.</Text>
+			<Text>Tòa án Quốc gia của bạn đã mở khóa một chính sách mới. Xem xét việc lựa chọn các chính sách mới khi được mở khóa.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TUTORIAL_GOV_DISTRICT_3b">
-			<Text>Completing our government building has unlocked a new policy. If we include it in our government, it could greatly help our people.</Text>
+			<Text>Hoàn thành việc xây dựng tòa nhà chính phủ của chúng ta để mở khóa các chính sách mới. Nếu chúng ta áp dụng vào chính phủ của chúng ta, nó có thể giúp ích rất nhiều cho người dân của chúng ta.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TUTORIAL_GOV_DISTRICT_3c">
-			<Text>Completing the construction of this building has inspired our policymakers! If we choose to institute this new policy in our government, it could greatly help our people.</Text>
+			<Text>Hoàn thành xây dựng tòa nhà này đã gây ảnh hưởng cho các nhà hoạch định chính sách của chúng ta! Nếu chúng ta chọn thiết lập chính sách mới này trong chính phủ của chúng ta, nó có thể giúp ích rất nhiều cho người dân của chúng ta.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TUTORIAL_LOYALTY_PRESSURE">
-			<Text>Settling a new city has expanded our civilization! With an empire larger than one city, it is important to keep an eye on the Loyalty of our citizens. If Loyalty decreases, the city is not as effective. If Loyalty drops to 0, the city will declare its independence and become a Free City. The same can happen to other civilizations, so keep an eye out for opportunities to destabilize others, and maybe even take a Free City into your own empire![NEWLINE][NEWLINE]Loyalty is mainly affected by the number and nationality of citizens in and near the city. Having lots of your own population within 9 tiles will improve your Loyalty each turn. Populations belonging to other civilizations within 9 tiles will decrease it. The closer cities are together, the greater the effect is. Furthermore, the effect is greatly strengthened for civilizations in Golden Ages, and weakened by Dark Ages.[NEWLINE][NEWLINE]Assigning a Governor to a city, and ensuring it has enough Amenities, are other ways to ensure the Loyalty of your own cities.</Text>
+			<Text>Bố trí một thành phố mới giúp mở rộng nền văn minh của chúng ta! Với một đế chế lớn hơn một thành phố, điều quan trọng là phải để mắt tới Lòng Trung thành của công dân chúng ta. Nếu Lòng Trung thành giảm, thành phố không có lợi ích gì. Nếu Lòng Trung thành giảm xuống 0, thành phố sẽ tuyên bố độc lập và trở thành một Thành phố Tự do. Điều tương tự này có thể xảy ra với các nền văn minh khác, vì vậy hãy để mắt tới cơ hội gây bất ổn cho người khác và thậm chí có thể giành lấy Thành phố Tự do vào đế chế của bạn![NEWLINE][NEWLINE]Lòng Trung thành chủ yếu bị ảnh hưởng bởi số lượng và quốc tịch của công dân ở trong và ở gần thành phố. Có rất nhiều dân cư của riêng bạn trong vòng 9 ô sẽ cải thiện Lòng Trung thành của bạn ở mỗi lượt. Các dân cư thuộc các nền văn minh khác trong phạm vi 9 ô sẽ làm giảm nó. Các thành phố ở gần nhau, thì hiệu quả càng lớn. Hơn nữa, hiệu quả này được củng cố mạnh mẽ cho nền văn minh trong Thời Vàng son, và yếu dần trong Thời Đen tối.[NEWLINE][NEWLINE]Chỉ định một Thống đốc cho một thành phố, và đảm bảo rằng ở đó có đủ Tiện Nghi, là những cách để đảm bảo Lòng Trung thành các thành phố của bạn.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_ADVISOR_CITYPANEL_LOYALTY_INTRO">
-			<Text>TO IMPROVE LOYALTY:</Text>
+			<Text>CẢI THIỆN LÒNG TRUNG THÀNH:</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_ADVISOR_CITYPANEL_MARTIAL_LAW">
-			<Text>[NEWLINE][NEWLINE]Keep a military unit here, to counteract the Occupation penalty</Text>
+			<Text>[NEWLINE][NEWLINE]Giữ một đơn vị quân đội ở đây, để chống lại hình phạt Chiếm đóng</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_ADVISOR_CITYPANEL_GOVERNOR">
-			<Text>[NEWLINE][NEWLINE]Establish a [ICON_Governor] Governor here</Text>
+			<Text>[NEWLINE][NEWLINE]Chỉ định một [ICON_Governor] Thống đốc ở đây</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_ADVISOR_CITYPANEL_AMBASSADOR">
-			<Text>[NEWLINE][NEWLINE]Establish a promoted Diplomat [ICON_Governor] Governor in a city within 9 tiles</Text>
+			<Text>[NEWLINE][NEWLINE]Chỉ định một [ICON_Governor] Thống đốc đã thăng cấp Ngoại giao cho một thành phố trong vòng 9 ô</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_ADVISOR_CITYPANEL_DARK_AGE">
-			<Text>[NEWLINE][NEWLINE]Avoid getting a Dark Age in the next game era, to make your [ICON_Citizen] Citizens provide more Loyalty</Text>
+			<Text>[NEWLINE][NEWLINE]Tránh xa Thời Đen tối trong thời đại tiếp theo của trò chơi, để cho các [ICON_Citizen] Công dân nhận thêm Lòng Trung thành</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_ADVISOR_CITYPANEL_GOLDEN_AGE">
-			<Text>[NEWLINE][NEWLINE]Earn a Golden Age in the next game era, making your [ICON_Citizen] Citizens provide more Loyalty</Text>
+			<Text>[NEWLINE][NEWLINE]Giành được Thời Vàng son trong thời đại tiếp theo của trò chơi, làm cho các [ICON_Citizen] Công dân của bạn thêm nhiều Lòng trung thành hơn</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_ADVISOR_CITYPANEL_CITY_PLACEMENT">
-			<Text>[NEWLINE][NEWLINE]Maximize your cities and [ICON_Citizen] Citizens within 9 tiles, and minimize foreign cities and [ICON_Citizen] Citizens within 9 tiles</Text>
+			<Text>[NEWLINE][NEWLINE]Tối đa các thành phố của bạn và các [ICON_Citizen] Công dân trong vòng 9 ô, giảm tối đa các thành phố nước ngoài và các [ICON_Citizen] Công dân như vậy trong vòng 9 ô</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_ADVISOR_CITYPANEL_CITY_HAPPINESS">
-			<Text>[NEWLINE][NEWLINE]Make your people more happy by increasing the [ICON_Amenities] Amenities in this city</Text>
+			<Text>[NEWLINE][NEWLINE]Làm cho người dân của bạn hạnh phúc hơn bằng cách tăng [ICON_Amenities] Tiện nghi trong thành phố này</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_ADVISOR_CITYPANEL_CITY_STARVATION">
-			<Text>[NEWLINE][NEWLINE]Provide more [ICON_Food] to prevent your people from starving</Text>
+			<Text>[NEWLINE][NEWLINE]Cung cấp thêm [ICON_Food] để ngăn người dân của bạn khỏi bị đói</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_ADVISOR_CITYPANEL_BREAD_AND_CIRCUSES">
-			<Text>[NEWLINE][NEWLINE]Have a nearby city produce the Bread and Circuses project</Text>
-		</Replace>
-		<Replace Language='en_US' Tag="LOC_ADVISOR_CITYPANEL_CULTURAL_ALLIANCE">
-			<Text>[NEWLINE][NEWLINE]Form a Cultural Alliance with a neighbor to prevent their [ICON_Citizen] Citizens from having a negative effect</Text>
+			<Text>[NEWLINE][NEWLINE]Có một thành phố gần đó thực hiện dự án Bánh mì và Rạp xiếc</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_ADVISOR_CITYPANEL_RELIGIOUS_FOLLOWERS">
-			<Text>[NEWLINE][NEWLINE]Have the [ICON_Citizen] Citizens of the city follow your religion.</Text>
+			<Text>[NEWLINE][NEWLINE]Có [ICON_Citizen] Công dân thành phố theo tôn giáo của bạn.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_ADVISOR_CITYPANEL_CULTURAL_ALLIANCE">
+			<Text>[NEWLINE][NEWLINE]Hình thành một Liên minh Văn hoá với một láng giềng để ngăn chặn [ICON_Citizen] Công dân của họ gây ảnh hưởng tiêu cực</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="ADVISOR_LINE_LISTENER_81">
-			<Text>Though our own people are quite skilled, we can always benefit by learning from others. Perhaps we should look into beginning a Research Alliance with one of our neighbors.</Text>
+			<Text>Mặc dù người của chúng ta khá giỏi, chúng ta luôn có thể hưởng lợi bằng cách học hỏi từ người khác. Có lẽ chúng ta nên xem xét việc bắt đầu một Liên minh nghiên cứu với một trong những người hàng xóm của chúng ta.</Text>
 		</Replace>
 	</LocalizedText>
 </GameData>

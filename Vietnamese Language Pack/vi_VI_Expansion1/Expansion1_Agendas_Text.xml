@@ -12,7 +12,7 @@
 			<Text>Sympathizer</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_AGENDA_UNKNOWN_NAME">
-			<Text>Unknown</Text>
+			<Text>Không xác định</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_AGENDA_GOSSIP_DESCRIPTION">
 			<Text>Muốn biết mọi thứ về mọi người thông qua tình bạn, biên giới mở, các phái đoàn và đại sứ quán. Không thích những nền văn minh không chia sẻ thông tin.</Text>
