@@ -164,9 +164,9 @@
 		<Replace Language='en_US' Tag="LOC_TRAIT_LEADER_LAUTARO_ABILITY_DESCRIPTION">
 			<Text>Nếu đơn vị của Mapuche đánh bại đơn vị kẻ địch trong biên giới thành phố của kẻ địch, thì thành phố đó sẽ mất 5 Lòng Trung thành.</Text>
 		</Replace>
-    <Replace Language='en_US' Tag="LOC_TRAIT_LEADER_LAUTARO_ABILITY_DESCRIPTION_ALT">
-      <Text>Nếu đơn vị của Mapuche đánh bại đơn vị kẻ địch trong biên giới thành phố của kẻ địch, thì thành phố đó sẽ mất 20 Lòng Trung thành.</Text>
-    </Replace>
+		<Replace Language='en_US' Tag="LOC_TRAIT_LEADER_LAUTARO_ABILITY_DESCRIPTION_ALT">
+			<Text>Nếu đơn vị của Mapuche đánh bại đơn vị kẻ địch trong biên giới thành phố của kẻ địch, thì thành phố đó sẽ mất 20 Lòng Trung thành.</Text>
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_IMPROVEMENT_CHEMAMULL_NAME">
 			<Text>Đền đá Chemamull</Text>
 		</Replace>
@@ -306,7 +306,7 @@
 			<Text>Doanh trại Ordu</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_BUILDING_ORDU_DESCRIPTION">
-			<Text>Công trình đặc biệt của Mông Cổ. Có khả năng cho phép +1 [ICON_MOVEMENT] Di chuyển cho Kỵ binh hạng Nặng và Kỵ binh hạng Nhẹ được đào tạo trong thành phố này. + 25% kinh nghiệm chiến đấu cho tất cả đơn vị kỵ binh được đào tạo trong thành phố này. Không được xây dựng trong quận đã có một Doanh trại.</Text>
+			<Text>Công trình đặc biệt của Mông Cổ. Có khả năng cho phép +1 [ICON_MOVEMENT] Di chuyển cho Kỵ binh hạng Nặng và Kỵ binh hạng Nhẹ được đào tạo trong thành phố này. +25% kinh nghiệm chiến đấu cho tất cả đơn vị kỵ binh được đào tạo trong thành phố này. Không được xây dựng trong quận đã có một Doanh trại.</Text>
 		</Replace>
 		<!-- Shaka Zulu -->
 		<Replace Language='en_US' Tag="LOC_CIVILIZATION_ZULU_NAME">

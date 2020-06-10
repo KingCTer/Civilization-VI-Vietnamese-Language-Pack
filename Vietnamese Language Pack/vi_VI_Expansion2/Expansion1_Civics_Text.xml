@@ -148,7 +148,7 @@
 			<Text>+100% kinh nghiệm chiến đấu cho tất cả các đơn vị.[NEWLINE]NHƯNG: +2 [ICON_Gold] Vàng để duy trì mỗi đơn vị quân đội.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_POLICY_COLLECTIVISM_DESCRIPTION">
-			<Text>Nông trại +1 [ICON_Food] Thực phẩm. Tất cả các thành phố +2 [ICON_Housing] Nhà ở. + 100% khi liền kề Khu Công nghiệp.[NEWLINE]NHƯNG: điểm [ICON_GreatPerson] Vĩ nhân kiếm được chậm 50%.</Text>
+			<Text>Nông trại +1 [ICON_Food] Thực phẩm. Tất cả các thành phố +2 [ICON_Housing] Nhà ở. +100% khi liền kề Khu Công nghiệp.[NEWLINE]NHƯNG: điểm [ICON_GreatPerson] Vĩ nhân kiếm được chậm 50%.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_POLICY_ROGUE_STATE_DESCRIPTION">
 			<Text>+50% [ICON_Production] Sản xuất cho các dự án chương trình hạt nhân và WMD.[NEWLINE]NHƯNG: Không có được các [ICON_Envoy] Phái đoàn.</Text>
@@ -166,7 +166,7 @@
 			<Text>Nhận 100 [ICON_Gold] Vàng mỗi lần kháng cáo khi thay thế Trang trại bằng khu vực lân cận.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_POLICY_ECOMMERCE_EXPANSION1_DESCRIPTION">
-			<Text>+2 [ICON_ sản xuất] Sản xuất và +5 [ICON_Gold] Vàng từ tất cả các [ICON_TradeRoute] Tuyến giao dịch.</Text>
+			<Text>+2 [ICON_Production] Sản xuất và +5 [ICON_Gold] Vàng từ tất cả các [ICON_TradeRoute] Tuyến giao dịch.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_POLICY_TOTAL_WAR_EXPANSION1_DESCRIPTION">
 			<Text>Sản lượng thu được từ các cuộc tấn công cướp bóc và ven biển là +100%. +50% phần thưởng từ việc cướp bóc [ICON_TradeRoute] Các tuyến giao dịch.</Text>

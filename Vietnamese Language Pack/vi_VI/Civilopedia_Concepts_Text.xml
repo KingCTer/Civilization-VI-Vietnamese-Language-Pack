@@ -915,7 +915,7 @@
 			<Text>Chính sách</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_PEDIA_CONCEPTS_PAGE_GOVT_2_CHAPTER_CONTENT_PARA_1">
-			<Text>Chính sách có hiệu ứng cụ thể cho trò chơi. Một số tăng thành phố của bạn Sản xuất [ICON_ sản xuất], trong khi những người khác tạo ra sự giàu có hơn, và những người khác giúp tạo ra một quân đội hiệu quả hơn. Không có lựa chọn chính sách đúng hay sai trong trò chơi và một chính sách có thể tốt hơn cho một trường hợp cụ thể so với trường hợp khác hoặc phù hợp hơn với phong cách chơi cá nhân của bạn. Hãy thử chúng và xem.  </Text>
+			<Text>Chính sách có hiệu ứng cụ thể cho trò chơi. Một số tăng thành phố của bạn Sản xuất [ICON_Production], trong khi những người khác tạo ra sự giàu có hơn, và những người khác giúp tạo ra một quân đội hiệu quả hơn. Không có lựa chọn chính sách đúng hay sai trong trò chơi và một chính sách có thể tốt hơn cho một trường hợp cụ thể so với trường hợp khác hoặc phù hợp hơn với phong cách chơi cá nhân của bạn. Hãy thử chúng và xem.  </Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_PEDIA_CONCEPTS_PAGE_GOVT_2_CHAPTER_CONTENT_PARA_2">
 			<Text>Có 6 loại chính sách, mỗi loại chính sách có thể được đưa vào một vị trí tương ứng trong một chính phủ nhất định. Phân bổ các chính sách riêng lẻ này sẽ cung cấp cho bạn những lợi ích được mô tả và nâng cao trò chơi của bạn.  </Text>

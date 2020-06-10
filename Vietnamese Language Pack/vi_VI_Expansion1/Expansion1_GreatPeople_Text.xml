@@ -34,7 +34,7 @@
 			<Text>Timur</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_GREATPERSON_TIMUR_ACTIVE">
-			<Text>Tăng thêm 1 cấp độ kỹ năng và + 25% kinh nghiệm chiến đấu cho một đơn vị mặt đất.</Text>
+			<Text>Tăng thêm 1 cấp độ kỹ năng và +25% kinh nghiệm chiến đấu cho một đơn vị mặt đất.</Text>
 		</Replace>
 		<!-- Merchants -->
 		<Replace Language='en_US' Tag="LOC_GREATPERSON_GOVERNOR_POINTS">

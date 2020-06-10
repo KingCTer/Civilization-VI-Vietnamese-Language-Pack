@@ -236,13 +236,13 @@
 			<Text>Thưởng Áp lực Tôn giáo trong các thành phố không có ai theo Tôn giáo đồng minh của bạn</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_ALLIANCE_LV3_RESEARCH_EFFECT_1">
-			<Text>Bạn nhận được + 10% [ICON_SCIENCE] khoa học từ đồng minh của bạn khi bạn hoặc đồng minh của bạn đang nghiên cứu công nghệ mà người kia đã hoàn thành, hoặc đang nghiên cứu công nghệ tương tự</Text>
+			<Text>Bạn nhận được +10% [ICON_SCIENCE] khoa học từ đồng minh của bạn khi bạn hoặc đồng minh của bạn đang nghiên cứu công nghệ mà người kia đã hoàn thành, hoặc đang nghiên cứu công nghệ tương tự</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_ALLIANCE_LV3_CULTURAL_EFFECT_1">
-			<Text>Bạn nhận được + 20% [ICON_Tourism] Du lịch từ đồng minh của bạn từ các Thành phố</Text>
+			<Text>Bạn nhận được +20% [ICON_Tourism] Du lịch từ đồng minh của bạn từ các Thành phố</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_ALLIANCE_LV3_CULTURAL_EFFECT_2">
-			<Text>Bạn nhận được + 10% [ICON_Culture] Văn hóa từ đồng minh của bạn từ các Thành phố</Text>
+			<Text>Bạn nhận được +10% [ICON_Culture] Văn hóa từ đồng minh của bạn từ các Thành phố</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_ALLIANCE_LV3_ECONOMIC_EFFECT">
 			<Text>Chia sẻ các khoản thưởng Bá chủ với đồng minh của bạn</Text>
@@ -624,7 +624,7 @@
 			<Text>Nhà sáng chế</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_GOVERNOR_PROMOTION_RESOURCE_MANAGER_GROUNDBREAKER_DESCRIPTION">
-			<Text>+ 100% lợi ích từ việc thu hoạch và di dời các di sản trong thành phố.</Text>
+			<Text>+100% lợi ích từ việc thu hoạch và di dời các di sản trong thành phố.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_GOVERNOR_PROMOTION_RESOURCE_MANAGER_SURPLUS_LOGISTICS_NAME">
 			<Text>Hậu cần Thặng dư</Text>
@@ -958,7 +958,7 @@
 		<Replace Language='en_US' Tag="LOC_CULTURAL_IDENTITY_PER_TURN_FREE_CITIES">
 			<Text>Mong muốn độc lập</Text>
 		</Replace>
-    <Replace Language='en_US' Tag="LOC_CULTURAL_IDENTITY_PER_TURN_NEARBY_CITIZEN_PRESSURE">
+		<Replace Language='en_US' Tag="LOC_CULTURAL_IDENTITY_PER_TURN_NEARBY_CITIZEN_PRESSURE">
 			<Text>Áp lực từ các [ICON_Citizen] Công dân gần đó</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CULTURAL_IDENTITY_PER_TURN_NEARBY_OWNED_CITIES">
@@ -1261,18 +1261,18 @@
 		<Replace Language='en_US' Tag="LOC_EMERGENCY_PENDING_SHORT_DESCRIPTION">
 			<Text>ĐANG CHỜ XỬ LÝ: ĐỒNG Ý HOẶC TỪ CHỐI</Text>
 		</Replace>
-    <Replace Language='en_US' Tag="LOC_EMERGENCY_COMPLETE_MEMBERS_WIN">
-      <Text>Các Thành viên Chiến thắng</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_EMERGENCY_COMPLETE_TARGET_WIN">
-      <Text>Mục tiêu Chiến thắng</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_EMERGENCY_MEMBER_GOLD_REWARD">
-      <Text>Các nền văn minh thành viên phân chia [ICON_Gold] {1_Amount} Vàng.</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_EMERGENCY_TARGET_GOLD_REWARD">
-      <Text>Mục tiêu nhận được [ICON_Gold] {1_Amount} Vàng mỗi Thành viên</Text>
-    </Replace>
+		<Replace Language='en_US' Tag="LOC_EMERGENCY_COMPLETE_MEMBERS_WIN">
+			<Text>Các Thành viên Chiến thắng</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_EMERGENCY_COMPLETE_TARGET_WIN">
+			<Text>Mục tiêu Chiến thắng</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_EMERGENCY_MEMBER_GOLD_REWARD">
+			<Text>Các nền văn minh thành viên phân chia [ICON_Gold] {1_Amount} Vàng.</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_EMERGENCY_TARGET_GOLD_REWARD">
+			<Text>Mục tiêu nhận được [ICON_Gold] {1_Amount} Vàng mỗi Thành viên</Text>
+		</Replace>
 		<!-- |||||||||  Goal Specific                                                   ||||||||||||| -->
 		<!-- |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| -->
 		<Replace Language='en_US' Tag="LOC_EMERGENCY_GOAL_TENTATIVE_CAPTURE_CITIES">
@@ -1649,19 +1649,19 @@
 		<Replace Language='en_US' Tag="LOC_CULTURAL_IDENTITY_INDEPENDENCE_PRESSURE_TOOLTIP">
 			<Text>Mong muốn độc lập</Text>
 		</Replace>
-    <Replace Language='en_US' Tag="LOC_CULTURAL_IDENTITY_HAPPINESS_PRESSURE_TOOLTIP">
-      <Text>Cấp độ Hạnh phúc</Text>
-    </Replace>
+		<Replace Language='en_US' Tag="LOC_CULTURAL_IDENTITY_HAPPINESS_PRESSURE_TOOLTIP">
+			<Text>Cấp độ Hạnh phúc</Text>
+		</Replace>
 		<Replace Language='en_US' Tag="LOC_CULTURAL_IDENTITY_OTHER_PRESSURE_TOOLTIP">
 			<Text>Các ảnh hưởng khác ở đây</Text>
 		</Replace>
-    <Replace Language='en_US' Tag="LOC_CULTURAL_IDENTITY_CITY_STATES_PRESSURE_TOOLTIP">
-      <Text>Sức mạnh cơ bản của Thành phố-Tự trị</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_CULTURAL_IDENTITY_FREE_CITIES_PRESSURE_TOOLTIP">
-      <Text>Sức mạnh cơ bản của Thành phố Tự do</Text>
-    </Replace>
-    <Replace Language='en_US' Tag="LOC_CULTURAL_IDENTITY_POPULATION_PRESSURE_TOOLTIP">
+		<Replace Language='en_US' Tag="LOC_CULTURAL_IDENTITY_CITY_STATES_PRESSURE_TOOLTIP">
+			<Text>Sức mạnh cơ bản của Thành phố-Tự trị</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CULTURAL_IDENTITY_FREE_CITIES_PRESSURE_TOOLTIP">
+			<Text>Sức mạnh cơ bản của Thành phố Tự do</Text>
+		</Replace>
+		<Replace Language='en_US' Tag="LOC_CULTURAL_IDENTITY_POPULATION_PRESSURE_TOOLTIP">
 			<Text>Áp lực từ các [ICON_Citizen] Công dân gần đó</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CULTURAL_IDENTITY_POPULATION_PRESSURE_TOOLTIP_MAJOR_CIVS">

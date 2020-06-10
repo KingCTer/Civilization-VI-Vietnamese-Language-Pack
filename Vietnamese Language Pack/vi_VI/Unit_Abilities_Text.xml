@@ -362,7 +362,7 @@
 			<Text>Cung cấp phòng thủ từ các cuộc tấn công trên không lên đến 1 hex.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_PREVIEW_MONTEZUMA_COMBAT_BONUS_PER_LUXURY_DESCRIPTION">
-			<Text>+{1_Amount} [ICON_Sturdy] Sức mạnh chiến đấu từ xa xỉ. (Montezuma)</Text>
+			<Text>+{1_Amount} [ICON_Strength] Sức mạnh chiến đấu từ xa xỉ. (Montezuma)</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_ABILITY_PHILIP_II_COMBAT_BONUS_OTHER_RELIGION_DESCRIPTION">
 			<Text>+4 [ICON_Strength] Sức mạnh chiến đấu so với các đơn vị của một tôn giáo khác. (Philip II)</Text>

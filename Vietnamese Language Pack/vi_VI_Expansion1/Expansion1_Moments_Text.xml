@@ -1171,7 +1171,7 @@
 			<Text>Bầu trời và các Ngôi sao</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_MOMENT_CATEGORY_AERONAUTICAL_BONUS_GOLDEN_AGE">
-			<Text>Bầu trời và các Ngôi sao Thời Vàng son:[NEWLINE]Mở khóa [ICON_TechBoosted] Eureka cho Chuyến bay Tiên tiến, Phân rã Hạt nhân, và Tên lửa học nếu ở Thời đại Nguyên tử. Nếu trong Thời đại Thông tin một Eureka cho Vệ tinh, Người máy, Phân rã Hạt nhân và Công nghệ Nano được mở khóa. + 100% Kinh nghiệm cho tất cả các Đơn vị trên Không.</Text>
+			<Text>Bầu trời và các Ngôi sao Thời Vàng son:[NEWLINE]Mở khóa [ICON_TechBoosted] Eureka cho Chuyến bay Tiên tiến, Phân rã Hạt nhân, và Tên lửa học nếu ở Thời đại Nguyên tử. Nếu trong Thời đại Thông tin một Eureka cho Vệ tinh, Người máy, Phân rã Hạt nhân và Công nghệ Nano được mở khóa. +100% Kinh nghiệm cho tất cả các Đơn vị trên Không.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_MOMENT_CATEGORY_AERONAUTICAL_BONUS_NORMAL_AGE">
 			<Text>Thưởng cống hiến Bầu trời và các Ngôi sao:[NEWLINE]Tăng +1 Điểm Thời đại cho mỗi Sân bay nhỏ được xây dựng. Tăng +1 Điểm Thời đại cho mỗi [ICON_GreatPerson] Vĩ nhân có được.</Text>
@@ -1291,7 +1291,7 @@
 			<Text>Ước gì Bạn ở Đây</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_MOMENT_CATEGORY_TOURISM_BONUS_GOLDEN_AGE">
-			<Text>Ước gì Bạn ở Đây Thời Vàng son:[NEWLINE]Các thành phố với [ICON_Governor] Thống đốc nhận được +50% [ICON_Tourism] Du lịch từ Kỳ quan Thế giới. + 00% [ICON_Tourism] Du lịch cho tất cả các Công viên Quốc gia.</Text>
+			<Text>Ước gì Bạn ở Đây Thời Vàng son:[NEWLINE]Các thành phố với [ICON_Governor] Thống đốc nhận được +50% [ICON_Tourism] Du lịch từ Kỳ quan Thế giới. +00% [ICON_Tourism] Du lịch cho tất cả các Công viên Quốc gia.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_MOMENT_CATEGORY_TOURISM_BONUS_NORMAL_AGE">
 			<Text>Thưởng cống hiến Ước gì Bạn ở Đây:[NEWLINE]Tăng +1 Điểm Thời đại mỗi Cổ vật được khai quật.</Text>

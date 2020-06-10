@@ -3,146 +3,146 @@
 <GameData>
 	<LocalizedText>
 		<Replace Language='en_US' Tag="LOC_EXPANSION2_NAME">
-			<Text>Bản mở rộng: Gathering Storm</Text>
+			<Text>Bản mở rộng: Cơn bão ập đến</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_EXPANSION2_DESCRIPTION">
-			<Text>Đây là một trò chơi sử dụng Bản mở rộng Gathering Storm, bao gồm Đại hội thế giới, các tác động và thảm họa môi trường, sức mạnh, v.v. Bạn có thể đối phó với sự khó lường của một thế giới đang thay đổi để tạo nên một nền văn minh sẽ đứng trước thử thách của thời gian?</Text>
+			<Text>Đây là một trò chơi sử dụng Bản mở rộng Cơn bão ập đến, bao gồm Đại hội thế giới, các tác động và thảm họa môi trường, sức mạnh, v.v. Bạn có thể đối phó với sự khó lường của một thế giới đang thay đổi để tạo nên một nền văn minh sẽ đứng trước thử thách của thời gian?</Text>
 		</Replace>
 		<!-- Setup Parameters -->
 		<Replace Language='en_US' Tag="LOC_GAME_REALISM">
-			<Text>Disaster Intensity</Text>
+			<Text>Cường độ thiên tai</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_GAME_REALISM_DESCRIPTION">
-			<Text>Set natural disaster intensity. Choose from a setting of 0 (less frequent and intense natural disasters) to 4 (frequent and intense natural disasters). Note that on settings of 3 and 4, severe volcanic eruptions may damage tiles two hexes away.</Text>
+			<Text>Đặt cường độ thiên tai. Chọn từ cài đặt từ 0 (thiên tai ít thường xuyên hơn và dữ dội hơn) đến 4 (thiên tai thường xuyên và dữ dội). Lưu ý rằng trên các cài đặt của 3 và 4, các vụ phun trào núi lửa nghiêm trọng có thể làm hỏng gạch hai hình lục giác.</Text>
 		</Replace>
 		<!-- Front End-->
 		<Replace Language='en_US' Tag="LOC_VICTORY_DIPLOMATIC_NAME">
-			<Text>Diplomatic Victory</Text>
+			<Text>Chiến thắng ngoại giao</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_VICTORY_DIPLOMATIC_TT">
-			<Text>You show the world that cooperation among nations is the only way to a lasting and just peace. Earn this victory through respect and the World Congress.</Text>
+			<Text>Bạn cho thế giới thấy rằng hợp tác giữa các quốc gia là cách duy nhất để hòa bình lâu dài và chính đáng. Kiếm được chiến thắng này thông qua sự tôn trọng và Đại hội Thế giới.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_VICTORY_DIPLOMATIC_TEXT">
-			<Text>Harmony and peace replace war and violence. The differences and disagreements between people can always be resolved through goodwill. With conflict behind us, what glories will our shared future hold?</Text>
+			<Text>Hòa bình và hòa bình thay thế chiến tranh và bạo lực. Sự khác biệt và bất đồng giữa mọi người luôn có thể được giải quyết thông qua thiện chí. Với xung đột đằng sau chúng ta, những vinh quang nào chúng ta sẽ giữ trong tương lai?</Text>
 		</Replace>
 		<!-- New Maps  -->
 		<Replace Language='en_US' Tag="LOC_MAP_CONTINENTS_ISLANDS_NAME">
-			<Text>Continents and Islands</Text>
+			<Text>Châu lục và hải đảo</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_MAP_PRIMORDIAL_NAME">
-			<Text>Primordial</Text>
+			<Text>Nguyên thủy</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_MAP_SPLINTERED_FRACTAL_NAME">
 			<Text>Splintered Fractal</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_MAP_TILTED_AXIS_NAME">
-			<Text>Tilted Axis</Text>
+			<Text>Trục nghiêng</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_MAP_CONTINENTS_ISLANDS_DESCRIPTION">
-			<Text>A few large landmasses surrounded by islands.</Text>
+			<Text>Một vài vùng đất rộng lớn được bao quanh bởi các hòn đảo.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_MAP_PRIMORDIAL_DESCRIPTION">
-			<Text>A map from early time with unpredictable continents and islands. More volatile conditions exist with extra coastal lowlands and volcanoes.</Text>
+			<Text>Một bản đồ từ thời gian đầu với các lục địa và hải đảo không thể đoán trước. Điều kiện dễ bay hơi hơn tồn tại với các vùng đất thấp ven biển và núi lửa.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_MAP_SPLINTERED_FRACTAL_DESCRIPTION">
-			<Text>A highly random map that will often form thin, snaky continents and islands.</Text>
+			<Text>Một bản đồ rất ngẫu nhiên thường sẽ hình thành các lục địa và hải đảo mỏng manh.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_MAP_TILTED_AXIS_DESCRIPTION">
-			<Text>A polar centered continents map.</Text>
+			<Text>Một bản đồ lục địa trung tâm cực.</Text>
 		</Replace>
 		<!--America-->
 		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_FOUNDING_FATHERS_EXPANSION2_DESCRIPTION">
-			<Text>All Diplomatic policy slots in the current government are converted to Wildcard slots. +1 [ICON_FAVOR] Diplomatic Favor per turn for every Wildcard slot in their government.</Text>
+			<Text>Tất cả các vị trí chính sách Ngoại giao trong chính phủ hiện tại được chuyển đổi thành các vị trí Wildcard. +1 [ICON_FAVOR] Ưu đãi ngoại giao mỗi lượt cho mỗi vị trí Wildcard trong chính phủ của họ.</Text>
 		</Replace>
 		<!--Canada-->
 		<Replace Language='en_US' Tag="LOC_CIVILIZATION_CANADA_NAME">
 			<Text>Canada</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVILIZATION_CANADA_ADJECTIVE">
-			<Text>Canadian</Text>
+			<Text>Người Canada</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVILIZATION_CANADA_DESCRIPTION">
-			<Text>Canadian Empire</Text>
+			<Text>Đế quốc Canada</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_LEADER_LAURIER_NAME">
 			<Text>Wilfrid Laurier</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_IMPROVEMENT_ICE_HOCKEY_RINK_NAME">
-			<Text>Ice Hockey Rink</Text>
+			<Text>Sân khúc côn cầu trên băng</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_IMPROVEMENT_ICE_HOCKEY_RINK_DESCRIPTION">
-			<Text>Unlocks the Builder ability to construct an Ice Hockey Rink, unique to Canada.[NEWLINE][NEWLINE]+1 [ICON_AMENITIES] Amenity. +1 [ICON_CULTURE] Culture for each adjacent Tundra, Tundra Hills, Snow, and Snow Hills tile. Provides [ICON_Tourism] Tourism from Culture once Flight is unlocked. +2 [ICON_FOOD] Food and [ICON_PRODUCTION] Production once the Professional Sports civic is unlocked. +4 [ICON_CULTURE] Culture if adjacent to a Stadium building. Can be built on Tundra, Tundra Hills, Snow, and Snow Hills. One per city. +2 Appeal.</Text>
+			<Text>Mở khóa khả năng Xây dựng để xây dựng một Sân khúc côn cầu trên băng, duy nhất ở Canada.[NEWLINE][NEWLINE]+1 [ICON_AMENITIES] Tiện nghi. +1 [ICON_CULTURE] Văn hóa cho mỗi liền kề Lãnh nguyên, Đồi Lãnh nguyên, Tuyết, và đồi tuyết. Cung cấp [ICON_Tourism] Du lịch từ Văn hóa một khi chuyến bay được mở khóa. +2 [ICON_FOOD] Thực phẩm và [ICON_PRODUCTION] Sản xuất một khi công dân thể thao chuyên nghiệp được mở khóa. +4 [ICON_CULTURE] Văn hóa nếu liền kề một tòa nhà Sân vận động. Có thể được xây dựng trên Lãnh nguyên, Đồi Lãnh nguyên, Tuyết và Đồi tuyết. Một cho mỗi thành phố. +2 Kháng cáo.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_FACES_OF_PEACE_NAME">
-			<Text>Four Faces of Peace</Text>
+			<Text>Bốn mặt của hòa bình</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_FACES_OF_PEACE_DESCRIPTION">
-			<Text>Cannot declare war on City-States or surprise wars. Surprise wars cannot be declared on Canada. For every 100 [ICON_TOURISM] Tourism per turn earn 1 [ICON_Favor] Diplomatic Favor per turn. Receive +100% [ICON_Favor] Diplomatic Favor from successfully completing an Emergency or Scored Competition.</Text>
+			<Text>Không thể tuyên chiến với Thành phố Tự trị Hoa Kỳ hoặc chiến tranh bất ngờ. Chiến tranh bất ngờ không thể được tuyên bố trên Canada. Cứ 100 [ICON_TOURISM] Du lịch mỗi lượt kiếm được 1 [ICON_Favor] Ưu đãi ngoại giao mỗi lượt. Nhận +100% [ICON_Favor] Ưu đãi ngoại giao khi hoàn thành thành công Cuộc thi khẩn cấp hoặc được chấm điểm.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TRAIT_LEADER_LAST_BEST_WEST_NAME">
-			<Text>The Last Best West</Text>
+			<Text>Phương Tây tốt nhất</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TRAIT_LEADER_LAST_BEST_WEST_DESCRIPTION">
-			<Text>Allows Farms to be built on Tundra terrain. After Civil Engineering is unlocked Farms can be built on Tundra Hills. In Snow, Tundra, Snow Hills, and Tundra Hills all Mines provide +1 [ICON_PRODUCTION] Production, Lumber Mills provide +1 [ICON_PRODUCTION] Production, Camps provide +1 [ICON_FOOD] Food, and strategic resource accumulation rate is +100%. Reduces the purchase cost of tiles in these terrain types by 50%.</Text>
+			<Text>Cho phép các trang trại được xây dựng trên địa hình Tundra. Sau khi Civil Engineering được mở khóa, các trang trại có thể được xây dựng trên Tundra Hills. Trong Snow, Tundra, Snow Hills và Tundra Hills, tất cả các Mỏ đều cung cấp +1 [ICON_PRODUCTION] Sản xuất, Lumber Mills cung cấp +1 [ICON_PRODUCTION] Sản xuất, Trại cung cấp +1 [ICON_FOOD] Thực phẩm và tỷ lệ tích lũy tài nguyên chiến lược là +100%. Giảm 50% chi phí mua gạch ở các loại địa hình này.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_UNIT_CANADA_MOUNTIE_NAME">
-			<Text>Mountie</Text>
+			<Text>Núi</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_UNIT_CANADA_MOUNTIE_DESCRIPTION">
-			<Text>Canadian unique Modern era unit. Can create a National Park. +5 [ICON_Strength] Combat Strength when fighting within 2 tiles of a National Park. Additional +5 [ICON_Strength] Combat Strength when fighting within 2 tiles of a National Park you own.</Text>
+			<Text>Canada đơn vị thời hiện đại độc đáo. Có thể tạo một công viên quốc gia. +5 [ICON_Strength] Sức mạnh chiến đấu khi chiến đấu trong vòng 2 ô của Công viên Quốc gia. Bổ sung +5 [ICON_Strength] Sức mạnh chiến đấu khi chiến đấu trong vòng 2 ô của Công viên quốc gia mà bạn sở hữu.</Text>
 		</Replace>
 		<!--England-->
 		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_INDUSTRIAL_REVOLUTION_NAME">
-			<Text>Workshop of the World</Text>
+			<Text>Hội thảo của thế giới</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_INDUSTRIAL_REVOLUTION_DESCRIPTION">
-			<Text>Iron and Coal Mines accumulate 2 more resources per turn. +100% [ICON_PRODUCTION] Production towards Military Engineers. Military Engineers receive +2 charges. Buildings that provide additional yields when [ICON_POWER] Powered receive +4 of that yield. +20% [ICON_PRODUCTION] Production towards Industrial Zone buildings. Harbor buildings increase Strategic Resource Stockpiles by +10 on Standard Speed.</Text>
+			<Text>Mỏ sắt và than tích lũy thêm 2 tài nguyên mỗi lượt. +100% [ICON_PRODUCTION] Sản xuất cho Kỹ sư quân sự. Kỹ sư quân sự nhận được +2 phí. Các tòa nhà cung cấp năng suất bổ sung khi [ICON_POWER] Được cung cấp nhận được +4 sản lượng đó. +20% [ICON_PRODUCTION] Sản xuất đối với các tòa nhà Khu công nghiệp. Các tòa nhà cảng tăng Kho dự trữ tài nguyên chiến lược thêm +10 trên Tốc độ tiêu chuẩn.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_PAX_BRITANNICA_EXPANSION2_DESCRIPTION">
-			<Text>Each time you found your first city on a continent other than your home continent receive a free melee unit and a [ICON_TradeRoute] Trade Route capacity. Constructing any Royal Navy Dockyard grants you a copy of the strongest naval unit you can build. Gain the Redcoat unique unit when the Military Science technology is researched.</Text>
+			<Text>Mỗi lần bạn tìm thấy thành phố đầu tiên của mình trên lục địa khác ngoài lục địa nhà bạn sẽ nhận được một đơn vị cận chiến miễn phí và công suất [ICON_TradeRoute] Tuyến đường thương mại. Xây dựng bất kỳ Xưởng hải quân Hoàng gia nào cấp cho bạn một bản sao của đơn vị hải quân mạnh nhất mà bạn có thể xây dựng. Có được đơn vị độc nhất Redcoat khi nghiên cứu công nghệ Khoa học quân sự.</Text>
 		</Replace>
 		<!--Egypt-->
 		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_ITERU_EXPANSION2_DESCRIPTION">
-			<Text>+15% [ICON_Production] Production towards districts and wonders if placed next to a River. Does not receive damage from Floods.</Text>
+			<Text>+15% [ICON_Production] Sản xuất theo hướng đặc khu và kỳ quan nếu được đặt cạnh sông. Không nhận được thiệt hại từ lũ lụt.</Text>
 		</Replace>
 		<!--Eleanor-->
 		<Replace Language='en_US' Tag="LOC_LEADER_ELEANOR_NAME">
-			<Text>Eleanor of Aquitaine</Text>
+			<Text>Eleanor của Aquitaine</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TRAIT_LEADER_ELEANOR_LOYALTY_NAME">
-			<Text>Court of Love</Text>
+			<Text>Tòa án tình yêu</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TRAIT_LEADER_ELEANOR_LOYALTY_DESCRIPTION">
-			<Text>Great Works in Eleanor’s cities each cause -1 Loyalty per turn in foreign cities within 9 tiles. A city that leaves another civilization due to a loss of Loyalty and is currently receiving the most Loyalty per turn from Eleanor's civilization skips the Free City step to join this civilization.</Text>
+			<Text>Mỗi công trình lớn ở các thành phố Eleanor, mỗi lần gây ra -1 Mức độ trung thành mỗi lượt ở các thành phố nước ngoài trong 9 ô. Một thành phố để lại một nền văn minh khác do mất lòng trung thành và hiện đang nhận được nhiều sự trung thành nhất mỗi lượt từ nền văn minh của Eleanor bỏ qua bước Thành phố Tự do để gia nhập nền văn minh này.</Text>
 		</Replace>
 		<!--Georgia-->
 		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_GOLDEN_AGE_QUESTS_EXPANSION2_DESCRIPTION">
-			<Text>When making Dedications at the beginning of a Golden Age or Heroic Age, receive the Normal Age bonus towards improving Era Score in addition to the other bonus. +50% [ICON_Production] Production towards defensive buildings.</Text>
+			<Text>Khi thực hiện Khấu trừ khi bắt đầu Thời đại hoàng kim hoặc Thời đại anh hùng, hãy nhận phần thưởng Tuổi bình thường để cải thiện Điểm kỷ nguyên bên cạnh phần thưởng khác. +50% [ICON_Production] Sản xuất đối với các tòa nhà phòng thủ.</Text>
 		</Replace>
 		<!--Hungary-->
 		<Replace Language='en_US' Tag="LOC_CIVILIZATION_HUNGARY_NAME">
 			<Text>Hungary</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVILIZATION_HUNGARY_ADJECTIVE">
-			<Text>Hungarian</Text>
+			<Text>Người Hungary</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_CIVILIZATION_HUNGARY_DESCRIPTION">
-			<Text>Hungarian Empire</Text>
+			<Text>Đế quốc Hungary</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_LEADER_MATTHIAS_CORVINUS_NAME">
 			<Text>Matthias Corvinus</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_BUILDING_THERMAL_BATH_NAME">
-			<Text>Thermal Bath</Text>
+			<Text>Tắm nhiệt</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_BUILDING_THERMAL_BATH_DESCRIPTION">
-			<Text>A building unique to Hungary. +2 [ICON_AMENITIES] Amenities and +2 [ICON_PRODUCTION] Production extends to each city center within 6 tiles. These bonuses apply once to a city, and multiple copies of this building within 6 tiles of a city center do not provide additional bonuses.[NEWLINE][NEWLINE]This city receives +3 [ICON_TOURISM] Tourism and +2 additional [ICON_AMENITIES] Amenities if there is at least one Geothermal Fissure in this city's borders.</Text>
+			<Text>Một tòa nhà độc đáo của Hungary. +2 [ICON_AMENITIES] Tiện nghi và +2 [ICON_PRODUCTION] Sản xuất mở rộng đến mỗi trung tâm thành phố trong vòng 6 ô. Ttiền thưởng hese áp dụng một lần cho một thành phố và nhiều bản sao của tòa nhà này trong 6 ô của trung tâm thành phố không cung cấp thêm tiền thưởng.[NEWLINE][NEWLINE]Thành phố này nhận được +3 [ICON_TOURISM] Du lịch và +2 [ICON_AMENITIES] Tiện nghi nếu có ít nhất một Khe nứt địa nhiệt ở biên giới thành phố này.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_PEARL_DANUBE_NAME">
-			<Text>Pearl of the Danube</Text>
+			<Text>Hòn ngọc sông Danube</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TRAIT_CIVILIZATION_PEARL_DANUBE_DESCRIPTION">
-			<Text>+50% [ICON_PRODUCTION] Production to Districts and Buildings constructed across a river from a City Center.</Text>
+			<Text>+50% [ICON_PRODITH] Sản xuất cho các Quận và Tòa nhà được xây dựng qua sông từ Trung tâm Thành phố.</Text>
 		</Replace>
 		<Replace Language='en_US' Tag="LOC_TRAIT_LEADER_RAVEN_KING_NAME">
 			<Text>Raven King</Text>
